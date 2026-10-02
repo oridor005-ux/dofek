@@ -1,24 +1,41 @@
 // מקורות המידע של "דופק".
-// topic: הנושא שאליו הפריטים ישויכו. אם אין topic — הסיווג נעשה לפי מילות מפתח.
-// כדי להוסיף מקור: מוסיפים שורה. כדי להוסיף חיפוש: מוסיפים שורה ל-googleQueries.
+// topic: הנושא שאליו הפריטים ישויכו. בלי topic הסיווג נעשה לפי מילות מפתח.
+// fallback: נושא ברירת מחדל למקור שרוצים לראות ממנו הכל (גם אם אין התאמה למילות מפתח).
+// להוספת מקור: מוסיפים שורה ל-directFeeds. להוספת חיפוש: מוסיפים שורה ל-googleQueries.
 
 export const TOPICS = {
-  econ:      { label: 'כלכלה ושוק ההון' },
-  demo:      { label: 'דמוגרפיה וחברה' },
-  deals:     { label: 'עסקאות והייטק' },
-  research:  { label: 'מחקרים ודוחות' },
-  knesset:   { label: 'הכנסת' },
-  laws:      { label: 'חוקים חדשים' },
-  factcheck: { label: 'נאמר מול המציאות' },
+  econ:         { label: 'כלכלה ושוק ההון' },
+  demo:         { label: 'דמוגרפיה וחברה' },
+  deals:        { label: 'עסקאות והייטק' },
+  research:     { label: 'מחקרים ודוחות' },
+  knesset:      { label: 'הכנסת והממשל' },
+  laws:         { label: 'חוקים חדשים' },
+  factcheck:    { label: 'נאמר מול המציאות' },
+  israelAbroad: { label: 'ישראל בעולם' },
+  defense:      { label: 'עסקאות ביטחוניות' },
+  world:        { label: 'ממשל בעולם' },
 };
 
-// פידים ישירים (נבדקו ועובדים)
+// פידים ישירים
 export const directFeeds = [
+  // ישראל
   { name: 'גלובס', url: 'https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2' },
   { name: 'ynet כלכלה', url: 'https://www.ynet.co.il/Integration/StoryRss6.xml', topic: 'econ' },
+  { name: 'שקוף', url: 'https://shakuf.co.il/feed', fallback: 'knesset' },
+  { name: 'העין השביעית', url: 'https://www.the7eye.org.il/feed', fallback: 'knesset' },
+  { name: 'Times of Israel', url: 'https://www.timesofisrael.com/feed/' },
+  // עולם
+  { name: 'Wall Street Journal', url: 'https://feeds.content.dowjones.io/public/rss/RSSWorldNews' },
+  { name: 'Wall Street Journal', url: 'https://feeds.content.dowjones.io/public/rss/socialeconomyfeed' },
+  { name: 'New York Times', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml' },
+  { name: 'New York Times', url: 'https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml' },
+  { name: 'New York Times', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml' },
+  { name: 'BBC', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
+  { name: 'The Guardian', url: 'https://www.theguardian.com/world/israel/rss', topic: 'israelAbroad' },
+  { name: 'Defense News', url: 'https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml' },
 ];
 
-// חיפושים ב-Google News (ישראל, עברית, 24 השעות האחרונות)
+// חיפושים ב-Google News (24 השעות האחרונות). lang: 'en' = חיפוש בחדשות בעולם באנגלית
 export const googleQueries = [
   // כלכלה
   { q: 'בנק ישראל ריבית', topic: 'econ' },
@@ -42,27 +59,51 @@ export const googleQueries = [
   { q: 'מכון אהרן למדיניות כלכלית', topic: 'research' },
   { q: 'דוח מבקר המדינה', topic: 'research' },
   { q: 'OECD ישראל דוח', topic: 'research' },
-  // הכנסת
+  // הכנסת והממשל
   { q: 'חבר הכנסת אמר', topic: 'knesset' },
   { q: 'ועדת הכספים של הכנסת', topic: 'knesset' },
   { q: 'מליאת הכנסת', topic: 'knesset' },
+  { q: 'site:shakuf.co.il', topic: 'knesset' },
+  { q: 'site:the7eye.org.il', topic: 'knesset' },
   // חוקים
   { q: '"בקריאה שלישית"', topic: 'laws' },
   { q: '"בקריאה ראשונה" הצעת חוק', topic: 'laws' },
   { q: 'ועדת השרים לחקיקה אישרה', topic: 'laws' },
+  // ישראל בעולם — אהדה ודעת קהל
+  { q: 'Israel poll support Americans', topic: 'israelAbroad', lang: 'en' },
+  { q: 'Israel public opinion Europe', topic: 'israelAbroad', lang: 'en' },
+  { q: 'Israel boycott OR sanctions OR recognition Palestinian state', topic: 'israelAbroad', lang: 'en' },
+  { q: 'דעת הקהל בעולם ישראל סקר', topic: 'israelAbroad' },
+  { q: 'אנטישמיות בעולם', topic: 'israelAbroad' },
+  // עסקאות ביטחוניות
+  { q: 'Israel arms deal OR defense contract', topic: 'defense', lang: 'en' },
+  { q: 'Elbit OR Rafael OR "Israel Aerospace Industries" contract', topic: 'defense', lang: 'en' },
+  { q: 'US military aid Israel weapons', topic: 'defense', lang: 'en' },
+  { q: 'עסקה ביטחונית אלביט רפאל התעשייה האווירית', topic: 'defense' },
+  { q: 'יצוא ביטחוני ישראל', topic: 'defense' },
+  // ממשל בעולם
+  { q: 'election results government parliament', topic: 'world', lang: 'en' },
+  { q: 'new law passed parliament', topic: 'world', lang: 'en' },
 ];
 
-export const googleNewsUrl = (q) =>
-  `https://news.google.com/rss/search?q=${encodeURIComponent(q + ' when:1d')}&hl=iw&gl=IL&ceid=IL:he`;
+export const googleNewsUrl = (q, lang = 'he') => lang === 'en'
+  ? `https://news.google.com/rss/search?q=${encodeURIComponent(q + ' when:1d')}&hl=en-US&gl=US&ceid=US:en`
+  : `https://news.google.com/rss/search?q=${encodeURIComponent(q + ' when:1d')}&hl=iw&gl=IL&ceid=IL:he`;
 
-// מילות מפתח לסיווג פריטים מפידים ישירים
+// מילות מפתח לסיווג (הסדר חשוב: הראשון שמתאים קובע). אנגלית — לא תלוי באותיות גדולות.
 export const topicKeywords = {
   laws: ['קריאה שלישית', 'קריאה ראשונה', 'קריאה שנייה', 'הצעת חוק', 'אושר החוק', 'ועדת השרים לחקיקה', 'תיקון לחוק'],
-  knesset: ['הכנסת', 'ח"כ', 'חבר הכנסת', 'חברת הכנסת', 'מליאה', 'ועדת הכספים', 'קואליציה', 'אופוזיציה'],
+  defense: ['עסקה ביטחונית', 'עסקת נשק', 'עסקת הנשק', 'אלביט', 'רפאל', 'התעשייה האווירית', 'יצוא ביטחוני', 'סיוע ביטחוני', 'כיפת ברזל', 'חץ 3', 'קלע דוד', 'F-35', 'סיב"ט',
+    'arms deal', 'arms sale', 'weapons sale', 'defense contract', 'defence contract', 'elbit', 'rafael', 'israel aerospace', 'iron dome', "david's sling", 'arrow 3', 'military aid', 'arms export', 'arms embargo', 'pentagon contract', 'procurement'],
+  israelAbroad: ['דעת הקהל', 'תמיכה בישראל', 'אהדה לישראל', 'חרם על ישראל', 'BDS', 'אנטישמיות', 'דימוי ישראל', 'הכרה במדינה פלסטינית',
+    'israel poll', 'support for israel', 'sympathy', 'public opinion', 'antisemitism', 'boycott', 'bds', 'recognize palestin', 'recognition of palestin', 'campus protest', 'pro-israel', 'pro-palestinian', 'gallup', 'pew research'],
+  knesset: ['הכנסת', 'ח"כ', 'חבר הכנסת', 'חברת הכנסת', 'מליאה', 'ועדת הכספים', 'קואליציה', 'אופוזיציה', ' השר ', ' השרה ', ' שר ה', 'משרד ראש הממשלה', 'knesset', 'netanyahu'],
   demo: ['הלמ"ס', 'למ"ס', 'הלשכה המרכזית לסטטיסטיקה', 'אוכלוסי', 'ילודה', 'הגירה', 'עלייה לישראל', 'אבטלה', 'שכר ממוצע', 'תוחלת חיים', 'דמוגרפ'],
   research: ['מחקר', 'סקר', 'דוח', 'דו"ח', 'מבקר המדינה', 'OECD', 'המכון הישראלי לדמוקרטיה', 'מרכז טאוב', 'מכון אהרן', 'ממצאים'],
-  deals: ['אקזיט', 'נרכשה', 'רכישת', 'מיזוג', 'גייסה', 'גיוס', 'סטארטאפ', 'הייטק', 'הנפקה', 'IPO', 'עסקה', 'יוניקורן'],
+  deals: ['אקזיט', 'נרכשה', 'רכישת', 'מיזוג', 'גייסה', 'גיוס', 'סטארטאפ', 'הייטק', 'הנפקה', 'IPO', 'עסקה', 'יוניקורן', 'israeli startup', 'acquisition', 'acquires'],
   econ: ['ריבית', 'אינפלציה', 'מדד', 'בורסה', 'תקציב', 'גירעון', 'צמיחה', 'תמ"ג', 'בנק ישראל', 'האוצר', 'שקל', 'דולר', 'מניות', 'משכנתא', 'מחירי הדיור', 'מס '],
+  world: ['election', 'parliament', 'prime minister', 'president', 'government', 'coalition', 'referendum', 'congress', 'senate', 'supreme court', 'legislation', 'law ', 'tariff', 'central bank', 'sanction', 'minister',
+    'הבית הלבן', 'הקונגרס', 'האיחוד האירופי', 'הפרלמנט'],
 };
 
 // מה הופך ידיעה ל"חשובה" (שולח פוש)
@@ -74,5 +115,9 @@ export const importantKeywords = [
   { k: 'מבקר המדינה', w: 2 }, { k: 'תקציב המדינה', w: 2 }, { k: 'נרכשה', w: 2 },
   { k: 'שיא', w: 1 }, { k: 'לראשונה', w: 1 }, { k: 'דרמטי', w: 1 }, { k: 'OECD', w: 1 },
   { k: 'נגיד בנק ישראל', w: 2 }, { k: 'גירעון', w: 1 },
+  { k: 'עסקת נשק', w: 3 }, { k: 'עסקה ביטחונית', w: 3 }, { k: 'אמברגו', w: 3 },
+  { k: 'arms deal', w: 3 }, { k: 'arms sale', w: 3 }, { k: 'arms embargo', w: 3 }, { k: 'billion', w: 1 },
+  { k: 'israel poll', w: 2 }, { k: 'support for israel', w: 2 }, { k: 'sanctions on israel', w: 3 },
+  { k: 'recogni', w: 1 }, { k: 'israel', w: 1 },
 ];
 export const IMPORTANT_THRESHOLD = 3;

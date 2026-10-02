@@ -65,17 +65,19 @@ const words = (s) => new Set(norm(s).split(' ').filter(w => w.length > 1));
 const jaccard = (a, b) => { let i = 0; for (const w of a) if (b.has(w)) i++; return i / (a.size + b.size - i || 1); };
 const idOf = (title) => crypto.createHash('sha1').update(norm(title)).digest('hex').slice(0, 12);
 
+const lc = (t) => ' ' + t.toLowerCase() + ' ';
 function classify(text) {
-  for (const [topic, kws] of Object.entries(topicKeywords)) if (kws.some(k => text.includes(k))) return topic;
+  const t = lc(text);
+  for (const [topic, kws] of Object.entries(topicKeywords)) if (kws.some(k => t.includes(k.toLowerCase()))) return topic;
   return null;
 }
-function score(text) { return importantKeywords.reduce((s, { k, w }) => s + (text.includes(k) ? w : 0), 0); }
+function score(text) { const t = lc(text); return importantKeywords.reduce((s, { k, w }) => s + (t.includes(k.toLowerCase()) ? w : 0), 0); }
 
 // ---------- איסוף ----------
 async function collect() {
   const jobs = [
     ...directFeeds.map((f, i) => ({ ...f, fixture: `direct-${i}.xml` })),
-    ...googleQueries.map((g, i) => ({ name: null, url: googleNewsUrl(g.q), topic: g.topic, fixture: `google-${i}.xml`, google: true })),
+    ...googleQueries.map((g, i) => ({ name: null, url: googleNewsUrl(g.q, g.lang), topic: g.topic, fixture: `google-${i}.xml`, google: true })),
   ];
   const results = await Promise.allSettled(jobs.map(async (j) => ({ j, items: parseRss(await getXml(j.url, j.fixture)) })));
   const out = []; let ok = 0, fail = 0;
@@ -91,7 +93,7 @@ async function collect() {
       }
       if (!title || !it.link) continue;
       const text = title + ' ' + (j.google ? '' : it.description);
-      const topic = j.topic && j.topic !== 'econ' ? j.topic : (classify(text) || j.topic);
+      const topic = j.topic && j.topic !== 'econ' ? j.topic : (classify(text) || j.topic || j.fallback);
       if (!topic) continue; // לא רלוונטי לנושאים שלנו
       const d = new Date(it.pubDate);
       out.push({
@@ -147,7 +149,7 @@ async function push(msg) {
     return true;
   } catch (e) { log('  push failed:', e.message); return false; }
 }
-const TAG = { econ: 'chart_with_upwards_trend', demo: 'busts_in_silhouette', deals: 'handshake', research: 'microscope', knesset: 'classical_building', laws: 'scroll', factcheck: 'mag' };
+const TAG = { econ: 'chart_with_upwards_trend', demo: 'busts_in_silhouette', deals: 'handshake', research: 'microscope', knesset: 'classical_building', laws: 'scroll', factcheck: 'mag', israelAbroad: 'globe_with_meridians', defense: 'shield', world: 'earth_africa' };
 const toMsg = (it) => it.kind === 'insight'
   ? { title: `🔍 ${TOPICS[it.topic]?.label || 'ניתוח'}: ${it.title}`, message: it.summary || it.title, click: APP_URL ? `${APP_URL}#${it.id}` : undefined, tags: [TAG[it.topic] || 'bulb'], priority: 4 }
   : { title: it.title, message: `${it.source}${it.alsoIn?.length ? ' · וגם ב' + it.alsoIn.join(', ') : ''} · ${TOPICS[it.topic]?.label || ''}`, click: it.url, tags: [TAG[it.topic] || 'newspaper'], priority: 3 };
@@ -189,7 +191,7 @@ async function main() {
 
   if (firstRun) {
     candidates.forEach(i => notified.add(i.id));
-    await push({ title: 'דופק מחובר ✅', message: 'מעכשיו תקבל כאן עדכונים חשובים על כלכלה, דמוגרפיה, עסקאות, מחקרים, הכנסת וחוקים חדשים.', tags: ['wave'] });
+    await push({ title: 'דופק מחובר ✅', message: 'מעכשיו תקבל כאן עדכונים חשובים: כלכלה, דמוגרפיה, עסקאות, מחקרים, הכנסת, חוקים, ישראל בעולם, עסקאות ביטחוניות וממשל בעולם.', tags: ['wave'] });
   } else if (isQuiet()) {
     state.pending = [...new Set([...(state.pending || []), ...candidates.map(i => i.id)])];
     candidates.forEach(i => notified.add(i.id));
