@@ -102,9 +102,10 @@ const idOf = (title) => crypto.createHash('sha1').update(norm(title)).digest('he
 const clip = (s, n) => (s.length > n ? s.slice(0, n).replace(/\s+\S*$/, '') + '…' : s);
 
 const lc = (t) => ' ' + t.toLowerCase() + ' ';
+const ORDER = ['factcheck', 'demo', 'laws', 'defense', 'israelAbroad', 'knesset', 'research', 'deals', 'econ', 'world'];
 function classify(text) {
   const t = lc(text);
-  for (const [topic, kws] of Object.entries(topicKeywords)) if (kws.some(k => t.includes(k.toLowerCase()))) return topic;
+  for (const topic of ORDER) if ((topicKeywords[topic] || []).some(k => t.includes(k.toLowerCase()))) return topic;
   return null;
 }
 function score(text) { const t = lc(text); return importantKeywords.reduce((s, { k, w }) => s + (t.includes(k.toLowerCase()) ? w : 0), 0); }
@@ -131,14 +132,17 @@ async function collect() {
       if (source && title.trim().endsWith(source) && title.length < 40) continue; // עמודי כותבים וכו'
       if (blockedSources.some(b => (source || '').toLowerCase().includes(b) || it.link.toLowerCase().includes(b.replace(/\s/g, '')))) continue;
       if (blockedWords.some(b => lc(title).includes(b.toLowerCase()))) continue;
+      if (/[\u0600-\u06FF]/.test(source + title)) continue; // אתרים בערבית (תרגום מכונה לא אמין)
       const text = title + ' ' + (j.google ? '' : it.description);
       let topic;
       if (j.google) {
         // מחיפוש: רק אם הכותרת באמת קשורה (מתאימה למילות מפתח או למילים מהחיפוש)
-        const generic = ['contract', 'support', 'results', 'government', 'parliament', 'passed', 'new', 'law', 'weapons', 'public', 'opinion', 'election', 'americans', 'europe', 'poll', 'deal', 'military', 'sanctions', 'state'];
+        const generic = ['contract', 'support', 'results', 'government', 'parliament', 'passed', 'new', 'law', 'weapons', 'public', 'opinion', 'election', 'americans', 'europe', 'poll', 'deal', 'military', 'sanctions', 'state',
+          'ישראל', 'ישראלי', 'ישראלים', 'נתונים', 'מספר', 'חדש', 'חדשים', 'חדשה', 'סקר', 'מחקר', 'עזבו', 'אמר', 'טענה', 'דוח', 'מיליון', 'דולר'];
         const qWords = j.q.replace(/"|site:\S+|\bOR\b/g, ' ').split(/\s+/).filter(w => w.length > 2 && !generic.includes(w.toLowerCase()));
         const isSite = /site:/.test(j.q);
-        topic = classify(text) || ((isSite || qWords.some(w => lc(title).includes(w.toLowerCase()))) ? j.topic : null);
+        const hits = qWords.filter(w => lc(title).includes(w.toLowerCase())).length;
+        topic = classify(text) || ((isSite || hits >= Math.min(2, qWords.length)) ? j.topic : null);
       } else {
         topic = j.topic && j.topic !== 'econ' ? j.topic : (classify(text) || j.topic || j.fallback);
       }
