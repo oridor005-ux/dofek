@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-02T21:22:21.865Z",
+ "updated": "2026-10-02T21:39:16.325Z",
  "items": [
+  {
+   "id": "41e7bccace58",
+   "kind": "headline",
+   "title": "Anti-Israel Group Targets South Florida Races With an Anti-AIPAC Litmus Test",
+   "source": "Kevin Deutsch | Substack",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnp5SXJzdFBpT0ZkaVZnVlRFdW1hazVCT28xeTZHbFFQN1dUQkNmTmowd2gtMkgwUjJ6bkpCNDdvRkhfdGpLY1BhR2FidDc1ZWdEaDF5MzcwVjdqZVdRYnVCY2cza1JPUzAyVV84SGw4Y3dDa3lFcmFLcGpaQUF3RQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-02T21:32:30.000Z",
+   "summary": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "bb8c89d34a18",
    "kind": "headline",
@@ -208,6 +221,19 @@
    "published": "2026-10-02T18:25:17.000Z",
    "summary": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2928b0a47d99",
+   "kind": "headline",
+   "title": "The Saudi-Israeli War On Yemen’s Resistance: Intelligence Sharing, Civilian Targets & Sectarian Propaganda",
+   "source": "mintpressnews.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTY1c0xwbXFKOTBLUkRKM2Q4UFVURm1lbFdsXzRkOXRiRlhPc3R1UDJQNGlZNVh5a3VoU3ExWXR4bGtBNlZmRF8zMTlfbEdSX3lLMS1NZjlJcnBCS1g4VWh3SWZsN0JaZzlnYXdjMGkxWnhrNDZNUW5IbmtiMFJteHJ3WGFUSC1ubzY5MkJNUnBqYWd1R0hhRWVZVEJtQWdDTWZuVEpPQ0x5NFpzTzRmR2VIWkhFeTRfc0xZM2VkZlBDa05kNDN1Zmc4dEs4OVhKVzUxTE5R?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-02T18:20:49.000Z",
+   "summary": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -813,6 +839,19 @@
    "important": false
   },
   {
+   "id": "ba4a01792404",
+   "kind": "headline",
+   "title": "אחרי המאמר מ-8/10, וה\"עצה\" מנשיא העליון: יו\"ר בל\"ד פרש מהתמודדות לכנסת",
+   "source": "YNET",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWWThoaC1WRFZMQ1ZUTVQwNVVZclhaNTJ0azNIQmxUTnZwcHR2djZZVU5xcFhwR0VYYUQ4NVJqSmZGcFo1RGpIQVhRZUVSZm53ZGEtNHR3NVl0dDdra1NCaFB3cVROQUVydmFqUEV3?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-02T09:35:58.000Z",
+   "summary": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "1c0b6f1f4c36",
    "kind": "headline",
    "title": "Heard on the Street: High government debt is adding fuel to the global bond market selloff",
@@ -837,7 +876,8 @@
    "score": 0,
    "alsoIn": [
     "Internazionale",
-    "Reuters"
+    "Reuters",
+    "Rock Hill Herald"
    ],
    "important": true
   },
@@ -942,7 +982,9 @@
    "published": "2026-10-02T08:32:45.000Z",
    "summary": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "hurriyetdailynews.com"
+   ],
    "important": false
   },
   {
@@ -1007,7 +1049,9 @@
    "published": "2026-10-02T08:06:00.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Middle East Eye"
+   ],
    "important": false
   },
   {
@@ -1440,6 +1484,19 @@
    "important": false
   },
   {
+   "id": "776d13890032",
+   "kind": "headline",
+   "title": "State Elections in Germany – A Continuation of the Deepening Political Crisis",
+   "source": "CIRSD",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXJ3bVlrVVkyMTVlNWNBMTBITzl6Vk9VX2JjOW1YNnBPM083SWl6X2FHUk03aVhabVZqLWhwMFNrZWw5aHpaRDBsYjA3MDR4YUJtblBobFY2aVF0bkgxcndNeGx5Q0NGNkdUTnVNZlh0Q0VjSW1zaENRZHRiWUtsd2hyRF9zaGN1MnEtZUlWaXhzc3N5THhQUC1MTkVYaHZCeGVJSnBB?oc=5",
+   "topic": "world",
+   "published": "2026-10-01T21:49:54.000Z",
+   "summary": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "3c64e6e6779b",
    "kind": "headline",
    "title": "Opinion: Silicon diplomacy, kinetic realities: Why Europe is evicting Palantir",
@@ -1463,7 +1520,8 @@
    "summary": "",
    "score": 1,
    "alsoIn": [
-    "KOB 4"
+    "KOB 4",
+    "Mainline Media News"
    ],
    "important": false
   },
