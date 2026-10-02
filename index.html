@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>דופק</title>
+<meta name="description" content="הדופק של ישראל: כלכלה, דמוגרפיה, עסקאות, מחקרים, הכנסת וחוקים חדשים">
+<meta name="theme-color" content="#0B1626">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0B1626; --bg2:#0F1D31; --card:#13233A; --card2:#172B46; --line:#22395A;
+  --ink:#EEF2F7; --ink2:#A9B6C8; --ink3:#71829A;
+  --accent:#FF8A4C; --accent2:#F2B544;
+  --econ:#F2B544; --demo:#62C7B0; --deals:#8C9EFF; --research:#E58BD8; --knesset:#6FB2FF; --laws:#FF8A73; --factcheck:#FFD166;
+  --radius:16px;
+}
+@media (prefers-color-scheme: light){
+  :root{ --bg:#F4F1EC; --bg2:#ECE7E0; --card:#FFFFFF; --card2:#FBF9F6; --line:#E3DDD4;
+    --ink:#14202F; --ink2:#4B5A6C; --ink3:#7D8899; --accent:#E2622A; --accent2:#C98A12;
+    --econ:#B7800C; --demo:#1F8C74; --deals:#4E5FD0; --research:#A8429C; --knesset:#2D72C4; --laws:#D0503A; --factcheck:#A87A00; }
+}
+*{box-sizing:border-box;margin:0;padding:0}
+[hidden]{display:none!important}
+html,body{background:var(--bg);color:var(--ink)}
+body{font-family:Rubik,system-ui,sans-serif;font-size:16px;line-height:1.45;-webkit-font-smoothing:antialiased;min-height:100vh;padding-bottom:calc(84px + env(safe-area-inset-bottom))}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+
+/* header */
+header{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);padding:calc(10px + env(safe-area-inset-top)) 16px 0;border-bottom:1px solid var(--line)}
+.top{display:flex;align-items:center;gap:12px;max-width:720px;margin:0 auto}
+.top img{width:40px;height:40px;border-radius:11px}
+.brand{flex:1;min-width:0}
+.brand h1{font-size:22px;font-weight:700;letter-spacing:-.2px;line-height:1.1}
+.brand .sub{font-size:12.5px;color:var(--ink3);display:flex;align-items:center;gap:6px}
+.live{width:7px;height:7px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 0 var(--accent);animation:beat 2.4s infinite}
+@keyframes beat{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--accent) 60%,transparent)}70%{box-shadow:0 0 0 8px transparent}100%{box-shadow:0 0 0 0 transparent}}
+.iconbtn{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;background:var(--card);border:1px solid var(--line)}
+.iconbtn svg{width:20px;height:20px}
+.iconbtn.spin svg{animation:spin 0.9s linear infinite}
+@keyframes spin{to{transform:rotate(-360deg)}}
+.search{max-width:720px;margin:10px auto 0;position:relative}
+.search input{width:100%;padding:10px 38px 10px 12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:15px;outline:none}
+.search input:focus{border-color:var(--accent)}
+.search svg{position:absolute;right:11px;top:50%;translate:0 -50%;width:18px;height:18px;color:var(--ink3)}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 12px;max-width:720px;margin:0 auto;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;padding:7px 13px;border-radius:999px;border:1px solid var(--line);background:var(--card);font-size:14px;color:var(--ink2);display:flex;align-items:center;gap:6px;white-space:nowrap}
+.chip .dot{width:8px;height:8px;border-radius:50%}
+.chip .n{font-size:11.5px;color:var(--ink3)}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip[aria-pressed=true] .n{color:var(--bg);opacity:.7}
+
+main{max-width:720px;margin:0 auto;padding:4px 16px}
+.section-h{font-size:13px;font-weight:600;color:var(--ink3);margin:22px 2px 10px;display:flex;align-items:center;gap:8px}
+.section-h::after{content:"";flex:1;height:1px;background:var(--line)}
+
+/* insights strip */
+.strip{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:2px 2px 6px;margin:0 -16px;padding-inline:16px;scrollbar-width:none}
+.strip::-webkit-scrollbar{display:none}
+.strip .ins{flex:none;width:min(84vw,340px);scroll-snap-align:start}
+
+.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px 15px;margin-bottom:10px;position:relative}
+.card:active{background:var(--card2)}
+.meta{display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--ink3);flex-wrap:wrap}
+.tpc{display:inline-flex;align-items:center;gap:5px;font-weight:600}
+.tpc i{width:7px;height:7px;border-radius:50%;display:inline-block}
+.sep{opacity:.5}
+.card h3{font-size:16.5px;font-weight:500;line-height:1.4;margin-top:6px}
+.card .sum{font-size:14px;color:var(--ink2);margin-top:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.also{font-size:12px;color:var(--ink3);margin-top:8px}
+.imp{position:absolute;top:13px;left:14px;font-size:11px;font-weight:700;color:var(--accent);display:flex;align-items:center;gap:4px}
+.imp::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--accent)}
+.new::after{content:"";position:absolute;top:18px;right:-4px;width:8px;height:8px;border-radius:50%;background:var(--accent2)}
+
+.ins{background:linear-gradient(160deg,var(--card2),var(--card));border-color:color-mix(in srgb,var(--accent) 35%,var(--line))}
+.ins .kicker{font-size:11.5px;font-weight:700;letter-spacing:.3px;color:var(--accent);display:flex;align-items:center;gap:6px}
+.ins h3{font-size:17px;font-weight:600}
+.ins .sum{-webkit-line-clamp:3}
+.vs{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}
+.vs div{background:var(--bg2);border-radius:10px;padding:8px 10px;font-size:13px;color:var(--ink2)}
+.vs b{display:block;font-size:11px;color:var(--ink3);font-weight:600;margin-bottom:2px}
+.verdict{display:inline-block;margin-top:10px;font-size:12px;font-weight:700;padding:3px 9px;border-radius:999px;background:color-mix(in srgb,var(--factcheck) 18%,transparent);color:var(--factcheck)}
+
+.empty{text-align:center;color:var(--ink3);padding:48px 12px;font-size:15px}
+.empty img{width:64px;opacity:.6;border-radius:16px;margin-bottom:12px}
+
+/* bottom bar */
+.bar{position:fixed;bottom:0;inset-inline:0;z-index:10;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid var(--line);padding:10px 16px calc(10px + env(safe-area-inset-bottom))}
+.bar .in{max-width:720px;margin:0 auto;display:flex;gap:10px}
+.bar button{flex:1;padding:12px;border-radius:14px;background:var(--card);border:1px solid var(--line);font-size:14.5px;font-weight:500;display:flex;align-items:center;justify-content:center;gap:8px}
+.bar button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.bar svg{width:18px;height:18px}
+
+/* sheet */
+.scrim{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:20;opacity:0;pointer-events:none;transition:.2s}
+.sheet{position:fixed;inset-inline:0;bottom:0;z-index:21;background:var(--bg);border-radius:22px 22px 0 0;max-height:88vh;overflow:auto;padding:8px 18px calc(24px + env(safe-area-inset-bottom));transform:translateY(102%);transition:transform .28s cubic-bezier(.2,.8,.2,1);max-width:720px;margin:0 auto}
+.open .scrim{opacity:1;pointer-events:auto}
+.open .sheet{transform:none}
+.grab{width:40px;height:4px;border-radius:4px;background:var(--line);margin:4px auto 14px}
+.sheet h2{font-size:20px;font-weight:700;margin-bottom:4px}
+.sheet .lead{color:var(--ink2);font-size:14.5px;margin-bottom:14px}
+.sheet .body p{margin-bottom:12px;font-size:15.5px;line-height:1.65}
+.sheet .src{margin-top:8px;border-top:1px solid var(--line);padding-top:12px}
+.sheet .src a{display:block;color:var(--accent);font-size:14px;padding:5px 0}
+.steps{counter-reset:s;list-style:none}
+.steps li{counter-increment:s;position:relative;padding:4px 36px 12px 0;font-size:15px;color:var(--ink2)}
+.steps li::before{content:counter(s);position:absolute;right:0;top:2px;width:26px;height:26px;border-radius:50%;background:var(--card);border:1px solid var(--line);display:grid;place-items:center;font-size:13px;font-weight:600;color:var(--ink)}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:13px;border-radius:14px;background:var(--accent);color:#fff;font-weight:600;margin-top:8px}
+.btn.ghost{background:var(--card);color:var(--ink);border:1px solid var(--line)}
+code{font-family:ui-monospace,monospace;background:var(--card);padding:2px 6px;border-radius:6px;font-size:13px;direction:ltr;display:inline-block}
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <img src="icons/icon-192.png" alt="">
+    <div class="brand">
+      <h1>דופק</h1>
+      <div class="sub"><span class="live"></span><span id="updated">טוען…</span></div>
+    </div>
+    <button class="iconbtn" id="refresh" aria-label="רענון">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 15.5-6.3L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15.5 6.3L3 16"/><path d="M3 21v-5h5"/></svg>
+    </button>
+  </div>
+  <div class="search">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="חיפוש: ריבית, הלמ״ס, אקזיט…" autocomplete="off">
+  </div>
+  <nav class="chips" id="chips"></nav>
+</header>
+
+<main id="list"></main>
+
+<div class="bar"><div class="in">
+  <button id="notifBtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>התראות</button>
+  <button id="installBtn" class="primary" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></svg>התקנה למסך הבית</button>
+</div></div>
+
+<div id="sheetWrap">
+  <div class="scrim" id="scrim"></div>
+  <div class="sheet" id="sheet" role="dialog" aria-modal="true"><div class="grab"></div><div id="sheetBody"></div></div>
+</div>
+
+<script>
+const TOPICS = {
+  econ:{label:'כלכלה',full:'כלכלה ושוק ההון'}, demo:{label:'דמוגרפיה',full:'דמוגרפיה וחברה'},
+  deals:{label:'עסקאות והייטק',full:'עסקאות, הייטק וסטארטאפים'}, research:{label:'מחקרים',full:'מחקרים ודוחות'},
+  knesset:{label:'הכנסת',full:'הכנסת'}, laws:{label:'חוקים',full:'חוקים חדשים'}, factcheck:{label:'נאמר מול המציאות',full:'נאמר מול המציאות'},
+};
+const FILTERS = [
+  {id:'all',label:'הכל'}, {id:'important',label:'חשוב',dot:'var(--accent)'}, {id:'insights',label:'ניתוחים',dot:'var(--accent2)'},
+  ...Object.entries(TOPICS).map(([id,t])=>({id,label:t.label,dot:`var(--${id})`})),
+];
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const store = { get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}}, set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}} };
+
+let feed = {items:[]}, insights = {items:[]}, config = {};
+let filter = store.get('filter','all'), query = '';
+const seenBefore = new Set(store.get('seen', []));
+
+function ago(iso){
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return 'עכשיו'; if (m < 60) return `לפני ${m} ד׳`;
+  const h = Math.round(m/60); if (h < 24) return h===1?'לפני שעה':h===2?'לפני שעתיים':`לפני ${h} שע׳`;
+  const d = Math.round(h/24); return d===1?'אתמול':`לפני ${d} ימים`;
+}
+function dayLabel(iso){
+  const d = new Date(iso), t = new Date(); const k = x => x.toDateString();
+  if (k(d)===k(t)) return 'היום';
+  const y = new Date(t - 864e5); if (k(d)===k(y)) return 'אתמול';
+  return d.toLocaleDateString('he-IL',{weekday:'long', day:'numeric', month:'long'});
+}
+const topicTag = t => `<span class="tpc" style="color:var(--${t})"><i style="background:var(--${t})"></i>${esc(TOPICS[t]?.label||'')}</span>`;
+
+function insightCard(it, cls=''){
+  const vs = (it.claim || it.reality) ? `<div class="vs"><div><b>נאמר${it.claimBy?' · '+esc(it.claimBy):''}</b>${esc(it.claim||'')}</div><div><b>בפועל</b>${esc(it.reality||'')}</div></div>` : '';
+  return `<a class="card ins ${cls}" href="#${esc(it.id)}" data-ins="${esc(it.id)}" id="c-${esc(it.id)}">
+    <div class="kicker">🔍 ניתוח · ${esc(TOPICS[it.topic]?.label||'')} <span class="sep">·</span> <span style="color:var(--ink3);font-weight:400">${ago(it.published)}</span></div>
+    <h3>${esc(it.title)}</h3>${it.summary?`<p class="sum">${esc(it.summary)}</p>`:''}${vs}
+    ${it.verdict?`<span class="verdict">${esc(it.verdict)}</span>`:''}
+  </a>`;
+}
+function headlineCard(it){
+  const isNew = !seenBefore.has(it.id) && seenBefore.size > 0;
+  return `<a class="card ${isNew?'new':''}" href="${esc(it.url)}" target="_blank" rel="noopener">
+    ${it.important?'<span class="imp">חשוב</span>':''}
+    <div class="meta">${topicTag(it.topic)}<span class="sep">·</span><span>${esc(it.source)}</span><span class="sep">·</span><span>${ago(it.published)}</span></div>
+    <h3>${esc(it.title)}</h3>
+    ${it.summary?`<p class="sum">${esc(it.summary)}</p>`:''}
+    ${it.alsoIn?.length?`<div class="also">דווח גם ב: ${it.alsoIn.map(esc).join(' · ')}</div>`:''}
+  </a>`;
+}
+
+function matches(it){
+  if (!query) return true;
+  const hay = (it.title+' '+(it.summary||'')+' '+(it.source||'')+' '+(it.claim||'')).toLowerCase();
+  return query.split(/\s+/).every(w => hay.includes(w));
+}
+
+function render(){
+  const ins = insights.items.filter(matches).sort((a,b)=>b.published.localeCompare(a.published));
+  let heads = feed.items.filter(matches);
+  // counts
+  const counts = {all: heads.length + ins.length, important: heads.filter(i=>i.important).length, insights: ins.length};
+  for (const t in TOPICS) counts[t] = heads.filter(i=>i.topic===t).length + ins.filter(i=>i.topic===t).length;
+  $('#chips').innerHTML = FILTERS.map(f=>`<button class="chip" aria-pressed="${f.id===filter}" data-f="${f.id}">${f.dot?`<span class="dot" style="background:${f.dot}"></span>`:''}${f.label}<span class="n">${counts[f.id]||0}</span></button>`).join('');
+
+  let html = '';
+  if (filter === 'insights') {
+    html = ins.length ? ins.map(i=>insightCard(i)).join('') : empty('עדיין אין ניתוחים. Claude מוסיף ניתוחי עומק פעמיים ביום.');
+  } else {
+    let showIns = ins;
+    if (filter === 'important') heads = heads.filter(i=>i.important);
+    else if (filter !== 'all') { heads = heads.filter(i=>i.topic===filter); showIns = ins.filter(i=>i.topic===filter); }
+    if (filter === 'important') showIns = ins.filter(i => Date.now() - new Date(i.published) < 2*864e5);
+    if (showIns.length) html += `<div class="section-h">ניתוחי עומק</div><div class="strip">${showIns.slice(0,8).map(i=>insightCard(i)).join('')}</div>`;
+    let last = '';
+    for (const it of heads) {
+      const d = dayLabel(it.published);
+      if (d !== last) { html += `<div class="section-h">${d}</div>`; last = d; }
+      html += headlineCard(it);
+    }
+    if (!heads.length && !showIns.length) html = empty(query ? 'לא נמצא כלום לחיפוש הזה.' : 'אין עדיין ידיעות בקטגוריה הזו. בדוק שוב עוד מעט.');
+  }
+  $('#list').innerHTML = html;
+  $('#updated').textContent = feed.updated ? `עודכן ${ago(feed.updated)}` : 'ממתין לעדכון ראשון';
+}
+const empty = msg => `<div class="empty"><img src="icons/icon-192.png" alt=""><div>${msg}</div></div>`;
+
+async function load(){
+  $('#refresh').classList.add('spin');
+  const get = async (u, d) => { try { const r = await fetch(u+'?t='+Date.now(), {cache:'no-store'}); return r.ok ? await r.json() : d; } catch { return d; } };
+  [feed, insights, config] = await Promise.all([get('data/feed.json',{items:[]}), get('data/insights.json',{items:[]}), get('config.json',{})]);
+  feed.items ||= []; insights.items ||= [];
+  render();
+  $('#refresh').classList.remove('spin');
+  // מסמן את מה שנראה עכשיו כ"נראה" לפעם הבאה
+  store.set('seen', [...new Set([...feed.items.map(i=>i.id), ...seenBefore])].slice(0, 1500));
+  if (location.hash.length > 1) openInsight(decodeURIComponent(location.hash.slice(1)));
+}
+
+// sheet
+function openSheet(html){ $('#sheetBody').innerHTML = html; $('#sheetWrap').classList.add('open'); }
+function closeSheet(){ $('#sheetWrap').classList.remove('open'); if (location.hash) history.replaceState(null,'',location.pathname); }
+$('#scrim').onclick = closeSheet;
+function openInsight(id){
+  const it = insights.items.find(i=>i.id===id); if (!it) return;
+  const paras = String(it.body || it.summary || '').split(/\n\s*\n|\n/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join('');
+  const vs = (it.claim||it.reality) ? `<div class="vs" style="margin-bottom:14px"><div><b>נאמר${it.claimBy?' · '+esc(it.claimBy):''}</b>${esc(it.claim||'')}</div><div><b>בפועל</b>${esc(it.reality||'')}</div></div>` : '';
+  openSheet(`<div class="meta" style="margin-bottom:6px">${topicTag(it.topic)}<span class="sep">·</span><span>${ago(it.published)}</span></div>
+    <h2>${esc(it.title)}</h2>${it.verdict?`<span class="verdict" style="margin:4px 0 10px">${esc(it.verdict)}</span>`:''}
+    ${vs}<div class="body">${paras}</div>
+    ${it.sources?.length?`<div class="src"><div style="font-size:13px;color:var(--ink3);font-weight:600">מקורות</div>${it.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">↗ ${esc(s.name||s.url)}</a>`).join('')}</div>`:''}`);
+}
+function openNotif(){
+  const t = config.ntfyTopic || '';
+  openSheet(`<h2>התראות לטלפון</h2>
+  <p class="lead">הפושים של דופק מגיעים דרך האפליקציה החינמית ntfy. מתקינים פעם אחת, ומאותו רגע כל עדכון חשוב קופץ אצלך עם הלוגו של דופק.</p>
+  <ol class="steps">
+    <li>מתקינים את <b>ntfy</b> מחנות Play.</li>
+    <li>חוזרים לכאן ולוחצים על "חיבור לדופק". ntfy ייפתח ויציע להירשם לערוץ.</li>
+    <li>מאשרים, וזהו. אם ntfy שואל על "instant delivery", כדאי להפעיל כדי שהפושים יגיעו מיד.</li>
+  </ol>
+  <a class="btn ghost" href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">1 · התקנת ntfy</a>
+  <a class="btn" href="ntfy://ntfy.sh/${esc(t)}?display=${encodeURIComponent('דופק')}">2 · חיבור לדופק</a>
+  <p style="font-size:13px;color:var(--ink3);margin-top:14px">אם הכפתור לא עובד: ב-ntfy לוחצים על + ומקלידים את שם הערוץ <code>${esc(t)}</code></p>
+  <p style="font-size:13px;color:var(--ink3);margin-top:8px">בין 23:00 ל-07:00 לא נשלחים פושים. בבוקר יגיע סיכום אחד של מה שקרה בלילה.</p>`);
+}
+$('#notifBtn').onclick = openNotif;
+
+document.addEventListener('click', e => {
+  const c = e.target.closest('.chip'); if (c) { filter = c.dataset.f; store.set('filter', filter); render(); window.scrollTo({top:0,behavior:'smooth'}); return; }
+  const ins = e.target.closest('[data-ins]'); if (ins) { e.preventDefault(); history.replaceState(null,'','#'+ins.dataset.ins); openInsight(ins.dataset.ins); }
+});
+$('#q').addEventListener('input', e => { query = e.target.value.trim().toLowerCase(); render(); });
+$('#refresh').onclick = load;
+document.addEventListener('visibilitychange', () => { if (!document.hidden) load(); });
+
+// התקנה כאפליקציה
+let deferred;
+window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferred = e; $('#installBtn').hidden = false; });
+$('#installBtn').onclick = async () => { if (!deferred) return; deferred.prompt(); await deferred.userChoice; deferred = null; $('#installBtn').hidden = true; };
+if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js');
+
+load();
+setInterval(() => { if (!document.hidden) render(); }, 60000);
+</script>
+</body>
+</html>

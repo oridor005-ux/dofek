@@ -1,0 +1,39 @@
+name: עדכון דופק
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # כל חצי שעה
+  push:
+    paths:
+      - 'data/insights.json'  # כש-Claude מוסיף ניתוח חדש — לשלוח פוש מיד
+  workflow_dispatch:          # הרצה ידנית מתוך GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dofek-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: איסוף כותרות ושליחת פושים
+        env:
+          APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: node scripts/fetch.mjs
+      - name: שמירה
+        run: |
+          git config user.name "dofek-bot"
+          git config user.email "dofek-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "עדכון פיד $(date -u +%H:%M)"
+          git pull --rebase -X theirs || true
+          git push
