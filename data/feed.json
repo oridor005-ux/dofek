@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T22:20:28.667Z",
+ "updated": "2026-10-02T22:38:26.366Z",
  "items": [
   {
    "id": "e3fa1169c45a",
@@ -385,6 +385,20 @@
    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02pol-election-lawsuits-vkcz/02pol-election-lawsuits-vkcz-mediumSquareAt3X.jpg"
   },
   {
+   "id": "985ddc7357c7",
+   "kind": "headline",
+   "title": "שוק העבודה בארה\"ב נחלש: רק 29 אלף משרות נוספו בספטמבר",
+   "source": "davar1.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Pc05pdlNkQ2dPZjdqa1FSTHUtclZOYkxCSk9DV1AyWU82ejFITThyM2JRdXpJazNxcHZWVVRVaFlBZkMteVMw?oc=5",
+   "topic": "demo",
+   "published": "2026-10-02T16:01:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "cc277defbb1f",
    "kind": "headline",
    "title": "Israeli elections hold the key to peace in Palestine",
@@ -482,6 +496,20 @@
    "image": "https://images.wsj.net/im-86050113"
   },
   {
+   "id": "a6f9826e2b44",
+   "kind": "headline",
+   "title": "Green leader Zack Polanski takes credit for Israel sanctions and criticises Bank of England",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUUtSjVHdDFNZlJkUDdTTWJGVFFSRG8yNEJoeVlwdGw4TFNfY2ZldnhsbnV3NWZFV2dsNUdHMlVLeV9tY0pGRGptUk9BM3ktV1U1amlaemZGaWRFTHF6Y3lwLVdVNi1uN1FnWkNfU1dSbVl2UFZMRlBYSXdJWFVoWG5vQkc?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T15:18:40.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "bccc2aace1c6",
    "kind": "headline",
    "title": "Spain: Socialist Pedro Sánchez suffers setback in parliament as his measures to (further) intervene in the housing market fail",
@@ -534,7 +562,8 @@
    "alsoIn": [
     "AP News",
     "Goshen News",
-    "goshennews.com"
+    "goshennews.com",
+    "apnews.com"
    ],
    "important": true
   },
@@ -660,6 +689,20 @@
    "important": true
   },
   {
+   "id": "cbcc996b2b92",
+   "kind": "headline",
+   "title": "Iran Moves to Restrict Military Cargo Ships in Strait of Hormuz",
+   "source": "Caspian Post",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFFlcjZTUEY4S0V4alo3OW42Ym5nUzJlUWZPdzJKQkh4MFpaMVdQX1RYNlgwLWN3M2g4ZHdCZkh6NWJZbDY2ZEF4cGJVZTc3d0RVbV9PYkljdlR4ajgxS1VZaUdsRmppcEhsODZQUVhZMlM5SnNvODhxYUlNTHVBS1NlQ0x5WG5WVl8tbnhreHpaUFV3YUYw?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T12:53:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "cf4c1e49b520",
    "kind": "headline",
    "title": "Bulls Sign Isaiah Stevens To Exhibit 10 Contract; Waive Peter Suder",
@@ -755,6 +798,20 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T74RW7QBDFDE3IYPODTAE6EWWQ.jpg"
   },
   {
+   "id": "92dbcc707df1",
+   "kind": "headline",
+   "title": "Hungary and Ukraine edge towards deal that could unlock EU talks",
+   "source": "Yahoo News Singapore",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9udXBTbFJJWEpjd1lWNWpZT3dWaU5FZVp1SVBUa0VLUkJDNUI1ZmZpaDA1R1paWmZGZ014MC1pcXBhTzFfUG9QenJnLVcwQUd0MERmRDVwQ2hWUjl1bV9LUk5DRlRpWHozOVJWanJ3dWlfN0UyLV9qRDd3ZzJiUzQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T11:10:47.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "845cd2ecf924",
    "kind": "headline",
    "title": "Kushner's Investment Firm Is a Top Shareholder in Company With $456M Tied to Israeli Military Suppliers, Report Finds",
@@ -764,6 +821,20 @@
    "published": "2026-10-02T11:03:27.000Z",
    "summary": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8c5b61f5c254",
+   "kind": "headline",
+   "title": "Why Good Process Matters",
+   "source": "Tasmanian Times",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MelhKUmFxSFZCdFFwQi1vZkxRbFp5dllnVmVqWWRFUzB6eFhEMlhJbjhYWnZwaXl6SDNYdWF6dXVJNlF6WHpNNHB3cWlHZVpUaWY0Q1ppME5DUkZKdmpXMlNHZDJ5MWc3R05kcQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T11:00:31.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -1002,7 +1073,9 @@
    "published": "2026-10-02T08:49:40.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "news.by"
+   ],
    "important": false
   },
   {
@@ -1056,6 +1129,20 @@
    "topic": "defense",
    "published": "2026-10-02T08:27:00.000Z",
    "summary": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9bdb5708c3e8",
+   "kind": "headline",
+   "title": "In Sweden, the radical right lost, but the country has not turned left",
+   "source": "European Consortium for Political Research (ECPR)",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYS1aN25RNlJ1VzgzQk9pYm9ISFNvRDRSTkV5am5KV0d2YUlCQVJHRHBUeGY3SExyajVyaV9MQkhtbjgta09FOXpuWkhOcjhMMkliVXl3VEhBYWNQZXhObnZfYm9DaFVrdG1RWUJ1c1dvMzNZVEhfOTIzUDNqNVRLY1ZYOFN6c3J5X2I4c1dvTXpNa09vd3lEMw?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T08:27:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1178,7 +1265,9 @@
    "published": "2026-10-02T06:48:34.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "חדשות 04"
+   ],
    "important": false
   },
   {
@@ -1485,6 +1574,20 @@
    "important": false
   },
   {
+   "id": "baa6903753b1",
+   "kind": "headline",
+   "title": "Pro-Palestinian Protest Disrupts Ireland Soccer Match",
+   "source": "sports.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzZ0TkQwUFprd2xaeHFJSzgyaDFnRkpWUEFtSVYzZGZ1cFZjOEhPdzVPSnRCQ2hNNjBkZjRrdnVTc3lTNS1XelZGSzNBajBfM01fU3Y1bWxIMVdVR1doUkFfNDJYSDRYMTFpalNna3c1M0RQbWNvajJBQTgzaTlMMWkxYWJYUExqcDBMaUdINUM0WU0?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-02T02:33:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "4de717c4c8aa",
    "kind": "headline",
    "title": "הדו\"ח השנתי של J7: עלייה של 136% במספר התקריות האנטישמיות",
@@ -1559,7 +1662,10 @@
    "published": "2026-10-02T01:02:14.000Z",
    "summary": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "dailysabah.com",
+    "timesofisrael.com"
+   ],
    "important": false
   },
   {
