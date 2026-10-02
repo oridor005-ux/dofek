@@ -47,6 +47,18 @@ export const googleQueries = [
   { q: 'הלמ"ס נתונים', topic: 'demo' },
   { q: 'אוכלוסיית ישראל ילודה הגירה', topic: 'demo' },
   { q: 'שוק העבודה אבטלה שכר ממוצע', topic: 'demo' },
+  { q: 'ירידה מהארץ עזבו את ישראל נתונים', topic: 'demo' },
+  { q: 'שיעור הפריון ילדים לאישה ישראל', topic: 'demo' },
+  { q: 'דוח העוני ביטוח לאומי', topic: 'demo' },
+  { q: 'תעסוקת חרדים ערבים נתונים', topic: 'demo' },
+  { q: 'מספר תושבי ישראל אוכלוסייה', topic: 'demo' },
+  { q: 'עלייה לישראל עולים חדשים נתונים', topic: 'demo' },
+  { q: 'יוקר המחיה מחירי הדיור נתונים', topic: 'demo' },
+  { q: 'סקר ישראלים מרכז טאוב OR "המכון הישראלי לדמוקרטיה"', topic: 'demo' },
+  // נאמר מול המציאות — בדיקות עובדות
+  { q: 'בדיקת עובדות "המשרוקית" OR "בודק העובדות" OR "פקט צ\'ק"', topic: 'factcheck' },
+  { q: 'site:shakuf.co.il', topic: 'factcheck' },
+  { q: 'טענה לא נכונה נתונים מראים', topic: 'factcheck' },
   // עסקאות והייטק
   { q: 'אקזיט סטארטאפ ישראלי', topic: 'deals' },
   { q: 'נרכשה תמורת מיליון דולר', topic: 'deals' },
@@ -92,6 +104,7 @@ export const googleNewsUrl = (q, lang = 'he') => lang === 'en'
 
 // מילות מפתח לסיווג (הסדר חשוב: הראשון שמתאים קובע). אנגלית — לא תלוי באותיות גדולות.
 export const topicKeywords = {
+  factcheck: ['בדיקת עובדות', 'המשרוקית', 'בודק העובדות', 'פקט צ\'ק', 'fact check', 'fact-check', 'טענה שגויה', 'לא מדויק', 'הטעיה'],
   laws: ['קריאה שלישית', 'קריאה ראשונה', 'קריאה שנייה', 'הצעת חוק', 'אושר החוק', 'ועדת השרים לחקיקה', 'תיקון לחוק'],
   defense: ['עסקה ביטחונית', 'עסקת נשק', 'עסקת הנשק', 'אלביט', 'רפאל', 'התעשייה האווירית', 'יצוא ביטחוני', 'סיוע ביטחוני', 'כיפת ברזל', 'חץ 3', 'קלע דוד', 'F-35', 'סיב"ט',
     'arms deal', 'arms sale', 'weapons sale', 'defense contract', 'defence contract', 'elbit', 'rafael', 'israel aerospace', 'iron dome', "david's sling", 'arrow 3', 'military aid', 'arms export', 'arms embargo', 'pentagon contract', 'procurement'],
@@ -122,6 +135,12 @@ export const importantKeywords = [
 ];
 export const IMPORTANT_THRESHOLD = 3;
 
+// בונוס עדיפות לפי נושא — דמוגרפיה ו"מה נכון ומה לא" במרכז
+export const topicBonus = { demo: 2, factcheck: 2, laws: 1, knesset: 1 };
+
 // מקורות ומילים שלא רוצים לראות (ספורט, אתרי תוכן זבל וכו')
-export const blockedSources = ['vietnam.vn', 'facebook.com', 'talksport', 'yahoo sports', 'vijesti', 'edp24', 'youtube', 'instagram', 'x.com', 'tiktok', 'sport5', 'one.co.il', 'espn'];
+export const blockedSources = [
+  // אתרי ארגוני הסברה ואקטיביזם (משני הצדדים) — לא מקורות חדשותיים
+  'bds movement', 'bdsmovement', 'mondoweiss', 'electronic intifada', 'electronicintifada', 'middle east monitor', 'middleeastmonitor', 'palestine chronicle', 'standwithus', 'honestreporting', 'honest reporting', 'camera.org', 'israel365', 'billy graham', 'substack', 'medium.com', 'blogspot', 'wordpress.com',
+  'vietnam.vn', 'facebook.com', 'talksport', 'yahoo sports', 'vijesti', 'edp24', 'youtube', 'instagram', 'x.com', 'tiktok', 'sport5', 'one.co.il', 'espn'];
 export const blockedWords = ['UFC', 'NBA', 'NFL', 'Premier League', 'כדורגל', 'כדורסל', 'מכבי תל אביב', 'הפועל ', 'ליגת העל', 'יורוליג', 'מונדיאל', 'הורוסקופ'];

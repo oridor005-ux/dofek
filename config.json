@@ -3,7 +3,11 @@
   "ntfyServer": "https://ntfy.sh",
   "ntfyTopic": "dofek-f1921b9650",
   "maxPushesPerRun": 4,
-  "quietHours": { "start": 23, "end": 7 },
+  "quietHours": {
+    "start": 23,
+    "end": 7
+  },
   "keepDays": 5,
-  "maxItems": 400
+  "maxItems": 400,
+  "settingsTopic": "dofek-f1921b9650-settings"
 }
