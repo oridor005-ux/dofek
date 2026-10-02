@@ -5,7 +5,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import {
   TOPICS, directFeeds, googleQueries, googleNewsUrl,
-  topicKeywords, importantKeywords, IMPORTANT_THRESHOLD,
+  topicKeywords, importantKeywords, IMPORTANT_THRESHOLD, blockedSources, blockedWords,
 } from './sources.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
@@ -77,7 +77,7 @@ function score(text) { const t = lc(text); return importantKeywords.reduce((s, {
 async function collect() {
   const jobs = [
     ...directFeeds.map((f, i) => ({ ...f, fixture: `direct-${i}.xml` })),
-    ...googleQueries.map((g, i) => ({ name: null, url: googleNewsUrl(g.q, g.lang), topic: g.topic, fixture: `google-${i}.xml`, google: true })),
+    ...googleQueries.map((g, i) => ({ name: null, url: googleNewsUrl(g.q, g.lang), topic: g.topic, q: g.q, fixture: `google-${i}.xml`, google: true })),
   ];
   const results = await Promise.allSettled(jobs.map(async (j) => ({ j, items: parseRss(await getXml(j.url, j.fixture)) })));
   const out = []; let ok = 0, fail = 0;
@@ -92,8 +92,18 @@ async function collect() {
         if (k > 10) { source = source || title.slice(k + 3); title = title.slice(0, k); }
       }
       if (!title || !it.link) continue;
+      if (blockedSources.some(b => (source || '').toLowerCase().includes(b))) continue;
+      if (blockedWords.some(b => lc(title).includes(b.toLowerCase()))) continue;
       const text = title + ' ' + (j.google ? '' : it.description);
-      const topic = j.topic && j.topic !== 'econ' ? j.topic : (classify(text) || j.topic || j.fallback);
+      let topic;
+      if (j.google) {
+        // מחיפוש: רק אם הכותרת באמת קשורה (מתאימה למילות מפתח או למילים מהחיפוש)
+        const qWords = j.q.replace(/"|site:\S+|\bOR\b/g, ' ').split(/\s+/).filter(w => w.length > 2);
+        const isSite = /site:/.test(j.q);
+        topic = classify(text) || ((isSite || qWords.some(w => lc(title).includes(w.toLowerCase()))) ? j.topic : null);
+      } else {
+        topic = j.topic && j.topic !== 'econ' ? j.topic : (classify(text) || j.topic || j.fallback);
+      }
       if (!topic) continue; // לא רלוונטי לנושאים שלנו
       const d = new Date(it.pubDate);
       out.push({

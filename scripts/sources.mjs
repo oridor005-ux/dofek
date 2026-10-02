@@ -31,7 +31,7 @@ export const directFeeds = [
   { name: 'New York Times', url: 'https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml' },
   { name: 'New York Times', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml' },
   { name: 'BBC', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
-  { name: 'The Guardian', url: 'https://www.theguardian.com/world/israel/rss', topic: 'israelAbroad' },
+  { name: 'The Guardian', url: 'https://www.theguardian.com/world/israel/rss', fallback: 'israelAbroad' },
   { name: 'Defense News', url: 'https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml' },
 ];
 
@@ -121,3 +121,7 @@ export const importantKeywords = [
   { k: 'recogni', w: 1 }, { k: 'israel', w: 1 },
 ];
 export const IMPORTANT_THRESHOLD = 3;
+
+// מקורות ומילים שלא רוצים לראות (ספורט, אתרי תוכן זבל וכו')
+export const blockedSources = ['vietnam.vn', 'facebook.com', 'talksport', 'yahoo sports', 'vijesti', 'edp24', 'youtube', 'instagram', 'x.com', 'tiktok', 'sport5', 'one.co.il', 'espn'];
+export const blockedWords = ['UFC', 'NBA', 'NFL', 'Premier League', 'כדורגל', 'כדורסל', 'מכבי תל אביב', 'הפועל ', 'ליגת העל', 'יורוליג', 'מונדיאל', 'הורוסקופ'];
