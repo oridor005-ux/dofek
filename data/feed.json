@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T21:39:16.325Z",
+ "updated": "2026-10-02T22:04:10.017Z",
  "items": [
   {
    "id": "41e7bccace58",
@@ -338,7 +338,9 @@
    "published": "2026-10-02T16:16:00.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Daily Sabah"
+   ],
    "important": false
   },
   {
@@ -377,7 +379,9 @@
    "published": "2026-10-02T16:00:49.000Z",
    "summary": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "thetimes.com"
+   ],
    "important": false
   },
   {
@@ -496,7 +500,8 @@
    "score": 0,
    "alsoIn": [
     "AP News",
-    "Goshen News"
+    "Goshen News",
+    "goshennews.com"
    ],
    "important": true
   },
@@ -523,7 +528,9 @@
    "published": "2026-10-02T14:14:29.000Z",
    "summary": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "zman.co.il"
+   ],
    "important": false
   },
   {
@@ -692,7 +699,9 @@
    "published": "2026-10-02T12:02:00.000Z",
    "summary": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "Balkanweb.com"
+   ],
    "important": false
   },
   {
@@ -744,7 +753,9 @@
    "published": "2026-10-02T10:38:08.000Z",
    "summary": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "il.investing.com"
+   ],
    "important": false
   },
   {
@@ -757,7 +768,9 @@
    "published": "2026-10-02T10:36:40.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "WTVB"
+   ],
    "important": false
   },
   {
@@ -809,7 +822,9 @@
    "published": "2026-10-02T10:10:33.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "thedefensepost.com"
+   ],
    "important": false
   },
   {
@@ -1001,6 +1016,19 @@
    "important": false
   },
   {
+   "id": "6cffc4e8147d",
+   "kind": "headline",
+   "title": "Pentagon Taps Elon Musk To Help Military Decide Which Weapons To Build Next. Musk’s Company SpaceX Already Holds $8 Billion In Defense Contracts",
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuSHlyNXVlUzIzWlJQMUFDNGN5T0ZzQ0kxOTBHb0VIUVk4YVI5TlllaHl3OTFwNG9MSUp1Rm9iaC1kM3ExUUdzdFdjdkRNMUJ4QzdsYWhpZW1EWkh6TjhCeW1Sd0pTN2xfVWpVNkdvc2JUeW9udFJsYzA2NHY?oc=5",
+   "topic": "defense",
+   "published": "2026-10-02T08:26:35.000Z",
+   "summary": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "27b7e959f638",
    "kind": "headline",
    "title": "Polish fuel prices will be 'lower' next week after president signs windfall tax law",
@@ -1010,7 +1038,9 @@
    "published": "2026-10-02T08:11:00.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "tvpworld.com"
+   ],
    "important": false
   },
   {
@@ -1116,6 +1146,19 @@
    "published": "2026-10-02T06:40:47.000Z",
    "summary": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "dfa8ce20d70b",
+   "kind": "headline",
+   "title": "Serbia Heads Toward Momentous Elections",
+   "source": "veridica.ro",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3N3VlRtWFRWbVFMcWJDVXZ3YUh0V0ZJNWVUampIenNsSXRXVjJWTGtiMHBodjNjaHZSOVZUN01jdjFwb2FscnFUR0cyNmNJSTRkT2k3bE9UOFo5UHVvcFpSWE9jdWRFa0w0QnNzTHl2WjNkVFRoWnhvLUtKNVN6Xw?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T06:05:02.000Z",
+   "summary": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -1354,6 +1397,19 @@
    "important": false
   },
   {
+   "id": "4de717c4c8aa",
+   "kind": "headline",
+   "title": "הדו\"ח השנתי של J7: עלייה של 136% במספר התקריות האנטישמיות",
+   "source": "מקור ראשון",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjTFU1NG5XQnhHeUtwZlZpbjMtUHJVODd2UzE0V0Z4ZWlWQ3AxNVJnU0pqWWdhSkZ0NjlTcjB1VDcyeWJqSUpYcFVnSzByQU1zSkwydWwxN01lWkVQY1dhOU9XVktWT0k?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-02T02:07:23.000Z",
+   "summary": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c989e3b2964c",
    "kind": "headline",
    "title": "Citing Iran war, US waives rights condition on Egypt military aid",
@@ -1428,7 +1484,9 @@
    "published": "2026-10-01T23:32:43.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "il.investing.com"
+   ],
    "important": false
   },
   {
@@ -1521,7 +1579,8 @@
    "score": 1,
    "alsoIn": [
     "KOB 4",
-    "Mainline Media News"
+    "Mainline Media News",
+    "Marin Independent Journal"
    ],
    "important": false
   },
