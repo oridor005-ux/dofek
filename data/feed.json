@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T23:05:47.041Z",
+ "updated": "2026-10-02T23:36:27.653Z",
  "items": [
   {
    "id": "690b8b85c6c7",
@@ -67,7 +67,8 @@
    "summary": "The government had proposed more protections for tenants after outrage at the eviction of an 87-year-old woman in Madrid.",
    "score": 0,
    "alsoIn": [
-    "The New York Times"
+    "The New York Times",
+    "nytimes.com"
    ],
    "important": false,
    "image": "https://static01.nyt.com/images/2026/10/02/world/europe/02vid-spain-housing-cover-image/02vid-spain-housing-cover-image-mediumSquareAt3X.jpg"
@@ -479,7 +480,9 @@
    "published": "2026-10-02T15:30:12.000Z",
    "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "bbc.co.uk"
+   ],
    "important": false,
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/a7710370-be62-11f1-b36c-81ad410b221e.jpg"
   },
@@ -717,7 +720,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "caspianpost.com"
+   ],
    "important": false
   },
   {
@@ -1065,7 +1070,9 @@
    "published": "2026-10-02T09:07:53.000Z",
    "summary": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "telesurenglish.net"
+   ],
    "important": false
   },
   {
@@ -1657,7 +1664,9 @@
    "published": "2026-10-02T01:55:19.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "kathmandupost.com"
+   ],
    "important": false
   },
   {
