@@ -91,14 +91,16 @@ async function collect() {
         const k = title.lastIndexOf(' - ');
         if (k > 10) { source = source || title.slice(k + 3); title = title.slice(0, k); }
       }
-      if (!title || !it.link) continue;
+      if (!title || !it.link || title.replace(/[-–\s]/g, '').length < 18) continue;
+      if (source && title.trim().endsWith(source) && title.length < 40) continue; // עמודי כותבים וכו'
       if (blockedSources.some(b => (source || '').toLowerCase().includes(b))) continue;
       if (blockedWords.some(b => lc(title).includes(b.toLowerCase()))) continue;
       const text = title + ' ' + (j.google ? '' : it.description);
       let topic;
       if (j.google) {
         // מחיפוש: רק אם הכותרת באמת קשורה (מתאימה למילות מפתח או למילים מהחיפוש)
-        const qWords = j.q.replace(/"|site:\S+|\bOR\b/g, ' ').split(/\s+/).filter(w => w.length > 2);
+        const generic = ['contract', 'support', 'results', 'government', 'parliament', 'passed', 'new', 'law', 'weapons', 'public', 'opinion', 'election', 'americans', 'europe', 'poll', 'deal', 'military', 'sanctions', 'state'];
+        const qWords = j.q.replace(/"|site:\S+|\bOR\b/g, ' ').split(/\s+/).filter(w => w.length > 2 && !generic.includes(w.toLowerCase()));
         const isSite = /site:/.test(j.q);
         topic = classify(text) || ((isSite || qWords.some(w => lc(title).includes(w.toLowerCase()))) ? j.topic : null);
       } else {
