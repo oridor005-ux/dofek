@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T10:50:42.898Z",
+ "updated": "2026-10-03T11:03:11.393Z",
  "items": [
+  {
+   "id": "7dfb9c8f2374",
+   "kind": "headline",
+   "title": "Who Will Pay the Bill for Britain’s Hypocrisy over Israel?",
+   "source": "Frontier India",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODJTbHNXQ0RYUmM3b25yUGNZUTg4NjJBWXVuQWNHMzFIa2ZQZDloa0F3SnFxYVVBNTVUbzhMOUh5QWV3QV9WckxfWWdyMENjemRQZFBiQVBzSVBTTHpQMU5FeS1MRTJrRWJ3R3hTRENpTTJMYm5LU3hXNHh1ZzRSNjlqb05pY0ZDdDhn?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T10:48:37.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "35e5be3bec34",
    "kind": "headline",
@@ -270,7 +284,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "newagebd.net"
+   ],
    "important": false
   },
   {
@@ -564,7 +580,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "newsonair.gov.in"
+   ],
    "important": false
   },
   {
