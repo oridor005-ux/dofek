@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T04:09:48.013Z",
+ "updated": "2026-10-03T04:39:41.725Z",
  "items": [
+  {
+   "id": "1d45de18bef2",
+   "kind": "headline",
+   "title": "\"לעזוב את ת\"א? בשורת יום הדין. שש שנים אחרי אני מגלה את הקסם במקום החדש\"",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/wlbhqqguq",
+   "topic": "econ",
+   "published": "2026-10-03T04:18:37.000Z",
+   "summary": "כשאיתי נפרד מאשתו הוא רצה להישאר קרוב לילדיו, אז עבר לרמה\"ש: \"זה הבית הכי גדול שגרתי בו\". את איילת הכיר כשעבדו כקולגות בפסטיבל, ואפילו היה אורח בחתונתה. אחרי שגם היא התגרשה נוצר חיבור חדש ביניהם. שניהם מגיעים מתחום התרבות והאמנות ומצליחים להימנע מחרדות כלכליות: \"יש לי דירה בת\"א שקניתי לפני המון…",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/S1dc6Fo9Ml/S1dc6Fo9Ml_0_37_1424_802_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "70908ef2d863",
    "kind": "headline",
@@ -140,7 +154,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "fijisun.com.fj"
+   ],
    "important": false
   },
   {
@@ -889,7 +905,9 @@
    "published": "2026-10-02T13:06:00.000Z",
    "summary": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "calcalist.co.il"
+   ],
    "important": false
   },
   {
@@ -944,7 +962,9 @@
    "published": "2026-10-02T12:33:00.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "calcalist.co.il"
+   ],
    "important": false
   },
   {
