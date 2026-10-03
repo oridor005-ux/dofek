@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T17:14:26.858Z",
+ "updated": "2026-10-03T17:25:53.075Z",
  "items": [
   {
    "id": "3a34da30832b",
@@ -12,7 +12,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "העין השביעית"
+   ],
    "important": false
   },
   {
@@ -385,6 +387,20 @@
    "published": "2026-10-03T09:02:05.000Z",
    "summary": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.",
    "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-canada-quebec-independence-promo/03int-canada-quebec-independence-vmcp-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f45afb82c15c",
+   "kind": "headline",
+   "title": "Political Parties’ Persistent Failure To Rebuild Civilian Rule",
+   "source": "The Friday Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUktwUVljbEFOMVNHUGk2MUt3dEhBTXNpZFFURkdpOGNhQndveWRNZ3lfWlQyX21LQUI3YnZ0SU95NVo1clJvQVZsc2JBWFFRUVVRSkFwaU8zUEt2azhiRnFqN090ODJhVkRDMVJWQ1pOaUFKekZtek8tU3NxT05zdGJxOGRqT2tmai12dVFZcVZYeG5VcDhEaXYta0xDVzFfN2Nv?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T08:59:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
