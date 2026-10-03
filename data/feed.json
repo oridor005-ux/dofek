@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T09:07:01.746Z",
+ "updated": "2026-10-03T09:38:49.782Z",
  "items": [
   {
    "id": "d5a1b9eeb42c",
@@ -25,6 +25,20 @@
    "published": "2026-10-03T09:02:23.000Z",
    "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
    "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03dc-lukoil-htwc/03dc-lukoil-htwc-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7ae53490caa3",
+   "kind": "headline",
+   "title": "Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
+   "topic": "world",
+   "published": "2026-10-03T09:02:05.000Z",
+   "summary": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.",
+   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-canada-quebec-independence-promo/03int-canada-quebec-independence-vmcp-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -68,6 +82,20 @@
    "summary": "מדינת ישראל הולכת לבחירות, והמשרוקית של גלובס מביאה את הסקרים העדכניים ביותר מכל כלי התקשורת &bull; מי מתחזק, מי נחלש ואיך זה משפיע על יחסי הכוחות בין המחנות? &bull; והפעם: סקר אחד שבר את הכללים, והבוחרים מפסיקים להתלבט",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1777299400/COT_Pic/800_ak1wdk.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6249cf871252",
+   "kind": "headline",
+   "title": "Rafael Leao to wear No. 7 shirt against Denmark after Ronaldo's departure",
+   "source": "Flashscore.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcEpDdzVmdzJQTl91RXluRzVFYzFtcnUwb0hjbGVhcVIzU2pMY0R5ak5yNmJGaDJyZlQ1cWpVQkx1U0lyb2hnYm1keGt4YnlhUmRxb0RlOERTdDN0NUJ0b0lrTHhrMWgxOXh0QmRQcDFvWVNYeVQxd2RuaDNUbDBKU2g5ZUFRdWp4bmpadUZBRURWWkdjNmpSbk5aMlhQWEZ0VDRrSVZJanRzU0pqdVhDT1RPVjJSa2o2dkJxN3c4eWhKRjc0NDJNcjQ1bFN4QTN6N2Z2QlFB?oc=5",
+   "topic": "defense",
+   "published": "2026-10-03T07:19:35.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -300,7 +328,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "telegraph.co.uk"
+   ],
    "important": false
   },
   {
@@ -1302,6 +1332,20 @@
    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-china-ai-reliance-01-zvhg/30int-china-ai-reliance-01-zvhg-mediumSquareAt3X.jpg"
   },
   {
+   "id": "8efee61d7773",
+   "kind": "headline",
+   "title": "כמעט עימות פיזי ומבוכה לקואליציה: החוק נפל בעקבות החרם החרדי | צפו",
+   "source": "כיכר השבת",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41dHdaLWd6X05fWnZOUFlzSEZYaU5YZ2RBakRDaWFsTkRrclV3RV9XcTVLdlVzX1dycTU1VzczT2hzQU0xNnBrU1pmcHhoQlMtT0lJNUFzejd0QjhCSjR3d2VTMlpsX2czZi01QlVyaUgzWUVUZHQ5OVJTT1ZYTGc?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-02T13:14:15.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c5727047e40f",
    "kind": "headline",
    "title": "\"כשהריבית עלתה ל־4.75%, הבנקים לא יכלו להשאיר את הלקוח על 0%\"",
@@ -1575,7 +1619,8 @@
    "score": 0,
    "alsoIn": [
     "WTVB",
-    "wkzo.com"
+    "wkzo.com",
+    "KELO-AM"
    ],
    "important": false
   },
