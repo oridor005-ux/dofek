@@ -234,8 +234,8 @@ const TOPICS = {
 };
 const STATE_TOPICS = ['demo','factcheck','media','knesset','laws','research'];
 const FILTERS = [
-  {id:'state',label:'המדינה',home:true}, {id:'all',label:'הכל'}, {id:'important',label:'חשוב',dot:'var(--accent)'}, {id:'insights',label:'ניתוחים',dot:'var(--accent2)'},
-  ...Object.entries(TOPICS).map(([id,t])=>({id,label:t.label,dot:`var(--${id})`})),
+  {id:'state',label:'המדינה',home:true}, {id:'media',label:'📺 בדיקת תקשורת',dot:'var(--media)'}, {id:'all',label:'הכל'}, {id:'important',label:'חשוב',dot:'var(--accent)'}, {id:'insights',label:'ניתוחים',dot:'var(--accent2)'},
+  ...Object.entries(TOPICS).filter(([id])=>id!=='media').map(([id,t])=>({id,label:t.label,dot:`var(--${id})`})),
 ];
 const TOPIC_COLORS = {
   dark:{econ:'#F2B544',demo:'#62C7B0',deals:'#8C9EFF',research:'#E58BD8',knesset:'#6FB2FF',laws:'#FF8A73',factcheck:'#FFD166',media:'#FF7A7A',israelAbroad:'#5FD3F0',defense:'#A3B86C',world:'#B9A4FF'},
@@ -387,6 +387,9 @@ async function load(){
   [feed, insights, summaries, config, serverSettings, requests] = await Promise.all([
     get('data/feed.json',{items:[]}), get('data/insights.json',{items:[]}), get('data/summaries.json',{}), get('config.json',{}), get('data/settings.json',{}), get('data/requests.json',{items:[]})]);
   requests.items ||= [];
+  const m = location.hash.match(/^#owner=(.+)$/);
+  if (m) { history.replaceState(null, '', basePath()); if (await unlockOwner(decodeURIComponent(m[1]))) toast('🔑 מצב מנהל הופעל במכשיר הזה'); }
+  await checkOwner();
   feed.items ||= []; insights.items ||= []; summaries ||= {};
   render();
   $('#refresh').classList.remove('spin');
@@ -414,7 +417,7 @@ let routed = false;
 function routeHash(){
   const h = decodeURIComponent(location.hash.slice(1)); if (!h || routed) return; routed = true;
   history.replaceState(null, '', basePath());
-  if (h.startsWith('h-')) openHeadline(h.slice(2)); else if (h === 'settings') openSettings(); else if (h === 'ask') openAsk(); else openInsight(h);
+  if (h.startsWith('h-')) openHeadline(h.slice(2)); else if (h === 'settings') openSettings(); else if (h === 'ask' && OWNER) openAsk(); else openInsight(h);
 }
 const paras = s => String(s||'').split(/\n\s*\n|\n/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join('');
 const byline = `<div class="byline"><img src="icons/icon-192.png" alt="">סיכום של דופק אמיתי (נכתב ע״י Claude לפי המקורות)</div>`;
@@ -467,10 +470,10 @@ function openNotif(){
   </ol>
   <a class="btn ghost" href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">1 · התקנת ntfy</a>
   <a class="btn" href="ntfy://ntfy.sh/${esc(t)}?display=${encodeURIComponent('דופק אמיתי')}">2 · חיבור לדופק</a>
-  <button class="btn ghost" id="testPush">שליחת פוש לדוגמה</button>
+  ${OWNER ? '<button class="btn ghost" id="testPush">שליחת פוש לדוגמה</button>' : ''}
   <p style="font-size:.8rem;color:var(--ink3);margin-top:14px">אם הכפתור לא עובד: ב-ntfy לוחצים + ומקלידים <code>${esc(t)}</code></p>
-  <p style="font-size:.8rem;color:var(--ink3);margin-top:8px">על אילו נושאים לקבל פושים ומתי — ב<a href="#settings" style="color:var(--accent)">הגדרות</a>.</p>`);
-  $('#testPush').onclick = testPush;
+  ${OWNER ? '<p style="font-size:.8rem;color:var(--ink3);margin-top:8px">על אילו נושאים לקבל פושים ומתי — ב<a href="#settings" style="color:var(--accent)">הגדרות</a>.</p>' : ''}`);
+  if (OWNER) $('#testPush').onclick = testPush;
 }
 async function testPush(){
   const it = feed.items.find(i=>i.topic==='demo') || feed.items[0];
@@ -485,10 +488,25 @@ async function testPush(){
 }
 $('#notifBtn').onclick = openNotif;
 
+// ===================== הרשאת בעלים =====================
+async function sha(t){ const b = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(t)); return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join(''); }
+let OWNER = false;
+async function checkOwner(){
+  const a = store.get('ownerAuth', '');
+  OWNER = !!(a && config.ownerCheck && await sha(a) === config.ownerCheck);
+  return OWNER;
+}
+async function unlockOwner(code){
+  const a = await sha('dofek-auth:' + code.trim());
+  if (config.ownerCheck && await sha(a) === config.ownerCheck) { store.set('ownerAuth', a); OWNER = true; return true; }
+  return false;
+}
+
 // ===================== שליחת טענה לבדיקה =====================
-const askBanner = () => `<button class="ask" id="askBtn"><span class="ic">📣</span><span><b>ראית טענה בתקשורת או ברשת?</b><small>טיקטוק, טלגרם, טלוויזיה, כתבה — שלח ו-Claude יבדוק בסבב הבא</small></span></button>`;
+const askBanner = () => !OWNER ? '' : `<button class="ask" id="askBtn"><span class="ic">📣</span><span><b>ראית טענה בתקשורת או ברשת?</b><small>טיקטוק, טלגרם, טלוויזיה, כתבה — שלח ו-Claude יבדוק בסבב הבא</small></span></button>`;
 let requests = {items:[]};
 function openAsk(){
+  if (!OWNER) return;
   const mine = store.get('myRequests', []);
   const tr = r => !r?.transcriptStatus ? '' : r.transcriptStatus === 'ok' ? ' <span class="st" style="color:var(--demo)">· 🎙️ הסרטון תומלל</span>'
     : ` <span class="st" style="color:var(--ink3)">· 🎙️ ${r.transcriptStatus.includes('login') ? 'האתר חוסם הורדה — נבדק לפי הציטוט' : r.transcriptStatus.includes('too-long') ? 'סרטון ארוך — ציין דקה' : 'לא תומלל — נבדק לפי הציטוט'}</span>`;
@@ -511,7 +529,7 @@ async function sendAsk(){
   const text = $('#askText').value.trim(), who = $('#askWho').value.trim(), link = $('#askLink').value.trim(), at = $('#askAt').value.trim();
   if (text.length < 8) { toast('כתוב מה נאמר'); return; }
   try {
-    const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: JSON.stringify({text, who, link, at}) });
+    const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: JSON.stringify({text, who, link, at, auth: store.get('ownerAuth','')}) });
     if (!r.ok) throw 0; const j = await r.json();
     const mine = store.get('myRequests', []); mine.push({id:j.id, text, who, sent:new Date().toISOString()}); store.set('myRequests', mine.slice(-30));
     toast('נשלח ✓ ייבדק בסבב הבא'); openAsk();
@@ -547,7 +565,7 @@ function openSettings(){
     <div class="set-row"><div class="l">תמונות ברשימה</div><input type="checkbox" class="tog" id="imgsTog" ${look.images?'checked':''}></div>
   </div>
 
-  <div class="set-sec">פושים — על מה לקבל</div>
+  ${OWNER ? `<div class="set-sec">פושים — על מה לקבל <span style="color:var(--demo)">· 🔑 מצב מנהל</span></div>
   <div class="set-card">${Object.entries(TOPICS).map(([t,x])=>`<div class="set-row"><div class="l"><span class="tpc" style="color:var(--${t})"><i style="background:var(--${t})"></i></span> ${x.full}</div><input type="checkbox" class="tog" data-pt="${t}" ${draftPush.pushTopics[t]!==false?'checked':''}></div>`).join('')}</div>
 
   <div class="set-sec">פושים — מתי וכמה</div>
@@ -560,12 +578,32 @@ function openSettings(){
       <div class="stepper"><button id="mxMinus">−</button><b id="mx">${draftPush.maxPushesPerRun}</b><button id="mxPlus">+</button></div></div>
   </div>
   <button class="btn" id="savePush">שמירת הגדרות הפושים</button>
-  <p style="font-size:.78rem;color:var(--ink3);margin-top:8px;text-align:center">הגדרות הפושים נכנסות לתוקף תוך חצי שעה. הגדרות המראה נשמרות מיד.</p>`, 'settings');
+  <p style="font-size:.78rem;color:var(--ink3);margin-top:8px;text-align:center">הגדרות הפושים נכנסות לתוקף תוך חצי שעה. הגדרות המראה נשמרות מיד.</p>` : `
+  <div class="set-sec">פושים</div>
+  <div class="set-card"><div class="set-row"><div class="l">אילו פושים נשלחים ומתי — נקבע על ידי מנהל האפליקציה.<small>הגדרות המראה כאן שלך בלבד ולא משפיעות על אחרים.</small></div></div></div>
+  <details style="margin-top:18px;font-size:.85rem;color:var(--ink3)"><summary>כניסת מנהל</summary>
+    <label class="field"><input id="ownerCode" dir="ltr" placeholder="קוד מנהל" autocomplete="off"></label>
+    <button class="btn ghost small" id="ownerGo">כניסה</button></details>`}`, 'settings');
 
+  if (!OWNER) {
+    $('#ownerGo').onclick = async () => { if (await unlockOwner($('#ownerCode').value)) { toast('🔑 מצב מנהל פעיל'); render(); openSettings(); } else toast('קוד שגוי'); };
+  }
+  const saveLook = () => { store.set('look', look); applyLook(); render(); };
+  bindLook(saveLook);
+  if (!OWNER) return;
   $('#qs').value = draftPush.quietHours.start; $('#qe').value = draftPush.quietHours.end;
   const syncQuiet = () => $('#quietRow').style.opacity = $('#quietTog').checked ? 1 : .4; syncQuiet();
-  const saveLook = () => { store.set('look', look); applyLook(); render(); };
-
+  document.querySelectorAll('[data-pt]').forEach(c => c.onchange = () => draftPush.pushTopics[c.dataset.pt] = c.checked);
+  $('#impSeg').onclick = e => { const b = e.target.closest('[data-imp]'); if (!b) return; draftPush.onlyImportant = b.dataset.imp === '1';
+    document.querySelectorAll('#impSeg button').forEach(x=>x.setAttribute('aria-pressed', x===b)); };
+  $('#quietTog').onchange = e => { draftPush.quietHours.enabled = e.target.checked; syncQuiet(); };
+  $('#qs').onchange = e => draftPush.quietHours.start = +e.target.value;
+  $('#qe').onchange = e => draftPush.quietHours.end = +e.target.value;
+  const setMx = d => { draftPush.maxPushesPerRun = Math.min(8, Math.max(1, draftPush.maxPushesPerRun + d)); $('#mx').textContent = draftPush.maxPushesPerRun; };
+  $('#mxMinus').onclick = () => setMx(-1); $('#mxPlus').onclick = () => setMx(1);
+  $('#savePush').onclick = savePush;
+}
+function bindLook(saveLook){
   $('#bgs').onclick = e => { const b = e.target.closest('[data-bg]'); if (!b) return;
     if (b.dataset.bg === 'custom' && (!store.get('bgImage','') || look.bg === 'custom')) { $('#bgFile').click(); return; }
     look.bg = b.dataset.bg; saveLook(); document.querySelectorAll('#bgs .sw').forEach(x=>x.setAttribute('aria-pressed', x===b)); };
@@ -579,18 +617,10 @@ function openSettings(){
   $('#size').oninput = e => { look.size = +e.target.value; $('#sizeLbl').textContent = look.size; saveLook(); };
   $('#imgsTog').onchange = e => { look.images = e.target.checked; saveLook(); };
 
-  document.querySelectorAll('[data-pt]').forEach(c => c.onchange = () => draftPush.pushTopics[c.dataset.pt] = c.checked);
-  $('#impSeg').onclick = e => { const b = e.target.closest('[data-imp]'); if (!b) return; draftPush.onlyImportant = b.dataset.imp === '1';
-    document.querySelectorAll('#impSeg button').forEach(x=>x.setAttribute('aria-pressed', x===b)); };
-  $('#quietTog').onchange = e => { draftPush.quietHours.enabled = e.target.checked; syncQuiet(); };
-  $('#qs').onchange = e => draftPush.quietHours.start = +e.target.value;
-  $('#qe').onchange = e => draftPush.quietHours.end = +e.target.value;
-  const setMx = d => { draftPush.maxPushesPerRun = Math.min(8, Math.max(1, draftPush.maxPushesPerRun + d)); $('#mx').textContent = draftPush.maxPushesPerRun; };
-  $('#mxMinus').onclick = () => setMx(-1); $('#mxPlus').onclick = () => setMx(1);
-  $('#savePush').onclick = savePush;
 }
 async function savePush(){
-  const s = { v:1, ...draftPush, updated: new Date().toISOString() };
+  if (!OWNER) return;
+  const s = { v:1, ...draftPush, updated: new Date().toISOString(), auth: store.get('ownerAuth','') };
   store.set('pushSettings', s);
   if (!config.settingsTopic) { toast('נשמר במכשיר'); return; }
   try {
@@ -621,6 +651,7 @@ document.addEventListener('click', e => {
 });
 $('#q').addEventListener('input', e => { query = e.target.value.trim().toLowerCase(); render(); });
 $('#refresh').onclick = load;
+window.addEventListener('hashchange', () => { if (location.hash.startsWith('#owner=')) load(); });
 document.addEventListener('visibilitychange', () => { if (!document.hidden) load(); });
 
 let deferred;
