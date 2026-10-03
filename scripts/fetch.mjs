@@ -131,6 +131,8 @@ async function collect() {
       }
       if (!title || !it.link || title.replace(/[-–\s]/g, '').length < 18) continue;
       if (source && title.trim().endsWith(source) && title.length < 40) continue; // עמודי כותבים וכו'
+      if (/(^|\s)-\s*(העין השביעית|שקוף)\s*$|^שערי העיתונים|^\s*-\s/.test(title) || /cdn\.|\.pdf(\?|$)/i.test(it.link)) continue; // עמודי כותבים, מסמכים
+      if ((/the7eye|shakuf|העין השביעית|שקוף/i.test(source + it.link)) && title.split(/\s+/).length < 4) continue; // שם של כותב בלבד
       if (blockedSources.some(b => (source || '').toLowerCase().includes(b) || it.link.toLowerCase().includes(b.replace(/\s/g, '')))) continue;
       if (blockedWords.some(b => lc(title).includes(b.toLowerCase()))) continue;
       if (/[\u0600-\u06FF]/.test(source + title)) continue; // אתרים בערבית (תרגום מכונה לא אמין)

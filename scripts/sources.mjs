@@ -23,7 +23,7 @@ export const directFeeds = [
   { name: 'גלובס', url: 'https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2' },
   { name: 'ynet כלכלה', url: 'https://www.ynet.co.il/Integration/StoryRss6.xml', topic: 'econ' },
   { name: 'שקוף', url: 'https://shakuf.co.il/feed', fallback: 'knesset' },
-  { name: 'העין השביעית', url: 'https://www.the7eye.org.il/feed', fallback: 'knesset' },
+  { name: 'העין השביעית', url: 'https://www.the7eye.org.il/feed', topic: 'media' },  // כלב השמירה של התקשורת
   { name: 'Times of Israel', url: 'https://www.timesofisrael.com/feed/' },
   // עולם
   { name: 'Wall Street Journal', url: 'https://feeds.content.dowjones.io/public/rss/RSSWorldNews' },
@@ -85,7 +85,6 @@ export const googleQueries = [
   { q: 'ועדת הכספים של הכנסת', topic: 'knesset' },
   { q: 'מליאת הכנסת', topic: 'knesset' },
   { q: 'site:shakuf.co.il', topic: 'knesset' },
-  { q: 'site:the7eye.org.il', topic: 'knesset' },
   // חוקים
   { q: '"בקריאה שלישית"', topic: 'laws' },
   { q: '"בקריאה ראשונה" הצעת חוק', topic: 'laws' },
