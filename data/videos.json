@@ -324,12 +324,77 @@
    "found": "2026-10-03T18:44:00Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7691630674842782994.txt"
+  },
+  {
+   "id": "7692526506895035669",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692526506895035669",
+   "caption": "הזכרונות מהטבח הנורא מכים בנו: לקט של מספר פוסטים של שורדי שבי ומשפחו...",
+   "posted": "1791055908",
+   "found": "2026-10-03T20:27:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692526506895035669.txt"
+  },
+  {
+   "id": "7692513354639838485",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692513354639838485",
+   "caption": "פרטים חדשים חושפים: ישראל קיבלה מראש את רשימת הצוות של טיסת פלי דובאי...",
+   "posted": "1791052842",
+   "found": "2026-10-03T20:27:37Z",
+   "status": "failed"
+  },
+  {
+   "id": "7691662369671466260",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7691662369671466260",
+   "caption": "טייס שעבד בשביל האמירויות ונוסעים ישראלים הצליחו יחד להילחם בטרור | מ...",
+   "posted": "1790854707",
+   "found": "2026-10-03T20:28:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691662369671466260.txt"
+  },
+  {
+   "id": "7691696684203642132",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7691696684203642132",
+   "caption": "\"שני חברי כנסת לא מגיעים - הוא הסתובב וחיפש, ואין לו רוב\" 👇 עשור למות...",
+   "posted": "1790924400",
+   "found": "2026-10-03T20:28:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691696684203642132.txt"
+  },
+  {
+   "id": "7691711376435236117",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7691711376435236117",
+   "caption": "\"מי שאין לו שישה מנדטים עדיף שלא ירוץ בבחירות האלה\" 👇 השר לשעבר מתן כ...",
+   "posted": "1790867100",
+   "found": "2026-10-03T20:28:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691711376435236117.txt"
+  },
+  {
+   "id": "7691710328459119893",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7691710328459119893",
+   "caption": "\"עוד רגע היו אומרים שנתניהו הוא זה שניסה להפיל את המטוס\" 👇 חבר הכנסת ...",
+   "posted": "1790865872",
+   "found": "2026-10-03T20:29:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691710328459119893.txt"
   }
  ],
  "health": {
-  "at": "2026-10-03T18:44:03Z",
+  "at": "2026-10-03T20:29:11Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 10
+  "transcribed": 6
  }
 }
