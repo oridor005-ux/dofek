@@ -23,8 +23,9 @@
  "ownerKeySet": true,
  "ntfyTokenSet": false,
  "testPush": {
-  "at": "2026-10-03T11:48:41.733Z",
+  "at": "2026-10-03T11:50:01.945Z",
   "ok": true,
+  "anonymousPublishStatus": 403,
   "error": "",
   "token": true,
   "ownerKey": true
