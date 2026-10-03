@@ -74,6 +74,7 @@ def try_whisper(url, tmp, at=None):
     code, out = run(['yt-dlp', '-f', 'bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7',
                      '--no-playlist', *rng, '-o', os.path.join(tmp, 'audio.%(ext)s'), url], timeout=900)
     audio = glob.glob(os.path.join(tmp, 'audio.*'))
+    log('download:', out[-300:], audio)
     if not audio:
         return None, out[-500:]
     from faster_whisper import WhisperModel
@@ -152,6 +153,7 @@ if __name__ == '__main__':
         for u in sys.argv[2:]:
             log('=' * 20, u)
             try: test(u)
-            except Exception as e: log('error', e)
+            except Exception as e:
+                import traceback; traceback.print_exc(file=sys.stdout)
     else:
         main()
