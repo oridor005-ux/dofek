@@ -411,12 +411,33 @@
    "found": "2026-10-03T21:13:18Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692551483694271796.txt"
+  },
+  {
+   "id": "7692555720436256018",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7692555720436256018",
+   "caption": "ישיבת רמת גן לְעוֹרֵר לִבִּי לְאַהֲבָתֶךָ",
+   "posted": "1791062714",
+   "found": "2026-10-03T21:27:55Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7692552707361574162",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7692552707361574162",
+   "caption": "שדרות 3 שנים אחרי האסון:",
+   "posted": "1791062005",
+   "found": "2026-10-03T21:28:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692552707361574162.txt"
   }
  ],
  "health": {
-  "at": "2026-10-03T21:13:21Z",
+  "at": "2026-10-03T21:28:19Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
