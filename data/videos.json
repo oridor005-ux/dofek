@@ -97,7 +97,7 @@
    "caption": "מ-30,000 רגל ל-3 מיליון צפיות🤯 תיירים ישראלים בהודו יצאו להביע אות תו...",
    "posted": "1790942400",
    "found": "2026-10-03T14:33:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692018887994428680.txt"
   },
   {
@@ -118,7 +118,7 @@
    "caption": "בית של כוח, עשייה ותקווה חדשה ​בימים אלה החל לפעול בית הלוחם החדש באש...",
    "posted": "1790937780",
    "found": "2026-10-03T14:34:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692012272746630407.txt"
   },
   {
@@ -129,8 +129,11 @@
    "caption": "פרק רביעי: ״הדמוקרטים״ בראשות יאיר גולן. האם אתם מצביעים למפגה של יאי...",
    "posted": "1790787005",
    "found": "2026-10-03T14:36:47Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691371570576592136.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691371570576592136.txt",
+   "insightIds": [
+    "ins-2026-10-03-mgol"
+   ]
   },
   {
    "id": "7691670304510283028",
@@ -140,7 +143,7 @@
    "caption": "יש אנשים שעדיין חושבים שזה סבבה להחרים עסק בגלל דעה פוליטית 👆  📍פינת ...",
    "posted": "1790856556",
    "found": "2026-10-03T14:37:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7691670304510283028.txt"
   },
   {
@@ -151,8 +154,11 @@
    "caption": "יש אנשים שעדיין לא יודעים מי זה עופר וינטר? 🗳️ #עופרוינטר #בחירות #עמ...",
    "posted": "1790762467",
    "found": "2026-10-03T14:38:20Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691266204970929429.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691266204970929429.txt",
+   "insightIds": [
+    "ins-2026-10-03-mwin"
+   ]
   },
   {
    "id": "7690966622126886162",
@@ -162,8 +168,11 @@
    "caption": "זוהר מפרק את שקר ה53 מליארד 🤑 #בחירות2026 #ביבי #ממשלה #לפיד #בנט ",
    "posted": "1790692718",
    "found": "2026-10-03T14:39:06Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7690966622126886162.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7690966622126886162.txt",
+   "insightIds": [
+    "ins-2026-10-03-m53b"
+   ]
   },
   {
    "id": "7692051682624081159",
@@ -173,7 +182,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1790945351",
    "found": "2026-10-03T14:39:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692051682624081159.txt"
   },
   {
@@ -184,7 +193,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1790942974",
    "found": "2026-10-03T14:39:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692041481669840135.txt"
   },
   {
@@ -195,7 +204,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1790941835",
    "found": "2026-10-03T14:40:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692036588368301319.txt"
   }
  ]
