@@ -70,13 +70,19 @@ def to_sec(at):
 
 def try_whisper(url, tmp, at=None):
     t = to_sec(at) if at else None
-    rng = ['--download-sections', f'*{max(0, t - 60)}-{t + 300}'] if t is not None else ['--match-filter', f'duration < {MAX_SECONDS}']
-    code, out = run(['yt-dlp', '-f', 'bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7',
-                     '--no-playlist', *rng, '-o', os.path.join(tmp, 'audio.%(ext)s'), url], timeout=900)
-    audio = glob.glob(os.path.join(tmp, 'audio.*'))
-    log('download:', out[-300:], audio)
-    if not audio:
+    flt = [] if t is not None else ['--match-filter', f'duration < {MAX_SECONDS}']
+    # מורידים את השמע המלא (בלי המרה), ואז חותכים בעצמנו עם ffmpeg — אמין יותר מהורדה חלקית
+    code, out = run(['yt-dlp', '-f', 'bestaudio/worst[acodec!=none]/best', '--no-playlist', *flt,
+                     '-o', os.path.join(tmp, 'src.%(ext)s'), url], timeout=1200)
+    src = [f for f in glob.glob(os.path.join(tmp, 'src.*')) if os.path.getsize(f) > 10000 and not f.endswith('.part')]
+    if not src:
         return None, out[-500:]
+    wav = os.path.join(tmp, 'audio.wav')
+    cut = ['-ss', str(max(0, t - 60)), '-t', '360'] if t is not None else []
+    c2, o2 = run(['ffmpeg', '-y', '-loglevel', 'error', *cut, '-i', src[0], '-vn', '-ac', '1', '-ar', '16000', wav], timeout=600)
+    if not os.path.exists(wav) or os.path.getsize(wav) < 10000:
+        return None, 'ffmpeg: ' + o2[-300:]
+    audio = [wav]
     from faster_whisper import WhisperModel
     model = WhisperModel(MODEL, device='cpu', compute_type='int8')
     segs, info = model.transcribe(audio[0], vad_filter=True, beam_size=1)
