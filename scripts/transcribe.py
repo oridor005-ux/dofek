@@ -11,7 +11,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REQ = os.path.join(ROOT, 'data', 'requests.json')
 OUT = os.path.join(ROOT, 'data', 'transcripts')
 MAX_SECONDS = int(os.environ.get('MAX_SECONDS', '1500'))  # עד 25 דקות
-MODEL = os.environ.get('WHISPER_MODEL', 'small')
+MODEL = os.environ.get('WHISPER_MODEL', 'ivrit-ai/whisper-large-v3-turbo-ct2')  # מודל מאומן לעברית
 VIDEO_HOSTS = re.compile(r'(youtube\.com|youtu\.be|tiktok\.com|instagram\.com|facebook\.com|fb\.watch|x\.com|twitter\.com|t\.me|vimeo\.com|kan\.org\.il|mako\.co\.il|13tv\.co\.il|now14\.co\.il|i24news|reshet)', re.I)
 
 
@@ -68,6 +68,17 @@ def to_sec(at):
         return None
 
 
+_MODEL = None
+
+
+def get_model():
+    global _MODEL
+    if _MODEL is None:
+        from faster_whisper import WhisperModel
+        _MODEL = WhisperModel(MODEL, device='cpu', compute_type='int8', cpu_threads=os.cpu_count() or 4)
+    return _MODEL
+
+
 def try_whisper(url, tmp, at=None):
     t = to_sec(at) if at else None
     wav = os.path.join(tmp, 'audio.wav')
@@ -90,16 +101,15 @@ def try_whisper(url, tmp, at=None):
     if not os.path.exists(wav) or os.path.getsize(wav) < 10000:
         return None, 'ffmpeg: ' + o2[-300:]
     audio = [wav]
-    from faster_whisper import WhisperModel
-    model = WhisperModel(MODEL, device='cpu', compute_type='int8')
-    segs, info = model.transcribe(audio[0], vad_filter=True, beam_size=1)
+    model = get_model()
+    segs, info = model.transcribe(audio[0], vad_filter=True, beam_size=1, language=os.environ.get('WHISPER_LANG') or None)
     parts, off = [], (max(0, t - 60) if t is not None else 0)
     for s in segs:
         m, sec = divmod(int(s.start) + off, 60)
         parts.append(f'[{m:02d}:{sec:02d}] {s.text.strip()}')
     if not parts:
         return None, 'no-speech'
-    return '\n'.join(parts), f'whisper-{MODEL} ({info.language})'
+    return '\n'.join(parts), f'whisper ({info.language})'
 
 
 def meta(url):
