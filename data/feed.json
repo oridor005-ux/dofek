@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T07:40:58.780Z",
+ "updated": "2026-10-03T07:55:58.405Z",
  "items": [
   {
    "id": "a4c1f59b27c7",
@@ -40,7 +40,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Budapest Times"
+   ],
    "important": false
   },
   {
@@ -82,7 +84,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Euronews.com"
+   ],
    "important": false
   },
   {
@@ -166,7 +170,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ua.news"
+   ],
    "important": false
   },
   {
@@ -177,6 +183,20 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWEFIazBIWXpRMHBXWnNPa0lHbF85YUt6RTFyMVhsY01lZ0drbVZsaTBLckQ0NTlUd2NoT0luZ0xZMzk5OXJ5MXAzbjhyZ1AzUk56cnd5bw?oc=5",
    "topic": "world",
    "published": "2026-10-03T06:13:58.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f9d58163f00f",
+   "kind": "headline",
+   "title": "Voters in Latvia are electing a new parliament amid rising living costs and national security concerns",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2c0MDNlR3JaYmphUE9iWWE0aFNDM1BOMGJSUXBOWFU0YXB4a0NCTVgyaS03bkYzTkU2REhFLTJRaEg4UllGUUNPVlVsUlVUVVJGMW5qNVl4OThtRGdEbnlGTTVaTnBpTTUtMVpLOUxIcjVqVENtaXRlci1wNjdaVmtXRVE2LUVXeFFTQ3gtc1ZxbmfSAZMBQVVfeXFMT3NMclNST3hqR09IeThIMUV6bjNOdzJDRm52MkFzcHg5UTRGSlRYQWJhTWJXRWN4Z0FEMVRXN3BPTzRIZEZqZjBhb0NhTFNVQW9XRDhBU3VkSVBIRXRLLU5sZ3FJalZNRk10a1B4QTR1eUVYRUp1UThPQkhnT0VTY3MyUm4wNjY3eGlzbUtnZWZtcFBR?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T06:11:12.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -208,7 +228,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "fbcnews.com.fj"
+   ],
    "important": false
   },
   {
