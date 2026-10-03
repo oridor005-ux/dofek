@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T05:04:41.875Z",
+ "updated": "2026-10-03T05:22:37.154Z",
  "items": [
+  {
+   "id": "3ca747912356",
+   "kind": "headline",
+   "title": "Brian Feeney: The world is finally turning on Israel’s odious government",
+   "source": "The Irish News",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdzZIdXB0eFc4enBsNGFwSDFwYThCbkVQUm9RZWx2WmpXVzdudUdSLUpYeWprNkhlQU5KRGhadTMyd1hvbUtVQkxzVTFBSmFiajdSNGxMRElDV0ptTV9UX0gwYU1uWF9oLU9WcGlMcXJZMkJyU0JneVRiOUYzcWVMSm9BRnRsb2xLcm5RZVRNWVpBM08zR1pPUDF2NE5QOG1NUjFkXzA5SzFmNklQUHZYRFBEbndGT29ISms2bzVnQkJackI0Z2J1UTlBZUw?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T05:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "4886335ccf7e",
    "kind": "headline",
@@ -68,7 +82,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "fbcnews.com.fj"
+   ],
    "important": false
   },
   {
@@ -2352,6 +2368,20 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/b870998eeaf70dab6f49c2eb5b9a5b094baf1bde/353_0_2191_1753/master/2191.jpg?width=140&quality=85&auto=format&fit=max&s=1a6672be57d90f57c2b0d6abde159f33"
+  },
+  {
+   "id": "60e7f97fc3cf",
+   "kind": "headline",
+   "title": "דולפינים שמעבירים ידע, תמנונים עם \"מדריך\" ותמרוני חתולים: מה קורה כשמסתכלים על חיות אחרת?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558210#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-01T15:19:00.000Z",
+   "summary": "באוסטרליה צפו כיצד נקבת הדולפין מעבירה טכניקת ציד לגור שלה • מחקר גילה שלחתול יש \"טביעת אצבע\" כימית שרק חתולים מסוגלים לפרש • כאן נכנס למשוואה ה־AI, שיאתר את מה שבני האדם פספסו",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789045452/%D7%93%D7%95%D7%9C%D7%A4%D7%99%D7%9F_hmnwi8.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "aac0d5c2f31d",
