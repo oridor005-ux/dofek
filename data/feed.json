@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T08:09:54.461Z",
+ "updated": "2026-10-03T08:43:50.965Z",
  "items": [
+  {
+   "id": "c1ca8032cde2",
+   "kind": "headline",
+   "title": "כיתות הרוסות, בריקדות ובתי ספר בלהבות: מחאת תלמידים מטלטלת את צרפת",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558312#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-03T08:35:00.000Z",
+   "summary": "מחאת צעירים אלימה על מתפשטת בצרפת רקע דרישות לשיפור תנאי החינוך • המהומות כוללות עימותים עם המשטרה, הצתות ופציעות, לצד ביקורת על התנהלות הרשויות ועל עוצמת הדיכוי המשטרתי • המחאה הפכה לסוגיה פוליטית לקראת הבחירות לנשיאות, כשימין ושמאל חלוקים בין סוגיות הגירה וביטחון לבין מצוקת מערכת החינוך",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791016158/AP26274296755769_xp8lzw.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "a4c1f59b27c7",
    "kind": "headline",
@@ -244,6 +258,20 @@
    "summary": "הפעם האחרונה שבה התקיימה פגישה דומה הייתה ביוני 2025, לפי היציאה למלחמה עם איראן • סגן הנשיא ואנס ניהל את הפגישה שהתקיימה אתמול בקמפ דייוויד וארכה שעות • שר ההגנה, שר האוצר, ראש ה-CIA ויו\"ר המטות המשולבים נכחו בה • דיווח: טייס המשנה של פליי-דובאי הושפע מרעיונות קיצוניים במהלך שהייתו בעבר בסוריה •…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1739351945/direct/AP25030604636093_sxqluv.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "96e15529517b",
+   "kind": "headline",
+   "title": "Netanyahu: Burnham’s Britain is a ‘rogue state’",
+   "source": "The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEVmYThKZXNldTJyZFhuYlFLZG1oYnlHd0tCY012Zm1peDN6MERUQTlxSHMweU1KaU50M1pEbDQ2bnNIdnRzT3dRSEJwY05pczJaSVRsWXNlZDVBVTFNWkpEbUhlRFdZdDJUT2hmanFNaFFkcUVBOUpYdDh4c2RHUWh2SUE3TEZUcVZFN2VCRnhsZS1GQUtfOHpRQQ?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-03T05:39:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
