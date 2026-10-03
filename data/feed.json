@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T15:54:42.032Z",
+ "updated": "2026-10-03T16:06:07.623Z",
  "items": [
+  {
+   "id": "974d045a3bb0",
+   "kind": "headline",
+   "title": "Protesters in Geneva are calling for sanctions against Israel",
+   "source": "bluewin.ch",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWdEV2JLVTIzLWtxN09TeXVpTjQzZ0F3dGpUV3U4a0tqSjM2Y3VDWEZVTm1kRTZhWDFwd3k0X2Q3RS1aTFRSdGRhaEJCYzlRNUxiTVZBS3lYWDZUUG1ZSWxJWmNwNnZLRnFRNmZOaVZXdE05Ul9BQTFtMnFPVEtBdldPOWhLVERZR2JiYW5BN1h2R3Vfd0t0cWRUSDJPelBmU28ycWN3?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T15:52:59.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "48fa2994af59",
    "kind": "headline",
@@ -326,7 +340,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "uk.news.yahoo.com"
+   ],
    "important": false
   },
   {
