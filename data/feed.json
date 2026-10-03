@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T03:44:49.748Z",
+ "updated": "2026-10-03T04:09:48.013Z",
  "items": [
   {
    "id": "70908ef2d863",
@@ -130,6 +130,20 @@
    "important": false
   },
   {
+   "id": "ce1467ac8c6a",
+   "kind": "headline",
+   "title": "Turaga: Referendum will have one question",
+   "source": "Fiji Sun",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOazlfWE1CYUtGN2ZSd3ZnenRaeTRLYjZENUZ1ZFFVLThiVFdmaHlNOXhhVHNHYlV2ZmM5Y1lscFoyTWpOa2Q5aWx4NmZzRkN6c2J5RGlxdkxmVGhjZFhEUlpON2Z0Tndkd0F2eTlzTzBvZ3VySmNGRzNzdmVKN25tMA?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T21:53:53.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "41e7bccace58",
    "kind": "headline",
    "title": "Anti-Israel Group Targets South Florida Races With an Anti-AIPAC Litmus Test",
@@ -172,6 +186,20 @@
    ],
    "important": false,
    "image": "https://static01.nyt.com/images/2026/10/02/world/europe/02vid-spain-housing-cover-image/02vid-spain-housing-cover-image-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "46cccb09a34f",
+   "kind": "headline",
+   "title": "In Saxony-Anhalt election, small parties will be kingmakers",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2ZBd1JLdWo2TFg4SXhpdjgtZ0ZURXpyaThvQmVXXzg0Q2J3dk9qV3luMkRuRFlYVDZ3MGhnWjdkY3dwbnlGamFybm5BaGxtZUlwbV9rNXd5TUs1LUd4d0hyaFJmcVJLb2hUZ0FUVU9wS3V5Z0FIRjZzOHU0X0JlYjFLa29uQlBBYlFPQ0dlcHV0dkd2WFHSAZYBQVVfeXFMUGtwTFY3VHhRaEZpa3lhRXVkVmZ0c19yUmN4RFZKcUdhdU5LU2MyWUFtRDdPaFViYXVRczZvXzNDS0dtRUNmXzZSeVBGQnJTQ00yS3ZjMUJWOS1YSmJGLWhSci1FZFNGRW5VOVE2SHVpbmFJc0hOb3d4OXVXWDJJcWhMY3ZPYkRYT3RtNTNuQ2l6OVNncjFB?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T20:56:07.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "c7671cc13049",
@@ -419,7 +447,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "theguardian.com"
+   ],
    "important": false
   },
   {
@@ -955,7 +985,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "ynetnews.com"
+   ],
    "important": false
   },
   {
@@ -1304,7 +1336,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "巴士的報"
+   ],
    "important": false
   },
   {
