@@ -56,12 +56,12 @@ jobs:
         run: |
           pip install -q -r scripts/requirements.txt
           if [ -n "${{ inputs.test_urls }}" ]; then
-            python scripts/transcribe.py --test ${{ inputs.test_urls }}
+            mkdir -p data/transcripts
+            python scripts/transcribe.py --test ${{ inputs.test_urls }} 2>&1 | tee data/transcripts/_test.log
           else
             python scripts/transcribe.py
           fi
       - name: שמירה
-        if: ${{ !inputs.test_urls }}
         run: |
           git config user.name "dofek-bot"
           git config user.email "dofek-bot@users.noreply.github.com"
