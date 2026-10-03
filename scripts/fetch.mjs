@@ -316,7 +316,9 @@ async function main() {
 
   if (process.env.TEST_PUSH) {
     const ok = await push({ title: 'בדיקת ערוץ נעול ✅', message: 'אם הפוש הזה הגיע — הערוץ הנעול של דופק אמיתי עובד.', image: card('general') });
-    state.testPush = { at: now.toISOString(), ok, error: ok ? '' : lastPushError.slice(0, 200), token: !!process.env.NTFY_TOKEN, ownerKey: !!OWNER_KEY };
+    let anon = 0;
+    try { anon = (await fetch(`${NTFY}/${config.ntfyTopic}`, { method: 'POST', body: 'בדיקה: אם ההודעה הזו הגיעה, הערוץ לא נעול' })).status; } catch {}
+    state.testPush = { at: now.toISOString(), ok, anonymousPublishStatus: anon, error: ok ? '' : lastPushError.slice(0, 200), token: !!process.env.NTFY_TOKEN, ownerKey: !!OWNER_KEY };
     writeJSON('data/state.json', state);
     return;
   }
