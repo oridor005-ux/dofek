@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T17:37:12.358Z",
+ "updated": "2026-10-03T17:37:28.300Z",
  "items": [
   {
    "id": "3a34da30832b",
@@ -158,6 +158,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7dd7fc23b898",
+   "kind": "headline",
+   "title": "Palestinian Foreign Ministry condemns Israeli massacres in Gaza",
+   "source": "sana.sy",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyNEVGVnBhQlcwM203dEZVRl9XcEhPSlE4UTN2UWpOaHFxQTZkc2FBejBYWFI5UTl2d0RCcnE1S1czcmVaN2xUdW5ZVXpyVGU4?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T13:38:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
