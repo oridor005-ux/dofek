@@ -19,9 +19,9 @@
   "ins-2026-10-03-gk75"
  ],
  "pending": [],
- "lastRun": "2026-10-03T11:40:39.333Z",
+ "lastRun": "2026-10-03T13:35:52.649Z",
  "ownerKeySet": true,
- "ntfyTokenSet": false,
+ "ntfyTokenSet": true,
  "testPush": {
   "at": "2026-10-03T11:50:01.945Z",
   "ok": true,

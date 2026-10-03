@@ -1,0 +1,23 @@
+{
+ "updated": "2026-10-03T11:56:42.895Z",
+ "pushTopics": {
+  "econ": true,
+  "demo": true,
+  "deals": true,
+  "research": true,
+  "knesset": true,
+  "laws": true,
+  "factcheck": true,
+  "media": true,
+  "israelAbroad": true,
+  "defense": true,
+  "world": true
+ },
+ "quietHours": {
+  "start": 23,
+  "end": 7,
+  "enabled": true
+ },
+ "maxPushesPerRun": 4,
+ "onlyImportant": true
+}
