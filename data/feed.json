@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T01:38:31.369Z",
+ "updated": "2026-10-03T02:04:35.485Z",
  "items": [
+  {
+   "id": "18d12e0d3a0d",
+   "kind": "headline",
+   "title": "Koshi Province Government Prepares to Pass Language Bill Before Dashain",
+   "source": "Ratopati",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3h2S3pjN0dGRXNsR1FUV0Z5bkhQQV8tQlkzU244bHpEWE51bldtdnQyeVFaVkJBaC0xRlZTYUxNRkF0dm1PUi1wSVVraGdsZG1ZS3dwc1pOM254bUpQSVZTaHlOR0tFZERQTUtWUVliTVg5eVBTVFJldk9FeFJacklseXJ5Mk1tUFY1ai14OWZkbGl5MkVScnVn?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T01:46:14.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2d3ee77c3918",
    "kind": "headline",
@@ -418,7 +432,9 @@
    "published": "2026-10-02T16:27:36.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "omfif.org"
+   ],
    "important": false
   },
   {
@@ -923,7 +939,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "sg.news.yahoo.com"
+   ],
    "important": false
   },
   {
@@ -1138,7 +1156,8 @@
    "alsoIn": [
     "Internazionale",
     "Reuters",
-    "Rock Hill Herald"
+    "Rock Hill Herald",
+    "sg.news.yahoo.com"
    ],
    "important": true
   },
