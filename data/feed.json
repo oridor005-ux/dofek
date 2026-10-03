@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T10:04:06.212Z",
+ "updated": "2026-10-03T10:50:42.898Z",
  "items": [
+  {
+   "id": "35e5be3bec34",
+   "kind": "headline",
+   "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
+   "topic": "world",
+   "published": "2026-10-03T10:25:33.000Z",
+   "summary": "Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.",
+   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-iran-iraq-flights-hzlq/03int-iran-iraq-flights-hzlq-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "ad21ea77e333",
    "kind": "headline",
@@ -565,7 +579,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "reuters.com"
+    "reuters.com",
+    "Reuters"
    ],
    "important": false
   },
@@ -622,6 +637,20 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "15e142150bdb",
+   "kind": "headline",
+   "title": "אליסון נותן למיזוג של 110 מיליארד דולר את השם סקיידאנס",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNmlpd3JwS3dTU3hGb3MwcTkwbF9FZ19sTXBlVkZsZkJlb2c4eUJZRmZrU0RaLWQzdHJYRTJkUmlyaldLclNtTFRFZEg5SVpTeFlOdkhvQVBaeGVTMjMzdFFXSkRxTFR2ZkxYanQwaV8?oc=5",
+   "topic": "deals",
+   "published": "2026-10-02T22:03:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -1432,7 +1461,9 @@
    "published": "2026-10-02T12:59:35.000Z",
    "summary": "",
    "score": 3,
-   "alsoIn": [],
+   "alsoIn": [
+    "themedialine.org"
+   ],
    "important": true
   },
   {
