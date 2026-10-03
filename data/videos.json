@@ -1,1 +1,81 @@
-{ "items": [] }
+{
+ "items": [
+  {
+   "id": "7691342019720924423",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7691342019720924423",
+   "caption": "המטוס, הישראלים הגיבורים, והישראלי הכי הכי הכי גיבור. #מטוס #פוליטיקה...",
+   "posted": "1790780119",
+   "found": "2026-10-03T10:55:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691342019720924423.txt"
+  },
+  {
+   "id": "7692053111870852373",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7692053111870852373",
+   "caption": "מגבירים קצב, כל הדרך לתיקון 🇮🇱 @יונתן שלו  #ריצה #ישראל ",
+   "posted": "1790945680",
+   "found": "2026-10-03T10:56:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692053111870852373.txt"
+  },
+  {
+   "id": "7691583104795823381",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7691583104795823381",
+   "caption": "גם לאהרון מבני ברק מגיע לדעת אנגלית>> #פוליטיקה #ישראל #בניברק #אנגלית ",
+   "posted": "1790836252",
+   "found": "2026-10-03T10:56:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691583104795823381.txt"
+  },
+  {
+   "id": "7691213464882253077",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7691213464882253077",
+   "caption": "פרלמנט בני ברק בלי צנזורה. נמשיך להילחם כדי לקיים שיח אמיתי עם כל חלק...",
+   "posted": "1790750192",
+   "found": "2026-10-03T10:59:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691213464882253077.txt"
+  },
+  {
+   "id": "7691363872501992710",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7691363872501992710",
+   "caption": "מצר הורמוז פתוח! סוג של",
+   "posted": "1790785235",
+   "found": "2026-10-03T11:01:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691363872501992710.txt"
+  },
+  {
+   "id": "7691718642517429525",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7691718642517429525",
+   "caption": "השר בן גביר מתגאה ששיפר את חיי הנשים בישראל. הנשים שואלות אם הוא ראה ...",
+   "posted": "1790867807",
+   "found": "2026-10-03T11:01:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691718642517429525.txt"
+  },
+  {
+   "id": "7691359057889774869",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7691359057889774869",
+   "caption": "מיהו חרדי? לפי חן ארצי סרור, זה מי שלא משקר לגבי המנוי לנטפליקס #מהצד...",
+   "posted": "1790784086",
+   "found": "2026-10-03T11:03:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691359057889774869.txt"
+  }
+ ]
+}
