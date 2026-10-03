@@ -102,7 +102,7 @@ const idOf = (title) => crypto.createHash('sha1').update(norm(title)).digest('he
 const clip = (s, n) => (s.length > n ? s.slice(0, n).replace(/\s+\S*$/, '') + '…' : s);
 
 const lc = (t) => ' ' + t.toLowerCase() + ' ';
-const ORDER = ['factcheck', 'demo', 'laws', 'defense', 'israelAbroad', 'knesset', 'research', 'deals', 'econ', 'world'];
+const ORDER = ['media', 'factcheck', 'demo', 'laws', 'defense', 'israelAbroad', 'knesset', 'research', 'deals', 'econ', 'world'];
 function classify(text) {
   const t = lc(text);
   for (const topic of ORDER) if ((topicKeywords[topic] || []).some(k => t.includes(k.toLowerCase()))) return topic;
@@ -212,6 +212,29 @@ async function syncSettings() {
   return saved;
 }
 
+// ---------- בקשות בדיקה שנשלחו מהאפליקציה ----------
+// האפליקציה שולחת טענות לבדיקה לערוץ ntfy; כאן שומרים אותן ל-data/requests.json, ו-Claude בודק אותן בסבב הבא.
+async function syncRequests() {
+  const topic = config.ntfyTopic && config.ntfyTopic + '-requests';
+  if (!topic || FIXTURES) return;
+  const saved = readJSON('data/requests.json', { items: [] });
+  const known = new Set(saved.items.map(r => r.id));
+  try {
+    const txt = await get(`${NTFY}/${topic}/json?poll=1&since=24h`, { timeout: 10000 });
+    let added = 0;
+    for (const l of txt.split('\n').filter(Boolean)) {
+      let m; try { m = JSON.parse(l); } catch { continue; }
+      if (m.event !== 'message' || known.has(m.id)) continue;
+      let r; try { r = JSON.parse(m.message); } catch { r = { text: m.message }; }
+      const str = (v, n) => String(v || '').slice(0, n);
+      saved.items.push({ id: m.id, text: str(r.text, 2000), who: str(r.who, 200), link: str(r.link, 500), received: new Date(m.time * 1000).toISOString(), status: 'pending' });
+      known.add(m.id); added++;
+    }
+    saved.items = saved.items.slice(-100);
+    if (added || !fs.existsSync(P('data/requests.json'))) { writeJSON('data/requests.json', saved); log(`requests: +${added}`); }
+  } catch (e) { log('requests sync failed:', e.message); }
+}
+
 // ---------- פושים ----------
 function israelHour(d = new Date()) {
   return +new Intl.DateTimeFormat('en-GB', { timeZone: 'Asia/Jerusalem', hour: '2-digit', hour12: false }).format(d) % 24;
@@ -239,7 +262,7 @@ async function push(msg) {
     return true;
   } catch (e) { log('  push failed:', e.message); return false; }
 }
-const EMOJI = { econ: '📈', demo: '👥', deals: '🤝', research: '🔬', knesset: '🏛️', laws: '📜', factcheck: '🔍', israelAbroad: '🌍', defense: '🛡️', world: '🗺️' };
+const EMOJI = { econ: '📈', demo: '👥', deals: '🤝', research: '🔬', knesset: '🏛️', laws: '📜', factcheck: '🔍', media: '📺', israelAbroad: '🌍', defense: '🛡️', world: '🗺️' };
 const card = (topic) => APP_URL ? `${APP_URL}icons/cards/${TOPICS[topic] ? topic : 'general'}.png` : '';
 
 // כותרת ← סיכום ← תמונה. הנושא והמקור בשורה קטנה בסוף.
@@ -264,6 +287,7 @@ async function main() {
   const state = readJSON('data/state.json', { notified: [], pending: [] });
   const notified = new Set(state.notified);
   const settings = await syncSettings();
+  await syncRequests();
   const pushTopics = settings.pushTopics || {};
   const wants = (it) => pushTopics[it.topic] !== false;
 

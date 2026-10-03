@@ -11,6 +11,7 @@ export const TOPICS = {
   knesset:      { label: 'הכנסת והממשל' },
   laws:         { label: 'חוקים חדשים' },
   factcheck:    { label: 'נאמר מול המציאות' },
+  media:        { label: 'בדיקת תקשורת' },
   israelAbroad: { label: 'ישראל בעולם' },
   defense:      { label: 'עסקאות ביטחוניות' },
   world:        { label: 'ממשל בעולם' },
@@ -59,6 +60,14 @@ export const googleQueries = [
   { q: 'בדיקת עובדות "המשרוקית" OR "בודק העובדות" OR "פקט צ\'ק"', topic: 'factcheck' },
   { q: 'site:shakuf.co.il', topic: 'factcheck' },
   { q: 'טענה לא נכונה נתונים מראים', topic: 'factcheck' },
+  // בדיקת תקשורת — טענות של עיתונאים ומשפיענים
+  { q: 'FakeReporter', topic: 'media' },
+  { q: 'פייק ניוז ידיעה כוזבת הופצה ברשתות', topic: 'media' },
+  { q: 'דיווח שגוי תיקון התנצלות כתבה', topic: 'media' },
+  { q: 'מכחיש את הדיווח "אין אמת"', topic: 'media' },
+  { q: 'משפיענית OR משפיען טענה ברשת התברר', topic: 'media' },
+  { q: 'site:the7eye.org.il', topic: 'media' },
+  { q: 'Israel misinformation viral claim debunked', topic: 'media', lang: 'en' },
   // עסקאות והייטק
   { q: 'אקזיט סטארטאפ ישראלי', topic: 'deals' },
   { q: 'נרכשה תמורת מיליון דולר', topic: 'deals' },
@@ -104,6 +113,7 @@ export const googleNewsUrl = (q, lang = 'he') => lang === 'en'
 
 // מילות מפתח לסיווג (הסדר חשוב: הראשון שמתאים קובע). אנגלית — לא תלוי באותיות גדולות.
 export const topicKeywords = {
+  media: ['פייק ניוז', 'ידיעה כוזבת', 'ידיעה שקרית', 'דיווח שגוי', 'דיווח כוזב', 'פרסום כוזב', 'FakeReporter', 'פייק ריפורטר', 'הפצת שקרים', 'מידע כוזב', 'דיסאינפורמציה', 'אין אמת בדיווח', 'אין אמת בפרסום', 'הכחיש את הדיווח', 'misinformation', 'disinformation', 'debunk', 'false claim', 'fake news'],
   factcheck: ['בדיקת עובדות', 'המשרוקית', 'בודק העובדות', 'פקט צ\'ק', 'fact check', 'fact-check', 'טענה שגויה', 'לא מדויק', 'הטעיה'],
   laws: ['קריאה שלישית', 'קריאה ראשונה', 'קריאה שנייה', 'הצעת חוק', 'אושר החוק', 'ועדת השרים לחקיקה', 'תיקון לחוק'],
   defense: ['עסקה ביטחונית', 'עסקת נשק', 'עסקת הנשק', 'אלביט', 'רפאל', 'התעשייה האווירית', 'יצוא ביטחוני', 'סיוע ביטחוני', 'כיפת ברזל', 'חץ 3', 'קלע דוד', 'F-35', 'סיב"ט',
@@ -136,7 +146,7 @@ export const importantKeywords = [
 export const IMPORTANT_THRESHOLD = 3;
 
 // בונוס עדיפות לפי נושא — דמוגרפיה ו"מה נכון ומה לא" במרכז
-export const topicBonus = { demo: 2, factcheck: 2, laws: 1, knesset: 1 };
+export const topicBonus = { demo: 2, factcheck: 2, media: 2, laws: 1, knesset: 1 };
 
 // מקורות ומילים שלא רוצים לראות (ספורט, אתרי תוכן זבל וכו')
 export const blockedSources = [

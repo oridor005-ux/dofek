@@ -18,7 +18,7 @@
   --bg:#0B1626; --bg2:#0F1D31; --card:#13233A; --card2:#172B46; --line:#22395A;
   --ink:#EEF2F7; --ink2:#A9B6C8; --ink3:#71829A; --accent:#FF8A4C; --accent2:#F2B544; --on-accent:#fff;
   --bgimg:none; --font:Rubik; --radius:16px;
-  --econ:#F2B544; --demo:#62C7B0; --deals:#8C9EFF; --research:#E58BD8; --knesset:#6FB2FF; --laws:#FF8A73; --factcheck:#FFD166; --israelAbroad:#5FD3F0; --defense:#A3B86C; --world:#B9A4FF;
+  --econ:#F2B544; --demo:#62C7B0; --deals:#8C9EFF; --research:#E58BD8; --knesset:#6FB2FF; --laws:#FF8A73; --factcheck:#FFD166; --media:#FF7A7A; --israelAbroad:#5FD3F0; --defense:#A3B86C; --world:#B9A4FF;
 }
 @media (prefers-color-scheme: light){
   :root:not([data-theme="dark"]){ --bg:#F4F1EC; --bg2:#ECE7E0; --card:#FFFFFF; --card2:#FBF9F6; --line:#E3DDD4; --ink:#14202F; --ink2:#4B5A6C; --ink3:#7D8899; --accent:#E2622A;
@@ -172,6 +172,17 @@ select{background:var(--bg2);border:1px solid var(--line);border-radius:10px;pad
 .stepper{display:flex;align-items:center;gap:6px}
 .stepper button{width:32px;height:32px;border-radius:10px;background:var(--bg2);border:1px solid var(--line);font-size:1.1rem}
 .stepper b{min-width:22px;text-align:center}
+.ask{display:flex;align-items:center;gap:12px;background:color-mix(in srgb,var(--media) 12%,var(--card));border:1px dashed color-mix(in srgb,var(--media) 60%,var(--line));border-radius:16px;padding:12px 14px;margin:12px 0 4px;cursor:pointer;width:100%;text-align:start}
+.ask .ic{width:38px;height:38px;border-radius:12px;background:color-mix(in srgb,var(--media) 22%,transparent);display:grid;place-items:center;font-size:1.2rem;flex:none}
+.ask b{display:block;font-size:.95rem}
+.ask small{color:var(--ink3);font-size:.78rem}
+.field{display:block;margin:12px 0}
+.field span{display:block;font-size:.82rem;color:var(--ink2);margin-bottom:5px;font-weight:600}
+.field textarea,.field input{width:100%;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-size:.95rem;outline:none}
+.field textarea{min-height:110px;resize:vertical}
+.field textarea:focus,.field input:focus{border-color:var(--accent)}
+.req{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-bottom:8px;font-size:.88rem}
+.req .st{font-size:.72rem;font-weight:700}
 .toast{position:fixed;bottom:calc(90px + env(safe-area-inset-bottom));left:50%;translate:-50% 20px;background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:.88rem;z-index:30;opacity:0;transition:.25s;pointer-events:none;max-width:90vw;text-align:center}
 .toast.show{opacity:1;translate:-50% 0}
 </style>
@@ -215,19 +226,20 @@ select{background:var(--bg2);border:1px solid var(--line);border-radius:10px;pad
 // ===================== נתונים קבועים =====================
 const TOPICS = {
   demo:{label:'דמוגרפיה',full:'דמוגרפיה וחברה'}, factcheck:{label:'נאמר מול המציאות',full:'נאמר מול המציאות'},
+  media:{label:'בדיקת תקשורת',full:'בדיקת תקשורת — עיתונאים ומשפיענים'},
   knesset:{label:'הכנסת והממשל',full:'הכנסת והממשל'}, laws:{label:'חוקים',full:'חוקים חדשים'},
   research:{label:'מחקרים',full:'מחקרים ודוחות'}, econ:{label:'כלכלה',full:'כלכלה ושוק ההון'},
   deals:{label:'עסקאות והייטק',full:'עסקאות, הייטק וסטארטאפים'}, israelAbroad:{label:'ישראל בעולם',full:'ישראל בעולם'},
   defense:{label:'עסקאות ביטחוניות',full:'עסקאות ביטחוניות'}, world:{label:'ממשל בעולם',full:'ממשל בעולם'},
 };
-const STATE_TOPICS = ['demo','factcheck','knesset','laws','research'];
+const STATE_TOPICS = ['demo','factcheck','media','knesset','laws','research'];
 const FILTERS = [
   {id:'state',label:'המדינה',home:true}, {id:'all',label:'הכל'}, {id:'important',label:'חשוב',dot:'var(--accent)'}, {id:'insights',label:'ניתוחים',dot:'var(--accent2)'},
   ...Object.entries(TOPICS).map(([id,t])=>({id,label:t.label,dot:`var(--${id})`})),
 ];
 const TOPIC_COLORS = {
-  dark:{econ:'#F2B544',demo:'#62C7B0',deals:'#8C9EFF',research:'#E58BD8',knesset:'#6FB2FF',laws:'#FF8A73',factcheck:'#FFD166',israelAbroad:'#5FD3F0',defense:'#A3B86C',world:'#B9A4FF'},
-  light:{econ:'#B7800C',demo:'#1F8C74',deals:'#4E5FD0',research:'#A8429C',knesset:'#2D72C4',laws:'#D0503A',factcheck:'#A87A00',israelAbroad:'#0E87A8',defense:'#5E7426',world:'#6A4FD0'},
+  dark:{econ:'#F2B544',demo:'#62C7B0',deals:'#8C9EFF',research:'#E58BD8',knesset:'#6FB2FF',laws:'#FF8A73',factcheck:'#FFD166',media:'#FF7A7A',israelAbroad:'#5FD3F0',defense:'#A3B86C',world:'#B9A4FF'},
+  light:{econ:'#B7800C',demo:'#1F8C74',deals:'#4E5FD0',research:'#A8429C',knesset:'#2D72C4',laws:'#D0503A',factcheck:'#A87A00',media:'#C2372F',israelAbroad:'#0E87A8',defense:'#5E7426',world:'#6A4FD0'},
 };
 // רקעים מוכנים
 const BGS = {
@@ -344,13 +356,17 @@ function render(){
   } else {
     let showIns = ins;
     if (filter === 'state') {
-      html += `<div class="hero"><h2>מה קורה במדינה</h2><p>דמוגרפיה, מה נכון ומה לא, הכנסת, חוקים ומחקרים</p></div>`;
+      html += `<div class="hero"><h2>מה קורה במדינה</h2><p>דמוגרפיה, מה נכון ומה לא, בדיקת תקשורת, הכנסת, חוקים ומחקרים</p></div>`;
       heads = heads.filter(inState); showIns = ins.filter(inState);
       // נאמר מול המציאות קודם, אחר כך דמוגרפיה
-      const rank = t => ({factcheck:0, demo:1}[t] ?? 2);
+      const rank = t => ({factcheck:0, media:0, demo:1}[t] ?? 2);
       showIns = [...showIns].sort((a,b)=> rank(a.topic)-rank(b.topic) || b.published.localeCompare(a.published));
+    } else if (filter === 'media') {
+      html += `<div class="hero"><h2>בדיקת תקשורת</h2><p>טענות של עיתונאים, פרשנים ומשפיענים מול העובדות. בודקים את הטענה, לא את האדם.</p></div>`;
+      heads = heads.filter(i=>i.topic==='media'); showIns = ins.filter(i=>i.topic==='media');
     } else if (filter === 'important') { heads = heads.filter(i=>i.important); showIns = ins.filter(i => Date.now() - new Date(i.published) < 2*864e5); }
     else if (filter !== 'all') { heads = heads.filter(i=>i.topic===filter); showIns = ins.filter(i=>i.topic===filter); }
+    if (filter === 'media' || filter === 'state') html += askBanner();
     if (showIns.length) html += `<div class="section-h">ניתוחי עומק</div><div class="strip">${showIns.slice(0,10).map(insightCard).join('')}</div>`;
     let last = '';
     for (const it of heads) {
@@ -368,8 +384,9 @@ const empty = msg => `<div class="empty"><img src="icons/icon-192.png" alt=""><d
 async function load(){
   $('#refresh').classList.add('spin');
   const get = async (u, d) => { try { const r = await fetch(u+'?t='+Date.now(), {cache:'no-store'}); return r.ok ? await r.json() : d; } catch { return d; } };
-  [feed, insights, summaries, config, serverSettings] = await Promise.all([
-    get('data/feed.json',{items:[]}), get('data/insights.json',{items:[]}), get('data/summaries.json',{}), get('config.json',{}), get('data/settings.json',{})]);
+  [feed, insights, summaries, config, serverSettings, requests] = await Promise.all([
+    get('data/feed.json',{items:[]}), get('data/insights.json',{items:[]}), get('data/summaries.json',{}), get('config.json',{}), get('data/settings.json',{}), get('data/requests.json',{items:[]})]);
+  requests.items ||= [];
   feed.items ||= []; insights.items ||= []; summaries ||= {};
   render();
   $('#refresh').classList.remove('spin');
@@ -397,7 +414,7 @@ let routed = false;
 function routeHash(){
   const h = decodeURIComponent(location.hash.slice(1)); if (!h || routed) return; routed = true;
   history.replaceState(null, '', basePath());
-  if (h.startsWith('h-')) openHeadline(h.slice(2)); else if (h === 'settings') openSettings(); else openInsight(h);
+  if (h.startsWith('h-')) openHeadline(h.slice(2)); else if (h === 'settings') openSettings(); else if (h === 'ask') openAsk(); else openInsight(h);
 }
 const paras = s => String(s||'').split(/\n\s*\n|\n/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join('');
 const byline = `<div class="byline"><img src="icons/icon-192.png" alt="">סיכום של דופק (נכתב ע״י Claude לפי המקורות)</div>`;
@@ -409,7 +426,9 @@ function openInsight(id){
   openSheet(`<div class="meta" style="margin-bottom:6px">${topicTag(it.topic)}<span class="sep">·</span><span>${ago(it.published)}</span></div>
     <h2>${esc(it.title)}</h2>${it.verdict?`<span class="verdict" style="margin:4px 0 10px">${esc(it.verdict)}</span>`:''}
     ${it.points?.length?`<div class="box key"><h4>📌 עיקרי הדברים</h4><ul>${it.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul></div>`:''}
-    ${vs}${byline}<div class="body">${paras(it.body || it.summary)}</div>
+    ${vs}${it.claimSource?.url?`<a class="btn ghost small" style="margin:0 0 10px" href="${esc(it.claimSource.url)}" target="_blank" rel="noopener">איפה זה נאמר: ${esc(it.claimSource.name||'המקור')}${it.claimSource.date?' · '+esc(it.claimSource.date):''} ↗</a>`:''}
+    ${it.corrected?`<div class="box"><h4>✏️ תיקון</h4><div>${esc(it.corrected)}</div></div>`:''}
+    ${byline}<div class="body">${paras(it.body || it.summary)}</div>
     ${it.sources?.length?`<div class="src"><div style="font-size:.8rem;color:var(--ink3);font-weight:600">מקורות</div>${it.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">↗ ${esc(s.name||s.url)}</a>`).join('')}</div>`:''}`, hash);
 }
 function openHeadline(id){
@@ -465,6 +484,33 @@ async function testPush(){
   catch { toast('השליחה נכשלה — בדוק חיבור לאינטרנט'); }
 }
 $('#notifBtn').onclick = openNotif;
+
+// ===================== שליחת טענה לבדיקה =====================
+const askBanner = () => `<button class="ask" id="askBtn"><span class="ic">📣</span><span><b>ראית טענה בתקשורת או ברשת?</b><small>טיקטוק, טלגרם, טלוויזיה, כתבה — שלח ו-Claude יבדוק בסבב הבא</small></span></button>`;
+let requests = {items:[]};
+function openAsk(){
+  const mine = store.get('myRequests', []);
+  const st = id => { const r = requests.items.find(x=>x.id===id); return r?.status === 'done' ? (r.insightId ? `<a href="#" data-goins="${esc(r.insightId)}" class="st" style="color:var(--demo)">✓ נבדק — לתוצאה</a>` : '<span class="st" style="color:var(--demo)">✓ נבדק</span>') : r?.status === 'rejected' ? `<span class="st" style="color:var(--ink3)">לא נבדק${r.note?': '+esc(r.note):''}</span>` : '<span class="st" style="color:var(--accent2)">⏳ ממתין לבדיקה</span>'; };
+  openSheet(`<h2>שליחת טענה לבדיקה</h2>
+  <p class="lead">כתוב מה נאמר, מי אמר ואיפה. בסבב הבא (כל 3 שעות) Claude יצליב מול מקורות ויכתוב מה נכון, מה לא, ומה האמת.</p>
+  <label class="field"><span>מה נאמר? (ציטוט או תיאור הטענה)</span><textarea id="askText" placeholder="לדוגמה: &quot;מחצית מהצעירים עזבו את הארץ בשנה האחרונה&quot;"></textarea></label>
+  <label class="field"><span>מי אמר ואיפה?</span><input id="askWho" placeholder="לדוגמה: שם העיתונאי/המשפיען · ערוץ 14 / טיקטוק / טלגרם"></label>
+  <label class="field"><span>קישור (לא חובה)</span><input id="askLink" type="url" dir="ltr" placeholder="https://"></label>
+  <button class="btn" id="askSend">שליחה לבדיקה</button>
+  <p style="font-size:.78rem;color:var(--ink3);margin-top:8px">בסרטונים Claude לא יכול לצפות — לכן חשוב לכתוב בדיוק מה נאמר.</p>
+  ${mine.length?`<div class="set-sec">הבקשות שלי</div>${mine.slice().reverse().map(m=>`<div class="req"><div>${esc(m.text.slice(0,140))}${m.text.length>140?'…':''}</div><div class="meta" style="margin-top:4px">${esc(m.who||'')} <span class="sep">·</span> ${ago(m.sent)} <span class="sep">·</span> ${m.id?st(m.id):''}</div></div>`).join('')}`:''}`, 'ask');
+  $('#askSend').onclick = sendAsk;
+}
+async function sendAsk(){
+  const text = $('#askText').value.trim(), who = $('#askWho').value.trim(), link = $('#askLink').value.trim();
+  if (text.length < 8) { toast('כתוב מה נאמר'); return; }
+  try {
+    const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: JSON.stringify({text, who, link}) });
+    if (!r.ok) throw 0; const j = await r.json();
+    const mine = store.get('myRequests', []); mine.push({id:j.id, text, who, sent:new Date().toISOString()}); store.set('myRequests', mine.slice(-30));
+    toast('נשלח ✓ ייבדק בסבב הבא'); openAsk();
+  } catch { toast('השליחה נכשלה — נסה שוב'); }
+}
 
 // ===================== הגדרות =====================
 const PUSH_DEFAULT = { pushTopics: Object.fromEntries(Object.keys(TOPICS).map(t=>[t,true])), quietHours:{start:23,end:7,enabled:true}, maxPushesPerRun:4, onlyImportant:true };
@@ -563,6 +609,8 @@ document.addEventListener('click', e => {
   const c = e.target.closest('.chip'); if (c) { filter = c.dataset.f; store.set('filter', filter); render(); window.scrollTo({top:0,behavior:'smooth'}); return; }
   const ins = e.target.closest('[data-ins]'); if (ins) { openInsight(ins.dataset.ins); return; }
   const h = e.target.closest('[data-h]'); if (h) { openHeadline(h.dataset.h); return; }
+  if (e.target.closest('#askBtn')) { openAsk(); return; }
+  const gi = e.target.closest('[data-goins]'); if (gi) { e.preventDefault(); openInsight(gi.dataset.goins); return; }
   const a = e.target.closest('a[href="#settings"]'); if (a) { e.preventDefault(); openSettings(); }
 });
 $('#q').addEventListener('input', e => { query = e.target.value.trim().toLowerCase(); render(); });
