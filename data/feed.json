@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T04:39:41.725Z",
+ "updated": "2026-10-03T05:04:41.875Z",
  "items": [
+  {
+   "id": "4886335ccf7e",
+   "kind": "headline",
+   "title": "המהנדסת שהפכה לדירקטורית בכירה באנבידיה: \"בטכניון קיבלתי 20 במבחן\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558218#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-03T04:53:00.000Z",
+   "summary": "כשהייתה סטודנטית, שירית בלפר שורצבלט גויסה ע\"י מלאנוקס • יותר מ־20 שנה אחרי היא בכירה בענקית ייצור השבבים • בראיון לגלובס היא מספרת מדוע התחרות על טאלנטים מתעצמת ומדוע חשוב להביא יותר נשים להייטק: \"כשחצי מהאוכלוסיה לא מיוצגת, זה הפסד לחברה\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790839041/shirit_belfer_schvartzblat_2_wasagj.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "1d45de18bef2",
    "kind": "headline",
@@ -51,6 +65,20 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12SlgtU21XRWxkWEpObFdNWjl4N1VJcTE4OTJ2WXpNeGhKMmY2V3RnOV96Ylk0RmlScFhvcVV4Tzd0UHV0U3JWRDNZNW5GVV9mMTZvdXJ5YXZYSG80NlFZYkxWSFluV2Y1M1FCSHRKNA?oc=5",
    "topic": "world",
    "published": "2026-10-03T02:08:54.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9ce615864358",
+   "kind": "headline",
+   "title": "Sanctions foreign policy: what the shifting Middle East picture means for business",
+   "source": "Control Risks",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlk4MTVFTlQxU3VMOWhyT3NQNDE3QnVwaGJqN2RJTEF1NkppajBYU3ZvVDNIUzlIS3NBLWp3UFlzOGJ4UW9IczBEWW4zMUdRQTFabHpnR2hYOU1Mb2dVdlhMMFhoaGt3Q3k0U3A5QVNuMW1CZC0zaG83NUZNbzFKemM4X2NvQ0doRko5Rzh0QlJPenQxRVVvWDFGdU5vSHRLYVliOFF0eUswalNvbmd1WVYzbGpxWEdwWFF1cVFrWmxKR3FwaXg4NGNrYlo?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T02:01:31.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -1239,7 +1267,9 @@
    "published": "2026-10-02T10:01:51.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "yomyom.net"
+   ],
    "important": false
   },
   {
@@ -1413,7 +1443,9 @@
    "published": "2026-10-02T08:45:29.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "euro-sd.com"
+   ],
    "important": false
   },
   {
