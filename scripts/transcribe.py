@@ -73,11 +73,12 @@ def try_whisper(url, tmp, at=None):
     wav = os.path.join(tmp, 'audio.wav')
     if t is not None:
         # סרטון ארוך: מושכים רק את הקטע סביב הדקה שצוינה, ישר מהזרם
-        code, out = run(['yt-dlp', '-g', '-f', 'bestaudio/worst[acodec!=none]/best', '--no-playlist', url], timeout=180)
+        code, out = run(['yt-dlp', '-g', '-f', 'worst[vcodec!=none][acodec!=none]/worst[acodec!=none]/best', '--no-playlist', url], timeout=180)
         urls = [l for l in out.strip().splitlines() if l.startswith('http')]
         if not urls:
             return None, out[-500:]
-        c2, o2 = run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', str(max(0, t - 60)), '-i', urls[-1], '-t', '360',
+        log('stream:', urls[-1][:160])
+        c2, o2 = run(['ffmpeg', '-y', '-loglevel', 'warning', '-ss', str(max(0, t - 60)), '-i', urls[-1], '-t', '360',
                       '-vn', '-ac', '1', '-ar', '16000', wav], timeout=900)
     else:
         code, out = run(['yt-dlp', '-f', 'bestaudio/worst[acodec!=none]/best', '--no-playlist', '--match-filter', f'duration < {MAX_SECONDS}',
