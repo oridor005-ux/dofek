@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T03:15:02.893Z",
+ "updated": "2026-10-03T03:44:49.748Z",
  "items": [
   {
    "id": "70908ef2d863",
@@ -54,7 +54,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "english.ratopati.com"
+   ],
    "important": false
   },
   {
@@ -1014,6 +1016,20 @@
    "alsoIn": [
     "sg.news.yahoo.com"
    ],
+   "important": false
+  },
+  {
+   "id": "a436fc3e92eb",
+   "kind": "headline",
+   "title": "Hungary and Ukraine close in on deal over ethnic Hungarian rights",
+   "source": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUZ6S1pCaDRIdjFnRTYxT2NDSXhDTW82ZFdqSDZPQUxvSWxRZUpWN0xZSnNzcTlUa2lndXdIMFFTNkM4U1JmRWNuYXpQMnktRTF3Q0M3Z3V2RWNDUjAtSEdTOGxLN24zN2FnV3dkdWM3bnZfWkFjbjZtUGI1aXJ2bHFHTGdnR2dkVDBPSTRObHhhWUV0ZkFxdEN3SXZzTFhCd1E?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T11:10:47.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
