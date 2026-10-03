@@ -374,6 +374,7 @@ async function main() {
 
   state.notified = [...notified].slice(-3000);
   state.lastRun = now.toISOString();
+  state.ownerKeySet = !!OWNER_KEY;
   writeJSON('data/feed.json', feed);
   writeJSON('data/state.json', state);
   if (!fs.existsSync(P('data/insights.json'))) writeJSON('data/insights.json', insights);
