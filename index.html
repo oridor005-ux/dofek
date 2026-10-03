@@ -444,7 +444,7 @@ function openHeadline(id){
       ${s.context?`<div class="box"><h4>🧭 הקשר</h4><div>${esc(s.context)}</div></div>`:''}`;
   } else {
     body = `${it.summary?`<div class="body"><p>${esc(it.summary)}</p></div><div class="byline">תקציר מהמקור</div>`:''}
-      <div class="pending">⏳ הסיכום של דופק אמיתי לידיעה הזו עוד לא מוכן. Claude מסכם ידיעות חדשות כל 3 שעות ביום ביום.</div>`;
+      <div class="pending">⏳ הסיכום של דופק אמיתי לידיעה הזו עוד לא מוכן. Claude מסכם ידיעות חדשות כל שעה ביום.</div>`;
   }
   openSheet(`${img?`<img class="hero-img" src="${esc(img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:''}
     <div class="meta" style="margin-bottom:6px">${topicTag(it.topic)}<span class="sep">·</span><span>${esc(it.source)}</span><span class="sep">·</span><span>${ago(it.published)}</span></div>
@@ -494,7 +494,7 @@ function openAsk(){
     : ` <span class="st" style="color:var(--ink3)">· 🎙️ ${r.transcriptStatus.includes('login') ? 'האתר חוסם הורדה — נבדק לפי הציטוט' : r.transcriptStatus.includes('too-long') ? 'סרטון ארוך — ציין דקה' : 'לא תומלל — נבדק לפי הציטוט'}</span>`;
   const st = id => { const r = requests.items.find(x=>x.id===id); return tr(r) +  r?.status === 'done' ? (r.insightId ? `<a href="#" data-goins="${esc(r.insightId)}" class="st" style="color:var(--demo)">✓ נבדק — לתוצאה</a>` : '<span class="st" style="color:var(--demo)">✓ נבדק</span>') : r?.status === 'rejected' ? `<span class="st" style="color:var(--ink3)">לא נבדק${r.note?': '+esc(r.note):''}</span>` : '<span class="st" style="color:var(--accent2)">⏳ ממתין לבדיקה</span>'; };
   openSheet(`<h2>שליחת טענה לבדיקה</h2>
-  <p class="lead">כתוב מה נאמר, מי אמר ואיפה. בסבב הבא (כל 3 שעות) Claude יצליב מול מקורות ויכתוב מה נכון, מה לא, ומה האמת.</p>
+  <p class="lead">כתוב מה נאמר, מי אמר ואיפה. בסבב הבא (כל שעה) Claude יצליב מול מקורות ויכתוב מה נכון, מה לא, ומה האמת.</p>
   <label class="field"><span>מה נאמר? (ציטוט או תיאור הטענה)</span><textarea id="askText" placeholder="לדוגמה: &quot;מחצית מהצעירים עזבו את הארץ בשנה האחרונה&quot;"></textarea></label>
   <label class="field"><span>מי אמר ואיפה?</span><input id="askWho" placeholder="לדוגמה: שם העיתונאי/המשפיען · ערוץ 14 / טיקטוק / טלגרם"></label>
   <label class="field"><span>קישור לסרטון או לכתבה (לא חובה)</span><input id="askLink" type="url" dir="ltr" placeholder="https://"></label>
