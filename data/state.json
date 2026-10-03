@@ -15,9 +15,11 @@
   "ins-2026-10-03-zl07",
   "ins-2026-10-03-gz46",
   "ins-2026-10-03-sa6m",
-  "ins-2026-10-03-lp29"
+  "ins-2026-10-03-lp29",
+  "ins-2026-10-03-gk75"
  ],
  "pending": [],
- "lastRun": "2026-10-03T11:25:43.211Z",
- "ownerKeySet": true
+ "lastRun": "2026-10-03T11:40:39.333Z",
+ "ownerKeySet": true,
+ "ntfyTokenSet": false
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T11:25:43.211Z",
+ "updated": "2026-10-03T11:40:39.333Z",
  "items": [
   {
    "id": "7dfb9c8f2374",
@@ -95,6 +95,20 @@
    "published": "2026-10-03T09:02:05.000Z",
    "summary": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.",
    "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-canada-quebec-independence-promo/03int-canada-quebec-independence-vmcp-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6dc82f5d1f07",
+   "kind": "headline",
+   "title": "Elections in Bosnia and Herzegovina: The Bosnian electoral cauldron",
+   "source": "NIN.rs",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckdxclZyLXBrQ1ZBbWs4TjM3Vm9pZW1pYXAycXczU0tBM0txa0dzY05lOTFCYnh3Q1NzWGlHdWw2S2lnVzBCazFWM2hYSTBTckM0VlV1UHJ6cnFLTnRXejNqclVWVmFSYWdTT3R0Z1ZpdTdHQXJSUmd6M1lGVXhtMnR5c0doa0ozdzhsQndtSlhZSHFCckFtRFVFUXU4MC1nTzMw?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T08:53:46.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1628,6 +1642,20 @@
    "alsoIn": [],
    "important": false,
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T74RW7QBDFDE3IYPODTAE6EWWQ.jpg"
+  },
+  {
+   "id": "82e384a50d73",
+   "kind": "headline",
+   "title": "State Department approved unfreezing of $320 million in military aid to Egypt",
+   "source": "1Lurer",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uZFlOR2lKMTJtSVNTMzFBcjRCbU45aHBoMUdWRmpham9RMFRlRnVzbDJjTzREVG9GTWFsMGdVb3hIX0JQckFKWQ?oc=5",
+   "topic": "defense",
+   "published": "2026-10-02T11:47:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "6f5098307c71",
