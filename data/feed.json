@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T19:08:38.813Z",
+ "updated": "2026-10-03T19:20:05.544Z",
  "items": [
+  {
+   "id": "d9235346ca89",
+   "kind": "headline",
+   "title": "מורים יהודים תובעים גופי חינוך באונטריו: \"התלוננו על אנטישמיות - ונענשנו״",
+   "source": "וואלה",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWMloyNEthY19aQWkxNGg2S3c3blpVblljWW9qWTdja0ZrSlBpLVlRa1NsZE15dFc2MFl0WkdJWm8yYmd3UFdXREM4VzNKZFdLcXJIejVZcw?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T18:54:39.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "3285115d9169",
    "kind": "headline",
@@ -284,7 +298,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "BoSox Injection"
+   ],
    "important": false
   },
   {
@@ -426,7 +442,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "english.ratopati.com"
+   ],
    "important": false
   },
   {
