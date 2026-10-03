@@ -23,10 +23,17 @@
   "ins-2026-10-03-mwin",
   "ins-2026-10-03-h4d1",
   "ins-2026-10-03-f7c2",
-  "3436560ba312"
+  "3436560ba312",
+  "ins-2026-10-03-mdg5",
+  "ins-2026-10-03-mams",
+  "ins-2026-10-03-mlib"
  ],
- "pending": [],
- "lastRun": "2026-10-03T20:17:55.504Z",
+ "pending": [
+  "ins-2026-10-03-mdg5",
+  "ins-2026-10-03-mams",
+  "ins-2026-10-03-mlib"
+ ],
+ "lastRun": "2026-10-03T20:30:07.080Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -42,9 +49,20 @@
    "ok": 66,
    "fail": 2,
    "light": false,
-   "at": "2026-10-03T20:06:50.231Z"
+   "direct": 13,
+   "directFail": 2,
+   "google": 55,
+   "googleFail": 0,
+   "errors": {
+    "direct": {
+     "HTTP 403": 2
+    }
+   },
+   "at": "2026-10-03T20:18:10.980Z"
   },
-  "lastNewItemAt": "2026-10-03T20:17:55.504Z",
-  "lastPushOkAt": "2026-10-03T18:23:10.464Z"
- }
+  "lastNewItemAt": "2026-10-03T20:30:07.080Z",
+  "lastPushOkAt": "2026-10-03T18:23:10.464Z",
+  "googleOkAt": "2026-10-03T20:18:10.980Z"
+ },
+ "lastFullAt": "2026-10-03T20:18:10.980Z"
 }
