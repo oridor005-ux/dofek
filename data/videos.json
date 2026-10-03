@@ -8,8 +8,11 @@
    "caption": "המטוס, הישראלים הגיבורים, והישראלי הכי הכי הכי גיבור. #מטוס #פוליטיקה...",
    "posted": "1790780119",
    "found": "2026-10-03T10:55:15Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691342019720924423.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691342019720924423.txt",
+   "insightIds": [
+    "ins-2026-10-03-lp29"
+   ]
   },
   {
    "id": "7692053111870852373",
@@ -30,7 +33,7 @@
    "caption": "גם לאהרון מבני ברק מגיע לדעת אנגלית>> #פוליטיקה #ישראל #בניברק #אנגלית ",
    "posted": "1790836252",
    "found": "2026-10-03T10:56:42Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7691583104795823381.txt"
   },
   {
@@ -41,7 +44,7 @@
    "caption": "פרלמנט בני ברק בלי צנזורה. נמשיך להילחם כדי לקיים שיח אמיתי עם כל חלק...",
    "posted": "1790750192",
    "found": "2026-10-03T10:59:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7691213464882253077.txt"
   },
   {
@@ -52,8 +55,11 @@
    "caption": "מצר הורמוז פתוח! סוג של",
    "posted": "1790785235",
    "found": "2026-10-03T11:01:06Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691363872501992710.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691363872501992710.txt",
+   "insightIds": [
+    "ins-2026-10-03-sa6m"
+   ]
   },
   {
    "id": "7691718642517429525",
@@ -63,8 +69,11 @@
    "caption": "השר בן גביר מתגאה ששיפר את חיי הנשים בישראל. הנשים שואלות אם הוא ראה ...",
    "posted": "1790867807",
    "found": "2026-10-03T11:01:54Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691718642517429525.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691718642517429525.txt",
+   "insightIds": [
+    "ins-2026-10-03-gz46"
+   ]
   },
   {
    "id": "7691359057889774869",
