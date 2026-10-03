@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T18:00:10.526Z",
+ "updated": "2026-10-03T18:11:32.432Z",
  "items": [
+  {
+   "id": "963d808986ab",
+   "kind": "headline",
+   "title": "סופת האג\"ח מטלטלת את השווקים ומעמידה את הפד בפני מבחן קריטי",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558157#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-03T18:00:00.000Z",
+   "summary": "הזינוק חסר התקדים בתשואות האג\"ח בעולם מציב את השווקים הפיננסיים בפני סכנה אקוטית • במקביל, מימון ההשקעות העצומות בבינה המלאכותית נשען על חוב יקר ומסוכן שעלול לגרור מטה את מניות הטק • כעת, הפדרל ריזרב ניצב בפני הכרעה גורלית בין בלימת האינפלציה להצלת המשק מקריסה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790839095/AP26071759911055_xilz3l.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2ed0f57583a6",
    "kind": "headline",
@@ -11,6 +25,48 @@
    "published": "2026-10-03T17:48:09.000Z",
    "summary": "The justice, the second oldest on the court at 76, told CBS News that he decided against stepping down last term. He could face pressure should Democrats win the Senate in November.",
    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02DC-ALITO-wkpc/02DC-ALITO-wkpc-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "808abe0d7f1c",
+   "kind": "headline",
+   "title": "תתחדש תביעת גונן בן יצחק נגד חני וייזר, שכינתה אותו סוטה בעשרות פרסומים",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OTDNEWU5SWmEydEpoMjdMYzhjd01TOXFiMEk0bWliTklLRVJIcUJ3MDJnNW5nQWZTN3g4WVBSOFJWVFBjbzJNSg?oc=5",
+   "topic": "media",
+   "published": "2026-10-03T17:47:17.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8ab6fac1d69f",
+   "kind": "headline",
+   "title": "Latvia Election: United List Leads Exit Polls, Coalition Talks Ahead",
+   "source": "globalbankingandfinance.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEV3REl6a19uVHZpNnM0VVI3SDJGMUt4SE10N3RBbE4wYk9vTVNXVzM5cXpDVDBKNzk5eWtUd3h6enVVWTFKOFR5VnBPWW9ETnc4ZERmQWVOMFA4Nl9RU1F6MDRSaEVnY1hQejFLbFpBdmgxU1NWeE1GQ2JFS2NVTlVXNVM1SkExejk0dzlfSXRoQnJmZ1pfWDFn?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T17:17:58.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "37e880c22079",
+   "kind": "headline",
+   "title": "Latvia votes for new parliament against backdrop of perceived Russia threat",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZE9GTjBtSW9hX1BDMzh4anh1Vm4xWHNKWEZSNUZLQXN1S2xjQXEwcmhmM0lMNlA3SFRsVUl2bDBPNXlEZGdDcFdHYXpLa2U1d1o0eTdNMlJYZWJYbmd5T2tkVjZhVnd6UmZQOG44U2JiQ3MwV1lSRl83THA4ZHNIXzhHS29RRVR0eEVQLTF0WlpIbVBjalNTN2tFcEpHVG5VTzRGRmJLTnjSAa4BQVVfeXFMTk5LbTYydDJkR3FjNVRKemt0THFtLWpndkhMZXFwMjVGNVhTVm5XaUF6M1loMkVybHdnZjlQUkhseHB5UFNiemN6TTNiOFBLek51TnZpaTdaQmQ5ZndMSHlucFc0amI3V2NYbjVsdHY3YmdCMXI0OU5Ga3llZ0k5Tlh6QS1kd2w3YmZ1NmtSc3NzRXR6aGV0Tmt2YjFYQkdQZzNwT2d6N2IzZmNfVUdB?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T17:17:56.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
