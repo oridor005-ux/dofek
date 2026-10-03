@@ -22,7 +22,7 @@
    "caption": "מגבירים קצב, כל הדרך לתיקון 🇮🇱 @יונתן שלו  #ריצה #ישראל ",
    "posted": "1790945680",
    "found": "2026-10-03T10:56:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692053111870852373.txt"
   },
   {
@@ -83,8 +83,11 @@
    "caption": "מיהו חרדי? לפי חן ארצי סרור, זה מי שלא משקר לגבי המנוי לנטפליקס #מהצד...",
    "posted": "1790784086",
    "found": "2026-10-03T11:03:48Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691359057889774869.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691359057889774869.txt",
+   "insightIds": [
+    "ins-2026-10-03-gk75"
+   ]
   }
  ]
 }
