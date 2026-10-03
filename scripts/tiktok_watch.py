@@ -14,7 +14,7 @@ CFG = json.load(open(os.path.join(ROOT, 'config.json'), encoding='utf-8'))
 VID = os.path.join(ROOT, 'data', 'videos.json')
 OUT = os.path.join(ROOT, 'data', 'transcripts')
 PER_CHANNEL = int(os.environ.get('PER_CHANNEL', '3'))     # כמה סרטונים אחרונים לבדוק בכל ערוץ
-MAX_NEW = int(os.environ.get('MAX_NEW', '8'))              # מקסימום תמלולים בריצה
+MAX_NEW = int(os.environ.get('MAX_NEW', '10'))              # מקסימום תמלולים בריצה
 MAX_AGE_DAYS = 4
 
 
