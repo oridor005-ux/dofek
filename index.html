@@ -496,6 +496,13 @@ async function checkOwner(){
   OWNER = !!(a && config.ownerCheck && await sha(a) === config.ownerCheck);
   return OWNER;
 }
+// שולח הודעה חתומה: המפתח נשאר במכשיר, נשלחת רק חתימה
+async function signed(obj){
+  const p = JSON.stringify({...obj, ts: new Date().toISOString()});
+  const k = await crypto.subtle.importKey('raw', new TextEncoder().encode(store.get('ownerAuth','')), {name:'HMAC', hash:'SHA-256'}, false, ['sign']);
+  const sig = [...new Uint8Array(await crypto.subtle.sign('HMAC', k, new TextEncoder().encode(p)))].map(x=>x.toString(16).padStart(2,'0')).join('');
+  return JSON.stringify({p, sig});
+}
 async function unlockOwner(code){
   const a = await sha('dofek-auth:' + code.trim());
   if (config.ownerCheck && await sha(a) === config.ownerCheck) { store.set('ownerAuth', a); OWNER = true; return true; }
@@ -529,7 +536,7 @@ async function sendAsk(){
   const text = $('#askText').value.trim(), who = $('#askWho').value.trim(), link = $('#askLink').value.trim(), at = $('#askAt').value.trim();
   if (text.length < 8) { toast('כתוב מה נאמר'); return; }
   try {
-    const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: JSON.stringify({text, who, link, at, auth: store.get('ownerAuth','')}) });
+    const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: await signed({text, who, link, at}) });
     if (!r.ok) throw 0; const j = await r.json();
     const mine = store.get('myRequests', []); mine.push({id:j.id, text, who, sent:new Date().toISOString()}); store.set('myRequests', mine.slice(-30));
     toast('נשלח ✓ ייבדק בסבב הבא'); openAsk();
@@ -620,11 +627,11 @@ function bindLook(saveLook){
 }
 async function savePush(){
   if (!OWNER) return;
-  const s = { v:1, ...draftPush, updated: new Date().toISOString(), auth: store.get('ownerAuth','') };
+  const s = { v:1, ...draftPush, updated: new Date().toISOString() };
   store.set('pushSettings', s);
   if (!config.settingsTopic) { toast('נשמר במכשיר'); return; }
   try {
-    const r = await fetch(`https://ntfy.sh/${config.settingsTopic}`, { method:'POST', body: JSON.stringify(s) });
+    const r = await fetch(`https://ntfy.sh/${config.settingsTopic}`, { method:'POST', body: await signed(s) });
     toast(r.ok ? 'נשמר ✓ ייכנס לתוקף תוך חצי שעה' : 'השמירה נכשלה, נסה שוב');
   } catch { toast('השמירה נכשלה — בדוק חיבור לאינטרנט'); }
 }

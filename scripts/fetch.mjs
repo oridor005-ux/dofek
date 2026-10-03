@@ -183,8 +183,20 @@ function cluster(items) {
 
 // ---------- הרשאת בעלים ----------
 // רק מי שיש לו את קוד הבעלים יכול לשנות הגדרות פושים ולשלוח בקשות בדיקה.
-const isOwner = (auth) => !!config.ownerCheck && typeof auth === 'string' &&
-  crypto.createHash('sha256').update(auth).digest('hex') === config.ownerCheck;
+// ההודעה חתומה (HMAC) במפתח שנשמר כסוד ב-GitHub (OWNER_KEY) — המפתח עצמו אף פעם לא נשלח.
+const OWNER_KEY = process.env.OWNER_KEY || '';
+function ownerPayload(raw) {
+  try {
+    const o = JSON.parse(raw);
+    if (!OWNER_KEY || typeof o?.p !== 'string' || typeof o?.sig !== 'string') return null;
+    const want = crypto.createHmac('sha256', OWNER_KEY).update(o.p).digest('hex');
+    if (want.length !== o.sig.length || !crypto.timingSafeEqual(Buffer.from(want), Buffer.from(o.sig))) return null;
+    const p = JSON.parse(o.p);
+    if (!p.ts || Math.abs(Date.now() - new Date(p.ts)) > 3 * 864e5) return null; // הודעות ישנות לא מתקבלות
+    return p;
+  } catch { return null; }
+}
+if (!OWNER_KEY) log('note: OWNER_KEY secret not set — owner settings/requests are ignored');
 
 // ---------- הגדרות שהמשתמש שמר באפליקציה ----------
 // האפליקציה שולחת את ההגדרות לערוץ ntfy פרטי; כאן אנחנו קוראים את האחרונות ושומרים אותן.
@@ -196,7 +208,7 @@ async function syncSettings() {
     const msgs = txt.split('\n').filter(Boolean).map(l => { try { return JSON.parse(l); } catch { return null; } })
       .filter(m => m && m.event === 'message');
     let latest = null;
-    for (const m of msgs) { try { const s = JSON.parse(m.message); if (s && s.v === 1 && isOwner(s.auth) && (!latest || s.updated > latest.updated)) latest = s; } catch {} }
+    for (const m of msgs) { const s = ownerPayload(m.message); if (s && s.v === 1 && (!latest || s.updated > latest.updated)) latest = s; }
     if (latest && (!saved.updated || latest.updated > saved.updated)) {
       const clean = {
         updated: String(latest.updated),
@@ -230,9 +242,9 @@ async function syncRequests() {
     for (const l of txt.split('\n').filter(Boolean)) {
       let m; try { m = JSON.parse(l); } catch { continue; }
       if (m.event !== 'message' || known.has(m.id)) continue;
-      let r; try { r = JSON.parse(m.message); } catch { r = {}; }
       known.add(m.id);
-      if (!isOwner(r.auth)) continue; // רק הבעלים שולח בקשות
+      const r = ownerPayload(m.message);
+      if (!r) continue; // רק הבעלים שולח בקשות
       const str = (v, n) => String(v || '').slice(0, n);
       saved.items.push({ id: m.id, text: str(r.text, 2000), who: str(r.who, 200), link: str(r.link, 500), at: str(r.at, 12), received: new Date(m.time * 1000).toISOString(), status: 'pending' });
       known.add(m.id); added++;

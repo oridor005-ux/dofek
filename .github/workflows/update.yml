@@ -27,6 +27,7 @@ jobs:
       - name: איסוף כותרות ושליחת פושים
         env:
           APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          OWNER_KEY: ${{ secrets.OWNER_KEY }}
         run: |
           # ריצה מלאה (כולל חיפושים), ואז בדיקה מהירה של האתרים כל 2 דקות — כמעט בזמן אמת
           git config user.name "dofek-bot"
