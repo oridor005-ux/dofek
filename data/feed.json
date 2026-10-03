@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-02T23:36:27.653Z",
+ "updated": "2026-10-03T00:06:28.992Z",
  "items": [
+  {
+   "id": "92d56d687417",
+   "kind": "headline",
+   "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
+   "topic": "world",
+   "published": "2026-10-02T23:34:41.000Z",
+   "summary": "President Trump weighed in on the case when asked about Ms. James, who has become a target of his second-term retribution campaign.",
+   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-trump-cornell-zjvk/02dc-trump-cornell-zjvk-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "690b8b85c6c7",
    "kind": "headline",
@@ -193,7 +207,9 @@
    "published": "2026-10-02T19:25:15.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "arabnews.com"
+   ],
    "important": false
   },
   {
@@ -343,7 +359,9 @@
    "published": "2026-10-02T16:37:22.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "jam-news.net"
+   ],
    "important": false
   },
   {
@@ -858,7 +876,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "tasmaniantimes.com"
+   ],
    "important": false
   },
   {
@@ -1638,7 +1658,9 @@
    "published": "2026-10-02T02:07:23.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "makorrishon.co.il"
+   ],
    "important": false
   },
   {
