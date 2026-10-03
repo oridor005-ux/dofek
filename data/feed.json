@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-03T06:54:01.642Z",
+ "updated": "2026-10-03T07:11:11.314Z",
  "items": [
+  {
+   "id": "e11bdfb9b439",
+   "kind": "headline",
+   "title": "דעה: העליון הגדיר שני מסלולים נפרדים לחופש הביטוי – ליהודים ולערבים",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kd3oybzVoTWhUcTZkdV9WUE1HSWN2dHZseU02VEVsMXp3bHRpdU9leTAwNmJKNDhnaDNScGxXWXk5STMta2NTVg?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-03T07:07:47.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "349d82d7882b",
+   "kind": "headline",
+   "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T07:01:17.000Z",
+   "summary": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used a crash axe to attempt to carry out a “terrorist attack” during the flight, the United ⁠Arab Emirates…",
+   "image": "https://i.guim.co.uk/img/media/0b919d27d094b1c5457522059aae7ba10b989282/0_312_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=93fd0c87f32d8d5007c775005350be0e",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7167fe422432",
+   "kind": "headline",
+   "title": "עם חתימה לפינוי־בינוי: בכמה נמכרה דירת 3 חדרים בנתניה?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001557842#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-03T07:00:00.000Z",
+   "summary": "ברחוב נחום בשכונת רמת ידין בנתניה, נמכרה דירת 3 חדרים בשטח של 50 מ\"ר, בלי חניה ובלי מרפסת, בקומה הרביעית מתוך ארבע תמורת 1.45 מיליון שקל • מחיר השיווק של הדירה עמד על 1.49 מיליון שקל, והיא עמדה על המדף כחודשיים • ועוד עסקאות נדל\"ן מהשבוע האחרון",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1673779128/COT_Pic/%D7%A2%D7%A1%D7%A7%D7%90%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2800_sueckz.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "92739142ace3",
+   "kind": "headline",
+   "title": "America’s new political fault line: Israel",
+   "source": "Reveal from The Center for Investigative Reporting",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXgxNVI3RjB5dm94aUV4cUZWWE5BSE9EMXl4dEczX3FzcjdGcVlRM0ZGTGs0eE1xRF9LRmMtMFgxRmJ1WnVleUJLMnBOVFNxdnh1SFVTZUJ1WFlqZ2xOR252djJIeHhId0NTRnRFTlVaa28xR0ZqLTdCRk1zUThmUGg2Y0k1ak9uZVdBYWt0TExLTjdNUlhpR2dFOXF5bi1m?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T07:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ca75cd893c65",
+   "kind": "headline",
+   "title": "130 מיליון דולר, כיסא קמפינג ומעטפה: הבית ששבר כל שיא אפשרי והרוכש המסתורי",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558311#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-03T06:57:00.000Z",
+   "summary": "אחת האחוזות המפורסמות בבל־אייר נמכרה במכירת עיקול שנראתה יותר כמו אירוע שכונתי: המכרזנית ישבה על כיסא מתקפל ליד מזרקה, והקונה שילם באמצעות המחאות בנקאיות • רק עכשיו נחשף כי מאחורי הרכישה עומד מיליארדר הטכנולוגיה פיטר ת&rsquo;יל",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1631201985/direct/shutterstock_1113974474_efc4hm.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "cafe8de1de90",
    "kind": "headline",
@@ -124,7 +194,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "irishnews.com"
+   ],
    "important": false
   },
   {
