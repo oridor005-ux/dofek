@@ -66,9 +66,12 @@ header{position:sticky;top:0;z-index:10;padding:calc(10px + env(safe-area-inset-
 .chips::-webkit-scrollbar{display:none}
 .chip{flex:none;padding:7px 13px;border-radius:999px;border:1px solid var(--line);background:var(--card);font-size:.88rem;color:var(--ink2);display:flex;align-items:center;gap:6px;white-space:nowrap}
 .chip .dot{width:8px;height:8px;border-radius:50%}
-.chip .n{font-size:.72rem;color:var(--ink3)}
+.chip .n{font-size:.7rem;font-weight:700;color:var(--on-accent);background:var(--accent);border-radius:999px;padding:1px 7px;min-width:20px;text-align:center}
+.card.read{opacity:.62}
+.card.read h3{font-weight:400}
+.markall{display:block;margin:10px 2px 0 auto;font-size:.8rem;color:var(--accent);padding:4px 0}
 .chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-.chip[aria-pressed=true] .n{color:var(--bg);opacity:.7}
+.chip[aria-pressed=true] .n{background:var(--bg);color:var(--ink)}
 .chip.home{font-weight:600}
 
 main{max-width:720px;margin:0 auto;padding:4px 16px}
@@ -303,6 +306,11 @@ applyLook();
 let feed = {items:[]}, insights = {items:[]}, summaries = {}, config = {}, serverSettings = {};
 let filter = store.get('filter','state'), query = '';
 const seenBefore = new Set(store.get('seen', []));
+// מה כבר נקרא (נפתח) — לא נספר במספרים שעל הלשוניות
+let readSet = new Set(store.get('read', []));
+const isRead = id => readSet.has(id);
+function markRead(ids){ let ch = false; for (const id of ids) if (!readSet.has(id)) { readSet.add(id); ch = true; }
+  if (ch) { store.set('read', [...readSet].slice(-4000)); } return ch; }
 
 function ago(iso){
   const m = Math.round((Date.now() - new Date(iso)) / 60000);
@@ -322,18 +330,18 @@ const firstSentences = (s, n=220) => { s = String(s||'').replace(/\s+/g,' ').tri
 // ===================== כרטיסים =====================
 function insightCard(it){
   const vs = (it.claim || it.reality) ? `<div class="vs"><div><b>נאמר${it.claimBy?' · '+esc(it.claimBy):''}</b>${esc(it.claim||'')}</div><div><b>בפועל</b>${esc(it.reality||'')}</div></div>` : '';
-  return `<div class="card ins" data-ins="${esc(it.id)}">
+  return `<div class="card ins ${isRead(it.id)?'read':'new'}" data-ins="${esc(it.id)}">
     <div class="kicker">🔍 ניתוח · ${esc(TOPICS[it.topic]?.label||'')} <span class="sep">·</span> <span style="color:var(--ink3);font-weight:400">${ago(it.published)}</span></div>
     <h3>${esc(it.title)}</h3>${it.summary?`<p class="sum">${esc(it.summary)}</p>`:''}${vs}
     ${it.verdict?`<span class="verdict">${esc(it.verdict)}</span>`:''}
   </div>`;
 }
 function headlineCard(it){
-  const isNew = !seenBefore.has(it.id) && seenBefore.size > 0;
+  const isNew = !isRead(it.id);
   const s = summaries[it.id];
   const text = s?.summary ? firstSentences(s.summary) : it.summary;
   const img = look.images && (s?.image || it.image);
-  return `<div class="card ${isNew?'new':''}" data-h="${esc(it.id)}">
+  return `<div class="card ${isNew?'new':'read'}" data-h="${esc(it.id)}">
     <div class="row"><div class="txt">
       <div class="meta">${topicTag(it.topic)}<span class="sep">·</span><span>${esc(it.source)}</span><span class="sep">·</span><span>${ago(it.published)}</span>
         <span class="badges">${s?'<span class="ok">✓ סוכם</span>':''}${it.important?'<span class="imp">חשוב</span>':''}</span></div>
@@ -355,10 +363,11 @@ function render(){
   const ins = insights.items.filter(matches).sort((a,b)=>b.published.localeCompare(a.published));
   let heads = feed.items.filter(matches);
   const inState = i => STATE_TOPICS.includes(i.topic);
-  const counts = {all: heads.length + ins.length, important: heads.filter(i=>i.important).length, insights: ins.length,
-    state: heads.filter(inState).length + ins.filter(inState).length};
-  for (const t in TOPICS) counts[t] = heads.filter(i=>i.topic===t).length + ins.filter(i=>i.topic===t).length;
-  $('#chips').innerHTML = FILTERS.map(f=>`<button class="chip ${f.home?'home':''}" aria-pressed="${f.id===filter}" data-f="${f.id}">${f.home?'🇮🇱 ':''}${f.dot?`<span class="dot" style="background:${f.dot}"></span>`:''}${f.label}<span class="n">${counts[f.id]||0}</span></button>`).join('');
+  const uh = heads.filter(i=>!isRead(i.id)), ui = ins.filter(i=>!isRead(i.id)); // רק מה שעוד לא נקרא
+  const counts = {all: uh.length + ui.length, important: uh.filter(i=>i.important).length, insights: ui.length,
+    state: uh.filter(inState).length + ui.filter(inState).length};
+  for (const t in TOPICS) counts[t] = uh.filter(i=>i.topic===t).length + ui.filter(i=>i.topic===t).length;
+  $('#chips').innerHTML = FILTERS.map(f=>`<button class="chip ${f.home?'home':''}" aria-pressed="${f.id===filter}" data-f="${f.id}">${f.home?'🇮🇱 ':''}${f.dot?`<span class="dot" style="background:${f.dot}"></span>`:''}${f.label}${counts[f.id] ? `<span class="n">${counts[f.id] > 99 ? '99+' : counts[f.id]}</span>` : ''}</button>`).join('');
 
   let html = '';
   if (filter === 'insights') {
@@ -378,6 +387,9 @@ function render(){
     else if (filter !== 'all') { heads = heads.filter(i=>i.topic===filter); showIns = ins.filter(i=>i.topic===filter); }
     if (filter === 'media' || filter === 'state') html += askBanner();
     if (showIns.length) html += `<div class="section-h">ניתוחי עומק</div><div class="strip">${showIns.slice(0,10).map(insightCard).join('')}</div>`;
+    const unreadHere = [...heads, ...showIns].filter(i=>!isRead(i.id)).map(i=>i.id);
+    window._unreadHere = unreadHere;
+    if (unreadHere.length) html += `<button class="markall" id="markAll">✓ סימון הכל כנקרא (${unreadHere.length})</button>`;
     let last = '';
     for (const it of heads) {
       const d = dayLabel(it.published);
@@ -403,6 +415,7 @@ async function load(){
   feed.items ||= []; insights.items ||= []; summaries ||= {};
   render();
   $('#refresh').classList.remove('spin');
+  if (store.get('read', null) === null) { markRead([...feed.items, ...insights.items].filter(i => Date.now() - new Date(i.published) > 12*3600e3).map(i=>i.id)); render(); }
   store.set('seen', [...new Set([...feed.items.map(i=>i.id), ...seenBefore])].slice(0, 1500));
   routeHash();
 }
@@ -434,6 +447,7 @@ const byline = `<div class="byline"><img src="icons/icon-192.png" alt="">סיכ�
 
 function openInsight(id){
   const it = insights.items.find(i=>i.id===id); if (!it) return;
+  if (markRead([id])) render();
   const hash = it.id;
   const vs = (it.claim||it.reality) ? `<div class="vs" style="margin-bottom:14px"><div><b>נאמר${it.claimBy?' · '+esc(it.claimBy):''}</b>${esc(it.claim||'')}</div><div><b>בפועל</b>${esc(it.reality||'')}</div></div>` : '';
   openSheet(`<div class="meta" style="margin-bottom:6px">${topicTag(it.topic)}<span class="sep">·</span><span>${ago(it.published)}</span></div>
@@ -446,6 +460,7 @@ function openInsight(id){
 }
 function openHeadline(id){
   const it = feed.items.find(i=>i.id===id); if (!it) return;
+  if (markRead([id])) render();
   const s = summaries[id];
   const img = s?.image || it.image;
   let body;
@@ -662,6 +677,7 @@ document.addEventListener('click', e => {
   const c = e.target.closest('.chip'); if (c) { filter = c.dataset.f; store.set('filter', filter); render(); window.scrollTo({top:0,behavior:'smooth'}); return; }
   const ins = e.target.closest('[data-ins]'); if (ins) { openInsight(ins.dataset.ins); return; }
   const h = e.target.closest('[data-h]'); if (h) { openHeadline(h.dataset.h); return; }
+  if (e.target.closest('#markAll')) { markRead(window._unreadHere || []); render(); toast('סומן כנקרא ✓'); return; }
   if (e.target.closest('#askBtn')) { openAsk(); return; }
   const gi = e.target.closest('[data-goins]'); if (gi) { e.preventDefault(); openInsight(gi.dataset.goins); return; }
   const a = e.target.closest('a[href="#settings"]'); if (a) { e.preventDefault(); openSettings(); }
