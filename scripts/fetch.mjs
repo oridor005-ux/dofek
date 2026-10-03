@@ -227,7 +227,7 @@ async function syncRequests() {
       if (m.event !== 'message' || known.has(m.id)) continue;
       let r; try { r = JSON.parse(m.message); } catch { r = { text: m.message }; }
       const str = (v, n) => String(v || '').slice(0, n);
-      saved.items.push({ id: m.id, text: str(r.text, 2000), who: str(r.who, 200), link: str(r.link, 500), received: new Date(m.time * 1000).toISOString(), status: 'pending' });
+      saved.items.push({ id: m.id, text: str(r.text, 2000), who: str(r.who, 200), link: str(r.link, 500), at: str(r.at, 12), received: new Date(m.time * 1000).toISOString(), status: 'pending' });
       known.add(m.id); added++;
     }
     saved.items = saved.items.slice(-100);

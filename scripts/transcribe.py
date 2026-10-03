@@ -60,20 +60,31 @@ def try_subs(url, tmp):
     return None, out[-400:]
 
 
-def try_whisper(url, tmp):
+def to_sec(at):
+    try:
+        p = [int(x) for x in str(at).strip().split(':')]
+        return p[0] * 60 if len(p) == 1 else p[-2] * 60 + p[-1] + (p[0] * 3600 if len(p) == 3 else 0)
+    except Exception:
+        return None
+
+
+def try_whisper(url, tmp, at=None):
+    t = to_sec(at) if at else None
+    rng = ['--download-sections', f'*{max(0, t - 60)}-{t + 300}'] if t is not None else ['--match-filter', f'duration < {MAX_SECONDS}']
     code, out = run(['yt-dlp', '-f', 'bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7',
-                     '--no-playlist', '--match-filter', f'duration < {MAX_SECONDS}',
-                     '-o', os.path.join(tmp, 'audio.%(ext)s'), url], timeout=600)
+                     '--no-playlist', *rng, '-o', os.path.join(tmp, 'audio.%(ext)s'), url], timeout=900)
     audio = glob.glob(os.path.join(tmp, 'audio.*'))
     if not audio:
         return None, out[-500:]
     from faster_whisper import WhisperModel
     model = WhisperModel(MODEL, device='cpu', compute_type='int8')
     segs, info = model.transcribe(audio[0], vad_filter=True, beam_size=1)
-    parts = []
+    parts, off = [], (max(0, t - 60) if t is not None else 0)
     for s in segs:
-        m, sec = divmod(int(s.start), 60)
+        m, sec = divmod(int(s.start) + off, 60)
         parts.append(f'[{m:02d}:{sec:02d}] {s.text.strip()}')
+    if not parts:
+        return None, 'no-speech'
     return '\n'.join(parts), f'whisper-{MODEL} ({info.language})'
 
 
@@ -99,9 +110,9 @@ def main():
         with tempfile.TemporaryDirectory() as tmp:
             try:
                 info = meta(url)
-                text, how = try_subs(url, tmp)
+                text, how = (None, '') if r.get('at') else try_subs(url, tmp)
                 if not text:
-                    text, how = try_whisper(url, tmp)
+                    text, how = try_whisper(url, tmp, r.get('at'))
                 if text:
                     head = f"מקור: {url}\nכותרת: {info.get('title','')}\nמעלה: {info.get('uploader','')}\nתאריך: {info.get('date','')}\nשיטה: {how} — תמלול אוטומטי, ייתכנו שגיאות\n\n"
                     with open(os.path.join(OUT, r['id'] + '.txt'), 'w', encoding='utf-8') as f:
@@ -111,7 +122,7 @@ def main():
                     r['videoMeta'] = info
                     log('  ok via', how, len(text), 'chars')
                 else:
-                    reason = 'login' if re.search(r'login|sign in|cookies|confirm you', how or '', re.I) else 'download'
+                    reason = 'login' if re.search(r'login|sign in|cookies|confirm you', how or '', re.I) else 'no-speech' if how == 'no-speech' else 'too-long' if 'does not pass filter' in (how or '') else 'download'
                     r['transcriptStatus'] = f'failed:{reason}'
                     log('  failed:', (how or '')[-300:])
             except Exception as e:
@@ -123,11 +134,14 @@ def main():
 
 
 def test(url):
+    at = None
+    if '@@' in url:
+        url, at = url.split('@@')
     with tempfile.TemporaryDirectory() as tmp:
         log('meta:', meta(url))
-        text, how = try_subs(url, tmp)
+        text, how = (None, '') if at else try_subs(url, tmp)
         if not text:
-            text, how = try_whisper(url, tmp)
+            text, how = try_whisper(url, tmp, at)
         log('RESULT:', 'OK' if text else 'FAILED', '|', (how or '')[-600:])
         if text:
             log(text[:1500])

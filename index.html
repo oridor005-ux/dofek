@@ -490,22 +490,27 @@ const askBanner = () => `<button class="ask" id="askBtn"><span class="ic">📣</
 let requests = {items:[]};
 function openAsk(){
   const mine = store.get('myRequests', []);
-  const st = id => { const r = requests.items.find(x=>x.id===id); return r?.status === 'done' ? (r.insightId ? `<a href="#" data-goins="${esc(r.insightId)}" class="st" style="color:var(--demo)">✓ נבדק — לתוצאה</a>` : '<span class="st" style="color:var(--demo)">✓ נבדק</span>') : r?.status === 'rejected' ? `<span class="st" style="color:var(--ink3)">לא נבדק${r.note?': '+esc(r.note):''}</span>` : '<span class="st" style="color:var(--accent2)">⏳ ממתין לבדיקה</span>'; };
+  const tr = r => !r?.transcriptStatus ? '' : r.transcriptStatus === 'ok' ? ' <span class="st" style="color:var(--demo)">· 🎙️ הסרטון תומלל</span>'
+    : ` <span class="st" style="color:var(--ink3)">· 🎙️ ${r.transcriptStatus.includes('login') ? 'האתר חוסם הורדה — נבדק לפי הציטוט' : r.transcriptStatus.includes('too-long') ? 'סרטון ארוך — ציין דקה' : 'לא תומלל — נבדק לפי הציטוט'}</span>`;
+  const st = id => { const r = requests.items.find(x=>x.id===id); return tr(r) +  r?.status === 'done' ? (r.insightId ? `<a href="#" data-goins="${esc(r.insightId)}" class="st" style="color:var(--demo)">✓ נבדק — לתוצאה</a>` : '<span class="st" style="color:var(--demo)">✓ נבדק</span>') : r?.status === 'rejected' ? `<span class="st" style="color:var(--ink3)">לא נבדק${r.note?': '+esc(r.note):''}</span>` : '<span class="st" style="color:var(--accent2)">⏳ ממתין לבדיקה</span>'; };
   openSheet(`<h2>שליחת טענה לבדיקה</h2>
   <p class="lead">כתוב מה נאמר, מי אמר ואיפה. בסבב הבא (כל 3 שעות) Claude יצליב מול מקורות ויכתוב מה נכון, מה לא, ומה האמת.</p>
   <label class="field"><span>מה נאמר? (ציטוט או תיאור הטענה)</span><textarea id="askText" placeholder="לדוגמה: &quot;מחצית מהצעירים עזבו את הארץ בשנה האחרונה&quot;"></textarea></label>
   <label class="field"><span>מי אמר ואיפה?</span><input id="askWho" placeholder="לדוגמה: שם העיתונאי/המשפיען · ערוץ 14 / טיקטוק / טלגרם"></label>
-  <label class="field"><span>קישור (לא חובה)</span><input id="askLink" type="url" dir="ltr" placeholder="https://"></label>
+  <label class="field"><span>קישור לסרטון או לכתבה (לא חובה)</span><input id="askLink" type="url" dir="ltr" placeholder="https://"></label>
+  <label class="field"><span>באיזו דקה בסרטון זה נאמר? (לסרטונים ארוכים)</span><input id="askAt" dir="ltr" inputmode="numeric" placeholder="12:30"></label>
   <button class="btn" id="askSend">שליחה לבדיקה</button>
-  <p style="font-size:.78rem;color:var(--ink3);margin-top:8px">בסרטונים Claude לא יכול לצפות — לכן חשוב לכתוב בדיוק מה נאמר.</p>
+  <div class="box" style="font-size:.85rem;color:var(--ink2)"><h4>🎙️ סרטונים</h4>
+    <b>טיקטוק</b> ואתרי חדשות (כאן, מאקו, 13, 14 ועוד): הסרטון מתומלל אוטומטית מהקישור.<br>
+    <b>יוטיוב ואינסטגרם</b> חוסמים הורדה — כתוב את הציטוט המדויק. ביוטיוב אפשר להעתיק מ"הצגת תמליל" (מתחת לסרטון ← עוד ← תמליל).</div>
   ${mine.length?`<div class="set-sec">הבקשות שלי</div>${mine.slice().reverse().map(m=>`<div class="req"><div>${esc(m.text.slice(0,140))}${m.text.length>140?'…':''}</div><div class="meta" style="margin-top:4px">${esc(m.who||'')} <span class="sep">·</span> ${ago(m.sent)} <span class="sep">·</span> ${m.id?st(m.id):''}</div></div>`).join('')}`:''}`, 'ask');
   $('#askSend').onclick = sendAsk;
 }
 async function sendAsk(){
-  const text = $('#askText').value.trim(), who = $('#askWho').value.trim(), link = $('#askLink').value.trim();
+  const text = $('#askText').value.trim(), who = $('#askWho').value.trim(), link = $('#askLink').value.trim(), at = $('#askAt').value.trim();
   if (text.length < 8) { toast('כתוב מה נאמר'); return; }
   try {
-    const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: JSON.stringify({text, who, link}) });
+    const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: JSON.stringify({text, who, link, at}) });
     if (!r.ok) throw 0; const j = await r.json();
     const mine = store.get('myRequests', []); mine.push({id:j.id, text, who, sent:new Date().toISOString()}); store.set('myRequests', mine.slice(-30));
     toast('נשלח ✓ ייבדק בסבב הבא'); openAsk();
