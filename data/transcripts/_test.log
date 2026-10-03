@@ -4,22 +4,7 @@ RESULT: FAILED | utube] No title found in player responses; falling back to titl
 ERROR: [youtube] jNQXAC9IVRw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
 ==================== https://www.tiktok.com/@scout2015/video/6718335390845095173
-meta: {}
-RESULT: FAILED | webpage
-WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
-ERROR: [TikTok] 6718335390845095173: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-
-==================== https://www.instagram.com/p/Bkh6aACjM9P/
-meta: {}
-RESULT: FAILED | t is accessible in your browser without being logged-in. If it is not, then use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Otherwise, if the post is accessible in browser without being logged-in, please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-
-==================== https://www.kan.org.il/content/kan/kan-actual/p-11544/1019136/
-meta: {}
-RESULT: FAILED | CODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-[generic] Extracting URL: https://n-121-4.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181141/LIBCODER_SMOOTH_10...%3A+%221019136%22%7D
-[generic] 1019136: Downloading webpage
-[generic] 1019136: Downloading m3u8 information
-[generic] 1019136: Checking m3u8 live status
-[download] מהדורת כאן חדשות עם טל ברמן | 26.03.26 does not pass filter (duration < 1500), skipping ..
-WARNING: [generic] Falling back on generic information extractor
-
+meta: {'title': 'Scramble up ur name & I’ll try to guess it😍❤️ #foryoupage #petsoftikt...', 'uploader': 'scout2015', 'date': '20190727', 'duration': '10'}
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[0;93m2026-10-03 07:58:21.921657643 [W:onnxruntime:Default, device_discovery.cc:146 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+RESULT: FAILED | whisper-small (en)
