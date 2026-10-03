@@ -25,7 +25,12 @@ def pending(data):
             and r.get('transcriptStatus') not in ('ok',) and r.get('transcriptTries', 0) < 3]
 
 
+EXTRA = ['--extractor-args', 'youtube:player_client=tv_embedded,web_embedded,mweb,default', '--impersonate', 'chrome']
+
+
 def run(cmd, timeout=900):
+    if cmd and cmd[0] == 'yt-dlp':
+        cmd = cmd[:1] + EXTRA + cmd[1:]
     p = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
     return p.returncode, (p.stdout or '') + (p.stderr or '')
 
