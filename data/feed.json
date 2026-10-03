@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-03T13:35:52.649Z",
+ "updated": "2026-10-03T15:20:23.722Z",
  "items": [
+  {
+   "id": "b4f88a23668d",
+   "kind": "headline",
+   "title": "In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
+   "topic": "world",
+   "published": "2026-10-03T14:45:43.000Z",
+   "summary": "After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.",
+   "image": "https://static01.nyt.com/images/2026/09/28/multimedia/dc-texasdems-1-ltqg/dc-texasdems-1-ltqg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8e932d12a952",
+   "kind": "headline",
+   "title": "Press Freedom This Week: Media outlets battle Trump’s amid an already alarming trend",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcV9IYmhVNWdabjJMNnNtYmF6Q2t3VlFJRURzUEVub2NJVzdFWHBCU3l3MEZ6QVRCaTNKdGx3N294dWxvMENuYzgzV2g2eWViRHNlamRPTTZPYkxCVEFUX1FRaTlyc3pmeFdSQnFKWkVuYkpWUmdDWGF0eTh3dUZRaFE3eXA1OHRiSVhWZGY4djNxbXJUZ1Z2MUVqQ1lMOXlERlFaXzlIdTd3R0VqaGNyY2p2cTlqMDhzUFBpN0g1Vnl1VTNadTZkd2s2bXk3ZjNxajgzRWVKanI1ZmxD?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T14:05:39.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3f71c52684de",
+   "kind": "headline",
+   "title": "Why has Brazil accused the US of election interference?",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-03T13:52:13.000Z",
+   "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "7e8df9956864",
    "kind": "headline",
@@ -25,6 +67,20 @@
    "published": "2026-10-03T12:16:15.000Z",
    "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f8ed9dbaef82",
+   "kind": "headline",
+   "title": "Latvia holds parliamentary elections to elect new Saeima",
+   "source": "Yeni Şafak English",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkJaVVZxXzdRZGhKUk1WVElmdy16RV9tSDc3M2NwOTQxcERSaUpqN3lGYjZhaG9tamYwTGRaMTBhTWpYbkhLcm1WeDh0T0FtRzRUaDdRNWJtMGZNd1VaUmtqODBUcFlhRmVLc25WR3F4RlRYVHhVb2dQdVF0dGNqMHVYVjNLV0RpQmxGU2tqUHUyajFtbHlpR1pjREJLdWc?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T11:33:47.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -168,6 +224,20 @@
    "score": 3,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "83740188e557",
+   "kind": "headline",
+   "title": "Palestine Action crowdfunder for Supreme Court challenge blocked by US sanctions",
+   "source": "Yahoo News UK",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUxjVU9RaktTOHc2ajhjb3hWVzNRblMzem5rOFhyUTJoM05LRktha2gxcVczYjBVbzBtbFhfYkZHVUhtd2VYVTZUZGNVSkdPLXdKN0p0d2dVSFo1ZE13TGpneFZkeTRJelhDTUtUMTdKS1pBcXlIYVdrOEViWEROb3NhYks1ckxsa2sw?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T08:00:44.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "c849fdb6697c",
@@ -340,6 +410,20 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ddbdb85039a3",
+   "kind": "headline",
+   "title": "50 מ\"ר היום - ממ\"ד ומרפסת בעתיד: בכמה נמכרה דירה בנתניה?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001557842#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-03T07:00:00.000Z",
+   "summary": "ברחוב נחום בשכונת רמת ידין בנתניה, נמכרה דירת 3 חדרים בשטח של 50 מ\"ר, בלי חניה ובלי מרפסת, בקומה הרביעית מתוך ארבע תמורת 1.45 מיליון שקל • מחיר השיווק של הדירה עמד על 1.49 מיליון שקל, והיא עמדה על המדף כחודשיים • ועוד עסקאות נדל\"ן מהשבוע האחרון",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1673779128/COT_Pic/%D7%A2%D7%A1%D7%A7%D7%90%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2800_sueckz.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -520,7 +604,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "businessday.co.za"
+   ],
    "important": false
   },
   {
@@ -769,7 +855,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "bizportal.co.il"
+   ],
    "important": false
   },
   {
@@ -1143,6 +1231,20 @@
    "important": false
   },
   {
+   "id": "a6b1cc5c9ee7",
+   "kind": "headline",
+   "title": "U.S. Ushers $320 Million In Military Aid To Country That Just Completed Exercises With China",
+   "source": "The Daily Wire",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU21ha19aXzN3ZlhqRE9hUkRaWHNGXzMyZi15Rm5fSTJ1Y3lmcFUweTluM3J6dmtCenItSlZaLWtONWVaT3ZjTTFyNkxuZVNxYjVLbVU5eUdyXzhtT0Nial8tLUhMRTRXVVRMSjkyN2Z1NzhGUm9CNExQQTRaVVB6THVib3pzYndoZXFaLVpfcGQ2V1AyMnRUai05My1QMUdXaHFCZ0RvRXd0RWVLVnYxcU1JeVl4VzdWQzFoM3JB?oc=5",
+   "topic": "defense",
+   "published": "2026-10-02T16:44:47.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "a0750c57ffc6",
    "kind": "headline",
    "title": "The Green party’s anti-Zionism motion is yet another attempt to tell Jews how we should think | Jonathan Freedland",
@@ -1308,7 +1410,8 @@
    "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
    "score": 0,
    "alsoIn": [
-    "bbc.co.uk"
+    "bbc.co.uk",
+    "bbc.com"
    ],
    "important": false,
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/a7710370-be62-11f1-b36c-81ad410b221e.jpg"
