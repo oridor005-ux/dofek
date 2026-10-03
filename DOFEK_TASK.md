@@ -126,6 +126,14 @@
 }
 ```
 
+**סרטוני טיקטוק במעקב (`data/videos.json`):** כל חצי שעה נאספים ומתמללים אוטומטית סרטונים חדשים מערוצי הטיקטוק שב-`config.json` (`tiktokChannels`). בכל ריצה:
+- עוברים על עד 15 סרטונים במצב `"status": "new"` שיש להם `transcript`, מהישן לחדש, וקוראים את התמלול.
+- מאתרים טענות עובדתיות שאפשר לבדוק ושיש להן משקל, כמו מספרים, "מי עשה מה", ציטוטים או אירועים. מתעלמים מדעות, מבדיחות ומטענות שוליות.
+- טענה משמעותית הופכת לניתוח `media` רגיל. ב-`claimSource` שמים את קישור הסרטון, את שם הערוץ ואת הזמן בסרטון, למשל "טיקטוק @kan_news · 00:35", וב-`claim` את הציטוט מהתמלול.
+- התמלול אוטומטי ויכולות להיות בו שגיאות. אם הטענה תלויה במילה שאולי תומללה לא נכון, לא בודקים אותה, או שמסמנים "לא ניתן לאמת" ומסבירים.
+- אחרי כל סרטון מעדכנים את `status`: `"checked"` עם `insightIds: [...]`, או `"no-claims"` אם אין בו טענה ראויה לבדיקה.
+- גם כאן חלים כל כללי האיזון והניטרליות: בודקים את הטענה, לא את האדם.
+
 **אחרי שבודקים בקשה**, מעדכנים אותה ב-`data/requests.json`: `"status": "done"` ו-`"insightId": "<id הניתוח>"`. אם אי אפשר לבדוק אותה (אין טענה עובדתית, או שאי אפשר לאמת), מסמנים `"status": "rejected"` ומוסיפים `"note"` קצר שמסביר למה. גם בקשה כזו מקבלת ניתוח עם verdict "לא ניתן לאמת" כשזה מועיל לקורא.
 
 ---
@@ -133,7 +141,7 @@
 ## בסוף
 ```
 node -e "for (const f of ['summaries','insights','requests']) { try { JSON.parse(require('fs').readFileSync('data/'+f+'.json')) } catch(e) { if (f!=='requests') throw e } }"
-git add data/summaries.json data/insights.json data/requests.json
+git add data/summaries.json data/insights.json data/requests.json data/videos.json
 git commit -m "סיכומים וניתוחים"
 git pull --rebase origin main
 git push origin main
