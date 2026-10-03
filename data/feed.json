@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T16:17:34.550Z",
+ "updated": "2026-10-03T16:17:51.580Z",
  "items": [
+  {
+   "id": "6664abd91bae",
+   "kind": "headline",
+   "title": "Germany's far-right turning point",
+   "source": "The Financial Express",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJMWxxbFVaU3h5bkZ5eTBtUHNiZWRzekw4RWI0X3NxdlJTd3RERXBRTGY2S00wd0pQOVVTbWNRS3plSnk2czdEN0I5cVhmT0U0TFFsbTFGendCeDhwUWRJemlvZ1J5MHQ0NDRQalZfcnhST1VIdlBjNWQ4QmVVUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T16:02:17.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "974d045a3bb0",
    "kind": "headline",
@@ -180,7 +194,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ca.fashionnetwork.com"
+   ],
    "important": false
   },
   {

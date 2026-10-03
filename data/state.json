@@ -17,10 +17,13 @@
   "ins-2026-10-03-sa6m",
   "ins-2026-10-03-lp29",
   "ins-2026-10-03-gk75",
-  "48fa2994af59"
+  "48fa2994af59",
+  "ins-2026-10-03-m53b",
+  "ins-2026-10-03-mgol",
+  "ins-2026-10-03-mwin"
  ],
  "pending": [],
- "lastRun": "2026-10-03T16:17:34.550Z",
+ "lastRun": "2026-10-03T16:17:51.580Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
