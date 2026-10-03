@@ -26,7 +26,7 @@
   "3436560ba312"
  ],
  "pending": [],
- "lastRun": "2026-10-03T19:31:31.088Z",
+ "lastRun": "2026-10-03T19:42:58.303Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -42,9 +42,9 @@
    "ok": 67,
    "fail": 2,
    "light": false,
-   "at": "2026-10-03T19:20:23.262Z"
+   "at": "2026-10-03T19:31:50.030Z"
   },
-  "lastNewItemAt": "2026-10-03T19:31:31.088Z",
+  "lastNewItemAt": "2026-10-03T19:42:58.303Z",
   "lastPushOkAt": "2026-10-03T18:23:10.464Z"
  }
 }

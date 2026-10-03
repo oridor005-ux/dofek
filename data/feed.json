@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-03T19:31:31.088Z",
+ "updated": "2026-10-03T19:42:58.303Z",
  "items": [
+  {
+   "id": "0fbdd9ea4d68",
+   "kind": "headline",
+   "title": "Netanyahu, in Tough Election Fight, Embraces Those Who Stopped FlyDubai Attack",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/middle-east/netanyahu-in-tough-election-fight-embraces-those-who-stopped-flydubai-attack-68366a96?mod=rss_worldnews",
+   "topic": "knesset",
+   "published": "2026-10-03T19:30:00.000Z",
+   "summary": "The attack fits into the prime minister’s pitch that Israel is under attack from all sides and only his right-wing coalition can protect it.",
+   "image": "https://images.wsj.net/im-39111328",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e3c268dcb5cc",
+   "kind": "headline",
+   "title": "Latvian PM's alliance set for clear election win, exit poll shows",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmthWWoxT3Y1azY2TVluejlkaHR4aVZpZWh1dklBcG0tb1ZIMnM0d3ZpQzZIcjE1bWFDNFBUdC1pZ1JGbkRWZm1NZ3VCVWkwWTE2NTllMU5OYms4eFRjQ1VyaW1aTzJxYmpsUzZDbFdFX1FEMGQ3dEtqSy0wSldIYzc5akJvZHFacTBwWTZUX3g?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T19:18:26.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d981f53f159a",
    "kind": "headline",
@@ -25,6 +53,20 @@
    "published": "2026-10-03T18:54:39.000Z",
    "summary": "",
    "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bfdde3c995c7",
+   "kind": "headline",
+   "title": "Trump Urges Republicans to Vote By Mail After Criticizing Practice",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html",
+   "topic": "world",
+   "published": "2026-10-03T18:44:42.000Z",
+   "summary": "It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”",
+   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03-pol-trump-mail-voting-01-tfkb/03-pol-trump-mail-voting-01-tfkb-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -228,7 +270,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "monitor.co.ug"
+   ],
    "important": false
   },
   {
@@ -3618,7 +3662,8 @@
    "summary": "",
    "score": 0,
    "alsoIn": [
-    "RealGM"
+    "RealGM",
+    "The Dream Shake"
    ],
    "important": false
   },
