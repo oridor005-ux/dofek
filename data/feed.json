@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T20:52:50.782Z",
+ "updated": "2026-10-03T21:05:06.851Z",
  "items": [
+  {
+   "id": "b9d73334b077",
+   "kind": "headline",
+   "title": "Parliament to continue under new constitution",
+   "source": "FBC News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWdjcXpqLUxGNDR4SDF4RHBmVmJSNFgwcVpwcmZLOXlJVFo0Yk1PVzh4UXJ6T2dZS3BVQmt2aHQ4dEtaQ2RtUHFzcmtFU1NkSG10S1RiX2pVZFl5SzB4MU96R25GUk1xdk5GSHhiUGtGZ0ZCRWc5eWEzN0xZOEdGUjN1RGo?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T20:18:15.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "39cae2685a2d",
    "kind": "headline",
@@ -12,7 +26,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "fijisun.com.fj"
+   ],
    "important": false
   },
   {
@@ -109,6 +125,20 @@
    "published": "2026-10-03T18:44:41.000Z",
    "summary": "It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”",
    "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03-pol-trump-mail-voting-01-tfkb/03-pol-trump-mail-voting-01-tfkb-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6199f2dc9db8",
+   "kind": "headline",
+   "title": "Latvian Prime Minister Andris Kulbergs Faces Challenges in Parliamentary Elections Due to Living Costs and Russia",
+   "source": "Nacionale News",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVp0VEQ1c1JqaWlkckNmMnVXem5CYUJlSk9wZ2pTc3NrV0VjWWZXVzRPQWxOTUtGaWRvU2N6NXg0amxNMUhTS1ZsS2xOeDRLTm9NQUxFeW5WZDdOcW00dHhmd0phdWNQQk9PMER3UmNqbTFvZmZxOHFabEVZdDBnMnhmVFBLZHNmQmVkbGx3b1lZcXMyTXJiTG4wbmNXYWwyUlJ5S2F4VDZIWkE3N29rRW84M1RuX3pzdFE?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T18:35:22.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1002,6 +1032,20 @@
    "important": false
   },
   {
+   "id": "0af1249e7c9d",
+   "kind": "headline",
+   "title": "Latvia: Exit polls show ruling party leading as populist party gains momentum",
+   "source": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM05wSF8xWWluTE1qSXNKNXMtTDZQc3VTd0x3a0FnTmtlWU1aZ2ZwNHpUeXBfQkZPS1B5QkFCOER3djVKN2JYZGdNYkQ1T0k3WG5sWUZYNklCYlJBZHZtd3o1bU8xX2c3bW1pUTNyZEZ5ZUlxcXN4Zk9PUEVJeTY1UkNzeW1CdDhnWkRWaFlnanlFOEd4Vkg0elU2Z0JkRmZiamdiNm1hM0tYc0ZVNHFqakc4SEs?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T07:00:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "7167fe422432",
    "kind": "headline",
    "title": "עם חתימה לפינוי־בינוי: בכמה נמכרה דירת 3 חדרים בנתניה?",
@@ -1436,7 +1480,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "dw.com"
+   ],
    "important": false
   },
   {
