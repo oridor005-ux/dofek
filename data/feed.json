@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T02:48:10.189Z",
+ "updated": "2026-10-03T03:15:02.893Z",
  "items": [
   {
    "id": "70908ef2d863",
@@ -635,6 +635,20 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CZ2NWXFG4VH7FBVSCJ5CVG3XF4.jpg"
   },
   {
+   "id": "c2d55dc7e1f9",
+   "kind": "headline",
+   "title": "Voter attitudes on Israel, Iran among the top eye-openers in Harvard CAPS-Harris poll",
+   "source": "Just The News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkZCSlhhemF6ZjBkY1ctSDhTZmFwdkJiX2NOYWROZFpORzh2WHBCWXlJZ0hqVGhSclE0YmM2UVZYbzRxcGpBelNSWVo5U25sOElyUjVSYXoycjFPSXZ2YllWU3JiMEpfel8zanRYNVBvN2xobVp0VW1WRFN5bXliODZ6UlhqVHhZQmNGZmNXQnRqNnM?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-02T15:25:34.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c4575067fe9b",
    "kind": "headline",
    "title": "U.A.E., Netanyahu Say FlyDubai Attack Was Terrorism",
@@ -952,7 +966,9 @@
    "published": "2026-10-02T12:07:37.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "pittsburghbaseballnow.com"
+   ],
    "important": false
   },
   {
@@ -1111,7 +1127,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "abcnews.com"
+   ],
    "important": false
   },
   {
@@ -1260,6 +1278,20 @@
    "important": false
   },
   {
+   "id": "818ae1513696",
+   "kind": "headline",
+   "title": "Spain's government set to lose key vote in Parliament to ratify emergency housing measures",
+   "source": "bastillepost.com",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3I1Sl9KX2liWWVua2ZJaUNQMlBlejZjMDUzVkpXUHBkMGNhQy1hbHF1YUxWamtrX1FueVJ4SmFZT2JzSlJWa1BUMWNCQXUwS3E5NUpRbU11MWUyS1VHV1gyLVVpeE1UdnBJQ25kRldlVV9OVWJ6eGkzRmlseFc2M1VPcGhWRVRfcWlmZ011WlVObnZ1bVVxc280WkJNMzBER2dEMXhQWW9CRHAzRFFHMTRad18xUkRzR3ZmazY3WnBGY3VJZU1ZWnVJSkZxUWY1aDBtMmhVUjE?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T08:58:27.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "731ded154dfd",
    "kind": "headline",
    "title": "OPINION - Israel’s Growing Involvement in the Balkans: Emerging Security Asymmetry and Türkiye’s Balancing Role",
@@ -1269,6 +1301,20 @@
    "published": "2026-10-02T08:56:32.000Z",
    "summary": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7da7fdd78d4b",
+   "kind": "headline",
+   "title": "Netanyahu's man: How Israel is betting on a Bolsonaro comeback in Brazil",
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1hUbWJiNTJiMjJ4ZHA0cm9pSUpkQklJT1BTVUZ0NmZYeVoxM2twNS1HNXg4b2s1U1ljMHdrQkFVcVB5ZXEtUzVvTUhFZmhidnV6VUtxM3B6SWhyZmxiUXlxZDVpUXF0WExRdVFpajJsWE5STlVZdEVEaTRYNEZRUjVvVS1HM2dUNy0xMlZHMXRpbV9LYmNQanU3N0pJcktEbmc?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-02T08:55:55.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -1313,6 +1359,20 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/a7c16e03b529e84f8889588bf438839554d4d3b2/0_0_5906_4724/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=c96b86fe6a830cd2a9713d2c94d71c8c"
+  },
+  {
+   "id": "dbc3a4613eba",
+   "kind": "headline",
+   "title": "Between 2010 and 2026, Hungary had a democracy matching that of any normal, decent EU member state-Tamás Deutsch",
+   "source": "Telex",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNEJ2MkwtTVhFQjkzYmN1NGRRVnlQYzVBb1dKZDZIa3FJRjRSSkF4bl9WT0ZFV3Z6eGs3dFFNNVBSellGZ0NqbFNPSFlsX245eFI4Umg4VXJMRmQyMzlzRjdFazJfSEhUZzdRNEY4azVKZDNib1ZZeGx6Zl8xTldlR2hUdkdvTGcybFlzbERETzdxdlNrZHlLSmxVT3dYcEVVcjlSalJXY2dncWxzb2ljVXByNjRKTm5rSEhyVFY1eVRZN0VYLUllbG5UNXNtRTN2dVZ0Y2RQbXFuNFVTM0hB?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T08:37:55.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "5071284e1625",
