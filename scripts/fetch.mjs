@@ -276,7 +276,9 @@ async function push(msg) {
   };
   if (DRY || !config.ntfyTopic) { log('  [push dry]', JSON.stringify({ t: body.title, m: body.message, img: body.attach, click: body.click })); return true; }
   try {
-    const r = await fetch(NTFY, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+    const headers = { 'Content-Type': 'application/json' };
+    if (process.env.NTFY_TOKEN) headers.Authorization = 'Bearer ' + process.env.NTFY_TOKEN; // ערוץ נעול: רק עם הטוקן אפשר לשלוח
+    const r = await fetch(NTFY, { method: 'POST', headers, body: JSON.stringify(body) });
     if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + (await r.text()).slice(0, 200));
     try { fs.writeFileSync('/tmp/dofek_pushed', '1'); } catch {}
     return true;
@@ -374,6 +376,8 @@ async function main() {
 
   state.notified = [...notified].slice(-3000);
   state.lastRun = now.toISOString();
+  state.ownerKeySet = !!OWNER_KEY;
+  state.ntfyTokenSet = !!process.env.NTFY_TOKEN;
   state.ownerKeySet = !!OWNER_KEY;
   writeJSON('data/feed.json', feed);
   writeJSON('data/state.json', state);

@@ -470,10 +470,10 @@ function openNotif(){
   </ol>
   <a class="btn ghost" href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">1 · התקנת ntfy</a>
   <a class="btn" href="ntfy://ntfy.sh/${esc(t)}?display=${encodeURIComponent('דופק אמיתי')}">2 · חיבור לדופק</a>
-  ${OWNER ? '<button class="btn ghost" id="testPush">שליחת פוש לדוגמה</button>' : ''}
+
   <p style="font-size:.8rem;color:var(--ink3);margin-top:14px">אם הכפתור לא עובד: ב-ntfy לוחצים + ומקלידים <code>${esc(t)}</code></p>
   ${OWNER ? '<p style="font-size:.8rem;color:var(--ink3);margin-top:8px">על אילו נושאים לקבל פושים ומתי — ב<a href="#settings" style="color:var(--accent)">הגדרות</a>.</p>' : ''}`);
-  if (OWNER) $('#testPush').onclick = testPush;
+
 }
 async function testPush(){
   const it = feed.items.find(i=>i.topic==='demo') || feed.items[0];
