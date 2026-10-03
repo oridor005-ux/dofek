@@ -117,10 +117,23 @@ async function collect() {
     ...directFeeds.map((f, i) => ({ ...f, fixture: `direct-${i}.xml` })),
     ...(process.env.LIGHT ? [] : googleQueries).map((g, i) => ({ name: null, url: googleNewsUrl(g.q, g.lang), topic: g.topic, q: g.q, fixture: `google-${i}.xml`, google: true })),
   ];
-  const results = await Promise.allSettled(jobs.map(async (j) => ({ j, items: parseRss(await getXml(j.url, j.fixture)) })));
+  // אתרים ישירים — במקביל. חיפושי גוגל — אחד אחרי השני עם הפסקה קטנה, כדי לא להיחסם
+  const one = async (j) => ({ j, items: parseRss(await getXml(j.url, j.fixture)) });
+  const direct = jobs.filter(j => !j.google), goog = jobs.filter(j => j.google);
+  const results = await Promise.allSettled(direct.map(one));
+  let googleBlocked = false;
+  for (const j of goog) {
+    if (googleBlocked) { results.push({ status: 'rejected', reason: new Error('skipped (google blocked)'), j }); continue; }
+    try { results.push({ status: 'fulfilled', value: await one(j) }); }
+    catch (e) { results.push({ status: 'rejected', reason: e, j }); if (/429|503|blocked/i.test(e.message)) googleBlocked = true; }
+    if (!FIXTURES) await new Promise(r => setTimeout(r, 700));
+  }
+  const errs = {};
   const out = []; let ok = 0, fail = 0;
   for (const r of results) {
-    if (r.status !== 'fulfilled') { fail++; log('  ✗', r.reason?.message); continue; }
+    if (r.status !== 'fulfilled') {
+      fail++; const kind = r.j?.google ? 'google' : 'direct'; const m = (r.reason?.message || 'error').slice(0, 60);
+      errs[kind] = errs[kind] || {}; errs[kind][m] = (errs[kind][m] || 0) + 1; log('  ✗', kind, m); continue; }
     ok++;
     const { j, items } = r.value;
     for (const it of items.slice(0, 15)) {
@@ -162,7 +175,9 @@ async function collect() {
     }
   }
   log(`sources ok=${ok} failed=${fail}, raw items=${out.length}`);
-  collectStats = { ok, fail, light: !!process.env.LIGHT };
+  const directFail = Object.values(errs.direct || {}).reduce((a, b) => a + b, 0);
+  const googleFail = Object.values(errs.google || {}).reduce((a, b) => a + b, 0);
+  collectStats = { ok, fail, light: !!process.env.LIGHT, direct: direct.length, directFail, google: goog.length, googleFail, errors: errs };
   return out;
 }
 
@@ -314,6 +329,8 @@ async function main() {
   const firstRun = !fs.existsSync(P('data/state.json'));
   const state = readJSON('data/state.json', { notified: [], pending: [] });
   const notified = new Set(state.notified);
+  // חיפושי גוגל: לכל היותר פעם בחצי שעה (יותר מזה — גוגל חוסם)
+  if (!process.env.LIGHT && !FIXTURES && state.lastFullAt && now - new Date(state.lastFullAt) < 28 * 60000) process.env.LIGHT = '1';
   const settings = await syncSettings();
   await syncRequests();
   const pushTopics = settings.pushTopics || {};
@@ -390,11 +407,15 @@ async function main() {
 
   state.notified = [...notified].slice(-3000);
   state.lastRun = now.toISOString();
+  if (collectStats && !collectStats.light) state.lastFullAt = now.toISOString();
   state.ownerKeySet = !!OWNER_KEY;
   state.ntfyTokenSet = !!process.env.NTFY_TOKEN;
   // נתוני בריאות למערכת ההתראות למנהל
   const h = state.health || {};
-  if (collectStats && !collectStats.light) h.sources = { ...collectStats, at: now.toISOString() };
+  if (collectStats && !collectStats.light) {
+    h.sources = { ...collectStats, at: now.toISOString() };
+    if (collectStats.google && collectStats.googleFail / collectStats.google < 0.5) h.googleOkAt = now.toISOString();
+  }
   if (added) h.lastNewItemAt = now.toISOString();
   if (lastPushOk) h.lastPushOkAt = now.toISOString();
   if (lastPushError) h.lastPushError = { msg: lastPushError.slice(0, 200), at: now.toISOString() };

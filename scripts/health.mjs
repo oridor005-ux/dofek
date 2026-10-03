@@ -40,8 +40,11 @@ const problems = {}; // key -> text
 if (WHO === 'transcribe' && mins(state.lastRun) > 45)
   problems.engine = `איסוף הכותרות והפושים לא רץ כבר ${fmt(mins(state.lastRun))}.`;
 // 2. מקורות
-if (h.sources && h.sources.ok + h.sources.fail > 0 && h.sources.fail / (h.sources.ok + h.sources.fail) > 0.5)
-  problems.sources = `${h.sources.fail} מתוך ${h.sources.ok + h.sources.fail} מקורות החדשות לא עונים.`;
+const src = h.sources;
+if (src && src.direct && src.directFail / src.direct > 0.5)
+  problems.sources = `${src.directFail} מתוך ${src.direct} אתרי החדשות לא עונים.`;
+if (src && src.google && src.googleFail / src.google > 0.8 && mins(h.googleOkAt) > 180)
+  problems.google = `חיפושי Google News נכשלים כבר ${fmt(mins(h.googleOkAt))} (כנראה חסימה זמנית).`;
 if (daytime && mins(h.lastNewItemAt) > 240 && mins(state.lastRun) < 45)
   problems.noNews = `לא נכנסה אף ידיעה חדשה כבר ${fmt(mins(h.lastNewItemAt))}.`;
 // 3. פושים
