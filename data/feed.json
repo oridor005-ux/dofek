@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-03T22:38:07.073Z",
+ "updated": "2026-10-03T22:50:22.433Z",
  "items": [
+  {
+   "id": "f2a4b66e0847",
+   "kind": "headline",
+   "title": "Pro-Israel advocates hound Green Party members over 'Zionism is Racism' motion",
+   "source": "middleeasteye.net",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTExvTHBVSXNmSTlucmxqa0tweGJhaTdjTjQycjVoZXBzYk15U2s5ak44bWVRc1pFWXhHZ1ZSdHlBWUdUS291WXRPcWprU2g5SjZTYUczc05JNUVOUVdOUU5rRFh0LVQ3R3MtWGUtVDhQbTJISWdUdnNYaERscDdsSjA4NVJjS0hyS2N0MEhhT0ZiLV9FamEyUVNzTTVGcnVPenlXb2h3?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T22:27:35.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7643dffd97dc",
+   "kind": "headline",
+   "title": "Latvian leader poised for big win in election shadowed by Putin",
+   "source": "The Spokesman-Review",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3ZUSl9DcjRMVEdudlJxaXJiZ0k2RC1maG1SbXQ2ZlhNZTlGdURXV1BXcDVPN2VVSmhEbGN4Y2pBeHgtZFZiQnE5X1dkeVd1V3FRU1V6NGVhQVpxWFVHN2tPZ0laQnRSdXZOM1NVWmNXckllNmN3MHpOMFUtYVNzaWd4aVl4Umc3YzY2Z0xaREM4X0NWd1RsbVVUeVRXUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T21:42:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "dc412ec093c7",
    "kind": "headline",
@@ -224,7 +252,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "elconstitucional.es"
+   ],
    "important": false
   },
   {
