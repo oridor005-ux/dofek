@@ -21,5 +21,12 @@
  "pending": [],
  "lastRun": "2026-10-03T11:40:39.333Z",
  "ownerKeySet": true,
- "ntfyTokenSet": false
+ "ntfyTokenSet": false,
+ "testPush": {
+  "at": "2026-10-03T11:48:41.733Z",
+  "ok": true,
+  "error": "",
+  "token": true,
+  "ownerKey": true
+ }
 }
