@@ -7,6 +7,10 @@ on:
     paths:
       - 'data/insights.json'  # כש-Claude מוסיף ניתוח חדש — לשלוח פוש מיד
   workflow_dispatch:          # הרצה ידנית מתוך GitHub
+    inputs:
+      test_push:
+        description: 'שליחת פוש בדיקה בלבד'
+        required: false
 
 permissions:
   contents: write
@@ -28,6 +32,7 @@ jobs:
         env:
           APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
           OWNER_KEY: ${{ secrets.OWNER_KEY }}
+          TEST_PUSH: ${{ inputs.test_push }}
           NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
         run: |
           # ריצה מלאה (כולל חיפושים), ואז בדיקה מהירה של האתרים כל 2 דקות — כמעט בזמן אמת

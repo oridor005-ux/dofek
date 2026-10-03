@@ -265,6 +265,7 @@ function isQuiet(settings) {
   const h = israelHour();
   return q.start > q.end ? (h >= q.start || h < q.end) : (h >= q.start && h < q.end);
 }
+let lastPushError = '';
 async function push(msg) {
   const body = {
     topic: config.ntfyTopic, title: msg.title, message: msg.message,
@@ -282,7 +283,7 @@ async function push(msg) {
     if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + (await r.text()).slice(0, 200));
     try { fs.writeFileSync('/tmp/dofek_pushed', '1'); } catch {}
     return true;
-  } catch (e) { log('  push failed:', e.message); return false; }
+  } catch (e) { log('  push failed:', e.message); lastPushError = e.message; return false; }
 }
 const EMOJI = { econ: '📈', demo: '👥', deals: '🤝', research: '🔬', knesset: '🏛️', laws: '📜', factcheck: '🔍', media: '📺', israelAbroad: '🌍', defense: '🛡️', world: '🗺️' };
 const card = (topic) => APP_URL ? `${APP_URL}icons/cards/${TOPICS[topic] ? topic : 'general'}.png` : '';
@@ -313,6 +314,12 @@ async function main() {
   const pushTopics = settings.pushTopics || {};
   const wants = (it) => pushTopics[it.topic] !== false;
 
+  if (process.env.TEST_PUSH) {
+    const ok = await push({ title: 'בדיקת ערוץ נעול ✅', message: 'אם הפוש הזה הגיע — הערוץ הנעול של דופק אמיתי עובד.', image: card('general') });
+    state.testPush = { at: now.toISOString(), ok, error: ok ? '' : lastPushError.slice(0, 200), token: !!process.env.NTFY_TOKEN, ownerKey: !!OWNER_KEY };
+    writeJSON('data/state.json', state);
+    return;
+  }
   const fresh = cluster(await collect());
   const byId = new Map(feed.items.map(i => [i.id, i]));
   let added = 0;
