@@ -432,12 +432,44 @@
    "found": "2026-10-03T21:28:16Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692552707361574162.txt"
+  },
+  {
+   "id": "7692563751391776018",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692563751391776018",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791064581",
+   "found": "2026-10-03T21:58:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692563751391776018.txt"
+  },
+  {
+   "id": "7692562681684823303",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692562681684823303",
+   "caption": "#פוריו #ימין #שמאל #בשבילך ",
+   "posted": "1791064331",
+   "found": "2026-10-03T21:59:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692562681684823303.txt"
+  },
+  {
+   "id": "7692560548969401608",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7692560548969401608",
+   "caption": "וכמובן הר המור! (חכו לסוף) תּוֹרַת הַשֵּׁם תְּמִימָה מְשִׁיבַת נָפֶשׁ...",
+   "posted": "1791063834",
+   "found": "2026-10-03T21:59:24Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-03T21:43:22Z",
+  "at": "2026-10-03T21:59:27Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
