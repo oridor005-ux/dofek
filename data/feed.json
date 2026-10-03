@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T16:06:07.623Z",
+ "updated": "2026-10-03T16:17:34.550Z",
  "items": [
   {
    "id": "974d045a3bb0",
@@ -93,6 +93,20 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONU5SanVYNnF2endPZWdQM3R6cWFmRnZaVEh3czZ1WnB4VlZJYmFLZWlUUXR5TjVkY3VKb2VSYWphRjlqRkN1QVVwMEpCRjVUS0JlN0o2enM3ZWN3dnF1bGswbThEMXlsTF9tUXA4OEZwcDZQRXRfNEhndWlFa0E2elJsajA4ZjBZ?oc=5",
    "topic": "defense",
    "published": "2026-10-03T13:38:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3a64c557159c",
+   "kind": "headline",
+   "title": "New Law to Hold Individuals Liable for Road Accidents Caused by Obstructions",
+   "source": "Ratopati",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWmlhZ2FDVTlPYUhFeTVwVzFYclV4UjdoZDVHY04wZ09sclQtaXQzOFNDR0l0elBWYXFWaXljOF8wZG1ENWltdkFVRzBEcjhqalBINndBUWdmVWtwWnJEOVljbE1Gek15MFN6amdkUUdSeEhpQ3Q0SlN5ckp4cXBMRkY5cGdGbzItU3hlSDJsVkJlNVVESWQ1Q1BSeFdCQ0dOUnRHU2hRcUFRa3FsS1RSNlR5cl83NnNuOTdNeTNHbTRjUEtKQnhVbENTcEVkbWhoZ3NhZVNVMTZkbzJ4MHdleHR0eWd2bG9XX3NxSm9acw?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T13:18:03.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -1059,6 +1073,20 @@
    "alsoIn": [
     "dw.com"
    ],
+   "important": false
+  },
+  {
+   "id": "52bb5437abce",
+   "kind": "headline",
+   "title": "Poland Drafts ‘Pre-War’ Law to Deploy Allied Troops Faster as Russian Hybrid Threats Mount",
+   "source": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZWQ4NWt2UlRVMlBFVDZWU3JOWmwtYzkwZUdTWExHTkd1dzc5SWhYa3FyakdRamJkcjBmTm9SSkltREdlcDVIUHlkaw?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T20:49:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
