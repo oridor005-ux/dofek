@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T15:43:11.509Z",
+ "updated": "2026-10-03T15:52:48.645Z",
  "items": [
+  {
+   "id": "48fa2994af59",
+   "kind": "headline",
+   "title": "איש הצללים האיראני שמאחורי רשת של מיליארדי דולרים מהברחות נפט",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558177#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-03T15:50:00.000Z",
+   "summary": "תחקיר גורמי אופוזיציה באיראן חושף את בכיר משמרות המהפכה מוסטפא אחדי כמי שמנהל את מערך הברחות הנפט • כך הוא חומק מהסנקציות של המערב",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790855893/800_nnwz4s.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "b4f88a23668d",
    "kind": "headline",
@@ -51,6 +65,20 @@
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMGxSMmpRQW9weHhGVXIzNl9Qak4yWVVXdGpiS2ExeUczbTBITWw3SGg2S3AzblUzdndHYUFleGpPOFFuYi1QWTQyN19yTVdfSUJCNTZqS0hVNkhnYXRoTXUzdUNkQzBvNDFEUnpFUXZ5ejNRNjB4MGdTcXcyeEttY01xS0p6VExZb1JUSjNXX1RvMVRQTVVrR2lqSUhWVkJ0VHVIYXozZU1PeVduUk04VzRXaldodC1Sb3Vjak5SSWNWUndWdUxLUURHZ0Zqd1paa0Fpc1oteF9Tc0FtMk130gHkAUFVX3lxTE4yQ0xYU2tMWkNJaW51b2ZYRkxGWnN0cW83UzZiV2VjQk1LOGgtNHRnelBwWFFTMTlpM2piZ25EYklqbDhsQm1zaWs3anY2UHllSE9EVzQ2R0dOWlV4by1oMUVSV25FVG03aVZfck81Q1ZnSjFNa3QyQWRNOUt5SGZULWphaHhMZENlQUdsblV6MGNzaVpFM3VZcFc4OFQ1SHlMWm1VLXJMb3hZRW1Benk5Y0xwbmxHYVloYV9kaURsQm55MGVnRWFDZEl1UUI1SHRPRWpva3JJY2ZicFVIYWJkXzVxSg?oc=5",
    "topic": "world",
    "published": "2026-10-03T13:48:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e9bbd359fab8",
+   "kind": "headline",
+   "title": "Rockets 2 Training Camp Invitees Have Strong Chance of Making 18-Man Roster After Waiving Rafael Castro",
+   "source": "sports.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONU5SanVYNnF2endPZWdQM3R6cWFmRnZaVEh3czZ1WnB4VlZJYmFLZWlUUXR5TjVkY3VKb2VSYWphRjlqRkN1QVVwMEpCRjVUS0JlN0o2enM3ZWN3dnF1bGswbThEMXlsTF9tUXA4OEZwcDZQRXRfNEhndWlFa0E2elJsajA4ZjBZ?oc=5",
+   "topic": "defense",
+   "published": "2026-10-03T13:38:06.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -138,7 +166,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "frontierindia.com"
+   ],
    "important": false
   },
   {
@@ -152,7 +182,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "newscord.org"
+   ],
    "important": false
   },
   {
@@ -513,7 +545,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "newagebd.net"
+    "newagebd.net",
+    "Newagebd.net"
    ],
    "important": false
   },
@@ -1230,6 +1263,20 @@
    "published": "2026-10-02T18:20:49.000Z",
    "summary": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f7b3d8f84947",
+   "kind": "headline",
+   "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?",
+   "source": "The Economist",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-02T18:12:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
