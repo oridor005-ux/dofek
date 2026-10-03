@@ -1,5 +1,6 @@
 ==================== https://www.kan.org.il/content/kan/kan-actual/p-11544/1019136/@@10:00
 meta: {}
-RESULT: FAILED | WARNING: [generic] Falling back on generic information extractor
-ERROR: [generic] 1019136: Requested format is not available. Use --list-formats for a list of available formats
+stream: https://n-121-4.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181141/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?id=2&bitrate=192000&fmp4
+RESULT: FAILED | ffmpeg: Unrecognized option 'extension_picky'.
+Error splitting the argument list: Option not found
 
