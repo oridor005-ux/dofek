@@ -1,0 +1,65 @@
+name: תמלול סרטונים
+
+on:
+  schedule:
+    - cron: '15,45 * * * *'   # כל חצי שעה (בין עדכוני הפיד)
+  workflow_dispatch:
+    inputs:
+      test_urls:
+        description: 'בדיקה: קישורים (אפשר להוסיף @@דקה, למשל ...@@12:30)'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dofek-transcribe
+  cancel-in-progress: false
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: יש סרטונים לתמלל?
+        id: vids
+        run: |
+          n=$(node -e "const r=JSON.parse(require('fs').readFileSync('data/requests.json','utf8')).items||[];const re=/(youtube\.com|youtu\.be|tiktok\.com|instagram\.com|facebook\.com|fb\.watch|x\.com|twitter\.com|t\.me|vimeo\.com|kan\.org\.il|mako\.co\.il|13tv\.co\.il|now14\.co\.il|i24news|reshet)/i;console.log(r.filter(x=>(x.status||'pending')==='pending'&&x.link&&re.test(x.link)&&x.transcriptStatus!=='ok'&&(x.transcriptTries||0)<3).length)" 2>/dev/null || echo 0)
+          if [ -n "${{ inputs.test_urls }}" ]; then n=1; fi
+          echo "count=$n" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        if: steps.vids.outputs.count != '0'
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+      - name: מודל התמלול (מטמון)
+        if: steps.vids.outputs.count != '0'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+      - name: תמלול
+        if: steps.vids.outputs.count != '0'
+        run: |
+          which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null)
+          pip install -q -r scripts/requirements.txt
+          if [ -n "${{ inputs.test_urls }}" ]; then
+            mkdir -p data/transcripts
+            python scripts/transcribe.py --test ${{ inputs.test_urls }} 2>&1 | tee data/transcripts/_test.log
+          else
+            python scripts/transcribe.py
+          fi
+      - name: שמירה
+        if: steps.vids.outputs.count != '0'
+        run: |
+          git config user.name "dofek-bot"
+          git config user.email "dofek-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "תמלול סרטונים"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
