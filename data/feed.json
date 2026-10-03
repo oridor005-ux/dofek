@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T21:27:53.986Z",
+ "updated": "2026-10-03T21:40:10.059Z",
  "items": [
+  {
+   "id": "eda0175b294f",
+   "kind": "headline",
+   "title": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
+   "source": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnA2eDRxYmFmdU9QMGtNZDdkOTkwLW5mdGVBN3NOazdKZ3VaZG50M0VVTlJoelhvVm80UUxWVE41RGg2WjlWaEVsdFNoV2NYcjRyeEhaMlhwQWVnbVpFTk9BOXN5WVlPWVNBUUtDUFJzOXZuZUFURXE4dVUtZVRhNXRUdDFTM2JfdFdtd284X2VTeGJrcmZnWjYyVVdteGt1RUNIY2ZSaHhsVG4weHBtcTEzQWE1M0pXV1BBUG13MDM?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T20:58:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b9d73334b077",
    "kind": "headline",
@@ -55,6 +69,20 @@
    "published": "2026-10-03T19:30:00.000Z",
    "summary": "The attack fits into the prime minister’s pitch that Israel is under attack from all sides and only his right-wing coalition can protect it.",
    "image": "https://images.wsj.net/im-39111328",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "fc6e578c13df",
+   "kind": "headline",
+   "title": "Netanyahu's secret UAE trip: What is Israel's military censorship really for? - opinion",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MX0t4Qmotb2s3TzlmYmJFTk1xalh3aUhPZldPdFEzM01VaGlqY2ppOU1nNElRYmlVRXhia1QyOHN4bV9iRXVicUlVWWhIcjhSTHYyUUdtWQ?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-03T19:19:58.000Z",
+   "summary": "",
+   "image": "",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -228,6 +256,20 @@
    "important": false
   },
   {
+   "id": "276fda4b60e7",
+   "kind": "headline",
+   "title": "Latvian PM Kulbergs strongly ahead in election, according to exit poll",
+   "source": "TVP World",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVVmY2FVV19OVGVGTlVsWndwSzhKbERRTnFTVm5yTV9RXzRvX2kteEo5MDdLZk1pOGpyNmppbEl0RkVnMktJeFV5SFJUVmx0NzhYdmRJdUJVa1V5TU9LZktnNllSUm8yYjltV280clU0SFJZamNMNGxPZXJNRUZuSllCbHFRbmE4WUNJbC0xNk9TQ05RX1VmaHlILUNHT2Q5?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T17:40:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "b42798771911",
    "kind": "headline",
    "title": "Israel election double standard: Arab leader forced out, far right cleared",
@@ -331,6 +373,20 @@
    "alsoIn": [
     "monitor.co.ug"
    ],
+   "important": false
+  },
+  {
+   "id": "b19f92c410f5",
+   "kind": "headline",
+   "title": "In Latvia, the current prime minister's party wins parliamentary elections",
+   "source": "Наша Ніва",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QX1JqVDk3Y1BRRVczcnIyY1VRNndhVTZJeU9XUTk4cG5UNEFPRzEyMTBIZGJ4UWhTYmFCUTVxSF9PVGo2TnfSAUtBVV95cUxPb2phc1JfRU9OcFBxeWJIMFFaODN1bFo1NGU1Wjk5MWZ4dlM3UmNTc2JXVEVDdlpuRzJiTFkxN2xlclZhNHM2SjZ5N1E?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T16:22:10.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1028,7 +1084,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Yahoo News Singapore"
+   ],
    "important": false
   },
   {
