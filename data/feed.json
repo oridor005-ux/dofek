@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T01:05:53.603Z",
+ "updated": "2026-10-03T01:38:31.369Z",
  "items": [
   {
    "id": "2d3ee77c3918",
@@ -39,6 +39,20 @@
    "published": "2026-10-02T22:53:31.000Z",
    "summary": "Hamid Rasaei, a vocal opponent of a diplomatic deal with the United States to end the war, was convicted of publishing false information with the intent to harm the Parliament speaker.",
    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02int-iran-arrests-tvlf/02int-iran-arrests-tvlf-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "fd1c57d48a3a",
+   "kind": "headline",
+   "title": "Constitution Bill passes second reading with required 35 votes",
+   "source": "Fijivillage",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUNkT3YtZ0VvYVI2eEx3d2dZUFVXM3dxcFJKemNUZUl6TS1qb2hKc3ZCZmN3U3RieDR5dFhLV01NZWl1ZWRCT0pxTEtYdjBYOEYzdko3bzBpaUpOb2o2VXFLa1lPRXlYRmhrY0lJVEI2SEg1STNwYUwyY2hFaTZwTzVIWlp2OFlpSVotQUlhakZ4dDM3bXlsRkFuazdpT1JXcWc?oc=5",
+   "topic": "world",
+   "published": "2026-10-02T22:52:30.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -573,7 +587,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "ft.com"
+   ],
    "important": false
   },
   {
@@ -660,6 +676,20 @@
    "alsoIn": [
     "zman.co.il"
    ],
+   "important": false
+  },
+  {
+   "id": "a2a432fef766",
+   "kind": "headline",
+   "title": "הקונספירציה החדשה באירופה: המוסד עומד מאחורי משבר ההגירה",
+   "source": "מקור ראשון",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1MUVhVjhYVnNZSVdid3o3eTJKWjFDUmpwM2dtVHVsUzVjSmFrZEtDcEJzQ3BqVFNQcmF0c1NIRDlHbXRyelUyNUN3QUg2eEZUbzJEOWIwU3R1V2RSeUpMWE9WczZzZ1I4dmJ1VA?oc=5",
+   "topic": "demo",
+   "published": "2026-10-02T14:07:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -995,6 +1025,20 @@
    "alsoIn": [],
    "important": false,
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1744640327/direct/IMAGO-Ulrich-Roth-%D7%A8%D7%95%D7%99%D7%98%D7%A8%D7%A1_ck5ftw.jpg"
+  },
+  {
+   "id": "a2dea1a8a68e",
+   "kind": "headline",
+   "title": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's - ABC News",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-02T10:19:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "34f226e69f52",
