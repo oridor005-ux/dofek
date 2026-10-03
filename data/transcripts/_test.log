@@ -1,0 +1,11 @@
+==================== https://www.kan.org.il/content/kan/kan-actual/p-11544/1019136/@@10:00
+meta: {}
+RESULT: FAILED | redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181141/LIBCODER_SMOOTH_10...%3A+%221019136%22%7D
+[generic] 1019136: Downloading webpage
+[generic] 1019136: Downloading m3u8 information
+[generic] 1019136: Checking m3u8 live status
+[info] 1019136: Downloading 1 format(s): acc-pol-aac
+[info] 1019136: Downloading 1 time ranges: 540.0-900.0
+WARNING: [generic] Falling back on generic information extractor
+ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting
+
