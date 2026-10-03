@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T18:57:13.075Z",
+ "updated": "2026-10-03T19:08:38.813Z",
  "items": [
   {
    "id": "3285115d9169",
@@ -12,6 +12,20 @@
    "summary": "It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”",
    "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03-pol-trump-mail-voting-01-tfkb/03-pol-trump-mail-voting-01-tfkb-mediumSquareAt3X.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b224f1c2a31a",
+   "kind": "headline",
+   "title": "לאחר ניסיון הפיגוע ביום כיפור: אירוע אנטישמי נוסף מול בית הכנסת בעיר הקנדית",
+   "source": "וואלה",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FalRmVEhva0FlNlBPRHR0R2h6VmN4MzdNVW1fUlhxYWJMdzJOcGVORm81bTdBLUhlMDRQZVJjanljX1pvcmRJdjdJTDl4ZTJwVy16cTFMSQ?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-03T18:31:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -93,6 +107,20 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVmdTRMc043eU9jM3d1cmFrRFlhWldCVzBzV1lLcEtqVU80WE5lUk5LVWlfVHd4Tnk0QUFtNEFkY0V0cUROdGlKOG9UZldTQ2dJNjVQdzVpOTlDOUFZOHI4Q1pzbGlfc1NjM2c3cFBjYnJWZGF4SUtkZXBXbHZ1WGlLT2JqN2JXb0tfYklOdzV3WGdvRlVDTnl6SXh1aUdRYlFOWnZYSVBrOVJob0hxU3RIc9IBuAFBVV95cUxNUGhZM0h1aUsyUWFuOUZOOURQLW1KZTVRTHY3NS1xR3ZLTVNxY1h3S2FqWEtIclZkSlJmMElaVG13M2pLVl8zZWROWU1Kd3dSaVZJN2dOTVNBUW5oal9mNEF0azFiWjI4T3BRNGsyaTZjWkNQU1hVRjdHb0VNcXhRMHdFUTlYOE1ZZUhBbC1pNWtrUGtXbWVhcjVZNVUzTnpWc05ZY2U1QzZHR1hkSG5TMnE1c21pRkRo?oc=5",
    "topic": "world",
    "published": "2026-10-03T17:26:15.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1cb7d51690e6",
+   "kind": "headline",
+   "title": "Israeli Soldiers and Settlers Block Palestinian Olive Harvest in West Bank's Area B",
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVTJlemhqX2U2MUVnVTJOcmV3QS15dllsTGlqeXh3WHhHVGllbXNBYjFYOVhsbnMwMW96NzZBa1l0cWRlMXZLcHU2SGdnT1ZMMU5TeHJlemVJNVAzQTRvR2VUSXdWaEVhQ0gydU1FU0FUT0dEbDExd2U5T2ZTSE0wSGdPcEZYUWRraW9jbjdBS005eHF5RnVwYzBBZnMtMllCd2oxdXluNWtnRER2aWY0TnNvT3BHbnZyczFtSjVrQVYwQjVlaV9ab0VTRzlNdXhocHd2b1U4ZTAzMmEyLXRZOTNJRFdkamUtMUlvcDZENkF1SW5UbHdjb0puNUdDdElYR2kwYUZfaDhUcEhn?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T17:21:00.000Z",
    "summary": "",
    "image": "",
    "score": 1,
@@ -230,6 +258,34 @@
    "score": 3,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "5e8db932aa7d",
+   "kind": "headline",
+   "title": "מ-160 מיליון לכמעט 400 מיליון שקל: מה קרה לתרומות מאז 7 באוקטובר",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MaTBtVEVlYzR0STJiMW9zamdOVjZmeGZmbG8wWFI1b3NvbDNoa3I1QU45NFNXNEk0MGd1OGUxRXBZYVU4eWNUTjVxWXFhV1l2dUJNSHhidnN5UUd1aDNsc01QMW5wdw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-03T15:06:21.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4e9a0c6e2839",
+   "kind": "headline",
+   "title": "Red Sox's blowout Wild Card losses to Yankees reveal brutal Rafael Devers reality",
+   "source": "bosoxinjection.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWZnTWlkQzgwQXZZZTI4ZUo0NnZZX2s2Unl1VFFXV0ViTWQtV3VQUHExdXJ2blZyMUVJUDRsSkd4enNUZ25uY2ktdnlxX24tTjdDUkJZU1B1WVMwX0pHMFpzR1hEX3FMUUJLWEQxc25lX1RMZ2ZzUHBDWFN6UjNoLU9ocWY1cTF6U016Vl9JX0ZwN2VGZ1Z3UzZna2tNUXktZFpDcmNEbjYtcG8?oc=5",
+   "topic": "defense",
+   "published": "2026-10-03T15:05:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "17955ff37754",
