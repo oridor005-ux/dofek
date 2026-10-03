@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T18:22:55.107Z",
+ "updated": "2026-10-03T18:23:10.464Z",
  "items": [
   {
    "id": "928abfd98b29",
@@ -68,6 +68,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b42798771911",
+   "kind": "headline",
+   "title": "Israel election double standard: Arab leader forced out, far right cleared",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVmdTRMc043eU9jM3d1cmFrRFlhWldCVzBzV1lLcEtqVU80WE5lUk5LVWlfVHd4Tnk0QUFtNEFkY0V0cUROdGlKOG9UZldTQ2dJNjVQdzVpOTlDOUFZOHI4Q1pzbGlfc1NjM2c3cFBjYnJWZGF4SUtkZXBXbHZ1WGlLT2JqN2JXb0tfYklOdzV3WGdvRlVDTnl6SXh1aUdRYlFOWnZYSVBrOVJob0hxU3RIc9IBuAFBVV95cUxNUGhZM0h1aUsyUWFuOUZOOURQLW1KZTVRTHY3NS1xR3ZLTVNxY1h3S2FqWEtIclZkSlJmMElaVG13M2pLVl8zZWROWU1Kd3dSaVZJN2dOTVNBUW5oal9mNEF0azFiWjI4T3BRNGsyaTZjWkNQU1hVRjdHb0VNcXhRMHdFUTlYOE1ZZUhBbC1pNWtrUGtXbWVhcjVZNVUzTnpWc05ZY2U1QzZHR1hkSG5TMnE1c21pRkRo?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T17:26:15.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -248,6 +262,20 @@
    "important": false
   },
   {
+   "id": "b207b2892ffe",
+   "kind": "headline",
+   "title": "Israel’s election: What will it mean for neighbours and allies?",
+   "source": "Chatham House",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHJ2ejkxeVZ4QWlEclc1TmJ1bWh6YlFTcjJKVE14bzRBbzFkOVZoQ0pzVnRPdFBjQlVoRXJtRTNiU3A5SDZBWUt2TXJfQnl3REp2SU9nOHZvYmtNZjNYNUw3Ti1fckZGRkRibGZiUE9jOGNIc3ViNDFmMzZDb3dBOUJYcmYwRlNCMFhweXFMTG9aQTJ6X216dXhSeExvNGUyUUhFeHlGNUxBSnVnMEF5Rg?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T13:55:34.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "3f71c52684de",
    "kind": "headline",
    "title": "Why has Brazil accused the US of election interference?",
@@ -402,6 +430,20 @@
     "ca.fashionnetwork.com"
    ],
    "important": false
+  },
+  {
+   "id": "3436560ba312",
+   "kind": "headline",
+   "title": "US weighs sanctions on Israel over illegal West Bank settler violence: Report",
+   "source": "Türkiye Today",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWE1vMUkzX1FqYUl1TkV5VHZWR0Z3b3RlbmpKWF9qeTlmTEFNaGdyMVNZR3AwNC1OMHRUc3ozbFo3bmxUbWNLaHEzdHlFc3czUnZ3b0pBOVpBYWhlLXVWZjdQOVFyRHRlTUF6d1BiREgyVEk4MHM0WVpEOVVibWIzbTVQY3FZdWhlUjdDbm01T2ZzeXdQZG5ING5ZS1RkWGU1cXhBT1BxRjM4VkFQel9ob0YtM01tdng0V3N5aQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T10:57:17.000Z",
+   "summary": "",
+   "image": "",
+   "score": 4,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "7dfb9c8f2374",
@@ -1105,7 +1147,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "kathmandupost.com"
+   ],
    "important": false
   },
   {
