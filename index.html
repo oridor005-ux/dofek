@@ -501,8 +501,9 @@ function openAsk(){
   <label class="field"><span>באיזו דקה בסרטון זה נאמר? (לסרטונים ארוכים)</span><input id="askAt" dir="ltr" inputmode="numeric" placeholder="12:30"></label>
   <button class="btn" id="askSend">שליחה לבדיקה</button>
   <div class="box" style="font-size:.85rem;color:var(--ink2)"><h4>🎙️ סרטונים</h4>
-    <b>טיקטוק</b> ואתרי חדשות (כאן, מאקו, 13, 14 ועוד): הסרטון מתומלל אוטומטית מהקישור.<br>
-    <b>יוטיוב ואינסטגרם</b> חוסמים הורדה — כתוב את הציטוט המדויק. ביוטיוב אפשר להעתיק מ"הצגת תמליל" (מתחת לסרטון ← עוד ← תמליל).</div>
+    ✅ <b>טיקטוק</b> — שים קישור, והסרטון יתומלל אוטומטית.<br>
+    🟡 <b>קטעים קצרים מאתרי חדשות</b> — ננסה לתמלל; אם לא יצליח, נבדוק לפי הציטוט.<br>
+    ✍️ <b>יוטיוב, אינסטגרם ושידורים מלאים</b> — חוסמים הורדה. כתוב את הציטוט המדויק. ביוטיוב: מתחת לסרטון ← "עוד" ← "הצגת תמליל", ומעתיקים את הקטע.</div>
   ${mine.length?`<div class="set-sec">הבקשות שלי</div>${mine.slice().reverse().map(m=>`<div class="req"><div>${esc(m.text.slice(0,140))}${m.text.length>140?'…':''}</div><div class="meta" style="margin-top:4px">${esc(m.who||'')} <span class="sep">·</span> ${ago(m.sent)} <span class="sep">·</span> ${m.id?st(m.id):''}</div></div>`).join('')}`:''}`, 'ask');
   $('#askSend').onclick = sendAsk;
 }
