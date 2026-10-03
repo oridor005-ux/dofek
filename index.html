@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>דופק</title>
+<title>דופק אמיתי</title>
 <meta name="description" content="הדופק של ישראל: דמוגרפיה, מה נכון ומה לא, כלכלה, הכנסת, חוקים, ישראל בעולם וביטחון">
 <meta name="theme-color" content="#0B1626">
 <link rel="manifest" href="manifest.webmanifest">
@@ -192,7 +192,7 @@ select{background:var(--bg2);border:1px solid var(--line);border-radius:10px;pad
   <div class="top">
     <img src="icons/icon-192.png" alt="">
     <div class="brand">
-      <h1>דופק</h1>
+      <h1>דופק <span style="color:var(--accent)">אמיתי</span></h1>
       <div class="sub"><span class="live"></span><span id="updated">טוען…</span></div>
     </div>
     <button class="iconbtn" id="refresh" aria-label="רענון">
@@ -417,7 +417,7 @@ function routeHash(){
   if (h.startsWith('h-')) openHeadline(h.slice(2)); else if (h === 'settings') openSettings(); else if (h === 'ask') openAsk(); else openInsight(h);
 }
 const paras = s => String(s||'').split(/\n\s*\n|\n/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join('');
-const byline = `<div class="byline"><img src="icons/icon-192.png" alt="">סיכום של דופק (נכתב ע״י Claude לפי המקורות)</div>`;
+const byline = `<div class="byline"><img src="icons/icon-192.png" alt="">סיכום של דופק אמיתי (נכתב ע״י Claude לפי המקורות)</div>`;
 
 function openInsight(id){
   const it = insights.items.find(i=>i.id===id); if (!it) return;
@@ -444,7 +444,7 @@ function openHeadline(id){
       ${s.context?`<div class="box"><h4>🧭 הקשר</h4><div>${esc(s.context)}</div></div>`:''}`;
   } else {
     body = `${it.summary?`<div class="body"><p>${esc(it.summary)}</p></div><div class="byline">תקציר מהמקור</div>`:''}
-      <div class="pending">⏳ הסיכום של דופק לידיעה הזו עוד לא מוכן. Claude מסכם ידיעות חדשות כל 3 שעות ביום.</div>`;
+      <div class="pending">⏳ הסיכום של דופק אמיתי לידיעה הזו עוד לא מוכן. Claude מסכם ידיעות חדשות כל 3 שעות ביום ביום.</div>`;
   }
   openSheet(`${img?`<img class="hero-img" src="${esc(img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:''}
     <div class="meta" style="margin-bottom:6px">${topicTag(it.topic)}<span class="sep">·</span><span>${esc(it.source)}</span><span class="sep">·</span><span>${ago(it.published)}</span></div>
@@ -459,14 +459,14 @@ function openHeadline(id){
 function openNotif(){
   const t = config.ntfyTopic || '';
   openSheet(`<h2>התראות לטלפון</h2>
-  <p class="lead">הפושים של דופק מגיעים דרך האפליקציה החינמית ntfy.</p>
+  <p class="lead">הפושים של דופק אמיתי מגיעים דרך האפליקציה החינמית ntfy.</p>
   <ol class="steps">
     <li>מתקינים את <b>ntfy</b> מחנות Play.</li>
     <li>חוזרים לכאן ולוחצים "חיבור לדופק" ומאשרים.</li>
     <li>כדי לראות <b>תמונות</b> בפושים: ב-ntfy נכנסים ל-⋮ ← Settings ← <b>Auto download attachments</b> ובוחרים <b>Always</b> (או תמונות עד 1MB).</li>
   </ol>
   <a class="btn ghost" href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">1 · התקנת ntfy</a>
-  <a class="btn" href="ntfy://ntfy.sh/${esc(t)}?display=${encodeURIComponent('דופק')}">2 · חיבור לדופק</a>
+  <a class="btn" href="ntfy://ntfy.sh/${esc(t)}?display=${encodeURIComponent('דופק אמיתי')}">2 · חיבור לדופק</a>
   <button class="btn ghost" id="testPush">שליחת פוש לדוגמה</button>
   <p style="font-size:.8rem;color:var(--ink3);margin-top:14px">אם הכפתור לא עובד: ב-ntfy לוחצים + ומקלידים <code>${esc(t)}</code></p>
   <p style="font-size:.8rem;color:var(--ink3);margin-top:8px">על אילו נושאים לקבל פושים ומתי — ב<a href="#settings" style="color:var(--accent)">הגדרות</a>.</p>`);
@@ -476,7 +476,7 @@ async function testPush(){
   const it = feed.items.find(i=>i.topic==='demo') || feed.items[0];
   const s = it && summaries[it.id];
   const base = location.href.split('#')[0].replace(/index\.html$/,'');
-  const title = it ? it.title : 'פוש לדוגמה מדופק';
+  const title = it ? it.title : 'פוש לדוגמה מדופק אמיתי';
   const msg = (s?.summary ? firstSentences(s.summary, 200) : (it?.summary || 'כך ייראה עדכון: כותרת, סיכום קצר ותמונה.')) + `\n\n👥 ${TOPICS[it?.topic]?.label||'דופק'} · ${it?.source||''}`;
   const img = (it && (s?.image || it.image)) || base + 'icons/cards/' + (it?.topic || 'general') + '.png';
   const q = new URLSearchParams({ title, icon: base+'icons/icon-192.png', attach: img, filename: 'dofek.jpg', click: it ? base+'#h-'+it.id : base });

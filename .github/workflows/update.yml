@@ -2,7 +2,7 @@ name: עדכון דופק
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # כל חצי שעה
+    - cron: '*/15 * * * *'   # כל רבע שעה; בתוך כל ריצה בודקים כל 2 דקות
   push:
     paths:
       - 'data/insights.json'  # כש-Claude מוסיף ניתוח חדש — לשלוח פוש מיד
@@ -18,7 +18,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -27,11 +27,24 @@ jobs:
       - name: איסוף כותרות ושליחת פושים
         env:
           APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-        run: node scripts/fetch.mjs
-      - name: שמירה
         run: |
+          # ריצה מלאה (כולל חיפושים), ואז בדיקה מהירה של האתרים כל 2 דקות — כמעט בזמן אמת
           git config user.name "dofek-bot"
           git config user.email "dofek-bot@users.noreply.github.com"
+          save() {  # שומר מיד אחרי שנשלח פוש, כדי שהידיעה תופיע באפליקציה כשלוחצים עליו
+            git add data/ && git diff --cached --quiet && return 0
+            git commit -qm "עדכון חי $(date -u +%H:%M)" && (git pull -q --rebase -X theirs && git push -q) || true
+          }
+          rm -f /tmp/dofek_pushed
+          node scripts/fetch.mjs
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            for i in 1 2 3 4 5 6; do
+              if [ -f /tmp/dofek_pushed ]; then save; rm -f /tmp/dofek_pushed; fi
+              sleep 110; LIGHT=1 node scripts/fetch.mjs || true
+            done
+          fi
+      - name: שמירה
+        run: |
           git add data/
           git diff --cached --quiet && exit 0
           git commit -m "עדכון פיד $(date -u +%H:%M)"

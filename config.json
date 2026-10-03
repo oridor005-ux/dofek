@@ -1,5 +1,5 @@
 {
-  "appName": "דופק",
+  "appName": "דופק אמיתי",
   "ntfyServer": "https://ntfy.sh",
   "ntfyTopic": "dofek-f1921b9650",
   "maxPushesPerRun": 4,
@@ -10,5 +10,21 @@
   "keepDays": 5,
   "maxItems": 400,
   "settingsTopic": "dofek-f1921b9650-settings",
-  "tiktokChannels": []
+  "tiktokChannels": [
+    {
+      "handle": "ask__dani"
+    },
+    {
+      "handle": "naftalibennett_official"
+    },
+    {
+      "handle": "idaneretz"
+    },
+    {
+      "handle": "guyzo"
+    },
+    {
+      "handle": "roee.lotem"
+    }
+  ]
 }

@@ -2,7 +2,7 @@ name: תמלול סרטונים
 
 on:
   schedule:
-    - cron: '15,45 * * * *'   # כל חצי שעה (בין עדכוני הפיד)
+    - cron: '7,22,37,52 * * * *'   # כל רבע שעה
   workflow_dispatch:
     inputs:
       test_urls:

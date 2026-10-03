@@ -114,7 +114,7 @@ function score(text) { const t = lc(text); return importantKeywords.reduce((s, {
 async function collect() {
   const jobs = [
     ...directFeeds.map((f, i) => ({ ...f, fixture: `direct-${i}.xml` })),
-    ...googleQueries.map((g, i) => ({ name: null, url: googleNewsUrl(g.q, g.lang), topic: g.topic, q: g.q, fixture: `google-${i}.xml`, google: true })),
+    ...(process.env.LIGHT ? [] : googleQueries).map((g, i) => ({ name: null, url: googleNewsUrl(g.q, g.lang), topic: g.topic, q: g.q, fixture: `google-${i}.xml`, google: true })),
   ];
   const results = await Promise.allSettled(jobs.map(async (j) => ({ j, items: parseRss(await getXml(j.url, j.fixture)) })));
   const out = []; let ok = 0, fail = 0;
@@ -259,6 +259,7 @@ async function push(msg) {
   try {
     const r = await fetch(NTFY, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
     if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + (await r.text()).slice(0, 200));
+    try { fs.writeFileSync('/tmp/dofek_pushed', '1'); } catch {}
     return true;
   } catch (e) { log('  push failed:', e.message); return false; }
 }
@@ -269,7 +270,7 @@ const card = (topic) => APP_URL ? `${APP_URL}icons/cards/${TOPICS[topic] ? topic
 function toMsg(it, summaries) {
   const label = TOPICS[it.topic]?.label || '';
   if (it.kind === 'insight') {
-    const tail = `${EMOJI[it.topic] || '🔍'} ניתוח של דופק · ${label}${it.verdict ? ' · ' + it.verdict : ''}`;
+    const tail = `${EMOJI[it.topic] || '🔍'} ניתוח של דופק אמיתי · ${label}${it.verdict ? ' · ' + it.verdict : ''}`;
     return { title: it.title, message: `${clip(it.summary || '', 260)}\n\n${tail}`.trim(), image: card(it.topic), click: APP_URL ? `${APP_URL}#${it.id}` : undefined, priority: 4 };
   }
   const sum = summaries[it.id]?.summary || it.summary || '';
@@ -323,7 +324,7 @@ async function main() {
 
   if (firstRun) {
     candidates.forEach(i => notified.add(i.id));
-    await push({ title: 'דופק מחובר ✅', message: 'מעכשיו תקבל כאן את מה שחשוב: דמוגרפיה, מה נכון ומה לא, כלכלה, הכנסת, חוקים, ישראל בעולם ועוד.', image: card('general') });
+    await push({ title: 'דופק אמיתי מחובר ✅', message: 'מעכשיו תקבל כאן את מה שחשוב: דמוגרפיה, מה נכון ומה לא, כלכלה, הכנסת, חוקים, ישראל בעולם ועוד.', image: card('general') });
   } else if (isQuiet(settings)) {
     state.pending = [...new Set([...(state.pending || []), ...candidates.map(i => i.id)])];
     candidates.forEach(i => notified.add(i.id));
