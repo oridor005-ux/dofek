@@ -28,6 +28,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: בדיקת בריאות (משגיח על המנוע הראשי)
+        env:
+          ADMIN_TOPIC: ${{ secrets.ADMIN_TOPIC }}
+        run: node scripts/health.mjs --from=transcribe || true
       - name: יש סרטונים לתמלל?
         id: vids
         run: |
@@ -64,7 +68,7 @@ jobs:
             python scripts/tiktok_watch.py
           fi
       - name: שמירה
-        if: steps.vids.outputs.count != '0'
+        if: always()
         run: |
           git config user.name "dofek-bot"
           git config user.email "dofek-bot@users.noreply.github.com"

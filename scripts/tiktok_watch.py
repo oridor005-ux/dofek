@@ -29,7 +29,13 @@ def list_channel(handle):
             vids.append({'id': p[0], 'url': p[1] if p[1].startswith('http') else f'{url}/video/{p[0]}', 'title': p[2], 'ts': p[3]})
     if not vids:
         log('  list failed:', out[-400:])
+        STATS['fail'] += 1
+    else:
+        STATS['ok'] += 1
     return vids
+
+
+STATS = {'ok': 0, 'fail': 0}
 
 
 def main(test=False):
@@ -70,6 +76,11 @@ def main(test=False):
     with open(VID, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=1); f.write('\n')
     log('new videos:', done)
+    if not test:
+        data.setdefault('health', {})
+        data['health'] = {'at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), 'channelsOk': STATS['ok'], 'channelsFail': STATS['fail'], 'transcribed': done}
+        with open(VID, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=1); f.write('\n')
 
 
 if __name__ == '__main__':

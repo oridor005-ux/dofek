@@ -111,6 +111,7 @@ function classify(text) {
 function score(text) { const t = lc(text); return importantKeywords.reduce((s, { k, w }) => s + (t.includes(k.toLowerCase()) ? w : 0), 0); }
 
 // ---------- איסוף ----------
+let collectStats = null;
 async function collect() {
   const jobs = [
     ...directFeeds.map((f, i) => ({ ...f, fixture: `direct-${i}.xml` })),
@@ -159,6 +160,7 @@ async function collect() {
     }
   }
   log(`sources ok=${ok} failed=${fail}, raw items=${out.length}`);
+  collectStats = { ok, fail, light: !!process.env.LIGHT };
   return out;
 }
 
@@ -265,7 +267,7 @@ function isQuiet(settings) {
   const h = israelHour();
   return q.start > q.end ? (h >= q.start || h < q.end) : (h >= q.start && h < q.end);
 }
-let lastPushError = '';
+let lastPushError = '', lastPushOk = false;
 async function push(msg) {
   const body = {
     topic: config.ntfyTopic, title: msg.title, message: msg.message,
@@ -282,6 +284,7 @@ async function push(msg) {
     const r = await fetch(NTFY, { method: 'POST', headers, body: JSON.stringify(body) });
     if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + (await r.text()).slice(0, 200));
     try { fs.writeFileSync('/tmp/dofek_pushed', '1'); } catch {}
+    lastPushOk = true;
     return true;
   } catch (e) { log('  push failed:', e.message); lastPushError = e.message; return false; }
 }
@@ -387,6 +390,14 @@ async function main() {
   state.lastRun = now.toISOString();
   state.ownerKeySet = !!OWNER_KEY;
   state.ntfyTokenSet = !!process.env.NTFY_TOKEN;
+  // נתוני בריאות למערכת ההתראות למנהל
+  const h = state.health || {};
+  if (collectStats && !collectStats.light) h.sources = { ...collectStats, at: now.toISOString() };
+  if (added) h.lastNewItemAt = now.toISOString();
+  if (lastPushOk) h.lastPushOkAt = now.toISOString();
+  if (lastPushError) h.lastPushError = { msg: lastPushError.slice(0, 200), at: now.toISOString() };
+  else if (lastPushOk) delete h.lastPushError;
+  state.health = h;
   state.ownerKeySet = !!OWNER_KEY;
   writeJSON('data/feed.json', feed);
   writeJSON('data/state.json', state);

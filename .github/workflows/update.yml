@@ -14,6 +14,9 @@ on:
       loop:
         description: 'ריצה רציפה (מופעל אוטומטית)'
         required: false
+      test_alert:
+        description: 'שליחת התראת מנהל לבדיקה'
+        required: false
 
 permissions:
   contents: write
@@ -54,6 +57,12 @@ jobs:
               sleep 110; LIGHT=1 node scripts/fetch.mjs || true
             done
           fi
+      - name: בדיקת בריאות והתראה למנהל
+        if: always()
+        env:
+          ADMIN_TOPIC: ${{ secrets.ADMIN_TOPIC }}
+        run: |
+          if [ -n "${{ inputs.test_alert }}" ]; then node scripts/health.mjs --test; else node scripts/health.mjs --from=update || true; fi
       - name: שמירה
         run: |
           git add data/
@@ -62,7 +71,7 @@ jobs:
           git pull --rebase -X theirs || true
           git push
       - name: הפעלת הסבב הבא (שרשרת רציפה — לא תלויה בתזמון של GitHub)
-        if: ${{ !inputs.test_push }}
+        if: ${{ always() && !inputs.test_push && !inputs.test_alert }}
         run: |
           curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/${{ github.repository }}/actions/workflows/update.yml/dispatches \
