@@ -78,7 +78,7 @@ def try_whisper(url, tmp, at=None):
         if not urls:
             return None, out[-500:]
         log('stream:', urls[-1][:160])
-        c2, o2 = run(['ffmpeg', '-y', '-loglevel', 'warning', '-allowed_extensions', 'ALL', '-extension_picky', '0', '-ss', str(max(0, t - 60)), '-i', urls[-1], '-t', '360',
+        c2, o2 = run(['ffmpeg', '-y', '-loglevel', 'warning', '-allowed_extensions', 'ALL', '-ss', str(max(0, t - 60)), '-i', urls[-1], '-t', '360',
                       '-vn', '-ac', '1', '-ar', '16000', wav], timeout=900)
     else:
         code, out = run(['yt-dlp', '-f', 'bestaudio/worst[acodec!=none]/best', '--no-playlist', '--match-filter', f'duration < {MAX_SECONDS}',
