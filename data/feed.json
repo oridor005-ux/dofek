@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T18:45:43.612Z",
+ "updated": "2026-10-03T18:57:13.075Z",
  "items": [
+  {
+   "id": "3285115d9169",
+   "kind": "headline",
+   "title": "Trump, Critic of Voting by Mail, Urges Republicans to Do It in Midterms",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html",
+   "topic": "world",
+   "published": "2026-10-03T18:44:41.000Z",
+   "summary": "It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”",
+   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03-pol-trump-mail-voting-01-tfkb/03-pol-trump-mail-voting-01-tfkb-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "928abfd98b29",
    "kind": "headline",
@@ -1015,7 +1029,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "sg.news.yahoo.com"
+   ],
    "important": false
   },
   {
