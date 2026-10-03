@@ -11,9 +11,13 @@ on:
       test_channels:
         description: 'בדיקה: ערוצי טיקטוק (מופרדים ברווח)'
         required: false
+      loop:
+        description: 'ריצה רציפה (מופעל אוטומטית)'
+        required: false
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dofek-transcribe
@@ -24,6 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
+      - run: echo "START=$(date +%s)" >> $GITHUB_ENV
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
@@ -76,3 +81,10 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "תמלול סרטונים"
           for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
+      - name: הפעלת הסבב הבא אחרי רבע שעה (שרשרת — לא תלויה בתזמון של GitHub)
+        if: ${{ always() && !inputs.test_urls && !inputs.test_channels }}
+        run: |
+          left=$(( 900 - ($(date +%s) - START) )); [ $left -gt 0 ] && sleep $left
+          curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/transcribe.yml/dispatches \
+            -d '{"ref":"main","inputs":{"loop":"1"}}' -o /dev/null -w "next run: %{http_code}\n"

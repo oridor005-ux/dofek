@@ -70,6 +70,16 @@ jobs:
           git commit -m "עדכון פיד $(date -u +%H:%M)"
           git pull --rebase -X theirs || true
           git push
+      - name: החייאת מעקב הטיקטוק אם נעצר
+        if: always()
+        run: |
+          age=$(node -e "const v=JSON.parse(require('fs').readFileSync('data/videos.json','utf8'));console.log(Math.round((Date.now()-new Date(v.health?.at||0))/60000))")
+          echo "tiktok last run: $age min ago"
+          if [ "$age" -gt 40 ]; then
+            curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github+json" \
+              https://api.github.com/repos/${{ github.repository }}/actions/workflows/transcribe.yml/dispatches \
+              -d '{"ref":"main","inputs":{"loop":"1"}}' -o /dev/null -w "revive: %{http_code}\n"
+          fi
       - name: הפעלת הסבב הבא (שרשרת רציפה — לא תלויה בתזמון של GitHub)
         if: ${{ always() && !inputs.test_push && !inputs.test_alert }}
         run: |
