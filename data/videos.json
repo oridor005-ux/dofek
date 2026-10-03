@@ -389,12 +389,23 @@
    "found": "2026-10-03T20:29:11Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7691710328459119893.txt"
+  },
+  {
+   "id": "7692542871907355922",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7692542871907355922",
+   "caption": "ידעתם על זה? לשמוע ולהזדעזע ",
+   "posted": "1791059718",
+   "found": "2026-10-03T20:42:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692542871907355922.txt"
   }
  ],
  "health": {
-  "at": "2026-10-03T20:29:11Z",
+  "at": "2026-10-03T20:42:25Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 6
+  "transcribed": 1
  }
 }
