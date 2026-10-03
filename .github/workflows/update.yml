@@ -11,9 +11,13 @@ on:
       test_push:
         description: 'שליחת פוש בדיקה בלבד'
         required: false
+      loop:
+        description: 'ריצה רציפה (מופעל אוטומטית)'
+        required: false
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dofek-update
@@ -44,7 +48,7 @@ jobs:
           }
           rm -f /tmp/dofek_pushed
           node scripts/fetch.mjs
-          if [ "${{ github.event_name }}" = "schedule" ]; then
+          if [ "${{ github.event_name }}" = "schedule" ] || [ -n "${{ inputs.loop }}" ]; then
             for i in 1 2 3 4 5 6; do
               if [ -f /tmp/dofek_pushed ]; then save; rm -f /tmp/dofek_pushed; fi
               sleep 110; LIGHT=1 node scripts/fetch.mjs || true
@@ -57,3 +61,9 @@ jobs:
           git commit -m "עדכון פיד $(date -u +%H:%M)"
           git pull --rebase -X theirs || true
           git push
+      - name: הפעלת הסבב הבא (שרשרת רציפה — לא תלויה בתזמון של GitHub)
+        if: ${{ !inputs.test_push }}
+        run: |
+          curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/update.yml/dispatches \
+            -d '{"ref":"main","inputs":{"loop":"1"}}' -o /dev/null -w "next run: %{http_code}\n"

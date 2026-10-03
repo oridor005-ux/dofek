@@ -79,7 +79,7 @@
   "reality": "(factcheck) מה הנתונים מראים, בשורה אחת",
   "verdict": "(factcheck) נכון | נכון ברובו | חלקית | חסר הקשר | לא מדויק | שגוי | לא ניתן לאמת",
   "sources": [{ "name": "שם המקור", "url": "https://..." }],
-  "published": "ISO timestamp",
+  "published": "זמן אמיתי ב-UTC — להריץ date -u +%Y-%m-%dT%H:%M:%SZ (לא שעון ישראל עם Z!)",
   "push": true
 }
 ```
