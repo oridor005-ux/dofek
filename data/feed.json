@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-03T06:11:37.387Z",
+ "updated": "2026-10-03T06:54:01.642Z",
  "items": [
+  {
+   "id": "cafe8de1de90",
+   "kind": "headline",
+   "title": "New accountability laws, old wound",
+   "source": "New Age BD",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVlCU3JDd1FHaHNvclZ6WS1JVXhsc1BpMGRxZlpKM19yaVpOcHloXzE0TXlMQjI4cHB6b1RnSDZwMnNRUzRRNElHLXY1cTV6YWxoNmNjS1NqTzlFNGM4QUVCLU5td3daRlpsWmlSWFZwYk1KRmhTLUloVElhTEVJR0tHZ2g?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T06:41:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c9b90946e9ec",
+   "kind": "headline",
+   "title": "דיווח: עומאן אסרה בעבר על טייס המשנה מטיסת פליי-דובאי להטיס טיסות - מחשש להשקפות עולם קיצוניות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558310#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-03T06:40:00.000Z",
+   "summary": "לפי הוול סטריט ג'ורנל, על הטייס נאסר בעבר לטוס בעומאן בשל חשש מהקצנה אידאולוגית - אך התקבל לעבודה בפליי-דובאי והטיס את הקו לישראל • רשת ABC: הטייס התכוון לרסק את המטוס בשטח ישראל &bull; הפעם האחרונה שבה התקיימה פגישה דומה של הקבינט הביטחוני האמריקאי הייתה ביוני 2025, לפי היציאה למלחמה עם איראן •…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790771672/Untitled-1_g1bbly.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bdb66bae74d9",
+   "kind": "headline",
+   "title": "Parliamentary elections begin in Latvia with 14 parties taking part — Deutsche Welle",
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlU1TEY2LXpBVkViYmpjV0tmS0N5aEhsbUo2UGtFdWNOSm9jVzlSWWRNYk8ybXQ0SDR1MF9lc1pvdGFmNTBZd1diZDBlMjUzSGdUUlR1YXdZYTdZM2toOTlUNDZmaDJNbUNDcWdJQTlwZnhkM3gwcWd0bFBFSVFjU1pRYzlSaGE4dHk5WU1HRmJWZHpUdjNsRXduRzFSMGZXb3Q3SVUyQ1M?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T06:22:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3ecbf8a84417",
+   "kind": "headline",
+   "title": "New legal framework reshapes property transfer procedures",
+   "source": "Bangladesh Sangbad Sangstha (BSS)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWEFIazBIWXpRMHBXWnNPa0lHbF85YUt6RTFyMVhsY01lZ0drbVZsaTBLckQ0NTlUd2NoT0luZ0xZMzk5OXJ5MXAzbjhyZ1AzUk56cnd5bw?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T06:13:58.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "4d46ddeabdd2",
    "kind": "headline",
@@ -188,6 +244,20 @@
    "important": false
   },
   {
+   "id": "003b1194284f",
+   "kind": "headline",
+   "title": "Parliament passes Transgender Persons Amendment Bill, 2026 with Rajya Sabha approving it today",
+   "source": "News On AIR",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1Y3RmZzYUVKcWZEU082Q3J2S210X3k5NEVLdmVkbTY2TlBsNFZIR2FoWFBrQTFaMDYwcXE3clIzTDN4VV83US1LUmxwd2FVeVZsNW5YeVZHU0ZMUnJLZjhTVjBnRFE2Y2ZpZTMtOWVqYU1TX3BNTHRvZjhscE1yT1JsRjVFYnFITm9GbVVkNEdkVjFrSTNvYldVUU1zSjlGaVZoZDE3T0x1Vmx5VW5ONnNvc0xxQU5kTlkw?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T01:26:48.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "2d3ee77c3918",
    "kind": "headline",
    "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
@@ -328,7 +398,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "dw.com"
+   ],
    "important": false
   },
   {
@@ -1685,7 +1757,9 @@
    "published": "2026-10-02T07:34:37.000Z",
    "summary": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "היום"
+   ],
    "important": false
   },
   {
