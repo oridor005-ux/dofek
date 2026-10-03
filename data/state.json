@@ -23,7 +23,7 @@
   "ins-2026-10-03-mwin"
  ],
  "pending": [],
- "lastRun": "2026-10-03T17:37:28.300Z",
+ "lastRun": "2026-10-03T17:48:48.502Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -39,8 +39,8 @@
    "ok": 67,
    "fail": 2,
    "light": false,
-   "at": "2026-10-03T17:37:28.300Z"
+   "at": "2026-10-03T17:37:42.750Z"
   },
-  "lastNewItemAt": "2026-10-03T17:37:28.300Z"
+  "lastNewItemAt": "2026-10-03T17:48:48.502Z"
  }
 }
