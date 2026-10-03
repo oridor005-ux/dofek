@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T00:06:28.992Z",
+ "updated": "2026-10-03T00:44:17.063Z",
  "items": [
+  {
+   "id": "2d3ee77c3918",
+   "kind": "headline",
+   "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
+   "source": "KELO-AM",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ21jdklLalpoLWtLQV9GbXVpRk40M2lYRUJFWHF2SVUwVENodUw0OHE5RU04UjBSWHF2Sjh4QktpTE9iaE9VQ1pIVWR5QjNDclNmZGJpa0tkc3FpZDVWOUlTckZ2MUkyckJVUGk3bkpTVUphVEZsaVItTDRXTzI0dUVXUG40aVNoRm5GTzl2UFFmY1E4R3dwQjVFUXBtcEw4QWd6Ymxn?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T00:26:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "92d56d687417",
    "kind": "headline",
@@ -194,7 +208,9 @@
    "published": "2026-10-02T19:27:00.000Z",
    "summary": "",
    "score": 4,
-   "alsoIn": [],
+   "alsoIn": [
+    "haaretz.com"
+   ],
    "important": true
   },
   {
@@ -305,6 +321,20 @@
    "alsoIn": [],
    "important": false,
    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02int-yemen-1-bhtj/02int-yemen-1-bhtj-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "adbd2d40ae02",
+   "kind": "headline",
+   "title": "US releases $320 million in military aid for Egypt citing role in Iran war",
+   "source": "Roya News",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wdWtuc1gtd1BUM0xZV2hDVXcxUTluc3Z0Ynk5YTZzakRnQ3R2anJDaHdyRWkydTlQQWFTODZRU2JWczE5aGRMZA?oc=5",
+   "topic": "defense",
+   "published": "2026-10-02T17:47:10.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "1043d13ea9c3",
@@ -920,7 +950,8 @@
    "summary": "",
    "score": 0,
    "alsoIn": [
-    "WTVB"
+    "WTVB",
+    "wkzo.com"
    ],
    "important": false
   },
