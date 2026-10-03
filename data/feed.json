@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-03T16:51:43.531Z",
+ "updated": "2026-10-03T17:03:02.833Z",
  "items": [
+  {
+   "id": "2205234f08a4",
+   "kind": "headline",
+   "title": "Russia rebukes US, defends Iran’s ‘inalienable’ nuclear rights",
+   "source": "Tehran Times",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGgzMFo0QWE4bnJJNTlvYkp5dl9rSHlUZFA2UlBwb2xLYlFCS2lLaEI1a2stWGwxcC1TekNSSnpDQ3dtM1lxLVZfNnhuUy1UZnMtaDhGQV9Odlgzc1ZZd0E2Mlh1YXJ3endrclFmaE0xWEVPeUQ4ckhnbzhabUdIdm11TjNxNzJrWDBlZjlxdm9KcHk0RUFWSVJJTFB5WFQ5?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T16:41:53.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6664abd91bae",
    "kind": "headline",
@@ -82,7 +96,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "washingtonpost.com"
+   ],
    "important": false
   },
   {
@@ -123,6 +139,20 @@
    "published": "2026-10-03T13:38:06.000Z",
    "summary": "",
    "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d43d8006ca78",
+   "kind": "headline",
+   "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-03T13:34:11.000Z",
+   "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
