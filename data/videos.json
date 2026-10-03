@@ -206,6 +206,121 @@
    "found": "2026-10-03T14:40:07Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7692036588368301319.txt"
+  },
+  {
+   "id": "7692475071629135111",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7692475071629135111",
+   "caption": "ומה דעתכם? #פוליטיקה #בחירות #הציונותהדתית ",
+   "posted": "1791043929",
+   "found": "2026-10-03T18:39:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692475071629135111.txt"
+  },
+  {
+   "id": "7692488502751022357",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7692488502751022357",
+   "caption": "אלון התגייס למילואים ב7.10 ונלחם בזמן שסבו וסבתו, עודד ז\"ל ויוכבד ליפ...",
+   "posted": "1791047055",
+   "found": "2026-10-03T18:40:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692488502751022357.txt"
+  },
+  {
+   "id": "7692491587833679125",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7692491587833679125",
+   "caption": "שמתם לב שאם אומרים ״משילות״ מספיק פעמים ברצף ומהר יוצא ״תצביעו לסמוטר...",
+   "posted": "1791047775",
+   "found": "2026-10-03T18:40:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692491587833679125.txt"
+  },
+  {
+   "id": "7692492122380881173",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692492122380881173",
+   "caption": "עשרה חודשים היא הוגדרה כנעדרת האחרונה מ-7 באוקטובר. עשרה חודשים שבהם ...",
+   "posted": "1791047899",
+   "found": "2026-10-03T18:40:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692492122380881173.txt"
+  },
+  {
+   "id": "7692477783838133525",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692477783838133525",
+   "caption": "משנה כיוון | נטלי פיטוסי כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע ש...",
+   "posted": "1791044561",
+   "found": "2026-10-03T18:41:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692477783838133525.txt"
+  },
+  {
+   "id": "7692473658714983732",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692473658714983732",
+   "caption": "לגיטימי או חסר רגישות? מה דעתכם? #נובה #שמחתתורה ",
+   "posted": "1791043598",
+   "found": "2026-10-03T18:41:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692473658714983732.txt"
+  },
+  {
+   "id": "7692473894489427218",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7692473894489427218",
+   "caption": "פרק חמישי: מפלגת ״ישראל ביתנו״ בראשות אביגדור ליברמן. האם אתם מצביעים...",
+   "posted": "1791043657",
+   "found": "2026-10-03T18:43:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692473894489427218.txt"
+  },
+  {
+   "id": "7692086977931398406",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7692086977931398406",
+   "caption": "",
+   "posted": "1790953570",
+   "found": "2026-10-03T18:43:20Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7691957669287955730",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7691957669287955730",
+   "caption": "תקשיבו לקטע הבא, לתפוס תראש ולהבין איך הם טובלים בבריכה של צביעות",
+   "posted": "1790923464",
+   "found": "2026-10-03T18:43:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691957669287955730.txt"
+  },
+  {
+   "id": "7691630674842782994",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7691630674842782994",
+   "caption": "חזק מאוד \"יהיה בסדר, השם אתה הכי גדול בעולם הזה, אין עוד מלבדך, השם א...",
+   "posted": "1790847332",
+   "found": "2026-10-03T18:44:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691630674842782994.txt"
   }
- ]
+ ],
+ "health": {
+  "at": "2026-10-03T18:44:03Z",
+  "channelsOk": 12,
+  "channelsFail": 0,
+  "transcribed": 10
+ }
 }
