@@ -126,6 +126,8 @@ main{max-width:720px;margin:0 auto;padding:4px 16px}
 .box h4{font-size:.78rem;color:var(--ink3);font-weight:600;margin-bottom:6px;display:flex;align-items:center;gap:6px}
 .box ul{padding-inline-start:18px}
 .box li{margin-bottom:6px;font-size:.95rem;line-height:1.55}
+.box.key{margin-top:4px;border-color:color-mix(in srgb,var(--accent) 55%,var(--line));background:color-mix(in srgb,var(--accent) 8%,var(--card))}
+.box.key li{font-weight:500}
 .box.why{border-color:color-mix(in srgb,var(--accent) 40%,var(--line))}
 .box.check{border-color:color-mix(in srgb,var(--factcheck) 50%,var(--line))}
 .byline{font-size:.72rem;color:var(--ink3);margin:6px 0 12px;display:flex;align-items:center;gap:6px}
@@ -406,8 +408,8 @@ function openInsight(id){
   const vs = (it.claim||it.reality) ? `<div class="vs" style="margin-bottom:14px"><div><b>נאמר${it.claimBy?' · '+esc(it.claimBy):''}</b>${esc(it.claim||'')}</div><div><b>בפועל</b>${esc(it.reality||'')}</div></div>` : '';
   openSheet(`<div class="meta" style="margin-bottom:6px">${topicTag(it.topic)}<span class="sep">·</span><span>${ago(it.published)}</span></div>
     <h2>${esc(it.title)}</h2>${it.verdict?`<span class="verdict" style="margin:4px 0 10px">${esc(it.verdict)}</span>`:''}
-    ${byline}${vs}<div class="body">${paras(it.body || it.summary)}</div>
-    ${it.points?.length?`<div class="box"><h4>עיקרי הדברים</h4><ul>${it.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul></div>`:''}
+    ${it.points?.length?`<div class="box key"><h4>📌 עיקרי הדברים</h4><ul>${it.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul></div>`:''}
+    ${vs}${byline}<div class="body">${paras(it.body || it.summary)}</div>
     ${it.sources?.length?`<div class="src"><div style="font-size:.8rem;color:var(--ink3);font-weight:600">מקורות</div>${it.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">↗ ${esc(s.name||s.url)}</a>`).join('')}</div>`:''}`, hash);
 }
 function openHeadline(id){
@@ -416,8 +418,8 @@ function openHeadline(id){
   const img = s?.image || it.image;
   let body;
   if (s) {
-    body = `${byline}<div class="body">${paras(s.summary)}</div>
-      ${s.points?.length?`<div class="box"><h4>📌 הנתונים והעובדות</h4><ul>${s.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul></div>`:''}
+    body = `${s.points?.length?`<div class="box key"><h4>📌 עיקרי הדברים</h4><ul>${s.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul></div>`:''}
+      ${byline}<div class="body">${paras(s.summary)}</div>
       ${s.why?`<div class="box why"><h4>💡 למה זה חשוב</h4><div>${esc(s.why)}</div></div>`:''}
       ${s.check?`<div class="box check"><h4>🔍 בדיקה${s.check.verdict?` · <span class="verdict" style="margin:0">${esc(s.check.verdict)}</span>`:''}</h4><div>${esc(s.check.text||'')}</div></div>`:''}
       ${s.context?`<div class="box"><h4>🧭 הקשר</h4><div>${esc(s.context)}</div></div>`:''}`;
