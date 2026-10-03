@@ -400,12 +400,23 @@
    "found": "2026-10-03T20:42:23Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692542871907355922.txt"
+  },
+  {
+   "id": "7692551483694271796",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7692551483694271796",
+   "caption": "3 שנים אחרי שנחטף ממתחם הנובה חזר בר קופרשטיין למקום לומר תודה",
+   "posted": "1791061722",
+   "found": "2026-10-03T21:13:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692551483694271796.txt"
   }
  ],
  "health": {
-  "at": "2026-10-03T20:57:25Z",
+  "at": "2026-10-03T21:13:21Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
