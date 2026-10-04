@@ -997,10 +997,21 @@
    "found": "2026-10-04T19:14:58Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692889155885501716.txt"
+  },
+  {
+   "id": "7692894447784217864",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692894447784217864",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791141578",
+   "found": "2026-10-04T19:29:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692894447784217864.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T19:15:12Z",
+  "at": "2026-10-04T19:29:50Z",
   "channelsOk": 12,
   "channelsFail": 0,
   "transcribed": 1
