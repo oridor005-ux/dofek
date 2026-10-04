@@ -27,10 +27,14 @@
   "ins-2026-10-03-mdg5",
   "ins-2026-10-03-mams",
   "ins-2026-10-03-mlib",
-  "e8d991887353"
+  "e8d991887353",
+  "ins-2026-10-04-d201",
+  "ins-2026-10-04-m101",
+  "ins-2026-10-04-m103",
+  "ins-2026-10-04-m104"
  ],
  "pending": [],
- "lastRun": "2026-10-04T06:25:21.815Z",
+ "lastRun": "2026-10-04T06:25:36.867Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -43,27 +47,23 @@
  },
  "health": {
   "sources": {
-   "ok": 11,
-   "fail": 57,
+   "ok": 66,
+   "fail": 2,
    "light": false,
    "direct": 13,
    "directFail": 2,
    "google": 55,
-   "googleFail": 55,
+   "googleFail": 0,
    "errors": {
     "direct": {
      "HTTP 403": 2
-    },
-    "google": {
-     "HTTP 503": 1,
-     "skipped (google blocked)": 54
     }
    },
-   "at": "2026-10-04T05:51:16.694Z"
+   "at": "2026-10-04T06:25:36.867Z"
   },
-  "lastNewItemAt": "2026-10-04T06:25:21.815Z",
-  "lastPushOkAt": "2026-10-04T04:06:17.731Z",
-  "googleOkAt": "2026-10-04T05:16:12.705Z"
+  "lastNewItemAt": "2026-10-04T06:25:36.867Z",
+  "lastPushOkAt": "2026-10-04T06:25:36.867Z",
+  "googleOkAt": "2026-10-04T06:25:36.867Z"
  },
- "lastFullAt": "2026-10-04T05:51:16.694Z"
+ "lastFullAt": "2026-10-04T06:25:36.867Z"
 }

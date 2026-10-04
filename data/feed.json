@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-04T06:25:21.815Z",
+ "updated": "2026-10-04T06:25:36.867Z",
  "items": [
+  {
+   "id": "89d34e95f5f0",
+   "kind": "headline",
+   "title": "בנק ישראל נגד משרד האוצר: הצעד המפתיע שישפיע על הכיס שלכם",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xRTdVeGwzSEhKelhLdWlvUWxMVmxPeVNOejJDZ2lhWGdtQld6SlQ3Ump6cVlkaHo3MUpIOUpBckxCWU5BaXhGQzc0UHhweUVPYUxoQS1VZFM5bDg5dnFn?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T06:23:14.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5a7b380d26ae",
+   "kind": "headline",
+   "title": "Elections have begun in Bosnia, the results of which could affect the country's bid to join the EU",
+   "source": "unn.ua",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnlOTGpSbmNBbU80UC1QcUJFUWtaS09abVJJbzVWMndmU0huakh1UHlqZUZEWEFjcmlKeGVLS3pfRmVDaE1RT1pBLXFxSE5VaEtHbHhRTHlzMG1McVl4MWFDUjVoYmpMcXp5eGJCTThKTjYyRFJuR0pPRzhwdDYtaWpickJ3QXI2T3pIaTN2UEpXM3VaQ3U4UUJOSEt3QjluSjhsZVFYWW1HUkhQZGZXMmRZaDNDLXVNRmVqemZTdlg3Ry0ydXfSAcQBQVVfeXFMTjl5bGdGUlU2eHhoYU90aWU3VHlsWmdQek9Ea2J2N3FzeGM1N29XLWNyYTkxVzhqTjA5SC1iWDhZd19FMDVEZzlfbzc2X0lmVUdCbjROaXZENlltNmd2SUFGc1RhMXJ4NDlhb08yQjEtX055eWxCWThzLVB5WkVGclFTcUVfTnhZR2ZGWW9MaG5jZ1ItYnRuem03Y1JDZEpkUndjVkpweVJEUktxZVdvSHlva0JScmxHaFl6MFRZN2JsV1Jhbg?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T06:17:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "76c75a11afe7",
+   "kind": "headline",
+   "title": "מומחה הכלכלה טוען: זה האירוע שיכול לחולל תפנית בבורסה",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EYi10anYyN19QYTBXcjFwMlM1cDMyUHdrajRSUGZkdm1udEJ4THZVWFJZdVBwcjAxMkYzV2IxeWJHemo2cU9IbW9NNW16SThtRWZMOGU0cFdDdHI0UlB3?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T06:02:42.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "04e7c1cf91a3",
    "kind": "headline",
@@ -30,6 +72,20 @@
    "important": false
   },
   {
+   "id": "a578d73a8806",
+   "kind": "headline",
+   "title": "Latvian PMs party leads in partial election results",
+   "source": "kuwaittimes.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVVkRjJtUmhBTTFUUkt2M0xfVkc3MHloSGhNT01lNE85VlNNTWpUYUpjTzJrbUZoSVJ6MENQYmhlb2ZLQmtEbFpfTkhFekJVTFoxanBxb25vQnQ2dzNWdjk2MnRaa0JIM29XcWJ4UWZZN0RoUG1UWVhEZHBrbG5qS1d2SngyOWQ0UGhfcEZ5TzNhUTZwSkVwVFJ1VTnSAaABQVVfeXFMTWFGZ3NZbXFpOHJ3Vzc0T0pfRTJ5ajhYZUk2UWoyeXlkV1RkdlpMSEF0eG5sdXp6Rjh4NE16RDhHdEJITTFrQllFckVVY0RnUUMxdVF3dHdCYTVPeUZ0U0RXTTBIOE51aUNXVFdUcFhXN2cwdmFDcHZvU1B5WmwwYTJhZ09QNVZLNnc3UXhLemxNNEdrWWd0QWlnenlteFN1bA?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T05:11:04.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ca2680f8a953",
    "kind": "headline",
    "title": "”הבורסה עולה אבל מעל ממחצית ממניות ה-S&P 500 כבר בתיקון של 20%”",
@@ -54,7 +110,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "aljazeera.com"
+   ],
    "important": false
   },
   {
@@ -82,7 +140,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "תל אביב אונליין"
+   ],
    "important": false
   },
   {
@@ -131,6 +191,20 @@
    "important": false
   },
   {
+   "id": "fb2eac67bf81",
+   "kind": "headline",
+   "title": "Winter says he’ll demand ultra-Orthodox IDF service, but will still join coalition with Haredim",
+   "source": "timesofisrael.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXYzZlpBTldKZ3dGV3BjV1ZKNFJMN0pPSlZDbm4zTmlFY2VrTjdFQWZ5UjNvUHVIOFhsYVByaUJidGdqN2lUWXJWUXVCa2hxUTRoelRPNkZyMldyd2RWUEh3VlY0cVh0VjFKQ2RuTTN5VGxrVk5wNEdQdHBRREV3b2YtTHJBQWpUVk94U3BNcnAxZC1YWnJxUzg5UVpFRjY0TEZHWHNMRWtQcVhvUGpiN3d3LXNhS1NiMXA2NGZmXzlKNlBuRFpB0gHHAUFVX3lxTE41djNmWkFOV0pnd0ZXcGNXVko0Ukw3Sk9KVkNubjNOaUVjZWtON0VBZnlSM29QdUg4WGxhUHJpQmJ0Z2o3aVRZclZRdUJraHFRNGh6VE82RnIyV3J3ZFZQSHdWVjRxWHRWMUpDZG5NM3lUbGtWTnA0R1B0cFFERXdvZi1MckFBalRWT3hTcE1ycDFkLVhacnFTODlRWkVGNjRMRkdYc0xFa1BxWG9QamI3d3ctc2FLU2IxcDY0ZmZfOUo2UG5EWkE?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T04:01:09.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "a6ed62179674",
    "kind": "headline",
    "title": "New law gives Fiji stronger drug-fighting powers",
@@ -155,7 +229,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "english.onlinekhabar.com"
+   ],
    "important": false
   },
   {
@@ -254,6 +330,20 @@
    "published": "2026-10-04T02:54:00.000Z",
    "summary": "מתחילת השנה היו בעיר כ־200 עסקאות בדירות בנות שני חדרים • המיוחד בדירה: המרפסת שלה מגיעה לשטח של 63 מ\"ר, חדר השינה של הדירה הוא גם הממ\"ד שלה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790752907/WhatsApp_Image_2026-09-25_at_19.10.29_1_-1_xoemfc.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4558dd9aed53",
+   "kind": "headline",
+   "title": "Latvia’s governing party wins parliamentary election with wide margin",
+   "source": "aljazeera.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZE9GTjBtSW9hX1BDMzh4anh1Vm4xWHNKWEZSNUZLQXN1S2xjQXEwcmhmM0lMNlA3SFRsVUl2bDBPNXlEZGdDcFdHYXpLa2U1d1o0eTdNMlJYZWJYbmd5T2tkVjZhVnd6UmZQOG44U2JiQ3MwV1lSRl83THA4ZHNIXzhHS29RRVR0eEVQLTF0WlpIbVBjalNTN2tFcEpHVG5VTzRGRmJLTnjSAa4BQVVfeXFMTk5LbTYydDJkR3FjNVRKemt0THFtLWpndkhMZXFwMjVGNVhTVm5XaUF6M1loMkVybHdnZjlQUkhseHB5UFNiemN6TTNiOFBLek51TnZpaTdaQmQ5ZndMSHlucFc0amI3V2NYbjVsdHY3YmdCMXI0OU5Ga3llZ0k5Tlh6QS1kd2w3YmZ1NmtSc3NzRXR6aGV0Tmt2YjFYQkdQZzNwT2d6N2IzZmNfVUdB?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T02:51:58.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -499,7 +589,9 @@
    "summary": "",
    "image": "",
    "score": 4,
-   "alsoIn": [],
+   "alsoIn": [
+    "aljazeera.com"
+   ],
    "important": true
   },
   {
@@ -876,7 +968,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "aljazeera.com"
+   ],
    "important": false
   },
   {
@@ -1084,7 +1178,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "apnews.com"
+   ],
    "important": false
   },
   {
