@@ -1,0 +1,56 @@
+{
+  "at": "2026-10-04T12:22:51Z",
+  "accountIdLength": 32,
+  "tokenCheck": {
+    "success": true,
+    "status": "active",
+    "errors": []
+  },
+  "kv": true,
+  "subdomain": "oridor005",
+  "deploy": true,
+  "deployLog": "\n ⛅️ wrangler 4.86.0\n───────────────────\nTotal Upload: 15.39 KiB / gzip: 5.21 KiB\nYour Worker has access to the following bindings:\nBinding                                        Resource          \nenv.KV (c07f4f27849d423288bb6f383b45e870)      KV Namespace      \n\nUploaded avodot-push (1.67 sec)\nDeployed avodot-push triggers (0.66 sec)\n  https://avodot-push.oridor005.workers.dev\n  schedule: */15 * * * *\nCurrent Version ID: e8377763-a12a-4947-9cf8-b8694ea65686\n\nCloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md\n",
+  "url": "https://avodot-push.oridor005.workers.dev",
+  "health": {
+    "ok": true,
+    "last": {
+      "at": "2026-10-04T12:15:24.900Z",
+      "works": 0,
+      "subs": 0,
+      "sent": 0,
+      "removed": 0
+    }
+  },
+  "ok": true,
+  "probeFromCloudflare": {
+    "https://www.iroads.co.il/": {
+      "status": 403,
+      "bytes": 861,
+      "blocked": true
+    },
+    "https://www.ayalonhw.co.il/company-activity/events/": {
+      "status": 403,
+      "bytes": 334,
+      "blocked": false
+    },
+    "https://www.nta.co.il/": {
+      "status": 403,
+      "bytes": 5638,
+      "blocked": false
+    }
+  },
+  "probeFromGitHub": {
+    "https://www.iroads.co.il/": {
+      "status": "403",
+      "bytes": 858
+    },
+    "https://www.ayalonhw.co.il/company-activity/events/": {
+      "status": "403",
+      "bytes": 334
+    },
+    "https://www.nta.co.il/": {
+      "status": "403",
+      "bytes": 5447
+    }
+  }
+}
