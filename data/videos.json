@@ -800,8 +800,11 @@
    "caption": "\"חמאס הוא ארגון טרור אבל גם ארגון גרילה\" 👇 \"כשאנחנו מדברים על גוף אם ...",
    "posted": "1791121206",
    "found": "2026-10-04T13:55:50Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692806990367640852.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692806990367640852.txt",
+   "insightIds": [
+    "ins-2026-10-04-hg7c"
+   ]
   },
   {
    "id": "7692814313723006228",
@@ -831,7 +834,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791126449",
    "found": "2026-10-04T15:11:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692829481781775622.txt"
   },
   {
