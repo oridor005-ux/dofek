@@ -34,7 +34,7 @@
   "ins-2026-10-04-m104"
  ],
  "pending": [],
- "lastRun": "2026-10-04T07:24:26.523Z",
+ "lastRun": "2026-10-04T07:35:50.387Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -61,7 +61,7 @@
    },
    "at": "2026-10-04T07:01:03.624Z"
   },
-  "lastNewItemAt": "2026-10-04T07:24:26.523Z",
+  "lastNewItemAt": "2026-10-04T07:35:50.387Z",
   "lastPushOkAt": "2026-10-04T06:25:36.867Z",
   "googleOkAt": "2026-10-04T07:01:03.624Z"
  },
