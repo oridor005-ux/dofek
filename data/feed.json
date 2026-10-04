@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-04T19:16:45.731Z",
+ "updated": "2026-10-04T19:29:00.776Z",
  "items": [
+  {
+   "id": "8ac3b15248b5",
+   "kind": "headline",
+   "title": "משפט המו\"לים: עדותו של ח\"כ כבל חידדה את החשיבות הקריטית של הקלטות נתניהו-מוזס",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lT1FjRlEySm9EcjNZekU2eGpJaVpUZWdWYXRDWENjZ0RfOWxQSnRmeC14VG1XeHBDZ25zMmFsVHNBaWxQenJPbQ?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-04T19:09:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3afdea45b573",
+   "kind": "headline",
+   "title": "US public opinion on Israel raises questions over Washington’s Iran and Ukraine strategy",
+   "source": "Minute Mirror",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUo3eTNoUzg3M2xFcG1HY0UtV1UtVHBPNWFLOVgtOS1nUVE1WDc0bE9YTExiMTI3Ni14b1h0ZjJJQjBPTjN6MEsycW04QWt1UnJWWmxtVXRpNmFqbERheU8xTkJ3UVB4RHIwLXJEUV8yaFFSZUcwN05GSXlwTTVKdXBBd2FIOEJYV1hyYnpoYnJOUDM1TVNKT05abVNNSTlzaEFtLXpxa3ItbTdneWZPRGpTWm80RFVHLTBnUUVWRUk?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T18:47:50.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a48d2c3f850b",
+   "kind": "headline",
+   "title": "Latvian PM's pro-European ruling party easily wins election",
+   "source": "upi.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0c1TlhOc3ZsaERXX1lPVnBmc2lycnp0Q2I0d1VVRWEyaHljeDU1a0RpMmdIVnBNQVRIMlo5T0tfMmFFbm8wM0JDM1AyV2FkZHpRVC1uUjVtWnl2cndRcG5XWnFxZi16M09hNHFBTkVUS01vYnJnV2NOXzlOTXMtcXVPX3lWMWN1V2JzZlF1MlFLMmRFVW85Z21CNNIBoAFBVV95cUxOSnJnZUtWdnF3ZzV0WkVmcHctb3gyRktEVXdEM0ZVVnBfX2VGYzZLOV9XRFhTYXNnRDFLc0pDWmotZTMwRTlEWjFicldVaXFnZlhmbjNYZ0kyMk0wTlFFV2ZibUlXQ2NjV09KbktfRFlOTWpIdjU1NFZvVnhzRS0teWJobTJQMlpXZGs4TzZ2MV9EdHBDeGFaSS0wQ3hNaDdo?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T18:40:42.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2b24320d3843",
+   "kind": "headline",
+   "title": "Israeli regime under pressure of American public opinion",
+   "source": "Mehr News Agency",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNXQwUndpaEtkeGIzdmNvY3dhSS1DeUFPdWRuT2luOXVYVzBoeW9IUVZBcVVwWWhNU19rMXp5ME1jdVQxZlRkdzUyNW1WOHRLNHVFY3RtUTJ1TFJ5NXZldXJUTHVtM3RjQklkdEluZWh5QlFsQXVvb3JhSlZtWG1pdzRPQWwyWk53dlUzZnVoRVpwWTFWUExZ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T18:39:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ffc11dfaae17",
+   "kind": "headline",
+   "title": "פודקאסט כח להשחית פרק 111: המשטרה והשב\"כ כבר נפלו, שיחה עם יוסי מלמן",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfVWpTYXA1TVZsV0FUSUZQWlVtbXo4VW9tdlhwQ2VJNjJqUmp4YVo5MU8zdk9QZWlwam1keUJxd3pzUnA2YS1Oag?oc=5",
+   "topic": "media",
+   "published": "2026-10-04T18:23:46.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "618184163a02",
    "kind": "headline",
@@ -54,7 +124,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Jerusalem Post"
+   ],
    "important": false
   },
   {
@@ -199,6 +271,20 @@
    "alsoIn": [
     "jpost.com"
    ],
+   "important": false
+  },
+  {
+   "id": "82c595af9e32",
+   "kind": "headline",
+   "title": "Ireland’s football snub of Israel was more than a political protest - opinion",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05VmtQX3FGa0toTHBaRGtPaUxZcUZIMVpWMHRYdnpaLW9pYjg3M3h3a25NUWJ5NUhYaFptM1F4S1haanpyZWpWNjFNVnZpYU80c3MzWlVZQQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T15:40:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1263,7 +1349,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "c14.co.il"
+   ],
    "important": false
   },
   {
@@ -5802,88 +5890,6 @@
    "score": 1,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "b05a6d3f3a21",
-   "kind": "headline",
-   "title": "Royal College of Nursing cuts ties with Israeli drug company",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/oct/02/royal-college-of-nursing-cuts-ties-with-israeli-drug-company",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T06:00:13.000Z",
-   "summary": "<p>Britain’s nursing union axes Teva UK as commercial partner over links to Israel’s military and corporate track record</p><p>Britain’s nursing union has cut its ties with an Israeli drug company over the firm’s links t",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/2e55eb501e3edfd063301103db50c2332a0ea722/179_0_3603_2883/master/3603.jpg?width=140&quality=85&auto=format&fit=max&s=a22dcd1fdda84e0cce5f8e45956d4392"
-  },
-  {
-   "id": "655560705c73",
-   "kind": "headline",
-   "title": "State Parliamentary Elections in Germany: Uncertainties Facing Chancellor Merz and the Federal Government",
-   "source": "politicstoday.org",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFlBRmtycTdXUE1ENTFrT1RoaE94ZXFZU0hIaFRMUkpSZGxxTDFKWm42bGVWUi1xUU1FV2R1aDJTV3NJZnhlZEI1Z2gxWlF6MjZ0ZVE0TmhFZjFEelpubUhXME1zVXdRamVQTTNPVTkzeFZCU1FTTl9aZmsyZUNwckdUb0YwN0o1RGVQSGphQnJyS1JQTGc5QzZBbjhvei05enNLa0k5MVJKdFBTZTd4SS1CU1hnU2kzU3RSbFBYeUUzY0tfVWg5MjBEbw?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T05:54:34.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b21fef0aaf56",
-   "kind": "headline",
-   "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
-   "topic": "world",
-   "published": "2026-10-02T05:45:23.000Z",
-   "summary": "<p>In today’s newsletter: When a passenger plane plunges 17,000ft amid claims of terrorism, hijacking and geopolitical intrigue, Guardian journalists have to try and separate fact from fiction in real time</p><p>Good mor",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/98db03b3d43e674ad477310935e547b49e124ba6/192_0_1441_1153/master/1441.jpg?width=140&quality=85&auto=format&fit=max&s=082c297c8148082a65ab1b8359c11d30"
-  },
-  {
-   "id": "642b1592ce11",
-   "kind": "headline",
-   "title": "Americans of all ages want more federal help with childcare costs. Gen Z most of all.",
-   "source": "NationofChange",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTTZEM1htUUJkRm1HclhXOVRYeUY5OHVGTVhfTlNOM2ZQVXFaTTBVQjRHM0E0LWs1alFfVXZyekRKM3A3dFBEVlpmWlAxTk1ERndBSk4yRnpiaVpRbnktMnBQaEFlbUdiaTVQS3NacTF1bWl4NWd6OXZFdDVMVW1mSU1xQXFDdkhHRUFJbkZfekkzdlJRQzRuVXRIZUJPVm84eWhSekl6NHYtVUZKbVBRam9weGZsSGRCcklSay1WZmNSSHVy?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T05:34:06.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2da82c5212ce",
-   "kind": "headline",
-   "title": "קיזזה מע\"מ ברכישת בניין - ולא תקבל פטור במכירתו",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/b1b6n59czx",
-   "topic": "deals",
-   "published": "2026-10-02T05:28:23.000Z",
-   "summary": "חברה שהחזיקה בבניין בת\"א ביקשה להחזיר למדינה כ-574 אלף שקל שניכתה שנים קודם לכן, כדי לחסוך חיוב מס של מיליוני שקלים. בית המשפט דחה אותה",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/11/16/7389070/7389070_0_0_1000_563_0_medium.jpg"
-  },
-  {
-   "id": "616e43a92a48",
-   "kind": "headline",
-   "title": "\"אפשר לריב ולצעוק בחופשיות\": המשפחות שמנהלות את העסק ביחד",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/yokra14913677",
-   "topic": "econ",
-   "published": "2026-10-02T05:04:21.000Z",
-   "summary": "יש משפחות שבהן כל החלטה מתקבלת פה אחד, אחרות נעזרות במנכ\"ל חיצוני, ובחלקן עדיין ברור מי ‏הסמכות העליונה. שבע משפחות שמנהלות ביחד עסק מצליח מספרות איך מחלקים כוח, כיצד מעבירים עסק לדור הבא ‏–‏ ומה קורה ‏כשהילדים כבר מנהלי",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/B1lup2j9fg/B1lup2j9fg_2_0_1919_1080_0_medium.jpg"
   }
  ]
 }
