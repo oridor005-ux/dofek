@@ -680,12 +680,23 @@
    "found": "2026-10-04T09:21:52Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692737435230391560.txt"
+  },
+  {
+   "id": "7692745139453824274",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692745139453824274",
+   "caption": "\"מרגיש מושפל, דם ילדינו ספוג פה\" בימים האחרונים למרות התנגדות מצד הור...",
+   "posted": "1791106809",
+   "found": "2026-10-04T09:52:21Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692745139453824274.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T09:37:03Z",
+  "at": "2026-10-04T09:52:33Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
