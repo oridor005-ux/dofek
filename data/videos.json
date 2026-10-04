@@ -750,12 +750,23 @@
    "posted": "1791115284",
    "found": "2026-10-04T12:08:17Z",
    "status": "failed"
+  },
+  {
+   "id": "7692792055591914772",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7692792055591914772",
+   "caption": "\"רואים את עצמנו עולים על 61 מנדטים\" 👇 אל\"מ במיל' טליה לנקרי, מועמדת מ...",
+   "posted": "1791117730",
+   "found": "2026-10-04T12:54:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692792055591914772.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T12:38:53Z",
+  "at": "2026-10-04T12:54:46Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
