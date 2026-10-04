@@ -940,7 +940,7 @@
    "caption": "על פי סקר כאן חדשות, מפלגת ‘עמך ישראל’ של עופר וינטר לא עוברת את אחוז...",
    "posted": "1791137951",
    "found": "2026-10-04T18:28:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692878883334540565.txt"
   },
   {
@@ -951,8 +951,9 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791137672",
    "found": "2026-10-04T18:29:15Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692877682710678791.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7692877682710678791.txt",
+   "note": "ציטוטים מפרוטוקולי קבינט 2014–2016 שלא נמצאו במקורות פתוחים; לא נבדק"
   },
   {
    "id": "7692884178840440082",
@@ -962,8 +963,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1791139183",
    "found": "2026-10-04T18:44:06Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692884178840440082.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692884178840440082.txt",
+   "insightIds": [
+    "ins-2026-10-04-gz63"
+   ]
   },
   {
    "id": "7692882372991175943",
@@ -973,8 +977,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1791138760",
    "found": "2026-10-04T18:44:32Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692882372991175943.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692882372991175943.txt",
+   "insightIds": [
+    "ins-2026-10-04-gz63"
+   ]
   },
   {
    "id": "7692885575669501202",
@@ -984,8 +991,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1791139507",
    "found": "2026-10-04T18:58:55Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692885575669501202.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692885575669501202.txt",
+   "insightIds": [
+    "ins-2026-10-04-ns11"
+   ]
   },
   {
    "id": "7692889155885501716",
@@ -995,7 +1005,7 @@
    "caption": "״קפלניסטים שרוצים להפיל את הממשלה״. הערבות ההדדית של השמונה באוקטובר ...",
    "posted": "1791140340",
    "found": "2026-10-04T19:14:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692889155885501716.txt"
   },
   {
@@ -1006,8 +1016,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791141578",
    "found": "2026-10-04T19:29:41Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692894447784217864.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692894447784217864.txt",
+   "insightIds": [
+    "ins-2026-10-04-as07"
+   ]
   },
   {
    "id": "7692897779106106644",
@@ -1017,7 +1030,7 @@
    "caption": "משנה כיוון | עידו פרוכטר כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע ש...",
    "posted": "1791142347",
    "found": "2026-10-04T19:44:39Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692897779106106644.txt"
   },
   {
@@ -1028,7 +1041,7 @@
    "caption": "",
    "posted": "1791142368",
    "found": "2026-10-04T19:45:05Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692897866284633362.txt"
   }
  ],
