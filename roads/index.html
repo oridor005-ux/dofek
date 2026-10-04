@@ -2,6 +2,8 @@
 <title>עבודות בדרך</title>
 <meta name="description" content="התראה מראש על עבודות כביש במסלולים הקבועים שלך">
 <meta name="theme-color" content="#23282E">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -138,6 +140,7 @@ table.works td{padding:8px;border-bottom:1px solid var(--line);vertical-align:to
 .notice{background:var(--amber-soft);border-radius:8px;padding:10px 12px;font-size:14px;color:var(--ink)}
 .toast{position:fixed;bottom:calc(16px + env(safe-area-inset-bottom,0px));left:50%;transform:translateX(-50%);background:var(--asphalt);color:#fff;padding:10px 16px;border-radius:8px;font-weight:600;z-index:20;max-width:calc(100% - 32px)}
 .empty{color:var(--muted);font-size:15px;padding:8px 0}
+.foot{border-top:1px solid var(--line);background:var(--surface)}.foot-inner{max-width:1040px;margin:0 auto;padding:18px 16px calc(28px + env(safe-area-inset-bottom,0px));font-size:13.5px;color:var(--muted)}.foot-inner p{margin:0 0 8px;max-width:75ch}
 pre.code{background:var(--surface-2);border-radius:8px;padding:12px;overflow-x:auto;font-family:var(--mono);font-size:12.5px;direction:ltr;text-align:left;margin:0}
 @media (prefers-reduced-motion:no-preference){.card{transition:border-color .15s}}
 </style>
@@ -160,6 +163,13 @@ pre.code{background:var(--surface-2);border-radius:8px;padding:12px;overflow-x:a
   <nav class="tabs" id="tabs" role="tablist"></nav>
 </div>
 <main id="app"></main>
+<footer class="foot">
+  <div class="foot-inner">
+    <p><b>עבודות בדרך היא אפליקציה פרטית ועצמאית.</b> היא לא שייכת לנתיבי ישראל, לנתיבי איילון, למשרד התחבורה, למשטרה או לשום גוף ממשלתי, ולא מייצגת אותם.</p>
+    <p>המידע נאסף אוטומטית מהודעות ומכתבות שפורסמו לציבור, ועלול להיות חלקי, מאוחר או לא מדויק. לפני הנסיעה כדאי לבדוק גם בוויז או בגוגל מפות ולציית תמיד לשילוט בדרך. השימוש באחריות המשתמש.</p>
+    <p><b>פרטיות:</b> המסלולים שלך נשמרים רק בטלפון שלך. אין הרשמה, אין מעקב ואין פרסומות, ושום מידע עליך לא נשלח אלינו.</p>
+  </div>
+</footer>
 <div class="toast" id="toast" hidden></div>
 
 <script>
@@ -172,7 +182,7 @@ const ROADS=[
   {n:"50",name:"שד׳ בגין, ירושלים"},{n:"65",name:"ואדי ערה"},{n:"70",name:"יגור–כברי"},{n:"431",name:"מודיעין–ראשל״צ"},
   {n:"443",name:"מודיעין–ירושלים"},{n:"471",name:"פ״ת–מודיעין"},{n:"481",name:"צומת גהה–אלעד"},{n:"531",name:"כפר סבא–הרצליה"},
   {n:"3",name:"אשקלון–לטרון"},{n:"22",name:"עוקף קריות"},{n:"25",name:"באר שבע–דימונה"},{n:"31",name:"להבים–ערד"},
-  {n:"38",name:"בית שמש"},{n:"57",name:"נתניה–טול כרם"},{n:"77",name:"קריית אתא–טבריה"},{n:"90",name:"הערבה / בקעה"}
+  {n:"38",name:"בית שמש"},{n:"57",name:"נתניה–טול כרם"},{n:"77",name:"קריית אתא–טבריה"},{n:"90",name:"הערבה / בקעה"},{n:"41",name:"אשדוד–גדרה"},{n:"60",name:"דרך האבות"},{n:"75",name:"חיפה–נצרת"},{n:"85",name:"עכו–כרמיאל"}
 ];
 /* Where the data comes from, in the order the agent's coverage grows: 1 intercity, 2 Gush Dan, 3 the rest of the country. */
 const SOURCE_INFO=[
@@ -181,7 +191,12 @@ const SOURCE_INFO=[
  {name:"נת״ע",url:"https://www.nta.co.il/",phase:2,area:"גוש דן",what:"עבודות לילה של הרכבת הקלה והמטרו"},
  {name:"עיריית תל אביב-יפו",url:"https://www.tel-aviv.gov.il/Residents/Transportation/Pages/ClosedRoads.aspx",phase:2,area:"תל אביב-יפו",what:"רחובות חסומים ותאריכי סיום"},
  {name:"עיריית ירושלים",url:"https://www.jerusalem.muni.il/he/newsandarticles/traffic/traffic-and-parking/",phase:3,area:"ירושלים",what:"הסדרי תנועה ועבודות תשתית"},
- {name:"רשויות ומועצות אחרות",url:"",phase:3,area:"כל הארץ",what:"נוספות אחת אחרי השנייה"}
+ {name:"כביש 6 – חוצה ישראל",url:"",phase:1,area:"כביש 6 לכל אורכו",what:"סגירות לילה של מקטעים ומחלפים"},
+ {name:"נתיבים מהירים",url:"",phase:1,area:"כביש 1, כניסה לגוש דן",what:"עבודות בנתיב המהיר ובחניון החנה וסע"},
+ {name:"משטרת ישראל",url:"",phase:1,area:"כל הארץ",what:"סגירת כבישים מתוכננת לאירועים: מרתונים, טקסים, חגים וביקורים"},
+ {name:"מוריה – הרכבת הקלה בירושלים",url:"",phase:3,area:"ירושלים",what:"חסימות בגלל עבודות הקו הכחול והקו הירוק"},
+ {name:"עיריות נוספות",url:"",phase:3,area:"חיפה, ראשון לציון, פתח תקווה, רמת גן, חולון, נתניה, באר שבע",what:"הודעות על הסדרי תנועה ועבודות תשתית"},
+ {name:"אתרי חדשות",url:"",phase:1,area:"כל הארץ",what:"כתבות שבועיות על חסימות: אייס, ישראל היום, ynet, וואלה, מעריב ואתרים מקומיים"}
 ];
 const PHASE={1:"שלב 1",2:"שלב 2",3:"שלב 3"};
 const ALTS={"1":["443"],"443":["1"],"2":["4","20"],"4":["2","20"],"20":["2","4"],"5":["481","471"],"6":["4","40"],
@@ -193,20 +208,6 @@ const CLOSURE={one:"נתיב אחד סגור",two:"שני נתיבים סגור�
 const SEV={full:"high",two:"mid",one:"mid",slow:"low"};
 const SEV_LABEL={high:"צפוי פקק כבד",mid:"עיכוב בינוני",low:"עיכוב קל"};
 const SOURCES=[...SOURCE_INFO.slice(0,5).map(s=>s.name),"משרד התחבורה","משטרת ישראל","עירייה אחרת","מקור ציבורי אחר"];
-/* The agent's extraction instructions: the same ones the nightly agent uses. */
-const AGENT_PROMPT=`אתה סוכן שמחלץ עבודות מתוכננות בכבישים מתוך הודעות של רשויות בישראל.
-תקבל טקסט (הודעה, דף אינטרנט או כתבה). מצא בו כל עבודה, סגירה או חסימה מתוכננת של כביש, נתיב, רמפה או מחלף.
-החזר JSON בלבד: {"works":[...]} כשכל פריט הוא:
-- road: מספר הכביש בספרות בלבד (למשל "20" לאיילון). אם אין מספר כביש (רחוב עירוני), החזר "" ושים את שם הרחוב ב-section.
-- section: הקטע, קצר וברור, למשל "מחלף השלום – מחלף ההלכה" או "רחוב אבן גבירול, בין ארלוזורוב לז׳בוטינסקי"
-- dir: אחד מ: "צפון","דרום","מזרח","מערב","שני הכיוונים"
-- startDate, endDate: YYYY-MM-DD. אם כתוב רק יום בשבוע או "הלילה", חשב לפי תאריך היום שיינתן לך.
-- fromTime, toTime: HH:MM. עבודת לילה מ-22:00 עד 05:00 נרשמת כך בדיוק (שעת סיום מוקדמת = למחרת).
-- allDay: true רק אם העבודה רציפה מסביב לשעון.
-- closure: "full" לסגירה מלאה, "two" לשני נתיבים, "one" לנתיב אחד או חסימת רמפה, "slow" להאטה או עבודות בשוליים.
-- detour: הדרך החלופית אם צוינה, אחרת "".
-- quote: המשפט המקורי מההודעה, עד 200 תווים.
-כללים: רק עבודות מתוכננות שעוד לא הסתיימו. בלי עומסים, בלי תאונות. אם פרט לא כתוב, השאר ריק ואל תנחש. אם אין עבודות, החזר {"works":[]}.`;
 const FREE_ROUTES=2;
 
 /* Fallback shown only when the shared database can't load in this view (e.g. offline preview). */
@@ -223,8 +224,7 @@ const EXAMPLE_ROUTES=[
  {id:"ex2",example:true,name:"ביקור אצל ההורים",origin:"תל אביב",destination:"ירושלים",roads:["1"],days:[5],dep:"09:00",dur:60,lead:"morning",freq:"weekly",channel:"push"}
 ];
 
-const S={tab:"routes",works:[],routes:[],plan:"free",uid:null,isAdmin:false,live:false,loading:true,editing:null,draft:null,trip:null,tripResult:null,confirmDel:null,importMsg:"",agent:{text:"",source:"נתיבי ישראל",link:"",busy:false,items:null,msg:""},agentMeta:null};
-let db=null,userCap=null,profileRef=null,saving=Promise.resolve();
+const S={tab:"routes",works:[],routes:[],plan:"free",uid:null,isAdmin:false,live:false,loading:true,editing:null,draft:null,trip:null,tripResult:null,confirmDel:null,importMsg:"",agentMeta:null};
 
 /* ---------- helpers ---------- */
 const $=(s,r=document)=>r.querySelector(s);
@@ -301,14 +301,22 @@ function saveProfile(){
 function loadProfile(){
   try{const d=JSON.parse(localStorage.getItem(LS_KEY)||"null");if(d){S.routes=(d.routes||[]).map(x=>({...x}));S.plan=d.plan||"free"}}catch(e){}
 }
+function safeWork(o){
+  if(!o||typeof o!=="object"||o.status==="pending")return null;
+  const [w]=cleanWork(o);if(!w)return null;
+  w.id=String(o.id||w.road+"-"+w.startDate).replace(/[^\w\-א-ת]/g,"").slice(0,80);
+  if(w.link&&!/^https:\/\/[^\s"'<>]+$/.test(w.link))delete w.link;
+  if(o.by==="agent")w.by="agent";
+  return w;
+}
 async function boot(){
   loadProfile();render();
   try{
     const r=await fetch("works.json?t="+Date.now(),{cache:"no-store"});
     const j=await r.json();
     const endOk=w=>w.endDate>=iso(today);
-    S.works=(j.works||[]).filter(w=>w.status!=="pending"&&endOk(w)).sort((a,b)=>a.startDate.localeCompare(b.startDate));
-    S.agentMeta=j.meta||null;S.live=true;
+    S.works=(Array.isArray(j.works)?j.works:[]).slice(0,2000).map(safeWork).filter(w=>w&&endOk(w)).sort((a,b)=>a.startDate.localeCompare(b.startDate));
+    const m=j.meta||{};S.agentMeta={lastRun:typeof m.lastRun==="string"?m.lastRun.slice(0,40):null,summary:String(m.summary||"").slice(0,200),ok:m.ok!==false};S.live=true;
   }catch(e){S.works=[];S.loadError=true}
   S.loading=false;render();
 }
@@ -319,7 +327,7 @@ if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(
 function render(){
   $("#who").innerHTML=
     
-    `<span class="pill ${isPlus()?"plus":"free"}">${isPlus()?"מנוי פלוס":"מנוי חינמי"}</span>`;
+    `<span class="pill demo">אפליקציה פרטית · לא רשמית</span><span class="pill ${isPlus()?"plus":"free"}">${isPlus()?"מנוי פלוס":"מנוי חינמי"}</span>`;
   const tabs=[["routes","המסלולים שלי"],["trip","בדיקת נסיעה"],["works","כל העבודות"],["sources","מקורות המידע"],["plans","מנוי"]];
   $("#tabs").innerHTML=tabs.map(([k,l])=>`<button role="tab" data-tab="${k}" aria-selected="${S.tab===k}">${l}</button>`).join("");
   const v={routes:viewRoutes,trip:viewTrip,works:viewWorks,sources:viewSources,plans:viewPlans}[S.tab]||viewRoutes;
@@ -389,8 +397,9 @@ function alertItem(c){
   </div>`;
 }
 
+function allRoads(){const seen=new Set(ROADS.map(r=>r.n));const extra=[...new Set(S.works.map(w=>w.road))].filter(n=>!seen.has(n)).sort((a,b)=>a-b).map(n=>({n,name:"כביש "+n}));return ROADS.concat(extra)}
 function chipRoads(sel,name){
-  return `<div class="chips">${ROADS.map(r=>{const i=sel.indexOf(r.n);return `<button type="button" class="chip" data-${name}="${r.n}" aria-pressed="${i>=0}">${i>=0?`<span class="ord">${i+1}</span>`:""}${r.n} · ${esc(r.name)}</button>`}).join("")}</div>`;
+  return `<div class="chips">${allRoads().map(r=>{const i=sel.indexOf(r.n);return `<button type="button" class="chip" data-${name}="${r.n}" aria-pressed="${i>=0}">${i>=0?`<span class="ord">${i+1}</span>`:""}${r.n} · ${esc(r.name)}</button>`}).join("")}</div>`;
 }
 function routeEditor(){
   const r=S.draft;const lockOpts=!isPlus();
@@ -456,12 +465,12 @@ function worksTable(adminMode,list){
   list=list||liveWorks();
   if(S.loading)return `<div class="empty">טוען…</div>`;
   if(!list.length)return `<div class="empty">כרגע אין במאגר עבודות מתוכננות לימים הקרובים. המאגר מתעדכן כל ערב.</div>`;
-  return `<div class="tablewrap"><table class="works"><thead><tr><th>כביש</th><th>קטע</th><th>תאריכים</th><th>שעות</th><th>סוג</th><th>מקור</th>${adminMode?"<th></th>":""}</tr></thead><tbody>
+  return `<div class="tablewrap"><table class="works"><thead><tr><th>כביש</th><th>קטע</th><th>תאריכים</th><th>שעות</th><th>סוג</th><th>מקור</th></tr></thead><tbody>
   ${list.map(w=>`<tr><td>${shield(w.road)}</td><td><b>${esc(w.section)}</b><div class="lock">כיוון ${esc(w.dir)}${w.detour?` · עוקף: ${esc(w.detour)}`:""}</div></td>
    <td class="num" style="white-space:nowrap">${esc(w.startDate.slice(5).split("-").reverse().join("."))}${w.endDate!==w.startDate?"–"+esc(w.endDate.slice(5).split("-").reverse().join(".")):""}</td>
    <td class="num" style="white-space:nowrap">${w.allDay?"24 ש׳":esc(w.fromTime)+"–"+esc(w.toTime)}</td>
    <td><span class="sev ${SEV[w.closure]}">${esc(CLOSURE[w.closure])}</span></td><td>${w.link?`<a href="${esc(w.link)}" target="_blank" rel="noopener">${esc(w.source)} ↗</a>`:esc(w.source)}${w.by==="agent"?`<div class="lock">נוסף ע״י הסוכן</div>`:""}</td>
-   ${adminMode?`<td style="white-space:nowrap">${w.status==="pending"?`<button class="btn small amber" data-act="approve" data-id="${w.id}">אשר</button> `:""}${S.confirmDel===w.id?`<button class="btn small danger" data-act="delwork-yes" data-id="${w.id}">לאשר מחיקה</button> <button class="btn small ghost" data-act="delwork-no">ביטול</button>`:`<button class="btn small ghost danger" data-act="delwork" data-id="${w.id}">מחק</button>`}</td>`:""}</tr>`).join("")}
+</tr>`).join("")}
   </tbody></table></div>`;
 }
 function viewWorks(){
@@ -517,76 +526,12 @@ function viewPlans(){
   <p class="lock" style="margin-top:12px">בתקופת ההשקה כל האפשרויות פתוחות בחינם. התשלום יתחיל רק כשהאפליקציה תעלה לחנויות.</p>`;
 }
 
-function agentCard(){
-  const a=S.agent;
-  const items=a.items?`<div class="stack" style="margin-top:12px">
-     ${a.items.length?a.items.map((it,i)=>{const [w,err]=it;return `<label class="card" style="display:flex;gap:10px;align-items:flex-start;padding:10px">
-       <input type="checkbox" data-pick="${i}" ${w&&!it[2]?"checked":""} ${w?"":"disabled"} style="margin-top:5px">
-       <div style="min-width:0">${w?`<div class="row">${shield(w.road)}<b>${esc(w.section)}</b><span class="sev ${SEV[w.closure]}">${esc(CLOSURE[w.closure])}</span></div>
-        <div class="lock num">${esc(w.startDate)}${w.endDate!==w.startDate?" עד "+esc(w.endDate):""} · ${w.allDay?"כל היום":esc(w.fromTime)+"–"+esc(w.toTime)} · ${esc(w.dir)}${w.detour?" · עוקף: "+esc(w.detour):""}</div>
-        ${it[2]?`<div class="lock">כבר קיימת במאגר</div>`:""}`:`<div class="lock">לא נוסף: ${esc(err)}</div>`}
-        ${it[3]?`<div class="lock" style="margin-top:4px">„${esc(it[3])}״</div>`:""}</div></label>`}).join("")
-      :`<div class="empty">לא נמצאו עבודות מתוכננות בטקסט.</div>`}
-     ${a.items.some(it=>it[0])?`<div class="row"><button class="btn primary" data-act="agent-add">הוסף את המסומנות למאגר</button></div>`:""}
-   </div>`:"";
-  return `<div class="card stack" style="margin-bottom:8px">
-    <div class="eyebrow">הסוכן</div>
-    <h3>הדבק הודעה, הסוכן יסדר אותה</h3>
-    <p class="lock" style="margin:0">מעתיקים הודעה מאתר נתיבי ישראל, נתיבי איילון, עירייה או כתבה, והסוכן מחלץ ממנה את העבודות. בודקים ומוסיפים.</p>
-    <div class="fields" style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px">
-     <label class="f">מקור<select id="a-source">${SOURCES.map(x=>`<option ${x===a.source?"selected":""}>${esc(x)}</option>`).join("")}</select></label>
-     <label class="f">קישור להודעה <span class="hint">לא חובה</span><input type="text" id="a-link" dir="ltr" value="${esc(a.link)}" placeholder="https://"></label>
-    </div>
-    <textarea id="a-text" rows="6" style="font-family:var(--body);font-size:15px;direction:rtl;text-align:right" placeholder="למשל: כביש 4 סמוך למחלף אשדוד לצפון, חסימת נתיב ימין בין השעות 23:00-05:00 מ-07.10 ועד 08.10">${esc(a.text)}</textarea>
-    <div class="row"><button class="btn amber" data-act="agent-run" ${a.busy?"disabled":""}>${a.busy?"הסוכן קורא…":"חלץ עבודות"}</button><span class="lock">${esc(a.msg)}</span></div>
-    ${items}
-  </div>`;
-}
 function workKey(w){return [w.road,w.startDate,(w.section||"").replace(/\s+/g,"")].join("|")}
-
-function viewAdmin(){
-  if(S.live&&!S.isAdmin)return `<div class="card">רק מנהלי נתונים יכולים להזין עבודות.</div>`;
-  const sample=JSON.stringify([{road:"2",section:"מחלף גלילות – מחלף הסירה",dir:"צפון",startDate:plus(3),endDate:plus(4),fromTime:"22:00",toTime:"05:00",allDay:false,closure:"two",source:"נתיבי ישראל",detour:"כביש 4"}],null,2);
-  return `<h2>ממשק מנהל</h2><p class="sub">כאן מזינים עבודות כביש. בהתחלה אתה מזין ממקורות ציבוריים; בהמשך כל משרד תחבורה או עירייה יקבלו גישה ויזינו בעצמם. כל עבודה שנשמרת נבדקת מיד מול המסלולים של כל המשתמשים.</p>
-  ${S.live?"":`<div class="notice" style="margin-bottom:14px">מצב הדגמה: השינויים כאן לא נשמרים.</div>`}
-  ${agentCard()}
-  ${pendingWorks().length?`<h3 style="margin:22px 0 10px">ממתינות לאישור (${pendingWorks().length})</h3><div class="card">${worksTable(true,pendingWorks())}</div>`:""}
-  <h3 style="margin:22px 0 10px">הזנה ידנית</h3>
-  <div class="grid2">
-   <form class="card" id="workForm">
-    <h3 style="margin-bottom:12px">עבודה חדשה</h3>
-    <div class="fields">
-     <label class="f">כביש<input type="text" id="w-road" inputmode="numeric" list="roadlist" required placeholder="מספר כביש, למשל 20"><datalist id="roadlist">${ROADS.map(r=>`<option value="${r.n}">${esc(r.name)}</option>`).join("")}</datalist></label>
-     <label class="f">כיוון<select id="w-dir"><option>שני הכיוונים</option><option>צפון</option><option>דרום</option><option>מזרח</option><option>מערב</option></select></label>
-     <label class="f full">קטע<input type="text" id="w-section" required placeholder="למשל: מחלף שורק – מחלף חמד"></label>
-     <label class="f">מתאריך<input type="date" id="w-start" required value="${plus(1)}"></label>
-     <label class="f">עד תאריך<input type="date" id="w-end" required value="${plus(1)}"></label>
-     <label class="f">משעה<input type="time" id="w-from" value="22:00"></label>
-     <label class="f">עד שעה <span class="hint">שעה מוקדמת = עד למחרת</span><input type="time" id="w-to" value="05:00"></label>
-     <label class="f full" style="flex-direction:row;align-items:center;gap:8px;font-weight:400"><input type="checkbox" id="w-allday"> עבודה רציפה, מסביב לשעון</label>
-     <label class="f">סוג סגירה<select id="w-closure">${Object.entries(CLOSURE).map(([k,l])=>`<option value="${k}">${l}</option>`).join("")}</select></label>
-     <label class="f">מקור<select id="w-source">${SOURCES.map(s=>`<option>${s}</option>`).join("")}</select></label>
-     <label class="f full">דרך עוקפת מומלצת <span class="hint">לא חובה</span><input type="text" id="w-detour" placeholder="למשל: כביש 443"></label>
-    </div>
-    <div class="row" style="margin-top:14px"><button class="btn primary" type="submit">פרסם עבודה</button></div>
-    <p class="lock" id="workErr" style="margin:8px 0 0"></p>
-   </form>
-   <div class="card stack">
-    <div class="eyebrow">הזנה מרוכזת</div>
-    <h3>ייבוא JSON</h3>
-    <p class="lock" style="margin:0">זה הפורמט שמשרד תחבורה או עירייה ישלחו אליו נתונים. הדבק מערך של עבודות ולחץ ייבוא.</p>
-    <textarea id="w-json" rows="10" spellcheck="false">${esc(sample)}</textarea>
-    <div class="row"><button class="btn" data-act="import">ייבוא</button><span class="lock" id="importMsg">${esc(S.importMsg)}</span></div>
-   </div>
-  </div>
-  <h3 style="margin:22px 0 10px">עבודות מאושרות במאגר (${liveWorks().length})</h3>
-  <div class="card">${worksTable(true)}</div>`;
-}
 
 /* ---------- validation ---------- */
 function cleanWork(o){
   const t=/^\d{2}:\d{2}$/,d=/^\d{4}-\d{2}-\d{2}$/;
-  const w={road:String(o.road||""),section:String(o.section||"").trim().slice(0,120),dir:String(o.dir||"שני הכיוונים").slice(0,30),
+  const w={road:String(o.road||""),section:String(o.section||"").trim().slice(0,120),dir:["צפון","דרום","מזרח","מערב","שני הכיוונים"].includes(o.dir)?o.dir:"שני הכיוונים",
     startDate:String(o.startDate||""),endDate:String(o.endDate||o.startDate||""),allDay:!!o.allDay,
     fromTime:String(o.fromTime||"00:00"),toTime:String(o.toTime||"00:00"),closure:CLOSURE[o.closure]?o.closure:"one",
     source:String(o.source||"מקור ציבורי אחר").slice(0,40),detour:String(o.detour||"").slice(0,80),createdAt:new Date().toISOString()};
@@ -618,56 +563,6 @@ document.addEventListener("click",async e=>{
   if(act==="delroute"){S.routes=S.routes.filter(x=>x.id!==S.draft.id);S.editing=null;S.draft=null;saveProfile();render();toast("המסלול נמחק")}
   if(act==="plan-plus"){S.plan="plus";saveProfile();render();toast("פלוס הופעל, חינם בתקופת ההשקה")}
   if(act==="plan-free"){S.plan="free";S.routes.forEach(r=>{r.lead="day";r.freq="daily";r.channel="push"});saveProfile();render();toast("עברת למנוי החינמי")}
-  if(act==="delwork"){S.confirmDel=b.dataset.id;render()}
-  if(act==="delwork-no"){S.confirmDel=null;render()}
-  if(act==="delwork-yes"){
-    const id=b.dataset.id;S.confirmDel=null;
-    if(!S.live){S.works=S.works.filter(w=>w.id!==id);render();return}
-    try{await db.doc("works/"+id).delete();toast("העבודה נמחקה")}catch(err){toast("המחיקה נכשלה")}
-  }
-  if(act==="approve"){
-    const id=b.dataset.id;
-    if(!S.live){const w=S.works.find(x=>x.id===id);if(w)w.status="approved";render();return}
-    try{await db.doc("works/"+id).update({status:"approved"});toast("אושר ונבדק מול המסלולים")}catch(err){toast("האישור נכשל")}
-  }
-  if(act==="agent-run"){
-    const a=S.agent;a.text=$("#a-text").value.trim();a.source=$("#a-source").value;a.link=$("#a-link").value.trim();
-    if(a.text.length<15){a.msg="הדבק קודם את ההודעה.";render();return}
-    const sample=window.claude&&claude.use?await claude.use("sample"):null;
-    if(!sample){a.msg="הסוכן לא זמין בתצוגה הזו.";render();return}
-    a.busy=true;a.msg="";a.items=null;render();
-    try{
-      const out=await sample.json(`${AGENT_PROMPT}\n\nתאריך היום: ${iso(new Date())}.\nמקור ההודעה: ${a.source}.\n\nהטקסט:\n"""\n${a.text.slice(0,12000)}\n"""`,{modelTier:"default"});
-      const arr=Array.isArray(out)?out:(out&&Array.isArray(out.works)?out.works:[]);
-      const keys=new Set(S.works.map(workKey));
-      a.items=arr.slice(0,40).map(o=>{const [w,err]=cleanWork({...o,source:a.source,link:a.link});return [w,err,w?keys.has(workKey(w)):false,String(o&&o.quote||"").slice(0,200)]});
-      a.msg=a.items.length?`נמצאו ${a.items.length}`:"";
-    }catch(err){
-      a.msg=err&&err.code==="not_granted"?"לא ניתנה הרשאה לסוכן.":err&&err.code==="rate_limited"?"יותר מדי בקשות, נסה בעוד דקה.":"הסוכן לא הצליח לקרוא את הטקסט, נסה שוב.";
-    }
-    a.busy=false;render();
-  }
-  if(act==="agent-add"){
-    const a=S.agent;const picks=[...document.querySelectorAll("[data-pick]:checked")].map(x=>+x.dataset.pick);
-    let ok=0;
-    for(const i of picks){const w=a.items[i]&&a.items[i][0];if(!w)continue;w.status="approved";w.by="admin-agent";
-      if(!S.live){S.works.push({id:"loc"+Date.now()+i,...w});ok++;continue}
-      try{await db.collection("works").add(w);ok++}catch(er){}}
-    if(!S.live)S.works.sort((x,y)=>x.startDate.localeCompare(y.startDate));
-    S.agent={text:"",source:a.source,link:"",busy:false,items:null,msg:ok?`נוספו ${ok} עבודות למאגר`:"לא נוספו עבודות"};render();
-  }
-  if(act==="import"){
-    let arr;try{arr=JSON.parse($("#w-json").value)}catch(err){S.importMsg="ה-JSON לא תקין";render();return}
-    if(!Array.isArray(arr))arr=[arr];
-    let ok=0,bad=[];
-    for(const [i,o] of arr.entries()){
-      const [w,err]=cleanWork(o);if(!w){bad.push(`#${i+1}: ${err}`);continue}
-      if(!S.live){S.works.push({id:"loc"+Date.now()+i,...w});ok++;continue}
-      try{await db.collection("works").add(w);ok++}catch(er){bad.push(`#${i+1}: השמירה נכשלה`)}
-    }
-    S.importMsg=`יובאו ${ok}`+(bad.length?` · נדחו: ${bad.join(", ")}`:"");
-    render();
-  }
 });
 function syncDraft(){
   if(!S.draft||!$("#routeForm"))return;
@@ -678,7 +573,6 @@ function syncTrip(){
   if(!$("#tripForm"))return;const t=S.trip;
   t.origin=$("#t-origin").value;t.destination=$("#t-dest").value;t.date=$("#t-date").value;t.dep=$("#t-dep").value;t.dur=+$("#t-dur").value||45;
 }
-document.addEventListener("input",e=>{if(e.target.id==="a-text")S.agent.text=e.target.value;if(e.target.id==="a-link")S.agent.link=e.target.value;if(e.target.id==="a-source")S.agent.source=e.target.value});
 document.addEventListener("submit",async e=>{
   e.preventDefault();
   if(e.target.id==="routeForm"){
@@ -696,13 +590,7 @@ document.addEventListener("submit",async e=>{
     const start=at(t.date,t.dep),end=new Date(start.getTime()+t.dur*60000);
     S.tripResult={hits:tripConflicts(t.roads,start,end),start};render();
   }
-  if(e.target.id==="workForm"){
-    const [w,err]=cleanWork({road:$("#w-road").value,section:$("#w-section").value,dir:$("#w-dir").value,startDate:$("#w-start").value,endDate:$("#w-end").value,
-      fromTime:$("#w-from").value,toTime:$("#w-to").value,allDay:$("#w-allday").checked,closure:$("#w-closure").value,source:$("#w-source").value,detour:$("#w-detour").value});
-    if(!w){$("#workErr").textContent=err;return}
-    if(!S.live){S.works.push({id:"loc"+Date.now(),...w});S.works.sort((a,b)=>a.startDate.localeCompare(b.startDate));render();toast("נוספה (הדגמה)");return}
-    try{await db.collection("works").add(w);toast("העבודה פורסמה ונבדקת מול המסלולים")}catch(er){$("#workErr").textContent=er&&er.code==="invalid_argument"?"אין לך הרשאת מנהל להזין עבודות.":"הפרסום נכשל, נסה שוב."}
-  }
+
 });
 })();
 </script>
