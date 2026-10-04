@@ -802,12 +802,22 @@
    "found": "2026-10-04T13:55:50Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692806990367640852.txt"
+  },
+  {
+   "id": "7692814313723006228",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692814313723006228",
+   "caption": "העיתון האיטלקי “קוריירה דלה סרה”: הטייס העומאני תכנן לרצוח את הקברניט...",
+   "posted": "1791122915",
+   "found": "2026-10-04T14:25:37Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-04T14:09:59Z",
+  "at": "2026-10-04T14:25:54Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
