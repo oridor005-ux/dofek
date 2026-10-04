@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T13:50:00.728Z",
+ "updated": "2026-10-04T14:01:23.908Z",
  "items": [
+  {
+   "id": "21f0af349a9f",
+   "kind": "headline",
+   "title": "קטטה, סכין ו\"מבצע ישראלי\": הפייקים סביב טיסת פליי דובאי",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558350#utm_source=RSS",
+   "topic": "media",
+   "published": "2026-10-04T13:55:00.000Z",
+   "summary": "האירוע החריג באוויר הפך במהירות לזירת דיסאינפורמציה, שכמובן הופנתה גם נגד ישראל • אלה הטענות שהופצו - והתנפצו במבחן העובדות • המשרוקית של גלובס",
+   "image": "https://res.cloudinary.com/globes/image/upload/c_auto,g_north,h_390,w_800/l_COT_Pic:hamashrokit-sagol_b5hjlt/c_scale,fl_relative,h_0.42,w_0.28/fl_layer_apply,fl_no_overflow,g_north,x_266,y_11/v1790771672/Untitled-1_g1bbly.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "16857917fbca",
    "kind": "headline",
@@ -5841,20 +5855,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2KD66FNFKJFPTLSZ3GZAFLPDYE.jpg"
-  },
-  {
-   "id": "0d9fc7e87336",
-   "kind": "headline",
-   "title": "עשתה היסטוריה: החברה הראשונה שהגיעה לשווי טריליון שקל בבורסה בתל-אביב",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bk7ai5i5gg",
-   "topic": "econ",
-   "published": "2026-10-01T12:02:28.000Z",
-   "summary": "מניית פאלו אלטו הגיעה לשיא כל הזמנים בבורסת ת\"א, כשזינקה היום ב-5.4%. וגם: אל על וישראייר ממשיכות \"ליהנות\" מהשפעת טיסת האימה של פליי דובאי",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/19/H12QOyY11el/H12QOyY11el_0_0_1000_563_0_medium.jpg"
   }
  ]
 }
