@@ -833,12 +833,22 @@
    "found": "2026-10-04T15:11:12Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692829481781775622.txt"
+  },
+  {
+   "id": "7692837418776513800",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7692837418776513800",
+   "caption": "",
+   "posted": "1791128296",
+   "found": "2026-10-04T15:41:05Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-04T15:25:46Z",
+  "at": "2026-10-04T15:41:10Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
