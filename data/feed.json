@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T12:40:08.679Z",
+ "updated": "2026-10-04T12:51:32.626Z",
  "items": [
+  {
+   "id": "d40f76be3580",
+   "kind": "headline",
+   "title": "בכיר נוסף עוזב את OpenAI ומזהיר: ״הזמן לניסוי וטעייה נגמר״",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558345#utm_source=RSS",
+   "topic": "world",
+   "published": "2026-10-04T12:41:00.000Z",
+   "summary": "דיוויד רובינסון, שהוביל את תחום השקיפות בצוות הבטיחות של OpenAI, הודיע על התפטרותו ומזהיר גם הוא כי חברות הבינה המלאכותית אינן נוקטות את אמצעי הזהירות הנדרשים • במקביל, הבית הלבן מקים כוח משימה מיוחד שיבחן בתוך 120 יום את הסיכונים הכרוכים בטכנולוגיה, לצד השאיפה לשמור על ההובלה האמריקאית בתחום",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784201811/shutterstock_2515703279_ncajkz.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "f213d7e05a16",
    "kind": "headline",
@@ -5831,20 +5845,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/04/20/BJxlKNnRMn/BJxlKNnRMn_0_0_1000_563_0_medium.jpg"
-  },
-  {
-   "id": "76031102ae92",
-   "kind": "headline",
-   "title": "ג'וב נחשק: הישראלי שמונה לאחד התפקידים הבכירים ביותר בהוליווד",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/ryszplicme",
-   "topic": "deals",
-   "published": "2026-10-01T04:15:20.000Z",
-   "summary": "ינון קרייז, שניהל בשמונה השנים האחרונות את מאטל, מונה למנכ\"ל משותף של פרמאונט-וורנר ברדרס. המינוי הוכרז דקות אחרי ששופטת פדרלית אישרה את ההסדר בדרך למיזוג בשווי 110 מיליארד דולר. בראיון ל-ynet אמר בעבר: \"המצב בישראל עולה",
-   "score": 2,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/07/05/rJUj0sXQt2/rJUj0sXQt2_309_56_711_400_0_medium.jpg"
   }
  ]
 }
