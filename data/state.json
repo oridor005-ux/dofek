@@ -43,10 +43,11 @@
   "6b77b1243f74",
   "ins-2026-10-04-hg7c",
   "ins-2026-10-04-g8d2",
-  "ins-2026-10-04-b3g5"
+  "ins-2026-10-04-b3g5",
+  "d407d7609b71"
  ],
  "pending": [],
- "lastRun": "2026-10-04T18:41:29.421Z",
+ "lastRun": "2026-10-04T18:41:45.001Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -59,27 +60,23 @@
  },
  "health": {
   "sources": {
-   "ok": 11,
-   "fail": 57,
+   "ok": 66,
+   "fail": 2,
    "light": false,
    "direct": 13,
    "directFail": 2,
    "google": 55,
-   "googleFail": 55,
+   "googleFail": 0,
    "errors": {
     "direct": {
      "HTTP 403": 2
-    },
-    "google": {
-     "HTTP 503": 1,
-     "skipped (google blocked)": 54
     }
    },
-   "at": "2026-10-04T18:07:32.867Z"
+   "at": "2026-10-04T18:41:45.001Z"
   },
-  "lastNewItemAt": "2026-10-04T18:41:29.421Z",
-  "lastPushOkAt": "2026-10-04T18:19:01.460Z",
-  "googleOkAt": "2026-10-04T17:32:29.558Z"
+  "lastNewItemAt": "2026-10-04T18:41:45.001Z",
+  "lastPushOkAt": "2026-10-04T18:41:45.001Z",
+  "googleOkAt": "2026-10-04T18:41:45.001Z"
  },
- "lastFullAt": "2026-10-04T18:07:32.867Z"
+ "lastFullAt": "2026-10-04T18:41:45.001Z"
 }
