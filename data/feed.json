@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T13:26:29.542Z",
+ "updated": "2026-10-04T13:38:40.737Z",
  "items": [
   {
    "id": "e023c1c66938",
@@ -25,6 +25,20 @@
    "published": "2026-10-04T13:00:00.000Z",
    "summary": "Oakberry הברזילאית פותחת שני סניפים חדשים בתל אביב: בקניון TLV, ובחוף בוגרשוב בניהולה של יוליה פלוטקין. כמה תעלה קערת אסאי ומה יהיו הלוקיישנים הבאים?",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HkmVVYJjGl/HkmVVYJjGl_0_0_1600_901_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0b6815b3802a",
+   "kind": "headline",
+   "title": "Parliament Session Tomorrow at 09:00, Special Court Law to be Addressed in First Reading",
+   "source": "nacionale.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDJ4WGJFVFc3eEJMZlZ6ZU1pV05WckVDdFk5TmRLamw3R3NmNFpFT1Y2eWR4ZFJ4SDkwR25tUXBKbXBibm52X210aTNyTE1HMlVqdVkycUU5UGdOZ0lqeGFLbjhURmpkM3NSQUJJTDJJeEtmMzdSWTdzMXhVb0ZQLUhDWGZUOXV3NjdnYkdlLU41UW5hWEQwS2R5bGp1UQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T12:47:54.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -252,7 +266,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "israelhayom.co.il"
+   ],
    "important": false
   },
   {
@@ -603,7 +619,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "calcalist.co.il"
+   ],
    "important": false
   },
   {
@@ -750,7 +768,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "calcalist"
+    "calcalist",
+    "calcalist.co.il"
    ],
    "important": false
   },
@@ -1392,7 +1411,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "lemonde.fr"
+   ],
    "important": false
   },
   {
@@ -5834,20 +5855,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/bdeb330509314146992a54b8039fdda6347566d4/644_0_6409_5131/master/6409.jpg?width=140&quality=85&auto=format&fit=max&s=81fdac0edadfbdf5294ca0cb4c369176"
-  },
-  {
-   "id": "b281801ac416",
-   "kind": "headline",
-   "title": "From Robert Kraft to Netanyahu, Israel’s supporters keep helping its critics | Peter Beinart",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/01/robert-kraft-netanyahu-israel-supporters",
-   "topic": "israelAbroad",
-   "published": "2026-10-01T12:00:51.000Z",
-   "summary": "<p>These men’s actions aren’t just morally loathsome; they’re politically stupid. Social science may explain the phenomenon</p><p>Israel’s supporters keep proving its detractors right. Over the last couple of years, Amer",
-   "score": 2,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/bf568a300521e3ebb7d9f329f99ba341a9d74768/580_0_3829_3064/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=f2d05a41a13c2bba8893b8443f75392e"
   }
  ]
 }
