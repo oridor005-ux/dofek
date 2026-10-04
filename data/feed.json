@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T03:18:53.563Z",
+ "updated": "2026-10-04T03:31:04.685Z",
  "items": [
   {
    "id": "cfa072bf90d6",
@@ -95,6 +95,20 @@
    "published": "2026-10-04T02:10:24.000Z",
    "summary": "The president defended the complexes, which have become a liability for Senator Jon Husted in a challenging midterm race.",
    "image": "https://static01.nyt.com/images/2026/10/03/us/03pol-trump-husted-data-centers/03pol-trump-husted-data-centers-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "55a0641d961d",
+   "kind": "headline",
+   "title": "Jan Vishwas Bill 2026 aims to simplify rules to make life easier",
+   "source": "News On AIR",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXYyNnhYQXlpYXJhdl93MHZqNTlZWFI4MmVGZTV3cGV6MG54UnlTaUNaNGNXc004bnlFNEJYNjFJNjZXeHpxajAwdHNfVEtEZ21VR056NlBpZFhHOGNzU1pnNFQyU2pUR3BGUkQ1WmpHSHoxbGQzNF9zYkhHVVFXOTN6S2FFSTZOREotaElmcGVjZGFq?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T01:45:15.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1281,7 +1295,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "kathmandupost.com"
+   ],
    "important": false
   },
   {
