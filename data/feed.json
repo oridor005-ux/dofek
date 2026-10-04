@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-04T07:00:44.692Z",
+ "updated": "2026-10-04T07:13:04.110Z",
  "items": [
+  {
+   "id": "eaf8bc8558cc",
+   "kind": "headline",
+   "title": "ספורה זרקה אותו והמנכ\"לית נטשה: כך קרס המותג המבטיח של סקהרלט ג'והנסון",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/s1yjzdksgg",
+   "topic": "econ",
+   "published": "2026-10-04T07:09:44.000Z",
+   "summary": "לאחר ארבע שנים בלבד, מותג טיפוח העור The Outset של הכוכבת ההוליוודית הרים ידיים אחרי שעשה כל טעות אפשרית. עם הון של 165 מיליון דולר בחשבון, ג'והנסון לא תיקלע למשבר כלכלי, אבל היא מספקת הוכחה לכך שלצרכנים של שנת 2026 פשוט נמאס ממותגי סלבס",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/03/S1vczXU111l/S1vczXU111l_687_123_2009_1131_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2b201874632b",
+   "kind": "headline",
+   "title": "האוצר ממשיך להנפיק בלי הפסקה, אבל השוק מתכונן לצונאמי של מזומנים",
+   "source": "ספונסר",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OUFlzdVRIMU0tUk1OTnlSa29jQkxScVA4NFV2S0VlSzJEMV9qbUdfUUZoREtGS21QdzVFVUFRcHFTOXNtQktSN3BMR0NybnpJcXpHMWRFQWJWem55am9Vbi1PSmcyZw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T06:55:17.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bc83779c3926",
+   "kind": "headline",
+   "title": "“They condemn Israel publicly while quietly acquiring our air defense systems”",
+   "source": "calcalistech.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jRjhTR3cwNGVrNDIzbFlFd1JablluOVVqQkJXV1A2RkRCWHNDYnhwRXZOa0owQXA3a3N6d0V1aWZuLWZkcDBJU1pmZ2NJWDUwVmlCeDdydFRKUERUT0UxRS1SQ0VRQlk?oc=5",
+   "topic": "defense",
+   "published": "2026-10-04T06:44:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "89d34e95f5f0",
    "kind": "headline",
@@ -26,7 +68,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Українські Національні Новини (УНН)"
+   ],
    "important": false
   },
   {
@@ -82,7 +126,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Kuwait Times"
+   ],
    "important": false
   },
   {
@@ -201,7 +247,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Times of Israel"
+   ],
    "important": false
   },
   {
