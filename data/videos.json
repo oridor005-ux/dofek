@@ -812,12 +812,22 @@
    "posted": "1791122915",
    "found": "2026-10-04T14:25:37Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7692824530410032405",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692824530410032405",
+   "caption": "גדי איזנקוט (יו״ר מפלגת ישר!) באזהרה חריפה בריאיון לכאן ב׳: ״בן גביר ...",
+   "posted": "1791125294",
+   "found": "2026-10-04T14:55:22Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-04T14:40:22Z",
+  "at": "2026-10-04T14:55:38Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
