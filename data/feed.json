@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T17:44:29.025Z",
+ "updated": "2026-10-04T17:55:53.570Z",
  "items": [
+  {
+   "id": "fbc2eb544ff7",
+   "kind": "headline",
+   "title": "How Kansas Suddenly Became a Battleground State for Senate Control",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
+   "topic": "world",
+   "published": "2026-10-04T17:53:18.000Z",
+   "summary": "The state hasn’t elected a Democrat to the Senate in nearly a century. Economic challenges during President Trump’s second term, as well as other factors, have put it in play.",
+   "image": "https://static01.nyt.com/images/2026/10/04/us/04pol-kansas-senate1/04pol-kansas-senate1-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b5dd9a7ce2b8",
    "kind": "headline",
@@ -5863,20 +5877,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "6c005ee0c795",
-   "kind": "headline",
-   "title": "החל מ-400 אלף שקל: הרכב שיכול לשמש גם כתחליף לימוזינה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558239#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-02T04:00:00.000Z",
-   "summary": "מאחורי העיצוב החללי והממדים יוצאי הדופן של ספינת הדגל של XPENG מסתתר מוביל&ndash;משפחות רב&ndash;תכליתי, עם טכנולוגיה מרשימה ואבזור יוצא דופן, שיכול גם לשמש כתחליף לימוזינה לאח\"מים &#8226; המחיר גבוה אך עדיין אטרקטיבי בי",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790855246/be5aa598-b6bb-4d56-afa5-ff41d7b2f7d7_omfd9y.png"
   }
  ]
 }
