@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T16:22:01.165Z",
+ "updated": "2026-10-04T16:34:17.571Z",
  "items": [
   {
    "id": "98af30cdc4b1",
@@ -25,6 +25,34 @@
    "published": "2026-10-04T16:07:34.000Z",
    "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6e7e6115f8ba",
+   "kind": "headline",
+   "title": "Latvia's pro-Ukraine party wins parliamentary election by wide margin",
+   "source": "The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDM2OXVVc0dPcnBRb3EtM3hSSE1SN1pBbHVhMVJWZ0NRYjdpSDFOWThxUW1ZMXpQWWlrSnl1WHhUdkZ3VUZSMkhCTFhRanAyVTRaZDQwX0tfSVNqUmlVb2FTSVp3cnMtcmhWU3RIdy1NdHdLZjB1VHlUWFRiSVBYSWZaUXJVUUZoSnFsVXN3S3RfYjU3QW1SOUF5Q0t1Zw?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T15:57:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5f65e6046c90",
+   "kind": "headline",
+   "title": "Wipro stock completes Alpha Net contract acquisition",
+   "source": "AD HOC NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWp4S3JVTm5Rd1pDelhuNHdUM2NrSnNZekY5Ym9ySWpBRDdJcG82LTdaRDhERW5iVEsxZWJFOUNWRmlQcVZiMV9jZHpLZ1BxSWw2MjYyZjNJRVVLT01QVGh1elNrLVRiMFNPbEs1bTVZSGY0VmFScUhOXzUzeGVDaTlOc2VSSWZDdWVYUXpSMktMY0NpbGhiWk80cE1sU21aTnoyTmxWR19wRzc5SWxOeWp0SWRMUQ?oc=5",
+   "topic": "deals",
+   "published": "2026-10-04T15:47:07.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -97,9 +125,24 @@
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_165_3000_1689_0_medium.jpg",
    "score": 2,
    "alsoIn": [
-    "ynet כלכלה"
+    "ynet כלכלה",
+    "YNET"
    ],
    "important": true
+  },
+  {
+   "id": "8f728aebf49f",
+   "kind": "headline",
+   "title": "Appointing the Election Commission: An Expert Explains why perception matters",
+   "source": "The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVdyRXpwWEtQVjRIc3hpVUxkdjNHWV9xOUNMOEFPeUFrYllmc3NYTF9iWGd3VTh2ZGN4aFJmTEF1YnhnUW95aC0wNzJvT2c5WlQ0bEJwWEdPODN4eDByb0RMWG9iM2tKM2pOZlV1QmtXODNTZXZxaTJZaWxCdG5jTjFucVJkbUNMaWV4TmZMbXNRZk1IOTNVQUdfV1NTSEIzWTV1Tkw5MUU5ZVXSAbIBQVVfeXFMUDQxVGF5VnJIZk53SzlwaWNRem1aX3dRaUthWFVjRkh3ME5GamJCZWxNUHpNNmZxb0NpM1lVTElJM3pPSnM0dTBoVnJqNUo2ZlZKU1NIdWJjX3NWT3A1RTRkTnpuczh2VFhCR1VhNkZHZ2lGMm1zcnVOSExOcnVBLUVKak81RTNjNzhKN19rVGlhNjhaMy16ZXZBZXV2MV9sQzZlTzhoQ3FPcFJUMkFtX2pLQQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T15:15:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "c92a323cc072",
@@ -339,7 +382,8 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1718712142/direct/20240601_124336_tvcp7b.jpg",
    "score": 0,
    "alsoIn": [
-    "calcalist.co.il"
+    "calcalist.co.il",
+    "calcalist"
    ],
    "important": false
   },
@@ -457,6 +501,20 @@
    "alsoIn": [
     "economictimes.com"
    ],
+   "important": false
+  },
+  {
+   "id": "d3267b1f5a05",
+   "kind": "headline",
+   "title": "Parliament passes financial reform bills",
+   "source": "FBC News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83UHFrYjdHaFJYS3VKbGpuSUpzdldZeXRaZFctdm9GWlRaRi0xY0lyeDNwbE1HU1RQSDRhT0dNdWZxemtrRHBrOWdIYVM2UFJKSmptZ0c3d3ltZ1JRajlvSVNZdVBWQU1TbUloT1oxWWFpS2tRcmItZDFBX2d1QQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T11:55:18.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1566,7 +1624,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "kan.org.il"
+   ],
    "important": false
   },
   {
@@ -5811,61 +5871,6 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWRvd0VzUzlJSkxkdEQ2Q3BWYmpEYzB4WFFuNmRoRU16TVNUMmVvMFRISThmWmZGZkZKQm9OcXFLV0pMVEI3d19GOUFrbDBJOXZEVmNkcXp4LXdxbUprWTBweVZhUEU0enphVzFTY1NIQ1REeVFOV2NIU0haTTdIZER5VVFlVmNack1LQWc3OVQ3em1wMmc?oc=5",
    "topic": "defense",
    "published": "2026-10-02T02:51:00.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0e135bbb2982",
-   "kind": "headline",
-   "title": "Senate Democrats block GOP bills on insider trading ban, national voter ID ahead of midterms",
-   "source": "abc45.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQlFocFMzSkdtWEpJRUNON2ZWbmZrREROT29kSlZrc0NmZGhDVjFnX0hidFlnRDFEQ1JnWTgwNW1uWUFORUllNEdPekhZdndZel81QkJkdXVqeVhTcTNFTDNxS2ZmWDc5dFpWQXh0VGVhd2t2VWxUYWRTZjZPalA1bzZiUkJKOWI0eVk4MnhqNWoteXE3QXFKVmNWNFNrUldROGFHa3p4d1UzRmlfcHBFWFc5Z0o5aGlyeWVyUXY1NTZQNmhrRHFpSjFBN25nRUc0OGc?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T02:43:44.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "baa6903753b1",
-   "kind": "headline",
-   "title": "Pro-Palestinian Protest Disrupts Ireland Soccer Match",
-   "source": "sports.yahoo.com",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzZ0TkQwUFprd2xaeHFJSzgyaDFnRkpWUEFtSVYzZGZ1cFZjOEhPdzVPSnRCQ2hNNjBkZjRrdnVTc3lTNS1XelZGSzNBajBfM01fU3Y1bWxIMVdVR1doUkFfNDJYSDRYMTFpalNna3c1M0RQbWNvajJBQTgzaTlMMWkxYWJYUExqcDBMaUdINUM0WU0?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T02:33:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4de717c4c8aa",
-   "kind": "headline",
-   "title": "הדו\"ח השנתי של J7: עלייה של 136% במספר התקריות האנטישמיות",
-   "source": "מקור ראשון",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjTFU1NG5XQnhHeUtwZlZpbjMtUHJVODd2UzE0V0Z4ZWlWQ3AxNVJnU0pqWWdhSkZ0NjlTcjB1VDcyeWJqSUpYcFVnSzByQU1zSkwydWwxN01lWkVQY1dhOU9XVktWT0k?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T02:07:23.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "makorrishon.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "c989e3b2964c",
-   "kind": "headline",
-   "title": "Citing Iran war, US waives rights condition on Egypt military aid",
-   "source": "The Standard (HK)",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1pNQmk1cEhGR3g3alhLazdvNmRReEFnN21nNkZ4dzBjc2xqWVVZbWNlY1hfV0xKbkd3Q0dDTFpMWFZiclpFaURibFZ4MzNGR2d5OFpjNTZvZEQ1MDVERGN6S2hsSlMyUTJEQzlFelBpUG9VUXFxWW9fZV8yY19CSk9ja3pOakg1SExid3dCRDcyTFplNUI2ZXNnSHBfaUpkaFh1OU5BeDRfcnNHUTRMdkFDRlZESWs?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T01:57:37.000Z",
    "summary": "",
    "score": 0,
    "alsoIn": [],
