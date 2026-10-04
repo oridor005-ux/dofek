@@ -44,7 +44,7 @@
   "ins-2026-10-04-hg7c"
  ],
  "pending": [],
- "lastRun": "2026-10-04T18:07:16.971Z",
+ "lastRun": "2026-10-04T18:18:46.100Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -57,23 +57,27 @@
  },
  "health": {
   "sources": {
-   "ok": 66,
-   "fail": 2,
+   "ok": 11,
+   "fail": 57,
    "light": false,
    "direct": 13,
    "directFail": 2,
    "google": 55,
-   "googleFail": 0,
+   "googleFail": 55,
    "errors": {
     "direct": {
      "HTTP 403": 2
+    },
+    "google": {
+     "HTTP 503": 1,
+     "skipped (google blocked)": 54
     }
    },
-   "at": "2026-10-04T17:32:29.558Z"
+   "at": "2026-10-04T18:07:32.867Z"
   },
-  "lastNewItemAt": "2026-10-04T18:07:16.971Z",
+  "lastNewItemAt": "2026-10-04T18:18:46.100Z",
   "lastPushOkAt": "2026-10-04T16:10:51.679Z",
   "googleOkAt": "2026-10-04T17:32:29.558Z"
  },
- "lastFullAt": "2026-10-04T17:32:29.558Z"
+ "lastFullAt": "2026-10-04T18:07:32.867Z"
 }
