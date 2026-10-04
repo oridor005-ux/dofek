@@ -39,7 +39,7 @@
   "ins-2026-10-04-l1b3"
  ],
  "pending": [],
- "lastRun": "2026-10-04T12:51:32.626Z",
+ "lastRun": "2026-10-04T13:03:45.606Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -64,11 +64,11 @@
      "HTTP 403": 2
     }
    },
-   "at": "2026-10-04T12:16:28.378Z"
+   "at": "2026-10-04T12:51:48.302Z"
   },
-  "lastNewItemAt": "2026-10-04T12:51:32.626Z",
+  "lastNewItemAt": "2026-10-04T13:03:45.606Z",
   "lastPushOkAt": "2026-10-04T12:16:28.378Z",
-  "googleOkAt": "2026-10-04T12:16:28.378Z"
+  "googleOkAt": "2026-10-04T12:51:48.302Z"
  },
- "lastFullAt": "2026-10-04T12:16:28.378Z"
+ "lastFullAt": "2026-10-04T12:51:48.302Z"
 }

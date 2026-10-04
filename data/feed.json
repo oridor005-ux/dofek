@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T12:51:32.626Z",
+ "updated": "2026-10-04T13:03:45.606Z",
  "items": [
   {
    "id": "d40f76be3580",
@@ -11,6 +11,20 @@
    "published": "2026-10-04T12:41:00.000Z",
    "summary": "דיוויד רובינסון, שהוביל את תחום השקיפות בצוות הבטיחות של OpenAI, הודיע על התפטרותו ומזהיר גם הוא כי חברות הבינה המלאכותית אינן נוקטות את אמצעי הזהירות הנדרשים • במקביל, הבית הלבן מקים כוח משימה מיוחד שיבחן בתוך 120 יום את הסיכונים הכרוכים בטכנולוגיה, לצד השאיפה לשמור על ההובלה האמריקאית בתחום",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784201811/shutterstock_2515703279_ncajkz.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bef1490a67ee",
+   "kind": "headline",
+   "title": "Latvian PM Andris Kulbergs’ party leads election, partial results show",
+   "source": "TVP World",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzFfejFla2VyY0h2dEZNYzVTMlMwaHJaTHAzVmR3TFNkR3NrOWpvV0JIX0RkSEFKVlo0TDhmYjBmbmNCdkRRUVVQR3ZVWUVNNXBOTldxeHVBNlRVYXV0cmZWd21Ddy0wbGJtLXVKMk14cWN2dXE3MWtNTEUxWnZCNkRTVlJNWUZkQUVMaGozRER4NXVkT18xM3VnVTJ5bXc?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T12:22:30.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -54,6 +68,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f518773c1aa0",
+   "kind": "headline",
+   "title": "Cultural Roundup • At Frankfurt Book Fair, Israel takes on a growing cultural boycott",
+   "source": "haaretz.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUkJzUFZmeG5NUjVDMG1RUndKWEpLRGVyam1tSGsySnVNUFFhRENVeXc1Z28tYUNmeDFjaDBhZFZRRkVHeGFCRHdTeFNBNmhaWWcwdFBnSURHSHl1RnlSbC05aUVIWFRQcEF1eFdENFFoT2VPdWpEUGZKekt3eG14XzN5dnpYZFFwM3hHOHBMTzl5b0l1Y0tUTVllMERscWhiR2VPYnQtSnRKOFdrRVhOYzVMS2xnQ2JjMGNxT3dtM3RDWU0zUTVUQ3FROHlua0tmVTFmM1RQRUFoNmFBNUkzbHNfNEZHY1F2ZWFLdUlYdU5sRV9xTHU1MC1YZDVYNHVpbjZiUTJJOHFpTG8?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T11:47:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -523,6 +551,20 @@
    "important": false
   },
   {
+   "id": "5bb452cf2c8a",
+   "kind": "headline",
+   "title": "הלילה בחצות: מחיר הדלק צפוי לרדת ב-50 אג' ל-7.77 שקל לליטר",
+   "source": "calcalist",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ma2hpd2w3cnU0SVc4QXF1bDU5b2g3a2ZkeTA5SlJYTzJzaUJUbkhvdE12VlV4clV2QVZreDhqMkd0a3dXa1RtcnlEenJ1QVB0cTlYVjR3S05ZamZvREUyWVZJTUt3dHhN?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T08:51:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "31c7b7cc8f38",
    "kind": "headline",
    "title": "The votes are in: United List handed massive mandate by Latvian voters / Article",
@@ -591,7 +633,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "yahoo.com"
+   ],
    "important": false
   },
   {
@@ -5535,7 +5579,8 @@
    "score": 0,
    "alsoIn": [
     "RealGM",
-    "The Dream Shake"
+    "The Dream Shake",
+    "thedreamshake.com"
    ],
    "important": false
   },
@@ -5803,48 +5848,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/80c0c83c70acd38b03989ce8767831913796c8f7/500_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7e36661d36bc9ef2efd7e41e2b2a93f7"
-  },
-  {
-   "id": "6e04333b2e79",
-   "kind": "headline",
-   "title": "מחדל טיסת פליי-דובאי: האם האזהרה הגיעה כבר לפני שנתיים?",
-   "source": "שקוף",
-   "url": "https://shakuf.co.il/64923",
-   "topic": "research",
-   "published": "2026-10-01T07:19:06.000Z",
-   "summary": "המבקר התריע מפני כשלים באבטחת התעופה בדו\"ח שצונזר בכבדות • מה עלה בגורל עבודת המטה המובטחת במל\"ל, ומדוע משרד התחבורה לא דאג לבדיקה ביטחונית של הטייסים בתעופה הנכנסת לישראל? • השב\"כ ומשרד התחבורה מחליפים האשמות וחושפים את",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://shakuf.co.il/wp-content/uploads/2025/04/מירי-רגב-בנימין-נתניהו-צילום-גילי-יערי-פלאש-90-360x240.jpg"
-  },
-  {
-   "id": "59c4c530120c",
-   "kind": "headline",
-   "title": "עוד מגדל בדרך לרחוב סוקולוב: אושרה תוכנית התחדשות במרכז הרצליה",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/sjkkfosqge",
-   "topic": "econ",
-   "published": "2026-10-01T06:36:44.000Z",
-   "summary": "אושר סופית פרויקט פינוי בינוי ברחוב הוותיק והמוזנח, המשמש ציר מרכזי בעיר. 13 דירות ישנות יהרסו לטובת מגדל בן 20 קומות עם 140 דירות חדשות, לצד שימור המבנה ההיסטורי ששימש את חברי ועד המושבה החקלאית בראשית ימיה של הרצליה. ו",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/rkX52do9zl/rkX52do9zl_0_0_1600_900_0_medium.jpg"
-  },
-  {
-   "id": "03117dd62f1e",
-   "kind": "headline",
-   "title": "בנו מרפסות בלי הסכמת השכנים – ונדרשים להסירן",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/sycngq95fe",
-   "topic": "econ",
-   "published": "2026-10-01T06:07:51.000Z",
-   "summary": "המחוזי הותיר על כנו צו להסרת מרפסות וגגונים שהקימו בעלי דירה בבניין רכבת בחיפה. ביצוע הצו עוכב כדי לאפשר להם לנסות להשיג הסכמות של 24 שכנים",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/04/20/BJxlKNnRMn/BJxlKNnRMn_0_0_1000_563_0_medium.jpg"
   }
  ]
 }
