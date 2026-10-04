@@ -623,8 +623,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1791103747",
    "found": "2026-10-04T08:51:15Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692731977891417352.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692731977891417352.txt",
+   "insightIds": [
+    "ins-2026-10-04-l1b3"
+   ]
   },
   {
    "id": "7692730110365027602",
@@ -689,8 +692,11 @@
    "caption": "\"מרגיש מושפל, דם ילדינו ספוג פה\" בימים האחרונים למרות התנגדות מצד הור...",
    "posted": "1791106809",
    "found": "2026-10-04T09:52:21Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692745139453824274.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692745139453824274.txt",
+   "insightIds": [
+    "ins-2026-10-04-n0v4"
+   ]
   },
   {
    "id": "7692753296641101057",
@@ -700,7 +706,7 @@
    "caption": "\"גולדקנופף יכול להיות חלק מהממשלה\" עופר וינטר, שמפלגתו נמצאת על סף אח...",
    "posted": "1791108714",
    "found": "2026-10-04T10:22:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692753296641101057.txt"
   },
   {
@@ -711,7 +717,7 @@
    "caption": "#פוריו #ימין #שמאל #בשבילך",
    "posted": "1791110070",
    "found": "2026-10-04T10:37:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692759155605802247.txt"
   },
   {
