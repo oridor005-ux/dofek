@@ -531,12 +531,23 @@
    "found": "2026-10-04T07:07:29Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7691712236187979028.txt"
+  },
+  {
+   "id": "7692708849043803413",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7692708849043803413",
+   "caption": "אנשים בישראל עדיין לא יודעים מה ההבדל בין שמאל לימין 🤯",
+   "posted": "1791098362",
+   "found": "2026-10-04T07:36:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692708849043803413.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T07:20:12Z",
+  "at": "2026-10-04T07:36:43Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
