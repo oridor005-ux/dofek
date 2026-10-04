@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T14:01:39.243Z",
+ "updated": "2026-10-04T14:06:15.299Z",
  "items": [
+  {
+   "id": "bb8f2ea204b0",
+   "kind": "headline",
+   "title": "מה יעשו מחר המניות הדואליות, והדגל האדום של בנק אוף אמריקה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558341#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-04T14:04:00.000Z",
+   "summary": "דוח התעסוקה בארה\"ב הוריד מהשולחן העלאת ריבית באוקטובר - אך תשואות האג\"ח הממשלתיות המשיכו לטפס • הנאסד\"ק טיפס לשיא חדש בהובלת מניות השבבים, אך אנליסטים מזהים שחיקה מתחת לפני השטח בוול סטריט • במוקד השבוע: הפרוטוקולים מפגישת הפד בספטמבר • בסיטי מעלים בחדות את התחזית לביטקוין • וגם: האינדיקטור של בנק…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784544700/800_hc2txs.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "04717ef95d5a",
    "kind": "headline",
@@ -5844,20 +5858,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/22/r16smt1811x/r16smt1811x_964_55_1919_1080_0_medium.jpg"
-  },
-  {
-   "id": "614e7b45ee09",
-   "kind": "headline",
-   "title": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-   "topic": "knesset",
-   "published": "2026-10-01T16:04:48.000Z",
-   "summary": "<p>Alleged flydubai attacker interrogated by Saudi security services as investigation into apparent crash attempt opens</p><p>The Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound fli",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/b870998eeaf70dab6f49c2eb5b9a5b094baf1bde/353_0_2191_1753/master/2191.jpg?width=140&quality=85&auto=format&fit=max&s=1a6672be57d90f57c2b0d6abde159f33"
   }
  ]
 }
