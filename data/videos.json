@@ -761,10 +761,21 @@
    "found": "2026-10-04T12:54:46Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692792055591914772.txt"
+  },
+  {
+   "id": "7692797217425345812",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692797217425345812",
+   "caption": "בזמן שהוא מכיר את המספרים שוברי הלב האלה, נתניהו דאג להשתמטות של עשרו...",
+   "posted": "1791118933",
+   "found": "2026-10-04T13:09:31Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692797217425345812.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T12:54:46Z",
+  "at": "2026-10-04T13:09:47Z",
   "channelsOk": 12,
   "channelsFail": 0,
   "transcribed": 1
