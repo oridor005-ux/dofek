@@ -723,12 +723,23 @@
    "posted": "1791111600",
    "found": "2026-10-04T11:07:30Z",
    "status": "failed"
+  },
+  {
+   "id": "7692775706358467858",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7692775706358467858",
+   "caption": "למה הוא כל כך רוצה שנדבר על זיתים? #פוליטיקה #בןגביר #משילות ",
+   "posted": "1791113925",
+   "found": "2026-10-04T11:54:25Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692775706358467858.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T11:38:14Z",
+  "at": "2026-10-04T11:54:48Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
