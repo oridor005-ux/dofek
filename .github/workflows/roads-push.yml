@@ -97,7 +97,7 @@ jobs:
         run: |
           git config user.name "dofek-bot"
           git config user.email "dofek-bot@users.noreply.github.com"
-          git add roads/push-status.json roads/push-config.json 2>/dev/null || true
+          for f in roads/push-status.json roads/push-config.json; do [ -f "$f" ] && git add "$f"; done
           git diff --cached --quiet && exit 0
           git commit -qm "עבודות בדרך: מצב שרת ההתראות"
           for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done
