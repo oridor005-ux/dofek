@@ -333,7 +333,7 @@
    "caption": "הזכרונות מהטבח הנורא מכים בנו: לקט של מספר פוסטים של שורדי שבי ומשפחו...",
    "posted": "1791055908",
    "found": "2026-10-03T20:27:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692526506895035669.txt"
   },
   {
@@ -354,7 +354,7 @@
    "caption": "טייס שעבד בשביל האמירויות ונוסעים ישראלים הצליחו יחד להילחם בטרור | מ...",
    "posted": "1790854707",
    "found": "2026-10-03T20:28:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7691662369671466260.txt"
   },
   {
@@ -365,7 +365,7 @@
    "caption": "\"שני חברי כנסת לא מגיעים - הוא הסתובב וחיפש, ואין לו רוב\" 👇 עשור למות...",
    "posted": "1790924400",
    "found": "2026-10-03T20:28:36Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7691696684203642132.txt"
   },
   {
@@ -376,8 +376,11 @@
    "caption": "\"מי שאין לו שישה מנדטים עדיף שלא ירוץ בבחירות האלה\" 👇 השר לשעבר מתן כ...",
    "posted": "1790867100",
    "found": "2026-10-03T20:28:49Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691711376435236117.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691711376435236117.txt",
+   "insightIds": [
+    "ins-2026-10-04-m101"
+   ]
   },
   {
    "id": "7691710328459119893",
@@ -387,8 +390,11 @@
    "caption": "\"עוד רגע היו אומרים שנתניהו הוא זה שניסה להפיל את המטוס\" 👇 חבר הכנסת ...",
    "posted": "1790865872",
    "found": "2026-10-03T20:29:11Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691710328459119893.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691710328459119893.txt",
+   "insightIds": [
+    "ins-2026-10-04-m102"
+   ]
   },
   {
    "id": "7692542871907355922",
@@ -398,8 +404,11 @@
    "caption": "ידעתם על זה? לשמוע ולהזדעזע ",
    "posted": "1791059718",
    "found": "2026-10-03T20:42:23Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692542871907355922.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692542871907355922.txt",
+   "insightIds": [
+    "ins-2026-10-04-m103"
+   ]
   },
   {
    "id": "7692551483694271796",
@@ -409,7 +418,7 @@
    "caption": "3 שנים אחרי שנחטף ממתחם הנובה חזר בר קופרשטיין למקום לומר תודה",
    "posted": "1791061722",
    "found": "2026-10-03T21:13:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692551483694271796.txt"
   },
   {
@@ -430,7 +439,7 @@
    "caption": "שדרות 3 שנים אחרי האסון:",
    "posted": "1791062005",
    "found": "2026-10-03T21:28:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692552707361574162.txt"
   },
   {
@@ -441,8 +450,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791064581",
    "found": "2026-10-03T21:58:49Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692563751391776018.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692563751391776018.txt",
+   "insightIds": [
+    "ins-2026-10-04-m104"
+   ]
   },
   {
    "id": "7692562681684823303",
@@ -452,7 +464,7 @@
    "caption": "#פוריו #ימין #שמאל #בשבילך ",
    "posted": "1791064331",
    "found": "2026-10-03T21:59:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692562681684823303.txt"
   },
   {
@@ -473,7 +485,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791065190",
    "found": "2026-10-03T22:13:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692566339017379079.txt"
   },
   {
@@ -484,7 +496,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791064822",
    "found": "2026-10-03T22:14:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692564794712263943.txt"
   }
  ],
