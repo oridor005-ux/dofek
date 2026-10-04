@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T15:46:53.110Z",
+ "updated": "2026-10-04T15:49:53.626Z",
  "items": [
+  {
+   "id": "f9521962869e",
+   "kind": "headline",
+   "title": "Ireland’s football snub of Israel crossed the line",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05VmtQX3FGa0toTHBaRGtPaUxZcUZIMVpWMHRYdnpaLW9pYjg3M3h3a25NUWJ5NUhYaFptM1F4S1haanpyZWpWNjFNVnZpYU80c3MzWlVZQQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T15:40:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "20e8c0c1bf99",
    "kind": "headline",
@@ -11,6 +25,20 @@
    "published": "2026-10-04T15:31:00.000Z",
    "summary": "ישראייר מרחיבה את פעילות התחזוקה בקפריסין לקראת כניסתה לטיסות לניו יורק: החברה תשקיע 10 מיליון דולר בהרחבת המרכז בלרנקה ותציג את המהלך למשקיעיה בביקור מיוחד &bull; המשקיעים יגיעו לשם באחד משני מטוסי ה-A330 שרכשה החברה לאחרונה ב-85 מיליון דולר",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791120776/WhatsApp_Image_2026-10-04_at_15.58.03_lce7g6.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e099b26673cb",
+   "kind": "headline",
+   "title": "Nizar Baraka’s Message to Morocco’s Next Government: Credibility Must Follow the Ballot Box",
+   "source": "Atalayar",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVUdmX0NvckoyQklmSThWcE1FaTlMbFRXSFlIdTVpUmVrb2pYS2gwMzdwSmYyamloeWlYd0tGUXV2aEk2M0dwd000LVlOQUF3M3lkYzhuREVYanY4NTV2dUxBaFE5ejJ0WXBRRVZ0a1c0ZlhfbzlRejJVWmtpV2NoZ255Tk05a3U0QUJJNzRkVmE2UlBKVVVKRFFmRFhaLXF1N3lUVmRfYlBhY1ZpaFl0T0w1QjFmczJybzBrNXg4R2hpX3ZuVllWVl9IVmU3T3EtNGlqbWhlZElxYlVFemtGYjRiRnpBMlVfd1RLUU1WUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T15:22:12.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -28,6 +56,22 @@
    "score": 1,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "6b77b1243f74",
+   "kind": "headline",
+   "title": "צרפת: עם זינוק בגירעון ושיא בחוב הציבורי, ההפגנות לא צפויות לדעוך בקרוב",
+   "source": "calcalist.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZU1g3NVlOOHBsa1YxWkxvYWNnSllUaTJNU0pvUW9yQVIyR0JiZVpheEhhWEtINEI5VEJFQ1pnaGRIajMyV2htVVhza3FzYU1vMkZ0RWNIVm53VnBKZkxjMmYyTXdlMG1q?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T15:15:00.000Z",
+   "summary": "תקציב 2027 הכולל קיצוצים בהיקף 54 מיליארד אירו רק יגביה את הלהבות שהציתו תלמידי התיכונים ‏במדינה בגלל צפיפות בכיתות ומחסור במורים. בלב המשבר: הכישלון של ממשלות צרפת להשתלט על ‏החוב והגירעון",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_165_3000_1689_0_medium.jpg",
+   "score": 2,
+   "alsoIn": [
+    "ynet כלכלה"
+   ],
+   "important": true
   },
   {
    "id": "c92a323cc072",
@@ -266,7 +310,9 @@
    "summary": "הורדת מס הבלו תיכנס הלילה לתוקף, ומחיר ליטר דלק בנזין יירד ל-7.77 שקלים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1718712142/direct/20240601_124336_tvcp7b.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "calcalist.co.il"
+   ],
    "important": false
   },
   {
@@ -380,7 +426,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "economictimes.com"
+   ],
    "important": false
   },
   {
@@ -660,6 +708,20 @@
     "oskaloosa.com",
     "CBC"
    ],
+   "important": false
+  },
+  {
+   "id": "ac72d0850c2a",
+   "kind": "headline",
+   "title": "Somali Parliamentary Delegation in Tanzania for Regional and Global Meetings",
+   "source": "FTL Somalia",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEFhaE5yT3A4Qm41cHhDV3hSTS1TUTl2RE9WamJKZkhLLVdDeVJON1JCRWNzaTluSzZTMXpXdUVfRFFPN3hNalhnNVFhRTU0RGtqTC1kU0JiZnA4WUtNUTN1eU9PU1hqMHp5Q0NpNEJYVEttV2MtNV9Jbm1QNWVaSDFMdmpXZDk3YkU1OEZDQ1UzUTl0X2xSdm8yM05LelIydEo2andBTQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T10:20:34.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1462,6 +1524,20 @@
    "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ffd5797e000b",
+   "kind": "headline",
+   "title": "ראשי האופוזיציה תוקפים את הממשלה לאחר מחדל פליי דובאי: \"קו ישיר מחבר בין מחדל המטוס לטבח 7 באוקטובר\"",
+   "source": "כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93bk9tS3dsTDFmZzhFMnpLR1FfVFYtcUloSEw0YlIzVWh2ZnFHbUZlMU1MaXZ6U1g5TGlQRmFxcGh0RVNiN1BmbEt3bjJ3cGxoVmtZalZFRDZmdjk2N2xRTnAwZHdibEpDZlRQNzhR?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-04T04:46:02.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5794,79 +5870,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "062458f95571",
-   "kind": "headline",
-   "title": "Report: Rockets waive Rafael Castro",
-   "source": "NBC Sports",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjhSRTNSU19qWGlMU3oya0psOVc5YkN3ZnEyczc2eGd2c1VBTkRFZER1RXo0WnFlOWNib2d5S3JkcDFmS3NnZlBRQUFiU0Y1MnpGRm9rTGZIOUlyYUlaeDk2a3RESHNkQjRQUzBIWG1PZHBEU0RqM0JUQks3Z1FkMUJDdUpQRU9OZTZ6X2xVN1VsaHh3Z256dWlBWUFMemVIZ1JrOQ?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T01:24:59.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "552728aca69a",
-   "kind": "headline",
-   "title": "Protesters throw tennis balls, call on Ireland to boycott 2nd match against Israel",
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd202clNMbG9UWWZQanBjU2c0ajFISC1rZXJJOURhdmRpQmJUWVltbVFBVV9MbExHcVBIdG9vTktfUlFTNkg1NktyS0J2ZXpWN1lNX3VIOHNHQzN1NFV3dDNPNzA2elR5M3UtVkNpcXdlZ2N6MTZfYWd1SmhRTmp1bTdPLTBFQ2JJZGVESm5vbUJzTlRMSGptSTZmcGxmeUs2TEFhbEhraFJNZzk4cmVtdnJ30gG3AUFVX3lxTFA5UzdLYmtidE94dE8yZzk5Sm5JbmgtdkNxU3pCX1F6T2RTUjVGdktrdThWWU9vbjVDelNpTGxHRnREaENrdFJoOEhraHNSNXR0TTkyVFdzQXp4bkFNVzd1cVJpVDEzRFNKZUVKdU1pclNvbzdhN2hacjZhTnhfbmR1OXV2SXdJOTk1YVRKZFJYT2l1VEdiWlBqU3czdkw2MEpKajZjZFc0TDRRUFRUYW1XNURPQVhfaw?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T01:02:14.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "dailysabah.com",
-    "timesofisrael.com",
-    "Daily Sabah"
-   ],
-   "important": false
-  },
-  {
-   "id": "f1cba57b9118",
-   "kind": "headline",
-   "title": "Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’ Israel says",
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjRNdmlkS0hlMFlYcWdJWURZWm9tamloZ3VmZ1B0ZEc1aUVaVm5oWXczWDdLTmtIQm1USHQ5ZDVCLUE3MldqZThjM2lORGV0ZUVHcUpTUkxycGFNVHgyOUxseV9ycm9TM1FxVlRzWFJBUWZXUmFNUmdrMVpvUUc4LXpzR0kyY0JVR0t3NWZQbWNHb3dpd0pFSndUQlR5YXBG?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-01T23:52:41.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5f760d229545",
-   "kind": "headline",
-   "title": "אינפלציית מדד המחיר לצרכן בדרום קוריאה מתמתנת מעט בספטמבר מאת Investing.com",
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVcnF3SkpYc0dYV2NqZ28zLWFnS1lqQm5qbmVQaHVJOGpxUEVpMDcwQWU2WEVRTDMxbTFMUDJmVm53UDZ6eUQ5d0FDYlgxc0J6cU1raUJ0a1hERkluRTEwQ1g3MmtpS21VRTc5NDVGakJUUQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-01T23:32:43.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "il.investing.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "d8afca68bb23",
-   "kind": "headline",
-   "title": "Investigators Seek Motive for FlyDubai Cockpit Attack",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html",
-   "topic": "knesset",
-   "published": "2026-10-01T23:24:18.000Z",
-   "summary": "Prime Minister Benjamin Netanyahu of Israel said the co-pilot who set upon the pilot had undergone “Islamist radical indoctrination” but did not elaborate.",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01int-Israel-plane-leadall-bqkz/01int-Israel-plane-leadall-bqkz-mediumSquareAt3X.jpg"
   }
  ]
 }
