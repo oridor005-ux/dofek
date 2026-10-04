@@ -2,7 +2,7 @@
 <title>עבודות בדרך</title>
 <meta name="description" content="התראה מראש על עבודות כביש במסלולים הקבועים שלך">
 <meta name="theme-color" content="#23282E">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://*.workers.dev; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="no-referrer">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
@@ -167,7 +167,7 @@ pre.code{background:var(--surface-2);border-radius:8px;padding:12px;overflow-x:a
   <div class="foot-inner">
     <p><b>עבודות בדרך היא אפליקציה פרטית ועצמאית.</b> היא לא שייכת לנתיבי ישראל, לנתיבי איילון, למשרד התחבורה, למשטרה או לשום גוף ממשלתי, ולא מייצגת אותם.</p>
     <p>המידע נאסף אוטומטית מהודעות ומכתבות שפורסמו לציבור, ועלול להיות חלקי, מאוחר או לא מדויק. לפני הנסיעה כדאי לבדוק גם בוויז או בגוגל מפות ולציית תמיד לשילוט בדרך. השימוש באחריות המשתמש.</p>
-    <p><b>פרטיות:</b> המסלולים שלך נשמרים רק בטלפון שלך. אין הרשמה, אין מעקב ואין פרסומות, ושום מידע עליך לא נשלח אלינו.</p>
+    <p><b>פרטיות:</b> המסלולים שלך נשמרים בטלפון שלך. אין הרשמה, אין מעקב ואין פרסומות. אם תפעיל התראות, נשמרים בשרת ההתראות רק הכבישים, הימים והשעות של המסלולים, כדי לדעת מתי להתריע. בלי שם, בלי מוצא ויעד ובלי מספר טלפון. כיבוי ההתראות מוחק אותם.</p>
   </div>
 </footer>
 <div class="toast" id="toast" hidden></div>
@@ -203,7 +203,7 @@ const ALTS={"1":["443"],"443":["1"],"2":["4","20"],"4":["2","20"],"20":["2","4"]
   "40":["6"],"44":["431","1"],"431":["44"],"471":["5"],"481":["5"],"531":["2","5"],"65":["6"],"70":["6"],"50":["1"]};
 const LEAD={week:"שבוע לפני",day:"ערב לפני (20:00)",morning:"בבוקר הנסיעה (06:30)",hour:"שעה לפני היציאה"};
 const FREQ={instant:"מיד כשמתפרסמת עבודה",daily:"סיכום יומי",weekly:"סיכום שבועי (מוצ״ש)"};
-const CHANNEL={push:"התראת אפליקציה",whatsapp:"וואטסאפ",sms:"SMS"};
+const CHANNEL={push:"התראה לטלפון"};
 const CLOSURE={one:"נתיב אחד סגור",two:"שני נתיבים סגורים",full:"סגירה מלאה",slow:"האטה ועבודות בשוליים"};
 const SEV={full:"high",two:"mid",one:"mid",slow:"low"};
 const SEV_LABEL={high:"צפוי פקק כבד",mid:"עיכוב בינוני",low:"עיכוב קל"};
@@ -295,6 +295,7 @@ function visibleRoutes(){return S.routes.length?S.routes:EXAMPLE_ROUTES}
 /* Each person's routes and plan stay on their own phone (localStorage). Roadworks come from works.json, refreshed every evening. */
 const LS_KEY="avodot-profile-v1";
 function saveProfile(){
+  pushSync();
   try{localStorage.setItem(LS_KEY,JSON.stringify({routes:S.routes,plan:S.plan,updatedAt:new Date().toISOString()}))}
   catch(e){toast("השמירה לא זמינה בדפדפן הזה")}
 }
@@ -320,8 +321,71 @@ async function boot(){
   }catch(e){S.works=[];S.loadError=true}
   S.loading=false;render();
 }
-if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",boot);else boot();
+function start(){boot();pushInit()}
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",start);else start();
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+
+/* ---------- התראות לטלפון ---------- */
+const P={cfg:null,state:"loading",busy:false,msg:""};
+const PUSH_OK="serviceWorker" in navigator&&"PushManager" in window&&"Notification" in window;
+function b64uToBytes(s){s=s.replace(/-/g,"+").replace(/_/g,"/");const r=atob(s+"===".slice((s.length+3)%4));return Uint8Array.from(r,c=>c.charCodeAt(0))}
+async function pushInit(){
+  try{const r=await fetch("push-config.json?t="+Date.now(),{cache:"no-store"});if(r.ok){const c=await r.json();if(/^https:\/\/[\w.-]+\.workers\.dev$/.test(c.api||""))P.cfg=c}}catch(e){}
+  if(!P.cfg){P.state="soon";render();return}
+  if(!PUSH_OK){P.state="unsupported";render();return}
+  if(Notification.permission==="denied"){P.state="denied";render();return}
+  try{const reg=await navigator.serviceWorker.ready;const sub=await reg.pushManager.getSubscription();P.state=sub?"on":"off"}catch(e){P.state="off"}
+  render();
+}
+function pushRoutes(){return S.routes.map(r=>({id:r.id,roads:r.roads,days:r.days,dep:r.dep,dur:r.dur,lead:r.lead,freq:r.freq}))}
+async function pushPost(path,data){
+  const r=await fetch(P.cfg.api+path,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)});
+  if(!r.ok)throw new Error("server "+r.status);return r.json();
+}
+async function pushOn(){
+  P.busy=true;P.msg="";render();
+  try{
+    const perm=await Notification.requestPermission();
+    if(perm!=="granted"){P.state=perm==="denied"?"denied":"off";P.busy=false;render();return}
+    const reg=await navigator.serviceWorker.ready;
+    let sub=await reg.pushManager.getSubscription();
+    if(!sub)sub=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:b64uToBytes(P.cfg.publicKey)});
+    await pushPost("/subscribe",{subscription:sub.toJSON(),routes:pushRoutes()});
+    P.state="on";toast("ההתראות הופעלו");
+    pushPost("/test",{endpoint:sub.endpoint}).catch(()=>{});
+  }catch(e){P.msg="לא הצלחנו להפעיל התראות. נסה שוב, או פתח את האתר בכרום."}
+  P.busy=false;render();
+}
+async function pushOff(){
+  P.busy=true;render();
+  try{const reg=await navigator.serviceWorker.ready;const sub=await reg.pushManager.getSubscription();
+    if(sub){await pushPost("/unsubscribe",{endpoint:sub.endpoint}).catch(()=>{});await sub.unsubscribe()}
+    P.state="off";toast("ההתראות כובו")}catch(e){P.msg="הכיבוי נכשל, נסה שוב."}
+  P.busy=false;render();
+}
+async function pushTest(){
+  try{const reg=await navigator.serviceWorker.ready;const sub=await reg.pushManager.getSubscription();if(!sub)return;
+    await pushPost("/test",{endpoint:sub.endpoint});toast("נשלחה התראת בדיקה")}catch(e){toast("השליחה נכשלה")}
+}
+// אחרי כל שינוי במסלולים, השרת מקבל את הגרסה החדשה
+async function pushSync(){
+  if(P.state!=="on"||!P.cfg)return;
+  try{const reg=await navigator.serviceWorker.ready;const sub=await reg.pushManager.getSubscription();if(sub)await pushPost("/subscribe",{subscription:sub.toJSON(),routes:pushRoutes()})}catch(e){}
+}
+function pushCard(){
+  const st=P.state;
+  const head=`<div class="row between"><h3>🔔 התראות לטלפון</h3>${st==="on"?`<span class="pill plus">פעיל</span>`:""}</div>`;
+  let bodyHtml="";
+  if(st==="loading")bodyHtml=`<p class="lock" style="margin:0">בודק…</p>`;
+  else if(st==="soon")bodyHtml=`<p style="margin:0">ההתראות יופעלו בקרוב. בינתיים, הצץ כאן לפני הנסיעה: כל עבודה שפוגעת במסלול שלך מופיעה ברשימת ההתראות.</p>`;
+  else if(st==="unsupported")bodyHtml=`<p style="margin:0">הדפדפן הזה לא תומך בהתראות. באנדרואיד פתח את האתר ב<b>כרום</b>. באייפון: הוסף קודם את האתר למסך הבית (שיתוף ← הוספה למסך הבית) ופתח אותו משם.</p>`;
+  else if(st==="denied")bodyHtml=`<p style="margin:0">ההתראות חסומות לאתר הזה. בכרום: ⋮ ← הגדרות ← הגדרות אתר ← התראות, ואפשר את האתר. אחר כך רענן את הדף.</p>`;
+  else if(st==="on")bodyHtml=`<p style="margin:0">תקבל התראה לפי מה שבחרת בכל מסלול${S.routes.length?"":` — <b>אבל עוד לא שמרת מסלול</b>. צור מסלול משלך כדי להתחיל לקבל התראות`}.</p>
+    <div class="row"><button class="btn small" data-act="push-test" ${P.busy?"disabled":""}>שלח התראת בדיקה</button><button class="btn small ghost danger" data-act="push-off" ${P.busy?"disabled":""}>כבה התראות</button></div>`;
+  else bodyHtml=`<p style="margin:0">נשלח לך התראה כשמתוכננות עבודות בכבישים ובשעות של המסלולים שלך, בזמן שבחרת: ערב לפני, בבוקר או שעה לפני.</p>
+    <div class="row"><button class="btn amber" data-act="push-on" ${P.busy?"disabled":""}>${P.busy?"מפעיל…":"הפעל התראות"}</button></div>`;
+  return `<div class="card stack" style="gap:10px">${head}${bodyHtml}${P.msg?`<p class="lock" style="margin:0;color:var(--red)">${esc(P.msg)}</p>`:""}</div>`;
+}
 
 /* ---------- render ---------- */
 function render(){
@@ -366,7 +430,7 @@ function viewRoutes(){
        <button class="btn primary" data-act="new" ${canAdd?"":"disabled"}>+ מסלול חדש</button>
      </div>
      ${canAdd?"":`<div class="notice">במנוי החינמי אפשר לשמור עד ${FREE_ROUTES} מסלולים. <button class="btn small amber" data-tab="plans">שדרוג לפלוס</button></div>`}
-     <div class="notice">התראות לטלפון יגיעו בקרוב. בינתיים, הצץ כאן לפני הנסיעה: כל עבודה שפוגעת במסלול שלך מופיעה ברשימת ההתראות. המסלולים נשמרים רק בטלפון שלך.</div>
+     ${pushCard()}
      ${!S.routes.length?`<div class="notice">אלה מסלולי דוגמה כדי להראות איך זה עובד. צור מסלול משלך והם ייעלמו.</div>`:""}
      ${editor}
      ${rs.map(routeCard).join("")}
@@ -514,12 +578,12 @@ function viewPlans(){
   <div class="plans">
    <div class="card plan stack ${isPlus()?"":"featured"}">
      <h3>חינמי</h3><div><span class="price">0 ₪</span></div>
-     <ul>${feat(1,`עד ${FREE_ROUTES} מסלולים קבועים`)}${feat(1,"סיכום יומי בערב שלפני")}${feat(1,"בדיקת נסיעה חד-פעמית")}${feat(1,"התראה באפליקציה")}${feat(0,"דרך חלופית")}</ul>
+     <ul>${feat(1,`עד ${FREE_ROUTES} מסלולים קבועים`)}${feat(1,"סיכום יומי בערב שלפני")}${feat(1,"בדיקת נסיעה חד-פעמית")}${feat(1,"התראה לטלפון")}${feat(0,"דרך חלופית")}</ul>
      ${isPlus()?`<button class="btn" data-act="plan-free">מעבר לחינמי</button>`:`<span class="pill free" style="align-self:flex-start">המנוי הנוכחי</span>`}
    </div>
    <div class="card plan stack ${isPlus()?"featured":""}">
      <h3>פלוס</h3><div><span class="price">8 ₪</span> <span class="lock">לחודש</span></div>
-     <ul>${feat(1,"מסלולים ללא הגבלה")}${feat(1,"אתה קובע מתי ובאיזו תדירות: מיידי, יומי, שבועי, שבוע/יום/שעה לפני")}${feat(1,"התראות בוואטסאפ וב-SMS")}${feat(1,"הצעת דרך חלופית + קישור לגוגל מפות")}${feat(1,"בדיקות נסיעה ללא הגבלה")}</ul>
+     <ul>${feat(1,"מסלולים ללא הגבלה")}${feat(1,"אתה קובע מתי ובאיזו תדירות: מיידי, יומי, שבועי, שבוע/יום/שעה לפני")}${feat(1,"הצעת דרך חלופית + קישור לגוגל מפות")}${feat(1,"בדיקות נסיעה ללא הגבלה")}</ul>
      ${isPlus()?`<span class="pill plus" style="align-self:flex-start">המנוי הנוכחי</span>`:`<button class="btn amber" data-act="plan-plus">הפעל פלוס, חינם בתקופת ההשקה</button>`}
    </div>
   </div>
@@ -561,6 +625,9 @@ document.addEventListener("click",async e=>{
   if(act==="edit"){const r=S.routes.find(x=>x.id===b.dataset.id);S.editing=r.id;S.draft=JSON.parse(JSON.stringify(r));render()}
   if(act==="cancel"){S.editing=null;S.draft=null;render()}
   if(act==="delroute"){S.routes=S.routes.filter(x=>x.id!==S.draft.id);S.editing=null;S.draft=null;saveProfile();render();toast("המסלול נמחק")}
+  if(act==="push-on"){pushOn();return}
+  if(act==="push-off"){pushOff();return}
+  if(act==="push-test"){pushTest();return}
   if(act==="plan-plus"){S.plan="plus";saveProfile();render();toast("פלוס הופעל, חינם בתקופת ההשקה")}
   if(act==="plan-free"){S.plan="free";S.routes.forEach(r=>{r.lead="day";r.freq="daily";r.channel="push"});saveProfile();render();toast("עברת למנוי החינמי")}
 });

@@ -1,0 +1,12 @@
+# שרת ההתראות של "עבודות בדרך". מותקן אוטומטית מגיטהאב (.github/workflows/roads-push.yml)
+name = "avodot-push"
+main = "worker.js"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+[triggers]
+crons = ["*/15 * * * *"]   # כל רבע שעה בודקים את המסלולים ושולחים התראות
+
+[[kv_namespaces]]
+binding = "KV"
+id = "__KV_ID__"            # ממולא אוטומטית בזמן ההתקנה

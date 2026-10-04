@@ -1,0 +1,103 @@
+name: עבודות בדרך — שרת התראות
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'roads/push/**'
+      - '.github/workflows/roads-push.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: roads-push
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: התקנת השרת בקלאודפלר
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set +e
+          cd roads/push
+          ST=../push-status.json
+          echo '{}' > $ST
+          note() { jq --arg k "$1" --argjson v "${2:-null}" '.[$k]=$v' $ST > $ST.tmp 2>/dev/null && mv $ST.tmp $ST || jq --arg k "$1" --arg v "$2" '.[$k]=$v' $ST > $ST.tmp && mv $ST.tmp $ST; }
+          note at "\"$(date -u +%FT%TZ)\""
+          CF="https://api.cloudflare.com/client/v4"
+          api() { curl -sS -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" "$@"; }
+
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then note ok false; note error '"missing secrets"'; exit 0; fi
+          ACC=$(echo "$CLOUDFLARE_ACCOUNT_ID" | tr -d '[:space:]')
+          note accountIdLength "${#ACC}"
+
+          V=$(api "$CF/user/tokens/verify"); note tokenCheck "$(echo "$V" | jq -c '{success, status: .result.status, errors: [.errors[]?.message]}')"
+
+          # מאגר קטן (KV) לשמירת המנויים
+          L=$(api "$CF/accounts/$ACC/storage/kv/namespaces?per_page=100")
+          KV=$(echo "$L" | jq -r '.result[]? | select(.title=="avodot-push-KV") | .id' | head -1)
+          if [ -z "$KV" ]; then
+            C=$(api -X POST "$CF/accounts/$ACC/storage/kv/namespaces" -d '{"title":"avodot-push-KV"}')
+            KV=$(echo "$C" | jq -r '.result.id // empty')
+            note kvCreate "$(echo "$C" | jq -c '{success, errors: [.errors[]?.message]}')"
+          fi
+          if [ -z "$KV" ]; then note ok false; note error "$(echo "$L" | jq -c '[.errors[]?.message]')"; exit 0; fi
+          sed -i "s/__KV_ID__/$KV/" wrangler.toml
+          note kv true
+
+          # כתובת חינמית מסוג workers.dev
+          S=$(api "$CF/accounts/$ACC/workers/subdomain")
+          SUB=$(echo "$S" | jq -r '.result.subdomain // empty')
+          if [ -z "$SUB" ]; then
+            C=$(api -X PUT "$CF/accounts/$ACC/workers/subdomain" -d '{"subdomain":"oridor005"}')
+            SUB=$(echo "$C" | jq -r '.result.subdomain // empty')
+            note subdomainCreate "$(echo "$C" | jq -c '{success, errors: [.errors[]?.message]}')"
+          fi
+          note subdomain "\"$SUB\""
+
+          export CLOUDFLARE_ACCOUNT_ID="$ACC"
+          if npx -y wrangler@4 deploy > deploy.log 2>&1; then note deploy true; else note deploy false; fi
+          note deployLog "$(tail -c 1500 deploy.log | jq -Rs .)"
+
+          URL="https://avodot-push.$SUB.workers.dev"
+          note url "\"$URL\""
+          sleep 15
+          H=$(curl -sS --max-time 20 "$URL/health" || echo '{}'); note health "$(echo "$H" | jq -c . 2>/dev/null || echo null)"
+          K=$(curl -sS --max-time 20 "$URL/key" | jq -r '.publicKey // empty')
+          if [ -n "$K" ]; then
+            echo "{\"api\":\"$URL\",\"publicKey\":\"$K\"}" > ../push-config.json
+            note ok true
+          else
+            note ok false
+          fi
+
+          # האם האתרים של הרשויות נפתחים — מהשרת בקלאודפלר ומשרת של גיטהאב
+          P=$(curl -sS --max-time 60 "$URL/probe" || echo '{}'); note probeFromCloudflare "$(echo "$P" | jq -c . 2>/dev/null || echo null)"
+          R='{}'
+          for u in https://www.iroads.co.il/ https://www.ayalonhw.co.il/company-activity/events/ https://www.nta.co.il/; do
+            c=$(curl -sS -o /tmp/p.html -w '%{http_code}' --max-time 20 -A "Mozilla/5.0 (Linux; Android 14) Chrome/129 Mobile Safari/537.36" "$u" || echo 000)
+            R=$(echo "$R" | jq --arg u "$u" --arg c "$c" --argjson b "$(wc -c < /tmp/p.html 2>/dev/null || echo 0)" '.[$u]={status:$c,bytes:$b}')
+          done
+          note probeFromGitHub "$R"
+          cat $ST
+
+      - name: שמירת התוצאה
+        if: always()
+        run: |
+          git config user.name "dofek-bot"
+          git config user.email "dofek-bot@users.noreply.github.com"
+          git add roads/push-status.json roads/push-config.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -qm "עבודות בדרך: מצב שרת ההתראות"
+          for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done
