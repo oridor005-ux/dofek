@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T02:08:45.380Z",
+ "updated": "2026-10-04T02:21:01.792Z",
  "items": [
+  {
+   "id": "e07c682b6b09",
+   "kind": "headline",
+   "title": "Trump Promotes Data Centers at Rally With Republican Facing Heat on Them",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/03/us/politics/trump-data-centers-husted-ohio.html",
+   "topic": "world",
+   "published": "2026-10-04T02:10:24.000Z",
+   "summary": "The president defended the complexes, which have become a liability for Senator Jon Husted in a challenging midterm race.",
+   "image": "https://static01.nyt.com/images/2026/10/03/us/03pol-trump-husted-data-centers/03pol-trump-husted-data-centers-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6d9baed635ab",
    "kind": "headline",
@@ -54,7 +68,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "japantimes.co.jp"
+   ],
    "important": false
   },
   {
@@ -67,6 +83,20 @@
    "published": "2026-10-04T00:00:00.000Z",
    "summary": "The 80-year-old president has crowded out successors. If he loses a re-election bid, it could shut his party out of power for years.",
    "image": "https://images.wsj.net/im-52920236",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "aec6711717a7",
+   "kind": "headline",
+   "title": "נפתלי בנט יכול לחייך - קואליציית נתניהו קיבלה בשורה אחת מדאיגה | סקר מעריב",
+   "source": "maariv.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5S1l0NGltejVaRkdTVHFieFJtUFZnN21TaTNTRW5KX2xYQjN5Mm9OcDMzWmZXMzRPMWhFQmNfQzdrb1ZKd2dMblFjOEdIOXpMMW5NN1preHF4TUVwZmhrRVY1TlA?oc=5",
+   "topic": "research",
+   "published": "2026-10-03T23:44:16.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -345,7 +375,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "timesofisrael.com"
+   ],
    "important": false
   },
   {
@@ -1490,7 +1522,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "DW.com"
+   ],
    "important": false
   },
   {
