@@ -636,12 +636,45 @@
    "found": "2026-10-04T08:51:23Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692730110365027602.txt"
+  },
+  {
+   "id": "7692734810715852040",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692734810715852040",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1791104405",
+   "found": "2026-10-04T09:06:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692734810715852040.txt"
+  },
+  {
+   "id": "7692732705858964743",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692732705858964743",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1791103914",
+   "found": "2026-10-04T09:07:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692732705858964743.txt"
+  },
+  {
+   "id": "7691713026663157012",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7691713026663157012",
+   "caption": "\"הדרך היחידה לנצח את נתניהו היא להעמיד בראש הגוש הליברלי איש ימין מדי...",
+   "posted": "1791104400",
+   "found": "2026-10-04T09:07:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691713026663157012.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T08:51:26Z",
+  "at": "2026-10-04T09:07:47Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 3
  }
 }
