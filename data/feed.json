@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T08:45:42.711Z",
+ "updated": "2026-10-04T08:57:55.178Z",
  "items": [
+  {
+   "id": "89d12aa0984f",
+   "kind": "headline",
+   "title": "זעם בניו יורק: \"תוכנית האנטישמיות של ממדאני מתעלמת מישראל\"",
+   "source": "C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TZlFPUEpsLVgwRHo3TXN2T2Z2OWFfYmJ4VlR0dXRYektzQkRPeEt3SkpOOUZ6SV9nZFFHUFhZWmtqSlN1NDVSZ0p0TVYzUQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T08:26:24.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "72aeb869d9e5",
    "kind": "headline",
@@ -11,6 +25,34 @@
    "published": "2026-10-04T08:23:17.000Z",
    "summary": "Conservative leader defends plan to extend free childcare to high earners, as Tory conference begins in Birmingham today When Laura Kuenssberg asked Badenoch whether it was a good use of public money to spend it on subsidising childcare for “incredibly wealthy” people, Badenoch switched the subject…",
    "image": "https://i.guim.co.uk/img/media/9ef909adce513128d42254144ef8e24705ab0b5f/462_0_4191_3353/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=b98ffad5166905f115df64a885b1e3bf",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6a27713f5478",
+   "kind": "headline",
+   "title": "Geneva protest calls for sanctions against Israel",
+   "source": "SWI swissinfo.ch",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXpBdm03ejc3MW1IV1BCbmRQRjhtYWFJeVRRWVItS3RXLXQwOUdtMlFLN253dTkzTml6YVVYY1d3NGhwQnJwN212ZjZna2N4bTJMNG5MRUFteFRqMTJlZnBTMDdpVENsaUdVVDhycXdLNEJ2c1JhNXQ2aks1WHM1X09WQ2hnejZJOXRhRE5IdnRMTXVKLVVySlBYZlVGaWhxeE9JNGlRM09RWTlyS1E?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T08:19:33.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "95a182c74b48",
+   "kind": "headline",
+   "title": "Latvian prime minister scores surprise win in parliamentary election",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEZaS1l5dGpJRnQ5VTZsVWV0NUowYURUTld3cmFDXzNSTUprYkl3MEF1NmJ0SER5bHE3ZFRURGltbGVlb3RsdE1XOVNRZ1BKM2MyblNvSjRoWkxtMFpRZ01oM2dvNzNseWIzYUpWcVFNTWx0Wjc2TkNETmx2eWNHcFpkbWlHMTZYRDdMeTNHMXhVdk5xMlBILXRia1dyOWM?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T08:18:33.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -68,7 +110,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "China Daily Global Edition"
+   ],
    "important": false
   },
   {
@@ -180,7 +224,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ch10.co.il"
+   ],
    "important": false
   },
   {
@@ -338,7 +384,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Bernama"
+   ],
    "important": false
   },
   {
