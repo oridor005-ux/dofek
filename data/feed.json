@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T17:32:13.233Z",
+ "updated": "2026-10-04T17:44:29.025Z",
  "items": [
   {
    "id": "b5dd9a7ce2b8",
@@ -142,6 +142,20 @@
    "important": false
   },
   {
+   "id": "8755952be190",
+   "kind": "headline",
+   "title": "הבורסה הניחה שלקואליציה אין סיכוי בבחירות. כעת היא מאבדת ביטחון",
+   "source": "TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUllmN0tRR1pYdW00SHFjZmpMckJ1UXdFaUVNSkp5Y01sWnF0WjFiaWdNbHFMSnVObDZDS3JQNjJBMVlZRzJnSHFvZEI2bUVtU3FCeEhYQW9VRkdlX3BtLVB6TjNnYUxlcVVjc2FIekVRdkZQMWp4cUxNdjhzTXJQcWdXWm9MX0EyS0lVQ1ktc09Gc2xOMEk0MTF3ME13aVVMSWdJTkhB?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-04T15:31:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "e099b26673cb",
    "kind": "headline",
    "title": "Nizar Baraka’s Message to Morocco’s Next Government: Credibility Must Follow the Ballot Box",
@@ -183,7 +197,8 @@
    "alsoIn": [
     "ynet כלכלה",
     "YNET",
-    "calcalist"
+    "calcalist",
+    "ynet.co.il"
    ],
    "important": true
   },
@@ -5862,22 +5877,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790855246/be5aa598-b6bb-4d56-afa5-ff41d7b2f7d7_omfd9y.png"
-  },
-  {
-   "id": "f30e5acf6e5d",
-   "kind": "headline",
-   "title": "ידידה של ישראל בדרך לתקציב ביטחון שלא נראה כמותו",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001557975#utm_source=RSS",
-   "topic": "defense",
-   "published": "2026-10-02T03:57:00.000Z",
-   "summary": "חברות ביטחוניות ישראליות משתתפות בתערוכות באזרבייג'ן ובמרוקו ומעמיקות שם את הקשרים הביטחוניים &#8226; החברה הבת האמריקאית של רפאל קיבלה הסכם להסמכת טיל ספייק SR עבור צבא ארה\"ב &#8226; וגרמניה מתכננת להגדיל את תקציב הביטח",
-   "score": 2,
-   "alsoIn": [
-    "globes.co.il"
-   ],
-   "important": true,
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775393987/direct/shutterstock_2572977613_io08ik.jpg"
   }
  ]
 }
