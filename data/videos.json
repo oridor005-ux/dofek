@@ -738,8 +738,11 @@
    "caption": "למה הוא כל כך רוצה שנדבר על זיתים? #פוליטיקה #בןגביר #משילות ",
    "posted": "1791113925",
    "found": "2026-10-04T11:54:25Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692775706358467858.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692775706358467858.txt",
+   "insightIds": [
+    "ins-2026-10-04-zt8k"
+   ]
   },
   {
    "id": "7692781539641347335",
@@ -759,8 +762,11 @@
    "caption": "\"רואים את עצמנו עולים על 61 מנדטים\" 👇 אל\"מ במיל' טליה לנקרי, מועמדת מ...",
    "posted": "1791117730",
    "found": "2026-10-04T12:54:46Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692792055591914772.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692792055591914772.txt",
+   "insightIds": [
+    "ins-2026-10-04-rq3m"
+   ]
   },
   {
    "id": "7692797217425345812",
@@ -770,8 +776,9 @@
    "caption": "בזמן שהוא מכיר את המספרים שוברי הלב האלה, נתניהו דאג להשתמטות של עשרו...",
    "posted": "1791118933",
    "found": "2026-10-04T13:09:31Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692797217425345812.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7692797217425345812.txt",
+   "note": "התמלול כולל שירה/קטע לא ברור בלבד, בלי טענה עובדתית"
   },
   {
    "id": "7692802724286549269",
@@ -781,8 +788,9 @@
    "caption": "מחווה לזכר נרצחי 7 באוקטובר: אופ״א נענתה לבקשת ההתאחדות לכדורגל, ושחק...",
    "posted": "1791120216",
    "found": "2026-10-04T13:39:42Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692802724286549269.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7692802724286549269.txt",
+   "note": "התמלול כולל שירה/קטע לא ברור בלבד, בלי טענה עובדתית"
   },
   {
    "id": "7692806990367640852",
