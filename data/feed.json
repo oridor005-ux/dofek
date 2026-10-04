@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T13:38:40.737Z",
+ "updated": "2026-10-04T13:50:00.728Z",
  "items": [
+  {
+   "id": "16857917fbca",
+   "kind": "headline",
+   "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-04T13:33:05.000Z",
+   "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e023c1c66938",
    "kind": "headline",
@@ -5841,20 +5855,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/19/H12QOyY11el/H12QOyY11el_0_0_1000_563_0_medium.jpg"
-  },
-  {
-   "id": "72ff4b4dbcb5",
-   "kind": "headline",
-   "title": "Mamdani’s nuanced plan offers a roadmap to tackle antisemitism – and reignites criticism of the mayor",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/01/mamdani-nyc-antisemitism-plan-analysis",
-   "topic": "israelAbroad",
-   "published": "2026-10-01T12:00:51.000Z",
-   "summary": "<p>Critics noted that the plan does not discuss Israel; others praised it for not conflating Jews with the state of Israel</p><p>When the New York City mayor, Zohran Mamdani, announced the city’s first-ever <a href=\"http",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/bdeb330509314146992a54b8039fdda6347566d4/644_0_6409_5131/master/6409.jpg?width=140&quality=85&auto=format&fit=max&s=81fdac0edadfbdf5294ca0cb4c369176"
   }
  ]
 }
