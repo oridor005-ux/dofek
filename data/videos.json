@@ -836,9 +836,9 @@
   }
  ],
  "health": {
-  "at": "2026-10-04T15:11:21Z",
+  "at": "2026-10-04T15:25:46Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 0
  }
 }
