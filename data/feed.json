@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-04T03:53:49.405Z",
+ "updated": "2026-10-04T04:00:26.962Z",
  "items": [
+  {
+   "id": "a6ed62179674",
+   "kind": "headline",
+   "title": "New law gives Fiji stronger drug-fighting powers",
+   "source": "FBC News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWF2Tm54aURXbHQ2Yy1ESUlOa0RUYUx3cmJqVjJyQzFMX253Y2VQY2tidl9EQ2J4RGNIRV8wWjlUNlRCc184Yk1oeDFWVlFaYVdkVFltTUExY0pxbmkycDFHcTY5WEVfUXJrcHBJZHlnNFkzZEJ1R3k4RlFCZWlDMU1GbmFQdUtn?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T03:36:21.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "aaa8dd2a9667",
+   "kind": "headline",
+   "title": "New bill proposes subsidised loans, tax breaks for smart homes",
+   "source": "OnlineKhabar English News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEgwYXVGQVdkbFFCQUl2Z2lnVjZzLVVpc3N4Tk91cXNHZ19aSVJOd0tWRTJqWGtEaHBiMzNndloxcG93WWFTUDVjYVNSUC03cW9aZGhfemJJeFFZdUZ3bWNHTThNV1psNmhzLVRoS0kySGtkNzZnVGUtMGNPaUp5OQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T03:30:03.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "80f070ddf6db",
+   "kind": "headline",
+   "title": "מגמה מעורבת: תעסוקת גברים חרדים עולה – הנשים בהייטק מתקשות למצוא עבודה",
+   "source": "calcalist",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0eG4ydHIyNXB4V0t5QjNvV2RqaUUwY1ZyWmdub2tRYVlFZkctV1dsTzAwRDc1RU1CTkdmTmlCdjgtUWNqcFhfWVh2TW5NdXVRMmN2R2pQWFJ5bVRrNHFPYmFqSERpLTFu?oc=5",
+   "topic": "demo",
+   "published": "2026-10-04T03:24:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "cfa072bf90d6",
    "kind": "headline",
@@ -124,6 +166,20 @@
    "summary": "Police confirm investigation into period the man reportedly spent in Australia before alleged attempted terrorist attack Get our breaking news email , free app or daily news podcast Australian security agencies have launched an investigation after it emerged that the flydubai co-pilot who allegedly…",
    "image": "https://i.guim.co.uk/img/media/db12b29ca35ee68948e445010ce24f62fe4c1318/680_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0d599a3d2283d3e49ec8a9ed751d978f",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "99b2d41798c6",
+   "kind": "headline",
+   "title": "The Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026",
+   "source": "PIB",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FZTBOb2xsNFIxaDFIei1YaU1ERnZwbW5pa3BDcDJhVnZmaEF3clJKVGFMcFJLYTJMeWtIb2RPclZNZXdLMGt0ajJPNTh5NS1wTS13bG12VU9rOUE3UmZhVG9oN0dPbHZ5ZHFJSVk0MVROeFVuUGtn?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T01:24:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -359,7 +415,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "france24.com"
+   ],
    "important": false
   },
   {
@@ -417,7 +475,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "the7eye.org.il"
+   ],
    "important": false
   },
   {
@@ -461,7 +521,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "yahoo.com"
+   ],
    "important": false
   },
   {
@@ -625,7 +687,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "the7eye.org.il"
+   ],
    "important": false
   },
   {
