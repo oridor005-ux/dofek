@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T22:11:53.978Z",
+ "updated": "2026-10-04T22:24:10.380Z",
  "items": [
+  {
+   "id": "bc57d78a89a8",
+   "kind": "headline",
+   "title": "Latvian leader surges to big election win as Russia threats rise",
+   "source": "The Spokesman-Review",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2E4YlpyR0luZUlSWEh2cW1WUUxtU1RKV1hESkUxWFRaX0p2RGpWanZBTDI2a2RXWElNbXc4eGRaQ3BvaWhxTThmYnl2cW5kd2dBcTg4QjY0Zy0xRko1VUVhTlhmT0N1LUdBVEZOcXg0REx0UnU3RlN0cTN1MWpEbUZDekFsRFg1THk3ZUpaY2piTDVZaWVQdThCQXNBQQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T22:05:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "0f1551a7c347",
    "kind": "headline",
@@ -110,7 +124,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "the7eye.org.il"
+   ],
    "important": false
   },
   {
@@ -152,7 +168,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "en.mehrnews.com"
+   ],
    "important": false
   },
   {
@@ -549,7 +567,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "the7eye.org.il"
+   ],
    "important": false
   },
   {
@@ -781,7 +801,8 @@
    "score": 0,
    "alsoIn": [
     "calcalist.co.il",
-    "calcalist"
+    "calcalist",
+    "Calcalist"
    ],
    "important": false
   },
@@ -2359,7 +2380,8 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790752907/WhatsApp_Image_2026-09-25_at_19.10.29_1_-1_xoemfc.jpg",
    "score": 0,
    "alsoIn": [
-    "HKN חיפה והקריות"
+    "HKN חיפה והקריות",
+    "hkn.co.il"
    ],
    "important": false
   },
@@ -5891,21 +5913,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5071284e1625",
-   "kind": "headline",
-   "title": "Israel courts Europe’s far right, finding friends but also unease",
-   "source": "Hürriyet Daily News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmNUaUtZWmhvVThkMzNrVXVPLVJtNkwzZFpTaFJIOUhVMjFVVW5yd1RiMXBSTXBqQlU0aEZfQmd3NU5lb0VlWFZjS1RVNV9saU9mYjhaU1BVeG5sZ3Zza2ZGem9QOVN2TEpFdmtCT0tQRUpHbmJmUG9tQ2Z4bHR3UGVUZkRFemt4T3B2N0Vvd2FDTWRjX0FrVWoyM181S3RiVFRGWFdPVQ?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T08:32:45.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "hurriyetdailynews.com"
-   ],
    "important": false
   }
  ]
