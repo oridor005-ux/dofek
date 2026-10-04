@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T12:04:49.309Z",
+ "updated": "2026-10-04T12:16:10.035Z",
  "items": [
+  {
+   "id": "2306db4cf749",
+   "kind": "headline",
+   "title": "חממת הפודטק שחזרה לקריית שמונה: \"עניין עסקי ויעד לאומי\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558196#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-04T12:08:00.000Z",
+   "summary": "Fresh Start הוקמה כדי לבנות אקוסיסטם בצפון של מזון וחקלאות אלא שאז פרצה המלחמה • בחצי השנה האחרונה חזרה החברה, שהשקיעה יותר מ־35 מיליון דולר, לקריית שמונה • \"ישראל הייתה חדשנית בחקלאות, אבל חיבור עם AI יוביל לדברים מדהימים\", אומרת המנכ\"לית",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1790869924/ronnie_dinkyu.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "18b5fe258bc8",
    "kind": "headline",
@@ -5814,20 +5828,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/81273432abf8c05689eb694989b893b4ec991c30/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ff341b2c84e1382c31fcd95ba054a755"
-  },
-  {
-   "id": "597089f94074",
-   "kind": "headline",
-   "title": "U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/asia/u-s-pressure-campaign-leaves-iranian-tankers-stranded-in-asian-waters-ba7bc23a?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-01T02:00:00.000Z",
-   "summary": "Dozens of Iranian or Iranian-linked vessels are adrift, as the U.S. threatens sanctions for countries or companies coming to their assistance.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://images.wsj.net/im-44324190"
   }
  ]
 }
