@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T00:23:12.867Z",
+ "updated": "2026-10-04T00:35:29.371Z",
  "items": [
   {
    "id": "cb6432c90211",
@@ -82,7 +82,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "Middle East Eye"
+   ],
    "important": false
   },
   {
@@ -111,7 +113,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "South China Morning Post"
+    "South China Morning Post",
+    "scmp.com"
    ],
    "important": false
   },
@@ -1565,7 +1568,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "timesofindia.indiatimes.com"
+   ],
    "important": false
   },
   {
@@ -1675,7 +1680,8 @@
    "score": 0,
    "alsoIn": [
     "reuters.com",
-    "Reuters"
+    "Reuters",
+    "WTAQ"
    ],
    "important": false
   },
