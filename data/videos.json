@@ -713,12 +713,22 @@
    "found": "2026-10-04T10:37:38Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692759155605802247.txt"
+  },
+  {
+   "id": "7692756414296640776",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692756414296640776",
+   "caption": "בעקבות האירוע ב\"פליי דובאי\": החקירה חושפת את האזהרות שהיו שם עוד לפני...",
+   "posted": "1791111600",
+   "found": "2026-10-04T11:07:30Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-04T10:52:40Z",
+  "at": "2026-10-04T11:07:37Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
