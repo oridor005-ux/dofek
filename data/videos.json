@@ -889,12 +889,23 @@
    "found": "2026-10-04T16:30:15Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692849496450993429.txt"
+  },
+  {
+   "id": "7692852644058008852",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692852644058008852",
+   "caption": "משנה כיוון | חפציבה ספירט כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע ...",
+   "posted": "1791131838",
+   "found": "2026-10-04T16:42:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692852644058008852.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T16:30:15Z",
+  "at": "2026-10-04T16:43:10Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
