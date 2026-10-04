@@ -865,7 +865,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791130983",
    "found": "2026-10-04T16:27:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692848974302088455.txt"
   },
   {
@@ -876,7 +876,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791130768",
    "found": "2026-10-04T16:28:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692848045821627649.txt"
   },
   {
@@ -887,8 +887,11 @@
    "caption": "השר בן גביר: \"פרובוקציה? מעשים נחוצים כדי להוריד את הפיגועים\" 👇 השר א...",
    "posted": "1791131105",
    "found": "2026-10-04T16:30:15Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692849496450993429.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692849496450993429.txt",
+   "insightIds": [
+    "ins-2026-10-04-b3g5"
+   ]
   },
   {
    "id": "7692852644058008852",
@@ -898,7 +901,7 @@
    "caption": "משנה כיוון | חפציבה ספירט כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע ...",
    "posted": "1791131838",
    "found": "2026-10-04T16:42:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692852644058008852.txt"
   },
   {
@@ -909,8 +912,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791134332",
    "found": "2026-10-04T17:28:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692863331098545426.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692863331098545426.txt",
+   "insightIds": [
+    "ins-2026-10-04-g8d2"
+   ]
   },
   {
    "id": "7692863109094034706",
@@ -920,8 +926,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791134279",
    "found": "2026-10-04T17:29:10Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692863109094034706.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692863109094034706.txt",
+   "insightIds": [
+    "ins-2026-10-04-g8d2"
+   ]
   }
  ],
  "health": {
