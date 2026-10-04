@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-04T09:20:44.348Z",
+ "updated": "2026-10-04T09:31:06.451Z",
  "items": [
+  {
+   "id": "c85a3fc7ef42",
+   "kind": "headline",
+   "title": "אקזיט הנקניקיות של שלושת החב\"דניקים: מוכרים 50% מהרשת תמורת 7 מיליון שקל",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/rj1ivyjjgx",
+   "topic": "deals",
+   "published": "2026-10-04T09:28:14.000Z",
+   "summary": "קמרי קמעונאות, מבעלי סבן אקספרס, רוכשת 50% מרשת המזון המהיר הכשרה זלמנ'ס, שמפעילה 12 סניפים ונחשבת לפופולרית במגזר החרדי. טרנד הנקניקיות צובר תאוצה לאחרונה: אחרי שיילו החלה למכור נקניקיה ב-5 שקלים, השף מושיק רוט ישיק השבוע רשת חדשה בתחום",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/BJHx2OksGx/BJHx2OksGx_31_430_666_375_0_medium.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "55c49100a17c",
+   "kind": "headline",
+   "title": "פצצה מתקתקת בשמיים: דו\"ח המבקר ומסמכי המל\"ל חושפים מחדל מתמשך",
+   "source": "וואלה כסף",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VOFExMGpXbGstUmV1alVGOFRScVpuUmlwZm4ycWRfYjJUY2tDamZHaUlKWG1MalBUZE1aQXIwdU9ncEI4NTZMdlVNcXdzNGg4b1E?oc=5",
+   "topic": "research",
+   "published": "2026-10-04T09:10:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d16df659521f",
    "kind": "headline",
@@ -72,6 +100,20 @@
    "important": false
   },
   {
+   "id": "78cd23fb3a89",
+   "kind": "headline",
+   "title": "At Least Nine Americans Died. The US Senate Blocked a Report on Their Killings",
+   "source": "Military.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVJnNHZHX0VvQWQxVExqZ0VFX2FLUWhXeHVISTlTdkk5TjRTSmxUb24xM3RXSllDZUFwMUJjNW9MRXRDeWo0cG1nMUNNWnJnVWZrck9rbmo1WEJOTG9OOV93Rm11d1lYeTVfZ3ZHMWZnSVlrc1hqMnppVUM3YVExbmEyLURWMVNjOFUxT2VzazI?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T09:00:14.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "89d12aa0984f",
    "kind": "headline",
    "title": "זעם בניו יורק: \"תוכנית האנטישמיות של ממדאני מתעלמת מישראל\"",
@@ -110,7 +152,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "swissinfo.ch"
+   ],
    "important": false
   },
   {
@@ -256,6 +300,20 @@
    "important": false
   },
   {
+   "id": "cba9d3571261",
+   "kind": "headline",
+   "title": "\"יהודים הם מפלצות\": 8 חודשי מאסר לאנטישמי שהשחית את בית הכנסת העתיק בקנדה",
+   "source": "וואלה",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CNmtDY1pUcDZ3bDNzSHVZMVl3ODZMS3NJS2NtLUJORVl5UUQyOVBrQWxqb2k0SVFYN0VKTmNYMVBkenZTd19JSlpLcUxqNmNUSHBMcWdHYw?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-04T07:14:31.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "eaf8bc8558cc",
    "kind": "headline",
    "title": "ספורה זרקה אותו והמנכ\"לית נטשה: כך קרס המותג המבטיח של סקהרלט ג'והנסון",
@@ -310,7 +368,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "sponser.co.il"
+   ],
    "important": false
   },
   {
@@ -400,6 +460,20 @@
    "important": false
   },
   {
+   "id": "443df77e9b3f",
+   "kind": "headline",
+   "title": "Fruitful Budget Session",
+   "source": "The Rising Nepal",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vVURvYUxkeW5DY0FnVGJQT3gyQVppT3A0N2lLREtOMUZvYVNwWEw5RE8zTnYyY25LZFc2OGVzV05xakJLUlVnNzN3WUo4YldD?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T05:46:12.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "d8d541eafe4b",
    "kind": "headline",
    "title": "בחצות: מחיר הדלק יוזל ל-7.77 שקלים",
@@ -440,7 +514,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "sponser.co.il"
+   ],
    "important": false
   },
   {
@@ -455,7 +531,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Bernama"
+    "Bernama",
+    "bernama.com"
    ],
    "important": false
   },
@@ -881,6 +958,20 @@
    "alsoIn": [
     "japantimes.co.jp"
    ],
+   "important": false
+  },
+  {
+   "id": "d7dc228de6d4",
+   "kind": "headline",
+   "title": "Israeli strike kills five, including four women in",
+   "source": "The New Nation",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LbTZ5cnBjRFh2MXp2V2l2bTR1ZVVtU2xTY1p6TjduaHlyRjFjd05LUU5RTTlzYk41R1lGdXNzWGJRSjJSRFhuRlpRRVlEeFU?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T00:17:31.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -3133,7 +3224,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "economist.com"
+   ],
    "important": false
   },
   {
