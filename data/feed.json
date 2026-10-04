@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T10:31:17.475Z",
+ "updated": "2026-10-04T10:43:30.108Z",
  "items": [
+  {
+   "id": "775413a5d308",
+   "kind": "headline",
+   "title": "סידני סוויני והפרסומת הפרובוקטיבית: זינוק דרמטי בנתוני החברה המפרסמת",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/hy6ossyjge",
+   "topic": "econ",
+   "published": "2026-10-04T10:26:07.000Z",
+   "summary": "הקמפיין של הכוכבת לחברת נוביג הקפיץ את היקף המסחר בפלטפורמת שוק החיזויים בכמעט 94%, ומספר היוזרים שנכנסו אליה בפעם הראשונה עלה ביותר מ-218%. המייסד בתגובה לביקורת על הפרסומת: \"אין לנו על מה להתנצל\"",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/r1TCr1lYzx/r1TCr1lYzx_18_0_1729_973_0_medium.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9442bbd5f58b",
    "kind": "headline",
@@ -180,7 +194,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "military.com"
+   ],
    "important": false
   },
   {
@@ -530,6 +546,20 @@
    "important": false
   },
   {
+   "id": "187801a07b62",
+   "kind": "headline",
+   "title": "“Like a rogue state”: Netanyahu turns Britain’s insult back on London",
+   "source": "israeltoday.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjhkR29jT1M1REU1TlJVQlNTTGxUUFF3VE9fSE1zRFYteW9ncWtDX2N0UFl4WWdTYWpOeFdaNy1ETVhuSHBkelhpanBFV2VvUVBfNEprSXdzeTUtUFowRDR2U2hNdENZOVJRNmVHSEQyQkdBVDhKTFI2RTkyQ1FGRmpjd1VvbURxZERuTldIT1hwUEJ2cHNaS1ZHRHRlbGVqUEww?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-04T06:00:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "04e7c1cf91a3",
    "kind": "headline",
    "title": "הבוקר: שלב נוסף בפרויקט הנתיבים המהירים יצא לדרך - הדרך לת\"א מתקצרת",
@@ -618,6 +648,20 @@
     "Bernama",
     "bernama.com"
    ],
+   "important": false
+  },
+  {
+   "id": "bca894a71e48",
+   "kind": "headline",
+   "title": "Bill passed - $20,000 limit set for political donation by Fijian and former Fijian citizens",
+   "source": "Fijivillage",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkkzeXUwb2hEdTkwb09tenpTUkpzY3VJNWdBRkZvWE56VExXcEhyRzFLM3BTM2RFUlJYQnk5NnQzNjNEUk91MVF5V0M2eDdNNWpJMHY3NWYxbHo1WW9zV0dqUGV3Vkh3bUpvdGlQME81NG9nNmpBSENsUHJtQnR2YUl5VzhOWmlJTmE3MURQbm9HSlNETEpWRHE0bU9JM0ozbWJvQzNTd0hzOVc1VERHa0pCTzRWRmFLbHNEaU1hR2NEYUtF?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T05:03:58.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
