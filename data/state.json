@@ -44,7 +44,7 @@
   "ins-2026-10-04-hg7c"
  ],
  "pending": [],
- "lastRun": "2026-10-04T16:10:51.679Z",
+ "lastRun": "2026-10-04T16:22:01.165Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -71,7 +71,7 @@
    },
    "at": "2026-10-04T15:47:10.349Z"
   },
-  "lastNewItemAt": "2026-10-04T16:10:51.679Z",
+  "lastNewItemAt": "2026-10-04T16:22:01.165Z",
   "lastPushOkAt": "2026-10-04T16:10:51.679Z",
   "googleOkAt": "2026-10-04T15:47:10.349Z"
  },
