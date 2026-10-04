@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-04T14:01:23.908Z",
+ "updated": "2026-10-04T14:01:39.243Z",
  "items": [
+  {
+   "id": "04717ef95d5a",
+   "kind": "headline",
+   "title": "Dutch lawmakers seek to reclassify abortion as 'health care'",
+   "source": "liveaction.org",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa1RTZEg2clRZYWkxYVN0dnJlTnNONUp6VnBxWWxTWjQwUlF0LURab3NTelVDTlVtdDBaWnk4Z002X0Vvd3BSS19jMzJ4WEVtcTJkU0dkQ0k0X3VZcGxDR1hDekdpYWJCR0tJdWFCeXlsOFRTM0doTG1aYmxQSWtEWGVOeFNZdzhGR1kxVw?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T14:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "28a5fc039489",
+   "kind": "headline",
+   "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+   "topic": "world",
+   "published": "2026-10-04T13:56:57.000Z",
+   "summary": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
+   "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-iran-economy-01-whtg/04int-iran-economy-01-whtg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "21f0af349a9f",
    "kind": "headline",
@@ -68,7 +96,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Nacionale News"
+   ],
    "important": false
   },
   {
@@ -412,7 +442,8 @@
    "score": 0,
    "alsoIn": [
     "Ottumwa Courier",
-    "Oskaloosa Herald"
+    "Oskaloosa Herald",
+    "oskaloosa.com"
    ],
    "important": false
   },
@@ -5827,34 +5858,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/b870998eeaf70dab6f49c2eb5b9a5b094baf1bde/353_0_2191_1753/master/2191.jpg?width=140&quality=85&auto=format&fit=max&s=1a6672be57d90f57c2b0d6abde159f33"
-  },
-  {
-   "id": "60e7f97fc3cf",
-   "kind": "headline",
-   "title": "דולפינים שמעבירים ידע, תמנונים עם \"מדריך\" ותמרוני חתולים: מה קורה כשמסתכלים על חיות אחרת?",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558210#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-01T15:19:00.000Z",
-   "summary": "באוסטרליה צפו כיצד נקבת הדולפין מעבירה טכניקת ציד לגור שלה • מחקר גילה שלחתול יש \"טביעת אצבע\" כימית שרק חתולים מסוגלים לפרש • כאן נכנס למשוואה ה־AI, שיאתר את מה שבני האדם פספסו",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789045452/%D7%93%D7%95%D7%9C%D7%A4%D7%99%D7%9F_hmnwi8.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "aac0d5c2f31d",
-   "kind": "headline",
-   "title": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
-   "source": "Defense News",
-   "url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
-   "topic": "defense",
-   "published": "2026-10-01T15:01:55.000Z",
-   "summary": "Belgium is pushing to get new naval frigates on time, as a joint procurement with the Netherlands is delayed by years.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2KD66FNFKJFPTLSZ3GZAFLPDYE.jpg"
   }
  ]
 }
