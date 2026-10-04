@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T10:19:56.544Z",
+ "updated": "2026-10-04T10:31:17.475Z",
  "items": [
+  {
+   "id": "9442bbd5f58b",
+   "kind": "headline",
+   "title": "מנכ\"ל ג'נריישן: תרחיש העלטה לא מאחורינו, מצב הפקקים יהיה יותר גרוע",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558159#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-04T10:00:00.000Z",
+   "summary": "עסקת ענק של כמעט 4.5 מיליארד שקל לרכישת שיכון ובינוי אנרגיה עומדת לפני המשוכה של רשות התחרות, אבל מנכ\"ל ומייסד הרוכשת, ג'נריישן קפיטל, לא מודאג • בשיחה לפודקאסט \"כוחות השוק\", ארז בלשה משרטט את חזון התשתיות הלאומיות, מזהיר מתרחיש העלטה (\"נזכה לשקט רק ב־2032\") ומבטיח שהפקקים עוד יחמירו לפני שישתפרו",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1790842087/800_%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98_%D7%9B%D7%95%D7%97%D7%95%D7%AA_%D7%94%D7%A9%D7%95%D7%A7_tdahy9.png",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d830992aab41",
    "kind": "headline",
@@ -109,6 +123,20 @@
    "published": "2026-10-04T09:02:26.000Z",
    "summary": "Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.",
    "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04pol-sc-dreams-topart-01-hgcz/04pol-sc-dreams-topart-01-hgcz-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f53cbb9a2590",
+   "kind": "headline",
+   "title": "Brazil Election: What to Know as Lula and Bolsonaro Face Off in 2026 Presidential Race",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html",
+   "topic": "world",
+   "published": "2026-10-04T09:02:22.000Z",
+   "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a race that could define the future of Latin America.",
+   "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-brazil-elections-takeaways-lwfc/04int-brazil-elections-takeaways-lwfc-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
