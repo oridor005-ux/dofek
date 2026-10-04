@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T11:53:25.577Z",
+ "updated": "2026-10-04T12:04:49.309Z",
  "items": [
   {
    "id": "18b5fe258bc8",
@@ -108,6 +108,20 @@
    "topic": "deals",
    "published": "2026-10-04T11:17:00.000Z",
    "summary": "ארגנטינה תאפשר לזרים לקבל אזרחות בתמורה לתרומה של 350 אלף דולר או לרכישת אג\"ח ממשלתיות ב־800 אלף דולר, בעוד המבקשים לא יידרשו להתגורר במדינה • התוכנית נועדה לסייע למדינה להגדיל את יתרות המט&rdquo;ח, לקראת תשלומי חוב של כ־25 מיליארד דולר הצפויים בשנה הבאה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791112054/shutterstock_2741216327_rreh10.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2c31aad16dbd",
+   "kind": "headline",
+   "title": "רוצים דרכון זר? המדינה שתעניק לכם אזרחות תמורת מאות אלפי דולרים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558336#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-04T11:17:00.000Z",
+   "summary": "ארגנטינה תאפשר לזרים לקבל אזרחות בתמורה לתרומה של 350 אלף דולר או לרכישת אג\"ח ממשלתיות ב־800 אלף דולר, בעוד המבקשים לא יידרשו להתגורר במדינה • התוכנית נועדה לסייע למדינה להגדיל את יתרות המט\"ח, לקראת תשלומי חוב של כ־25 מיליארד דולר הצפויים בשנה הבאה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791112054/shutterstock_2741216327_rreh10.jpg",
    "score": 2,
    "alsoIn": [],
@@ -5814,20 +5828,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://images.wsj.net/im-44324190"
-  },
-  {
-   "id": "8b5ede19c8fa",
-   "kind": "headline",
-   "title": "Defying Trump Has Given Carney a Popular Mandate to Transform Canada",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/americas/defying-trump-has-given-carney-a-popular-mandate-to-transform-canada-489a30ac?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-09-30T14:59:00.000Z",
-   "summary": "The prime minister has high approval ratings even as he ushers in once-unthinkable changes on the environment, defense and foreign relations.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://images.wsj.net/im-69309921"
   }
  ]
 }
