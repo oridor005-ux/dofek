@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-04T23:21:56.964Z",
+ "updated": "2026-10-04T23:34:08.231Z",
  "items": [
+  {
+   "id": "f321a4816345",
+   "kind": "headline",
+   "title": "The Sozialistische Gleichheitspartei election result in the Berlin state election",
+   "source": "World Socialist Web Site",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WNTBkekkzcnRWUF80SkpjYXVYVnpvNkh4ZVZaaVQxU0dNaFRVWXczNnBTRkdic1RBUzNzSTNGRzkwUEFleHkwOURXUEtXRTg5aTc5TUFwU1NoS1FZZWhDa2ZKOWw0eDRw?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T23:17:03.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "79ed11738de3",
+   "kind": "headline",
+   "title": "Nationalist Parties, Dodik Dominate Bosnian Election Amid Low Turnout",
+   "source": "rferl.org",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHI4aS1CeUlfU1FVZnBGZ3NvcTNub24zQzh3UkY4N0lnUDBodnljQWt2Z1I0V0docEY0WXBTU0lTVzRBbzFHamtOZ195dG1lR18wUUlJVExEY0ZwTFpTbDB6QmJhRGFXYTRteDhYZGFpVnVqVXVDLVk2S1VfSjVnWXhVSUZ2S3hqbTRVZFQ3dmxMbXRidVNRdUM0MGJ0QVBr0gGjAUFVX3lxTFBDVE9JYzF0U1Npd3VyZThOWVMxQi1lbmNBR0hfN3JoQzVya0ZkR0RNVlItQlAzNGk0c2ltR2Y1UXZ1VGRvZ2dNZm5FZ0JoUU5lVVNfVjFycVQ1Q3hFaTJQRGxzdTY1MWtXZzlDc2x2Wldsd3pSNHNONVNDdnFGSUtjb3FKclljM2RMczUzZHZWNnp4VC1ISmxwVmw4N053N1lXaW8?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T22:20:58.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "bc57d78a89a8",
    "kind": "headline",
@@ -138,7 +166,9 @@
    "summary": "Yemen’s Saudi-backed government said on Sunday it was launching a major military campaign to recapture all areas controlled by the Iran-backed Houthis.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6BY3JF7JM5FZ3COQQIR5P5W3VM.JPG",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Reuters"
+   ],
    "important": false
   },
   {
@@ -1225,7 +1255,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "lemonde.fr"
+   ],
    "important": false
   },
   {
@@ -1628,7 +1660,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Fijivillage"
+   ],
    "important": false
   },
   {
@@ -5883,36 +5917,6 @@
    "image": "",
    "score": 2,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2507445c5786",
-   "kind": "headline",
-   "title": "Latvian Parliament Passes Law Restricting Russian Language in Media",
-   "source": "News.by",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTZhT1c2enF6ajAzbG1qalBzcHkwenVaRkpwUGxVUzRSb1YyOXMybXlvY0s2Y0pacElrRnN1blZCWVIwOGtMVndhOVZuc1U0eWZCVnNzUk56ak8wZ3hQcXo5VXRoMjB0NHcxWjdRZnpqVHZ3QmNLQW5maGZMSl9XRUFIdWNyWWwyOXNTNWlOYndXRk1iSzlzaTVwOTFuVGtr?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T08:49:40.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "news.by"
-   ],
-   "important": false
-  },
-  {
-   "id": "1a42257620ea",
-   "kind": "headline",
-   "title": "Elbit Opens Drone Factory in Serbia",
-   "source": "European Security & Defence",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IdHZfZEZzNVhRTWtDRkM1WjVYbGl0Q0Y2dmVyMHY0SkxzQmJ2T0ZHckExR1dUNFhIbFozYjBvN2FwZjZQd1J5aV8zdWZDbU1fNEpQTjFiZkU2RV9neXJHVWVuRmIxQQ?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T08:45:29.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "euro-sd.com"
-   ],
    "important": false
   }
  ]
