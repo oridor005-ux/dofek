@@ -46,7 +46,7 @@
   "ins-2026-10-04-b3g5"
  ],
  "pending": [],
- "lastRun": "2026-10-04T18:30:09.052Z",
+ "lastRun": "2026-10-04T18:41:29.421Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -77,7 +77,7 @@
    },
    "at": "2026-10-04T18:07:32.867Z"
   },
-  "lastNewItemAt": "2026-10-04T18:30:09.052Z",
+  "lastNewItemAt": "2026-10-04T18:41:29.421Z",
   "lastPushOkAt": "2026-10-04T18:19:01.460Z",
   "googleOkAt": "2026-10-04T17:32:29.558Z"
  },
