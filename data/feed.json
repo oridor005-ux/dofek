@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T15:00:12.291Z",
+ "updated": "2026-10-04T15:11:47.253Z",
  "items": [
+  {
+   "id": "c92a323cc072",
+   "kind": "headline",
+   "title": "מזומנים לבוחרים: טראמפ מחלק צ'קים לקשישים ומבטיח סכומי עתק לציבור",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558389#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-04T15:09:00.000Z",
+   "summary": "שבועות ספורים לפני בחירות האמצע, נשיא ארה\"ב הכריז על חלוקת מענקים חד־פעמיים למיליוני מבוטחי בריאות, לצד הבטחה גרנדיוזית לחלוקת דיבידנד של 5,000 דולר לכל אמריקאי • מחוקקים בשני צדי המפה הפוליטית מטילים ספק בהיתכנות המהלך, שלא פורט כיצד ימומן",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791122789/AP26277077769741_lcttx1.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "63535f1eb67e",
    "kind": "headline",
@@ -5841,23 +5855,6 @@
    "summary": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "de0f0e91c363",
-   "kind": "headline",
-   "title": "Democratic group offers a new framework for the US-Israel relationship as party rifts deepen",
-   "source": "Lowell Sun",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCaGowUHBxS2I2VjU4VDB0aGJBaEtDcDBmZWl3V1RoeDJlTzN4a3owX2swS3czQ0hmU0MxTWIzTUhVVlkxSE1rS2ZWdFVuVnY5SXIxQnpIMnZ5LW9ELWxiSXAwY3NHVGRuSFdUR0pFRzc?oc=5",
-   "topic": "defense",
-   "published": "2026-10-01T21:26:58.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "KOB 4",
-    "Mainline Media News",
-    "Marin Independent Journal"
-   ],
    "important": false
   }
  ]
