@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T16:57:08.705Z",
+ "updated": "2026-10-04T17:09:23.746Z",
  "items": [
   {
    "id": "e058cda3619e",
@@ -12,6 +12,34 @@
    "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5178be252042",
+   "kind": "headline",
+   "title": "10th National Assembly Is a Charity Organisation",
+   "source": "The Guardian Nigeria News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2MtSmJ1YjRhWFNDNzY2Njd3SlhIRUNJeG9LUE5sUzd0OUdmeHU4ZEd0YmxXQjMydXpkUUJ1M29wNkJtZkFUVi1Qa09xZlJxLTl4TFBHbGVOVWV2RnZpdFF3SG82UFRtQ041ZzhzTWNWRTdmTWlWWUJodHlwaEZsWmVSU2s?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T16:33:27.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f8e4392abf23",
+   "kind": "headline",
+   "title": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ld3o4d2RuWGlVUG5scXB4d3AxRkVkTTdWMVUwN3VHU1Y3VVhQcmtySUtsUnVDZ1BFM25GTXY3akxCQzRSZnFxZ0I2dmw5YmxpX0xQTFplMjVxOVBXU191Yk5UZ0hIOE9tamdqZElDSTRvcEZ4cnk4YjVtTmE?oc=5",
+   "topic": "defense",
+   "published": "2026-10-04T16:25:34.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -140,7 +168,8 @@
    "score": 2,
    "alsoIn": [
     "ynet כלכלה",
-    "YNET"
+    "YNET",
+    "calcalist"
    ],
    "important": true
   },
@@ -229,6 +258,20 @@
    "important": false
   },
   {
+   "id": "0eab700bf4a7",
+   "kind": "headline",
+   "title": "Morocco’s Elections in a Time of Despotism: Why Ballot Boxes Don’t Produce Liberation",
+   "source": "International Viewpoint",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0gxMzRBSUdxS2pQQ1h2X0htRGNhRkFselRac09JVHU1Umt0Y3NBcmtmckpLdUxWR09jaWJMSklpSGZCVUp4T1Boamtpck1seDI0MkNUUlNLdHhvbWQzMGJhdkhvUkl2QnZ2TjQ4cllJbzdZUjdKdlpWR3liR0k4b09sQ3hFNUxEYUROZGUycnRQV1BxU2ludTAtamc3N3EtcVNuSXZxMFVVSmV5?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T14:34:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "b590f566c7e5",
    "kind": "headline",
    "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
@@ -308,6 +351,20 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa1RTZEg2clRZYWkxYVN0dnJlTnNONUp6VnBxWWxTWjQwUlF0LURab3NTelVDTlVtdDBaWnk4Z002X0Vvd3BSS19jMzJ4WEVtcTJkU0dkQ0k0X3VZcGxDR1hDekdpYWJCR0tJdWFCeXlsOFRTM0doTG1aYmxQSWtEWGVOeFNZdzhGR1kxVw?oc=5",
    "topic": "world",
    "published": "2026-10-04T14:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5c84185bd24d",
+   "kind": "headline",
+   "title": "Latvia has adopted a pro-Ukrainian stance: the Prime Minister’s party has secured a historic victory",
+   "source": "UkrMedia News",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qX0ZPczlYWkQ5aFFWZjdzMTB3MnJBS0M3S2xFTFRVYS1ZYUthRFo4VThfQnY2NXR5YXhCUDR6YkNjT1h1NmhlRWlKUlNob3QzSnp6QXB4aGU1d2cxYzRheE90bXB4djNxc1BPYnJuVzRQQQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T13:58:29.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -644,7 +701,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "maariv.co.il"
+   ],
    "important": false
   },
   {
@@ -5819,63 +5878,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790868755/WhatsApp_Image_2026-10-01_at_11.44.29_dpcsgz.jpg"
-  },
-  {
-   "id": "440745982533",
-   "kind": "headline",
-   "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-02T03:09:13.000Z",
-   "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fd/live/4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg"
-  },
-  {
-   "id": "3dd1c2799777",
-   "kind": "headline",
-   "title": "US waives human rights condition for $320 million in aid to Egypt — Daily Maverick",
-   "source": "UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHdKdkh2V180akhSeS1ObmUzWEZRdDc4U1FFV2FrZlZSSUxkWHBZMGZTSXBMTkNWLXAzRFhycmFQV2dhMXd4VUYwN2R5U1g3WFRaN2Q4a0hnVl90MHBqWVZ1RGZlODhfMnoyQXE0VGw4OEZ6NUhVcWFoMGU2VmV4eDNGMWsyVVYxMjZhODBYQWp5S1RVangxVHhLbFZHeEl3SGxtdktn?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T03:05:45.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a44e9960cd4f",
-   "kind": "headline",
-   "title": "עזבו את ישראל, אבל יחזרו לקלפי? הסלבס שעשו רילוקיישן",
-   "source": "פנאי פלוס",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUekttZVU4c0trcFhhNmR3Yy1SY1l3ZTRuaDZ5RFd3UHZYTDBGMXZJUHByRnJuNXY5MmVyU0daMzlWODBkU1Rnd3o3NU9tUmhXMHE3Zl92V0pSbHQ1cmlfajFR?oc=5",
-   "topic": "demo",
-   "published": "2026-10-02T03:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "pplus.ynet.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "d452cc652a2f",
-   "kind": "headline",
-   "title": "NZ Law – A constitution in question: new book argues case for reform",
-   "source": "LawFuel.com",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEZCTnh4QlhmaWhaMlZnNXVLNU5nVmlCVURZTHR6dmVGUG53Tkg0aVRzd2x3bURIZ3VPWDVpQ1pEbDJOY0JjZV9xWWxkb2FqTi1pLU9EM2tKRlhKb3dFM0xIdmc2LW14TWhFUlFEek53b0JFa18wNURNVXhyQVhqSXNISWstdWcycVIwZkowbXlPcEJa?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T02:51:52.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
