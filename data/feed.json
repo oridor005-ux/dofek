@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T21:49:11.571Z",
+ "updated": "2026-10-04T22:00:31.827Z",
  "items": [
+  {
+   "id": "0f1551a7c347",
+   "kind": "headline",
+   "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
+   "topic": "world",
+   "published": "2026-10-04T21:53:42.000Z",
+   "summary": "President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.",
+   "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04dc-trump-midterms1-tfjh/04dc-trump-midterms1-tfjh-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "655ee2b51ff5",
    "kind": "headline",
@@ -5892,19 +5906,6 @@
    "alsoIn": [
     "hurriyetdailynews.com"
    ],
-   "important": false
-  },
-  {
-   "id": "0ae678195d6b",
-   "kind": "headline",
-   "title": "US exempts $320 million in military aid to Egypt from human rights conditions",
-   "source": "Middle East Monitor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTd4UTVyWG1jQUl1WHFxYVRlbWpmTnNQbHg1MmNCdkxiZjRqc1NST2hBcDRGLU4zdGhzeExVMV9qVnl0QzJmMzN5aU5iNFdyV1JnZkNpNEppcWdtbHcwc1VlMEJDZG5TWWs1OVp0aE1QWXhmYmUzczhPelpSVVVMSE9lSDFfRUNKajBXb2l0akxjc0NYNjlpZ3FmaGhJcUg0SlZxV01MbTBCSnR6c3ZpclVBSjhleGhKaWZfddIBwgFBVV95cUxNdHRMeGtSbGdtLWU5V3VWSkdubDVVc1hjWTZsaVZ3ZzFFdjNJaU1qWkpGYlFVZkpIb3FGUWlFZXhrV0dramtHUEYxc09YTXlQbkZSaHU5dUVxd0llQ3hjVzkySk1KWTVaampNU2tKUjdXZUlwTXA1SXhYbHVsTEtLaUdqT0hadC1vR04wazVxNVU4TVRZUElHTENhVkJpQ1hmMXMxbWFvMkNYY09mTmM2Q3F5dXpIbnhiUHdwNFMycFBQdw?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T08:27:00.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
