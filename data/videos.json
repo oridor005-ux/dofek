@@ -772,12 +772,23 @@
    "found": "2026-10-04T13:09:31Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692797217425345812.txt"
+  },
+  {
+   "id": "7692802724286549269",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692802724286549269",
+   "caption": "מחווה לזכר נרצחי 7 באוקטובר: אופ״א נענתה לבקשת ההתאחדות לכדורגל, ושחק...",
+   "posted": "1791120216",
+   "found": "2026-10-04T13:39:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692802724286549269.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T13:24:29Z",
+  "at": "2026-10-04T13:39:58Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
