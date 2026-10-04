@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T13:15:08.974Z",
+ "updated": "2026-10-04T13:26:29.542Z",
  "items": [
+  {
+   "id": "e023c1c66938",
+   "kind": "headline",
+   "title": "הלילה: מחיר הדלק יירד ב-50 אגורות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558348#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-04T13:21:00.000Z",
+   "summary": "הורדת מס הבלו תיכנס הלילה לתוקף, ומחיר ליטר דלק בנזין יירד ל-7.77 שקלים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1718712142/direct/20240601_124336_tvcp7b.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a3d6a1673175",
    "kind": "headline",
@@ -5834,20 +5848,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/bf568a300521e3ebb7d9f329f99ba341a9d74768/580_0_3829_3064/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=f2d05a41a13c2bba8893b8443f75392e"
-  },
-  {
-   "id": "08a7d379cad5",
-   "kind": "headline",
-   "title": "פרויקט הנתיבים המהירים מתקדם: מתחם חדש יקצר את הדרך לתל אביב",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/b1pkfoo5zx",
-   "topic": "econ",
-   "published": "2026-10-01T10:35:56.000Z",
-   "summary": "ביום ראשון ייפתח במערב ראשון לציון מתחם עם 3,500 חניות לרכב פרטי, ממנו יצאו ארבעה קווי שאטלים חשמליים חינמיים בנתיב ייעודי אל מרכזי התעסוקה בת\"א. אלא שבדומה למתחם בשפיים, גם כאן אין חיבור לרכבת או לקווי אוטובוס, ומי שלא ",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/24/By9nieoO11e/By9nieoO11e_0_57_1264_712_0_medium.jpg"
   }
  ]
 }
