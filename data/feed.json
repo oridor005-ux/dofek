@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T20:27:00.040Z",
+ "updated": "2026-10-04T20:39:11.002Z",
  "items": [
   {
    "id": "45efc662e984",
@@ -154,7 +154,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "אמס"
+   ],
    "important": false
   },
   {
@@ -750,7 +752,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "tvpworld.com"
+   ],
    "important": false
   },
   {
@@ -1787,7 +1791,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "risingnepaldaily.com"
+   ],
    "important": false
   },
   {
@@ -2048,6 +2054,20 @@
    "alsoIn": [
     "english.onlinekhabar.com"
    ],
+   "important": false
+  },
+  {
+   "id": "e4b68a0356b4",
+   "kind": "headline",
+   "title": "במחירי שיא: 4 דירות בירושלים נמכרו בכ-100 מיליון שקל",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUY1l3UWNNclM3WE1fZ2lSSE1sVWJYZE5MMll0ZkNjVWJVeVM4cGpqRi11RmFQWVhGU2ljeGxyTkFxVEx3WmM1eUxYdEViNjZMdmdwdHhQMXNNUmstcklfSGlIVQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T03:25:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5881,19 +5901,6 @@
    "alsoIn": [
     "חדשות 04"
    ],
-   "important": false
-  },
-  {
-   "id": "3dacdad3ec8b",
-   "kind": "headline",
-   "title": "US Introduces Bill Against Illegal Israeli Settlement in Palestine",
-   "source": "enews.hamariweb.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnk4UlQxU2MwMnJaYXdyMmJZU3JBNEJfXzhQY1JkeHpQVDd2bjIzVnpNZWJhanM1WDVIWHZ1ekU2b0VOWkVvb2dkLTFvQnZpVl9yaENXc2NKa2xNU1ZRMTZjMEJfV3Zkem9NaHlmelJhMVFyNE53WEtVSU5XcTgxYVlGWHo0cVhCQW02RF81bHlWQ3U3R1ZZVzdQUmpBdzdqM3FR?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T06:40:47.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [],
    "important": false
   }
  ]
