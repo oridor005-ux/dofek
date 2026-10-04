@@ -846,12 +846,22 @@
    "posted": "1791128296",
    "found": "2026-10-04T15:41:05Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7692843856018115860",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692843856018115860",
+   "caption": "בעקבות המחדל שנחשף באבטחת הטיסות הזרות לישראל, באופוזיציה דורשים תשוב...",
+   "posted": "1791129793",
+   "found": "2026-10-04T16:11:17Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-04T15:55:49Z",
+  "at": "2026-10-04T16:11:26Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
