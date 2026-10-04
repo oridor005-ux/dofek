@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T01:33:23.375Z",
+ "updated": "2026-10-04T01:45:39.743Z",
  "items": [
   {
    "id": "6d9baed635ab",
@@ -44,6 +44,20 @@
    "important": false
   },
   {
+   "id": "adec00d392f7",
+   "kind": "headline",
+   "title": "Host of contentious bills await Takaichi in autumn session of parliament",
+   "source": "The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2pZUEVyTHBvaFZqbUN3aDZlRkM2YkViREpJd1J4OGpHRlVhME03Y3kyR29DT3JXLXloNGFMblBUN3h0MGVaZFh5emxzRVh1WFJ4WkwtU3BLZ2Q5ZkE1VHphOTI1aENkaTB5bUdGYzZ1NUExOUpCOUlidklXQjZwN0pKSHhheU9iY1dxUHc0M0N4aU9aMHdaR0RWbw?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T00:38:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "cb6432c90211",
    "kind": "headline",
    "title": "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem",
@@ -65,6 +79,20 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQjNGbXhTUHY1LVVId0JXcW9WUU1oQmxSdWVnSl9yUl8wekFGMWdiT0YydDFNaGZDM09xWERJVWFnUlhySWtfVm96MzFSYlpvaFpZWEs4eTZyS3MxaGZXamNVMWRXT0xaOXFFdUJxSlBoOFBUWEZnSy11WGY2YkVJMWc5WTgxTUZW?oc=5",
    "topic": "world",
    "published": "2026-10-03T23:38:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2e2c7cc5b660",
+   "kind": "headline",
+   "title": "Ghana bans preaching on buses with jail terms for offenders",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3NTVGV3cwd3M1SmE2dElTaC1XZmYteXM2TF8yS0Y1MF81OEYzWjg5bkZZdUg3X3RiaGxCMnlmcGtnSkFSVGhKUFg4LTc2WVJ2WUVKeHlCSHgzTjVrNGc?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T23:37:46.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -110,7 +138,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "politics.co.uk"
+   ],
    "important": false
   },
   {
@@ -1450,6 +1480,20 @@
    "important": false
   },
   {
+   "id": "f3a6e952fd9a",
+   "kind": "headline",
+   "title": "Latvia: Ruling party leads in exit polls amid populist gains",
+   "source": "dw.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVN2cHRoWTZXTUJvakxLV2o5NzZaMzFCd3NYMnQ0c3g4UXNhaFFUUjdjWE1TTWxHRG5aaVdxSkVQaWNSSXMzZDFPOUhVb2pFb0c0WDJIQjBWejJUZTBONEJiMjBab0U2UTIwakprZlNfNWkxVXlqUlp2SUJSa2Fpam9EUS1WWmd0R2hXMWROR3NBM3AtWkxN0gGXAUFVX3lxTE0tZklMbHNIQnhOeEdiWjVsOVJhaGp0VjJRVVFrSWJkbDBCWVAxZjlmN3pxS01nd0RFQVhyWEZraUptVUhWRUFOWV95cnlodGMydVpSNzBPOWk3MFRUZEZCQW80RGxHSDBqS2RPZHkwcXM1bzgxRGM5RjRZWTZlNTUwLUJQREx1ZTRmNVlvS0lPSEwzbkdrdVU?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T06:07:24.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "4d46ddeabdd2",
    "kind": "headline",
    "title": "What is Zionism and why do some critics describe it as racist?",
@@ -2313,7 +2357,9 @@
    "published": "2026-10-02T16:19:05.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "guardian.co.tt"
+   ],
    "important": false
   },
   {
