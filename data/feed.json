@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-03T23:48:08.800Z",
+ "updated": "2026-10-04T00:00:26.351Z",
  "items": [
+  {
+   "id": "1670789df873",
+   "kind": "headline",
+   "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQjNGbXhTUHY1LVVId0JXcW9WUU1oQmxSdWVnSl9yUl8wekFGMWdiT0YydDFNaGZDM09xWERJVWFnUlhySWtfVm96MzFSYlpvaFpZWEs4eTZyS3MxaGZXamNVMWRXT0xaOXFFdUJxSlBoOFBUWEZnSy11WGY2YkVJMWc5WTgxTUZW?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T23:38:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9b85767f3977",
+   "kind": "headline",
+   "title": "Cornell president says university 'must do better' after frat house rape allegations",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-03T23:35:59.000Z",
+   "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2d69c29474ef",
+   "kind": "headline",
+   "title": "Exit polls show pro-Ukraine United List party leading Latvian parliamentary elections as counting begins",
+   "source": "The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3RDdnllekdnQ05DdHhkUF9PVWowWEtibWIxbmhUSUJRdmlrOTJwSHZLXzVrTGh4MmFxejd2ZE9ZSjBnWjBiTURyMVZ0YmNVcVltY2lCSXc5R2RwQU5uQkFyTmxteGQ1OF9uWERGSUJaT2wxUVVlWVVpY3FheEZqSWVPc0NSU1lhTjU2cV96R2RWcTZaZVR6NW9wQVNJQXlBUnlKUEtnOEx0RDludVRrQk5DNDFaV3hSWEppV2JpZHRmUGlDeGdxTkhFUzZLUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-03T23:28:31.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e8d991887353",
+   "kind": "headline",
+   "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnVDY1ptdmZlblBLZHgyQ1RuWlVYSzlwVk5tSmlyU2lrWUlGel9SSFl6Wmw2bkxuUm1zUF9LUkpuT3FWTDBJSlI2UTVCZWswV0cycUJKRWYyWVpSTzZsNUdSV0JTdGpiYnhRRVo5Y2RSWTVTX0N5VXFHb19FOElKdEpsSEhaQ2JOdkZCS2lXcC1vZHhwanBRTFd6ZTRjbENMeXYwbUpQZ2l6bkRqcVHSAa4BQVVfeXFMTkp1Q2NabXZmZW5QS2R4MkNUblpVWEs5cFZObUppclNpa1lJRnpfUkhZelpsNm5MblJtc1BfS1JKbk9xVkwwSUpSNlE1QmVrMFdHMnFCSkVmMllaUk82bDVHUldCU3RqYmJ4UUVaOWNkUlk1U19DeVVxR29fRThJSnRKbEhIWkNiTnZGQktpV3Atb2R4cGpwUUxXemU0Y2xDTHl2MG1KUGdpem5EanFR?oc=5",
+   "topic": "defense",
+   "published": "2026-10-03T22:44:39.000Z",
+   "summary": "",
+   "image": "",
+   "score": 4,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "f2a4b66e0847",
    "kind": "headline",
@@ -40,7 +96,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "South China Morning Post"
+   ],
    "important": false
   },
   {
@@ -154,7 +212,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "jpost.com"
+   ],
    "important": false
   },
   {
@@ -196,7 +256,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "walla.co.il"
+   ],
    "important": false
   },
   {
@@ -252,7 +314,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "walla.co.il"
+   ],
    "important": false
   },
   {
@@ -776,7 +840,9 @@
    "summary": "",
    "image": "",
    "score": 4,
-   "alsoIn": [],
+   "alsoIn": [
+    "turkiyetoday.com"
+   ],
    "important": true
   },
   {
