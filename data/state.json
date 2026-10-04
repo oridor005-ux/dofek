@@ -39,7 +39,7 @@
   "ins-2026-10-04-l1b3"
  ],
  "pending": [],
- "lastRun": "2026-10-04T13:03:45.606Z",
+ "lastRun": "2026-10-04T13:15:08.974Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -66,7 +66,7 @@
    },
    "at": "2026-10-04T12:51:48.302Z"
   },
-  "lastNewItemAt": "2026-10-04T13:03:45.606Z",
+  "lastNewItemAt": "2026-10-04T13:15:08.974Z",
   "lastPushOkAt": "2026-10-04T12:16:28.378Z",
   "googleOkAt": "2026-10-04T12:51:48.302Z"
  },
