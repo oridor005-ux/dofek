@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T15:11:47.253Z",
+ "updated": "2026-10-04T15:24:00.841Z",
  "items": [
+  {
+   "id": "b8f767f0b245",
+   "kind": "headline",
+   "title": "גם פיגוע במטוס לא צפוי לחבל בהסכמי אברהם. החות'ים הם הסיבה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558393#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-04T15:17:00.000Z",
+   "summary": "בראש מפת האיומים של מדינות המפרץ עומד איום מוכר היטב לישראל: המורדים החות'ים • ערב הסעודית מעוניינת להתקרב לאמירויות כדי לקבל עזרה בתימן, ובמקביל בדובאי לא יוותרו מהר כל כך על הברית עם ירושלים • כעת ישנה הזדמנות ישראלית-אמריקאית ליצירת קואליציה אזורית, והמתיחות בשל פליי דובאי לא צפויה להפריע",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790503612/AP26261533909909_ioiaz2.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c92a323cc072",
    "kind": "headline",
@@ -11,6 +25,20 @@
    "published": "2026-10-04T15:09:00.000Z",
    "summary": "שבועות ספורים לפני בחירות האמצע, נשיא ארה\"ב הכריז על חלוקת מענקים חד־פעמיים למיליוני מבוטחי בריאות, לצד הבטחה גרנדיוזית לחלוקת דיבידנד של 5,000 דולר לכל אמריקאי • מחוקקים בשני צדי המפה הפוליטית מטילים ספק בהיתכנות המהלך, שלא פורט כיצד ימומן",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791122789/AP26277077769741_lcttx1.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "222a2372cea7",
+   "kind": "headline",
+   "title": "UK's Green Party adopts Zionism-is-racism resolution; calls for Palestinian state in place of Israel",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkstaWNWTW91ejBMM3h4M25hYlhzWmd0X3JpUzdyYm5fSTdDcF9HMVp5Sy1IMEpkeVNZY002UDJUazNCM1l3NDdKdE1yc1VOalFEZDNfcEtrNHZCbGp5T2J4ZlhJT0VBZ2Yzb2VYblV2b2RZMGFkb0dyWXVEblYyQ3hxamFUeXZGQnl3Y0lWcVNsZXFvQnJ3MG9MYlJkZlRacGhNbFpuc0RYeWhwSUZ2dUJMaTNMQkZUMTg5NU1hbzNoRHV6ZTQzVTU4VWRCaE5OaHdxYWZvTkN2UVFF?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T15:08:37.000Z",
+   "summary": "",
+   "image": "",
    "score": 1,
    "alsoIn": [],
    "important": false
@@ -96,7 +124,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "Ynetnews"
+   ],
    "important": false
   },
   {
@@ -723,6 +753,20 @@
    "important": true
   },
   {
+   "id": "ebb135dca8ca",
+   "kind": "headline",
+   "title": "War in Ukraine: further military aid planned",
+   "source": "deutschland.de",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREEwSGVoUUhaRmhqZE85Z1NzTzk1RUZLbjk3VWtvSE90aVlJaEJHQmtVaFNpYWstV3VCMzBHVzVpNmo5SzIwc19nSDNzZWtlazRrM2ctcWRmNTEwR0NwMl9lTzBXeGRfVTRCamRRdXNxbGREUmlqYkJlc3YzWDZDVkVuMjQ?oc=5",
+   "topic": "defense",
+   "published": "2026-10-04T09:12:01.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "55c49100a17c",
    "kind": "headline",
    "title": "פצצה מתקתקת בשמיים: דו\"ח המבקר ומסמכי המל\"ל חושפים מחדל מתמשך",
@@ -982,7 +1026,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "China Daily Global Edition"
+    "China Daily Global Edition",
+    "global.chinadaily.com.cn"
    ],
    "important": false
   },
@@ -1671,7 +1716,9 @@
    "summary": "מתחילת השנה היו בעיר כ־200 עסקאות בדירות בנות שני חדרים • המיוחד בדירה: המרפסת שלה מגיעה לשטח של 63 מ\"ר, חדר השינה של הדירה הוא גם הממ\"ד שלה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790752907/WhatsApp_Image_2026-09-25_at_19.10.29_1_-1_xoemfc.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "HKN חיפה והקריות"
+   ],
    "important": false
   },
   {
@@ -2011,7 +2058,8 @@
    "score": 0,
    "alsoIn": [
     "South China Morning Post",
-    "scmp.com"
+    "scmp.com",
+    "spokesman.com"
    ],
    "important": false
   },
@@ -2149,6 +2197,20 @@
    "alsoIn": [
     "yahoo.com"
    ],
+   "important": false
+  },
+  {
+   "id": "d20207b05e81",
+   "kind": "headline",
+   "title": "Rockets waive two-way center Rafael Castro",
+   "source": "The Dream Shake",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVVieFFaSWZsM0RxU1V2TFpfaWkwelFETDNGZ2w1R0FmenBIVEJUbmNCTHJkNlQtQjlRYlA5UlBvTG9lUmlNc1YxUU4xX2FSZ1plQ0V2cTQ1OTNKSFFma1d1Sm1zcy04ajRSbk90ZXdIVWtJZ3hnaEpwbDZBV3d4Z1FUVDAtVlAwc1RvbjRxUmZkYzhheHh0WUZTUVg2QUpY?oc=5",
+   "topic": "defense",
+   "published": "2026-10-03T19:14:16.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5800,58 +5862,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlM3Vy0wU2FtWVhuMmhzc0Q5RTZEZ3NiZXpDS0toQzR0MmUtaWI3Q1A3OU1ILVN1YWVndmhYWGFNNjI3UVJrZ25wYWJtOU9mVmRWeTZLT3VyRmJFNlZmRnJzenFXaUxXMGx4ejE3MzRfQ1B6dDlDbEh3VU5ZYmVvMjE1NFM4NHE2SWxxN2V0QjJkQ1dCVTdidUJMNlluN0dhMmVESWFxMkF0X1hfX2NvdThZVi1vOU9E?oc=5",
    "topic": "media",
    "published": "2026-10-01T23:17:34.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "1aba779bc5ce",
-   "kind": "headline",
-   "title": "Abdul El-Sayed, a Senate candidate in Michigan, Is Still Trying to Unite the Democratic Base",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html",
-   "topic": "world",
-   "published": "2026-10-01T22:05:50.000Z",
-   "summary": "The progressive Senate candidate is offering olive branches to Jewish voters and campaigning with Kamala Harris to attract Black voters. Polling shows it may be working.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "25667183f908",
-   "kind": "headline",
-   "title": "US Navy awards RTX's Raytheon $24.4 billion contract for Standard Missile-6 amid stockpile concerns",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczhaYkRTa0p5SEpDaTFhbkNSLTFyeTZBaERmYlRHb0tqNHpkb21hVWZtRHpDQUxFbkpYTVc1bFZfd3pyZ1Q3M1Yza1NrMi1fbW5FN0JGaGNJYXQzMVAzV2pmUDZuQTFoSnZrNVRwc0d6aWU2bDRadFpSQXAxOW11czc1Z2kyTXNCdW9FTEtmX0VxRUpFZEtyMUVEWkFhclYzZ2taNFZnQzJPbGRMc3dHWENFLTEyRDQ5ajlVblcyaXRpWXZDTmdoaml6bkJxenRwZ2c?oc=5",
-   "topic": "defense",
-   "published": "2026-10-01T21:50:47.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "776d13890032",
-   "kind": "headline",
-   "title": "State Elections in Germany – A Continuation of the Deepening Political Crisis",
-   "source": "CIRSD",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXJ3bVlrVVkyMTVlNWNBMTBITzl6Vk9VX2JjOW1YNnBPM083SWl6X2FHUk03aVhabVZqLWhwMFNrZWw5aHpaRDBsYjA3MDR4YUJtblBobFY2aVF0bkgxcndNeGx5Q0NGNkdUTnVNZlh0Q0VjSW1zaENRZHRiWUtsd2hyRF9zaGN1MnEtZUlWaXhzc3N5THhQUC1MTkVYaHZCeGVJSnBB?oc=5",
-   "topic": "world",
-   "published": "2026-10-01T21:49:54.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3c64e6e6779b",
-   "kind": "headline",
-   "title": "Opinion: Silicon diplomacy, kinetic realities: Why Europe is evicting Palantir",
-   "source": "Fierce Network",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSEgzWEFMdzJndW9URjY1YTRVcFZhNTNJbUhTU3V6cjZITmdoZ2lGcWFrWWliS3h6NUJtYlFQczJDSS1FYnVpc3U4OXplV2kyLTlPT1o5cWJjd0VsOEJLLU0xQXI2a2ljb0hLQk5PSjVpaEJGNkZJMGxjTmN5MjVnclpqdHhQTXFCUVYyOC1ya3ZzRFNlTU1GQkl1c3ZYbERuNjJfOV9mbkV0QXVhbHdmaUxkbUs0U2xwSzRj?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-01T21:46:54.000Z",
    "summary": "",
    "score": 0,
    "alsoIn": [],
