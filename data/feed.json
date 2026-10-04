@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-04T05:15:56.821Z",
+ "updated": "2026-10-04T05:28:08.975Z",
  "items": [
+  {
+   "id": "ca2680f8a953",
+   "kind": "headline",
+   "title": "”הבורסה עולה אבל מעל ממחצית ממניות ה-S&P 500 כבר בתיקון של 20%”",
+   "source": "ספונסר",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mbzlTc0hTdFAtMWNrdFFKdU4tVVZyMEN5NzFscVd4ZURRNGJDNU1hZVFibWVEaEk0M1NqQjM5RFplNDQ0WlBjWlFFYnAwWlRranQ2ZUNjUGpfQUZLWC12dks4WGs5UQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T05:07:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f4dd39c372e0",
+   "kind": "headline",
+   "title": "Bosnia general election 2026 explained in maps and charts",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakhmUk9TWUN1QngzRDNSWmZ4blA0RmcxR1ZoMXh0Z1Z2Q0xMN0JiTjQ5Zzdka1YwZnBNZ0xEem5leG9NQkc5Q3lxQ1pLbVc0dXFRd21tNWg2bUhJRFhxMVpSVU9WRFd5RkdPSU1RTzlpaXMxVWpJVzZyUEhKOVNXTkdWdkVoVkVnV2hkMzhQaXJNN2MyRHZpdnNGRmhCWlnSAaQBQVVfeXFMTXQ2bGEyVU9mU1VENE1BQ1FwRjA0VzlaUzM0OC1zc29RQ1FyMzhWUzFBSTJ6ZDBGbkN5REFWY0N5OG8wSHhyWWEyUDh2LThjRFhyM0NqQ0h0MmNsdVJ2Y3FLb0hvbjgyX2Q2UUlFSU9ZRXZ1TVVkU2xEM19qM0VYUE5PX2VydVJfR3g2ZkdPTVMyNWI2bVg0M2g2cV9qSFQ2NENXbXI?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T05:03:45.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1a5914c74cd9",
+   "kind": "headline",
+   "title": "Bosnia votes Sunday in election that could affect EU bid",
+   "source": "The Straits Times",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTVCNnQ5LWR2akd3MW5ManZ4WXg3UFBSaTkySkZBZUZGQWw2cG50bFQxYnh3UG1kOXRtc19Hdk5INWVHbEVhV1FLY2doeVc2OUpLU19yMjNEMDhVNFI0MFp1NzJ4WVQ5ZGdQN2tPdHJDMFl5MWlYR2NQOEgweTNRdldyVkJ2QmJ5U3JaMm44cV9LUVc1b3Roa0h3RDVLSklHNFp2dnh1eDBfT3ItcXh6cHBDWFpoZi1wdlBJ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T05:03:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5d00aa14e332",
+   "kind": "headline",
+   "title": "החזר משכנתא לדירת 4 חדרים בת\"א: 16,850 שקל בחודש",
+   "source": "tlvonline.co.il",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc0JCeV9XdWZQVF9xMlFoNHB6MkNkeTlWQ1BYWTdoaGJZZDI0Q1kwXzkxRXNHaHR2Vl9aS1ZlX3RsZU9WdkNEeWtBRFpzZzdwSldFYjQxVm5lTmZYVm5BTlVzcDliRk9sM3pDX05JalI1TnJwUHVWUTJ3ZFd1VjFGZ3pSMHdMTUJGaVp3d1pLVGN0Q1c4cTZuTXJzUEpyT3ZxNkw4UlhmRVpJWGEyUUprOXlpdWNJaE40MXBVVG9seTVTT0hLV0FjTi1RTFBEWlVkTV9keUFobEN2R2hxck5zS3RzMi1CbUlfUWtR?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T04:40:50.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "91aa2c434e88",
    "kind": "headline",
@@ -13,7 +69,8 @@
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/06/13/7066348/7066348_2_0_1919_1080_0_medium.jpg",
    "score": 0,
    "alsoIn": [
-    "ynet.co.il"
+    "ynet.co.il",
+    "YNET"
    ],
    "important": false
   },
