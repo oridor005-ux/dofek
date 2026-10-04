@@ -30,7 +30,7 @@
   "e8d991887353"
  ],
  "pending": [],
- "lastRun": "2026-10-04T05:51:01.335Z",
+ "lastRun": "2026-10-04T06:02:33.185Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -43,23 +43,27 @@
  },
  "health": {
   "sources": {
-   "ok": 66,
-   "fail": 2,
+   "ok": 11,
+   "fail": 57,
    "light": false,
    "direct": 13,
    "directFail": 2,
    "google": 55,
-   "googleFail": 0,
+   "googleFail": 55,
    "errors": {
     "direct": {
      "HTTP 403": 2
+    },
+    "google": {
+     "HTTP 503": 1,
+     "skipped (google blocked)": 54
     }
    },
-   "at": "2026-10-04T05:16:12.705Z"
+   "at": "2026-10-04T05:51:16.694Z"
   },
-  "lastNewItemAt": "2026-10-04T05:51:01.335Z",
+  "lastNewItemAt": "2026-10-04T06:02:33.185Z",
   "lastPushOkAt": "2026-10-04T04:06:17.731Z",
   "googleOkAt": "2026-10-04T05:16:12.705Z"
  },
- "lastFullAt": "2026-10-04T05:16:12.705Z"
+ "lastFullAt": "2026-10-04T05:51:16.694Z"
 }
