@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-04T09:55:47.267Z",
+ "updated": "2026-10-04T10:08:35.318Z",
  "items": [
+  {
+   "id": "d830992aab41",
+   "kind": "headline",
+   "title": "סיה מוכרת חצי מהזכויות לשירים שלה ב‑180 מיליון דולר",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlcXJYSGFyRjJPcEtMLTBpclhLTW9vY1RTbmtVaXQ4S0hpSUVTRTh2Z1dXU3dKdWVld2V1RmE4SU90U0RfMXF0V2NpM3Z6NVk4N1NmZl9ZVmpDNllIdzFaN1RhV0ppcTJuQUJKdlJkNUU?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T09:49:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6105d25fe49f",
+   "kind": "headline",
+   "title": "אנגלית כיתה ב': למה לא מחכים לבית הספר, לפי המחקר",
+   "source": "bhol.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUQVF0cGJTcWFhVE1EZGNnSVlpcVFtSlNKM3JwU1c4SFBMYUJ1Q1BGay1ySk9YWnVobDF4emx0d1U2MU84YS03R2JrQQ?oc=5",
+   "topic": "research",
+   "published": "2026-10-04T09:39:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8cf9074dc388",
+   "kind": "headline",
+   "title": "Latvian PM’s election win boosts chances for pro-Ukraine coalition",
+   "source": "politico.eu",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3A2c094bTlpME1sb2ZWckNBUkxzSUl3Q2toQ1dRRHE2dW9RdlJfSUUzc2lKOUVCM3ZYSV9YQThNSU1VeHBMaW1mdV81LXJibGgyNnBDNldOWDN2VEIxNWFGNkxBcVFjLXRoQy1QNjBnVTUyZ1RZYy0yZF8xNDRfQkhka0dOb3pJMi12RHhLS2NQMkM0VWo5ZTBvbUl6TWJ5VnVEdTFVLUw5UFNtVmZwRjZQUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T09:30:52.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c85a3fc7ef42",
    "kind": "headline",
@@ -227,6 +269,20 @@
    "alsoIn": [
     "China Daily Global Edition"
    ],
+   "important": false
+  },
+  {
+   "id": "36ec81fcb7a7",
+   "kind": "headline",
+   "title": "תל אביב צנחה, אשקלון המריאה: הנתונים המפתיעים על החשמליות בישראל",
+   "source": "Calcalist",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wdGowY29WLVVhbEs2VjZXUFljSEF4SWlCNm1aNHUxU2c4bWNmYS1oejFKMTRPTmJCYzJ6TzB0NEtWWHNyaXllaDNUYkRFTFpWREJGODFOeWR1SzdsR3IzaXRfSXVwYlZRWFFWWG5B?oc=5",
+   "topic": "econ",
+   "published": "2026-10-04T07:52:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1466,7 +1522,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "tvpworld.com"
+   ],
    "important": false
   },
   {
