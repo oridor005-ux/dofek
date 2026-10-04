@@ -783,10 +783,21 @@
    "found": "2026-10-04T13:39:42Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692802724286549269.txt"
+  },
+  {
+   "id": "7692806990367640852",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7692806990367640852",
+   "caption": "\"חמאס הוא ארגון טרור אבל גם ארגון גרילה\" 👇 \"כשאנחנו מדברים על גוף אם ...",
+   "posted": "1791121206",
+   "found": "2026-10-04T13:55:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692806990367640852.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T13:39:58Z",
+  "at": "2026-10-04T13:55:50Z",
   "channelsOk": 12,
   "channelsFail": 0,
   "transcribed": 1
