@@ -734,10 +734,20 @@
    "found": "2026-10-04T11:54:25Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692775706358467858.txt"
+  },
+  {
+   "id": "7692781539641347335",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692781539641347335",
+   "caption": "משרד הבריאות מעדכן כי התקבל דיווח על אדם החשוד כחולה באבולה לאחר ששב ...",
+   "posted": "1791115284",
+   "found": "2026-10-04T12:08:17Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-04T11:54:48Z",
+  "at": "2026-10-04T12:08:32Z",
   "channelsOk": 12,
   "channelsFail": 0,
   "transcribed": 1
