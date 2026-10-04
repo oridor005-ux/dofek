@@ -98,6 +98,7 @@ jobs:
           git config user.name "dofek-bot"
           git config user.email "dofek-bot@users.noreply.github.com"
           for f in roads/push-status.json roads/push-config.json; do [ -f "$f" ] && git add "$f"; done
+          git checkout -- roads/push/wrangler.toml 2>/dev/null; rm -f roads/push/deploy.log
           git diff --cached --quiet && exit 0
           git commit -qm "עבודות בדרך: מצב שרת ההתראות"
           for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done
