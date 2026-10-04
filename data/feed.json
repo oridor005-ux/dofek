@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-04T17:09:23.746Z",
+ "updated": "2026-10-04T17:20:49.128Z",
  "items": [
+  {
+   "id": "b5dd9a7ce2b8",
+   "kind": "headline",
+   "title": "אחרי הסערה והסרת האחריות: רה\"מ הנחה לבדוק את אבטחת התעופה הזרה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558401#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-04T17:18:00.000Z",
+   "summary": "ראש המל\"ל שמואל בן עזרא יתבקש למנות בודק לבחינה יסודית של כלל היבטי אבטחת התעופה האזרחית הזרה לישראל &bull; זאת לאחר שב-2024 המליץ מבקר המדינה לקיים עבודת מטה בנושא, ובצל הטענות במשרד התחבורה כי אין בידיו יכולת לבצע בדיקה מודיעינית של טייסים וצוותי אוויר זרים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790790724/WhatsApp_Image_2026-09-30_at_20.50.26_1_hc7yxi.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e058cda3619e",
    "kind": "headline",
@@ -5864,20 +5878,6 @@
    ],
    "important": true,
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775393987/direct/shutterstock_2572977613_io08ik.jpg"
-  },
-  {
-   "id": "16333bf79e31",
-   "kind": "headline",
-   "title": "\"הילד החורג\" שהפך לחוד החנית של אמ\"ן: הסיפור על תחייתו של המודיעין הגלוי",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558231#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-02T03:55:00.000Z",
-   "summary": "גלובס צולל ליחידת \"חצב\", המאתרת מידע מודיעיני ממקורות חשופים, שנסגרה ב&ndash;2021 &#8226; בעקבות טבח 7 באוקטובר, התגלתה נחיצותה בזיהוי החטופים בעזה ומיקומם, על ידי הצלבת פרסומים של תושבי הרצועה ברשתות &#8226; בינואר היא ",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790868755/WhatsApp_Image_2026-10-01_at_11.44.29_dpcsgz.jpg"
   }
  ]
 }
