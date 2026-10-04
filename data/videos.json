@@ -509,12 +509,34 @@
    "found": "2026-10-04T06:35:29Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692694067473435911.txt"
+  },
+  {
+   "id": "7692703865028005141",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7692703865028005141",
+   "caption": "בפרלמנט באשקלון אמרו לי שאני לא ימני. זה מה שעניתי>> #ישראל #פוליטיקה...",
+   "posted": "1791097201",
+   "found": "2026-10-04T07:06:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692703865028005141.txt"
+  },
+  {
+   "id": "7691712236187979028",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7691712236187979028",
+   "caption": "\"מכונת שטיפת מוח עולמית\": למה ההסברה הישראלית קרסה ב-7 באוקטובר? 👇 אי...",
+   "posted": "1791097200",
+   "found": "2026-10-04T07:07:29Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7691712236187979028.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T06:50:19Z",
+  "at": "2026-10-04T07:07:29Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
