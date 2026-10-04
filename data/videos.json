@@ -691,12 +691,23 @@
    "found": "2026-10-04T09:52:21Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692745139453824274.txt"
+  },
+  {
+   "id": "7692753296641101057",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7692753296641101057",
+   "caption": "\"גולדקנופף יכול להיות חלק מהממשלה\" עופר וינטר, שמפלגתו נמצאת על סף אח...",
+   "posted": "1791108714",
+   "found": "2026-10-04T10:22:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692753296641101057.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T10:07:28Z",
+  "at": "2026-10-04T10:22:17Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
