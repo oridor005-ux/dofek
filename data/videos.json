@@ -507,7 +507,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791094923",
    "found": "2026-10-04T06:35:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692694067473435911.txt"
   },
   {
@@ -518,8 +518,11 @@
    "caption": "בפרלמנט באשקלון אמרו לי שאני לא ימני. זה מה שעניתי>> #ישראל #פוליטיקה...",
    "posted": "1791097201",
    "found": "2026-10-04T07:06:40Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692703865028005141.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692703865028005141.txt",
+   "insightIds": [
+    "ins-2026-10-04-m7b1"
+   ]
   },
   {
    "id": "7691712236187979028",
@@ -529,8 +532,11 @@
    "caption": "\"מכונת שטיפת מוח עולמית\": למה ההסברה הישראלית קרסה ב-7 באוקטובר? 👇 אי...",
    "posted": "1791097200",
    "found": "2026-10-04T07:07:29Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7691712236187979028.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7691712236187979028.txt",
+   "insightIds": [
+    "ins-2026-10-04-m7k2"
+   ]
   },
   {
    "id": "7692708849043803413",
@@ -540,7 +546,7 @@
    "caption": "אנשים בישראל עדיין לא יודעים מה ההבדל בין שמאל לימין 🤯",
    "posted": "1791098362",
    "found": "2026-10-04T07:36:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692708849043803413.txt"
   },
   {
