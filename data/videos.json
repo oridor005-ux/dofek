@@ -1043,12 +1043,34 @@
    "found": "2026-10-04T19:45:05Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7692897866284633362.txt"
+  },
+  {
+   "id": "7692929707989421313",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692929707989421313",
+   "caption": "#פוריו #ימין #שמאל #בשבילך",
+   "posted": "1791149787",
+   "found": "2026-10-04T21:47:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692929707989421313.txt"
+  },
+  {
+   "id": "7692929401637342472",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692929401637342472",
+   "caption": "#פוריו #ימין #שמאל #בשבילך",
+   "posted": "1791149718",
+   "found": "2026-10-04T21:47:33Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692929401637342472.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T21:31:07Z",
+  "at": "2026-10-04T21:47:43Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
