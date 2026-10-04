@@ -856,12 +856,45 @@
    "posted": "1791129793",
    "found": "2026-10-04T16:11:17Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7692848974302088455",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692848974302088455",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791130983",
+   "found": "2026-10-04T16:27:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692848974302088455.txt"
+  },
+  {
+   "id": "7692848045821627649",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692848045821627649",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791130768",
+   "found": "2026-10-04T16:28:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692848045821627649.txt"
+  },
+  {
+   "id": "7692849496450993429",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7692849496450993429",
+   "caption": "השר בן גביר: \"פרובוקציה? מעשים נחוצים כדי להוריד את הפיגועים\" 👇 השר א...",
+   "posted": "1791131105",
+   "found": "2026-10-04T16:30:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692849496450993429.txt"
   }
  ],
  "health": {
-  "at": "2026-10-04T16:11:26Z",
+  "at": "2026-10-04T16:30:15Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
