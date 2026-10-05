@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T18:05:40.830Z",
+ "updated": "2026-10-05T18:05:57.699Z",
  "items": [
   {
    "id": "d56f76a2b053",
@@ -26,6 +26,20 @@
    "summary": "Police and security agencies in multiple countries scramble to piece together background and intentions of Hamam al-Hammami Investigators believe that the co-pilot who tried to take control of a plane from Dubai to Tel Aviv last week originally planned his attack for July but postponed the…",
    "image": "https://i.guim.co.uk/img/media/2a3d9c552bda55ade07a8cda78b34dc1ebbc1f15/66_0_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=1fc7bbfbc77b08608b923754b765d55f",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "637f56bfa9c6",
+   "kind": "headline",
+   "title": "Digital safety law risks overreach into censorship",
+   "source": "The Australian",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS29PMDhuLXM2UHJBd1pvWUpBVU54ZDd0ZGFPTjl3YTlURDNwOWNzM3VPdXo1Uk4wWEhNRkNBc0dMVElCWllTeHlQYWw2Vjc3SVdUUmIwV2FoR0JJRllEMV9HU2RoM08wU1cwTDNwRUk2dFMtcEFfUnc1WlZCMWZYckJHWnptX1FSQVlhN2FXaVZyVGRMZzFYSDd0YVk2YUtNb2U4U0RvXzh5Ym9YTXhXMnhCQ3F0bnhEMW5mYUM0NXA2Vk9MdVgweE9BN0FjcC0wYUQ4dw?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T18:00:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -124,6 +138,22 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [
+    "newarab.com"
+   ],
+   "important": false
+  },
+  {
+   "id": "b6471b4400c2",
+   "kind": "headline",
+   "title": "Hungary may unblock the technical phase of Ukraine’s negotiations with the EU",
+   "source": "UkrMedia News",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IQlJqT05nRDZwd2FtR3cwcVpDOGtudkxBbVZYOEFYZVRiWXpyX2ZpQkhycXU3QW9OZ0U2djAwRS1uVmc3SHQ4bHhtYXNKM0Zob1NsRFRIRlY5LXZwUFFvcVBRVVY1YWFXTkx2dTdRaw?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T16:08:51.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -155,6 +185,20 @@
    "alsoIn": [
     "The Times of Israel"
    ],
+   "important": false
+  },
+  {
+   "id": "ac2ecf2ab87b",
+   "kind": "headline",
+   "title": "Spain’s 54-day sprint to the polls: can Sánchez’s housing gamble stop the far-right from entering into government?",
+   "source": "EUobserver",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSU1QaTJqSG9KMHotdFhYTjQ0bldKcWJuZHhQWUJNajNGemhWYUpYMVFISjBYYjMydGdYTWctdEdDU0lfVFFhTG53YlBYbktUSkY2VURqbGJRM2p2UTVTY2JQVG45Vmhleno0MUNLSW4zNEZUYkwyZ2lWSnR2T1YwTVVyV1llYnBCY0VJa05wRkJIVlRZN3BFX1pmQlFUYXZYZWNoN3lJd1hvTjk1YWo4Z0RwRUU2a0FWLUw2UFVWblFkMmtMenhUZ184SEZsSW9WYzVadUNJU1c?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T15:29:55.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -621,8 +665,10 @@
    "summary": "בדיקה של שידורי החדשות והאקטואליה בערוצי הטלוויזיה בספטמבר מעלה כי שיעור הנשים בנוכחות החזותית ירד מ-24.7% באוגוסט ל-22.5% בספטמבר – ירידה של 2.2 נקודות אחוז • ערוץ 14 נותר שיאן הדרת הנשים • צניחה בייצוג הנשים במהדורה המרכזית של חדשות 12 • בפאנלים: נשים היו פחות מחמישית מהנוכחות על המסך",
    "image": "https://shakuf.co.il/wp-content/uploads/2026/10/women-representation-overall-september-2026-427x240.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
+   "alsoIn": [
+    "shakuf.co.il"
+   ],
+   "important": true
   },
   {
    "id": "2f185cea99af",
@@ -821,7 +867,9 @@
    "summary": "Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v2.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The New York Times"
+   ],
    "important": false
   },
   {
@@ -5893,52 +5941,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "2d69c29474ef",
-   "kind": "headline",
-   "title": "Exit polls show pro-Ukraine United List party leading Latvian parliamentary elections as counting begins",
-   "source": "The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3RDdnllekdnQ05DdHhkUF9PVWowWEtibWIxbmhUSUJRdmlrOTJwSHZLXzVrTGh4MmFxejd2ZE9ZSjBnWjBiTURyMVZ0YmNVcVltY2lCSXc5R2RwQU5uQkFyTmxteGQ1OF9uWERGSUJaT2wxUVVlWVVpY3FheEZqSWVPc0NSU1lhTjU2cV96R2RWcTZaZVR6NW9wQVNJQXlBUnlKUEtnOEx0RDludVRrQk5DNDFaV3hSWEppV2JpZHRmUGlDeGdxTkhFUzZLUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T23:28:31.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bd8fcef90f1c",
-   "kind": "headline",
-   "title": "Proportional representation: the case for and against",
-   "source": "Politics.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55Mi1IY2lQUXBIU0k0YjN4RVpDVWxuNDlYSWxqam13cVEzTXA1UGE5VnU5cnhJZnQ3LXZJR084VlZST1BlbmtfVlZybXRNNENSS3N5VjJrSnBoS1Mtd2ZkNkNhT0ZpU1BGN29BcTM1eVNiMWs?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T22:55:51.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "politics.co.uk"
-   ],
-   "important": false
-  },
-  {
-   "id": "e8d991887353",
-   "kind": "headline",
-   "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnVDY1ptdmZlblBLZHgyQ1RuWlVYSzlwVk5tSmlyU2lrWUlGel9SSFl6Wmw2bkxuUm1zUF9LUkpuT3FWTDBJSlI2UTVCZWswV0cycUJKRWYyWVpSTzZsNUdSV0JTdGpiYnhRRVo5Y2RSWTVTX0N5VXFHb19FOElKdEpsSEhaQ2JOdkZCS2lXcC1vZHhwanBRTFd6ZTRjbENMeXYwbUpQZ2l6bkRqcVHSAa4BQVVfeXFMTkp1Q2NabXZmZW5QS2R4MkNUblpVWEs5cFZObUppclNpa1lJRnpfUkhZelpsNm5MblJtc1BfS1JKbk9xVkwwSUpSNlE1QmVrMFdHMnFCSkVmMllaUk82bDVHUldCU3RqYmJ4UUVaOWNkUlk1U19DeVVxR29fRThJSnRKbEhIWkNiTnZGQktpV3Atb2R4cGpwUUxXemU0Y2xDTHl2MG1KUGdpem5EanFR?oc=5",
-   "topic": "defense",
-   "published": "2026-10-03T22:44:39.000Z",
-   "summary": "",
-   "image": "",
-   "score": 4,
-   "alsoIn": [
-    "aljazeera.com"
-   ],
-   "important": true
   }
  ]
 }
