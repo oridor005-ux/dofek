@@ -1432,10 +1432,32 @@
    "found": "2026-10-05T08:29:03Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693094844234747188.txt"
+  },
+  {
+   "id": "7693099290159320341",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7693099290159320341",
+   "caption": "יש סקר אחד שקובע",
+   "posted": "1791189267",
+   "found": "2026-10-05T08:44:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693099290159320341.txt"
+  },
+  {
+   "id": "7693098185094532373",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693098185094532373",
+   "caption": "\"ילדים אומרים 'אמא ואבא מתו', לשמוע את זה, זה אומר הכל\" ↓ עמית עידן, ...",
+   "posted": "1791189008",
+   "found": "2026-10-05T08:44:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693098185094532373.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T08:29:19Z",
+  "at": "2026-10-05T08:44:55Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
