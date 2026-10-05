@@ -2068,10 +2068,21 @@
    "posted": "1791222360",
    "found": "2026-10-05T17:55:23Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693244717944851719",
+   "channel": "ben_caspit",
+   "name": "ben_caspit",
+   "url": "https://www.tiktok.com/@ben_caspit/video/7693244717944851719",
+   "caption": "הרבה מילים נאמרו על מחדל 'פליי דובאי' - אתם רוצים שורה תחתונה? המדינה...",
+   "posted": "1791223131",
+   "found": "2026-10-05T18:11:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693244717944851719.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T17:55:46Z",
+  "at": "2026-10-05T18:11:44Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
