@@ -1562,10 +1562,43 @@
    "found": "2026-10-05T09:45:41Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693115380616727829.txt"
+  },
+  {
+   "id": "7693117909538786580",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7693117909538786580",
+   "caption": "בכל מקום בארץ אומרים לי, רק ביחד נתקן! שיהיה לנו שבוע טוב עם ישראל אה...",
+   "posted": "1791193601",
+   "found": "2026-10-05T10:00:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693117909538786580.txt"
+  },
+  {
+   "id": "7693120325839539508",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693120325839539508",
+   "caption": "\"גם בחלוף 3 שנים, צרובות בנו השעות האיומות של מתקפת שמחת תורה\" ↓ דברי...",
+   "posted": "1791194162",
+   "found": "2026-10-05T10:01:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693120325839539508.txt"
+  },
+  {
+   "id": "7693120876258036993",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693120876258036993",
+   "caption": "ראש הממשלה בטקס האזכרה הממלכתי לשבעה באוקטובר: \"מורשת הנופלים היא שלה...",
+   "posted": "1791194293",
+   "found": "2026-10-05T10:02:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693120876258036993.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T09:45:54Z",
+  "at": "2026-10-05T10:03:01Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 3
