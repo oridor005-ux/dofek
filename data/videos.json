@@ -1386,17 +1386,36 @@
    "caption": "תרשמו לעצמכם: הניסיון לרסק את מטוס 'פליי דובאי' - הצליח, הטייס העומאנ...",
    "posted": "1791115801",
    "found": "2026-10-05T07:31:35Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692783768901307666.txt",
-   "insightIds": [
-    "ins-2026-10-05-bc72"
-   ]
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692783768901307666.txt"
+  },
+  {
+   "id": "7693088203942726933",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693088203942726933",
+   "caption": "מצמרר: כפר עזה, 3 שנים אחרי. 12 פעוטות בגן החדש שהוקם ונקרא \"גן נרקיס...",
+   "posted": "1791186684",
+   "found": "2026-10-05T07:58:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693088203942726933.txt"
+  },
+  {
+   "id": "7693088280232922376",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693088280232922376",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791186703",
+   "found": "2026-10-05T07:58:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693088280232922376.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T07:43:03Z",
+  "at": "2026-10-05T07:59:12Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
