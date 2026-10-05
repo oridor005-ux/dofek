@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T22:57:19.375Z",
+ "updated": "2026-10-05T23:09:35.176Z",
  "items": [
   {
    "id": "6ec2df98b5b2",
@@ -23,6 +23,22 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUV9GSUt5QmVYOWM4bDJBRzlkcUFBOU55dFktdEx3R1NueU9zcE9vZ0JPdzZ5TzFiOUVoMGh1M0p4XzA2dlRBdXo3dlBvOEJleFAzVVNTSllWNi1la2lRZ2tLMmxhZ20zYVpJNEhtTU9HSS1WT3gtYkhVeXlxeHdjY1hqbE9OVi1zak1wYjlxVEZsSU1vUmc?oc=5",
    "topic": "world",
    "published": "2026-10-05T22:07:58.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [
+    "Myall Coast News Of The Area"
+   ],
+   "important": false
+  },
+  {
+   "id": "6fb8f389b556",
+   "kind": "headline",
+   "title": "Four political parties announce creation of joint parliamentary caucus in Morocco's lower house - HESPRESS English",
+   "source": "HESPRESS English - Morocco News",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3B4OXVDa0doeHI0UXlvVC1QbE5zMERCSUdtdmlCRnFLd0Z0RkVOM2UxZDZyUm1JYXM2RXF5T2F0UjlBN0x6ODJmTHNtV1IyUUhLQ0JNVEVxY1RUSGdfcjh1ODJ4c21Qb1pWdEV4OWZfc2xhVWJnVjVyRXZZMFpQWnIydnlmOXBPVmNpTlFRbldKVG1GQXFrZ0ZIaUtRbS1ad0RpVXZ1aEpsdGg1MEZjRU9Vd2NKd2RvczNvamM5WFZWaVAtbFpKOE9R?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T22:02:25.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -126,7 +142,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "english.nv.ua"
+   ],
    "important": false
   },
   {
@@ -372,6 +390,20 @@
    "important": false
   },
   {
+   "id": "6783e8843669",
+   "kind": "headline",
+   "title": "Anti-Israel protests expected to surge worldwide around Oct. 7 anniversary",
+   "source": "worldisraelnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVptQXNSQ3hSaF9IMU9XT2Z4d2F4ZHR5cEl5ZmNLSVRpaVRGTWlOY3BVMVNJRzBXVjFDUEVUQXd1b1VoUUQzOUg2d3hoODJ0cnJaNENuRWN0VjFSdWE2WG14NTZYandqYUttNEhhM2tMZnlWeHpDN0t4LXNVRjVLd3dEZHJJNGdTRjJma1A0bm8tWE8tTk1yOXcyQkhLaWRKaUtHX1M5a0NUd9IBqgFBVV95cUxOMVptQXNSQ3hSaF9IMU9XT2Z4d2F4ZHR5cEl5ZmNLSVRpaVRGTWlOY3BVMVNJRzBXVjFDUEVUQXd1b1VoUUQzOUg2d3hoODJ0cnJaNENuRWN0VjFSdWE2WG14NTZYandqYUttNEhhM2tMZnlWeHpDN0t4LXNVRjVLd3dEZHJJNGdTRjJma1A0bm8tWE8tTk1yOXcyQkhLaWRKaUtHX1M5a0NUdw?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T17:14:55.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ad4fe759ea78",
    "kind": "headline",
    "title": "מדד סחירות ניירות הערך של שוואב עולה בספטמבר מאת Investing.com",
@@ -396,7 +428,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "tlvonline.co.il"
+   ],
    "important": false
   },
   {
@@ -513,6 +547,20 @@
    "alsoIn": [
     "The Times of Israel"
    ],
+   "important": false
+  },
+  {
+   "id": "31ed5928c98d",
+   "kind": "headline",
+   "title": "Tahiri kërkon që deputetët e VV-së të paraqiten në sallë: Ligji duhet të vijë menjëherë",
+   "source": "reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQk51cXZleGo3dE5BNlFwVUNjUG85N09xaXdnLTBvSTNuWWNVN0J2a2FuOW94bjA0aEVpR1dSOWpudllIVHUtQTN0Q2dFYTdENzJlX3ZtaGtqa1VwT2JSdE1NY1k5VWRWWG1pVHN6SlFHc2ZSZG1uQXhrYmgzRW9tczhiQVdiWWpEVVo0WlJOdWZCNHpKQUlwRHBTMjZLU2taZGdSMlFSYkdISTBGWGw1UWx6Z2c1QktMS1dsTmhKbw?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T15:34:40.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1184,6 +1232,20 @@
    "alsoIn": [
     "ביזפורטל"
    ],
+   "important": false
+  },
+  {
+   "id": "7d1e125c13a6",
+   "kind": "headline",
+   "title": "Çfarë ndryshon në Speciale nëse miratohet Projektligji i PDK-së",
+   "source": "reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3NWWU5DWVVwcGZFRGZzQVhKeTg1SlpqNEVHd240RDhEQzJwcTZfUkw4TnNSaXJIcG9FNkdpRnlpdS1udzRRdGxwbW5HQllFV2VHbTd5Qlh5YkVnWWdQSFFmZVdjZUx4RzRZRU1VcVdzalAwM3ZMemlPcVgwb0p5ZzhLd1hybGNyN2dZY2E2UUdlSUdN?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T11:50:45.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -2693,8 +2755,23 @@
    "alsoIn": [
     "aapnews.aap.com.au",
     "St George & Sutherland Shire Leader",
-    "The Canberra Times"
+    "The Canberra Times",
+    "canberratimes.com.au"
    ],
+   "important": false
+  },
+  {
+   "id": "990e002e3247",
+   "kind": "headline",
+   "title": "הבורסה נסגרה בשיא חדש; הדיווח שהפיל את המניות הביטחוניות",
+   "source": "גלובס",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aR21ZeDlzQXNkV2ptSWJGZTRGR0VhMm94QnhuUjMxdDhoLW5jbTlpUWNQRU52MS1BMk9zX3M3STFPTFk1RDFOQ29kRVBhX0lNVG41dWxPVGdzam5FSjVYcVFhNDZYWmdT?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T06:09:50.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5854,80 +5931,6 @@
    "alsoIn": [
     "ynet.co.il",
     "YNET"
-   ],
-   "important": false
-  },
-  {
-   "id": "45bf25bc9d5a",
-   "kind": "headline",
-   "title": "סירב להשתתף בהשתוללות מחירי הדלק - זכה באהדת העם והרוויח מיליארדים לחברה",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bjky35a9gg",
-   "topic": "econ",
-   "published": "2026-10-04T04:09:22.000Z",
-   "summary": "בזמן שחברות אנרגיה רבות ניצלו את העימות בין ארה\"ב לאיראן כדי להעלות את מחירי הדלק, פטריק פויאנה, מנכ\"ל \"טוטאל אנרג'י\" הצרפתית, דווקא הקפיא מחירים בתחנות החברה. למרות החשש מהפסדים של מאות מיליוני אירו, התברר כי הרווח הנקי בחצי השנה הראשונה של 2026 צמח ב-11.2 מיליארד דולר בעקבות הזינוק בביקושים. כעת…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/S1Bxt3AqMl/S1Bxt3AqMl_0_0_850_479_0_medium.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3d3f4e677625",
-   "kind": "headline",
-   "title": "MPs had no time to properly scrutinise Constitution Amendment Bill – Chaudhry",
-   "source": "Fijivillage",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFVhRE1YeWxtTHFYWU9wb1JCUFdrYlJtQjdFOFRfQzl4dXMtUV9LaXU3NFdzbXNqSkpvV1hBejBNSGd0WWM2eDNGdGpPcnB0RHRiamEyZE9LYU5uRDdyVHoxaW1XM2JBemRlZk1qcXBrbzEtakh5cDVsTGEyVVVVUUJUcWZiMEEtcXZWRWRvM0x4UklVMmhxSTlGb3huSkYwd2puYjBGakg3NzRfNXBuTGpXQXZuZnc?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T04:08:25.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "fb2eac67bf81",
-   "kind": "headline",
-   "title": "Winter says he’ll demand ultra-Orthodox IDF service, but will still join coalition with Haredim",
-   "source": "timesofisrael.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXYzZlpBTldKZ3dGV3BjV1ZKNFJMN0pPSlZDbm4zTmlFY2VrTjdFQWZ5UjNvUHVIOFhsYVByaUJidGdqN2lUWXJWUXVCa2hxUTRoelRPNkZyMldyd2RWUEh3VlY0cVh0VjFKQ2RuTTN5VGxrVk5wNEdQdHBRREV3b2YtTHJBQWpUVk94U3BNcnAxZC1YWnJxUzg5UVpFRjY0TEZHWHNMRWtQcVhvUGpiN3d3LXNhS1NiMXA2NGZmXzlKNlBuRFpB0gHHAUFVX3lxTE41djNmWkFOV0pnd0ZXcGNXVko0Ukw3Sk9KVkNubjNOaUVjZWtON0VBZnlSM29QdUg4WGxhUHJpQmJ0Z2o3aVRZclZRdUJraHFRNGh6VE82RnIyV3J3ZFZQSHdWVjRxWHRWMUpDZG5NM3lUbGtWTnA0R1B0cFFERXdvZi1MckFBalRWT3hTcE1ycDFkLVhacnFTODlRWkVGNjRMRkdYc0xFa1BxWG9QamI3d3ctc2FLU2IxcDY0ZmZfOUo2UG5EWkE?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T04:01:09.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "The Times of Israel"
-   ],
-   "important": false
-  },
-  {
-   "id": "a6ed62179674",
-   "kind": "headline",
-   "title": "New law gives Fiji stronger drug-fighting powers",
-   "source": "FBC News",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWF2Tm54aURXbHQ2Yy1ESUlOa0RUYUx3cmJqVjJyQzFMX253Y2VQY2tidl9EQ2J4RGNIRV8wWjlUNlRCc184Yk1oeDFWVlFaYVdkVFltTUExY0pxbmkycDFHcTY5WEVfUXJrcHBJZHlnNFkzZEJ1R3k4RlFCZWlDMU1GbmFQdUtn?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T03:36:21.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "aaa8dd2a9667",
-   "kind": "headline",
-   "title": "New bill proposes subsidised loans, tax breaks for smart homes",
-   "source": "OnlineKhabar English News",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEgwYXVGQVdkbFFCQUl2Z2lnVjZzLVVpc3N4Tk91cXNHZ19aSVJOd0tWRTJqWGtEaHBiMzNndloxcG93WWFTUDVjYVNSUC03cW9aZGhfemJJeFFZdUZ3bWNHTThNV1psNmhzLVRoS0kySGtkNzZnVGUtMGNPaUp5OQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T03:30:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "english.onlinekhabar.com"
    ],
    "important": false
   }
