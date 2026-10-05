@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-05T12:12:49.872Z",
+ "updated": "2026-10-05T12:24:49.496Z",
  "items": [
+  {
+   "id": "6815b7f25d2e",
+   "kind": "headline",
+   "title": "\"ההתחדשות העירונית נכנסת לשלב ההתפכחות\"",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/ry3kl1gkme",
+   "topic": "demo",
+   "published": "2026-10-05T12:18:39.000Z",
+   "summary": "תוכניות התחדשות שקודמו בשנים האחרונות מתבררות כלא כלכליות, מהסיבה שמחירי הדירות פסקו לעלות. בחודשים האחרונים שומעים התבטאויות של משרד האוצר והרשות להתחדשות עירונית, שלא שמענו בעבר. במקביל נראה שגם הרשויות המקומיות משנות לא פעם פוזיציה ודורשות יותר על חשבון הכלכליות של המיזם. האם השוק עומד בפני…",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/rJYKU1lYfe/rJYKU1lYfe_68_19_998_562_0_medium.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5ed609de21e2",
+   "kind": "headline",
+   "title": "בעקבות חובות של יותר מ-60 מיליון שקל: הקבלנית הירושלמית מבקשת נאמן זמני",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/hkanmzzifx",
+   "topic": "econ",
+   "published": "2026-10-05T12:15:43.000Z",
+   "summary": "פרסום ראשון: החברה הירושלמית הוותיקה \"נטע ליפשיץ\" פנתה לבית המשפט המחוזי בירושלים בבקשה למנות לה נאמן זמני לצורך שיקומה; לטענתה, חובותיה לנושים נאמדים ביותר מ-60 מיליון שקל, ובנוסף היא חייבת 29 מיליון שקל לבעלי המניות במסגרת הלוואות בעלים. על פי החברה, פרויקט שלה בקריית היובל בירושלים, שבו 226…",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/05/11/BJliGhPO00/BJliGhPO00_0_0_1000_563_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2d3dced770bb",
+   "kind": "headline",
+   "title": "הפרויקט בארגנטינה שעולה לחברה הישראלית ביוקר",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/bkqzf3lsge",
+   "topic": "econ",
+   "published": "2026-10-05T12:15:31.000Z",
+   "summary": "נאוויטס מאבדת 6% בבורסה בת\"א, אחרי שדיווחה לבורסת ת\"א כי ממשלת ארגנטינה ממשיכה בפעילותה להטלת סנקציות על פרויקט סי-ליון אותו היא מובילה. אחרי העליות בשבוע שעבר בחסות טיסת האימה של פליי דואבי, מניית אל על יורדת ב-3%. מט\"ח: האירו נחלש בעולם",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/H1K00IlrSze/H1K00IlrSze_521_141_1608_905_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "4a7bb497e2ce",
    "kind": "headline",
@@ -5882,50 +5924,6 @@
    "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-iran-iraq-flights-hzlq/03int-iran-iraq-flights-hzlq-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ad21ea77e333",
-   "kind": "headline",
-   "title": "Understanding Canada’s Europe Pivot",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
-   "topic": "world",
-   "published": "2026-10-03T10:00:13.000Z",
-   "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
-   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-canada-letter-gfkq/03int-canada-letter-gfkq-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "578d42e66abd",
-   "kind": "headline",
-   "title": "Beckles questions Govt’s rush on major legislation",
-   "source": "Trinidad Guardian",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1R4ekJHZ0ZWTTktaUdoNEJBODFjeElUbldiUzYwWElFSlBDMlYtNXhWUnUxT0ZoTzgzWl9mS0I2Y2lBTWE3aGxwUVExV0p4aDQtQ2ROZ3NfRjFVcjdIR3RPX21DNktNdHhQa2dONnNGSnBlSlZpSkFWQ0R6SE1NWjBBZWhUSDBxWVp2T2tyaWNmSFRVZGwwMjN5ZV9pbU1WWGdMZ0R3?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T09:39:25.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c51a2dcca6c8",
-   "kind": "headline",
-   "title": "Kharge seeks dissolution of Assemblies over SIR, demands fresh polls",
-   "source": "The New Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUxIalVyaktOQ2dvMWYzQ2NWSWZ4Q1UtRlA5NERsOXpFZ2ttVkFWYjQ0Tk9aQ1Vvdmx5cEhIbnR5NGthbTFLYWlNZF8zMzgwQzMtVzNqd19pSGsyclhxVkpWRDlQV0h1YXFqRlNNZmd0NTJSZmNJRWZEaU1BR1NhMDVJZmRNU293WnVtRW1iWkh4MHNCSGZaZjZnTjNvRzRhZWdyUkRYOG11OVQ3UTNpZXZQS2g2c25rMzQ4VDQ3dnJOc3VmeTI0bdIB1gFBVV95cUxQTmhwaEJZeGZGMWVUSTdLSk44eHY3QVItR2tmaHc2MFZQSC0xOHJudExoRm5UU0N5bnJob0tEWUNJQTVET3l2X2l0WHNKX0NpUFVVeTZ1NktVdEFNc2R3NEFEMldNSzFtbHlZVmNvbGhYOUZ3dFVzbGFpSlhQS1pSblFKZ192RG1ZZ0VSbmdFazBOUWVvVzZQRlRHeG15Y1hTZDFadEVEWUNiZ1hiSjhLNmFoVHRubGxLc0pGWm80dHJlMU5SYXpfbzNOSlgxY1piT05OQ3hn?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T09:26:06.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "newindianexpress.com"
-   ],
    "important": false
   }
  ]
