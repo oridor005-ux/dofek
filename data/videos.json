@@ -1714,12 +1714,45 @@
    "found": "2026-10-05T11:46:27Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693144553460600116.txt"
+  },
+  {
+   "id": "7693153659231849749",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693153659231849749",
+   "caption": "יעקב גודו, אביו של תום גודו ז״ל, צעק במהלך נאום נתניהו בטקס הממלכתי ל...",
+   "posted": "1791201925",
+   "found": "2026-10-05T12:16:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693153659231849749.txt"
+  },
+  {
+   "id": "7693152185378557205",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693152185378557205",
+   "caption": "⁨\tהסיפור של שקד 👆 גם אם לא היית בזירת הקרב או האירוע, יכול להיות שאתה...",
+   "posted": "1791201581",
+   "found": "2026-10-05T12:18:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693152185378557205.txt"
+  },
+  {
+   "id": "7693154548235390229",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693154548235390229",
+   "caption": "תקשיבו לד\"ר מרדכי קידר ותבינו את הסיבוב הפוליטי שמנסים לעשות עלי!",
+   "posted": "1791202133",
+   "found": "2026-10-05T12:19:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693154548235390229.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T12:00:53Z",
+  "at": "2026-10-05T12:19:19Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
