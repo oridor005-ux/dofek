@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T00:31:56.861Z",
+ "updated": "2026-10-05T00:44:09.862Z",
  "items": [
+  {
+   "id": "b153aa7ee4af",
+   "kind": "headline",
+   "title": "Parliamentary Committee Submits Report on Constitutional Body Officials' Benefits Bill",
+   "source": "Ratopati",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMGV1VFVjanRlUENRT3Q0R2ZmVUJYb09DemRrdTZlZUZBMjgzaVp2Q3ZjZl85UEJKMzZqaktBSkNQLVhDdDhWSG0teXlRUGVIdE5MQ0llUVpYWVhaa180cEZRTHNjTV9PN3QxNWtHc3hUNUVydEZhcW55eWhJQkdET2pXc3g3S2FmX1FIR3JUSkNsZVduMGRVR3AtWkg2c1RxRmRMTW5tTkJmYVZLc2M2bXJycEhGZFVWYU1RRUtFWDZJQURGYU5kRFRmeXNHcnZFZkQyemZSTTI0UFVlaUJRWEdPZw?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T00:20:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "f6bdb5d11331",
    "kind": "headline",
@@ -39,6 +53,20 @@
    "published": "2026-10-05T00:13:00.000Z",
    "summary": "Son of imprisoned former president finishes first, leaving the leftist incumbent with an uphill fight ahead of an Oct. 25 runoff.",
    "image": "https://images.wsj.net/im-79457624",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "82a821d89b4f",
+   "kind": "headline",
+   "title": "Maritime Powers Bill passed to give authorities power to board, search and detain suspected ships",
+   "source": "Fijivillage",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUxOT2kyYVZQZzB0cE1YYnZnLUYwYkpMTGtUQk5qWTdIeGExX3hnckdZVU9SMnFYV00tSUQ5V1BLOWhkZVYzYy10aDVuTWJWZ2FYaUlsNUtINXdpOEpXcmR3Y2FYOXlBcnhvUjJic0JUeVl4MjhubTNiZG1mOHVVVmpaeXVYdzUwa2xYRXh6b3FRUlJSN2ZtQmpFTVYwS3JtNG5OdFRrQWVPVzd3U1NrNXFZbVFGSVN2MnJ2bGJiTzh5ekhwaHQ4SjlkcFI4U3pVVElr?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T00:07:01.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -538,7 +566,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "jpost.com"
+   ],
    "important": false
   },
   {
@@ -2217,7 +2247,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "reuters.com"
+   ],
    "important": false
   },
   {
@@ -5887,35 +5919,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://i.guim.co.uk/img/media/9a309d1ea3b14dc06fb7f8700f62b9e87a9c4ffb/0_202_2555_2044/master/2555.jpg?width=140&quality=85&auto=format&fit=max&s=06f5db839cb830e4433e36518a2dce97"
-  },
-  {
-   "id": "ba4a01792404",
-   "kind": "headline",
-   "title": "אחרי המאמר מ-8/10, וה\"עצה\" מנשיא העליון: יו\"ר בל\"ד פרש מהתמודדות לכנסת",
-   "source": "YNET",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWWThoaC1WRFZMQ1ZUTVQwNVVZclhaNTJ0azNIQmxUTnZwcHR2djZZVU5xcFhwR0VYYUQ4NVJqSmZGcFo1RGpIQVhRZUVSZm53ZGEtNHR3NVl0dDdra1NCaFB3cVROQUVydmFqUEV3?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-02T09:35:58.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "ynet.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "1c0b6f1f4c36",
-   "kind": "headline",
-   "title": "Heard on the Street: High government debt is adding fuel to the global bond market selloff",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/finance/investing/high-government-debt-is-adding-fuel-to-the-global-bond-market-selloff-a93fa0fe?mod=rss_socialeconomyfeed",
-   "topic": "world",
-   "published": "2026-10-02T09:30:00.000Z",
-   "summary": "Oil prices are driving rates higher, but indebtedness is a key risk factor.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://images.wsj.net/im-16231224"
   }
  ]
 }
