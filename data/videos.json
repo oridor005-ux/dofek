@@ -1327,12 +1327,67 @@
    "found": "2026-10-05T07:18:57Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692726393267850497.txt"
+  },
+  {
+   "id": "7693079483259178292",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693079483259178292",
+   "caption": "אחלה שר הזיתים",
+   "posted": "1791184661",
+   "found": "2026-10-05T07:28:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693079483259178292.txt"
+  },
+  {
+   "id": "7692569611618848021",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7692569611618848021",
+   "caption": "ראיתי שהוציאו סרטון ערוך מתוך ראיון לפני מעל 5 שנים בטלויזיה הסעודית ...",
+   "posted": "1791065942",
+   "found": "2026-10-05T07:29:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692569611618848021.txt"
+  },
+  {
+   "id": "7692308397638634804",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7692308397638634804",
+   "caption": "שהאויבים שלנו לא יטעו ולא יתבלבלו בגלל תקופת הבחירות לכנסת, כשזה נוגע...",
+   "posted": "1791005123",
+   "found": "2026-10-05T07:29:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692308397638634804.txt"
+  },
+  {
+   "id": "7692045751630728456",
+   "channel": "jacob.bardugo",
+   "name": "jacob.bardugo",
+   "url": "https://www.tiktok.com/@jacob.bardugo/video/7692045751630728456",
+   "caption": "גאה להצטרף לליכוד",
+   "posted": "1790943967",
+   "found": "2026-10-05T07:30:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692045751630728456.txt"
+  },
+  {
+   "id": "7692783768901307666",
+   "channel": "ben_caspit",
+   "name": "ben_caspit",
+   "url": "https://www.tiktok.com/@ben_caspit/video/7692783768901307666",
+   "caption": "תרשמו לעצמכם: הניסיון לרסק את מטוס 'פליי דובאי' - הצליח, הטייס העומאנ...",
+   "posted": "1791115801",
+   "found": "2026-10-05T07:31:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692783768901307666.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T07:19:05Z",
+  "at": "2026-10-05T07:31:35Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 10
+  "transcribed": 5
  }
 }
