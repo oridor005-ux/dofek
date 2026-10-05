@@ -1076,7 +1076,7 @@
    "caption": "לא נסיים בלי…. אתם כבר יודעים מה 😂",
    "posted": "1791179024",
    "found": "2026-10-05T05:57:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693055286268955912.txt"
   },
   {
@@ -1087,7 +1087,7 @@
    "caption": "יאיר גולן שרף להם את השקר בשידור חי, שתפו",
    "posted": "1791178953",
    "found": "2026-10-05T05:59:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693054972342177042.txt"
   },
   {
@@ -1098,7 +1098,7 @@
    "caption": "אולי זה לא מדד אבל מישהו יודע למה אין את זה בצד השני?",
    "posted": "1791178890",
    "found": "2026-10-05T05:59:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693054711234104583.txt"
   },
   {
@@ -1109,7 +1109,7 @@
    "caption": "\"הרגע שבו שמעון פרס, ראש הממשלה המיועד, הפך לראש הממשלה לשעבר\"👇 עשור ...",
    "posted": "1791180000",
    "found": "2026-10-05T06:13:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692849933921078549.txt"
   },
   {
@@ -1120,8 +1120,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791183208",
    "found": "2026-10-05T06:57:53Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693073263534132498.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693073263534132498.txt",
+   "insightIds": [
+    "ins-2026-10-05-ab21"
+   ]
   },
   {
    "id": "7693071160325475602",
@@ -1131,7 +1134,7 @@
    "caption": "#פוריו #ימין #שמאל #בשבילך #פוליטיקה ",
    "posted": "1791182721",
    "found": "2026-10-05T06:58:13Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693071160325475602.txt"
   },
   {
@@ -1173,7 +1176,7 @@
    "caption": "⁨\t“אנחנו כאן להישאר”: יוצרת התוכן שירי ירדני שיתפה ברגע מרגש מריצת הז...",
    "posted": "1791182963",
    "found": "2026-10-05T06:59:39Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693072200055786772.txt"
   },
   {
@@ -1208,7 +1211,7 @@
    "caption": "שלוש שנים אחרי 7 באוקטובר, אלי שרעבי, ששב מהשבי ואיבד את אשתו ובנותיו...",
    "posted": "1791183600",
    "found": "2026-10-05T07:05:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693062580776062229.txt"
   },
   {
@@ -1230,7 +1233,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791184270",
    "found": "2026-10-05T07:13:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693077806846053638.txt"
   },
   {
@@ -1386,8 +1389,11 @@
    "caption": "תרשמו לעצמכם: הניסיון לרסק את מטוס 'פליי דובאי' - הצליח, הטייס העומאנ...",
    "posted": "1791115801",
    "found": "2026-10-05T07:31:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692783768901307666.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692783768901307666.txt",
+   "insightIds": [
+    "ins-2026-10-05-bc72"
+   ]
   },
   {
    "id": "7693088203942726933",
@@ -1397,7 +1403,7 @@
    "caption": "מצמרר: כפר עזה, 3 שנים אחרי. 12 פעוטות בגן החדש שהוקם ונקרא \"גן נרקיס...",
    "posted": "1791186684",
    "found": "2026-10-05T07:58:22Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693088203942726933.txt"
   },
   {
@@ -1408,8 +1414,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791186703",
    "found": "2026-10-05T07:58:48Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693088280232922376.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693088280232922376.txt",
+   "insightIds": [
+    "ins-2026-10-04-ns11"
+   ]
   },
   {
    "id": "7693093779095620884",
@@ -1441,8 +1450,11 @@
    "caption": "יש סקר אחד שקובע",
    "posted": "1791189267",
    "found": "2026-10-05T08:44:03Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693099290159320341.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693099290159320341.txt",
+   "insightIds": [
+    "ins-2026-10-05-br47"
+   ]
   },
   {
    "id": "7693098185094532373",
@@ -1484,7 +1496,7 @@
    "caption": "\"בשלוש השנים האחרונות ידענו כאומה תהומות עמוקים ובלתי נתפסים\" ↓ \"אך ג...",
    "posted": "1791191547",
    "found": "2026-10-05T09:15:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693109083901152513.txt"
   },
   {
@@ -1527,8 +1539,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה",
    "posted": "1791191785",
    "found": "2026-10-05T09:30:42Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693110080488656135.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693110080488656135.txt",
+   "insightIds": [
+    "ins-2026-10-05-sh08"
+   ]
   },
   {
    "id": "7693113947515391252",
