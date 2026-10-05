@@ -1218,10 +1218,119 @@
    "found": "2026-10-05T07:07:52Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692914561464274184.txt"
+  },
+  {
+   "id": "7693077806846053638",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693077806846053638",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791184270",
+   "found": "2026-10-05T07:13:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693077806846053638.txt"
+  },
+  {
+   "id": "7693075780900785460",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693075780900785460",
+   "caption": "שלוש שנים אחרי הטבח הקשה בתולדות המדינה, הרמטכ\"ל אייל זמיר פרסם פקודת...",
+   "posted": "1791183793",
+   "found": "2026-10-05T07:13:35Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7692884126097050900",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7692884126097050900",
+   "caption": "\"אמא, אני בסדר, לא לדאוג\": אייל אשל משחזר את ההודעות האחרונות שבתו, ר...",
+   "posted": "1791139169",
+   "found": "2026-10-05T07:14:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692884126097050900.txt"
+  },
+  {
+   "id": "7692808594957389063",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7692808594957389063",
+   "caption": "קואליציית השאווישים של מנסור",
+   "posted": "1791121586",
+   "found": "2026-10-05T07:14:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692808594957389063.txt"
+  },
+  {
+   "id": "7692533329614097682",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7692533329614097682",
+   "caption": "לא התכוונתי להעיר אותך אבל אני כן רוצה לעורר את עם ישראל!",
+   "posted": "1791057493",
+   "found": "2026-10-05T07:14:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692533329614097682.txt"
+  },
+  {
+   "id": "7692480732711046407",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7692480732711046407",
+   "caption": "בשבילם זה טרור אקוסטי בשבילנו זה קול האמת!",
+   "posted": "1791045248",
+   "found": "2026-10-05T07:15:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692480732711046407.txt"
+  },
+  {
+   "id": "7692880399516716309",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7692880399516716309",
+   "caption": "",
+   "posted": "1791138304",
+   "found": "2026-10-05T07:15:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692880399516716309.txt"
+  },
+  {
+   "id": "7692745762136018196",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7692745762136018196",
+   "caption": "",
+   "posted": "1791106955",
+   "found": "2026-10-05T07:16:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692745762136018196.txt"
+  },
+  {
+   "id": "7692530012703984916",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7692530012703984916",
+   "caption": "",
+   "posted": "1791056725",
+   "found": "2026-10-05T07:18:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692530012703984916.txt"
+  },
+  {
+   "id": "7692726393267850497",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7692726393267850497",
+   "caption": "חברים יקרים, העשייה שלי והדרך שלי בשנים האחרונות למען המדינה הן ההוכח...",
+   "posted": "1791102443",
+   "found": "2026-10-05T07:18:57Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692726393267850497.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T07:08:09Z",
+  "at": "2026-10-05T07:19:05Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
