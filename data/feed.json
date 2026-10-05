@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-05T00:09:08.227Z",
+ "updated": "2026-10-05T00:20:34.683Z",
  "items": [
+  {
+   "id": "f6bdb5d11331",
+   "kind": "headline",
+   "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-05T00:15:27.000Z",
+   "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a59/live/bee37260-c036-11f1-a64c-550be9e3c66b.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8e1e4cfbb33b",
+   "kind": "headline",
+   "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html",
+   "topic": "world",
+   "published": "2026-10-05T00:15:11.000Z",
+   "summary": "Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round. But for now, Mr. Bolsonaro is leading the race.",
+   "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-brazil-elections-takeaways-ckzh/04int-brazil-elections-takeaways-ckzh-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a2b5eb329ae0",
+   "kind": "headline",
+   "title": "Flávio Bolsonaro Surges Past Lula, Setting Up a Bitter Brazil Election Runoff",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/americas/flavio-bolsonaro-surges-past-lula-setting-up-a-bitter-brazil-election-runoff-0432b9c5?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-05T00:13:00.000Z",
+   "summary": "Son of imprisoned former president finishes first, leaving the leftist incumbent with an uphill fight ahead of an Oct. 25 runoff.",
+   "image": "https://images.wsj.net/im-79457624",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "f321a4816345",
    "kind": "headline",
@@ -5874,53 +5916,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://images.wsj.net/im-16231224"
-  },
-  {
-   "id": "a0093f1099e5",
-   "kind": "headline",
-   "title": "Swedish opposition leader Andersson given second chance to form government, parliament speaker says",
-   "source": "Yahoo News Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSjc5M1RIRlpKV3JkdWU1ZEZCa1RidkU4ek82U0NoRGxIcmF4aV9Gem5vYjY1bWZUc1hLTWZDa1ptNnJPZUEzRHM5bGdyeGhhYUlmS1U3VUJuLVJ5dkYxd0E4Q09xOGRXVHNEdmIzcFZJbWpXWWI0czdyTFFQVGtzclQ4X0dVNjZWb0E?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T09:09:33.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "Internazionale",
-    "Reuters",
-    "Rock Hill Herald",
-    "sg.news.yahoo.com"
-   ],
-   "important": true
-  },
-  {
-   "id": "63dfc4a998fc",
-   "kind": "headline",
-   "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-02T09:08:06.000Z",
-   "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-   "id": "2ee764b5e21b",
-   "kind": "headline",
-   "title": "Trump Peace Envoy Kushner Has Ties To Israeli Defense Firms",
-   "source": "teleSUR English",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VdDdCUFB0UjFwYjNIRzZfNHNEWXJRQnZQdEJJNU9kclpuLU9nN1duZzdUNFlBSTA0bDhUN2FRcTVvZ0NyTklJYUFza1hoYlhhWS1tTHd0d3BsdjhRMGhqcWxlS1BCMTlkalZIRC1QQkhybVNCSkVjOF9Lekw?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T09:07:53.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "telesurenglish.net"
-   ],
-   "important": false
   }
  ]
 }
