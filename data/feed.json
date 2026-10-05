@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T15:44:12.073Z",
+ "updated": "2026-10-05T15:57:11.133Z",
  "items": [
+  {
+   "id": "6c3687a5502e",
+   "kind": "headline",
+   "title": "American Midterm Elections: Now is the Time to Act",
+   "source": "blogs.timesofisrael.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbGdkTkVOSEYzNXFzdno0TjRnRGdSeWhsMFQ0LS1sZ2ZSbUtaQkNLSGFQY281SDF3YzJUM21Ka3VURjRwTUlkaFRMWTVxeWFSSmR6dlpWS1FHc1lQbmM0TGZEMVZ3SFFRbWdwVHd0X3ZvckhxdW16MEUwbk5DOXB6d0RzTWtwaG9zUXc?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T15:38:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d9f7a9444a31",
    "kind": "headline",
@@ -26,6 +40,48 @@
    "summary": "פורמט המיקרו-דרמה צובר תאוצה בישראל, וכעת גם חברת התוכן הדיגיטלי שרכש אסף רפפורט מרחיבה את השקעותיה בתחום - במטרה להפוך אותו למנוע צמיחה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791212124/%D7%9E%D7%99%D7%9B%D7%9C_%D7%95%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9E%D7%A1%D7%9A_kexxk3.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6063176b5b53",
+   "kind": "headline",
+   "title": "הסוד על חוק הגיוס? ח\"כ אשר: \"הצביעות הפוליטית תיגמר אחרי הבחירות\"",
+   "source": "היום",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qRWhiRWhoVDVJVXB0bGVWS3pWT25qZC1yVmszZ2NUaEZabFdIR0lzSzZDMHN2NWZ0cDFmV2NzZUo4OVBud3V3dnB5ZWNaOG1NLXIzNG1DVmtqYmF6V0VVdW1SNGpMdVUxc1JUddIBdEFVX3lxTE5FRURMRVQ1VEtZd2E3dW8xVHR4UE9rZ3BqRGRtSW5XaXRGOGNtMWFYQjJGbzhQSTVWNjQ3Rkd4TTEyYkt2cXFDcVRBdkVfQzBwRnFucDBwX0REX3UyR2NPN1Z6Zmg0QWhOOGlSVm9MZDNWWmgw?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-05T15:20:22.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "40a456f42656",
+   "kind": "headline",
+   "title": "מגמה מעורבת בבורסה: אלו המניות שהתרסקו ואכזבו את המשקיעים",
+   "source": "ice.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNG4wckNFcWxfY0xBNFBDcUZyaXdlM3VPakRQMXJtZDBvT2FybHZkR2VJUGR4eTljUFhWVTYxZVJVeWYxTlg1SW5uMkFoalFwT2NnN2N5ak9ydERPRFVn?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T15:19:59.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e0fac69b8e32",
+   "kind": "headline",
+   "title": "Elbit Systems stock gains 4.11 percent on Q2 growth",
+   "source": "AD HOC NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE1kM2pqWmFJTXV6OV9mYjRralJST3doYjdvTUYtWXVYX2IzT2JzSHZuUU5BSThVSDI4Q2V1a01xS2REeVhKYnR0VVNnX0tVN3lFbU9UN1pLQWFERF9HNkFnQ3loUkN5aTNWQm40aTg4N1FYV1lwX1kwZUs4bmpVemtUUVk3eGM1cm5vMllFOXFsOEgwZlhxRl9hMW8yWXV4ampYUXJsUFNOTTV3R1BfLUItQzA?oc=5",
+   "topic": "defense",
+   "published": "2026-10-05T15:11:34.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -82,7 +138,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "וואלה"
+   ],
    "important": false
   },
   {
@@ -166,7 +224,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "ice.co.il"
+   ],
    "important": false
   },
   {
@@ -308,7 +368,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "naharnet.com"
+   ],
    "important": false
   },
   {
@@ -321,6 +383,20 @@
    "published": "2026-10-05T13:21:59.000Z",
    "summary": "משרד הבינוי והשיכון פרסם נייר עבודה מפורט המתייחס לשוק השכירות הישראלי. העבודה בת עשרות העמודים מציעה בין היתר להקים גוף מתכלל לתחום, לחייב דיווח ואפילו לשלב שכירות במיזמי התחדשות עירונית. טור שבועי",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/17/rygAFauZ0011e/rygAFauZ0011e_0_308_1246_702_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "35923353105c",
+   "kind": "headline",
+   "title": "National must come clean on climate",
+   "source": "Green Party of Aotearoa New Zealand",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvbURacXNlWXVTZDFYenczLXBFUkFRR0hMQlpxUWlEREY0ZERrXzVzSlBqNUhBTWQyRm9HVC1xUnVDUVZsQ1hNYTc4RUtaV0JyUHdvVkhiRVhjb1BTVkRySVUxUTBaV25jTHU0UjNR?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T13:06:08.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -510,6 +586,20 @@
    "important": false
   },
   {
+   "id": "d867a116afdd",
+   "kind": "headline",
+   "title": "Spain’s anti-Israel PM calls snap elections after his minority gov’t failed in key vote",
+   "source": "worldisraelnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmhhWDhiT2Y1eGZvWDdfcGtZbC1WWDdrYlVscXF5UTJLdjRiWEJObUlrTEdQT3NnSmtnZV9hWHp0dEVwV1dFLXFLT1BIRnJKb3RRbVBVeEg3VXdlb3g4UzdtSmZEZGRjTHBCLUZrV05sNHc3cGY5LVp1VG1BQVNia0VQWFBXdUNnLXZEVndVMVpnbDZsSnd5UEdVejItV2g2U3ZIc0ItR1UwY1BoYXBDbWROMXd0RllXWmfSAboBQVVfeXFMUG5oYVg4Yk9mNXhmb1g3X3BrWWwtVlg3a2JVbHFxeVEyS3Y0YlhCTm1Ja0xHUE9zZ0prZ2VfYVh6dHRFcFdXRS1xS09QSEZySm90UW1QVXhIN1V3ZW94OFM3bUpmRGRkY0xwQi1Ga1dObDR3N3BmOS1adVRtQUFTYmtFUFhQV3VDZy12RFZ3VTFaZ2w2bEp3eVBHVXoyLVdoNlN2SHNCLUdVMGNQaGFwQ21kTjF3dEZZV1pn?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T11:38:44.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "1cca6b4192fb",
    "kind": "headline",
    "title": "Live Updates: Spain Calls Early Election After Housing Crisis Roils Government",
@@ -652,7 +742,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ice.co.il"
+   ],
    "important": false
   },
   {
@@ -667,7 +759,8 @@
    "image": "",
    "score": 1,
    "alsoIn": [
-    "חדשות 04"
+    "חדשות 04",
+    "0404.co.il"
    ],
    "important": false
   },
@@ -1339,6 +1432,20 @@
    "important": false
   },
   {
+   "id": "ab2bbd5ddc15",
+   "kind": "headline",
+   "title": "Fillon seanca e jashtëzakonshme, shqyrtohet Ligji për Specialen",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTdFSlJZRUxKMXlxdWNiVTRZS2E1WlhjbDBjMmtSeE9HcDZCZ29ySnhPbEd5T3ZYRVRsRGloS3dnMDViRXFPSE80V0c4WnBKY0tSd3hnOEJlSzgyME41cVVWbjhjUzNNbGNCZzFhQ3NnQUFlaFNOYkoxbGZUcDVDNjJDcHpjY2tiR01ZT3NIdlJVSlNDSUF6R0FGQ0Y?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T08:14:01.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "eab769aef5b6",
    "kind": "headline",
    "title": "Session begins, Parliament considers in principle the amendment to the Law on Special",
@@ -1479,7 +1586,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "dailysabah.com"
+   ],
    "important": false
   },
   {
@@ -1537,7 +1646,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "ice.co.il"
+   ],
    "important": false
   },
   {
@@ -1674,7 +1785,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "103fm.maariv.co.il"
+   ],
    "important": false
   },
   {
@@ -5812,110 +5925,6 @@
    "score": 0,
    "alsoIn": [
     "walla.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "bfdde3c995c7",
-   "kind": "headline",
-   "title": "Trump Urges Republicans to Vote By Mail After Criticizing Practice",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html",
-   "topic": "world",
-   "published": "2026-10-03T18:44:42.000Z",
-   "summary": "It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”",
-   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03-pol-trump-mail-voting-01-tfkb/03-pol-trump-mail-voting-01-tfkb-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3285115d9169",
-   "kind": "headline",
-   "title": "Trump, Critic of Voting by Mail, Urges Republicans to Do It in Midterms",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html",
-   "topic": "world",
-   "published": "2026-10-03T18:44:41.000Z",
-   "summary": "It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”",
-   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03-pol-trump-mail-voting-01-tfkb/03-pol-trump-mail-voting-01-tfkb-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6199f2dc9db8",
-   "kind": "headline",
-   "title": "Latvian Prime Minister Andris Kulbergs Faces Challenges in Parliamentary Elections Due to Living Costs and Russia",
-   "source": "Nacionale News",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVp0VEQ1c1JqaWlkckNmMnVXem5CYUJlSk9wZ2pTc3NrV0VjWWZXVzRPQWxOTUtGaWRvU2N6NXg0amxNMUhTS1ZsS2xOeDRLTm9NQUxFeW5WZDdOcW00dHhmd0phdWNQQk9PMER3UmNqbTFvZmZxOHFabEVZdDBnMnhmVFBLZHNmQmVkbGx3b1lZcXMyTXJiTG4wbmNXYWwyUlJ5S2F4VDZIWkE3N29rRW84M1RuX3pzdFE?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T18:35:22.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b224f1c2a31a",
-   "kind": "headline",
-   "title": "לאחר ניסיון הפיגוע ביום כיפור: אירוע אנטישמי נוסף מול בית הכנסת בעיר הקנדית",
-   "source": "וואלה",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FalRmVEhva0FlNlBPRHR0R2h6VmN4MzdNVW1fUlhxYWJMdzJOcGVORm81bTdBLUhlMDRQZVJjanljX1pvcmRJdjdJTDl4ZTJwVy16cTFMSQ?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-03T18:31:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "walla.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "928abfd98b29",
-   "kind": "headline",
-   "title": "Sánchez maintains the unknown of early elections after the fall of housing decrees: he is \"calm\", opens a \"period of reflection\" and shows himself willing to negotiate",
-   "source": "El Constitucional",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQSkM1SHY0RWs2U2tleW1jMlBLNmpBWVpBM3NURFFxYWhXZ0xyd3JGZXgzUEZneWotcnpaWmt3RHc0RjZCcGdyQi00OVotamtFNEVuNkhia2lRZ2lxUHpsd0JzeEhTakRDWkNxVERQM1RpM3Z2dGNyQmNXcnU4YzVxbmg3QUU0akpWd1FXcVRkMkpaVHY0WVpzRWtDNGo5aXZTaGVVdUI1WlJCWFRGWTlDWm51SThKTm5yalVmUkp5T2ZUdDVPVm5RYlJVRUV5akI3NW1ZeEk0RHJVLTRQN1pNTTFwdmtyWm9ub0xrQlp4TFU5dDRhVUt6Zm12Znc5YnVORUNyNEcwV2FxQV9idVhpWEVWb2hGV1FoQ2MzNW9fQ2xfcUNucmx2UFAzREU1QlhCZjlBYlZFLWwzTTVNNHc?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T18:03:27.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "elconstitucional.es"
-   ],
-   "important": false
-  },
-  {
-   "id": "963d808986ab",
-   "kind": "headline",
-   "title": "סופת האג\"ח מטלטלת את השווקים ומעמידה את הפד בפני מבחן קריטי",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558157#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-03T18:00:00.000Z",
-   "summary": "הזינוק חסר התקדים בתשואות האג\"ח בעולם מציב את השווקים הפיננסיים בפני סכנה אקוטית • במקביל, מימון ההשקעות העצומות בבינה המלאכותית נשען על חוב יקר ומסוכן שעלול לגרור מטה את מניות הטק • כעת, הפדרל ריזרב ניצב בפני הכרעה גורלית בין בלימת האינפלציה להצלת המשק מקריסה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790839095/AP26071759911055_xilz3l.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "acd934c4e533",
-   "kind": "headline",
-   "title": "A cinema chain’s Liberal donation broke the rules. This is why there won’t be consequences",
-   "source": "SMH.com.au",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSm44X1I3N2FHVXJnQ2Yxcm1OcUNOUUJXMFdzbGZocnNqYzBMcW41NzdNelVmd214SGlITEV2SkhSbGk4c05hLUplN05ZMl9OdW9UZFdLTEJyeDJEcXFIclQzS19QVXBxbXFHMk4tdVNTc1U3cHZvM0xlR2Z3VnZLRzZ0YWVYeElmSVJTbGdmTElRb0VINFZXcUJxcmpzcmlPd1NZMDVoM1UxNnowUGZXcTJqODNoQ0tvUk9zbG1mY2p1RDFURUhWdmQtNFJORzF3RHhVc1BMNHl6N2Z1QW9tYzZuVmFaZw?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T18:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "smh.com.au"
    ],
    "important": false
   }
