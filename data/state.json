@@ -65,7 +65,7 @@
   "ins-2026-10-05-crn7"
  ],
  "pending": [],
- "lastRun": "2026-10-05T13:11:25.584Z",
+ "lastRun": "2026-10-05T13:22:53.137Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -92,7 +92,7 @@
    },
    "at": "2026-10-05T12:47:59.394Z"
   },
-  "lastNewItemAt": "2026-10-05T13:11:25.584Z",
+  "lastNewItemAt": "2026-10-05T13:22:53.137Z",
   "lastPushOkAt": "2026-10-05T12:12:49.872Z",
   "googleOkAt": "2026-10-05T12:47:59.394Z"
  },
