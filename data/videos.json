@@ -1866,12 +1866,55 @@
    "found": "2026-10-05T13:33:41Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693172790182137095.txt"
+  },
+  {
+   "id": "7693188441785290004",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693188441785290004",
+   "caption": "\"אני מאוד מקווה שב-28 לחודש נתעורר לבוקר אחר עם תקווה אחרת\" 👇 איל אשל...",
+   "posted": "1791210024",
+   "found": "2026-10-05T14:34:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693188441785290004.txt"
+  },
+  {
+   "id": "7693188982607219986",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693188982607219986",
+   "caption": "על חשבון הלקוח הקטן: במקום לבדוק מדוע זכיינית כביש 6, חברת דרך ארץ, ל...",
+   "posted": "1791210150",
+   "found": "2026-10-05T14:34:28Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693190418200284434",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693190418200284434",
+   "caption": "אם רק היו מקשיבים לי… וישראל הייתה משנה את הקונספציה מול האויבים שלנו...",
+   "posted": "1791210485",
+   "found": "2026-10-05T14:35:09Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693190418200284434.txt"
+  },
+  {
+   "id": "7693189042879384833",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693189042879384833",
+   "caption": "אני אגיע לעמדת כוח ואלחם בכל הקיצוניים תומכי הטרור האלה מבפנים! אני ז...",
+   "posted": "1791210161",
+   "found": "2026-10-05T14:36:20Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693189042879384833.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T14:18:04Z",
+  "at": "2026-10-05T14:36:28Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 4
  }
 }
