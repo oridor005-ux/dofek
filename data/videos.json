@@ -1507,12 +1507,34 @@
    "found": "2026-10-05T09:17:23Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693063205588880661.txt"
+  },
+  {
+   "id": "7693112051538988296",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693112051538988296",
+   "caption": "״הקשר בין העם היהודי לעדה הזרוזית - הוא קשר של אחים.״💪🏻🥀",
+   "posted": "1791192241",
+   "found": "2026-10-05T09:30:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693112051538988296.txt"
+  },
+  {
+   "id": "7693110080488656135",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693110080488656135",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה",
+   "posted": "1791191785",
+   "found": "2026-10-05T09:30:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693110080488656135.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T09:17:34Z",
+  "at": "2026-10-05T09:31:20Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 2
  }
 }
