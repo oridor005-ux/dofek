@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T15:08:58.332Z",
+ "updated": "2026-10-05T15:21:18.484Z",
  "items": [
+  {
+   "id": "22addde303cd",
+   "kind": "headline",
+   "title": "Over 70 pro-Palestinian protests planned for Oct. 7 anniversary",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGNU9PUDN1NWlzX2ZnTzFfS0VuUko0RXZaay1ucG5DY0hwdHF1QVRpTGdxTWhmeUhybm94SVkybkhZQ1hjQ2o5RVFnRkZJT1RFVFhUT0xiVEJfZHJGMGxRMkdFVWh4TlJ2Q1E?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T15:02:36.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9fdc05d5fb1b",
    "kind": "headline",
@@ -30,6 +44,20 @@
    "important": false
   },
   {
+   "id": "8e59d36f1ad4",
+   "kind": "headline",
+   "title": "שליח טראמפ דוחה את השוואת הציונות לגזענות: “אנשים צריכים להבין את המונח\"",
+   "source": "walla.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhVkJPNzJ6SWJWaTJkMzI4LVljZ1I2T09aaVFrV0o3RklLY01UMkMxWmlZTUdYZEtuYktvS2VEcVVDVERLUUhUeTVPY2Z5UTkzaGlDZklPRQ?oc=5",
+   "topic": "research",
+   "published": "2026-10-05T14:59:16.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "482d4703c1c4",
    "kind": "headline",
    "title": "הפרדוקס של שוק הנפט: היצוא מהורמוז חזר לשגרה, אך המחירים ממשיכים לטפס",
@@ -40,6 +68,20 @@
    "summary": "נתונים חדשים של חברת המחקר הבינ\"ל קפלר מלמדים כי יצוא הנפט מהמזרח התיכון רשם התאוששות דרמטית וחזר לרמות שלפני פרוץ המלחמה • למרות זאת, מחירי חבית ברנט נותרו סביב 100 דולר • מה עומד מאחורי האנומליה שבין ההיצע למחיר",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781785447/direct/1_wtolye.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "246c6aa3720d",
+   "kind": "headline",
+   "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-05T14:37:17.000Z",
+   "summary": "Houthi-run media deny the government has made advances in the Dhubab area, which overlooks the strategic Red Sea waterway.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58c/live/3aa7d380-c0ca-11f1-a5b0-6f550c662e91.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -566,7 +608,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "maariv.co.il"
+   ],
    "important": false
   },
   {
@@ -610,6 +654,22 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [
+    "thearabweekly.com"
+   ],
+   "important": false
+  },
+  {
+   "id": "358bf8210157",
+   "kind": "headline",
+   "title": "דירוג תוכניות הטלוויזיה ליום ראשון, 04.10.2026",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vYk1TTVdfb25Wc01TTEFkTENqYlVZQ0RsT2xFSi1jMUhtUjkzNS1oRFZ1bWlhRjV3RWR2TXhJSUMwLTJ0cHdMZDFTaTdtZER0bEE?oc=5",
+   "topic": "media",
+   "published": "2026-10-05T10:31:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -901,7 +961,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "newindianexpress.com"
+   ],
    "important": false
   },
   {
@@ -1249,6 +1311,20 @@
    "important": false
   },
   {
+   "id": "eab769aef5b6",
+   "kind": "headline",
+   "title": "Session begins, Parliament considers in principle the amendment to the Law on Special",
+   "source": "KOHA.net",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnpVQ2VHWFNuNXBTNFIyQjJTTlFvc05WSldOOGdHeVA2c0NaSDdaY3VXSm9KajEzSFZ5NG9KbGNEVFFsc3dheEFUclFheW05ZndLelk4ZFZXUkV5U0pxb1ZSMjZaTW0yWmU2bHhhS1ZDOFpnTUx6X0tGaWpfUm9EYUFERVRNT1VOQ3g5dXBHZGhCN3Q3Zzd2OFpETDF2bUlmbEFV?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T08:13:34.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "d1413dcafc32",
    "kind": "headline",
    "title": "Europe’s last socialist heavyweight Sánchez calls snap Spanish elections for Nov. 29",
@@ -1417,7 +1493,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "atalayar.com"
+   ],
    "important": false
   },
   {
@@ -2633,7 +2711,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "maariv.co.il"
+   ],
    "important": false
   },
   {
@@ -5839,82 +5919,6 @@
    "alsoIn": [
     "the7eye.org.il"
    ],
-   "important": false
-  },
-  {
-   "id": "276fda4b60e7",
-   "kind": "headline",
-   "title": "Latvian PM Kulbergs strongly ahead in election, according to exit poll",
-   "source": "TVP World",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVVmY2FVV19OVGVGTlVsWndwSzhKbERRTnFTVm5yTV9RXzRvX2kteEo5MDdLZk1pOGpyNmppbEl0RkVnMktJeFV5SFJUVmx0NzhYdmRJdUJVa1V5TU9LZktnNllSUm8yYjltV280clU0SFJZamNMNGxPZXJNRUZuSllCbHFRbmE4WUNJbC0xNk9TQ05RX1VmaHlILUNHT2Q5?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T17:40:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "tvpworld.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "b42798771911",
-   "kind": "headline",
-   "title": "Israel election double standard: Arab leader forced out, far right cleared",
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVmdTRMc043eU9jM3d1cmFrRFlhWldCVzBzV1lLcEtqVU80WE5lUk5LVWlfVHd4Tnk0QUFtNEFkY0V0cUROdGlKOG9UZldTQ2dJNjVQdzVpOTlDOUFZOHI4Q1pzbGlfc1NjM2c3cFBjYnJWZGF4SUtkZXBXbHZ1WGlLT2JqN2JXb0tfYklOdzV3WGdvRlVDTnl6SXh1aUdRYlFOWnZYSVBrOVJob0hxU3RIc9IBuAFBVV95cUxNUGhZM0h1aUsyUWFuOUZOOURQLW1KZTVRTHY3NS1xR3ZLTVNxY1h3S2FqWEtIclZkSlJmMElaVG13M2pLVl8zZWROWU1Kd3dSaVZJN2dOTVNBUW5oal9mNEF0azFiWjI4T3BRNGsyaTZjWkNQU1hVRjdHb0VNcXhRMHdFUTlYOE1ZZUhBbC1pNWtrUGtXbWVhcjVZNVUzTnpWc05ZY2U1QzZHR1hkSG5TMnE1c21pRkRo?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T17:26:15.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "aljazeera.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "1cb7d51690e6",
-   "kind": "headline",
-   "title": "Israeli Soldiers and Settlers Block Palestinian Olive Harvest in West Bank's Area B",
-   "source": "Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVTJlemhqX2U2MUVnVTJOcmV3QS15dllsTGlqeXh3WHhHVGllbXNBYjFYOVhsbnMwMW96NzZBa1l0cWRlMXZLcHU2SGdnT1ZMMU5TeHJlemVJNVAzQTRvR2VUSXdWaEVhQ0gydU1FU0FUT0dEbDExd2U5T2ZTSE0wSGdPcEZYUWRraW9jbjdBS005eHF5RnVwYzBBZnMtMllCd2oxdXluNWtnRER2aWY0TnNvT3BHbnZyczFtSjVrQVYwQjVlaV9ab0VTRzlNdXhocHd2b1U4ZTAzMmEyLXRZOTNJRFdkamUtMUlvcDZENkF1SW5UbHdjb0puNUdDdElYR2kwYUZfaDhUcEhn?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-03T17:21:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8ab6fac1d69f",
-   "kind": "headline",
-   "title": "Latvia Election: United List Leads Exit Polls, Coalition Talks Ahead",
-   "source": "globalbankingandfinance.com",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEV3REl6a19uVHZpNnM0VVI3SDJGMUt4SE10N3RBbE4wYk9vTVNXVzM5cXpDVDBKNzk5eWtUd3h6enVVWTFKOFR5VnBPWW9ETnc4ZERmQWVOMFA4Nl9RU1F6MDRSaEVnY1hQejFLbFpBdmgxU1NWeE1GQ2JFS2NVTlVXNVM1SkExejk0dzlfSXRoQnJmZ1pfWDFn?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T17:17:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Global Banking & Finance Review"
-   ],
-   "important": false
-  },
-  {
-   "id": "37e880c22079",
-   "kind": "headline",
-   "title": "Latvia votes for new parliament against backdrop of perceived Russia threat",
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZE9GTjBtSW9hX1BDMzh4anh1Vm4xWHNKWEZSNUZLQXN1S2xjQXEwcmhmM0lMNlA3SFRsVUl2bDBPNXlEZGdDcFdHYXpLa2U1d1o0eTdNMlJYZWJYbmd5T2tkVjZhVnd6UmZQOG44U2JiQ3MwV1lSRl83THA4ZHNIXzhHS29RRVR0eEVQLTF0WlpIbVBjalNTN2tFcEpHVG5VTzRGRmJLTnjSAa4BQVVfeXFMTk5LbTYydDJkR3FjNVRKemt0THFtLWpndkhMZXFwMjVGNVhTVm5XaUF6M1loMkVybHdnZjlQUkhseHB5UFNiemN6TTNiOFBLek51TnZpaTdaQmQ5ZndMSHlucFc0amI3V2NYbjVsdHY3YmdCMXI0OU5Ga3llZ0k5Tlh6QS1kd2w3YmZ1NmtSc3NzRXR6aGV0Tmt2YjFYQkdQZzNwT2d6N2IzZmNfVUdB?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T17:17:56.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
