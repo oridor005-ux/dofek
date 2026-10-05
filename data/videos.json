@@ -1985,12 +1985,33 @@
    "found": "2026-10-05T15:51:55Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693199582901128469.txt"
+  },
+  {
+   "id": "7693212429970410760",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693212429970410760",
+   "caption": "לפני שלוש שנים, בשבעה באוקטובר, החיים שלהם השתנו ברגע. מאז, כל אחד וא...",
+   "posted": "1791215608",
+   "found": "2026-10-05T16:08:34Z",
+   "status": "failed"
+  },
+  {
+   "id": "7693208318394764565",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693208318394764565",
+   "caption": "\"להוריד 30 מחבלים בלילה? זה מעט מדי\" 👇 עימות סוער בפאנל #הצבעה_ראשונה...",
+   "posted": "1791216000",
+   "found": "2026-10-05T16:10:57Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693208318394764565.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T15:53:57Z",
+  "at": "2026-10-05T16:11:25Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
