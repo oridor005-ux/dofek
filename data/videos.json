@@ -1529,12 +1529,45 @@
    "found": "2026-10-05T09:30:42Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693110080488656135.txt"
+  },
+  {
+   "id": "7693113947515391252",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693113947515391252",
+   "caption": "\"הציבור יכריע\": איזנקוט הזמין את נתניהו לעימות בטלוויזיה יו\"ר \"ישר!\" ...",
+   "posted": "1791192679",
+   "found": "2026-10-05T09:44:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693113947515391252.txt"
+  },
+  {
+   "id": "7693115958038105362",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693115958038105362",
+   "caption": "‏#דואט עם @ahmad tibi #تجاهل #פוריו #בשבילך #ימין",
+   "posted": "1791193147",
+   "found": "2026-10-05T09:45:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693115958038105362.txt"
+  },
+  {
+   "id": "7693115380616727829",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693115380616727829",
+   "caption": "במהלך טקס הזיכרון הממלכתי ל-7.10,  אחד הנוכחים בקהל התפרץ לעבר השופט ...",
+   "posted": "1791193014",
+   "found": "2026-10-05T09:45:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693115380616727829.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T09:31:20Z",
+  "at": "2026-10-05T09:45:54Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 3
  }
 }
