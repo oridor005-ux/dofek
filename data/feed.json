@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T03:49:51.285Z",
+ "updated": "2026-10-05T04:01:15.268Z",
  "items": [
+  {
+   "id": "f169ab43e74a",
+   "kind": "headline",
+   "title": "הנפט בנסיגה, הניקיי שובר שיאים היסטוריים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T03:57:00.000Z",
+   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: הנפט הגולמי מאבד כ-1.1% ונסחר סביב 90 דולר לחבית; הברנט נסוג לכיוון 101 דולר • מדד הניקיי היפני מזנק וחצה לראשונה את רף ה-70,000 נקודות; מחזורים דלילים בשל חופשות בסין ודרום קוריאה • בוול סטריט, הנאסד\"ק שבר שיא שבוע שעבר בהובלת השבבים;…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1696256724/COT_Pic/shutterstock_266526116_b3ndwx.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0fa4dabcb407",
+   "kind": "headline",
+   "title": "מי משקיע מיליונים במסעדות, בזמן שהענף בקושי שורד",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/yokra14905877",
+   "topic": "econ",
+   "published": "2026-10-05T03:50:04.000Z",
+   "summary": "הוא שם הרבה כסף במקומות חדשים בזמן שאחרים סגרו, מחזיק בכמה מהמסעדות הנחשקות והמצליחות בתל–אביב, ועכשיו לקח לידיו גם את מאנטה ריי המיתולוגית בחוף הים • איציק חנגל, אחד המסעדנים המובילים בישראל, מספר למה דווקא היום הוא ממשיך לקחת סיכונים, למה המחירים של המנות בארץ כל כך יקרים ואיך שורדים שנים בענף…",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ryl0Caq5Ge/ryl0Caq5Ge_0_0_1920_1080_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2868bc88e695",
    "kind": "headline",
@@ -5889,36 +5917,6 @@
    "summary": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a06769c00f10",
-   "kind": "headline",
-   "title": "Flydubai pilot tells Indian prime minister Modi that he couldn't 'let anyone die' – video",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/video/2026/oct/02/flydubai-pilot-tells-indian-prime-minister-modi-that-he-couldnt-let-anyone-die-video",
-   "topic": "world",
-   "published": "2026-10-02T12:16:23.000Z",
-   "summary": "<p>The Indian pilot stabbed by his co-pilot on a flydubai flight from Dubai to Tel Aviv replayed the dramatic attack, and his desperate effort to open the cockpit door to seek help, in a video call with the Indian prime ",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/cfecd07bb21cde6aa1555e63e230ef2d1d108753/278_25_1276_1022/master/1276.jpg?width=140&quality=85&auto=format&fit=max&s=dc6adb9bfb9982ac7c9b02a0eaa84b93"
-  },
-  {
-   "id": "e4a6f61cedf7",
-   "kind": "headline",
-   "title": "‘West Bank is Israel’s weak point’: US sanctions pressure grows ahead of Israeli election",
-   "source": "Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PM0Y4YXUzOUpabzl2b2p0OElaWFI3QUFLbV94dmZpcktpQTZSU0laMENTMlJkYl8teXBubWx4WGJDOEpVNWRaRkRGVnE3TENEVlZmNHRB?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T12:12:37.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "ynetnews.com"
-   ],
    "important": false
   }
  ]

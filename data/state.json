@@ -50,13 +50,8 @@
   "ins-2026-10-04-as07",
   "442cf41314a6"
  ],
- "pending": [
-  "ins-2026-10-04-gz63",
-  "ins-2026-10-04-ns11",
-  "ins-2026-10-04-as07",
-  "442cf41314a6"
- ],
- "lastRun": "2026-10-05T03:49:51.285Z",
+ "pending": [],
+ "lastRun": "2026-10-05T04:01:15.268Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -83,8 +78,8 @@
    },
    "at": "2026-10-05T03:26:27.621Z"
   },
-  "lastNewItemAt": "2026-10-05T03:49:51.285Z",
-  "lastPushOkAt": "2026-10-04T18:41:45.001Z",
+  "lastNewItemAt": "2026-10-05T04:01:15.268Z",
+  "lastPushOkAt": "2026-10-05T04:01:15.268Z",
   "googleOkAt": "2026-10-05T03:26:27.621Z"
  },
  "lastFullAt": "2026-10-05T03:26:27.621Z"
