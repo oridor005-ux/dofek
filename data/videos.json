@@ -1065,12 +1065,45 @@
    "found": "2026-10-04T21:47:33Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7692929401637342472.txt"
+  },
+  {
+   "id": "7693055286268955912",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7693055286268955912",
+   "caption": "לא נסיים בלי…. אתם כבר יודעים מה 😂",
+   "posted": "1791179024",
+   "found": "2026-10-05T05:57:29Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693055286268955912.txt"
+  },
+  {
+   "id": "7693054972342177042",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7693054972342177042",
+   "caption": "יאיר גולן שרף להם את השקר בשידור חי, שתפו",
+   "posted": "1791178953",
+   "found": "2026-10-05T05:59:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693054972342177042.txt"
+  },
+  {
+   "id": "7693054711234104583",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7693054711234104583",
+   "caption": "אולי זה לא מדד אבל מישהו יודע למה אין את זה בצד השני?",
+   "posted": "1791178890",
+   "found": "2026-10-05T05:59:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693054711234104583.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T05:41:47Z",
+  "at": "2026-10-05T05:59:42Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
