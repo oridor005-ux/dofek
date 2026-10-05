@@ -1747,12 +1747,22 @@
    "found": "2026-10-05T12:19:13Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693154548235390229.txt"
+  },
+  {
+   "id": "7693159942039112981",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693159942039112981",
+   "caption": "⁨\tאורי והירש אהבו את אותה העיר, רק בצבעים אחרים. במקום הכי חשוך, הירי...",
+   "posted": "1791203389",
+   "found": "2026-10-05T12:31:31Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-05T12:19:19Z",
+  "at": "2026-10-05T12:31:45Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
