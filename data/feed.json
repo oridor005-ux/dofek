@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T08:07:09.600Z",
+ "updated": "2026-10-05T08:19:09.463Z",
  "items": [
+  {
+   "id": "609093330022",
+   "kind": "headline",
+   "title": "מגמה מעורבת באירופה: שניידר אלקטריק נחתכת בעקבות עסקת רכישה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T08:08:00.000Z",
+   "summary": "בורסות אירופה נסחרות במגמה מעורבת, כשבורסת פריז בולטת לשלילה בעקבות צניחת מניית שניידר אלקטריק שמשלימה עסקת ענק בארה\"ב • האירו נופל לרמתו הנמוכה ביותר מאז מאי 2025 • החוזים העתידיים בוול סטריט מצביעים על פתיחה יציבה עם נטייה לירידות קלות • מדד הניקיי היפני שמר על המומנטום וננעל בעלייה של 2.4% •…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658986897/direct/shutterstock_2174905293_bx0u1d.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "f1f4e2bcf165",
    "kind": "headline",
@@ -12,6 +26,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "22deb1c3b013",
+   "kind": "headline",
+   "title": "דוכן צ'יפס הפך ללהיט בזכות טיקטוק - והשכונה ההיסטורית קורסת ממבקרים",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/bjaadtgogl",
+   "topic": "econ",
+   "published": "2026-10-05T08:02:49.000Z",
+   "summary": "תושבים מרובע התעלות באמסטרדם הגישו ערעור משפטי על רישיון העסק של דוכן צ'יפס שהפך לוויראלי ומשך למקום אלפי מבקרים ברחובות הצרים. התוצאה: אשפה מפוזרת על מדרגות הכניסה, כתמי מיונז על אבני ריצוף היסטוריות, ופסולת מזון שמושכת חולדות",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/H1nsc6eiGl/H1nsc6eiGl_0_40_523_295_0_medium.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5908,34 +5936,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg"
-  },
-  {
-   "id": "3ac12b26f1f0",
-   "kind": "headline",
-   "title": "Student Protests Add to Woes for Embattled French Government",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/europe/student-protests-add-to-woes-for-embattled-french-government-d603938e?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-02T19:48:00.000Z",
-   "summary": "Unrest has flared across the country as students demand improvements in school conditions.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://images.wsj.net/im-33478018"
-  },
-  {
-   "id": "5eef055187bc",
-   "kind": "headline",
-   "title": "לקראת חידוש אפשרי של הלחימה: ארה\"ב שלחה סוללות פטריוט נוספות להגן על מתקני האנרגיה בסעודיה וקטאר",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558300#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-02T19:46:00.000Z",
-   "summary": "אתמול טראמפ אמר כי הוא שוקל לחדש את המערכה כבר בשבועות הקרובים &bull; מנהיגי שתי המדינות שכנעו את הנשיא שלא לתקוף באוגוסט, והעבירו את המשקל ללחץ הכלכלי &#8226; צה\"ל: מפקד חטיבת צפון הרצועה בחמאס שחוסל השבוע, פיקד במהלך ה",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790694251/AP26271691559211_dns7lq.jpg"
   }
  ]
 }
