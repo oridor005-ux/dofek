@@ -31,7 +31,7 @@
 1. **GitHub Actions** (חינם), המנוע:
    - `update.yml`: איסוף כותרות כל 2 דקות ושליחת פושים. כל סבב מפעיל את הבא אחריו (שרשרת), ויש גם תזמון גיבוי כל רבע שעה.
    - חיפושי Google News רצים לכל היותר פעם בחצי שעה, כי בתדירות גבוהה יותר גוגל חוסם.
-   - `transcribe.yml`: מעקב אחרי 15 ערוצי טיקטוק כל רבע שעה, ותמלול לעברית עם מודל Whisper של ivrit-ai.
+   - `transcribe.yml`: מעקב אחרי 23 ערוצי טיקטוק כל רבע שעה, ותמלול לעברית עם מודל Whisper של ivrit-ai.
    - `health.mjs`: בדיקת בריאות ושליחת התראות למנהל. שני ה-workflows משגיחים זה על זה.
 2. **GitHub Pages:** מארח את האתר (`index.html`) ואת הנתונים (`data/`).
 3. **Claude:** משימה מתוזמנת כל שעתיים (08:45–22:45) שכותבת סיכומים, ניתוחי עומק ובדיקות עובדות. ההוראות נמצאות ב-`DOFEK_TASK.md`.
@@ -40,7 +40,7 @@
 ## 4. מקורות
 - **פידים ישירים:** גלובס, ynet כלכלה, שקוף, העין השביעית (מוצגת תחת "בדיקת תקשורת"), Times of Israel, Wall Street Journal, New York Times, BBC, Guardian, Defense News.
 - **Google News:** כ-55 חיפושים קבועים (הלמ"ס, בנק ישראל, קריאה שלישית, אקזיטים, סקרי דעת קהל, עסקאות נשק ועוד). הרשימה המלאה ב-`scripts/sources.mjs`.
-- **טיקטוק:** ask__dani, naftalibennett_official, idaneretz, guyzo, roee.lotem, 100shetah, lusil_blek, m_laradar, hadarmuchtar, yinonmagal, amitsegalnews, knessettv, c14news, n12news, kan_news. הרשימה ב-`config.json`.
+- **טיקטוק:** ask__dani, naftalibennett_official, idaneretz, guyzo, roee.lotem, 100shetah, lusil_blek, m_laradar, hadarmuchtar, yinonmagal, amitsegalnews, knessettv, c14news, n12news, kan_news, miri.regev, itamar_ben_gvir, mordechaidavid2026, yosephhaddad, jacob.bardugo, itamar.fleischman, radio103fm, ben_caspit. הרשימה ב-`config.json`.
 - **חסומים:** אתרי ארגוני הסברה ואקטיביזם משני הצדדים, ספורט, ובלוגים.
 
 ## 5. כללי ניטרליות (חלק מההוראות ל-Claude)
