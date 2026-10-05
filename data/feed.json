@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T05:46:25.642Z",
+ "updated": "2026-10-05T05:58:42.849Z",
  "items": [
+  {
+   "id": "cdd8af44a6e6",
+   "kind": "headline",
+   "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T05:52:17.000Z",
+   "summary": "RMIT confirms co-pilot was a student as Australian authorities examine his time in country between 2015 and 2017 An Australian university has confirmed a flydubai co-pilot who allegedly tried to hijack an Israel-bound flight studied at its Melbourne campus, but left before completing his…",
+   "image": "https://i.guim.co.uk/img/media/80c0c83c70acd38b03989ce8767831913796c8f7/500_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7e36661d36bc9ef2efd7e41e2b2a93f7",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "bb3b4974c457",
    "kind": "headline",
@@ -11,6 +25,20 @@
    "published": "2026-10-05T05:15:13.000Z",
    "summary": "אחרי דוח התעסוקה החלש שדוחה לפי התחזיות את העלאת הריבית הבאה: הדולר מטפס ב-0.5% מול המטבעות המובילים בעולם ונסחר בתנועה קלה בשוק המקומי - מעל 3.04 שקלים; היורו נופל ב-0.7% מול המטבע האמריקאי (נסחר מתחת ל-1.12 דולר) ומאבד 1% מול השקל. זאת בצל החשש משיתוק פוליטי בצרפת שיבטל את תוכנית הקיצוצים בתקציב",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_0_3000_1688_0_medium.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bb86f934e22e",
+   "kind": "headline",
+   "title": "\"הזדמנות שלא הייתה בעשור האחרון לקבע תשואה גבוהה באפיקים סולידיים\": ראיון על אג\"ח, ריבית ומה שביניהם",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QQk4tMUxnQ21KdG0wM0l3dWVlRXczalZWTFBSajZ4aDl4N2dBenpwRHJyQ1hoaU5BaV9pNjczMXdMVXdvaVYxWkNFM3FtcUtuOVVJUnFqUl9IMmxGTWNfcmtCaDkzZw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T05:14:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -240,7 +268,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "maariv.co.il"
+   ],
    "important": false
   },
   {
@@ -746,7 +776,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Reporteri.net"
+   ],
    "important": false
   },
   {
@@ -1183,7 +1215,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "Saudi Gazette"
+   ],
    "important": false
   },
   {
@@ -5896,37 +5930,6 @@
    "published": "2026-10-02T14:40:35.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "69d58c126f9e",
-   "kind": "headline",
-   "title": "Spain's government dealt a blow after parliament rejects housing measures amid protests",
-   "source": "The Batesville Daily Guard",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTFNrTjJRVHRiR1YwdnhiS2Fid1Q2NTVfWmdSSnZ1NTFtTHYtVU9iYURHRG1wNnRWNXYyMnJKcFpvSzBIRHMxR25DTVBQdk9KN3RiQTFyYXdJbnBoclFfVXNya2k3MTlxWW5JdmFnc1RjXzAwdTktUEdkMmpTWVVRZmZad0hIYXFWTEI2TzBvdnltVUtlZGpMazBhMUgyLWNmVXFaNkpEMmNydWFXUzhRcVRvR25lMmxvQnEteWpSeGFhMF9NYXVwc1U2TjFNX0ZWM2xYOG5MaVJJZmlqaUVsVzBjYVlyeVlDdHlmTVJ4a3Y1dFE4VllHUjI5ZVhveG1rTWlVd0pwRTJBQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T14:35:42.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "AP News",
-    "Goshen News",
-    "goshennews.com",
-    "apnews.com"
-   ],
-   "important": true
-  },
-  {
-   "id": "52a33b666dc6",
-   "kind": "headline",
-   "title": "Government Registers Federal Civil Service Bill, Faces Immediate Criticism",
-   "source": "Ratopati",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU3VfbWFDYjEyUVI1WDM2VkRuRU5PTGNCLUVUM29kdUo4VndsWGlhNWNzRDVsczNJLVNUNlIwdXVLT003WGpmazJ4Zm5SNDIxczZ3Q1NIS2dWU2tKUzFZZGo5cDhodlVieGM2b3lUWVdzaGRFaWVxQjh6eDZzMTBEdUNPLXJ4X2pVYlBROElyWDJrdkpQVjRpbjBCSkZSSU5GZ2Q4LQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T14:18:30.000Z",
-   "summary": "",
    "score": 0,
    "alsoIn": [],
    "important": false
