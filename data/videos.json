@@ -2101,12 +2101,99 @@
    "found": "2026-10-05T18:42:04Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693255163837943061.txt"
+  },
+  {
+   "id": "7693263228742274311",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7693263228742274311",
+   "caption": "האנשים האלה צריכים להיות על עמוד הקלון! על עמוד הקלון לא פחות מזה!  ש...",
+   "posted": "1791227442",
+   "found": "2026-10-05T21:35:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693263228742274311.txt"
+  },
+  {
+   "id": "7693259553344900358",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7693259553344900358",
+   "caption": "האמת על החטופים יוצאת לאור",
+   "posted": "1791226584",
+   "found": "2026-10-05T21:36:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693259553344900358.txt"
+  },
+  {
+   "id": "7693282024651738375",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693282024651738375",
+   "caption": "רווה אפלטון, משפיען בתחום הרכב, מצטרף ל-C14 בפינה שבועית קבועה",
+   "posted": "1791231818",
+   "found": "2026-10-05T21:37:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693282024651738375.txt"
+  },
+  {
+   "id": "7693275473819831559",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693275473819831559",
+   "caption": "\"היה קרב יריות ואני באמצע\": ד\"ר טארק מאיחוד הצלה מספר על הזירה אליה נ...",
+   "posted": "1791230299",
+   "found": "2026-10-05T21:38:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693275473819831559.txt"
+  },
+  {
+   "id": "7693262442125593874",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693262442125593874",
+   "caption": "בשם ההסתה נגד הציבור החרדי, נדמה שבחדשות 12 מוכנים אפילו למחזר תיעוד ...",
+   "posted": "1791227254",
+   "found": "2026-10-05T21:38:21Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693287738958695701",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693287738958695701",
+   "caption": "\"הוא הורס את המדינה\": דרמה בספרד אחרי שממשלתו של פדרו סאנצ'ס, ממבקריה...",
+   "posted": "1791233145",
+   "found": "2026-10-05T21:40:20Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693287738958695701.txt"
+  },
+  {
+   "id": "7693250373712121108",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693250373712121108",
+   "caption": "ניצחון החיים: ברק ניקסון שרד 8.5 שעות בתא שירותים כימיים בנובה ונדר ל...",
+   "posted": "1791224445",
+   "found": "2026-10-05T21:40:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693250373712121108.txt"
+  },
+  {
+   "id": "7693282287319797010",
+   "channel": "ben_caspit",
+   "name": "ben_caspit",
+   "url": "https://www.tiktok.com/@ben_caspit/video/7693282287319797010",
+   "caption": "גדי איזנקוט מגיב לאמירה של מועמד הליכוד איציק בונצל: \"לא מצפה ממנו לכ...",
+   "posted": "1791231879",
+   "found": "2026-10-05T21:41:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693282287319797010.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T18:56:51Z",
+  "at": "2026-10-05T21:41:44Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 8
  }
 }
