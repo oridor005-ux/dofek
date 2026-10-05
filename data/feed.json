@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T12:12:33.657Z",
+ "updated": "2026-10-05T12:12:49.872Z",
  "items": [
   {
    "id": "4a7bb497e2ce",
@@ -25,6 +25,20 @@
    "published": "2026-10-05T12:03:00.000Z",
    "summary": "בכך עלה ל-12 מספר סוכני הביטוח שרישיונם נשלל בפרשת סלייס • לפי רשות שוק ההון, סוכני פינברט עמדו בלב המנגנון שבאמצעותו הועברו מעל 280 מיליון שקל מכספי חוסכים לקרנות זרות בניהול הסוכנות או גורמים הקשורים אליה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677172083/one%20time%20use%20only/MN3_6994_xaauce_t3vdtx.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "29104b5ca6a2",
+   "kind": "headline",
+   "title": "הירידות מתרחבות בתל אביב: הנדל\"ן נופל 2.6%, הביטוח והבנקים בעד 2.4%",
+   "source": "bizportal.co.il",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OTlpUM3Y4cUZjZFpnQmtUQXBvbDk0VF94YTBRckF1Y0Y2UHIxOHc5MmdJaHpOQS1LZUs0NlQ5S3R4TnhpUmVhLVZJZ2hZdkxNQ05Va194cFVILW9hZjBDSDJNcU5LaXZoRWFDeGloSnY?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T11:58:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -110,7 +124,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "bhol.co.il"
+   ],
    "important": false
   },
   {
@@ -180,6 +196,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "44e278e6f022",
+   "kind": "headline",
+   "title": "חדשות 04 - הניקיי חזר מעל 70 אלף נקודות לראשונה מאז יולי, והנפט נסוג לכ-101 דולר",
+   "source": "0404",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VOHIyeEFSaWlyNG9VNzloYmZvT0xPcEJmU3hveGN4UTV1eXZPTnZvRE1GM1p2MnBodU4tcm5HQThQUHZtWGRGenNR?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T10:37:25.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -278,7 +308,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "coloradosun.com"
+   ],
    "important": false
   },
   {
@@ -335,7 +367,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Calcalist"
+    "Calcalist",
+    "calcalist.co.il"
    ],
    "important": false
   },
@@ -981,7 +1014,8 @@
    "image": "",
    "score": 1,
    "alsoIn": [
-    "calcalist"
+    "calcalist",
+    "calcalist.co.il"
    ],
    "important": false
   },
@@ -1026,7 +1060,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "bhol.co.il"
+   ],
    "important": false
   },
   {
@@ -1157,7 +1193,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Calcalist"
+    "Calcalist",
+    "calcalist.co.il"
    ],
    "important": false
   },
@@ -1361,7 +1398,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "bizportal.co.il"
+   ],
    "important": false
   },
   {
@@ -1621,7 +1660,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "themarker.com"
+   ],
    "important": false
   },
   {
@@ -5885,34 +5926,6 @@
    "alsoIn": [
     "newindianexpress.com"
    ],
-   "important": false
-  },
-  {
-   "id": "d19880b02128",
-   "kind": "headline",
-   "title": "Latvia continues voting in 15th Saeima elections / Article",
-   "source": "LSM",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0l5WVk2R2o0TGhIMjlCSWtUd295NWVfdTUtWmx1dGxyNnltNGFHT3pvSDloR1VYX2l6ejRwVVJhRXpWNmhHUUhpUTNWTHZmaU1uQzFRMEwxMkxxREJZTXV5TjFTeXJHQjZqQ3VIcXNxajJTSXFqVWFVWF9sT2prLTgtYkU3TmlhOTVBQ1FyM19MM2JtUVp5RHNWYXRRcTJGamlJd2dSZGZxcFBPYU5YM09vSQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T09:21:52.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d5a1b9eeb42c",
-   "kind": "headline",
-   "title": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html",
-   "topic": "world",
-   "published": "2026-10-03T09:03:58.000Z",
-   "summary": "New Times/Siena polls continue a run of strong results for the party in states that President Trump won easily in 2024.",
-   "image": "https://static01.nyt.com/images/2026/10/03/upshot/03up-tilt-red-states/03up-tilt-red-states-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
