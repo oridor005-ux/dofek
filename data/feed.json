@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T01:40:55.871Z",
+ "updated": "2026-10-05T01:53:09.506Z",
  "items": [
+  {
+   "id": "5b908fa54cf3",
+   "kind": "headline",
+   "title": "Gaza in Ruins as US Protection Shields Israel from Accountability",
+   "source": "greatreporter",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGEtaE5kUlNiWUtKZTRXOWR4aVplUkVIX01HYkV1MDFFYUdOQzYtTy1iTi1mR3J0SlEyY2VtQzJMNnE0Vjd1VnhpMUhPeEx6cHF4TXpuS05reGd2UGZCQ3lTRGZUeFBwZElVTDg1a0tBS0k5cHhKZVR2cE9LNHlrSlgxZGRHZmFSM29ZbXFkS3Zac3FXVTA2M0pnOVVmMkJXd01fZXZR?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T00:56:51.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b153aa7ee4af",
    "kind": "headline",
@@ -489,6 +503,20 @@
    "published": "2026-10-04T16:07:34.000Z",
    "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "09fc3474abe3",
+   "kind": "headline",
+   "title": "Hamza pas mbledhjes së PDK-së: Optimist që Ligji për Specialen nesër kalon në Kuvend",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXpOUl9hQlhjajl0Q0oxRG1YdTdvQmtUZEIycTVTdWU2QTlXTThxVThQZzZmblh1ZlFXaUtUTzRiSVF5a09xdWMyU2Yyd0JHS3FaYlNPSzA5Zjc0VXA1ZURnREFIbHlIUnMtVXA0cFFQWjBzb1M1SmwzUGpVOE5qTWRLVnl6emQ3SXlIcVBuTnZ4SkpEdEJ4cVNCTVVWMk40U2FFaUhJVGcxaWlxTGFJenFmeEU?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T16:06:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -2784,7 +2812,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "bbc.co.uk"
+   ],
    "important": false
   },
   {
@@ -5890,35 +5920,6 @@
     "thedefensepost.com"
    ],
    "important": false
-  },
-  {
-   "id": "4395132fa2db",
-   "kind": "headline",
-   "title": "מלונות אילת: 66 מיליון שקל פחות בפדיון, השכר הממוצע למשרה ירד",
-   "source": "יום יום באילת",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TWHN1M3RMWkMxRE95NWpTRl9Jck4xTERIdDlIVDFiRVlBVjJEMVNCRF85UEs2SEtDY0dHR0pkMk9QcmhkYWFzd2p4Z0s1Z1FvQzg5Vk9EalMxMFlxd1E?oc=5",
-   "topic": "econ",
-   "published": "2026-10-02T10:01:51.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "yomyom.net"
-   ],
-   "important": false
-  },
-  {
-   "id": "eb3399029b9e",
-   "kind": "headline",
-   "title": "AI weapons systems are already here. Algorithms must not decide who lives and dies | Kenneth Roth",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T10:00:17.000Z",
-   "summary": "<p>Israel’s conduct in Gaza shows the danger of using AI in warfare. Humans must remain at the center of wartime decisions</p><p>As tech leaders <a href=\"https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amod",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/9a309d1ea3b14dc06fb7f8700f62b9e87a9c4ffb/0_202_2555_2044/master/2555.jpg?width=140&quality=85&auto=format&fit=max&s=06f5db839cb830e4433e36518a2dce97"
   }
  ]
 }
