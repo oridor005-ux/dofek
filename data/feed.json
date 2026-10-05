@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T07:09:00.534Z",
+ "updated": "2026-10-05T07:20:24.127Z",
  "items": [
+  {
+   "id": "4874f549527c",
+   "kind": "headline",
+   "title": "Spain Is to Hold Early Elections After Housing Crisis Topples Government",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
+   "topic": "world",
+   "published": "2026-10-05T07:12:15.000Z",
+   "summary": "Pedro Sánchez, the Spanish prime minister, had faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
+   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-Spain-Elections-HFO-hvgj/00int-Spain-Elections-HFO-hvgj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bcdddcc6f13a",
+   "kind": "headline",
+   "title": "פתיחה חיובית בתל אביב: הטכנולוגיה מזנקת, הבנקים מעיבים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T07:07:00.000Z",
+   "summary": "הבורסה בתל אביב נפתחת במגמה חיובית: המדדים המובילים מטפסים בתמיכת מניות האנרגיה, סקטור הבנקים מושך מטה • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a2e1356f992c",
    "kind": "headline",
@@ -5902,34 +5930,6 @@
    "alsoIn": [
     "Daily Sabah"
    ],
-   "important": false
-  },
-  {
-   "id": "66117a50a1a1",
-   "kind": "headline",
-   "title": "Flurry of Lawsuits Shows Both Parties Preparing for Post-Election Challenges",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html",
-   "topic": "world",
-   "published": "2026-10-02T16:04:35.000Z",
-   "summary": "Republicans are using the courts to hunt for noncitizen voters. Democrats worry the G.O.P. is trying make it harder for eligible voters to cast ballots — and paving the way to try to toss valid election results.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02pol-election-lawsuits-vkcz/02pol-election-lawsuits-vkcz-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "985ddc7357c7",
-   "kind": "headline",
-   "title": "שוק העבודה בארה\"ב נחלש: רק 29 אלף משרות נוספו בספטמבר",
-   "source": "davar1.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Pc05pdlNkQ2dPZjdqa1FSTHUtclZOYkxCSk9DV1AyWU82ejFITThyM2JRdXpJazNxcHZWVVRVaFlBZkMteVMw?oc=5",
-   "topic": "demo",
-   "published": "2026-10-02T16:01:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
    "important": false
   }
  ]
