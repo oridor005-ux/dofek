@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T22:22:01.615Z",
+ "updated": "2026-10-05T22:34:22.344Z",
  "items": [
+  {
+   "id": "c75d28d5c144",
+   "kind": "headline",
+   "title": "Dogs at risk as hot car laws languish in Parliament",
+   "source": "myallcoast.newsofthearea.com.au",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUV9GSUt5QmVYOWM4bDJBRzlkcUFBOU55dFktdEx3R1NueU9zcE9vZ0JPdzZ5TzFiOUVoMGh1M0p4XzA2dlRBdXo3dlBvOEJleFAzVVNTSllWNi1la2lRZ2tLMmxhZ20zYVpJNEhtTU9HSS1WT3gtYkhVeXlxeHdjY1hqbE9OVi1zak1wYjlxVEZsSU1vUmc?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T22:07:58.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5ddd8500f663",
    "kind": "headline",
@@ -82,7 +96,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "greatreporter.com"
+   ],
    "important": false
   },
   {
@@ -152,7 +168,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Bangkok Post"
+   ],
    "important": false
   },
   {
@@ -194,7 +212,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ice.co.il"
+   ],
    "important": false
   },
   {
@@ -292,6 +312,20 @@
    "summary": "בקרוב יקבלו הדיירים החדשים מפתח ל-453 הדירות בשלושת מגדלי כיכר המדינה: בין הרוכשים גם הזמר עומר אדם והכדורגלן הספרדי סרג'י רוברטו. מדובר על אחד הפרויקטים היוקרתיים בארץ בהיקף מימון של 2 מיליארד שקל. עכשיו אחרי עשרות שנות מאבקים מגיע המבחן האמיתי: איך ישפיעו המגדלים על התנועה, הצפיפות ועל חיי…",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/r1iIBwZszx/r1iIBwZszx_0_0_3000_2308_0_medium.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "99b2d41798c6",
+   "kind": "headline",
+   "title": "The Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026",
+   "source": "PIB",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FZTBOb2xsNFIxaDFIei1YaU1ERnZwbW5pa3BDcDJhVnZmaEF3clJKVGFMcFJLYTJMeWtIb2RPclZNZXdLMGt0ajJPNTh5NS1wTS13bG12VU9rOUE3UmZhVG9oN0dPbHZ5ZHFJSVk0MVROeFVuUGtn?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T17:42:02.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5894,37 +5928,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "80f070ddf6db",
-   "kind": "headline",
-   "title": "מגמה מעורבת: תעסוקת גברים חרדים עולה – הנשים בהייטק מתקשות למצוא עבודה",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0eG4ydHIyNXB4V0t5QjNvV2RqaUUwY1ZyWmdub2tRYVlFZkctV1dsTzAwRDc1RU1CTkdmTmlCdjgtUWNqcFhfWVh2TW5NdXVRMmN2R2pQWFJ5bVRrNHFPYmFqSERpLTFu?oc=5",
-   "topic": "demo",
-   "published": "2026-10-04T03:24:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "Calcalist",
-    "calcalist.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "b04d2bc8dd5c",
-   "kind": "headline",
-   "title": "מתכנתות או מפתחות, בלי תואר - ואיך קשור ה-AI? המהפכה השקטה של החרדיות בהייטק",
-   "source": "היום",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BeTJHTU5NVlF4c0pnMXVsb2pQdDRRR19oTm9pZk1xUTRpdmg4Y2Z4c0JhSlZwbXMtUDk3eFRqQjN4YlItZXNJT205SWZNemhnX1M0STY1NUdTeDBaV1VDZmhvSjlad0lXS1pRVDN30gFuQVVfeXFMT0F5MkdNTk1WUXhzSmcxdWxvalB0NFFHX2hOb2lmTXFRNGl2aDhjZnhzQmFKVnBtcy1QOTd4VGpCM3hiUi1lc0lPbTlJZk16aGdfUzRJNjU1R1N4MFpXVUNmaG9KOVp3SVdLWlFUM3c?oc=5",
-   "topic": "deals",
-   "published": "2026-10-04T03:18:39.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
