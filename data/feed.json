@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T02:15:56.549Z",
+ "updated": "2026-10-05T02:28:11.252Z",
  "items": [
+  {
+   "id": "c20e4ff2e431",
+   "kind": "headline",
+   "title": "Nepal’s EU air safety delisting plan at risk as aviation bills stall",
+   "source": "asianews.network",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3VDOHNZTU1RRGprUUNGV1ZkdmloVngwTDFHaE5qcUlmZFVhNk1jZF9yRXJ0VWJjM3V0dFpvV3FjSXpvZFptNnE1NTBxUkswMWdQX0F4WGRIWkNsMmY1ZzNMVEx2ZGZZcXlMXzlhNmZQTkdocXBjS1ltQkhzaHJxcmNQUDRIMGFfZjh1RTZjTnVwbTNFdVJUVA?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T01:52:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5b908fa54cf3",
    "kind": "headline",
@@ -334,6 +348,20 @@
    "important": false
   },
   {
+   "id": "c5ae16b04201",
+   "kind": "headline",
+   "title": "Ndërron ora e protestës pas caktimit të seancës, veteranët: UÇK na bashkon, shihemi në ora 9:00 para Kuvendit",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWR0X2hEM0IxeDFmaWpJN2N0QzFONWJxcDBZSEJaOXpaMDF5QzhsaFhwWEhYTVkyVVF0VThad0ZfYUhuWTd0QzRZdzBneEZEdklMZ1VpUGh2VkdJa2g3RjBFWXluZFU2T0ttd1dLU05lVjJzX3VSeXJUaE94bHlNREdsX0lwbUYwTFdVUW5yNk9NWWNkdjBzRndmRzlKQVVyQ0JoRS1abXRMVnJFUlVSZmFVOWN3LWVlU1B3UTJ2ZHVDWlg1T1pxa2RXUVQ0ZWxsQjNoQnRDM19xQTBCaGd0NEwyeFRHV3pqdE5N?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T18:07:05.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "618184163a02",
    "kind": "headline",
    "title": "Not in our name: Jewish leader’s impassioned rebuke of post-Bondi gun laws",
@@ -476,7 +504,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "cbsnews.com"
+   ],
    "important": false
   },
   {
@@ -513,6 +543,20 @@
    "title": "Hamza pas mbledhjes së PDK-së: Optimist që Ligji për Specialen nesër kalon në Kuvend",
    "source": "Reporteri.net",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXpOUl9hQlhjajl0Q0oxRG1YdTdvQmtUZEIycTVTdWU2QTlXTThxVThQZzZmblh1ZlFXaUtUTzRiSVF5a09xdWMyU2Yyd0JHS3FaYlNPSzA5Zjc0VXA1ZURnREFIbHlIUnMtVXA0cFFQWjBzb1M1SmwzUGpVOE5qTWRLVnl6emQ3SXlIcVBuTnZ4SkpEdEJ4cVNCTVVWMk40U2FFaUhJVGcxaWlxTGFJenFmeEU?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T16:06:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "515c616dc890",
+   "kind": "headline",
+   "title": "Hamza: Optimist se Ligji për Specialen do të votohet, PDK-ja e hapur për çështjen e presidentit",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejA2Zzl1NnRPTl9ia1JWQ0MxMHNaSjRTSk9ySWhYZ3hHNkpRdGo2YTlrYmJKOC1jY01pWTZJQ3RlMFhKekJqVVJORzgtTTYtVEZ6eHBwcnpDSFFBN3hYWjRuMXNGSDZyNFJZRU1rLTJPdnB2bzY5R3d1TzhkQTcxc182dEZMa2RGcmVfWm9FR3FSdWthMkRBR1RTcWtZLWhwWWFnQlBhSWwwNFJyWUxyTGlkUXpmcFN5T2RadVRzbmZhWW5pbGNXM1NOSTYycXBM?oc=5",
    "topic": "world",
    "published": "2026-10-04T16:06:00.000Z",
    "summary": "",
@@ -5875,51 +5919,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1744640327/direct/IMAGO-Ulrich-Roth-%D7%A8%D7%95%D7%99%D7%98%D7%A8%D7%A1_ck5ftw.jpg"
-  },
-  {
-   "id": "a2dea1a8a68e",
-   "kind": "headline",
-   "title": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's - ABC News",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-02T10:19:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "abcnews.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "34f226e69f52",
-   "kind": "headline",
-   "title": "מהפך בבג\"ץ: רע\"ם, המשותפת וכסיף יוכלו לרוץ בבחירות; אבו שחאדה פרש לאחר אולטימטום השופטים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558307#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-02T10:17:00.000Z",
-   "summary": "בית המשפט העליון הפך פה אחד את החלטות ועדת הבחירות ואישר את התמודדות שתי הרשימות הערביות לכנסת ה-26 &bull; ברוב של 7 מול 2 אושרה גם התמודדות ח\"כ עופר כסיף, חרף \"התבטאויות מעוררות שאט נפש\" &bull; יו\"ר בל\"ד סאמי אבו שחאדה ",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783959474/%D7%9E%D7%A9%D7%A8%D7%95%D7%A7%D7%99%D7%AA-%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_dwbnru.png"
-  },
-  {
-   "id": "eb1af6d42672",
-   "kind": "headline",
-   "title": "Anduril, Voyager Team Up on US Weapons and Missile Defense",
-   "source": "The Defense Post",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaWDdpcl9GSTlZbjloaHE2ZEd3emZkMDVucG1xTDFIc0ZwYl83VmRqRXFYdVlzLWpWY1BfdXlDWUhZZVBXaFc3RklGN091OWp5OU4wUGl2M1ZCUnczX2JKemZJbUFaWHBCNW5Ib3Y4NzFnbF9iTmVBUGhZTW41UdIBgwFBVV95cUxPakU3QUY1ekNzQWt1Q05Rc08zOGNiV29sMlVSYTluejRCS1Q1dXpzR2hPYld6SHZyX3FGLV9tR3FSSHViTVhpOVY4Z09zQ09MdjZFTk8zUXRxTmIxcHBOS1o4TV94bml6RzF0MHlHUWd6UXQ0ZkttTkZuRFA1b2Qyazk1QQ?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T10:10:33.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "thedefensepost.com"
-   ],
-   "important": false
   }
  ]
 }
