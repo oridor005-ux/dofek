@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-05T14:57:28.737Z",
+ "updated": "2026-10-05T15:08:58.332Z",
  "items": [
+  {
+   "id": "9fdc05d5fb1b",
+   "kind": "headline",
+   "title": "Spain’s Leader Calls an Early Election",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
+   "topic": "world",
+   "published": "2026-10-05T15:01:41.000Z",
+   "summary": "Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v3.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "688466408db9",
+   "kind": "headline",
+   "title": "Texas Pediatricians Face Paxton Investigations for Vaccinating Children",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
+   "topic": "world",
+   "published": "2026-10-05T15:00:54.000Z",
+   "summary": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.",
+   "image": "https://static01.nyt.com/images/2026/10/01/multimedia/XXDC-Pediatrician-vaccines-top-tzph/XXDC-Pediatrician-vaccines-top-tzph-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "482d4703c1c4",
+   "kind": "headline",
+   "title": "הפרדוקס של שוק הנפט: היצוא מהורמוז חזר לשגרה, אך המחירים ממשיכים לטפס",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558480#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-05T14:56:00.000Z",
+   "summary": "נתונים חדשים של חברת המחקר הבינ\"ל קפלר מלמדים כי יצוא הנפט מהמזרח התיכון רשם התאוששות דרמטית וחזר לרמות שלפני פרוץ המלחמה • למרות זאת, מחירי חבית ברנט נותרו סביב 100 דולר • מה עומד מאחורי האנומליה שבין ההיצע למחיר",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781785447/direct/1_wtolye.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a95509d94681",
    "kind": "headline",
@@ -221,8 +263,8 @@
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5qUGVVWFViMlh6TlpFWXRZTFVxaXQ5ZnVzS1BJU3E4ajhYVmE3ejVCeThkVy1QeTc2czVRTFNadw?oc=5",
    "topic": "factcheck",
    "published": "2026-10-05T12:57:50.000Z",
-   "summary": "",
-   "image": "",
+   "summary": "בדיקה של שידורי החדשות והאקטואליה בערוצי הטלוויזיה בספטמבר מעלה כי שיעור הנשים בנוכחות החזותית ירד מ-24.7% באוגוסט ל-22.5% בספטמבר – ירידה של 2.2 נקודות אחוז • ערוץ 14 נותר שיאן הדרת הנשים • צניחה בייצוג הנשים במהדורה המרכזית של חדשות 12 • בפאנלים: נשים היו פחות מחמישית מהנוכחות על המסך",
+   "image": "https://shakuf.co.il/wp-content/uploads/2026/10/women-representation-overall-september-2026-427x240.jpg",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -5873,54 +5915,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3a34da30832b",
-   "kind": "headline",
-   "title": "טיסת פליי-דובאי: עוד מחדל שאיש לא יקח עליו אחריות, ברוכים הבאים לעידן נתניהו",
-   "source": "the7eye.org.il",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Qa0loYzFnenF5UzR5ZnZJRVdsWWVXOXN4MDM0TGhSQTI4MXZ4SDBMWmZRUXFyMDNOeFFiWUpRWDFlMWZSLUVWUg?oc=5",
-   "topic": "media",
-   "published": "2026-10-03T16:52:39.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "העין השביעית"
-   ],
-   "important": false
-  },
-  {
-   "id": "2205234f08a4",
-   "kind": "headline",
-   "title": "Russia rebukes US, defends Iran’s ‘inalienable’ nuclear rights",
-   "source": "Tehran Times",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGgzMFo0QWE4bnJJNTlvYkp5dl9rSHlUZFA2UlBwb2xLYlFCS2lLaEI1a2stWGwxcC1TekNSSnpDQ3dtM1lxLVZfNnhuUy1UZnMtaDhGQV9Odlgzc1ZZd0E2Mlh1YXJ3endrclFmaE0xWEVPeUQ4ckhnbzhabUdIdm11TjNxNzJrWDBlZjlxdm9KcHk0RUFWSVJJTFB5WFQ5?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T16:41:53.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "tehrantimes.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "8ce8626159b6",
-   "kind": "headline",
-   "title": "Women MPs, activists ask Govt to take over marriage Bill",
-   "source": "Daily Monitor",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzBCUHAzdmt0NE1Ia1FoR1gwVjVjNEU3MzhFclZkeFdYeXViWE44dmU5TFY4RWZzUnY4MTZZamZSMFY1SUFGckhmSHpIMWNoTjFxdFU0U2dHMllUa3k0UGxsbElDRktLVG5LWjJVUEZ5cTl1ckJxWWJFSUVjREFXcTBlTDRUazEwaXBWdmZDVnFnd20ybEFVQ2pubEd5cXptTTZoUUtFdWVDcnVRa3Q4?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T16:31:33.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "monitor.co.ug"
-   ],
    "important": false
   }
  ]
