@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T06:56:42.215Z",
+ "updated": "2026-10-05T07:09:00.534Z",
  "items": [
+  {
+   "id": "a2e1356f992c",
+   "kind": "headline",
+   "title": "British Jews more likely to identify as Zionist since 7 October attacks, research finds",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/2026/oct/05/british-jews-more-likely-to-identify-as-zionist-since-7-october-attacks-research-finds",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T07:00:52.000Z",
+   "summary": "Percentage who feel ‘very emotionally attached to Israel’ rose to 51% in June 2025, up 13 points from before Gaza war British Jews have become more likely to identify as Zionist, consider emigrating to Israel, and feel a close attachment to the country since the 7 October attacks, research has…",
+   "image": "https://i.guim.co.uk/img/media/4c3525ef36cb5b4adf3df58f80c4963f9a8f242d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ff07cfa63b5f7fb6f0a544754a6e583c",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3fab4d15440f",
+   "kind": "headline",
+   "title": "המשבר בצרפת מפיל את האירו בעולם ובישראל",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/bkqzf3lsge",
+   "topic": "research",
+   "published": "2026-10-05T06:54:59.000Z",
+   "summary": "אחרי דוח התעסוקה החלש שדוחה לפי התחזיות את העלאת הריבית הבאה: הדולר מטפס ב-0.5% מול המטבעות המובילים בעולם ונסחר בתנועה קלה בשוק המקומי - מעל 3.04 שקלים; האירו נופל ב-0.7% מול המטבע האמריקני (נסחר מתחת ל-1.12 דולר) ומאבד כאחוז מול השקל. זאת בצל החשש משיתוק פוליטי בצרפת שיבטל את תוכנית הקיצוצים…",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/rJsOm2gjGx/rJsOm2gjGx_0_106_3000_1689_0_medium.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "15b08a97e090",
    "kind": "headline",
@@ -11,6 +39,48 @@
    "published": "2026-10-05T06:50:00.000Z",
    "summary": "",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1685263503/direct/WhatsApp_Image_2023-05-28_at_11.43.11_km68mf.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "408f8b7fca8c",
+   "kind": "headline",
+   "title": "הפריצה לטלפון של אפי נוה תעלה לגל\"צ והדס שטייף 600 אלף שקל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558409#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T06:50:00.000Z",
+   "summary": "לאחר 7 וחצי שנים, השופט אורן שוורץ קבע כי גלי צה\"ל והדס שטייף ישלמו מעל 600 אלף שקל ליו\"ר לשכת עורכי הדין על הפריצה לטלפון הנייד שלו והשימוש בתוצרים שהתקבלו בעבירה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1685263503/direct/WhatsApp_Image_2023-05-28_at_11.43.11_km68mf.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0fb5bd9d6164",
+   "kind": "headline",
+   "title": "איתקה, חברה כלולה של דלק קבוצה, רוכשת נכסי נפט ימיים בקנדה תמורת 860 מיליון דולר מאת Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MZDJfYnBNMzNHbE9BMFdlNktSU25HemZ5MHRoOGFPNkU4bkpFWXVkekEzNV80VlJ3ay1DU0lFWGJHekxBN2pXSkxya25Xenc4ZVRsOGd0alIwQVMzbm8xN1IzeGNLWU5XVUY5U05hSk8zQQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T06:33:43.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "386ecebcb6ad",
+   "kind": "headline",
+   "title": "Pushback over 'Daniel's Law' identifying sex offenders",
+   "source": "theleader.com.au",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDVNVWRva29NWUt6aEp1YS03NEdveDFqM3lqdDFHUm9WM05meFgtQVoySUxLaGlnZ3YteTN1bTk1OFhRTVNoOVhPR0h6VlFyMWhvYlhkRF9faVB6VjlCcXhrU2x2MGJwMmJnOUc1SEZHQ2tPX2RxdnZZYlVVSzhMOERkd0kxRkVGM2ZPVkNxa2V6eXpTRFhGV180cw?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T06:30:55.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -54,6 +124,20 @@
    "summary": "RMIT confirms co-pilot was a student as Australian authorities examine his time in country between 2015 and 2017 An Australian university has confirmed a flydubai co-pilot who allegedly tried to hijack an Israel-bound flight studied at its Melbourne campus, but left before completing his…",
    "image": "https://i.guim.co.uk/img/media/80c0c83c70acd38b03989ce8767831913796c8f7/500_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7e36661d36bc9ef2efd7e41e2b2a93f7",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ad5a57e52547",
+   "kind": "headline",
+   "title": "Swiss police investigate scam call centers tied to Ukraine",
+   "source": "The New Voice of Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0gtR1dxaXZGaTYwRzhFZERXeDUyZDBYR0pLLW5yNHRUTGkyazBjcnRwX24weWNuMVhiNXdvamRKbWZNdGpmWkJJQmlyV2d5NTdZWHdBYUNiOHYwSnVFcXFsVTdPR01BU3daVEcxcWZNaDl6NnZJVVBFQk5zTGtSZFVLX3BOSXYxbV8tRE1qZDBsMDQ5eHZoSnBSWmNBTURfMVZYRy1hUlF1UU9qVWNUQnVvcmFHSXF1RWfSAbYBQVVfeXFMTXU0Zk5wb2VNWTVnd0ctbE1MTEFZUWZvNEVWYXNlYk1LbzVHTGVISG1SSm1lZlJndjZzdHlURUZ4blA4SnBUUDlxZHJRZWVKY1QwWGhKWTRvTld5LVd6V2ZnUmwxaGIxZ2RmX1pBZjJfbTB4WERSZE00RENmdHhaSDZrYkg3V0dGTFhuX2RyLVhXaWpJRVlDM2p1aWRQVl9pLURUTE5XemUtdVRTa3dvMWE3b05oUnc?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T05:42:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -165,6 +249,20 @@
    "published": "2026-10-05T04:07:17.000Z",
    "summary": "יזם הנדל\"ן לשעבר, שהוכרז פושט רגל ונמצא במעצר בית עם אזיק אלקטרוני, מבקש להפחית את צו התשלומים החודשי שהושת עליו בסך 30 אלף שקל וטוען כי אינו יכול כיום להשתכר. העליון דחה את ‏בקשת רשות הערעור, אך הותיר אפשרות לבחינה מחודשת של הצו על סמך מצבו הכלכלי",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/06/05/7048867/7048867_75_97_744_419_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "baebdd2a90b7",
+   "kind": "headline",
+   "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+   "topic": "world",
+   "published": "2026-10-05T04:01:07.000Z",
+   "summary": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?",
+   "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00int-vietnam-iran-01-zpbh/00int-vietnam-iran-01-zpbh-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5831,108 +5929,6 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "cc277defbb1f",
-   "kind": "headline",
-   "title": "Israeli elections hold the key to peace in Palestine",
-   "source": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0RlUGo2V1Q1SWxGY3pIN1lKZkp6cUZ3eFVMWG52TUxud0ZrTVNhNkJzMVFxLWxoMVpEWDFubndxSE5DQkdSc0NCemFVWTVfRC1NYlN6ZU5xY2Q4em0yM1Nac2Q3TGxMQ0ZfZEZVRzNTbTF2S2dEbThRODVBT1JNQzZCd09QcmE5R1l1WUJOZXdwRFo2VUVJUm8wSUxQQlAyY0F6c0lObFJwMDBDLXc?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T16:00:49.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "thetimes.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "22306cb1e2e1",
-   "kind": "headline",
-   "title": "Spain faces more fury over housing after parliament rejects decree",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlJiNXhENlJKVGRnY2ZhRmd6b19rYi1oSTRPNW1Jdmhld0tac0pXZnByQ2FQTE96VDFCNlZKelc0NW9ZYVZ3Y2xEcXBKMWRKc1JoUllCNjBUTkV5QUhoUjl2OUV5RmlCcVRSNWU5aEt3U0VVdFVqVzVxWEhjdGVtNUlxQ1RzTjdEdjAxalF6cDlRVUcxZTRkZG1hUFF6a2tZamRwOUlzTHVULVpRVHROX3JGamJRUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T15:53:34.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "CTV News"
-   ],
-   "important": false
-  },
-  {
-   "id": "1a451319acab",
-   "kind": "headline",
-   "title": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T15:40:05.000Z",
-   "summary": "<p>Experts sceptical flydubai co-pilot’s only motivation was to end his own life and say key question is means of radicalisation</p><p>At about 9.30 on Wednesday morning local time, Tali Manes was taking her six-year-old",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://i.guim.co.uk/img/media/b26465018bd9e0e7827709fe2ef104574d8df0ec/807_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=63bf45f6a3278c6f349d4c70e424b941"
-  },
-  {
-   "id": "0dedc6961bbd",
-   "kind": "headline",
-   "title": "Young US Voters Have Surprisingly Favorable View of Sharia Law: Poll",
-   "source": "Billy Graham Evangelistic Association",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0ZSQXdZdi1lUFVQT1p2cWlWNUZkLUVYZFJCbEFpelNrblVwQUpvT2ZkWnhZdGswMjhDaFpEdXF1MlVYczlZUVgwZExGcDlsSmdMQk9XZGszOFQzTUY2aktOUHkwVEp2ODVYSmYyRk9aQnl6cWRmcndhaDVxdmFabkgwa1JTNzc2UTJLcXBFemVsdmtva3ZaVFhwLWJjRUlCVlVJWHU5SFgzcjdUb1g4TGNMd3pGWnJ5anc?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T15:31:14.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f110c7b02fc4",
-   "kind": "headline",
-   "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-02T15:30:12.000Z",
-   "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-   "score": 0,
-   "alsoIn": [
-    "bbc.co.uk",
-    "bbc.com"
-   ],
-   "important": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/a7710370-be62-11f1-b36c-81ad410b221e.jpg"
-  },
-  {
-   "id": "28ee32166f01",
-   "kind": "headline",
-   "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
-   "source": "Defense News",
-   "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
-   "topic": "world",
-   "published": "2026-10-02T15:29:29.000Z",
-   "summary": "Italian military planners risk losing out on billions in funding as government and opposition parties seek to cut defense spending and Ukraine support.",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CZ2NWXFG4VH7FBVSCJ5CVG3XF4.jpg"
-  },
-  {
-   "id": "c2d55dc7e1f9",
-   "kind": "headline",
-   "title": "Voter attitudes on Israel, Iran among the top eye-openers in Harvard CAPS-Harris poll",
-   "source": "Just The News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkZCSlhhemF6ZjBkY1ctSDhTZmFwdkJiX2NOYWROZFpORzh2WHBCWXlJZ0hqVGhSclE0YmM2UVZYbzRxcGpBelNSWVo5U25sOElyUjVSYXoycjFPSXZ2YllWU3JiMEpfel8zanRYNVBvN2xobVp0VW1WRFN5bXliODZ6UlhqVHhZQmNGZmNXQnRqNnM?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T15:25:34.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
