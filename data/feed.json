@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T04:13:28.619Z",
+ "updated": "2026-10-05T04:24:52.158Z",
  "items": [
   {
    "id": "de859f234c59",
@@ -19,6 +19,20 @@
    "id": "f169ab43e74a",
    "kind": "headline",
    "title": "הנפט בנסיגה, הניקיי שובר שיאים היסטוריים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T03:57:00.000Z",
+   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: הנפט הגולמי מאבד כ-1.1% ונסחר סביב 90 דולר לחבית; הברנט נסוג לכיוון 101 דולר • מדד הניקיי היפני מזנק וחצה לראשונה את רף ה-70,000 נקודות; מחזורים דלילים בשל חופשות בסין ודרום קוריאה • בוול סטריט, הנאסד\"ק שבר שיא שבוע שעבר בהובלת השבבים;…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1696256724/COT_Pic/shutterstock_266526116_b3ndwx.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0e0fa4777870",
+   "kind": "headline",
+   "title": "הנפט בנסיגה, הניקיי שובר שיאים היסטוריים וגם: מתי משקיעי האג\"ח צריכים להתחיל לדאוג?",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
    "topic": "econ",
@@ -5911,21 +5925,6 @@
     "calcalist.co.il"
    ],
    "important": false
-  },
-  {
-   "id": "263552780c72",
-   "kind": "headline",
-   "title": "What’s the Impact of US Opening Arms Sales to Syria?",
-   "source": "The Media Line",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdTI1ZUpRTVJGb2l1ODdvcm80WmxVZTRYSW9hVnE3VjEtUFh3SEFlc3RZNnFBRHJYbm5ITFRDNUczVDBQbGpEUkdRMEp4LTFOa1ZXV0Q5Y0RrUHdfMmNacF94U21IV1FaWXFLQWZ3d20wSHRaSVp3U0x2dmdtX2tMZUt2TWxGazNUZTNnbEd2SGRtdw?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T12:59:35.000Z",
-   "summary": "",
-   "score": 3,
-   "alsoIn": [
-    "themedialine.org"
-   ],
-   "important": true
   }
  ]
 }
