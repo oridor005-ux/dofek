@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T09:29:17.827Z",
+ "updated": "2026-10-05T09:40:44.720Z",
  "items": [
   {
    "id": "defd2be2bca8",
@@ -44,6 +44,20 @@
    "important": false
   },
   {
+   "id": "04b9a4e2c5d4",
+   "kind": "headline",
+   "title": "מגמה מעורבת באירופה; משבר האג\"ח באירופה ובארה\"ב מכביד על השווקים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T09:15:00.000Z",
+   "summary": "בורסות אירופה נסחרות במגמה מעורבת, כשבורסת פריז בולטת לשלילה בעקבות צניחת מניית שניידר אלקטריק שמשלימה עסקת ענק בארה\"ב • האירו נופל לרמתו הנמוכה ביותר מאז מאי 2025 • החוזים העתידיים בוול סטריט מצביעים על פתיחה יציבה עם נטייה לירידות קלות • מדד הניקיי היפני שמר על המומנטום וננעל בעלייה של 2.4% •…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658986897/direct/shutterstock_2174905293_bx0u1d.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "1ea5689da5a3",
    "kind": "headline",
    "title": "בחסות טיסת האימה של פליי דובאי: מניית החברה הישראלית שכבר זינקה ב-19%",
@@ -53,6 +67,20 @@
    "published": "2026-10-05T09:13:24.000Z",
    "summary": "ישראייר רושמת עלייה של 5% במסחר, שמצטרפת לעלייה משמעותית שעשתה בשבוע שעבר. אל על החלה את היום גם כן בצורה חיובית, אבל כעת יורדת בכאחוז. מט\"ח: האירו נחלש בעולם",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/24/Hk7exAWZbx/Hk7exAWZbx_0_125_1183_666_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4e1b941ca957",
+   "kind": "headline",
+   "title": "זה לא היה רבעון שקרנות הגידור יכולות להתגאות בו",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558376#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T09:06:00.000Z",
+   "summary": "התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי, שבו הציג מדד ת\"א 125 עלייה מזערית • בלטה לטובה: קרן חדשה יחסית של ספרה שהציגה תשואה של 41% • הדרמה בשוק האג\"ח בארה\"ב לא באה לידי ביטוי משמעותי בקרנות הגידור",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728995348/COT_Pic/800_hrepep.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5890,36 +5918,6 @@
    "image": "",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "1d45de18bef2",
-   "kind": "headline",
-   "title": "\"לעזוב את ת\"א? בשורת יום הדין. שש שנים אחרי אני מגלה את הקסם במקום החדש\"",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/wlbhqqguq",
-   "topic": "econ",
-   "published": "2026-10-03T04:18:37.000Z",
-   "summary": "כשאיתי נפרד מאשתו הוא רצה להישאר קרוב לילדיו, אז עבר לרמה\"ש: \"זה הבית הכי גדול שגרתי בו\". את איילת הכיר כשעבדו כקולגות בפסטיבל, ואפילו היה אורח בחתונתה. אחרי שגם היא התגרשה נוצר חיבור חדש ביניהם. שניהם מגיעים מתחום התרבות והאמנות ומצליחים להימנע מחרדות כלכליות: \"יש לי דירה בת\"א שקניתי לפני המון…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/S1dc6Fo9Ml/S1dc6Fo9Ml_0_37_1424_802_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "232cf8d94081",
-   "kind": "headline",
-   "title": "Rafael Nadal built a $220 million fortune by turning tennis dominance into endorsements, academies, inves",
-   "source": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOdWs4b0l6UWMzZmo2dnNzSEczWWJMV3RydG5xSHJpb0R0UkFRQzBibDJKaTZvZjBZV0t2dVNnaVh0N01IMWs0TzFyZXNYcWpSREJWNU9xX2JsUHg5dHJjbzFxeW12YTRZSkt3VDhoa0VDT0lGa2V4NWRKajZQX1dMX09ocTFZVE1CT1YzeERIQU56ZWtmNmpYTDJsSmt2YXJSR3p1ZzJMSkpvRDZvbGhCLXA4NHhKODBRUC1WZzJmc3NTcXJWb24zeEpzN0NUWXRHRHlKakd3azRxTE5rZEpCTlp2bndVZ2RXbzg4MjhCc0NwdHZxS1ZSRm0xLVpHUGtxcUpYMDlYLW9VbjNicFpQbmszR2owNnUwWVI5MW53OU4zakNjVUJPSTI3S3RJcFgtMWlaVEQwWG50TTVTRU9TN1FKMkVheVBsNENPMlJPQU9Td1RMX051Y09MYlkzd0pxcmxjOWM4dEo4ZEHSAfACQVVfeXFMTzIwd1B0NExweDhXbzVBQ3JKMGhkSzduUzEzbnB1djNjRUpKRl80VC1jMlJZQ25IMHZTbDBENTY1bmtiaml4R0V6Y0h2UWpyMmJwWEgwbVZJbjdKMlJuRHQtMFdEeV9XN3BoTVNQdmZudEYzakQyZlBsSDlRVXBDdjFNa3lKU1pfeV96c3VkeDBmblN2X2ZjOVI1cnhSWWxBX1o0eGZZTWdkSGxFU19RMGxKbXBQUTNmZW9EOU9sMFJlSmE3MjIyaGFPOFVtWkhqaFY3dzQtOUpQQm9HY3BCbU5BMVVGWm9pcVNZYXl1c2F2UGxDd0JPekk3UVN3LUxuNC0wX21iN1JGdzVTYUIxX0RnTUJnSURETjNRWk5VaThRUXEtVVFGeUZUNXVwZDlFZjZBc09HNHd1QS1zS0p5MHlSUXdpdEU5cGU5NWJqbWgwbHVPR3V0a3pTM3czVkMydGtLRGlvUjNCLUZNaVR4N0Y?oc=5",
-   "topic": "defense",
-   "published": "2026-10-03T03:44:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "timesofindia.indiatimes.com"
-   ],
    "important": false
   }
  ]
