@@ -2058,12 +2058,22 @@
    "posted": "1791218816",
    "found": "2026-10-05T16:54:22Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693233793120963858",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693233793120963858",
+   "caption": "אז מתי נראה שוב את הקוטג' על המדפים? 👇🏻 חודשיים אחרי התקלה במפעל תנוב...",
+   "posted": "1791222360",
+   "found": "2026-10-05T17:55:23Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-05T17:40:51Z",
+  "at": "2026-10-05T17:55:46Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
