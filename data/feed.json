@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T02:39:32.666Z",
+ "updated": "2026-10-05T02:50:57.379Z",
  "items": [
+  {
+   "id": "5e40f0c746a5",
+   "kind": "headline",
+   "title": "רשות המסים דורשת: מספר כרטיס אשראי תמורת מידע ציבורי על עסקאות נדל\"ן",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558362#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-05T02:46:00.000Z",
+   "summary": "הצגת עסקאות נדל\"ן באתר רשות המסים מותנית מעתה בהוצאת קוד וסיסמה, הכרוכים בהזדהות, הזנת נתוני אשראי ועוד • ברשות מנופפים בצורך \"להגן על מערכותינו מפני מתקפות AI שונות\", אבל באקדמיה ובמכוני מחקר מזהירים מפגיעה קריטית בהנגשת מידע לציבור",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780388226/direct/WhatsApp_Image_2026-06-02_at_11.16.40_kexncc.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c20e4ff2e431",
    "kind": "headline",
@@ -5905,20 +5919,6 @@
     "the7eye.org.il"
    ],
    "important": false
-  },
-  {
-   "id": "2bdd65703b9e",
-   "kind": "headline",
-   "title": "היעד הבא של תרופות להשמנה הוא לא כמה משקל מורידים, אלא איזה סוג",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558132#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-02T10:28:00.000Z",
-   "summary": "יצרניות התרופות מתמקדות בשימור מסת השריר ובאובדן שומן בפיתוח הדור הבא של התרופות לירידה במשקל",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1744640327/direct/IMAGO-Ulrich-Roth-%D7%A8%D7%95%D7%99%D7%98%D7%A8%D7%A1_ck5ftw.jpg"
   }
  ]
 }
