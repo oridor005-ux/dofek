@@ -1052,8 +1052,9 @@
    "caption": "#פוריו #ימין #שמאל #בשבילך",
    "posted": "1791149787",
    "found": "2026-10-04T21:47:05Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692929707989421313.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7692929707989421313.txt",
+   "checked": "2026-10-05T06:08:05Z"
   },
   {
    "id": "7692929401637342472",
@@ -1063,8 +1064,9 @@
    "caption": "#פוריו #ימין #שמאל #בשבילך",
    "posted": "1791149718",
    "found": "2026-10-04T21:47:33Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692929401637342472.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7692929401637342472.txt",
+   "checked": "2026-10-05T06:08:05Z"
   },
   {
    "id": "7693055286268955912",
