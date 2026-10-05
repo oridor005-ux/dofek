@@ -2090,10 +2090,21 @@
    "found": "2026-10-05T18:26:59Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693248120460741908.txt"
+  },
+  {
+   "id": "7693255163837943061",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693255163837943061",
+   "caption": "שאלתה של רומי סוויסה בשבעה באוקטובר - \"אתם של ישראל\", הפכה לאחד מסמלי...",
+   "posted": "1791225558",
+   "found": "2026-10-05T18:42:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693255163837943061.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T18:27:25Z",
+  "at": "2026-10-05T18:42:20Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
