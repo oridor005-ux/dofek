@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T04:48:31.308Z",
+ "updated": "2026-10-05T04:59:57.115Z",
  "items": [
+  {
+   "id": "5d7e785a0b77",
+   "kind": "headline",
+   "title": "Watch: How Brazil's dramatic election unfolded",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-05T04:51:24.000Z",
+   "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5f/live/837994b0-c03c-11f1-8a9a-cff8e8e5b3a9.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a430b2159350",
+   "kind": "headline",
+   "title": "France closes up to 500 schools Monday over student protests",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-05T04:49:14.000Z",
+   "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/a9a0ba20-c022-11f1-ae5f-052d2eebe3b9.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "da9c508824ca",
    "kind": "headline",
@@ -83,6 +111,20 @@
    "published": "2026-10-05T03:50:04.000Z",
    "summary": "הוא שם הרבה כסף במקומות חדשים בזמן שאחרים סגרו, מחזיק בכמה מהמסעדות הנחשקות והמצליחות בתל–אביב, ועכשיו לקח לידיו גם את מאנטה ריי המיתולוגית בחוף הים • איציק חנגל, אחד המסעדנים המובילים בישראל, מספר למה דווקא היום הוא ממשיך לקחת סיכונים, למה המחירים של המנות בארץ כל כך יקרים ואיך שורדים שנים בענף…",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ryl0Caq5Ge/ryl0Caq5Ge_0_0_1920_1080_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5f8f842a6837",
+   "kind": "headline",
+   "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-05T03:37:41.000Z",
+   "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5885,49 +5927,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "571cf6b6480d",
-   "kind": "headline",
-   "title": "Most Americans say U.S.-Israel war on Iran not worth fighting",
-   "source": "Awani International",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONWpzZ2hSN3VKRGlxTGhmR2FFNmFFVGtvQURkTnBMbG9Za0VnNkZueGlGemtuUG8zbG9LY3NScm9ORjZLRDZEUllVMmk2andUaFI5VzZfdzJ6RVVfcnNOVkpWOHZxOHZpcFpFOC1JZFQyLUFnTms2SUpCMkg2LUFJNkRTcjE1aDRvdDlNbHpkdzI0aGRaNG9LQ2tjQ2puNXB3?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T13:46:00.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "international.astroawani.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "690211889a1e",
-   "kind": "headline",
-   "title": "Spanish government loses first of 2 Parliamentary votes to ratify emergency housing measures",
-   "source": "Voice of Alexandria",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSG5ySVF3d1lCWDRVTlFVUlRod2FMRnpUcjRtNzFZTmZkY3NkZ1hRMTZkRTV5TmhKSTU2bmc3VTIzdGc5bjFOMkY3WjRhZkVBNXA5bmYxaEFjSXQyR2hqaDRrZDJVejJyWmRfRXdDN0pTWTJxSjhWMW96cS14SldLUi15OGs2aXBQM0Q1N25tVmtXc1pDSk5udTlOcGRvbHd4aDBmajkzaXlhN3QwWkxyRlNVVlVlSXZ4OEU3V0hEaHRqZGJGMGlxNy1BbllCNW1xZWFteXRkNDh2blRDTlFWckxacEtGeXlQVElJVHFza1JabzlJZk5YVHVTbGU1aHlRMjMwTVFHSWU1eEgzbGc1c3hfVUhVdw?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T13:38:50.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "987d0ca664e6",
-   "kind": "headline",
-   "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
-   "topic": "world",
-   "published": "2026-10-02T13:33:56.000Z",
-   "summary": "The move followed reports detailing how A7, a Moscow firm, uses shell companies around the world to move funds for clients who are themselves subject to sanctions.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-a7-sanctions-ktfz/01biz-a7-sanctions-ktfz-mediumSquareAt3X.jpg"
   }
  ]
 }
