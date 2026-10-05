@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T12:01:10.521Z",
+ "updated": "2026-10-05T12:12:33.657Z",
  "items": [
+  {
+   "id": "4a7bb497e2ce",
+   "kind": "headline",
+   "title": "10 העקרונות להקמת מסעדה מוצלחת ורווחית בישראל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558359#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-05T12:05:00.000Z",
+   "summary": "המלחמה, יוקר המחיה והמחסור בעובדים מכבידים על המסעדות ובתי הקפה בארץ, אך זהו מסך עשן לתופעה עמוקה יותר: רק שליש מהם שורדים חמש שנים רצופות של פעילות • הדרך להצלחה עוברת דרך תכנון כלכלי, שיווקי ותפעולי, לצד תרבות אירוח והשקעה בהון האנושי",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791122729/%D7%A8%D7%95%D7%96_%D7%90%D7%A1%D7%A3_%D7%A7%D7%A8%D7%9C%D7%94_hmhegz.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ab2954312a52",
+   "kind": "headline",
+   "title": "פרשת סלייס: רשות שוק ההון שללה רישיונות של 5 סוכני פינברט",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558432#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T12:03:00.000Z",
+   "summary": "בכך עלה ל-12 מספר סוכני הביטוח שרישיונם נשלל בפרשת סלייס • לפי רשות שוק ההון, סוכני פינברט עמדו בלב המנגנון שבאמצעותו הועברו מעל 280 מיליון שקל מכספי חוסכים לקרנות זרות בניהול הסוכנות או גורמים הקשורים אליה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677172083/one%20time%20use%20only/MN3_6994_xaauce_t3vdtx.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2c223dd9432a",
    "kind": "headline",
@@ -5883,34 +5911,6 @@
    "published": "2026-10-03T09:03:58.000Z",
    "summary": "New Times/Siena polls continue a run of strong results for the party in states that President Trump won easily in 2024.",
    "image": "https://static01.nyt.com/images/2026/10/03/upshot/03up-tilt-red-states/03up-tilt-red-states-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "efed4572dd93",
-   "kind": "headline",
-   "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
-   "topic": "world",
-   "published": "2026-10-03T09:02:23.000Z",
-   "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
-   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03dc-lukoil-htwc/03dc-lukoil-htwc-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7ae53490caa3",
-   "kind": "headline",
-   "title": "Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
-   "topic": "world",
-   "published": "2026-10-03T09:02:05.000Z",
-   "summary": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.",
-   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-canada-quebec-independence-promo/03int-canada-quebec-independence-vmcp-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
