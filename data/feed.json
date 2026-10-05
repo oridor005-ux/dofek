@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T10:16:08.307Z",
+ "updated": "2026-10-05T10:27:17.205Z",
  "items": [
+  {
+   "id": "146497600388",
+   "kind": "headline",
+   "title": "\"עבדנו פול טיים בחגים, עכשיו אפשר לחזור לנשום\"",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/yokra14917221",
+   "topic": "econ",
+   "published": "2026-10-05T10:14:47.000Z",
+   "summary": "מעצב השיער שעבד בלי הפסקה כל החודש, עובד הדיוטי פרי שנהנה מההמולה בנתב\"ג, מנהלת התיכון שמצפה לאתגרים חדשים, חבר ועדת הבחירות שבשבילו האקשן רק מתחיל ולוחם מג\"ב שנמצא תמיד בכוננות. המשק חוזר לשגרה וכך נראה \"אחרי החגים\" שלהם",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/yk14917327/yk14917327_35_3_569_321_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "16f81724414d",
    "kind": "headline",
@@ -5900,22 +5914,6 @@
    "score": 0,
    "alsoIn": [
     "ua.news"
-   ],
-   "important": false
-  },
-  {
-   "id": "3ecbf8a84417",
-   "kind": "headline",
-   "title": "New legal framework reshapes property transfer procedures",
-   "source": "Bangladesh Sangbad Sangstha (BSS)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWEFIazBIWXpRMHBXWnNPa0lHbF85YUt6RTFyMVhsY01lZ0drbVZsaTBLckQ0NTlUd2NoT0luZ0xZMzk5OXJ5MXAzbjhyZ1AzUk56cnd5bw?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T06:13:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "bssnews.net"
    ],
    "important": false
   }
