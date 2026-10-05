@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T18:05:57.699Z",
+ "updated": "2026-10-05T18:18:02.158Z",
  "items": [
+  {
+   "id": "2549090c7e93",
+   "kind": "headline",
+   "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html",
+   "topic": "world",
+   "published": "2026-10-05T18:03:26.000Z",
+   "summary": "Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-brazil-trump-khcz/05int-brazil-trump-khcz-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d56f76a2b053",
    "kind": "headline",
@@ -66,7 +80,7 @@
    "topic": "econ",
    "published": "2026-10-05T17:45:11.000Z",
    "summary": "בקרוב יקבלו הדיירים החדשים מפתח ל-453 הדירות בשלושת מגדלי כיכר המדינה: בין הרוכשים גם הזמר עומר אדם והכדורגלן הספרדי סרג'י רוברטו. מדובר על אחד הפרויקטים היוקרתיים בארץ בהיקף מימון של 2 מיליארד שקל. עכשיו אחרי עשרות שנות מאבקים מגיע המבחן האמיתי: איך ישפיעו המגדלים על התנועה, הצפיפות ועל חיי…",
-   "image": "",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/r1iIBwZszx/r1iIBwZszx_0_0_3000_2308_0_medium.jpg",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -5924,20 +5938,6 @@
    "published": "2026-10-03T23:35:59.000Z",
    "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a5b117152115",
-   "kind": "headline",
-   "title": "Why Canada is preparing for a (long shot) US invasion",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-03T23:30:06.000Z",
-   "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
