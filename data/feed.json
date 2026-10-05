@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T07:44:06.975Z",
+ "updated": "2026-10-05T07:55:29.158Z",
  "items": [
+  {
+   "id": "990009ea324a",
+   "kind": "headline",
+   "title": "התפתחות דרמטית: המצור האיראני נשבר, הישג עצום לארה\"ב",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558405#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-05T07:43:00.000Z",
+   "summary": "נתונים חדשים מצביעים על זינוק נוסף ביצוא הנפט ושבירה בפועל של מנוף הלחץ האיראני העוצמתי • ביותר דביר רובינשטיין, מנהל ביטחון התעופה במשרד התחבורה - אחראי בין היתר על הקשרים עם חברות התעופה הזרות • במקביל הוא משמש כפרילנסר ומספק ייעוץ והדרכות לאותן חברות תעופה - במה שנראה כניגוד עניינים חריף • שלושה…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781534853/direct/2-3-800_hih9km.png",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "f3dc0c3e2b8e",
    "kind": "headline",
@@ -5914,20 +5928,6 @@
    "score": 1,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "71595c9e8f24",
-   "kind": "headline",
-   "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
-   "topic": "world",
-   "published": "2026-10-02T18:41:42.000Z",
-   "summary": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants.",
-   "score": 1,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00dc-nsf-funding-qlvb/00dc-nsf-funding-qlvb-mediumSquareAt3X.jpg"
   }
  ]
 }
