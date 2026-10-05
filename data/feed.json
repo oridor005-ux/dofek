@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T22:45:50.354Z",
+ "updated": "2026-10-05T22:57:19.375Z",
  "items": [
+  {
+   "id": "6ec2df98b5b2",
+   "kind": "headline",
+   "title": "Facing Backlash, Trump Says His Super PAC Will Pay for Taxpayer-Funded Ads",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html",
+   "topic": "world",
+   "published": "2026-10-05T22:54:52.000Z",
+   "summary": "The president said that his PAC, MAGA, Inc., would pay for TV ads promoting him which had been paid for with taxpayer money.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05pol-trump-ads-01-tjpb/05pol-trump-ads-01-tjpb-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c75d28d5c144",
    "kind": "headline",
@@ -5915,20 +5929,6 @@
    "alsoIn": [
     "english.onlinekhabar.com"
    ],
-   "important": false
-  },
-  {
-   "id": "e4b68a0356b4",
-   "kind": "headline",
-   "title": "במחירי שיא: 4 דירות בירושלים נמכרו בכ-100 מיליון שקל",
-   "source": "ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUY1l3UWNNclM3WE1fZ2lSSE1sVWJYZE5MMll0ZkNjVWJVeVM4cGpqRi11RmFQWVhGU2ljeGxyTkFxVEx3WmM1eUxYdEViNjZMdmdwdHhQMXNNUmstcklfSGlIVQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T03:25:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
    "important": false
   }
  ]
