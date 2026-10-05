@@ -1694,12 +1694,23 @@
    "found": "2026-10-05T11:17:41Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693071114532293909.txt"
+  },
+  {
+   "id": "7693144553460600116",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693144553460600116",
+   "caption": "האור שממשיך לחיות: זינוק של פי 10 במספר הילדים שנקראו על שם ענר שפירא...",
+   "posted": "1791199803",
+   "found": "2026-10-05T11:46:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693144553460600116.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T11:31:04Z",
+  "at": "2026-10-05T11:47:09Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
