@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T04:59:57.115Z",
+ "updated": "2026-10-05T05:11:22.887Z",
  "items": [
+  {
+   "id": "2cbb32e55da3",
+   "kind": "headline",
+   "title": "האחראי על פיקוח חברות התעופה הזרות - קיבל במקביל כסף מ\"פליי דובאי\" על הדרכות | פרסום ראשון",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558405#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-05T05:08:00.000Z",
+   "summary": "דביר רובינשטיין, מנהל ביטחון התעופה במשרד התחבורה - אחראי בין היתר על הקשרים עם חברות התעופה הזרות • במקביל הוא משמש כפרילנסר ומספק ייעוץ והדרכות לאותן חברות תעופה - במה שנראה כניגוד עניינים חריף • שלושה מסמכים הועברו לרגב, למשרד התחבורה ולמל\"ל ובהם התרעה כי טיסות בחכירה אינן נבדקות כנדרש • השב\"כ…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790771672/Untitled-1_g1bbly.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5d7e785a0b77",
    "kind": "headline",
@@ -289,6 +303,20 @@
    "id": "5e40f0c746a5",
    "kind": "headline",
    "title": "רשות המסים דורשת: מספר כרטיס אשראי תמורת מידע ציבורי על עסקאות נדל\"ן",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558362#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-05T02:46:00.000Z",
+   "summary": "הצגת עסקאות נדל\"ן באתר רשות המסים מותנית מעתה בהוצאת קוד וסיסמה, הכרוכים בהזדהות, הזנת נתוני אשראי ועוד • ברשות מנופפים בצורך \"להגן על מערכותינו מפני מתקפות AI שונות\", אבל באקדמיה ובמכוני מחקר מזהירים מפגיעה קריטית בהנגשת מידע לציבור",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780388226/direct/WhatsApp_Image_2026-06-02_at_11.16.40_kexncc.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ea191c00b31d",
+   "kind": "headline",
+   "title": "רשות המסים רוצה את כרטיס האשראי שלכם, לא תאמינו למה",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558362#utm_source=RSS",
    "topic": "research",
@@ -5899,32 +5927,6 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0f620360247c",
-   "kind": "headline",
-   "title": "AMRAAM, SM-6, Patriot, Tomahawk: US company Raytheon reaps a bumper crop of missile contracts",
-   "source": "Meta-Defense",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UZndsRXk5YjFXd2dWMEQ4WjlVcUo5bC0tVFF2S0FnbUhPREVlUXZhRjF3X1JOT3ozNnQ3QXVtUzVzT1F4Rkt6V0x5QjBJNnNxZHdhZWZ1cm0xUHNUZzhsYWVObUxvY1dBc0ZBVThJenQ2WEdycDRyaWxUNWVKSVE?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T13:57:48.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2c6d9af1cb28",
-   "kind": "headline",
-   "title": "Spanish government housing decree sunk in congressional vote",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTE9RVVVJX05lY0xZWDBCWjd0SEduOERLN3A0dDIxejhwdmNJMGhPX250WUdLOU1XQklqcHpFcG9NVkp1c29OUUFmZlpiMFFENEJuY0tTcklhelREUmpINm4yZnR5ZVRBbHNjWDVXRlpRbkxHangzbC1qRXdFVnVjdk5WUDQtal9qb1lVNUtrYXlpUU5xWi00LUxGekZZdnNa?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T13:47:43.000Z",
-   "summary": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
