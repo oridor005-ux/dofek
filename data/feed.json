@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T17:54:15.909Z",
+ "updated": "2026-10-05T18:05:40.830Z",
  "items": [
+  {
+   "id": "d56f76a2b053",
+   "kind": "headline",
+   "title": "סטפק: \"צעירים אומרים 'למה לי להשקיע באג\"ח ולקבל 5% בשנה, כשאני יכול לעשות את זה ביום'\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558467#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T18:01:00.000Z",
+   "summary": "צבי סטפק, ממייסדי ובעלי השליטה בבית ההשקעות מיטב, מסביר מדוע המשבר בשוק החוב האמריקאי לא גלש עד היום בעוצמה לשוק המניות, ומה עלול לשנות את התמונה • וגם: עד כמה חשופה הבורסה בתל אביב למשבר, והאסטרטגיה שתאפשר למשקיעים ליהנות מהתשואות הגבוהות באג\"ח האמריקאיות: \"עשויים להרוויח פעמיים\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785828283/RAM01936_qrtvuw.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8bc637ea3996",
+   "kind": "headline",
+   "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T18:00:47.000Z",
+   "summary": "Police and security agencies in multiple countries scramble to piece together background and intentions of Hamam al-Hammami Investigators believe that the co-pilot who tried to take control of a plane from Dubai to Tel Aviv last week originally planned his attack for July but postponed the…",
+   "image": "https://i.guim.co.uk/img/media/2a3d9c552bda55ade07a8cda78b34dc1ebbc1f15/66_0_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=1fc7bbfbc77b08608b923754b765d55f",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "502ee541e799",
    "kind": "headline",
@@ -5911,36 +5939,6 @@
     "aljazeera.com"
    ],
    "important": true
-  },
-  {
-   "id": "f2a4b66e0847",
-   "kind": "headline",
-   "title": "Pro-Israel advocates hound Green Party members over 'Zionism is Racism' motion",
-   "source": "middleeasteye.net",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTExvTHBVSXNmSTlucmxqa0tweGJhaTdjTjQycjVoZXBzYk15U2s5ak44bWVRc1pFWXhHZ1ZSdHlBWUdUS291WXRPcWprU2g5SjZTYUczc05JNUVOUVdOUU5rRFh0LVQ3R3MtWGUtVDhQbTJISWdUdnNYaERscDdsSjA4NVJjS0hyS2N0MEhhT0ZiLV9FamEyUVNzTTVGcnVPenlXb2h3?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-03T22:27:35.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "Middle East Eye"
-   ],
-   "important": false
-  },
-  {
-   "id": "33b8f2d5fd4b",
-   "kind": "headline",
-   "title": "Puigdemont poised for amnestied return to Spain after dealing fresh blow to Sánchez",
-   "source": "todoalicante.es",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWJCX2l3T3dZdTdIc1JOMFRiUVIzZkhvUHhCUU9ZOG5XM25EVG5RZHg1NDdtZlg0Mm5GbExTX25FYU1VcFg1YWllMjJRN2lDWUllOVFsUnhTNjVaLS02ZGFYR0hyeTZpY3FhbVJuclRISi1vUXRlXzBvOURZVnBLV282MHJmZEVLUWVueVdWZk54bkFZT3hnZ9IBngFBVV95cUxOZ0ZYT2tBa0Eza1JIbDBuTTMzS3UxUUJPclo3UGdiV1NzaWR5T21fS05NUnNrSjVuMVZjRUlPTF93ZnJjUTBmd0NxNVpSNnoyOGtTWVRxRHZMZTF5NDd1RGdna3FIa09JWlMyWFlkY2J4b1JWVjVHOGJpX0huQ0E0LW9rX2RhYUgtRUFZTUFVdXRjY0ZDNXpvUWNRT25Jdw?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T22:21:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
