@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-05T13:58:00.363Z",
+ "updated": "2026-10-05T14:10:17.356Z",
  "items": [
+  {
+   "id": "a2b5bee0dce6",
+   "kind": "headline",
+   "title": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
+   "source": "Defense News",
+   "url": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
+   "topic": "world",
+   "published": "2026-10-05T14:01:14.000Z",
+   "summary": "Germany plans to stand up its first dedicated drone regiment next year, Defense Minister Boris Pistorius has announced.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/H3SL3CIAN5DDPKJ5B74XNII2AQ.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "62ac57e84404",
+   "kind": "headline",
+   "title": "Australian leaders condemn pro-Palestine vigils planned for 7 October anniversary amid Jewish commemorations",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/06/australian-leaders-condemn-pro-palestine-vigils-planned-for-7-october-anniversary-amid-jewish-commemorations",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T14:00:27.000Z",
+   "summary": "Peak Jewish bodies organise ceremonies on third anniversary of attacks that triggered conflict in which 74,000 Palestinians have been killed Get our breaking news email , free app or daily news podcast Jewish Australians will mark the third anniversary of the 7 October attacks on Wednesday as Labor…",
+   "image": "https://i.guim.co.uk/img/media/c6e59e96b02986d04d211a460dec6f9422d1532c/786_0_3924_3141/master/3924.jpg?width=140&quality=85&auto=format&fit=max&s=b4835050737932030b9faa8e9f20ce4d",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "db02b3b42841",
+   "kind": "headline",
+   "title": "ירידות בתל אביב; מדד הבנייה נופל במעל 3%",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T13:56:00.000Z",
+   "summary": "מדד ת\"א 90 נחלש בכ-1.5% • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • טלטלה בבזא: משרד האנרגיה דורש בעל שליטה אסטרטגי, המניה מאבדת גובה • גילת ממשיכה את ההתרחבות שלה בפרו • וגם: למרות ספטמבר ההפכפך, 3 המניות שג'יי.פי מורגן מסמן לחודש אוקטובר",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1645696030/direct/IMG_20200309_140611_jxtlyd.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "26164e19cf6b",
    "kind": "headline",
@@ -53,6 +95,20 @@
    "published": "2026-10-05T13:29:52.000Z",
    "summary": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.",
    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-saudi-yemen-wtk-1-jbvq/00int-saudi-yemen-wtk-1-jbvq-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b8e5cd2a249c",
+   "kind": "headline",
+   "title": "Spain’s polarised politics could ensure another term for Pedro Sánchez",
+   "source": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzZyNGlqRzdjaTNhamo5Ny1XdnhERGFDMUx0T05kXzg2UUpDUHc0YkV6bk9BQmRyM1hhZnFBNEEyYzZEaV9fZWZMaWkxYkVqMV9IMVVQZzRvdWk1S2RKbmdKY0tfa0VYTkJqZE9sQXVBeUZkMW1LWkp0b1ZjaXlJTUdGLXJtOXpjYnM1aGQ3MnFhMW5FUTFwLVZLZDZKMGgx?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T13:28:05.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -466,7 +522,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "lamoncloa.gob.es"
+   ],
    "important": false
   },
   {
@@ -939,7 +997,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "english.nv.ua"
+   ],
    "important": false
   },
   {
@@ -1189,6 +1249,20 @@
    "important": false
   },
   {
+   "id": "4b14da29850f",
+   "kind": "headline",
+   "title": "Bosnia votes: Becirovic wins presidency, SDA leads among public",
+   "source": "Daily Sabah",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTNGVTQ2by11a3NqUDVlckxWODhOZHVobVlmQVgtaHBqX0lxUWtoMmFVU3c4ay16Mkg2bjhweUNtUkJzTXJvd3UyRXF5QVZMejZScFM4RkJrWXNLT0RiNVhreVR3RnctMjJ4cnp1aHpkNk5jZkg2TC1odzhpRmNxLVI3bmIzSEg0UXBZSXpkVjNPb2ZjbGpsZFVud184cTFkX2tmYllkQmUtZw?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T07:57:38.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ad9affb8c617",
    "kind": "headline",
    "title": "חשיפת התשקיף של אנתרופיק מעלה חשש מבועת AI. האם הוא מוצדק?",
@@ -1213,6 +1287,20 @@
    "summary": "הדלפת התשקיף החשאי של ענקית הבינה המלאכותית אנתרופיק חשפה הפסדים כבדים, התחייבויות של חצי טריליון דולר ותלות בשני לקוחות מרכזיים • האם מדובר בקריסה מתקרבת או בצמיחה פנומנלית של תעשיית העתיד? • חמש הנקודות בתשקיף שהצליחו להדליק נורה אדומה בשווקים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1787566268/2026-01-20T124808Z_1149863023_RC205JAS0XAK_RTRMADP_3_DAVOS-MEETING_nbnhtt.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8b0ab1566f4f",
+   "kind": "headline",
+   "title": "Sánchez dissolves Parliament and calls a general election for 29 November",
+   "source": "Atalayar",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHVyam4xLTdzUnVpbmJTWmdiZjRJdWoxd1QtTGotdnVzMUdhRjVfc3M3M2psTEFsRS1MajI2RlVCT2FEcUNicDlfVWRZOGdMbXhOcVI3aVRORVhob3FKc1BxQng4NHhVX0lrS1dlRGRkLTFLMU8wSHQzM3l3bmE0bkRidHlidWY4MXN6d3NfTmh0M25qSVZYS0IyS1NxaFRBWFpnWWtpTlpSX0NxSGVtaDRnUEVhSl9NOGxBVHctWVZOWHE3NGVZRVF4dXhveDNXWUF1WEI4cnk3RGc?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T07:54:43.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -1513,6 +1601,20 @@
    "score": 3,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "86083b1337e0",
+   "kind": "headline",
+   "title": "הלשכה הפלסטינית המרכזית לסטטיסטיקה מסרה כי כ-201,290 מבנים ברצועת עזה נפגעו כתוצאה מהתוקפנות הישראלית המתמשכת מאז 7 באוקטובר 2023 ועד 16 ביוני 2026, המהווים כ-82% מכלל המבנים",
+   "source": "yaffaps.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13akxEekVYZkVLTW5SekxIaXN4aTY0RWZzUU10M2ZRX2NwTjJsaXo4R2p5LTlKazAzUDZoZWhUQnFOZmQ1LV9QNkRfeGJ0MTJ5?oc=5",
+   "topic": "demo",
+   "published": "2026-10-05T06:51:50.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "15b08a97e090",
@@ -2258,6 +2360,20 @@
    "alsoIn": [
     "spokesman.com"
    ],
+   "important": false
+  },
+  {
+   "id": "bcd3342732fd",
+   "kind": "headline",
+   "title": "ארה\"ב: שוק העבודה כמעט לא מפטר - ובתעשייה המחירים שוב מזנקים",
+   "source": "פאנדר",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UXzJhcjJPazU3VTlmM1Y2RF9EX2dfTEFubTFkMlJ5OGVHcmxENG55ODRnWUNLYU8xblJEU3V6MFpBUlpOcVdxZGNCQWNHUzZ0?oc=5",
+   "topic": "demo",
+   "published": "2026-10-04T22:01:07.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5804,126 +5920,6 @@
    "score": 3,
    "alsoIn": [],
    "important": true
-  },
-  {
-   "id": "5e8db932aa7d",
-   "kind": "headline",
-   "title": "מ-160 מיליון לכמעט 400 מיליון שקל: מה קרה לתרומות מאז 7 באוקטובר",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MaTBtVEVlYzR0STJiMW9zamdOVjZmeGZmbG8wWFI1b3NvbDNoa3I1QU45NFNXNEk0MGd1OGUxRXBZYVU4eWNUTjVxWXFhV1l2dUJNSHhidnN5UUd1aDNsc01QMW5wdw?oc=5",
-   "topic": "econ",
-   "published": "2026-10-03T15:06:21.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4e9a0c6e2839",
-   "kind": "headline",
-   "title": "Red Sox's blowout Wild Card losses to Yankees reveal brutal Rafael Devers reality",
-   "source": "bosoxinjection.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWZnTWlkQzgwQXZZZTI4ZUo0NnZZX2s2Unl1VFFXV0ViTWQtV3VQUHExdXJ2blZyMUVJUDRsSkd4enNUZ25uY2ktdnlxX24tTjdDUkJZU1B1WVMwX0pHMFpzR1hEX3FMUUJLWEQxc25lX1RMZ2ZzUHBDWFN6UjNoLU9ocWY1cTF6U016Vl9JX0ZwN2VGZ1Z3UzZna2tNUXktZFpDcmNEbjYtcG8?oc=5",
-   "topic": "defense",
-   "published": "2026-10-03T15:05:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "BoSox Injection"
-   ],
-   "important": false
-  },
-  {
-   "id": "521bc40d0955",
-   "kind": "headline",
-   "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXQ4TUpSdkVUX0pHODc1WHFHMVVEZy0wZFA5bTNqdkNLSmc2LWFwZ25WRWdyOTA2VGdCcWVNTVF1SmpBdG9QbXlkaXMxX2l5aGZveW9URHJxTWhIN2JaNGhUb1k5ajhzRi1JUmQ4eTJfMG10WUtaR1drWG8yRThvOVN6ZnVKWTFEVnpZNXU0S3VSMzUzUy0yeEFMWFRwT2hhM0ZKUzBranJ3eDRRSmNTeA?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T14:54:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "apnews.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "17955ff37754",
-   "kind": "headline",
-   "title": "MILF official: BARMM parliament majority seen on Oct. 30 vote",
-   "source": "Inquirer.net",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmxmcjVHZUgyeWRQRTRsUXJQU0xnNlV2ZFl5bURZTlFuMHMtNVo2U0RIOHo3WktqdlRyMXdyQ1lLWXdPVGV5MlFEV3FXZmIwTnpEMXE4TGFMUkZDSnFtbnVBUWo3T3BBZjBkSmlzR0R1cGZHNXNyUGpiZXdGcFdCMmZTakVnek13NURUeHdJSmZpTVVIRm02dWk0RUVLTE43aXdn0gGjAUFVX3lxTE5WbGZyNUdlSDJ5ZFBFNGxRclBTTGc2VXZkWXltRFlOUW4wcy01WjZTREg4ejdaS2p2VHIxd3JDWUtZd09UZXkyUURXcVdmYjBOekQxcThMYUxSRkNKcW1udUFRajdPcEFmMGRKaXNHRHVwZkc1c3JQamJld0ZwV0IyZlNqRWd6TXc1RFR4d0lKZmlNVUhGbTZ1aTRFRUtMTjdpd2c?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T14:52:37.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b4f88a23668d",
-   "kind": "headline",
-   "title": "In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
-   "topic": "world",
-   "published": "2026-10-03T14:45:43.000Z",
-   "summary": "After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.",
-   "image": "https://static01.nyt.com/images/2026/09/28/multimedia/dc-texasdems-1-ltqg/dc-texasdems-1-ltqg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8e932d12a952",
-   "kind": "headline",
-   "title": "Press Freedom This Week: Media outlets battle Trump’s amid an already alarming trend",
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcV9IYmhVNWdabjJMNnNtYmF6Q2t3VlFJRURzUEVub2NJVzdFWHBCU3l3MEZ6QVRCaTNKdGx3N294dWxvMENuYzgzV2g2eWViRHNlamRPTTZPYkxCVEFUX1FRaTlyc3pmeFdSQnFKWkVuYkpWUmdDWGF0eTh3dUZRaFE3eXA1OHRiSVhWZGY4djNxbXJUZ1Z2MUVqQ1lMOXlERlFaXzlIdTd3R0VqaGNyY2p2cTlqMDhzUFBpN0g1Vnl1VTNadTZkd2s2bXk3ZjNxajgzRWVKanI1ZmxD?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T14:05:39.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "washingtonpost.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "b207b2892ffe",
-   "kind": "headline",
-   "title": "Israel’s election: What will it mean for neighbours and allies?",
-   "source": "Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHJ2ejkxeVZ4QWlEclc1TmJ1bWh6YlFTcjJKVE14bzRBbzFkOVZoQ0pzVnRPdFBjQlVoRXJtRTNiU3A5SDZBWUt2TXJfQnl3REp2SU9nOHZvYmtNZjNYNUw3Ti1fckZGRkRibGZiUE9jOGNIc3ViNDFmMzZDb3dBOUJYcmYwRlNCMFhweXFMTG9aQTJ6X216dXhSeExvNGUyUUhFeHlGNUxBSnVnMEF5Rg?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T13:55:34.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "chathamhouse.org"
-   ],
-   "important": false
-  },
-  {
-   "id": "3f71c52684de",
-   "kind": "headline",
-   "title": "Why has Brazil accused the US of election interference?",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-03T13:52:13.000Z",
-   "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
