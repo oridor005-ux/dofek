@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T11:37:23.873Z",
+ "updated": "2026-10-05T11:49:43.840Z",
  "items": [
+  {
+   "id": "1cca6b4192fb",
+   "kind": "headline",
+   "title": "Live Updates: Spain Calls Early Election After Housing Crisis Roils Government",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
+   "topic": "world",
+   "published": "2026-10-05T11:36:18.000Z",
+   "summary": "Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v2.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d564f1acac59",
+   "kind": "headline",
+   "title": "המגמה השלילית בתל אביב מתרחבת בהובלת סקטור הבנייה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T11:36:00.000Z",
+   "summary": "הבורסה בתל אביב נסחרת במגמה שלילית: בהובלת מניות הבנייה והביטוח, האנרגיה שוחה נגד הזרם • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • טלטלה בבזא: משרד האנרגיה דורש בעל שליטה אסטרטגי, המניה מאבדת גובה • גילת ממשיכה את ההתרחבות שלה בפרו • וגם: למרות…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "92828812af12",
    "kind": "headline",
@@ -11,6 +39,34 @@
    "published": "2026-10-05T11:30:12.000Z",
    "summary": "Spain’s prime minister, Pedro Sánchez, dissolved Parliament on Monday, after months of spiraling crises.",
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05spain-election-why-bckt/05spain-election-why-bckt-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7edda0762764",
+   "kind": "headline",
+   "title": "EU may open two further negotiation clusters for Ukraine as early as next week, - Kos",
+   "source": "Цензор.НЕТ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjZWajBoVjYyajRlY20wRTZnNDZuQld2ZDh3OHM2VnJldnF3anRCRUduVEU3UEM4TEdqeEpFLUhFbEJJY1pZbGdIR2FyRHRRYTQ5TFptYU1Od2ktSzRYTXdfWUFya2ptd3JlRFhDeVBaTkRLLXFURlk3WnBYVDcxUjlVc1o4OXY1ZV9HV19yT3dFaGs?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T11:24:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2a1e2e03f48f",
+   "kind": "headline",
+   "title": "בדקתם בתלוש? השכר ממשיך לעלות: זה גובה התוספת בשקלים",
+   "source": "בחדרי חרדים",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oSjlJdDRwM2dUMGxXTTdia1d4MFMxaWMxdWQwQmxHSkJidXd5Rk9GbmFwSDdLZXRLNFpsTHdJZWRVNlc2QjF4dVhwOA?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T11:18:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -110,6 +166,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a431ad783ad0",
+   "kind": "headline",
+   "title": "Pedro Sánchez announces the calling of general elections for November 29th",
+   "source": "La Moncloa. Gobierno de España",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenVTdWVsNXdwMUlveVQteWh3WXF6MWdTQmRSdGc1OW9QdzV1cnpFWmdKZGpVWFZpZ2VxT0E3emxydURkMXRFS2lmQUdFUGp5SXZZcWlMQS1Fb09WNnJrc29pZU1JaTBnWnBOa1pHMnBmNm5tUzdGdzhyY1QxSWVTVlE5STZVNFJCUkU3bGlXZ1M5b2JweDZHWGJUN2VDb0dmXzFqMHpR?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T10:30:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -222,7 +292,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Calcalist"
+   ],
    "important": false
   },
   {
@@ -249,6 +321,20 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaHdNYUZHN3JYSl9yRl93TnoyNDlRVDRUWHF2WGpBRzVsQkhWcnE2c0czOHhUY01fRzBsajRKTmQtYlJpMjZKVzM0VVV0NndfOGpNNzBqcVVaNVROd2xtM2ZUQkRNbTE2RlpGeEtETnVOUEYtbG8tbC0yckk?oc=5",
    "topic": "econ",
    "published": "2026-10-05T09:57:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3ed0384091ca",
+   "kind": "headline",
+   "title": "Nationalists eye win in Bosnia elections marked by low turnout",
+   "source": "Daily Sabah",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLV9yaWN4SUt5WmloYi1IV2dSaW8wa3dzYkVpRldIcVFwbVVVOXdYaHVFcmdaRkxYdmxDbkRkWVRYZTZvSUxXV2FtV3dhMXVBN0JSeEdUUXFodWtrY0wyQ0V0VTRJYkhhazQtS05MZFE2enp3NmhJeW5KNTl6YVN4a3liU2ZodkFMamdaeVp1Y3JEdThlWGduS2ZyZy1KVmV1RzhuOVo0aU12QQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T09:56:23.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -836,7 +922,9 @@
    "summary": "הבורסה בתל אביב נפתחת במגמה חיובית: המדדים המובילים מטפסים בתמיכת מניות האנרגיה, סקטור הבנקים מושך מטה • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "globes.co.il"
+   ],
    "important": false
   },
   {
@@ -1809,7 +1897,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "spokesman.com"
+   ],
    "important": false
   },
   {
@@ -5819,94 +5909,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUktwUVljbEFOMVNHUGk2MUt3dEhBTXNpZFFURkdpOGNhQndveWRNZ3lfWlQyX21LQUI3YnZ0SU95NVo1clJvQVZsc2JBWFFRUVVRSkFwaU8zUEt2azhiRnFqN090ODJhVkRDMVJWQ1pOaUFKekZtek8tU3NxT05zdGJxOGRqT2tmai12dVFZcVZYeG5VcDhEaXYta0xDVzFfN2Nv?oc=5",
    "topic": "world",
    "published": "2026-10-03T08:59:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6dc82f5d1f07",
-   "kind": "headline",
-   "title": "Elections in Bosnia and Herzegovina: The Bosnian electoral cauldron",
-   "source": "NIN.rs",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckdxclZyLXBrQ1ZBbWs4TjM3Vm9pZW1pYXAycXczU0tBM0txa0dzY05lOTFCYnh3Q1NzWGlHdWw2S2lnVzBCazFWM2hYSTBTckM0VlV1UHJ6cnFLTnRXejNqclVWVmFSYWdTT3R0Z1ZpdTdHQXJSUmd6M1lGVXhtMnR5c0doa0ozdzhsQndtSlhZSHFCckFtRFVFUXU4MC1nTzMw?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T08:53:46.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2dcf7b29a3e7",
-   "kind": "headline",
-   "title": "Prime Minister Balendra Shah largely absent as Parliament wraps up session",
-   "source": "The Kathmandu Post",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjZYcEpHR0tZRlZUcjJBdEtJMkxtOF9MX1dvWk1kcW1BTkJmT0hMTXNwOGtWTGVCRUNpNXNQVzNOTUtlODY2aUlOcU41MTNvTlVUOUdvY2U3d19SeU9PM2hLUmdUTG5aQ0NUdThtdnRiaXpCb29DcXFqcnhsWXFCUDZWSXJJME55eUphV0twcWJoYmFhUnNWUk1EWjdORWpWc29zY25GbHdkNW5mdkxPS0M3VllwX0FTR29YTQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T08:45:10.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "kathmandupost.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "c1ca8032cde2",
-   "kind": "headline",
-   "title": "כיתות הרוסות, בריקדות ובתי ספר בלהבות: מחאת תלמידים מטלטלת את צרפת",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558312#utm_source=RSS",
-   "topic": "demo",
-   "published": "2026-10-03T08:35:00.000Z",
-   "summary": "מחאת צעירים אלימה על מתפשטת בצרפת רקע דרישות לשיפור תנאי החינוך • המהומות כוללות עימותים עם המשטרה, הצתות ופציעות, לצד ביקורת על התנהלות הרשויות ועל עוצמת הדיכוי המשטרתי • המחאה הפכה לסוגיה פוליטית לקראת הבחירות לנשיאות, כשימין ושמאל חלוקים בין סוגיות הגירה וביטחון לבין מצוקת מערכת החינוך",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791016158/AP26274296755769_xp8lzw.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "2e19d33292d4",
-   "kind": "headline",
-   "title": "What the US Waiver on $320 Million in Military Aid Means for Egypt",
-   "source": "Sada Elbalad English",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUlVmbENleUJOa3J3YjhZT192SDJTYzZLTG10bFhVMnNYM3pfWDVPX2YtellGT2FteEJDVHp3X25mYTBteEhpdlJ5VW44c2FsY1d2Ti1DTG4zYUdlOURrVUNjcnl3ZFRRc25ZalhqNlJ4ZVM5WmszMUd4TXkzdFVTVHJsanhIcmJMclE?oc=5",
-   "topic": "defense",
-   "published": "2026-10-03T08:10:32.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "83740188e557",
-   "kind": "headline",
-   "title": "Palestine Action crowdfunder for Supreme Court challenge blocked by US sanctions",
-   "source": "Yahoo News UK",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUxjVU9RaktTOHc2ajhjb3hWVzNRblMzem5rOFhyUTJoM05LRktha2gxcVczYjBVbzBtbFhfYkZHVUhtd2VYVTZUZGNVSkdPLXdKN0p0d2dVSFo1ZE13TGpneFZkeTRJelhDTUtUMTdKS1pBcXlIYVdrOEViWEROb3NhYks1ckxsa2sw?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T08:00:44.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "uk.news.yahoo.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "c849fdb6697c",
-   "kind": "headline",
-   "title": "Parliamentary elections begin in Latvia",
-   "source": "1News.az",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWkNyN1VnTklyaWVsZ3kxakt2UXJHTmVocHZmSlJ3ZHVpZEM4akZMSmZvdmpoS2FDcGNEV0xaVnpMTV9RRkpiX2JoNXRSQ3NCaE9wa190Vm5pendWWFZ4Uml0Y2VfVlhDY2p5S3FyQ1NYdExQYXRmSlpwd1dicXQ2cDE2QTVZZHJldFE?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T08:00:15.000Z",
    "summary": "",
    "image": "",
    "score": 0,
