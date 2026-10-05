@@ -1909,12 +1909,33 @@
    "found": "2026-10-05T14:36:20Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693189042879384833.txt"
+  },
+  {
+   "id": "7693197888867929364",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693197888867929364",
+   "caption": "\"במחנה הימין יורים בתוך הנגמ\"ש, יורים ברגל וצולעים\" 👇 יוסף חדאד מתייח...",
+   "posted": "1791212223",
+   "found": "2026-10-05T15:03:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693197888867929364.txt"
+  },
+  {
+   "id": "7693196155223641351",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693196155223641351",
+   "caption": "ריח של בחירות באוויר: פתקי המפלגות יוצאים ממכונת הדפוס 📸: חדשות 14",
+   "posted": "1791211819",
+   "found": "2026-10-05T15:04:03Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-05T14:48:30Z",
+  "at": "2026-10-05T15:04:22Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
