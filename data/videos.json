@@ -2038,12 +2038,22 @@
    "found": "2026-10-05T16:26:19Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693218517037927688.txt"
+  },
+  {
+   "id": "7693220207896136967",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693220207896136967",
+   "caption": "ועדת הבחירות המרכזית מציינת היום אבן דרך מרכזית בהיערכות הלוגיסטית, ע...",
+   "posted": "1791217425",
+   "found": "2026-10-05T16:39:27Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-05T16:26:40Z",
+  "at": "2026-10-05T16:39:57Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
