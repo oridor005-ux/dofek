@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T16:08:35.206Z",
+ "updated": "2026-10-05T16:20:03.500Z",
  "items": [
+  {
+   "id": "d92e0dac914f",
+   "kind": "headline",
+   "title": "Supreme Court Tangles Over Major Climate Change Case",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
+   "topic": "world",
+   "published": "2026-10-05T16:14:31.000Z",
+   "summary": "The justices began their new term with a landmark dispute over whether local governments can hold oil companies liable for damages from climate change.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05dc-scotus-suncor-topart-02-vfmw/05dc-scotus-suncor-topart-02-vfmw-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "668aa4462498",
    "kind": "headline",
@@ -5908,22 +5922,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d981f53f159a",
-   "kind": "headline",
-   "title": "PM accuses UK government of acting ‘like a rogue state,’ says Israel saved British lives",
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnp6dlpXblg1VGwwbjlaWGJTMHZlZHVHaUdTd3I3THdyR0txTGlpZXhuWlFJeXlyVEFMLWFYbWRGV1hZSDhHWnN0OEZ6SkFtdnloQ2MwTzBCLXZuajR3MGktbGJqNGVwSW5nQVA0U2FmdU1ELVVnOUJkakdhaXN0UFFXYi1UdUZkTDVvdkN2SzNYWlFsdXJiSDJKakpLUFExZUFrZzk2UVNwZ2xSVEhqZTJjTmRMSW_SAbwBQVVfeXFMTktzNm1HVXF5alJkWWpGUzRpTkZJRDQxdnQ1RGd1WUs5UVZSSWRBLUdoSVpFczRWQ1VnOVBSb0VQTzZPZlBvX1FXa2ZiMXBoYklwYTU1NV9TS0oxQ0tvN1JNUWQ5SGJIaVVscDJ1SU80a1NSVnRxRE1tS3NqWUNXaklVbEhpTVQtX2lzVXlpWHc3QUNiUDJPbkhQdjBDTUd5empveWhCZVREa0hHVm5jX0RKRUdTN01OSUk1TXo?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T19:13:30.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "timesofisrael.com"
-   ],
    "important": false
   }
  ]
