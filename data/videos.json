@@ -2079,10 +2079,21 @@
    "found": "2026-10-05T18:11:44Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693244717944851719.txt"
+  },
+  {
+   "id": "7693248120460741908",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693248120460741908",
+   "caption": "המפלגה קיימה את אירוע השקת הקמפיין שלה דווקא ביום הזיכרון לטבח ה-7 בא...",
+   "posted": "1791223919",
+   "found": "2026-10-05T18:26:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693248120460741908.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T18:11:44Z",
+  "at": "2026-10-05T18:27:25Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
