@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T07:32:07.491Z",
+ "updated": "2026-10-05T07:44:06.975Z",
  "items": [
+  {
+   "id": "f3dc0c3e2b8e",
+   "kind": "headline",
+   "title": "מגמה חיובית בתל אביב בהובלת מניות האנרגיה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T07:39:00.000Z",
+   "summary": "הבורסה בתל אביב נפתחת במגמה חיובית: המדדים המובילים מטפסים בתמיכת מניות האנרגיה, סקטור הבנקים מושך מטה • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e5fa9f64b900",
+   "kind": "headline",
+   "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T07:38:32.000Z",
+   "summary": "Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for vote The head of the Jewish Greens has said she may leave the party after it voted to adopt a policy that equates Zionism with racism and calls for Israel to be replaced by a single Palestinian…",
+   "image": "https://i.guim.co.uk/img/media/3a7f2782030d11e34f65bd7baa0724467f264c7b/676_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=d5860cf9bb1a1bf6b4ec7f6659ad5ef1",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b0bdbdc712c5",
    "kind": "headline",
@@ -11,6 +39,20 @@
    "published": "2026-10-05T07:31:19.000Z",
    "summary": "",
    "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "fd6d6f9ca684",
+   "kind": "headline",
+   "title": "ראש ממשלת ספרד הכריז על בחירות בזק",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558412#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T07:24:00.000Z",
+   "summary": "ראש ממשלת ספרד פדרו סנצ'ז הכריז הבוקר על הקדמת הבחירות, שתוכננו להתקיים בעוד פחות משנה • התזמון נובע מהפגנות נגד מחירי הדיור שפרצו בערים גדולות בספרד בשבוע האחרון",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784711483/AP26169543820862_duamlc.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5886,48 +5928,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00dc-nsf-funding-qlvb/00dc-nsf-funding-qlvb-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "0b5b80a35dae",
-   "kind": "headline",
-   "title": "Ranked: Countries Receiving the Most U.S. Foreign Aid",
-   "source": "Visual Capitalist",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2tMWEFEQ2NPVHBwWTRfVVRHRjluYXlHNHltVDZCRkc2ajZBQW5hbWtmMFZNOGNFX1UwLU10eHJrZDZ2Mm9VTDc5cFFNb2IxN2xIc25qM1QtUkpMblZZSE5fdkllLWhrWG1qV2JLZTRWa1NoR3Mzb2JhUWJZcDRjZ1hPWkpYSmNtMEVQZjB0LXlTUQ?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T18:25:17.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2928b0a47d99",
-   "kind": "headline",
-   "title": "The Saudi-Israeli War On Yemen’s Resistance: Intelligence Sharing, Civilian Targets & Sectarian Propaganda",
-   "source": "mintpressnews.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTY1c0xwbXFKOTBLUkRKM2Q4UFVURm1lbFdsXzRkOXRiRlhPc3R1UDJQNGlZNVh5a3VoU3ExWXR4bGtBNlZmRF8zMTlfbEdSX3lLMS1NZjlJcnBCS1g4VWh3SWZsN0JaZzlnYXdjMGkxWnhrNDZNUW5IbmtiMFJteHJ3WGFUSC1ubzY5MkJNUnBqYWd1R0hhRWVZVEJtQWdDTWZuVEpPQ0x5NFpzTzRmR2VIWkhFeTRfc0xZM2VkZlBDa05kNDN1Zmc4dEs4OVhKVzUxTE5R?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T18:20:49.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f7b3d8f84947",
-   "kind": "headline",
-   "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?",
-   "source": "The Economist",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-02T18:12:30.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "economist.com"
-   ],
-   "important": false
   }
  ]
 }
