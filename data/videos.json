@@ -1673,10 +1673,31 @@
    "found": "2026-10-05T11:00:49Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693135940927556885.txt"
+  },
+  {
+   "id": "7693140180919700757",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693140180919700757",
+   "caption": "⁨\tראש ממשלת ספרד פדרו סאנצ’ס הודיע היום (שני) על נפילת הממשלה בראשותו...",
+   "posted": "1791198786",
+   "found": "2026-10-05T11:16:09Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693071114532293909",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693071114532293909",
+   "caption": "אחרי שניסיון ההוצאה להורג של כריסטה פייק נכשל, ראש מערכת בתי הכלא בטנ...",
+   "posted": "1791198000",
+   "found": "2026-10-05T11:17:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693071114532293909.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T11:00:59Z",
+  "at": "2026-10-05T11:17:57Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
