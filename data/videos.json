@@ -1652,12 +1652,33 @@
    "found": "2026-10-05T10:30:32Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693124989591080200.txt"
+  },
+  {
+   "id": "7693135019086286088",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693135019086286088",
+   "caption": "בית המשפט חייב את הדס שטייף ואת המדינה לשלם לאפי נוה 450 אלף שקלים בע...",
+   "posted": "1791197587",
+   "found": "2026-10-05T11:00:32Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693135940927556885",
+   "channel": "miri.regev",
+   "name": "miri.regev",
+   "url": "https://www.tiktok.com/@miri.regev/video/7693135940927556885",
+   "caption": "״אל תבכה שזה נגמר, תחייך שזה קרה״ זה הסטטוס האחרון שכתב הגיבור נווה ח...",
+   "posted": "1791197802",
+   "found": "2026-10-05T11:00:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693135940927556885.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T10:45:12Z",
+  "at": "2026-10-05T11:00:59Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
