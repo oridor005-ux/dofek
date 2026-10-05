@@ -2006,12 +2006,44 @@
    "found": "2026-10-05T16:10:57Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693208318394764565.txt"
+  },
+  {
+   "id": "7693216811306781973",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693216811306781973",
+   "caption": "22 ימים לבחירות ויש אנשים שעדיין בטוחים שהייתה בגידה מבפנים 👇",
+   "posted": "1791216632",
+   "found": "2026-10-05T16:25:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693216811306781973.txt"
+  },
+  {
+   "id": "7693220048244067592",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693220048244067592",
+   "caption": "ברט מקגורק, ששימש שליח ממשל ביידן למזרח התיכון, אמר כי ארה\"ב לא הכירה...",
+   "posted": "1791217388",
+   "found": "2026-10-05T16:25:57Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693218517037927688",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693218517037927688",
+   "caption": "דני אבדיה נראה מוכן מתמיד לעונה החדשה של ה-NBA, שתחל בסוף אוקטובר. בא...",
+   "posted": "1791217026",
+   "found": "2026-10-05T16:26:19Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693218517037927688.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T16:11:25Z",
+  "at": "2026-10-05T16:26:40Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 3
  }
 }
