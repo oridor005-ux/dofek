@@ -1410,12 +1410,34 @@
    "found": "2026-10-05T07:58:48Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693088280232922376.txt"
+  },
+  {
+   "id": "7693093779095620884",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693093779095620884",
+   "caption": "היום מציינים את יום הזיכרון הממלכתי לטבח ה-7 באוקטובר. עבורנו המבוגרי...",
+   "posted": "1791187989",
+   "found": "2026-10-05T08:28:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693093779095620884.txt"
+  },
+  {
+   "id": "7693094844234747188",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693094844234747188",
+   "caption": "לוקחים זבל, הופכים אותו לרהיטים נדירים - ותורמים את הכסף 💚 תכירו את J...",
+   "posted": "1791188235",
+   "found": "2026-10-05T08:29:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693094844234747188.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T08:13:55Z",
+  "at": "2026-10-05T08:29:19Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
