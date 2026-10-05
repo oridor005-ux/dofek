@@ -1162,7 +1162,7 @@
    "caption": "\"אמרנו שמע ישראל כי לא נותר עוד מה לעשות\": פרמדיקאית איחוד הצלה משחזר...",
    "posted": "1791146430",
    "found": "2026-10-05T06:59:15Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692915301083548948.txt"
   },
   {
@@ -1194,8 +1194,11 @@
    "caption": "מתקפת השבעה באוקטובר הותירה מעל 1000 יתומים ויתומות | יעל אודם יצאה ל...",
    "posted": "1791141563",
    "found": "2026-10-05T07:01:11Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692894399063133458.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692894399063133458.txt",
+   "insightIds": [
+    "ins-2026-10-05-or13"
+   ]
   },
   {
    "id": "7693062580776062229",
@@ -1216,7 +1219,7 @@
    "caption": "הדירה רחוקה, אז לפחות מפנקים את עצמנו בקטן. ככה מאצ'ה, קפה ולחם הפכו ...",
    "posted": "1791176400",
    "found": "2026-10-05T07:07:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692914561464274184.txt"
   },
   {
@@ -1248,7 +1251,7 @@
    "caption": "\"אמא, אני בסדר, לא לדאוג\": אייל אשל משחזר את ההודעות האחרונות שבתו, ר...",
    "posted": "1791139169",
    "found": "2026-10-05T07:14:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692884126097050900.txt"
   },
   {
@@ -1259,7 +1262,7 @@
    "caption": "קואליציית השאווישים של מנסור",
    "posted": "1791121586",
    "found": "2026-10-05T07:14:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692808594957389063.txt"
   },
   {
@@ -1270,8 +1273,11 @@
    "caption": "לא התכוונתי להעיר אותך אבל אני כן רוצה לעורר את עם ישראל!",
    "posted": "1791057493",
    "found": "2026-10-05T07:14:48Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692533329614097682.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692533329614097682.txt",
+   "insightIds": [
+    "ins-2026-10-04-as07"
+   ]
   },
   {
    "id": "7692480732711046407",
@@ -1281,7 +1287,7 @@
    "caption": "בשבילם זה טרור אקוסטי בשבילנו זה קול האמת!",
    "posted": "1791045248",
    "found": "2026-10-05T07:15:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692480732711046407.txt"
   },
   {
@@ -1292,7 +1298,7 @@
    "caption": "",
    "posted": "1791138304",
    "found": "2026-10-05T07:15:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692880399516716309.txt"
   },
   {
@@ -1303,7 +1309,7 @@
    "caption": "",
    "posted": "1791106955",
    "found": "2026-10-05T07:16:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692745762136018196.txt"
   },
   {
@@ -1314,7 +1320,7 @@
    "caption": "",
    "posted": "1791056725",
    "found": "2026-10-05T07:18:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692530012703984916.txt"
   },
   {
@@ -1325,7 +1331,7 @@
    "caption": "חברים יקרים, העשייה שלי והדרך שלי בשנים האחרונות למען המדינה הן ההוכח...",
    "posted": "1791102443",
    "found": "2026-10-05T07:18:57Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692726393267850497.txt"
   },
   {
@@ -1347,7 +1353,7 @@
    "caption": "ראיתי שהוציאו סרטון ערוך מתוך ראיון לפני מעל 5 שנים בטלויזיה הסעודית ...",
    "posted": "1791065942",
    "found": "2026-10-05T07:29:22Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692569611618848021.txt"
   },
   {
@@ -1358,7 +1364,7 @@
    "caption": "שהאויבים שלנו לא יטעו ולא יתבלבלו בגלל תקופת הבחירות לכנסת, כשזה נוגע...",
    "posted": "1791005123",
    "found": "2026-10-05T07:29:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692308397638634804.txt"
   },
   {
@@ -1369,7 +1375,7 @@
    "caption": "גאה להצטרף לליכוד",
    "posted": "1790943967",
    "found": "2026-10-05T07:30:47Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7692045751630728456.txt"
   },
   {
@@ -1380,8 +1386,11 @@
    "caption": "תרשמו לעצמכם: הניסיון לרסק את מטוס 'פליי דובאי' - הצליח, הטייס העומאנ...",
    "posted": "1791115801",
    "found": "2026-10-05T07:31:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7692783768901307666.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7692783768901307666.txt",
+   "insightIds": [
+    "ins-2026-10-05-bc72"
+   ]
   }
  ],
  "health": {
