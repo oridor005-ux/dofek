@@ -1757,12 +1757,45 @@
    "posted": "1791203389",
    "found": "2026-10-05T12:31:31Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693161001465679124",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693161001465679124",
+   "caption": "משנה כיוון | אבי ברקו כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחל...",
+   "posted": "1791203634",
+   "found": "2026-10-05T12:46:29Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693161001465679124.txt"
+  },
+  {
+   "id": "7693161639666830613",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693161639666830613",
+   "caption": "\"אנחנו באמת אחים, ואם אנחנו אחים - אני רוצה חיבוק חזק\" 👇 הרב הראשי לי...",
+   "posted": "1791203781",
+   "found": "2026-10-05T12:47:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693161639666830613.txt"
+  },
+  {
+   "id": "7693158648599661845",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693158648599661845",
+   "caption": "הערב במהדורת כאן חדשות | ניסן דה קאלו, סגן הרבש״צ של נחל עוז ומפקד הק...",
+   "posted": "1791203085",
+   "found": "2026-10-05T12:47:19Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693158648599661845.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T12:31:45Z",
+  "at": "2026-10-05T12:47:28Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
