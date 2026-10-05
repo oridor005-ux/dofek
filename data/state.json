@@ -53,7 +53,7 @@
   "1cb1c6f60cb7"
  ],
  "pending": [],
- "lastRun": "2026-10-05T05:23:36.385Z",
+ "lastRun": "2026-10-05T05:34:58.120Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -80,7 +80,7 @@
    },
    "at": "2026-10-05T05:11:39.827Z"
   },
-  "lastNewItemAt": "2026-10-05T05:23:36.385Z",
+  "lastNewItemAt": "2026-10-05T05:34:58.120Z",
   "lastPushOkAt": "2026-10-05T05:23:36.385Z",
   "googleOkAt": "2026-10-05T05:11:39.827Z"
  },
