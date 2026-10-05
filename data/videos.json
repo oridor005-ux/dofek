@@ -1631,10 +1631,31 @@
    "posted": "1791194971",
    "found": "2026-10-05T10:15:11Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693126291289017620",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693126291289017620",
+   "caption": "קדם יותר, נחשף כי הוגש כתב אישום נגד פרופסור למתמטיקה, מרצה בבר אילן ...",
+   "posted": "1791195553",
+   "found": "2026-10-05T10:30:07Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693124989591080200",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693124989591080200",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791195251",
+   "found": "2026-10-05T10:30:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693124989591080200.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T10:15:22Z",
+  "at": "2026-10-05T10:30:52Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
