@@ -2048,10 +2048,20 @@
    "posted": "1791217425",
    "found": "2026-10-05T16:39:27Z",
    "status": "failed"
+  },
+  {
+   "id": "7693226215561252103",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693226215561252103",
+   "caption": "עונת השפעת כבר כאן - ומוקדם מהצפוי! 😷 עשרות חולים מגיעים בימים אלו לח...",
+   "posted": "1791218816",
+   "found": "2026-10-05T16:54:22Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-05T16:39:57Z",
+  "at": "2026-10-05T16:54:45Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
