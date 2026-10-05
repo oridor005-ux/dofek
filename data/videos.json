@@ -1790,12 +1790,23 @@
    "found": "2026-10-05T12:47:19Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693158648599661845.txt"
+  },
+  {
+   "id": "7693164569644027156",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693164569644027156",
+   "caption": "\"עוד נשוב לכאן\": הזמרת ושורדת הנובה יובל רפאל בביצוע מצמרר בטקס הזיכר...",
+   "posted": "1791204462",
+   "found": "2026-10-05T13:02:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693164569644027156.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T12:47:28Z",
+  "at": "2026-10-05T13:02:47Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
