@@ -1610,12 +1610,33 @@
    "found": "2026-10-05T10:02:47Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693120876258036993.txt"
+  },
+  {
+   "id": "7693124822750088456",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693124822750088456",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791195215",
+   "found": "2026-10-05T10:14:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693124822750088456.txt"
+  },
+  {
+   "id": "7693123777353321736",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693123777353321736",
+   "caption": "ראש הממשלה נתניהו על הצביעות של מנהיגי העולם שתוקפים את ישראל: \"אתם צ...",
+   "posted": "1791194971",
+   "found": "2026-10-05T10:15:11Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-05T10:03:01Z",
+  "at": "2026-10-05T10:15:22Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 2
  }
 }
