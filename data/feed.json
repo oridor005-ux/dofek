@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T11:02:37.123Z",
+ "updated": "2026-10-05T11:14:40.109Z",
  "items": [
   {
    "id": "6469610b44fc",
@@ -5564,6 +5564,20 @@
    "important": false
   },
   {
+   "id": "349d82d7882b",
+   "kind": "headline",
+   "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+   "topic": "israelAbroad",
+   "published": "2026-10-03T11:56:46.000Z",
+   "summary": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the United ⁠Arab Emirates…",
+   "image": "https://i.guim.co.uk/img/media/c4c21545c40a5e97d346e5c87667ec791987a30b/0_110_3200_2559/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=a8b6ac3b9338871b83cba2f142537ba5",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "f8ed9dbaef82",
    "kind": "headline",
    "title": "Latvia holds parliamentary elections to elect new Saeima",
@@ -5897,22 +5911,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "56102d76eaaa",
-   "kind": "headline",
-   "title": "The tussle for top posts in India’s CAPFs: IPS officers or force veterans?",
-   "source": "The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaElCNE5KZ20yNzd2eEpUYzZKNkpCbWtDekFzcjF1aHlLZU5fZTJxdnJlY1lfbndVOXBDS0N6aDlYTnUyTTBZSG1FQlNuVDZ5Y0lkSWVjRWdhQ3RZUFI5OEs1a19sakVfQ3EyUTlTc0cwZVZ0MXRNVjBTV2ZpOXdjOHJUbEpLSkdldHI5MVY2RWM4Nzl3ZHJMODhVajJfQXQweWhR0gGqAUFVX3lxTE01R0l3Rk9Ud055dm5GVzY2MWVsNXdBdEVabGlJYnpvLXEzRW5FTWotcjBrUU1QU2VTUEM4ZXhaNXZSdjNndUVZZjVyMzlLbEVXdEpOMkZ3dVd2bFJyQ1ktNmtUWWF6Y1JvM2Y5R1c4UzNSS0RjNGpZcVlkeS1Ecy0zLU5TZGN0MHFOdWp6UmEtcExDWUttRC1jR2JNRjhJcmZSejBOZmdDeU53?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T07:18:46.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "indianexpress.com"
-   ],
    "important": false
   }
  ]
