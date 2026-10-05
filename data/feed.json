@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T17:30:26.863Z",
+ "updated": "2026-10-05T17:42:44.384Z",
  "items": [
+  {
+   "id": "3024502e6c83",
+   "kind": "headline",
+   "title": "ב-50 מיליון דולר: חברה תל אביבית רכשה חברת AI אמריקנית",
+   "source": "תל אביב אונליין",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lbmk1Q2luZHhCeUFLMVU5LVhHOWJwLWY0UEpGVlphQ0t3NHJCLW5obmxINFhWWF9Fc0g1QnZJZUFpR04wRFZJNzdPc1A2QmtJM3JCZXcxREZzd0xLNDhSZFVfc1BpWnNEWnpIRW9teWJORzRaVUE?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T16:52:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d92e0dac914f",
    "kind": "headline",
@@ -12,6 +26,20 @@
    "summary": "The justices began their new term with a landmark dispute over whether local governments can hold oil companies liable for damages from climate change.",
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05dc-scotus-suncor-topart-02-vfmw/05dc-scotus-suncor-topart-02-vfmw-mediumSquareAt3X.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d35459f2c324",
+   "kind": "headline",
+   "title": "Ruling Palestinian Party in West Bank Says It Has Never Recognized Israel",
+   "source": "Algemeiner.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVA0UlNUc0xmcGJtMFQ4cDVNbEJSTllsZjZ3TVdRd0FDU3NpQ1dUcWxCekw5S1JYTXE3VDlFX3RpSVhSRDlrNEc5a2IxOFBqQ3ktWURVR1N6QVlmcjJ1aDUxamZNSUlvSjJ3QkI0QkhOWk9XLW04bnJLM3lOTjB5QlRVUUhhVGUwSWgzNnUyUGVIdDlORUUzN0lyaDMyWlRPU1BaNg?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T16:13:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -447,7 +475,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "sarajevotimes.com"
+   ],
    "important": false
   },
   {
@@ -675,7 +705,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "jewishpress.com"
+   ],
    "important": false
   },
   {
@@ -1230,6 +1262,20 @@
    "alsoIn": [
     "zman.co.il"
    ],
+   "important": false
+  },
+  {
+   "id": "974a1917c935",
+   "kind": "headline",
+   "title": "Protestuesit para Kuvendit: S’largohemi pa e votuar ndryshimin e Ligjit për Specialen edhe në lexim të dytë",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNzlqODZxYTNnNWhaU3F6OGdVaXpPcnVxZXY0alBWV3ZwNUlieDFBZkQtS09SdGlFSERsNGpNWThDQ1dMZUpwX1ExbTNuZXIyNkRyREYzWTBBeHlOQzdza0x2bUxXVHZaR2wzY3dHeWIxOVFOUWdYcG9KVTAzeW9aeUhmVmtDSWN2YzROS2g2aVpINjhiVklVV01JSV9leXlPWU5BcVVDTHAzck1qX0tzbk1QUjJGYnhKWVAwZzMxRFZ4R25LX2lLWmdHZDdSdkVQLUdvUzBpcWNNU0NrcG9TTEJNVlJjVkJLeFNybjdCR2xUbE9I?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T09:27:16.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -3260,7 +3306,10 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "chinadailyasia.com",
+    "The Guardian"
+   ],
    "important": false
   },
   {
@@ -5895,52 +5944,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "eda0175b294f",
-   "kind": "headline",
-   "title": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
-   "source": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnA2eDRxYmFmdU9QMGtNZDdkOTkwLW5mdGVBN3NOazdKZ3VaZG50M0VVTlJoelhvVm80UUxWVE41RGg2WjlWaEVsdFNoV2NYcjRyeEhaMlhwQWVnbVpFTk9BOXN5WVlPWVNBUUtDUFJzOXZuZUFURXE4dVUtZVRhNXRUdDFTM2JfdFdtd284X2VTeGJrcmZnWjYyVVdteGt1RUNIY2ZSaHhsVG4weHBtcTEzQWE1M0pXV1BBUG13MDM?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T20:58:30.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "france24.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "b9d73334b077",
-   "kind": "headline",
-   "title": "Parliament to continue under new constitution",
-   "source": "FBC News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWdjcXpqLUxGNDR4SDF4RHBmVmJSNFgwcVpwcmZLOXlJVFo0Yk1PVzh4UXJ6T2dZS3BVQmt2aHQ4dEtaQ2RtUHFzcmtFU1NkSG10S1RiX2pVZFl5SzB4MU96R25GUk1xdk5GSHhiUGtGZ0ZCRWc5eWEzN0xZOEdGUjN1RGo?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T20:18:15.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "39cae2685a2d",
-   "kind": "headline",
-   "title": "Bose Levu Vakaturaga restored as standalone institution",
-   "source": "Fiji Sun",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjRWMDdwdzE2S3k2ZFQ5ak5lT0lITHBYeHZlbzI1bDAydzVnRjFZempmdm50X0ZtTGtwM1lCVkg0TFZaOHFKRFRQVzJOdDMxQ1dsbW9SVUowR1hGazJSR293aks1M01HMWNWUy1aWEg0ME83QmVoZkdoRnVNVmdrSHZHVGtyNGk2bG9QUjJFSmFjU1Ju?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T20:07:26.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "fijisun.com.fj"
-   ],
    "important": false
   }
  ]
