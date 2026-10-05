@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T15:32:44.740Z",
+ "updated": "2026-10-05T15:44:12.073Z",
  "items": [
+  {
+   "id": "d9f7a9444a31",
+   "kind": "headline",
+   "title": "הנאסד\"ק מטפס לשיא חדש בתמיכת ענקיות הטכנולוגיה; תשואות האג\"ח ממשיכות לטפס",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T15:28:00.000Z",
+   "summary": "הנאסד\"ק מטפס בכ-0.7%, בתמיכת מטא, אנבידיה, ברודקום ו-SpaceX • מחירי הנפט מאבדים גובה • משבר האג\"ח בצרפת מעיב על אירופה; הבורסה בפריז בולטת לשלילה בעקבות צניחת מניית שניידר אלקטריק, שמשלימה עסקת ענק בארה\"ב • בורסת טוקיו קפצה במעל 2%",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e263979b9bc9",
    "kind": "headline",
@@ -5903,20 +5917,6 @@
    "alsoIn": [
     "smh.com.au"
    ],
-   "important": false
-  },
-  {
-   "id": "2ed0f57583a6",
-   "kind": "headline",
-   "title": "As Midterms Near, Justice Alito Says He Considers Each Year Whether to Retire",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html",
-   "topic": "world",
-   "published": "2026-10-03T17:48:09.000Z",
-   "summary": "The justice, the second oldest on the court at 76, told CBS News that he decided against stepping down last term. He could face pressure should Democrats win the Senate in November.",
-   "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02DC-ALITO-wkpc/02DC-ALITO-wkpc-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
