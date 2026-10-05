@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T15:21:18.484Z",
+ "updated": "2026-10-05T15:32:44.740Z",
  "items": [
+  {
+   "id": "e263979b9bc9",
+   "kind": "headline",
+   "title": "קצר ולעניין: בישראל בידור ישקיעו מיליוני שקלים בתחום המיקרו-דרמה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558475#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T15:22:00.000Z",
+   "summary": "פורמט המיקרו-דרמה צובר תאוצה בישראל, וכעת גם חברת התוכן הדיגיטלי שרכש אסף רפפורט מרחיבה את השקעותיה בתחום - במטרה להפוך אותו למנוע צמיחה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791212124/%D7%9E%D7%99%D7%9B%D7%9C_%D7%95%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9E%D7%A1%D7%9A_kexxk3.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "22addde303cd",
    "kind": "headline",
@@ -5903,22 +5917,6 @@
    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02DC-ALITO-wkpc/02DC-ALITO-wkpc-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "808abe0d7f1c",
-   "kind": "headline",
-   "title": "תתחדש תביעת גונן בן יצחק נגד חני וייזר, שכינתה אותו סוטה בעשרות פרסומים",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OTDNEWU5SWmEydEpoMjdMYzhjd01TOXFiMEk0bWliTklLRVJIcUJ3MDJnNW5nQWZTN3g4WVBSOFJWVFBjbzJNSg?oc=5",
-   "topic": "media",
-   "published": "2026-10-03T17:47:17.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
    "important": false
   }
  ]
