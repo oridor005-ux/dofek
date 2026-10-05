@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-05T14:33:44.546Z",
+ "updated": "2026-10-05T14:46:00.918Z",
  "items": [
+  {
+   "id": "a95509d94681",
+   "kind": "headline",
+   "title": "נעילה מעורבת בתל אביב; מניות הבנייה איבדו גובה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T14:35:00.000Z",
+   "summary": "מדד ת\"א 90 נחלש בכ-1.4% • מניות הבנייה ירדו במקביל להמשך העלייה בתשואות האג\"ח בארה\"ב והציפיות להעלאת ריבית של הפד; נתוני המכירות של אאורה העיבו על הסנטימנט בסקטור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • טלטלה בבזא: משרד האנרגיה דורש בעל שליטה אסטרטגי, המניה צנחה • וגם: למרות…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0eed48ee9090",
+   "kind": "headline",
+   "title": "Shielding the accused for corruption, suing the media: what Albania’s criminal procedure changes really do",
+   "source": "exit.al",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWxhOG15aEs1M1hxU3hENHJGWXNlU2ZNUlFOQl9RSFJjNnl6N215M3c2UThxRmJyYzdTUHdGcmNuX2dFVFN4UGFmeXVvUmJ3QU10U3EzSEVfMzM0OUZLRWFISFhBdFZ4T0dJem81M3h4a3JYYm5kS0ZlQzhYelB4YUtiTE5IUndRUlpFY2NXU1JIZTJTbTJpSnFPd3EtbldCUmd1bHVzWVQzQQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T14:24:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c4e4ba353f58",
+   "kind": "headline",
+   "title": "מחקר: צניחה בתחושת הביטחון של יהודי בריטניה",
+   "source": "ערוץ 7",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jX0VZd2FPbUdKSnJmZ1Y4Yi1jMFA4YUg4N2l6UXBUOVBxVXI5TjBLTTRKUUt3SXJmS2xFTzlQS21DLXBscTdSZg?oc=5",
+   "topic": "research",
+   "published": "2026-10-05T14:21:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0954e66bcbab",
+   "kind": "headline",
+   "title": "הסקר הדרמטי חושף: רוב הישראלים חוששים מאלימות קשה אחרי הבחירות",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xT29FcFlHMFFBU0hHSVE1MVpLYmRZdDliWGtzbXNaRl92V2R5VnpreEVyQ3gtZ1MxUGJhYzg0LXdXdWVXVVNjOGxCUUNXSWEzNm5MTU9nQXJmVUthN2RycA?oc=5",
+   "topic": "research",
+   "published": "2026-10-05T14:02:44.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a2b5bee0dce6",
    "kind": "headline",
@@ -25,6 +81,20 @@
    "published": "2026-10-05T14:00:27.000Z",
    "summary": "Peak Jewish bodies organise ceremonies on third anniversary of attacks that triggered conflict in which 74,000 Palestinians have been killed Get our breaking news email , free app or daily news podcast Jewish Australians will mark the third anniversary of the 7 October attacks on Wednesday as Labor…",
    "image": "https://i.guim.co.uk/img/media/c6e59e96b02986d04d211a460dec6f9422d1532c/786_0_3924_3141/master/3924.jpg?width=140&quality=85&auto=format&fit=max&s=b4835050737932030b9faa8e9f20ce4d",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "27ca49eb8706",
+   "kind": "headline",
+   "title": "Protests in Spain over elderly tenant’s eviction: Rent relief bill defeated in Parliament, PM Sánchez calls...",
+   "source": "Bhaskar English",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWJRRDhsamo1LVNnUTVRZm54VmVheTlMdU43UTgwV05hUFFKajEtTkM4VjNzbGlYT3lYckJuRGg2S2ZmUjRpcGk4MEl2Yi1XNEhvNnozc3RBRW01bGhPU0F2OHdSWWtNby1La09KM09vZ0NpWUFNV0k2aVNLNWVhaG9fWWVvaFVYZXNYdzlhRkhiZUdnRVVLbjZqd19lcEtRYTdUOXVYS0JvT2V1TXNlYnBBNDF5Mm9QTnYwadIBwgFBVV95cUxNN1paSFN1ZE5hUEtXcEM0OXRIVUhFeHhZYVpaWGtmT3VycGE3eG9DMVF5bHVqRHdzdkIzSkxhdUFPcl9hcnZTMy1hc19nejMyVG9zdFJIREdrLWZaRWFCYkhLTXJwQXd1aGRMU2NLampjMlZlb0V2aFJhNWg4YVZha1dhV0RxR3VMMi1mV1hiUDZPclFzemxUN0l6a3pVdE5LV0ZIWnlEYmFSS2VzZ3B2N3I2bExnRXllS2FCaXFrbUpTUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T13:59:31.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -110,7 +180,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "thetimes.com"
+   ],
    "important": false
   },
   {
@@ -480,7 +552,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "חדשות 04"
+   ],
    "important": false
   },
   {
@@ -5848,78 +5922,6 @@
     "monitor.co.ug"
    ],
    "important": false
-  },
-  {
-   "id": "b19f92c410f5",
-   "kind": "headline",
-   "title": "In Latvia, the current prime minister's party wins parliamentary elections",
-   "source": "Наша Ніва",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QX1JqVDk3Y1BRRVczcnIyY1VRNndhVTZJeU9XUTk4cG5UNEFPRzEyMTBIZGJ4UWhTYmFCUTVxSF9PVGo2TnfSAUtBVV95cUxPb2phc1JfRU9OcFBxeWJIMFFaODN1bFo1NGU1Wjk5MWZ4dlM3UmNTc2JXVEVDdlpuRzJiTFkxN2xlclZhNHM2SjZ5N1E?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T16:22:10.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6664abd91bae",
-   "kind": "headline",
-   "title": "Germany's far-right turning point",
-   "source": "The Financial Express",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJMWxxbFVaU3h5bkZ5eTBtUHNiZWRzekw4RWI0X3NxdlJTd3RERXBRTGY2S00wd0pQOVVTbWNRS3plSnk2czdEN0I5cVhmT0U0TFFsbTFGendCeDhwUWRJemlvZ1J5MHQ0NDRQalZfcnhST1VIdlBjNWQ4QmVVUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T16:02:17.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "thefinancialexpress.com.bd"
-   ],
-   "important": false
-  },
-  {
-   "id": "eefc80c69f95",
-   "kind": "headline",
-   "title": "Somalia Chairs EAC Speakers’ Bureau Meeting in Arusha, Secures Hosting Rights for 2027 Summit",
-   "source": "FTL Somalia",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV0pLYjB5bjMxa205UUM3YTk2N21HeklZc1pOZDJtdFcwLUNGNGFrbHFJVkdnbUtTMUZxakQzeFNxMEswMTNaTkFyWURweGh4OEJyb1B0c2MzX2N5VXpNOTJJTHN2V3htSDFXQy0zQl9NaF9fS1JndndNdkdNeC1HSTl0OGxxUVlrdWxRZG5FaHpxY0xPUGJGa0FFX3J1S3RsQjRrOVNCRjd4RktKbEplblRBZUZDc1B1a0M0?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T15:54:29.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "974d045a3bb0",
-   "kind": "headline",
-   "title": "Protesters in Geneva are calling for sanctions against Israel",
-   "source": "bluewin.ch",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWdEV2JLVTIzLWtxN09TeXVpTjQzZ0F3dGpUV3U4a0tqSjM2Y3VDWEZVTm1kRTZhWDFwd3k0X2Q3RS1aTFRSdGRhaEJCYzlRNUxiTVZBS3lYWDZUUG1ZSWxJWmNwNnZLRnFRNmZOaVZXdE05Ul9BQTFtMnFPVEtBdldPOWhLVERZR2JiYW5BN1h2R3Vfd0t0cWRUSDJPelBmU28ycWN3?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T15:52:59.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "48fa2994af59",
-   "kind": "headline",
-   "title": "איש הצללים האיראני שמאחורי רשת של מיליארדי דולרים מהברחות נפט",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558177#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-03T15:50:00.000Z",
-   "summary": "תחקיר גורמי אופוזיציה באיראן חושף את בכיר משמרות המהפכה מוסטפא אחדי כמי שמנהל את מערך הברחות הנפט • כך הוא חומק מהסנקציות של המערב",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790855893/800_nnwz4s.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
