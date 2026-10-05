@@ -1930,12 +1930,67 @@
    "posted": "1791211819",
    "found": "2026-10-05T15:04:03Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693195090168188181",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693195090168188181",
+   "caption": "מהומות במאה שערים: רימון הלם בסמטה ונער צעיר באזיקים פעילות משטרתית ב...",
+   "posted": "1791211569",
+   "found": "2026-10-05T15:48:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693195090168188181.txt"
+  },
+  {
+   "id": "7693209750888041749",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693209750888041749",
+   "caption": "22 ימים לבחירות ויש אנשים שעדיין בטוחים שהייתה בגידה מבפנים 👇",
+   "posted": "1791214984",
+   "found": "2026-10-05T15:49:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693209750888041749.txt"
+  },
+  {
+   "id": "7693200770803453202",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693200770803453202",
+   "caption": "כמה פעמים רומי אמרה עומאן? @Romiz - רומיז #פוריו #פליידובאי #טיסה ",
+   "posted": "1791212893",
+   "found": "2026-10-05T15:50:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693200770803453202.txt"
+  },
+  {
+   "id": "7693205285061577990",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693205285061577990",
+   "caption": "\"קל לשפוט אותי כי נראה שאני מוותרת או תומכת, אבל זה לא נכון\" ↓ \"אני פ...",
+   "posted": "1791213944",
+   "found": "2026-10-05T15:51:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693205285061577990.txt"
+  },
+  {
+   "id": "7693199582901128469",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693199582901128469",
+   "caption": "💜💜💜",
+   "posted": "1791212616",
+   "found": "2026-10-05T15:51:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693199582901128469.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T15:04:22Z",
+  "at": "2026-10-05T15:52:05Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 5
  }
 }
