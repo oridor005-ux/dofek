@@ -1465,12 +1465,54 @@
    "found": "2026-10-05T08:59:11Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693103404842896648.txt"
+  },
+  {
+   "id": "7693105271656303892",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693105271656303892",
+   "caption": "מרצה בבר אילן תכנן מתקפת טרור נגד מאות ערבים בישראל הפרקליטות הגישה כ...",
+   "posted": "1791190664",
+   "found": "2026-10-05T09:14:00Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693109083901152513",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693109083901152513",
+   "caption": "\"בשלוש השנים האחרונות ידענו כאומה תהומות עמוקים ובלתי נתפסים\" ↓ \"אך ג...",
+   "posted": "1791191547",
+   "found": "2026-10-05T09:15:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693109083901152513.txt"
+  },
+  {
+   "id": "7693108124475018517",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693108124475018517",
+   "caption": "לאחר שהקואליציה איבדה את הרוב בפרלמנט והצעות הדגל שלה בתחום הדיור נפל...",
+   "posted": "1791191324",
+   "found": "2026-10-05T09:15:12Z",
+   "status": "failed"
+  },
+  {
+   "id": "7693063205588880661",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693063205588880661",
+   "caption": "לפני שנתיים נאנסה סטודנטית באוניברסיטת קורנל שבארה\"ב בידי שבעה גברים ...",
+   "posted": "1791190800",
+   "found": "2026-10-05T09:17:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693063205588880661.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T08:59:38Z",
+  "at": "2026-10-05T09:17:34Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 4
  }
 }
