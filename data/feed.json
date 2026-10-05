@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T07:55:29.158Z",
+ "updated": "2026-10-05T08:06:51.752Z",
  "items": [
+  {
+   "id": "ad9affb8c617",
+   "kind": "headline",
+   "title": "חשיפת התשקיף של אנתרופיק מעלה חשש מבועת AI. האם הוא מוצדק?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558383#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T07:57:00.000Z",
+   "summary": "הדלפת התשקיף החשאי של ענקית הבינה המלאכותית חשפה הפסדים כבדים, התחייבויות של חצי טריליון דולר ותלות בשני לקוחות מרכזיים • האם מדובר בקריסה מתקרבת או בצמיחה פנומנלית של תעשיית העתיד? • חמש הנקודות בתשקיף שהצליחו להדליק נורה אדומה בשווקים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1787566268/2026-01-20T124808Z_1149863023_RC205JAS0XAK_RTRMADP_3_DAVOS-MEETING_nbnhtt.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "990009ea324a",
    "kind": "headline",
@@ -5913,19 +5927,6 @@
    "published": "2026-10-02T18:47:05.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "44b170a88e1d",
-   "kind": "headline",
-   "title": "Why Boycotting Israel-Lobby Events Is a Moral Obligation",
-   "source": "BDS Movement",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZFg4cFRSR2Nka1ZMRzVhV2JOeHMyMF9qd2pPU2E4ZmNzaU9UN2pqTlJuejlUVmxUanRuMjJHTzNlYjBuaWo3NTROc0JHU3lPMnlsWG5YdEdQZm5WNmQ4UEQzcERqRjhEcWhrTF96WHI4bk9MQi1nT0dMbWVUVXpwMEpaUm82TFU?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-02T18:42:32.000Z",
-   "summary": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
