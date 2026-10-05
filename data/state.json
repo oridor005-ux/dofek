@@ -65,7 +65,7 @@
   "ins-2026-10-05-crn7"
  ],
  "pending": [],
- "lastRun": "2026-10-05T12:47:39.043Z",
+ "lastRun": "2026-10-05T12:59:59.509Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -90,11 +90,11 @@
      "HTTP 403": 2
     }
    },
-   "at": "2026-10-05T12:12:49.872Z"
+   "at": "2026-10-05T12:47:59.394Z"
   },
-  "lastNewItemAt": "2026-10-05T12:47:39.043Z",
+  "lastNewItemAt": "2026-10-05T12:59:59.509Z",
   "lastPushOkAt": "2026-10-05T12:12:49.872Z",
-  "googleOkAt": "2026-10-05T12:12:49.872Z"
+  "googleOkAt": "2026-10-05T12:47:59.394Z"
  },
- "lastFullAt": "2026-10-05T12:12:49.872Z"
+ "lastFullAt": "2026-10-05T12:47:59.394Z"
 }

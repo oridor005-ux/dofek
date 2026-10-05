@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-05T12:47:39.043Z",
+ "updated": "2026-10-05T12:59:59.509Z",
  "items": [
+  {
+   "id": "2f185cea99af",
+   "kind": "headline",
+   "title": "ירידות בתל אביב, בהובלת מניות הבנייה והביטוח",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T12:51:00.000Z",
+   "summary": "מדד ת\"א 90 נחלש בכ-1.5% • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • טלטלה בבזא: משרד האנרגיה דורש בעל שליטה אסטרטגי, המניה מאבדת גובה • גילת ממשיכה את ההתרחבות שלה בפרו • וגם: למרות ספטמבר ההפכפך, 3 המניות שג'יי.פי מורגן מסמן לחודש אוקטובר",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1645696030/direct/IMG_20200309_140611_jxtlyd.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3d4628a91958",
+   "kind": "headline",
+   "title": "חלה ירידה בייצוג הנשי בחדשות ובאקטואליה בספטמבר",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ub2lhRHNHNXZmWERycUYzdVVsSS1QejJwbktRc0VuN3Nxa1V2c2hKZTVmTDJtV2k4ZThqdjk2ZWN0QjMzckh3SQ?oc=5",
+   "topic": "media",
+   "published": "2026-10-05T12:47:38.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "499cbbd632c9",
+   "kind": "headline",
+   "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/world/americas/balsanaro-lula-brazil-presidency-trump.html",
+   "topic": "world",
+   "published": "2026-10-05T12:45:23.000Z",
+   "summary": "Flávio Bolsonaro’s first round lead leaves President Luiz Inácio Lula da Silva three weeks to find the votes to stop Brazil’s, and Latin America’s, rightward shift.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-brazil-elections-assess-01-lptb/05int-brazil-elections-assess-01-lptb-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a6dc2f3abd94",
    "kind": "headline",
@@ -86,6 +128,20 @@
    "important": false
   },
   {
+   "id": "84095fdab8fe",
+   "kind": "headline",
+   "title": "Israelis Increasingly Identify with Middle East as Attitudes Toward Europe Decline",
+   "source": "The Jewish Press",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkJCb2M1ZGhEME91RGZEVTBpTXByYkl0c01ZNE5hZmpJbVVsSTlPaG03MXJ1T18xT0JvR1pCTWF0WmExWU9HQWY4WldqbjU1MGIzX0doSXB5VVg2akFXNTFGc2VPQkE0bl9fbzF6a0tXWjhUdGFsYlk1S2d2Wm10M0kxcDhrcnduWU1kT2Fwb3dwNHpxR2dDQnZyZW9RS3FwZFZSY1BYTlNSWUE?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T12:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "29104b5ca6a2",
    "kind": "headline",
    "title": "הירידות מתרחבות בתל אביב: הנדל\"ן נופל 2.6%, הביטוח והבנקים בעד 2.4%",
@@ -96,7 +152,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ביזפורטל"
+   ],
    "important": false
   },
   {
@@ -138,7 +196,9 @@
    "summary": "הבורסה בתל אביב נסחרת במגמה שלילית: בהובלת מניות הבנייה והביטוח, האנרגיה שוחה נגד הזרם • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • טלטלה בבזא: משרד האנרגיה דורש בעל שליטה אסטרטגי, המניה מאבדת גובה • גילת ממשיכה את ההתרחבות שלה בפרו • וגם: למרות…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "globes.co.il"
+   ],
    "important": false
   },
   {
@@ -755,6 +815,20 @@
    "important": false
   },
   {
+   "id": "678ce87bf68a",
+   "kind": "headline",
+   "title": "Latvia restricts public media from broadcasting in Russian except during emergencies",
+   "source": "The New Voice of Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWjZ1QjM0NkRKQUUyWHRoX2RVdTV5cGlEUVNQcHdtLXZlX1pJVzNRZFM2RmtreTRlY3dQaXlORERfS0RlbVhUdFRSQ0NZd3U5UmJKOHdkQzJqSEF1aHE0NnVlb0hCOGtkQndHU2xEd29xTVV6czZoa0lUd1hZRFM1alRpbDdJVWlLRS0zME9pVHkyaVRNUGZ6T29RNHRSVWgwdTlQVkw2Vm01bEFYX1hJ0gGvAUFVX3lxTE1aNnVCMzQ2REpBRTJYdGhfZFV1NXlwaURRU1Bwd20tdmVfWklXM1FkUzZGa2t5NGVjd1BpeU5ERF9LRGVtWFR0VFJDQ1l3dTlSYko4d2RDMmpIQXVocTQ2dWVvSEI4a2RCd0dTbER3b3FNVXpzNmhrSVR3WFlEUzVqVGlsN0lVaUtFLTMwT2lUeTJpVE1QZnpPb1E0dFJVaDB1OVBWTDZWbTVsQVhfWEk?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T09:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "9b864d147598",
    "kind": "headline",
    "title": "Court blocks removal of Judge Anthony Obwayo from officeAnthony",
@@ -813,6 +887,20 @@
    "important": false
   },
   {
+   "id": "fd9d2ab6663a",
+   "kind": "headline",
+   "title": "Press releases and reports - Direction of affairs in the country and what Ukrainians feel about the current government: results of a survey conducted on September 12-21, 2026",
+   "source": "КМІС",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sb2V2TFZNR1RBamRZMS1uX0ltWlNUSG5tSmJvT3lJbUpyQzJ1ZlBlV1UzeVYzVE1oVFM0dGFkcG5GeEpBakJWckJjNHFPMnVHMTJYRkh5dGJIblVWSjRUWnZOdnlkX3RERWIyMA?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T08:28:16.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "1b221ce023f3",
    "kind": "headline",
    "title": "The exceptional courage of Israeli society in the face of Jihadist terrorism",
@@ -837,7 +925,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "hayadan.org.il"
+   ],
    "important": false
   },
   {
@@ -1365,7 +1455,8 @@
    "score": 0,
    "alsoIn": [
     "aapnews.aap.com.au",
-    "St George & Sutherland Shire Leader"
+    "St George & Sutherland Shire Leader",
+    "The Canberra Times"
    ],
    "important": false
   },
@@ -5832,98 +5923,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "349d82d7882b",
-   "kind": "headline",
-   "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-   "topic": "israelAbroad",
-   "published": "2026-10-03T11:56:46.000Z",
-   "summary": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the United ⁠Arab Emirates…",
-   "image": "https://i.guim.co.uk/img/media/c4c21545c40a5e97d346e5c87667ec791987a30b/0_110_3200_2559/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=a8b6ac3b9338871b83cba2f142537ba5",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f8ed9dbaef82",
-   "kind": "headline",
-   "title": "Latvia holds parliamentary elections to elect new Saeima",
-   "source": "Yeni Şafak English",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkJaVVZxXzdRZGhKUk1WVElmdy16RV9tSDc3M2NwOTQxcERSaUpqN3lGYjZhaG9tamYwTGRaMTBhTWpYbkhLcm1WeDh0T0FtRzRUaDdRNWJtMGZNd1VaUmtqODBUcFlhRmVLc25WR3F4RlRYVHhVb2dQdVF0dGNqMHVYVjNLV0RpQmxGU2tqUHUyajFtbHlpR1pjREJLdWc?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T11:33:47.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "db7e4741bbde",
-   "kind": "headline",
-   "title": "Rafael Urquizar - Fashion Week - Défilés - Womenswear - Printemps/été 2027 - Paris",
-   "source": "FashionNetwork Canada",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkwxcmx2T3lNcnRxb1FFU3VfT2IteWR5aVVqSHJocG5Wc0lTdkJBeW5FbTFGbXZQa1RiNkpoS2c5SHFpeEJVaWZjaWhqM2Y5YVBDVktMX3haR1h3SXUxc2Fsb1BMLVNteTVZRVVJU0sxV1NRa0VGQXhMaE5qMU9meTNmQ0E?oc=5",
-   "topic": "defense",
-   "published": "2026-10-03T11:28:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "ca.fashionnetwork.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "3436560ba312",
-   "kind": "headline",
-   "title": "US weighs sanctions on Israel over illegal West Bank settler violence: Report",
-   "source": "Türkiye Today",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWE1vMUkzX1FqYUl1TkV5VHZWR0Z3b3RlbmpKWF9qeTlmTEFNaGdyMVNZR3AwNC1OMHRUc3ozbFo3bmxUbWNLaHEzdHlFc3czUnZ3b0pBOVpBYWhlLXVWZjdQOVFyRHRlTUF6d1BiREgyVEk4MHM0WVpEOVVibWIzbTVQY3FZdWhlUjdDbm01T2ZzeXdQZG5ING5ZS1RkWGU1cXhBT1BxRjM4VkFQel9ob0YtM01tdng0V3N5aQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T10:57:17.000Z",
-   "summary": "",
-   "image": "",
-   "score": 4,
-   "alsoIn": [
-    "turkiyetoday.com"
-   ],
-   "important": true
-  },
-  {
-   "id": "7dfb9c8f2374",
-   "kind": "headline",
-   "title": "Who Will Pay the Bill for Britain’s Hypocrisy over Israel?",
-   "source": "Frontier India",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODJTbHNXQ0RYUmM3b25yUGNZUTg4NjJBWXVuQWNHMzFIa2ZQZDloa0F3SnFxYVVBNTVUbzhMOUh5QWV3QV9WckxfWWdyMENjemRQZFBiQVBzSVBTTHpQMU5FeS1MRTJrRWJ3R3hTRENpTTJMYm5LU3hXNHh1ZzRSNjlqb05pY0ZDdDhn?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-03T10:48:37.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "frontierindia.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "9cf6f1641b48",
-   "kind": "headline",
-   "title": "Latvia Opens Polls Amid Russia Threat, Cost-of-Living Squeeze, Drone Incursions: who 14 outlets blamed",
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa2k3TFF5Qzh5M0N6Z0F4TVcxLWNXRWFDQlpPQ3o5WlpiVm81bjNXRGVvNVl0N2doVTFCYUpBQW1uME9FMXRUWDhFZk9ybXNDdGlkcG05RDFnM25sa3pnbzYwSmlYelJwRTlPdzRJVE5uNzBXMlhPSC02a1pYcVZ0a1NnMnBMR19yOHNwWHdqU2lVU0Y0OFVwRWJkb0Y5WXVhdjhhRlB4SzRXUHBVc181X3RDbURlQ08zUGJwTHZLSlpDdUhET25KMlJkQTNqLVc5ZW1yZmpORFpGNk5QYUM2dGc4Mjc1T01CWHc?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T10:45:47.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "newscord.org"
-   ],
    "important": false
   }
  ]
