@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T05:11:22.887Z",
+ "updated": "2026-10-05T05:23:36.385Z",
  "items": [
+  {
+   "id": "bb3b4974c457",
+   "kind": "headline",
+   "title": "המשבר בצרפת מפיל את היורו, בעולם ובשוק המקומי - על 3.40 שקלים",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/bkqzf3lsge",
+   "topic": "research",
+   "published": "2026-10-05T05:15:13.000Z",
+   "summary": "אחרי דוח התעסוקה החלש שדוחה לפי התחזיות את העלאת הריבית הבאה: הדולר מטפס ב-0.5% מול המטבעות המובילים בעולם ונסחר בתנועה קלה בשוק המקומי - מעל 3.04 שקלים; היורו נופל ב-0.7% מול המטבע האמריקאי (נסחר מתחת ל-1.12 דולר) ומאבד 1% מול השקל. זאת בצל החשש משיתוק פוליטי בצרפת שיבטל את תוכנית הקיצוצים בתקציב",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_0_3000_1688_0_medium.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2cbb32e55da3",
    "kind": "headline",
@@ -261,6 +275,20 @@
    "id": "442cf41314a6",
    "kind": "headline",
    "title": "הבעלים שמורווח מיליארדים והפזילה למדד הדגל: הכול עובד לטובת אל על",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558374#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T02:55:00.000Z",
+   "summary": "הפחד בשמיים מתורגם לראלי בבורסה: זינוק של 13% במניית אל על הוביל אותה לשווי שיא, ומניב לבעל השליטה קני רוזנברג רווח על הנייר של כ&ndash;4 מיליארד שקל על השקעתו, בתקופת הקורונה • וגם: חלום הכניסה למדד ת\"א 35 וההשפעה האפשרית על כרטיס פליי קארד",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1755073042/direct/787_%D7%91%D7%90%D7%95%D7%95%D7%99%D7%A8_fo4odh.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "1cb1c6f60cb7",
+   "kind": "headline",
+   "title": "הכמעט אסון בטיסת פליי דובאי עשוי לשלוח את על אל למהלך היסטורי",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558374#utm_source=RSS",
    "topic": "econ",
@@ -1076,7 +1104,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "atalayar.com"
+   ],
    "important": false
   },
   {
@@ -5898,35 +5928,6 @@
    "published": "2026-10-02T14:18:30.000Z",
    "summary": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "dcadc7d005b6",
-   "kind": "headline",
-   "title": "ישראל עוקפת לראשונה את בריטניה בדירוג יצואניות הנשק העולמי",
-   "source": "זמן ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1wdzF0NmhPcWxZd25obGhLdUFUQ3ZtWkdfOVcyN25waGNKT0VrUnFVUnlVU0t0LWtYeTlzcjJhcE9CZTkz?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T14:14:29.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "zman.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "a2a432fef766",
-   "kind": "headline",
-   "title": "הקונספירציה החדשה באירופה: המוסד עומד מאחורי משבר ההגירה",
-   "source": "מקור ראשון",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1MUVhVjhYVnNZSVdid3o3eTJKWjFDUmpwM2dtVHVsUzVjSmFrZEtDcEJzQ3BqVFNQcmF0c1NIRDlHbXRyelUyNUN3QUg2eEZUbzJEOWIwU3R1V2RSeUpMWE9WczZzZ1I4dmJ1VA?oc=5",
-   "topic": "demo",
-   "published": "2026-10-02T14:07:13.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
