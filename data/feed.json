@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T06:45:16.110Z",
+ "updated": "2026-10-05T06:56:42.215Z",
  "items": [
+  {
+   "id": "15b08a97e090",
+   "kind": "headline",
+   "title": "לאחר 7 וחצי שנים: גלי צה\"ל והדס שטייף ישלמו מעל 600 אלף שקל לאפי נוה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558409#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T06:50:00.000Z",
+   "summary": "",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1685263503/direct/WhatsApp_Image_2023-05-28_at_11.43.11_km68mf.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "368ebb0f8fc5",
    "kind": "headline",
@@ -5921,20 +5935,6 @@
    "score": 1,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "c4575067fe9b",
-   "kind": "headline",
-   "title": "U.A.E., Netanyahu Say FlyDubai Attack Was Terrorism",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/asia/u-a-e-netanyahu-say-flydubai-attack-was-terrorism-31531f46?mod=rss_worldnews",
-   "topic": "knesset",
-   "published": "2026-10-02T15:23:00.000Z",
-   "summary": "The comments are a clear indication that investigators view the incident as an ideologically motivated act.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://images.wsj.net/im-86050113"
   }
  ]
 }
