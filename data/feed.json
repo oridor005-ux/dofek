@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T06:21:35.272Z",
+ "updated": "2026-10-05T06:33:54.473Z",
  "items": [
+  {
+   "id": "368ebb0f8fc5",
+   "kind": "headline",
+   "title": "למחזר את האנטישמיות: הירוקים באנגליה הגדירו את הציונות כגזענות",
+   "source": "מקור ראשון",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uM2t3VWY5T3B5d2c1TWJjRllJTWw2WDFGMmRJVWdpUVYxUGRNdVl1NXJSYXUwN09ubnY3OHZ3Tmp6Q2RzbmtNbmY0dEtYNzg2cm8xRDB4QmxOSkpKcWV5a2NiU2hpYlRtY0gzbg?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T05:56:46.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e511176e3817",
    "kind": "headline",
@@ -112,6 +126,20 @@
    "score": 5,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "55300edcc2e5",
+   "kind": "headline",
+   "title": "Thapa calls for open Parliament, freer parties",
+   "source": "myRepublica",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXpld21qOTJlNEZnWktrcllfc2t0TlZHdHNubHNPQUl4aHIwNXRYODEwYTV2RjdKcTkyS3BQb0s1VmUzNlY4eE9HcWtCb3dNeGJEOGpaNnJsb3pBLUpmbmRyVWJESi03Sjl0RUpQUUEwenI4MmdQdXEzLXByTEI1bVAyQlgzWmU1YjladnhLZ2U1bER6bVVOd0R1Zzg4dWZVbFE?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T04:36:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "de859f234c59",
@@ -1056,7 +1084,9 @@
    "summary": "",
    "image": "",
    "score": 4,
-   "alsoIn": [],
+   "alsoIn": [
+    "harici.com.tr"
+   ],
    "important": true
   },
   {
@@ -5905,35 +5935,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://images.wsj.net/im-86050113"
-  },
-  {
-   "id": "a6f9826e2b44",
-   "kind": "headline",
-   "title": "Green leader Zack Polanski takes credit for Israel sanctions and criticises Bank of England",
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUUtSjVHdDFNZlJkUDdTTWJGVFFSRG8yNEJoeVlwdGw4TFNfY2ZldnhsbnV3NWZFV2dsNUdHMlVLeV9tY0pGRGptUk9BM3ktV1U1amlaemZGaWRFTHF6Y3lwLVdVNi1uN1FnWkNfU1dSbVl2UFZMRlBYSXdJWFVoWG5vQkc?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T15:18:40.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "ft.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "bccc2aace1c6",
-   "kind": "headline",
-   "title": "Spain: Socialist Pedro Sánchez suffers setback in parliament as his measures to (further) intervene in the housing market fail",
-   "source": "voz.us",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb3FuYTNkSUdVRkNOY29WYk4yVG4xbk5tRnJfa0pwVDlvTWRWdUFvOUM2WmNCRVVjblVkNGp6ZzZ6MGJPeHdUMWUxUTVkMDJUWjdmN1FYRHZ2WXZucEdXaGNOcUVfQnZleGFQeDZEYlpGTmdDU2hsMnBEMzhUWG80WHZpbnQxdmU5bWVTMjRzUkVVTWpBOUJIdENtdkRqNTAyVWZtQXl3RFd6ek5rRW1aLTJRUEtLRVVCMi1CYmVXUjhnSHE1dHRQZ1pBY0h2amV4eWZsTF9VVnpvMVJsam1DellLUmdCbzJfSDhPekQ4U2JsNTNaa05Vd0hPQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T15:08:21.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
