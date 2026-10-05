@@ -1845,12 +1845,33 @@
    "found": "2026-10-05T13:19:46Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693172123052805397.txt"
+  },
+  {
+   "id": "7693171717652385076",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693171717652385076",
+   "caption": "המצוד אחר מחבלי טבח 7/10: ראש אמ״ן, האלוף שלומי בינדר, עדכן אמש את שר...",
+   "posted": "1791206131",
+   "found": "2026-10-05T13:32:43Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693172790182137095",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693172790182137095",
+   "caption": "אז והיום: הקפות שניות בישיבת שדרות ביום הטבח - לעומת ההקפות השנה",
+   "posted": "1791206379",
+   "found": "2026-10-05T13:33:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693172790182137095.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T13:19:52Z",
+  "at": "2026-10-05T13:34:02Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 2
  }
 }
