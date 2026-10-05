@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-05T17:42:44.384Z",
+ "updated": "2026-10-05T17:54:15.909Z",
  "items": [
+  {
+   "id": "502ee541e799",
+   "kind": "headline",
+   "title": "UK threatens to expel Israeli diplomats after closing of East Jerusalem consulate",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T17:53:46.000Z",
+   "summary": "Tit-for-tat expulsions expected after relations deteriorate as a result of UK ban on goods from illegal settlements The UK has threatened to expel one Israeli diplomat for every British diplomat forced to leave Israel as a result of Israel’s decision to close the UK consulate in East Jerusalem…",
+   "image": "https://i.guim.co.uk/img/media/1da8d161242bd7736d78039667e979fec035e639/51_0_6822_5461/master/6822.jpg?width=140&quality=85&auto=format&fit=max&s=6a35573dcfd323aafb5c79af6a005658",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d931c856fefc",
+   "kind": "headline",
+   "title": "על גג המדינה: הפנים החדשות של הכיכר המבוקשת בישראל",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/r1n00zp11jzg",
+   "topic": "econ",
+   "published": "2026-10-05T17:45:11.000Z",
+   "summary": "בקרוב יקבלו הדיירים החדשים מפתח ל-453 הדירות בשלושת מגדלי כיכר המדינה: בין הרוכשים גם הזמר עומר אדם והכדורגלן הספרדי סרג'י רוברטו. מדובר על אחד הפרויקטים היוקרתיים בארץ בהיקף מימון של 2 מיליארד שקל. עכשיו אחרי עשרות שנות מאבקים מגיע המבחן האמיתי: איך ישפיעו המגדלים על התנועה, הצפיפות ועל חיי…",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "3024502e6c83",
    "kind": "headline",
@@ -5908,38 +5936,6 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWJCX2l3T3dZdTdIc1JOMFRiUVIzZkhvUHhCUU9ZOG5XM25EVG5RZHg1NDdtZlg0Mm5GbExTX25FYU1VcFg1YWllMjJRN2lDWUllOVFsUnhTNjVaLS02ZGFYR0hyeTZpY3FhbVJuclRISi1vUXRlXzBvOURZVnBLV282MHJmZEVLUWVueVdWZk54bkFZT3hnZ9IBngFBVV95cUxOZ0ZYT2tBa0Eza1JIbDBuTTMzS3UxUUJPclo3UGdiV1NzaWR5T21fS05NUnNrSjVuMVZjRUlPTF93ZnJjUTBmd0NxNVpSNnoyOGtTWVRxRHZMZTF5NDd1RGdna3FIa09JWlMyWFlkY2J4b1JWVjVHOGJpX0huQ0E0LW9rX2RhYUgtRUFZTUFVdXRjY0ZDNXpvUWNRT25Jdw?oc=5",
    "topic": "world",
    "published": "2026-10-03T22:21:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7643dffd97dc",
-   "kind": "headline",
-   "title": "Latvian leader poised for big win in election shadowed by Putin",
-   "source": "The Spokesman-Review",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3ZUSl9DcjRMVEdudlJxaXJiZ0k2RC1maG1SbXQ2ZlhNZTlGdURXV1BXcDVPN2VVSmhEbGN4Y2pBeHgtZFZiQnE5X1dkeVd1V3FRU1V6NGVhQVpxWFVHN2tPZ0laQnRSdXZOM1NVWmNXckllNmN3MHpOMFUtYVNzaWd4aVl4Umc3YzY2Z0xaREM4X0NWd1RsbVVUeVRXUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T21:42:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "South China Morning Post",
-    "scmp.com",
-    "spokesman.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "dc412ec093c7",
-   "kind": "headline",
-   "title": "‘Blessing in disguise’: Malaysia's Transport Minister Loke sees silver lining despite setbacks for his DAP",
-   "source": "straitstimes.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkIwaVVVZnFBUEo0X0t3c2RLa095WUdrOXZPam10Z3JaSmZGLWkwc05NeUo5SjE4Q2ZGZjJDX0FHT3NOd3lqZG80VFl1OWQzb2ZnQWd2aE9KLURxeTZIamlOQlZuX1N6bEdvZFoyYVJIbzNMLUs1OGFCN3BTMGJPc3Bsd3FhSmRmUXZZc2h6SVIzQ200c2RnSE9KbUFPZHFEM1NpMkpqYnEyaDRYVFhUU0hEc3g2SDF5ZEJhSkF0RVlOZVg2UlM1R1dvU25RMWx4MUVadVVjTQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T21:00:00.000Z",
    "summary": "",
    "image": "",
    "score": 0,
