@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T08:54:09.378Z",
+ "updated": "2026-10-05T09:05:31.390Z",
  "items": [
+  {
+   "id": "81529f256526",
+   "kind": "headline",
+   "title": "בכ-4 מיליארד שקל, ובלי אגד: מכרז חדש לאוטובוסים במודיעין יוצא לדרך",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558419#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T08:54:00.000Z",
+   "summary": "המכרז להפעלת קווי האוטובוס באשכול החשמונאים, הכולל בין היתר את מודיעין ומודיעין עילית, יוביל להרחבת השירות בכ-10% ולהגדלת הצי לכ-207 אוטובוסים חדשים • אגד לא תוכל להתמודד בשל מגבלות רשות התחרות, שהכריזה עליה כמונופול • המפעיל החדש צפוי להיכנס לפעילות בהדרגה בתוך 12 עד 18 חודשים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1652534895/direct/shutterstock_1774325645_tztf8l.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "81657a0b2b78",
    "kind": "headline",
@@ -5924,20 +5938,6 @@
    "score": 1,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "bb8c89d34a18",
-   "kind": "headline",
-   "title": "India Faces Fresh Protests, This Time Over Voter Rolls",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html",
-   "topic": "world",
-   "published": "2026-10-02T21:15:28.000Z",
-   "summary": "Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02int-india-protests-tvhf/02int-india-protests-tvhf-mediumSquareAt3X.jpg"
   }
  ]
 }
