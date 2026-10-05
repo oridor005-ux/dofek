@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T04:36:14.432Z",
+ "updated": "2026-10-05T04:46:37.671Z",
  "items": [
+  {
+   "id": "da9c508824ca",
+   "kind": "headline",
+   "title": "חמישה דברים שכדאי לדעת לקראת יום המסחר",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-05T04:43:00.000Z",
+   "summary": "הבורסה בתל אביב תנסה להתאושש משבוע אדום, המניות הדואליות יספקו רוח גבית בפתיחה • בארה\"ב, הנאסד\"ק בשיא; התשואות מזנקות לשיא של 24 שנים והשווקים נערכים לירידת תשואות • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • דוח התעסוקה בארה\"ב: הקיפאון בגיוסים מעמיק, אך…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg4_epj1sj.jpg",
+   "score": 5,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "de859f234c59",
    "kind": "headline",
@@ -54,7 +68,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "i24NEWS"
+   ],
    "important": false
   },
   {
@@ -110,7 +126,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "TheMarker"
+   ],
    "important": false
   },
   {
@@ -124,6 +142,20 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "17182f52f46f",
+   "kind": "headline",
+   "title": "פיקדון או קרן כספית? הריבית ירדה — אבל דווקא עכשיו אפשר להרוויח יותר מהחיסכון",
+   "source": "TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1E5VnVQLUdXd19ROThrNEdiVXQ1c044ZjJBNkhVQ3Fad2JCcHNzeEd5WUJaYlNVMWlTalpvcGZOVzNBM0lvQ3djcGFFRjNyWW9wc1VEZVRuc2N0dU1pUEtDQ1BGTUVuRmZRTHgzY0t4LXEzeEJvRkJCT3Zvejc3ZV91WFF3bjVvbm1wQTFkb2JSOTBQeWJ5czRVWXFtWldCaVlCbHpR?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T03:11:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -456,6 +488,20 @@
    "summary": "מירי בוהדנה יכולה לחייך: אחרי דחיות והתנגדויות, אושרה תוכנית ענק של בן זוגה באורלנדו, פלורידה. התכנון: מתחם שיכלול כ-4,800 דירות, בתי מלון ו-60 אלף מ\"ר של שטחי מסחר. היזמים מקווים למשוך למתחם גם מותגי יוקרה בינלאומיים ‏כדוגמת ארמני ופנדי. קובו: \"נחבר את הברק של דובאי עם הטבע של פלורידה\"",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/S1wqeXxsGg/S1wqeXxsGg_0_0_850_479_0_medium.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "386ef9d4310a",
+   "kind": "headline",
+   "title": "אחרי החגים: איך נראה יום העבודה כשחוזרים לשגרה?",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/yokra14917221",
+   "topic": "econ",
+   "published": "2026-10-04T21:00:00.000Z",
+   "summary": "מעצב השיער שעבד בלי הפסקה כל החודש, עובד הדיוטי פרי שנהנה מההמולה בנתב\"ג, מנהלת התיכון שמצפה לאתגרים חדשים, חבר ועדת הבחירות שבשבילו האקשן רק מתחיל ולוחם מג\"ב שנמצא תמיד בכוננות. המשק חוזר לשגרה וכך נראה \"אחרי החגים\" שלהם",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/yk14917123/yk14917123_0_0_498_550_0_medium.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5882,49 +5928,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-a7-sanctions-ktfz/01biz-a7-sanctions-ktfz-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "47bdb6c79e65",
-   "kind": "headline",
-   "title": "China’s Push Into A.I. Has Led to a Problem: Too Much Usage",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
-   "topic": "world",
-   "published": "2026-10-02T13:15:29.000Z",
-   "summary": "As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-china-ai-reliance-01-zvhg/30int-china-ai-reliance-01-zvhg-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "8efee61d7773",
-   "kind": "headline",
-   "title": "כמעט עימות פיזי ומבוכה לקואליציה: החוק נפל בעקבות החרם החרדי | צפו",
-   "source": "כיכר השבת",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41dHdaLWd6X05fWnZOUFlzSEZYaU5YZ2RBakRDaWFsTkRrclV3RV9XcTVLdlVzX1dycTU1VzczT2hzQU0xNnBrU1pmcHhoQlMtT0lJNUFzejd0QjhCSjR3d2VTMlpsX2czZi01QlVyaUgzWUVUZHQ5OVJTT1ZYTGc?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-02T13:14:15.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c5727047e40f",
-   "kind": "headline",
-   "title": "\"כשהריבית עלתה ל־4.75%, הבנקים לא יכלו להשאיר את הלקוח על 0%\"",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aE1NNE1VajBBNmdJSldEdm0wYVlBc2hiWGpFUDkwam1NR2staUc0WTcyUjhIMDNjT3N3SWlKcUhES09wNzdhSlIwVGNvQWFwUEY0LUE1ak1IM2tRNV9ZVkJpcDIyZGluNEE?oc=5",
-   "topic": "econ",
-   "published": "2026-10-02T13:06:00.000Z",
-   "summary": "",
-   "score": 2,
-   "alsoIn": [
-    "calcalist.co.il"
-   ],
-   "important": false
   }
  ]
 }
