@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T12:36:14.186Z",
+ "updated": "2026-10-05T12:47:39.043Z",
  "items": [
+  {
+   "id": "a6dc2f3abd94",
+   "kind": "headline",
+   "title": "דלק ישראל משתלטת על זאפה: רשות התחרות אישרה את העסקה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558434#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-05T12:37:00.000Z",
+   "summary": "במסגרת העסקה תגדיל דלק ישראל את החזקותיה ברשת ההופעות, בכך שתרכוש את חלקה של ענקית הכרטיסים איוונטים בזאפה ותעלה להחזקה של 81% ברשת • לאחר השלמת המהלך תצא איוונטים מהשותפות, בעוד שאיש העסקים גולן עינת ימשיך להחזיק ב-19% הנותרים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1620216471/direct/DSC_0664_ncubba.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6815b7f25d2e",
    "kind": "headline",
@@ -5910,20 +5924,6 @@
    "alsoIn": [
     "newscord.org"
    ],
-   "important": false
-  },
-  {
-   "id": "35e5be3bec34",
-   "kind": "headline",
-   "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
-   "topic": "world",
-   "published": "2026-10-03T10:25:33.000Z",
-   "summary": "Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.",
-   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-iran-iraq-flights-hzlq/03int-iran-iraq-flights-hzlq-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
