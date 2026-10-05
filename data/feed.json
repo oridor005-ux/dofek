@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T18:53:18.024Z",
+ "updated": "2026-10-05T19:04:44.469Z",
  "items": [
+  {
+   "id": "fcc780fc1729",
+   "kind": "headline",
+   "title": "Zack Polanski may rue lack of leadership when Greens needed him to act",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/zack-polanski-may-rue-lack-of-leadership-when-greens-needed-him-to-act",
+   "topic": "world",
+   "published": "2026-10-05T19:00:27.000Z",
+   "summary": "Party’s leader was absent when members voted to adopt policy stating that Zionism was a type of racism Shortly after the Greens’ triumph in February’s Gorton and Denton byelection , with the party polling above 20%, Zack Polanski seemed as if he might be taking the party into a new era. Now, some…",
+   "image": "https://i.guim.co.uk/img/media/dcc5732271868a3f500f02f1744adaa364e0d2dc/410_0_4098_3278/master/4098.jpg?width=140&quality=85&auto=format&fit=max&s=14ed9e2b4539bfee30616a59bf495971",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "166e2d3ff17d",
    "kind": "headline",
@@ -5922,20 +5936,6 @@
    "alsoIn": [
     "dailynewnation.com"
    ],
-   "important": false
-  },
-  {
-   "id": "cb6432c90211",
-   "kind": "headline",
-   "title": "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/americas/lula-is-the-brazilian-lefts-last-hopeand-its-biggest-problem-68c2fb12?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-04T00:00:00.000Z",
-   "summary": "The 80-year-old president has crowded out successors. If he loses a re-election bid, it could shut his party out of power for years.",
-   "image": "https://images.wsj.net/im-52920236",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
