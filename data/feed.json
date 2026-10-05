@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-05T02:50:57.379Z",
+ "updated": "2026-10-05T03:03:15.212Z",
  "items": [
+  {
+   "id": "11f117608b15",
+   "kind": "headline",
+   "title": "שלוש קומות ומעלית שקופה: מאחורי הקשיים של סוכנות רכבי היוקרה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558381#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T02:58:00.000Z",
+   "summary": "ביי אנד דרייב, שהתמחתה במשך 3 עשורים בשיווק רכבי יוקרה עבור יבואנים ועוד, נקלעה לחובות של 97 מיליון שקל • בבקשה לעיכוב הליכים חשפה הסוכנות את הסיבות למשבר, בעיקרן המלחמה והריבית, שגררו ירידה חדה בביקוש לכלי רכב מפוארים • האם זהו מקרה בודד או קדימון למגמה?",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791122614/WhatsApp-Image-2026-10-04-at-14.55.15_q8wo6d.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3da080910224",
+   "kind": "headline",
+   "title": "פליי דובאי צמחה בשנים האחרונות בקצב שיא. האם זה גם מה שהפיל אותה?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558385#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-05T02:57:00.000Z",
+   "summary": "לאחר זינוק חד בפעילות, אירוע האבטחה החמור מעלה שאלות קשות על נהלי הגיוס והסינון של פליי דובאי • כעת, עתיד חברת הלואו קוסט תלוי בשיקום אמון הנוסעים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790753217/shutterstock_2154617393_g7thjz.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "442cf41314a6",
+   "kind": "headline",
+   "title": "הבעלים שמורווח מיליארדים והפזילה למדד הדגל: הכול עובד לטובת אל על",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558374#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T02:55:00.000Z",
+   "summary": "הפחד בשמיים מתורגם לראלי בבורסה: זינוק של 13% במניית אל על הוביל אותה לשווי שיא, ומניב לבעל השליטה קני רוזנברג רווח על הנייר של כ&ndash;4 מיליארד שקל על השקעתו, בתקופת הקורונה • וגם: חלום הכניסה למדד ת\"א 35 וההשפעה האפשרית על כרטיס פליי קארד",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1755073042/direct/787_%D7%91%D7%90%D7%95%D7%95%D7%99%D7%A8_fo4odh.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "98868cb430ae",
+   "kind": "headline",
+   "title": "הדשדוש בבורסה פגע בביצועי קרנות הגידור: הציגו תשואות חסר מול המדד",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558376#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T02:52:00.000Z",
+   "summary": "התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי, שבו הציג מדד ת\"א 125 עלייה מזערית • בלטה לטובה: קרן חדשה יחסית של ספרה שהציגה תשואה של 41% • הדרמה בשוק האג\"ח בארה\"ב לא באה לידי ביטוי משמעותי בקרנות הגידור",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728995348/COT_Pic/800_hrepep.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "71ffadd88697",
+   "kind": "headline",
+   "title": "השורטיסט שעם פחות מ־10 מיליון דולר השתלט על חברת נדל\"ן שהסתבכה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558370#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T02:50:00.000Z",
+   "summary": "המיליארדר מייק קוהאן איבד את השליטה בחברת הנדל\"ן הנושאת את שמו שנקלעה לאחרונה לסחרור, לאחר שלא עמד בהחזר חוב שכנגדו שיעבד את מניותיו בחברה • הבעלים החדש של קוהאן, נתנאל לורנצי, ינסה להשכיח את הסיבוב הקודם שלו בשוק ההון, שלא הסב נחת למשקיעים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791126232/800_c4tv9s.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5e40f0c746a5",
    "kind": "headline",
@@ -26,7 +96,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Asia News Network"
+   ],
    "important": false
   },
   {
@@ -226,7 +298,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "dailysabah.com"
+   ],
    "important": false
   },
   {
@@ -265,6 +339,20 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3hMTXdaM3VxSkFVdFVCd3ZIZWdGOU43b2VjQUp0ajc1T1BKVXlnem1WSjNUbnBWSUtkVTVOLTE3cnJXTEw3Qi10b0gwWk1nTXZ0QVhMWVZJSWlnZXN5UkZkOUhJTFJNOS01SUhqbjUteTVLSE5MNEF3OHRBM1VPMVZTRjNuVkg3RTRlclpZUDV5anFYamV6dnZzX1FXeDdMVzA1Q1ZaMTBXcnE3UzlzZ3p0MllPYVNPVGNwT09jQ1oxdw?oc=5",
    "topic": "world",
    "published": "2026-10-04T20:30:14.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "03fc5d593e9e",
+   "kind": "headline",
+   "title": "נגד כולם: החרדים עדיין מתעקשים על חוק הגיוס, ויש לכך סיבה אחת מרכזית",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkc21JVVJRZUtLLWlDSGZrVGowR2VqQzNfYlB2Q3JnT1QzQWxiSnRRZ092X3F0LTVkdFlqR0I1OGtmbEVuUnRqRHpwa3hvTlFJX3ExNmZ4SGNfUmpCdTVwYlVSY0Y?oc=5",
+   "topic": "deals",
+   "published": "2026-10-04T20:11:41.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -358,6 +446,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "74a68f03e163",
+   "kind": "headline",
+   "title": "Protesta e 19-të, organizatorët: Sonte do të qëndrojmë gjithë natën para Kuvendit",
+   "source": "reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalJNR1hCYzhCdVQ1OUlkTnhJTW1tTUxuUHlTSk1HSlZNUDV0NE1EVVgwNnBXQ2pxdkNfVVA0SUZ2bTZQVEpwOS1zRlJzZlVnWEk5ZmdBdVctdVYzb3hWMkM1UUQyUjR3cXluRlNubG02UGVWdXpwMk5faTd5YzQ1cS1vanR5bHJabU5CTHJNWUV6Q0FNZElFUVltMHRYNnItb0RFM1FDY1M1dG1uT1lnOWt3enRIek9n?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T18:16:04.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -478,6 +580,20 @@
    "important": false
   },
   {
+   "id": "4b7a34b58747",
+   "kind": "headline",
+   "title": "Parliament panel clears Hormuz security bill for floor vote",
+   "source": "Iran International",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ejZCWmlKN3RkU3h6YnZrNFR1cElIUVpSVXRwUEJLcUs2cXJxMnVaa0VHd0ppbi0wNmlzNDZWdl9PVUZQRWVBcGo5MWU3MFNHQWc?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T16:56:28.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "e058cda3619e",
    "kind": "headline",
    "title": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -576,7 +692,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "reporteri.net"
+   ],
    "important": false
   },
   {
@@ -1183,7 +1301,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "fbcnews.com.fj"
+   ],
    "important": false
   },
   {
@@ -1329,6 +1449,20 @@
    "summary": "ארגנטינה תאפשר לזרים לקבל אזרחות בתמורה לתרומה של 350 אלף דולר או לרכישת אג\"ח ממשלתיות ב־800 אלף דולר, בעוד המבקשים לא יידרשו להתגורר במדינה • התוכנית נועדה לסייע למדינה להגדיל את יתרות המט\"ח, לקראת תשלומי חוב של כ־25 מיליארד דולר הצפויים בשנה הבאה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791112054/shutterstock_2741216327_rreh10.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bee8e9329201",
+   "kind": "headline",
+   "title": "Latvia's pro-European ruling party wins parliamentary election",
+   "source": "Euronews",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1oxeDN4UjMwZzRMWVdVd1pzdGxOelg5MHh3b1E1VmF6dWEwQV9FQ3pMSjdoZ0FmNV9jWEZJV3VyZ29ocWtIaXAzekJ5TmxxUjQzQUxpZzQzbnhFRDVHWl83R1dhQ1hkbDdCOEsxckYzYWdaeGNpbkZLNHlhVUotNmFZMFRhS1lCcWJkRWQxV2szSjh3eERMdEZhdEViUDVNTmlGNnppOWlBRm00?oc=5",
+   "topic": "world",
+   "published": "2026-10-04T11:13:53.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -1571,6 +1705,20 @@
    "alsoIn": [
     "בחדרי חרדים"
    ],
+   "important": false
+  },
+  {
+   "id": "b920a666a93a",
+   "kind": "headline",
+   "title": "\"לא ארפה מהמלחמה במונופולים שמכבידים על יוקר המחיה\": זה לא התיישן טוב",
+   "source": "TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVlWTEhCckpTclUzdFBNc3ZmZ2tPb0pPTDQxWTdqcVBwRUlURXRXQ3NWSXY3NElYaGhaazhNNnVLc1REall2M2lvaEE0bjBJV1owVmF3SzFER0RjX3prVFpPSWZUNTE2aXAyM2dBNHpkaFhTa0VfS3A0amNoRVY0UnF1dkt2Zjh2YWo1WkxGMThDcUN5S0N1VzA1ZDJVM1Nu?oc=5",
+   "topic": "demo",
+   "published": "2026-10-04T09:31:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5769,156 +5917,6 @@
    "alsoIn": [],
    "important": false,
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T74RW7QBDFDE3IYPODTAE6EWWQ.jpg"
-  },
-  {
-   "id": "82e384a50d73",
-   "kind": "headline",
-   "title": "State Department approved unfreezing of $320 million in military aid to Egypt",
-   "source": "1Lurer",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uZFlOR2lKMTJtSVNTMzFBcjRCbU45aHBoMUdWRmpham9RMFRlRnVzbDJjTzREVG9GTWFsMGdVb3hIX0JQckFKWQ?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T11:47:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6f5098307c71",
-   "kind": "headline",
-   "title": "Spanish protesters march on Parliament as emergency housing decrees are set to be rejected",
-   "source": "WHIO TV",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTc2Q0dnR2N0TzhBOXB4eHJGbXF5djE1b041SHBKem05alBYVUlVYUQ2NHdhMnFXdTByT09rNE0wXzNsZENZX0RrZG10ZE1jUlM1THYxUURCbkJpeF9ENUR2c1V6WE41ZEdGczcyZmxlNy1vZWlIZzFfZFUzQlByZ0FLUE3SAZgBQVVfeXFMTlVyaFVWZkVEeklxdHBWOFl4TmZMaU5scG56bHk4WUpwUk1ldEl5UVhwY3habE1aVWVTYVVvdTRoLVJuczB1c1Npa2x0N0RodDlFTWFEV3ZSRTZwb2tDMjNjQjdVUGlsNmV6Rk1rRUNfX3VFeVBZYlUtUWhYWWNkbWJUVEhzNlVOb2R5NVFEYTB3aWNiU0NDNzg?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T11:34:40.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "92dbcc707df1",
-   "kind": "headline",
-   "title": "Hungary and Ukraine edge towards deal that could unlock EU talks",
-   "source": "Yahoo News Singapore",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9udXBTbFJJWEpjd1lWNWpZT3dWaU5FZVp1SVBUa0VLUkJDNUI1ZmZpaDA1R1paWmZGZ014MC1pcXBhTzFfUG9QenJnLVcwQUd0MERmRDVwQ2hWUjl1bV9LUk5DRlRpWHozOVJWanJ3dWlfN0UyLV9qRDd3ZzJiUzQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T11:10:47.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "sg.news.yahoo.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "a436fc3e92eb",
-   "kind": "headline",
-   "title": "Hungary and Ukraine close in on deal over ethnic Hungarian rights",
-   "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUZ6S1pCaDRIdjFnRTYxT2NDSXhDTW82ZFdqSDZPQUxvSWxRZUpWN0xZSnNzcTlUa2lndXdIMFFTNkM4U1JmRWNuYXpQMnktRTF3Q0M3Z3V2RWNDUjAtSEdTOGxLN24zN2FnV3dkdWM3bnZfWkFjbjZtUGI1aXJ2bHFHTGdnR2dkVDBPSTRObHhhWUV0ZkFxdEN3SXZzTFhCd1E?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T11:10:47.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "euronews.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "d2ceafc32981",
-   "kind": "headline",
-   "title": "ניסיונות ההדחה נבלמו? הפוסק הגיע לחתונת נכד ח\"כ משה גפני - והדף את הטענות נגדו | צפו",
-   "source": "כיכר השבת",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ETjhIbUZUbk1aemdzMXdLZTBvUEY3ams2cjF3MkFSNGtleFdoVGxhTU9DOGYwbkxPWlNLc0tHcjZIbllQanlSY2swTUhpTWFkQ0wxZ0tR?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-02T11:07:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "845cd2ecf924",
-   "kind": "headline",
-   "title": "Kushner's Investment Firm Is a Top Shareholder in Company With $456M Tied to Israeli Military Suppliers, Report Finds",
-   "source": "inkl",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2JtYXEzZFJZQ01hZlh2NllIcFRXWVhqSTBnM2txTUFVMlBvSUktOGU2QWFuWjRpbTZzT0xMZjJwU3pBTlRwX3VCNDJoOVVIbFFoLXBLU25uVGNFNE1iTktDMm9HTjZ3MWxYTF8tMERTVzhyY2ZNcVhrbXhTR3NLalVOV1o4eDZTNHNmNXBlb0hTd3hQMkJibzVaLWpIY3c0M3ZDaVptZi0zd1ZMR3d5UmRMRlhna2VUWmdpd3VjYjZBT1pUV2s1U0RCdHhjMmNyNEFkWlJfbw?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T11:03:27.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8c5b61f5c254",
-   "kind": "headline",
-   "title": "Why Good Process Matters",
-   "source": "Tasmanian Times",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MelhKUmFxSFZCdFFwQi1vZkxRbFp5dllnVmVqWWRFUzB6eFhEMlhJbjhYWnZwaXl6SDNYdWF6dXVJNlF6WHpNNHB3cWlHZVpUaWY0Q1ppME5DUkZKdmpXMlNHZDJ5MWc3R05kcQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T11:00:31.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "tasmaniantimes.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "94d58bf0a648",
-   "kind": "headline",
-   "title": "האינפלציה באוסטריה עלתה ל-3.5% בספטמבר מאת Investing.com",
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nLVhZWnV2ejRVbVlYT1lydVBrd0RsbDBwQ1NnNERlNlJrRHR0YnF4VHlRZ0FzY0JOQTNEc3dGTlZhU0F5QXhWSi16dkN6WVpBWlJHRUZwa0Q5TWFDamJZbUJBbDdENlhmMk95QlNuVTNRekxzYUFRVQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-02T10:38:08.000Z",
-   "summary": "",
-   "score": 2,
-   "alsoIn": [
-    "il.investing.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "de88e8e572ac",
-   "kind": "headline",
-   "title": "Brazil next, US midterms coming, in impactful global election year",
-   "source": "WKZO",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWxCMHpLcmhRbTA1S1RpbGtHczEtS3I5YVhtZEk5NGM2bUNId0tnVkV0WU85aHNyc0VSYTBLT0lFWGU4SVEzSlZQQXFfLWN0Mmg3ZG53b2t6R0VYSkEtbVJBX0dzR3RPYUVkOVQzSTFIZC11UGhTT2F3MDVNQmxOYUZTRWszc1NLUWNwbzh3b2JzMWJwMmRTXw?oc=5",
-   "topic": "world",
-   "published": "2026-10-02T10:36:40.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "WTVB",
-    "wkzo.com",
-    "KELO-AM"
-   ],
-   "important": false
-  },
-  {
-   "id": "d166a38a5028",
-   "kind": "headline",
-   "title": "טרלול האנטישמיות של התקשורת הישראלית",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16OTdXYkVUbFdibmpaSVRwU1h2UlhOUmtJejdMZ1o0ZENhcEx3RmdSOHRRdHdLbTJzNDY2TzkySUhWMWtEM1pDeQ?oc=5",
-   "topic": "media",
-   "published": "2026-10-02T10:36:02.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
-   "important": false
   }
  ]
 }
