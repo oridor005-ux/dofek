@@ -1345,7 +1345,7 @@
    "caption": "אחלה שר הזיתים",
    "posted": "1791184661",
    "found": "2026-10-05T07:28:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693079483259178292.txt"
   },
   {
@@ -1428,7 +1428,7 @@
    "caption": "היום מציינים את יום הזיכרון הממלכתי לטבח ה-7 באוקטובר. עבורנו המבוגרי...",
    "posted": "1791187989",
    "found": "2026-10-05T08:28:42Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693093779095620884.txt"
   },
   {
@@ -1439,7 +1439,7 @@
    "caption": "לוקחים זבל, הופכים אותו לרהיטים נדירים - ותורמים את הכסף 💚 תכירו את J...",
    "posted": "1791188235",
    "found": "2026-10-05T08:29:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693094844234747188.txt"
   },
   {
@@ -1464,7 +1464,7 @@
    "caption": "\"ילדים אומרים 'אמא ואבא מתו', לשמוע את זה, זה אומר הכל\" ↓ עמית עידן, ...",
    "posted": "1791189008",
    "found": "2026-10-05T08:44:32Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693098185094532373.txt"
   },
   {
@@ -1475,7 +1475,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791190227",
    "found": "2026-10-05T08:59:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693103404842896648.txt"
   },
   {
@@ -1517,8 +1517,11 @@
    "caption": "לפני שנתיים נאנסה סטודנטית באוניברסיטת קורנל שבארה\"ב בידי שבעה גברים ...",
    "posted": "1791190800",
    "found": "2026-10-05T09:17:23Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693063205588880661.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693063205588880661.txt",
+   "insightIds": [
+    "ins-2026-10-05-crn7"
+   ]
   },
   {
    "id": "7693112051538988296",
@@ -1528,7 +1531,7 @@
    "caption": "״הקשר בין העם היהודי לעדה הזרוזית - הוא קשר של אחים.״💪🏻🥀",
    "posted": "1791192241",
    "found": "2026-10-05T09:30:17Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693112051538988296.txt"
   },
   {
@@ -1553,7 +1556,7 @@
    "caption": "\"הציבור יכריע\": איזנקוט הזמין את נתניהו לעימות בטלוויזיה יו\"ר \"ישר!\" ...",
    "posted": "1791192679",
    "found": "2026-10-05T09:44:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693113947515391252.txt"
   },
   {
@@ -1564,7 +1567,7 @@
    "caption": "‏#דואט עם @ahmad tibi #تجاهل #פוריו #בשבילך #ימין",
    "posted": "1791193147",
    "found": "2026-10-05T09:45:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693115958038105362.txt"
   },
   {
@@ -1575,7 +1578,7 @@
    "caption": "במהלך טקס הזיכרון הממלכתי ל-7.10,  אחד הנוכחים בקהל התפרץ לעבר השופט ...",
    "posted": "1791193014",
    "found": "2026-10-05T09:45:41Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693115380616727829.txt"
   },
   {
@@ -1586,7 +1589,7 @@
    "caption": "בכל מקום בארץ אומרים לי, רק ביחד נתקן! שיהיה לנו שבוע טוב עם ישראל אה...",
    "posted": "1791193601",
    "found": "2026-10-05T10:00:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693117909538786580.txt"
   },
   {
@@ -1597,8 +1600,11 @@
    "caption": "\"גם בחלוף 3 שנים, צרובות בנו השעות האיומות של מתקפת שמחת תורה\" ↓ דברי...",
    "posted": "1791194162",
    "found": "2026-10-05T10:01:32Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693120325839539508.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693120325839539508.txt",
+   "insightIds": [
+    "ins-2026-10-05-hst1"
+   ]
   },
   {
    "id": "7693120876258036993",
@@ -1608,8 +1614,11 @@
    "caption": "ראש הממשלה בטקס האזכרה הממלכתי לשבעה באוקטובר: \"מורשת הנופלים היא שלה...",
    "posted": "1791194293",
    "found": "2026-10-05T10:02:47Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693120876258036993.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693120876258036993.txt",
+   "insightIds": [
+    "ins-2026-10-05-hst1"
+   ]
   },
   {
    "id": "7693124822750088456",
@@ -1619,7 +1628,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791195215",
    "found": "2026-10-05T10:14:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693124822750088456.txt"
   },
   {
@@ -1650,7 +1659,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791195251",
    "found": "2026-10-05T10:30:32Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693124989591080200.txt"
   },
   {
