@@ -1100,12 +1100,23 @@
    "found": "2026-10-05T05:59:37Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693054711234104583.txt"
+  },
+  {
+   "id": "7692849933921078549",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7692849933921078549",
+   "caption": "\"הרגע שבו שמעון פרס, ראש הממשלה המיועד, הפך לראש הממשלה לשעבר\"👇 עשור ...",
+   "posted": "1791180000",
+   "found": "2026-10-05T06:13:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7692849933921078549.txt"
   }
  ],
  "health": {
-  "at": "2026-10-05T05:59:42Z",
+  "at": "2026-10-05T06:13:28Z",
   "channelsOk": 12,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
