@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-05T03:26:11.371Z",
+ "updated": "2026-10-05T03:38:23.773Z",
  "items": [
+  {
+   "id": "2868bc88e695",
+   "kind": "headline",
+   "title": "השב\"כ העביר מסמכי אזהרה למל\"ל, לשרה רגב ולמשרדה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558405#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-05T03:35:00.000Z",
+   "summary": "שלושה מסמכים הועברו לרגב, למשרד התחבורה ולמל\"ל ובהם התרעה כי טיסות בחכירה אינן נבדקות כנדרש • השב\"כ המליץ לשרת התחבורה מירי רגב להעביר את הטיפול לרשות התעופה האזרחית - אך המלצתו לא התקבלה • בכיר ביטחוני: \"השיקולים בהחלטת השרה לא היו ענייניים\" • הצבא האמריקאי פינה את מפציצי ה-B1 מהבסיס בבריטניה •…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1679224608/direct/regev_miri_cabinet_meeting_19-03-2023-1_ixeikl.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4e1332f9a184",
+   "kind": "headline",
+   "title": "Survey: Israelis feel more Middle Eastern, less connected to Europe in wake of Oct. 7",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dQbzVyR0dZVWJqeFpQUUJtbUI0a0RVVUVEMEpKZ2Q5Q0ZYSnZDSTA5aGUtc3lOd2VsNTRYWGlhdkFzOWItVk5ubzk2SDBYLWxON2kxUmdUUlhEenB5aDBGMVZJNUxDUVFNdlh6TkxETE0tM2p1YnE5V1gyeGhXbHlPczRfdlp5QnhuTzhLNzMwZlpfRTlmZEVHaHNUSWdrdWdtbEFpOS1YZm9VRXNfRFlpNNIBuAFBVV95cUxPOVNCaGZoVHhhZ0dpTENtYWVNSW81OExmR3lLX1VtRGp3alRFMDlIUk9sODAzLWEzUDFzRF81Skd2R2V3M3RZTEZDbllzR0x3cUljc015ejRzU1cyeUVJWkhTb1c2OW9pelFCYm5vSEJXLTlQWTZyLTdqcHJreGxiUDVESmZrb2xjUzNuVThFbURESjNtc3RIdEhfdzJsVFpqWUlHOVZTUks3ZVJuQVBVeUhyQ05ZdExm?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T03:13:37.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b1b21ee6f08a",
+   "kind": "headline",
+   "title": "מחקר חדש בטיפול בפוסט טראומה: 70% מהמשתתפים הציגו מגמת שיפור יומית",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yaW5LejJxazI2N2tMbHMxeHc5Qzk2QkZBVmVjalNpRUhCQnNBS2h1MEMzRXh3dDBaZDg5TWNtNFkweWtXajZKZVBFc01taG1YVTYwZE9JeHdaSXQzS2xVZHpn?oc=5",
+   "topic": "research",
+   "published": "2026-10-05T03:00:46.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "11f117608b15",
    "kind": "headline",
@@ -590,7 +632,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "iranintl.com"
+   ],
    "important": false
   },
   {
@@ -1420,7 +1464,8 @@
    "image": "",
    "score": 2,
    "alsoIn": [
-    "maariv.co.il"
+    "maariv.co.il",
+    "וואלה"
    ],
    "important": false
   },
@@ -1463,7 +1508,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Euronews.com"
+   ],
    "important": false
   },
   {
@@ -5873,50 +5920,6 @@
     "ynetnews.com"
    ],
    "important": false
-  },
-  {
-   "id": "53f7bd882e1b",
-   "kind": "headline",
-   "title": "Rafael Flores Jr. Rewarded GM’s Faith With Strong Rookie Year for Pirates",
-   "source": "Pittsburgh Baseball Now",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYm0xbkxndk9sY19wb0NMNEgzZi1NNG1yLThzNi0wNUNzaGJRTjJxVWVLR2NjYl9KTG1pazdTbDlLUGdxUkJrN3V3dVpoaEpJaUtpdlI0NHNhYTk5aEd6MV9qZVZrUlZlYVQ0VWJhUXdtbUJvcEJhaS0xbkNuQUZLa1AtVXRrcC0x?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T12:07:37.000Z",
-   "summary": "",
-   "score": 0,
-   "alsoIn": [
-    "pittsburghbaseballnow.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "9b143fb97382",
-   "kind": "headline",
-   "title": "\"The \"KAYO\" concept, criminal\"/ Ahmetaj published the wiretaps and accused Ron Yeffet of arms trafficking, the Israeli businessman shareholder of TIMAK and TIMAK Defence with entrepreneur Arjeta Puca",
-   "source": "balkanweb.com",
-   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQZ0FlMUtpS25vT3A5QjVzMGd3X3h6aE9DaklMUVg4OGNfcnk3NmxzbUY2VGk1QUlDcVVvY2ZjNlFmMS1BeGdFUUM1TjdKRUF3NGMwYmlyWk9Ec0s4NmFGSUt4U1BtMkVjS3JNcHAxQWdMMVkxalkwc3NYUkxxbmVoSDZLV0N6b3N0eTlOaUZfNmpUVFhDZXpldmd5ckhrSWpjSFpiUW9vbV80QnI1OGFGVlV5NndkX0l5bTlGN01wOGcxNE9xNDAwRVlKU2w2VkQ3T2xXbG82QTJ6QlhtcEJaVzIyN0FzRlRyQ0otOWotUVVkSWoxVG5CX3RkWmtKeXdCclZJYWFFU2twYVBxNzFLRkRyTlZhRko2WEtheGFWWXpnZ1JpcWRBOXhFUlRvczRKZDlpRQ?oc=5",
-   "topic": "defense",
-   "published": "2026-10-02T12:02:00.000Z",
-   "summary": "",
-   "score": 1,
-   "alsoIn": [
-    "Balkanweb.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "121ff7fd0ab3",
-   "kind": "headline",
-   "title": "US leaders send mixed messages to Indo-Pacific nations",
-   "source": "Defense News",
-   "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/us-leaders-send-mixed-messages-to-indo-pacific-nations/",
-   "topic": "world",
-   "published": "2026-10-02T11:55:33.000Z",
-   "summary": "U.S. military allies in the Indo-Pacific region are wary of President Donald Trump's apparent overtures to China's leader Xi Jinping.",
-   "score": 0,
-   "alsoIn": [],
-   "important": false,
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T74RW7QBDFDE3IYPODTAE6EWWQ.jpg"
   }
  ]
 }
