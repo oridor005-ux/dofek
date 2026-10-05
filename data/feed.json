@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-05T10:04:25.429Z",
+ "updated": "2026-10-05T10:15:50.086Z",
  "items": [
+  {
+   "id": "16f81724414d",
+   "kind": "headline",
+   "title": "המסחר בתל אביב עובר לירידות שערים בהובלת סקטור הבנייה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-05T10:08:00.000Z",
+   "summary": "הבורסה בתל אביב נסחרת במגמה שלילית: בהובלת מניות הבנייה והביטוח, האנרגיה שוחה נגד הזרם • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות ספטמבר ההפכפך,…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9648eebd3304",
    "kind": "headline",
@@ -5902,22 +5916,6 @@
    "score": 0,
    "alsoIn": [
     "bssnews.net"
-   ],
-   "important": false
-  },
-  {
-   "id": "f9d58163f00f",
-   "kind": "headline",
-   "title": "Voters in Latvia are electing a new parliament amid rising living costs and national security concerns",
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2c0MDNlR3JaYmphUE9iWWE0aFNDM1BOMGJSUXBOWFU0YXB4a0NCTVgyaS03bkYzTkU2REhFLTJRaEg4UllGUUNPVlVsUlVUVVJGMW5qNVl4OThtRGdEbnlGTTVaTnBpTTUtMVpLOUxIcjVqVENtaXRlci1wNjdaVmtXRVE2LUVXeFFTQ3gtc1ZxbmfSAZMBQVVfeXFMT3NMclNST3hqR09IeThIMUV6bjNOdzJDRm52MkFzcHg5UTRGSlRYQWJhTWJXRWN4Z0FEMVRXN3BPTzRIZEZqZjBhb0NhTFNVQW9XRDhBU3VkSVBIRXRLLU5sZ3FJalZNRk10a1B4QTR1eUVYRUp1UThPQkhnT0VTY3MyUm4wNjY3eGlzbUtnZWZtcFBR?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T06:11:12.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "dw.com"
    ],
    "important": false
   }
