@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T16:20:03.500Z",
+ "updated": "2026-10-05T16:32:20.636Z",
  "items": [
   {
    "id": "d92e0dac914f",
@@ -12,6 +12,34 @@
    "summary": "The justices began their new term with a landmark dispute over whether local governments can hold oil companies liable for damages from climate change.",
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05dc-scotus-suncor-topart-02-vfmw/05dc-scotus-suncor-topart-02-vfmw-mediumSquareAt3X.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "09314d24b6e7",
+   "kind": "headline",
+   "title": "השכר ממשיך לעלות: 14,534 שקל בממוצע ביולי",
+   "source": "ביזנעס",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNbnpFbU1HWkFlMmZrLWNhN0dTSFFRdDJIRHVkemNaYTFidzhDay1UN01WR2szRElnemFOenZjdVFUaGV2aWZBODl0NGwzeS1PbUx1VFJ5Z0Mxa1JQdUNMcDlIaTVrNmRnaVJYZ1NqcXFicFZpRmVQdzVWeTg4dUNOYThVT3dyNzFBOWZ1Y29MUlE2ZmZtWVZEZnBBNzB2ZHBubHZtYXItUFJ0OU9zRXJlSnc1c2lXTHdJTXA3RUgtblJIck9nSWZ5MUhra01FU0EtbkRERlljdExSaTNqWmo5Q1AwaUdZT3JSSVZIN2wzWWdPZERBaGR4LWdaTWg4TUVTNXdxTGNKd3hDRVJMV3RUaW5TY1hBNi0zdTdrTjNJcVBqOWNYZTVETg?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T16:10:16.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "771beef513b6",
+   "kind": "headline",
+   "title": "Sanction Israel to save Palestinian state, officials tell EU",
+   "source": "The New Arab",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVYZElkVmJmRWwzTkFVcWtTUU5PWHN4Y2hlaXVXOFBhbktBUjBkN2NFQnRpeDQxRzRBWFJGVlhWbGMxVVZNNmpGdWZNZGdoOGRMWjl3S0xUbElMd1V6bFB5WFZRckpCYXhOcUhGM2RjQ0NOVC1CRHJrU09JOV9ma1BKdkpTQ09jdnBWa0t3?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T16:08:51.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -40,7 +68,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Times of Israel"
+   ],
    "important": false
   },
   {
@@ -82,7 +112,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "israelhayom.co.il"
+   ],
    "important": false
   },
   {
@@ -96,7 +128,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ice (אייס)"
+   ],
    "important": false
   },
   {
@@ -138,7 +172,9 @@
    "summary": "Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v3.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "nytimes.com"
+   ],
    "important": false
   },
   {
@@ -228,6 +264,20 @@
    "important": false
   },
   {
+   "id": "e9616173dbc8",
+   "kind": "headline",
+   "title": "מתמיכה רחבה לבידוד בעולם: איך דעת הקהל התהפכה על ישראל אחרי 7 באוקטובר?",
+   "source": "כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3Q0JSZGlJNVhmcGx6MnFiWWhoV1FSNWtaTkdGQXFubDFBU1lyWXFScXZWRFpoMW9Ya0YyWlpJUGwxVHV2X3VxRDNLTXVhVUM1OWFTcFNOREJVRHJ3Z014Tk5wV2Q?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T14:23:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c4e4ba353f58",
    "kind": "headline",
    "title": "מחקר: צניחה בתחושת הביטחון של יהודי בריטניה",
@@ -296,7 +346,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "bhaskarenglish.in"
+   ],
    "important": false
   },
   {
@@ -352,6 +404,20 @@
    "summary": "במסגרת העסקה, דלק ישראל וקרן קיסטון רכשו 40% כל אחת מהוט מובייל, ולאומי פרטנרס 20%, לפי שווי של כ-1.88 מיליארד שקל",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/22/HySUS5U6be/HySUS5U6be_0_563_3000_1688_0_medium.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "be16ceabb5a8",
+   "kind": "headline",
+   "title": "What the first Results showed us: SBiH is the biggest Winner of the Election, DF and Our Party the biggest Losers",
+   "source": "Sarajevo Times",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdHZMdzV1bDVZLU8wMzZRM1ZQRmFXUTB5QldEOU5wWmRoUlFpdVJiNlNYY09jQV96UkdlUUQ4azlrTEZaS3o0bWl0TXIyMU1DVVJZZTh5Z1gwSUFiU1NXQ1NoSDMxTmVCZXp2SWhFSzViR1ZvQmVKV0pEVTZ0TFgtUGZqX3J3MGdTVGZucmhlY0xTQzRjaTFQZnhPZGdmS3VzbmNUek15cEVac1FESjR6X0RtNHlhU1hqWUU4bUxSTWR2LUVjS0hJRGdWUTRCLWozQ010NNIB1AFBVV95cUxNdHZMdzV1bDVZLU8wMzZRM1ZQRmFXUTB5QldEOU5wWmRoUlFpdVJiNlNYY09jQV96UkdlUUQ4azlrTEZaS3o0bWl0TXIyMU1DVVJZZTh5Z1gwSUFiU1NXQ1NoSDMxTmVCZXp2SWhFSzViR1ZvQmVKV0pEVTZ0TFgtUGZqX3J3MGdTVGZucmhlY0xTQzRjaTFQZnhPZGdmS3VzbmNUek15cEVac1FESjR6X0RtNHlhU1hqWUU4bUxSTWR2LUVjS0hJRGdWUTRCLWozQ010NA?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T13:30:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -833,7 +899,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "ashdod-haredim.co.il"
+   ],
    "important": false
   },
   {
@@ -996,7 +1064,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "mako.co.il"
+   ],
    "important": false
   },
   {
@@ -5862,66 +5932,6 @@
    "alsoIn": [
     "the7eye.org.il"
    ],
-   "important": false
-  },
-  {
-   "id": "0fbdd9ea4d68",
-   "kind": "headline",
-   "title": "Netanyahu, in Tough Election Fight, Embraces Those Who Stopped FlyDubai Attack",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/middle-east/netanyahu-in-tough-election-fight-embraces-those-who-stopped-flydubai-attack-68366a96?mod=rss_worldnews",
-   "topic": "knesset",
-   "published": "2026-10-03T19:30:00.000Z",
-   "summary": "The attack fits into the prime minister’s pitch that Israel is under attack from all sides and only his right-wing coalition can protect it.",
-   "image": "https://images.wsj.net/im-39111328",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "fc6e578c13df",
-   "kind": "headline",
-   "title": "Netanyahu's secret UAE trip: What is Israel's military censorship really for? - opinion",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MX0t4Qmotb2s3TzlmYmJFTk1xalh3aUhPZldPdFEzM01VaGlqY2ppOU1nNElRYmlVRXhia1QyOHN4bV9iRXVicUlVWWhIcjhSTHYyUUdtWQ?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-03T19:19:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "jpost.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "e3c268dcb5cc",
-   "kind": "headline",
-   "title": "Latvian PM's alliance set for clear election win, exit poll shows",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmthWWoxT3Y1azY2TVluejlkaHR4aVZpZWh1dklBcG0tb1ZIMnM0d3ZpQzZIcjE1bWFDNFBUdC1pZ1JGbkRWZm1NZ3VCVWkwWTE2NTllMU5OYms4eFRjQ1VyaW1aTzJxYmpsUzZDbFdFX1FEMGQ3dEtqSy0wSldIYzc5akJvZHFacTBwWTZUX3g?oc=5",
-   "topic": "world",
-   "published": "2026-10-03T19:18:26.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "yahoo.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "d20207b05e81",
-   "kind": "headline",
-   "title": "Rockets waive two-way center Rafael Castro",
-   "source": "The Dream Shake",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVVieFFaSWZsM0RxU1V2TFpfaWkwelFETDNGZ2w1R0FmenBIVEJUbmNCTHJkNlQtQjlRYlA5UlBvTG9lUmlNc1YxUU4xX2FSZ1plQ0V2cTQ1OTNKSFFma1d1Sm1zcy04ajRSbk90ZXdIVWtJZ3hnaEpwbDZBV3d4Z1FUVDAtVlAwc1RvbjRxUmZkYzhheHh0WUZTUVg2QUpY?oc=5",
-   "topic": "defense",
-   "published": "2026-10-03T19:14:16.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
