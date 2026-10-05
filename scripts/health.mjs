@@ -80,5 +80,17 @@ for (const k of Object.keys(hs.open)) {
   if (onlyFrom && onlyFrom !== WHO) continue;
   if (!problems[k]) { await send('✅ חזר לעבוד', `נפתר: ${hs.open[k].text}`, 3); delete hs.open[k]; changed = true; }
 }
+// 6. ערוצי טיקטוק חדשים: הודעה למנהל כשערוץ שנוסף ל-config.json מתחיל להופיע (פעם אחת לכל ערוץ)
+const live = new Set((videos.items || []).map(v => v.channel));
+const configured = (config.tiktokChannels || []).map(c => (c.handle || c).replace(/^@/, ''));
+if (!Array.isArray(hs.channelsSeen)) { hs.channelsSeen = configured.filter(c => live.has(c)); changed = true; }
+else {
+  const fresh = configured.filter(c => live.has(c) && !hs.channelsSeen.includes(c));
+  if (fresh.length) {
+    await send('📺 ערוצים חדשים בדופק אמיתי', `מעכשיו נבדקים גם: ${fresh.join(', ')} (${configured.length} ערוצי טיקטוק במעקב).`, 3);
+    hs.channelsSeen.push(...fresh);
+    changed = true;
+  }
+}
 if (changed) fs.writeFileSync(P('data/health.json'), JSON.stringify(hs, null, 1) + '\n');
 console.log('health:', Object.keys(problems).length ? problems : 'ok');
