@@ -90,10 +90,12 @@
   "171b48c9ca0e",
   "ins-2026-10-06-mg71",
   "ins-2026-10-06-ld42",
-  "a871738f68e2"
+  "a871738f68e2",
+  "ins-2026-10-06-bn13",
+  "ins-2026-10-06-wn18"
  ],
  "pending": [],
- "lastRun": "2026-10-06T14:05:54.847Z",
+ "lastRun": "2026-10-06T14:06:15.810Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -120,8 +122,8 @@
    },
    "at": "2026-10-06T13:42:15.841Z"
   },
-  "lastNewItemAt": "2026-10-06T14:05:54.847Z",
-  "lastPushOkAt": "2026-10-06T12:54:36.920Z",
+  "lastNewItemAt": "2026-10-06T14:06:15.810Z",
+  "lastPushOkAt": "2026-10-06T14:06:15.810Z",
   "googleOkAt": "2026-10-06T13:42:15.841Z"
  },
  "lastFullAt": "2026-10-06T13:42:15.841Z",
