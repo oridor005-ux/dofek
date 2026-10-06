@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T13:54:21.793Z",
+ "updated": "2026-10-06T14:05:54.847Z",
  "items": [
+  {
+   "id": "071ad9a38106",
+   "kind": "headline",
+   "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
+   "topic": "world",
+   "published": "2026-10-06T13:57:13.000Z",
+   "summary": "A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank. It was not immediately clear where the drones originated.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-bulgaria-drones-wqcb/06int-bulgaria-drones-wqcb-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6366fb6394c6",
    "kind": "headline",
@@ -11,6 +25,20 @@
    "published": "2026-10-06T13:34:00.000Z",
    "summary": "מדדי הנאסד\"ק וה-S&P 500 בדרך לפתוח את היום בטריטוריית שיא • עליות גם באירופה • מחיר נפט מסוג ברנט ירד מתחת ל-100 דולר לחבית • בורסות אסיה נסחרו במגמה מעורבת, אחרי שהנאסד\"ק טיפס אמש לשיא חדש - מניות ענקיות הטכנולוגיה הובילו את הראלי • וגם: SpaceX של אילון מאסק זינקה לאחר המלצה של מורגן סטנלי,…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6e945c316ced",
+   "kind": "headline",
+   "title": "ביום השנה ל-7.10: המל\"ל באזהרה לישראלים בחו\"ל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558513#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-06T13:32:00.000Z",
+   "summary": "דיווח ב\"ניו יורק טיימס\": 12 מפציצים אמריקאים הוצאו מבסיס חיל האוויר הבריטי פיירפורד בשל חשש למתקפת רחפנים איראנית • הקואליציה בראשות סעודיה הנלחמת בחות'ים: ביצענו \"מבצע צבאי גדול\" במחוז חודידה בתימן • דיווחים שוטפים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1747737796/direct/AP25138543055459_u1a6mm.jpg",
    "score": 1,
    "alsoIn": [],
    "important": false
@@ -5842,34 +5870,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "442cf41314a6",
-   "kind": "headline",
-   "title": "הבעלים שמורווח מיליארדים והפזילה למדד הדגל: הכול עובד לטובת אל על",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558374#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T02:55:00.000Z",
-   "summary": "הפחד בשמיים מתורגם לראלי בבורסה: זינוק של 13% במניית אל על הוביל אותה לשווי שיא, ומניב לבעל השליטה קני רוזנברג רווח על הנייר של כ&ndash;4 מיליארד שקל על השקעתו, בתקופת הקורונה • וגם: חלום הכניסה למדד ת\"א 35 וההשפעה האפשרית על כרטיס פליי קארד",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1755073042/direct/787_%D7%91%D7%90%D7%95%D7%95%D7%99%D7%A8_fo4odh.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "1cb1c6f60cb7",
-   "kind": "headline",
-   "title": "הכמעט אסון בטיסת פליי דובאי עשוי לשלוח את על אל למהלך היסטורי",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558374#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T02:55:00.000Z",
-   "summary": "הפחד בשמיים מתורגם לראלי בבורסה: זינוק של 13% במניית אל על הוביל אותה לשווי שיא, ומניב לבעל השליטה קני רוזנברג רווח על הנייר של כ&ndash;4 מיליארד שקל על השקעתו, בתקופת הקורונה • וגם: חלום הכניסה למדד ת\"א 35 וההשפעה האפשרית על כרטיס פליי קארד",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1755073042/direct/787_%D7%91%D7%90%D7%95%D7%95%D7%99%D7%A8_fo4odh.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
