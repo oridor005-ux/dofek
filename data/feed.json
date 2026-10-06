@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T10:42:06.451Z",
+ "updated": "2026-10-06T10:55:12.350Z",
  "items": [
+  {
+   "id": "2b42022ea1c2",
+   "kind": "headline",
+   "title": "עובדי חברת השבבים שנמכרה לאנבידיה במיליארדים טוענים: העסקה לא חוקית - ויש גם זווית ישראלית",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558545#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-06T10:51:00.000Z",
+   "summary": "שני עובדי גרוק לשעבר, שמחזיקים במניות החברה, טוענים כי החברה נמכרה בהליך לא חוקי • לטענת התובעים, גרוק נמכרה ללא הצבעת בעלי מניות כנדרש, וללא תהליך תחרותי שהיה יכול להעלות את מחיר החברה • כך עובדת השיטה החדשה בעמק הסיליקון",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1764086618/direct/AP25304273141314_fk0uq5.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "25008621053e",
    "kind": "headline",
@@ -5866,20 +5880,6 @@
    "alsoIn": [
     "אמס"
    ],
-   "important": false
-  },
-  {
-   "id": "ec46edf7d853",
-   "kind": "headline",
-   "title": "Next elections will be held under legal timetable of 2013 Constitution, new Constitution if passed will come into force on 31st March 2028",
-   "source": "Fijivillage",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWG5VWV9kc1R1d001OHpYWjVQRmEzUDZzUVN0ZEVTV1lCRk41SmEwT284TUJiVWtrd3FBNWFTcjdUN0hDWWtSNWhBdGRCRjhmX0FaNXhITl95T1BnZERkNllBcWY4NE5oQzRRUDZkUWV3bWV0X1dZWVZjUXp4UE1uWHBVRnBxUDJMcF8yQnd4YU9hajlteUtaM3FVMGlSOVIyR05YempiYkZURUg4N2cwbHkxYkpzTHROYWNkek53V01DMVB3UXN1NEdRaWpWTUR4VnktU2Z0SFl5ejdKQWhPN0ZnQ2JrOVJEY2FlT2JoZERweVZPR0RET3lzejBfQ0VnQ2FYWHU5YTYtUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T17:35:09.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
