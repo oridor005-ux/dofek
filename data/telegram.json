@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65570,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:19.283Z"
+   "checkedAt": "2026-10-06T18:28:51.372Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
-   "lastId": 7253,
+   "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:20.030Z"
+   "checkedAt": "2026-10-06T18:28:51.981Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
-   "lastId": 2989,
+   "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:20.743Z"
+   "checkedAt": "2026-10-06T18:28:52.572Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:21.481Z"
+   "checkedAt": "2026-10-06T18:28:53.173Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19289,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:22.240Z"
+   "checkedAt": "2026-10-06T18:28:53.772Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:22.991Z"
+   "checkedAt": "2026-10-06T18:28:54.392Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:23.876Z"
+   "checkedAt": "2026-10-06T18:28:55.011Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131475,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:24.702Z"
+   "checkedAt": "2026-10-06T18:28:55.654Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74703,
+   "lastId": 74704,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:25.330Z"
+   "checkedAt": "2026-10-06T18:28:56.189Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:26.117Z"
+   "checkedAt": "2026-10-06T18:28:56.860Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
-   "lastId": 11062,
+   "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-06T18:16:26.863Z"
+   "checkedAt": "2026-10-06T18:28:57.500Z"
   }
  },
  "posts": [
@@ -1122,13 +1122,51 @@
    "date": "2026-10-06T18:10:08+00:00",
    "text": "🔴 זיני הזהיר בקבינט: יש התארגנויות טרור מדאיגות מאוד בפזורה הבדואית\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "bnetanyahu/7254",
+   "channel": "bnetanyahu",
+   "name": "בנימין נתניהו",
+   "url": "https://t.me/bnetanyahu/7254",
+   "date": "2026-10-06T18:27:49+00:00",
+   "text": "לאיזנקוט אין ממשלה בלי יאיר גולן והמפלגות הערביות\n(קרדיט: שבע עם שלזינגר, ערוץ 14)",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "gideonsaar/2991",
+   "channel": "gideonsaar",
+   "name": "גדעון סער",
+   "url": "https://t.me/gideonsaar/2991",
+   "date": "2026-10-06T18:23:50+00:00",
+   "text": "צפו בנאום המלא שנשאתי בהר הזיתים בירושלים, בפני יותר מ-1,000 מנהיגים נוצרים מ-117 מדינות שהגיעו לארץ בהובלת משרד החוץ☝🏽",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74704",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74704",
+   "date": "2026-10-06T18:22:03+00:00",
+   "text": "🔴 רשות האוכלוסין: הפרסומים ש-1,200 אנשי צוות ממדינות עוינות נכנסו לישראל - שקר\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "shakuf/11063",
+   "channel": "shakuf",
+   "name": "שקוף - חדשות, שקיפות, אקטיביזם",
+   "url": "https://t.me/shakuf/11063",
+   "date": "2026-10-06T18:19:15+00:00",
+   "text": "בדקנו 10 מקרים מהעולם שבהם אחריות פוליטית לא נשארה סיסמה.\nשרת הבריאות בפורטוגל התפטרה אחרי ביקורת על סגירת שירותי חירום ליולדות, ועל רקע מותה של אישה הרה במהלך העברה באמבולנס. שר בדנמרק התפטר אחרי החלטה ממשלתית לא חוקית. בבריטניה שרים הודחו או פרשו בעקבות הפרות של הקוד המיניסטריאלי.\nאחרי המחדל בטיסת פליי דובאי, הגיע הזמן לשאול: למה מירי רגב עדיין בתפקיד?\nלכתבה של שבי גטניו >> https://shakuf.co.il/64951\n==\n💙 הצטרפו לנבחרת המו״לים שלנו: https://shakuf.co.il/join\n👋 לעדכוני \"שקוף\" בטלגרם: https://t.me/shakuf",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T18:16:27.263Z",
+  "at": "2026-10-06T18:28:57.900Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 51
+  "added": 4,
+  "pendingNew": 55
  }
 }

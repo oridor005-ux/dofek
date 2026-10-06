@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T18:27:38.086Z",
+ "updated": "2026-10-06T18:27:57.650Z",
  "items": [
+  {
+   "id": "71c320a9e885",
+   "kind": "headline",
+   "title": "Six O'Clock News | French police fire tear gas at school protesters",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OSzlXRG1kc0pha3ZoT1pqVmlXSGFxV2pxOWxxNF9GSGNKcFFzenlNNXNuZlFScGI4YTFEdkhJVS15OG40V3lqcllIS0NHM24w?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T18:22:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "ed9241e265bb",
    "kind": "headline",
@@ -114,6 +128,20 @@
    "important": false
   },
   {
+   "id": "6da982595de6",
+   "kind": "headline",
+   "title": "Ministers Comment on Quebec Election Results",
+   "source": "CPAC",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3pVZDVkLUNQTWQ5MDhXOXUxVDdvbmI2SjRJOU9tZ1VvcGNDWnI2YmpUemN6T2YzSWItVkZJRTVRYVItajdwaHA3SW41QnU3aXZqUWk2dDdlaS1hUzFRRVNaWEk3VU16Y09DaFBxVXNsTEV4RDllM2tPTnhrS2JtQzc5S2pLVFl6VW9qMUZWSGpES3hTU2tvQmNPakxxYXZva3NhUXNkTTVuUmFQM1ZnelpBbkItelR3VldB?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T16:23:54.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "6864452713f1",
    "kind": "headline",
    "title": "הבטיח דירה לאשתו בפרידה. העיכוב ברכישה יעלה לו כמיליון שקל",
@@ -180,7 +208,9 @@
    "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The New York Times"
+   ],
    "important": false
   },
   {
@@ -265,6 +295,20 @@
    "published": "2026-10-06T15:44:00.000Z",
    "summary": "דיסקונט מתכנן להשלים את מהלך המיזוג ככל שיתקבלו האישורים הנדרשים, כבר במהלך 2027 • החסכון עדיין לא הוצג לציבור, אך מדובר בתוכנית פרישה מרצון גדולה. מרכנתיל יישמר כמותג בנקאי • לאחר נפילת עסקת כאל, התעניינות מחודשת ברכישתה על ידי גורמים מישראל ומחו\"ל",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5fcbb903b059",
+   "kind": "headline",
+   "title": "סיכום המסחר בבורסה: נקסט ויז'ן צללה, מגמה מעורבת בטכנולוגיה",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ENWthd2hianBDRElCdWN2blZqaXN0ZmFlSGRhTXZ0QWtCM2l1NVlaOXRIUFFYbDhadVd1b2s5Z1dzUS1FR20zNmFGX19xQW5XRnlZRzA2T0R6MkpOd2lZ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T15:33:24.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -606,6 +650,20 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "72b514c2c1a9",
+   "kind": "headline",
+   "title": "British support for Israel is shattering",
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE1KaHlla2c3THBNSWdpbkFlamQtZFlFR1dMNmxEZVUyd1hjSTdlLWFfM0V5XzFUQlhXUUljOHdfdzktcUI1OFRIS3Q1ZVk2Wk1ucVpZN0VGYTRUczhLR1UxQ0NCSTlUbTNFVkxfRGlWd0k5SlQ1c1hjS0ZqLTVKMUlTYU9YNVE?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T12:54:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "770f0c03676c",
@@ -5787,68 +5845,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1787566268/2026-01-20T124808Z_1149863023_RC205JAS0XAK_RTRMADP_3_DAVOS-MEETING_nbnhtt.jpg",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8b0ab1566f4f",
-   "kind": "headline",
-   "title": "Sánchez dissolves Parliament and calls a general election for 29 November",
-   "source": "Atalayar",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHVyam4xLTdzUnVpbmJTWmdiZjRJdWoxd1QtTGotdnVzMUdhRjVfc3M3M2psTEFsRS1MajI2RlVCT2FEcUNicDlfVWRZOGdMbXhOcVI3aVRORVhob3FKc1BxQng4NHhVX0lrS1dlRGRkLTFLMU8wSHQzM3l3bmE0bkRidHlidWY4MXN6d3NfTmh0M25qSVZYS0IyS1NxaFRBWFpnWWtpTlpSX0NxSGVtaDRnUEVhSl9NOGxBVHctWVZOWHE3NGVZRVF4dXhveDNXWUF1WEI4cnk3RGc?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T07:54:43.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "atalayar.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "a5a9df624d86",
-   "kind": "headline",
-   "title": "תעשיית קרנות הנאמנות שוברת שיאים: הצמיחה המרשימה בבורסה",
-   "source": "ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0eWNUMHQwQVBQRFN3aTRVQ094UHZNZWMyTnRBNThWVGVIVEctcHJ4YjB6LU54WTNCbXhtMWdvQk1HbXNrSFZIYTFBMGlxekhkMkFFdjV1MVEzR1JPbDBr?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T07:52:46.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "ice.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "990009ea324a",
-   "kind": "headline",
-   "title": "התפתחות דרמטית: המצור האיראני נשבר, הישג עצום לארה\"ב",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558405#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-05T07:43:00.000Z",
-   "summary": "נתונים חדשים מצביעים על זינוק נוסף ביצוא הנפט ושבירה בפועל של מנוף הלחץ האיראני העוצמתי • ביותר דביר רובינשטיין, מנהל ביטחון התעופה במשרד התחבורה - אחראי בין היתר על הקשרים עם חברות התעופה הזרות • במקביל הוא משמש כפרילנסר ומספק ייעוץ והדרכות לאותן חברות תעופה - במה שנראה כניגוד עניינים חריף • שלושה…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781534853/direct/2-3-800_hih9km.png",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ad73f6031c5c",
-   "kind": "headline",
-   "title": "Spain's Pedro Sanchez calls general election on November 29",
-   "source": "Gibraltar Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2lSM2dIOWJ3NzlYa3RUSWJreXZqYnlEQzB2VEw1QzJjRWN1WGwyRHNUYXFHZkFtMlRISk1sclFyeGdxNHZqbE1DbE9aVWNFV252UVJuMFpiRGV0UTlFVW1PR3RWWHhkdnpWeE9hNDJjd2FSUlFESzNoYmQ1UlNKdDY2SUxFNWF2WjA0Qw?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T07:41:14.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "chronicle.gi"
-   ],
    "important": false
   }
  ]
