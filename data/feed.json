@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T09:07:54.522Z",
+ "updated": "2026-10-06T09:19:17.872Z",
  "items": [
   {
    "id": "16b992787791",
@@ -25,6 +25,20 @@
    "published": "2026-10-06T09:03:46.000Z",
    "summary": "The eviction of an 87-year-old woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-spain-assess-1-hmqc/06int-spain-assess-1-hmqc-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "267e1cad9a2e",
+   "kind": "headline",
+   "title": "Cornell Case Highlights Drop in Resolved Sexual Assault Cases Under Trump",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-cornell.html",
+   "topic": "world",
+   "published": "2026-10-06T09:03:25.000Z",
+   "summary": "The administration has shifted its enforcement of a civil rights law from allegations of sexual misconduct to issues like blocking protections for transgender students.",
+   "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03dc-trump-cornell-01-zvpj/03dc-trump-cornell-01-zvpj-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -159,6 +173,20 @@
    "id": "9d717197e4dd",
    "kind": "headline",
    "title": "\"פידליטי הרוויחו פי 2 על ההשקעה שלהם בנקסט ויז'ן - הם מנהלים סיכונים\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558525#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T08:15:00.000Z",
+   "summary": "בבנק ההשקעות אופנהיימר מעריכים כי עסקת הענק במסגרתה מכרה פידליטי מניות נקסט ויז'ן בסך כולל של 1.3 מיליארד שקל משקפת מימוש רווחים, ולא משהו שהשתנה בעסקי החברה • עמרי עפרוני, אנליסט התחום הביטחוני של הבנק: \"רואים שכל המכפילים של החברות הביטחוניות ירדו בכ-30% בממוצע, אבל בישראל זה קצת יותר חזק\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1747303117/direct/WhatsApp_Image_2025-05-15_at_11.56.48_iyzuol.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1d54b1e0c692",
+   "kind": "headline",
+   "title": "אנליסטים מעריכים: למה פידיליטי מימשה מניות בנקסט ויז'ן?",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558525#utm_source=RSS",
    "topic": "econ",
@@ -5860,36 +5888,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "edbab2f378b6",
-   "kind": "headline",
-   "title": "\"לא הניבה הכנסות מעולם\": חברת המכשור הרפואי של שמעון אקהויז מבקשת להיסגר",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558361#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-04T14:20:00.000Z",
-   "summary": "פילטרלקס מדיקל, שאקהויז הוא בעל המניות בה, פנתה לבית המשפט בבקשה לצו לפתיחת הליכים, עם חובות של 1.3 מיליון שקל &bull; החברה פיתחה מערכת להגנה מפני שבץ במהלך צנתור, אך מחקר על מוצר מתחרה ערער את הפוטנציאל המסחרי של התחום והקשה עליה לגייס הון",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1629623234/direct/%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%90%D7%A7%D7%94%D7%95%D7%99%D7%96_%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%AA%D7%95%D7%9E%D7%A8_%D7%A9%D7%9C%D7%95%D7%9D_beklgg.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c090a59a095f",
-   "kind": "headline",
-   "title": "Flydubai attack conspiracies fact-checked: What the evidence really shows",
-   "source": "ynetnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kbjlveklhQnNwR1J5cjBIVlhLdlpScG0zX2ZmaUhZcXRCN0Q2SzlTTW5MeWJCVGoybVVMMzVmV2Ftbk94SHJDb295WHpDazVSR0lERFp3?oc=5",
-   "topic": "factcheck",
-   "published": "2026-10-04T14:09:47.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "Ynetnews"
-   ],
    "important": false
   }
  ]
