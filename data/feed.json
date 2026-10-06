@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T22:49:14.837Z",
+ "updated": "2026-10-06T23:00:45.695Z",
  "items": [
+  {
+   "id": "46fb10408722",
+   "kind": "headline",
+   "title": "How a Maryland Shipyard Turned Into a Squabble Between Trump and Wes Moore",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-maryland-submarines-anduril-baltimore.html",
+   "topic": "world",
+   "published": "2026-10-06T22:48:56.000Z",
+   "summary": "President Trump traveled to Baltimore to announce a major investment that he said would create new jobs. Gov. Wes Moore of Maryland, a Democrat, says he deserves credit, too.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-trump-new-vtpb/06dc-trump-new-vtpb-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b90e83ee8d43",
    "kind": "headline",
@@ -3949,6 +3963,20 @@
    "important": false
   },
   {
+   "id": "defd2be2bca8",
+   "kind": "headline",
+   "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+   "topic": "world",
+   "published": "2026-10-05T18:21:48.000Z",
+   "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.",
+   "image": "https://static01.nyt.com/images/2026/10/05/world/05int-turkey-banned-book-Imamoglu/05int-turkey-banned-book-Imamoglu-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "5c5e07f4bcb4",
    "kind": "headline",
    "title": "Bosnian Election Sees Record Low Turnout, Dodik Triumphant, Presidency Reshaped",
@@ -5793,36 +5821,6 @@
    "alsoIn": [
     "zman.co.il"
    ],
-   "important": false
-  },
-  {
-   "id": "974a1917c935",
-   "kind": "headline",
-   "title": "Protestuesit para Kuvendit: S’largohemi pa e votuar ndryshimin e Ligjit për Specialen edhe në lexim të dytë",
-   "source": "Reporteri.net",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNzlqODZxYTNnNWhaU3F6OGdVaXpPcnVxZXY0alBWV3ZwNUlieDFBZkQtS09SdGlFSERsNGpNWThDQ1dMZUpwX1ExbTNuZXIyNkRyREYzWTBBeHlOQzdza0x2bUxXVHZaR2wzY3dHeWIxOVFOUWdYcG9KVTAzeW9aeUhmVmtDSWN2YzROS2g2aVpINjhiVklVV01JSV9leXlPWU5BcVVDTHAzck1qX0tzbk1QUjJGYnhKWVAwZzMxRFZ4R25LX2lLWmdHZDdSdkVQLUdvUzBpcWNNU0NrcG9TTEJNVlJjVkJLeFNybjdCR2xUbE9I?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T09:27:16.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "reporteri.net"
-   ],
-   "important": false
-  },
-  {
-   "id": "defd2be2bca8",
-   "kind": "headline",
-   "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
-   "topic": "world",
-   "published": "2026-10-05T09:23:00.000Z",
-   "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.",
-   "image": "https://static01.nyt.com/images/2026/10/05/world/05int-turkey-banned-book-Imamoglu/05int-turkey-banned-book-Imamoglu-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
