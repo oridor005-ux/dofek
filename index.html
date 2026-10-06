@@ -426,7 +426,7 @@ async function load(){
   $('#refresh').classList.remove('spin');
   if (store.get('read', null) === null) { markRead([...feed.items, ...insights.items].filter(i => Date.now() - new Date(i.published) > 12*3600e3).map(i=>i.id)); render(); }
   store.set('seen', [...new Set([...feed.items.map(i=>i.id), ...seenBefore])].slice(0, 1500));
-  routeHash();
+  if (!routeShare()) routeHash();
   refreshSub();
 }
 
@@ -447,6 +447,15 @@ window.addEventListener('popstate', () => { sheetPushed = false; if (isOpen()) h
 $('#scrim').onclick = closeSheet;
 $('#sheetClose').onclick = closeSheet;
 let routed = false;
+function routeShare(){ // שיתוף מאפליקציה אחרת (X, טלגרם, דפדפן) ישר ל"שלח לבדיקה"
+  const q = new URLSearchParams(location.search); if (!q.has('surl') && !q.has('stext')) return false;
+  const all = [q.get('surl'), q.get('stext'), q.get('stitle')].filter(Boolean).join(' ');
+  const link = (all.match(/https?:\/\/\S+/) || [''])[0], rest = all.replace(link, '').trim();
+  history.replaceState(null, '', location.pathname);
+  if (!OWNER) { toast('רק המנהל יכול לשלוח לבדיקה'); return true; }
+  openAsk(); $('#askLink').value = link; if (rest && rest !== link) $('#askText').value = rest.slice(0, 1000);
+  return true;
+}
 function routeHash(force){
   const h = decodeURIComponent(location.hash.slice(1)); if (!h || (routed && !force)) return; routed = true;
   history.replaceState(null, '', basePath());
@@ -615,15 +624,17 @@ function openAsk(){
   const mine = store.get('myRequests', []);
   const tr = r => !r?.transcriptStatus ? '' : r.transcriptStatus === 'ok' ? ' <span class="st" style="color:var(--demo)">· 🎙️ הסרטון תומלל</span>'
     : ` <span class="st" style="color:var(--ink3)">· 🎙️ ${r.transcriptStatus.includes('login') ? 'האתר חוסם הורדה — נבדק לפי הציטוט' : r.transcriptStatus.includes('too-long') ? 'סרטון ארוך — ציין דקה' : 'לא תומלל — נבדק לפי הציטוט'}</span>`;
-  const st = id => { const r = requests.items.find(x=>x.id===id); return tr(r) +  r?.status === 'done' ? (r.insightId ? `<a href="#" data-goins="${esc(r.insightId)}" class="st" style="color:var(--demo)">✓ נבדק — לתוצאה</a>` : '<span class="st" style="color:var(--demo)">✓ נבדק</span>') : r?.status === 'rejected' ? `<span class="st" style="color:var(--ink3)">לא נבדק${r.note?': '+esc(r.note):''}</span>` : '<span class="st" style="color:var(--accent2)">⏳ ממתין לבדיקה</span>'; };
+  const lk = r => !r?.linkStatus ? '' : r.linkStatus === 'ok' ? ' <span class="st" style="color:var(--demo)">· 🔗 התוכן נקרא</span>' : '';
+  const st = id => { const r = requests.items.find(x=>x.id===id); return tr(r) + lk(r) + (r?.status === 'done' ? (r.insightId ? `<a href="#" data-goins="${esc(r.insightId)}" class="st" style="color:var(--demo)">✓ נבדק — לתוצאה</a>` : '<span class="st" style="color:var(--demo)">✓ נבדק</span>') : r?.status === 'rejected' ? `<span class="st" style="color:var(--ink3)">לא נבדק${r.note?': '+esc(r.note):''}</span>` : '<span class="st" style="color:var(--accent2)">⏳ ממתין לבדיקה</span>'); };
   openSheet(`<h2>שליחת טענה לבדיקה</h2>
-  <p class="lead">כתוב מה נאמר, מי אמר ואיפה. בסבב הבא (כל שעה) Claude יצליב מול מקורות ויכתוב מה נכון, מה לא, ומה האמת.</p>
-  <label class="field"><span>מה נאמר? (ציטוט או תיאור הטענה)</span><textarea id="askText" placeholder="לדוגמה: &quot;מחצית מהצעירים עזבו את הארץ בשנה האחרונה&quot;"></textarea></label>
+  <p class="lead">הדבק קישור לציוץ, לכתבה או להודעה בטלגרם, או כתוב מה נאמר. בסבב הבא (כל שעתיים) Claude יקרא, יצליב מול מקורות ויכתוב מה נכון ומה לא.</p>
+  <label class="field"><span>🔗 קישור לציוץ ב-X, לכתבה, לטלגרם או לטיקטוק</span><input id="askLink" type="url" dir="ltr" placeholder="https://x.com/…"></label>
+  <label class="field"><span>מה לבדוק? (לא חובה אם יש קישור)</span><textarea id="askText" placeholder="לדוגמה: &quot;מחצית מהצעירים עזבו את הארץ בשנה האחרונה&quot;"></textarea></label>
   <label class="field"><span>מי אמר ואיפה?</span><input id="askWho" placeholder="לדוגמה: שם העיתונאי/המשפיען · ערוץ 14 / טיקטוק / טלגרם"></label>
-  <label class="field"><span>קישור לסרטון או לכתבה (לא חובה)</span><input id="askLink" type="url" dir="ltr" placeholder="https://"></label>
   <label class="field"><span>באיזו דקה בסרטון זה נאמר? (לסרטונים ארוכים)</span><input id="askAt" dir="ltr" inputmode="numeric" placeholder="12:30"></label>
   <button class="btn" id="askSend">שליחה לבדיקה</button>
-  <div class="box" style="font-size:.85rem;color:var(--ink2)"><h4>🎙️ סרטונים</h4>
+  <div class="box" style="font-size:.85rem;color:var(--ink2)"><h4>🔗 מה אפשר לשלוח</h4>
+    ✅ <b>ציוצים ב-X</b>, <b>כתבות</b> ו<b>הודעות בטלגרם</b> — מספיק קישור, הטקסט נקרא אוטומטית.<br>
     ✅ <b>טיקטוק</b> — שים קישור, והסרטון יתומלל אוטומטית.<br>
     🟡 <b>קטעים קצרים מאתרי חדשות</b> — ננסה לתמלל; אם לא יצליח, נבדוק לפי הציטוט.<br>
     ✍️ <b>יוטיוב, אינסטגרם ושידורים מלאים</b> — חוסמים הורדה. כתוב את הציטוט המדויק. ביוטיוב: מתחת לסרטון ← "עוד" ← "הצגת תמליל", ומעתיקים את הקטע.</div>
@@ -632,11 +643,11 @@ function openAsk(){
 }
 async function sendAsk(){
   const text = $('#askText').value.trim(), who = $('#askWho').value.trim(), link = $('#askLink').value.trim(), at = $('#askAt').value.trim();
-  if (text.length < 8) { toast('כתוב מה נאמר'); return; }
+  if (text.length < 8 && !/^https?:\/\/\S+\.\S+/.test(link)) { toast('הדבק קישור או כתוב מה נאמר'); return; }
   try {
     const r = await fetch(`https://ntfy.sh/${config.ntfyTopic}-requests`, { method:'POST', body: await signed({text, who, link, at}) });
     if (!r.ok) throw 0; const j = await r.json();
-    const mine = store.get('myRequests', []); mine.push({id:j.id, text, who, sent:new Date().toISOString()}); store.set('myRequests', mine.slice(-30));
+    const mine = store.get('myRequests', []); mine.push({id:j.id, text: text || link, who, sent:new Date().toISOString()}); store.set('myRequests', mine.slice(-30));
     toast('נשלח ✓ ייבדק בסבב הבא'); openAsk();
   } catch { toast('השליחה נכשלה — נסה שוב'); }
 }

@@ -1,5 +1,6 @@
 // "דופק" — אוסף כותרות, מסווג, מסמן חשובות ושולח פושים דרך ntfy.
 // רץ ב-GitHub Actions כל חצי שעה. ללא תלויות חיצוניות (Node 20+).
+import { readLink } from './linkread.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
@@ -271,6 +272,24 @@ async function syncRequests() {
     saved.items = saved.items.slice(-100);
     if (added || !fs.existsSync(P('data/requests.json'))) { writeJSON('data/requests.json', saved); log(`requests: +${added}`); }
   } catch (e) { log('requests sync failed:', e.message); }
+  await readRequestLinks();
+}
+
+// קישור לכתבה / ציוץ / הודעת טלגרם — קוראים את התוכן ושומרים ליד הבקשה, כדי ש-Claude יבדוק בדיוק את מה שנכתב
+async function readRequestLinks() {
+  if (FIXTURES) return;
+  const saved = readJSON('data/requests.json', { items: [] });
+  let changed = 0;
+  for (const r of saved.items) {
+    if (r.status !== 'pending' || !r.link || r.linkStatus) continue;
+    try {
+      const c = await readLink(r.link);
+      r.linkContent = { kind: c.kind, title: String(c.title || '').slice(0, 300), author: String(c.author || '').slice(0, 120), date: c.date || '', text: String(c.text || '').slice(0, 8000) };
+      r.linkStatus = 'ok';
+    } catch (e) { r.linkStatus = 'failed: ' + String(e.message).slice(0, 80); }
+    changed++;
+  }
+  if (changed) { writeJSON('data/requests.json', saved); log(`request links read: ${changed}`); }
 }
 
 // ---------- פושים ישירים לאפליקציה (Web Push) ----------

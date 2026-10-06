@@ -54,6 +54,7 @@ jobs:
           }
           rm -f /tmp/dofek_pushed
           node scripts/fetch.mjs
+          [ -z "${{ inputs.test_push }}" ] && (node scripts/telegram.mjs || echo "telegram failed")
           if [ "${{ github.event_name }}" = "schedule" ] || [ -n "${{ inputs.loop }}" ]; then
             for i in 1 2 3 4 5 6; do
               if [ -f /tmp/dofek_pushed ]; then save; rm -f /tmp/dofek_pushed; fi
