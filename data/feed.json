@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T15:05:46.735Z",
+ "updated": "2026-10-06T15:10:03.163Z",
  "items": [
+  {
+   "id": "8433ad6ae51d",
+   "kind": "headline",
+   "title": "Trump to Announce Investment in Maryland Submarine Facility",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-maryland-submarines.html",
+   "topic": "world",
+   "published": "2026-10-06T15:05:47.000Z",
+   "summary": "The deal is designed to demonstrate that President Trump is focused on one of his main campaign pledges: bringing back manufacturing jobs.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-trump-top-bfcw/06dc-trump-top-bfcw-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5f6d90510e8f",
+   "kind": "headline",
+   "title": "הערכות: מרבית חברי דן יסרבו לאקזיט המיליון ולא ייפגשו כרגע עם הכסף",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558603#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-06T15:05:00.000Z",
+   "summary": "מחזיקי המניות בחברת התחבורה יכולים למכור עד 25% ממניותיה לפי שווי חברה של 2.8 מיליארד שקל עד יום חמישי הקרוב • על פי ההערכות, ההיענות נמוכה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791295772/WhatsApp_Image_2026-10-06_at_16.00.56_gieara.jpg",
+   "score": 5,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "7a08975e441d",
    "kind": "headline",
@@ -5833,34 +5861,6 @@
    "summary": "דביר רובינשטיין, מנהל ביטחון התעופה במשרד התחבורה - אחראי בין היתר על הקשרים עם חברות התעופה הזרות • במקביל הוא משמש כפרילנסר ומספק ייעוץ והדרכות לאותן חברות תעופה - במה שנראה כניגוד עניינים חריף • שלושה מסמכים הועברו לרגב, למשרד התחבורה ולמל\"ל ובהם התרעה כי טיסות בחכירה אינן נבדקות כנדרש • השב\"כ…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790771672/Untitled-1_g1bbly.jpg",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5d7e785a0b77",
-   "kind": "headline",
-   "title": "Watch: How Brazil's dramatic election unfolded",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-05T04:51:24.000Z",
-   "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5f/live/837994b0-c03c-11f1-8a9a-cff8e8e5b3a9.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a430b2159350",
-   "kind": "headline",
-   "title": "France closes up to 500 schools Monday over student protests",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-05T04:49:14.000Z",
-   "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/a9a0ba20-c022-11f1-ae5f-052d2eebe3b9.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }

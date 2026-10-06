@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65565,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:33.328Z"
+   "checkedAt": "2026-10-06T15:06:10.567Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:34.001Z"
+   "checkedAt": "2026-10-06T15:06:11.339Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:34.664Z"
+   "checkedAt": "2026-10-06T15:06:12.007Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:35.324Z"
+   "checkedAt": "2026-10-06T15:06:12.755Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19284,
+   "lastId": 19285,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:35.966Z"
+   "checkedAt": "2026-10-06T15:06:13.434Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:36.629Z"
+   "checkedAt": "2026-10-06T15:06:14.187Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:37.276Z"
+   "checkedAt": "2026-10-06T15:06:14.846Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131464,
+   "lastId": 131466,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:38.013Z"
+   "checkedAt": "2026-10-06T15:06:15.548Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74692,
+   "lastId": 74693,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:38.594Z"
+   "checkedAt": "2026-10-06T15:06:16.136Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:39.258Z"
+   "checkedAt": "2026-10-06T15:06:17.053Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T14:54:39.948Z"
+   "checkedAt": "2026-10-06T15:06:17.871Z"
   }
  },
  "posts": [
@@ -844,13 +844,41 @@
    "date": "2026-10-06T14:51:14+00:00",
    "text": "🔴 \"תקופה רגישה\": הרמטכ\"ל, ראש השב\"כ והמפכ\"ל נפגשו \"להבטיח את קיומן התקין של הבחירות\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19285",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19285",
+   "date": "2026-10-06T14:56:18+00:00",
+   "text": "&rlm;רבותי, יש לכם כאן את כל הסיפור. מלא-מלא. לא צריך שום דבר נוסף. ינון מגל הקריא היום רשימה של אנשים אותם הגדיר \"מתועבים\", ודרש מהם לבקש סליחה מנתניהו. למה? כי הם העלילו עליו שהוא הפקיר חטופים. העזו להגיד שהוא \"מר הפקרה\". &rlm;בין השמות: עופרי ביבס, איילה מצגר…",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131466",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131466",
+   "date": "2026-10-06T15:01:27+00:00",
+   "text": "\"בארצות הברית התקבעה עלילת הדם שישראל ביצעה רצח עם בעזה - גם בימין וגם בשמאל״, מספר אריאל כהנא, עורך JNS ישראל בפודקאסט ״דעה לא פופולרית. אבל האם יש מה לעשות בנדון? או שאין טעם לבזבז משאבים ומאמצים בהסברה ובמלחמת התודעה?\nמוזמנים להאזין בלינקים או לחפש ״דעה לא פופולרית״ ביוטיוב ובכל אפליקציות הפודקאסטים. \nיוטיוב >> https://bit.ly/DLP-America-YT\nספוטיפיי >> https://bit.ly/DLP-America-Sptfy",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74693",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74693",
+   "date": "2026-10-06T15:00:19+00:00",
+   "text": "🔴 הענקת אות הנשיא ל-6 גיבורי טיסת פליי דובאי תתקיים ביום חמישי\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T14:54:40.348Z",
+  "at": "2026-10-06T15:06:18.271Z",
   "ok": 11,
   "fail": 0,
-  "added": 4,
-  "pendingNew": 21
+  "added": 3,
+  "pendingNew": 24
  }
 }
