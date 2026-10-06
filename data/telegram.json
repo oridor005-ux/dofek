@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65570,
+   "lastId": 65571,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:51.372Z"
+   "checkedAt": "2026-10-06T18:40:24.211Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:51.981Z"
+   "checkedAt": "2026-10-06T18:40:24.841Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:52.572Z"
+   "checkedAt": "2026-10-06T18:40:25.456Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:53.173Z"
+   "checkedAt": "2026-10-06T18:40:26.083Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19289,
+   "lastId": 19291,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:53.772Z"
+   "checkedAt": "2026-10-06T18:40:26.695Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:54.392Z"
+   "checkedAt": "2026-10-06T18:40:27.334Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:55.011Z"
+   "checkedAt": "2026-10-06T18:40:27.954Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131475,
+   "lastId": 131476,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:55.654Z"
+   "checkedAt": "2026-10-06T18:40:28.600Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74704,
+   "lastId": 74705,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:56.189Z"
+   "checkedAt": "2026-10-06T18:40:29.155Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:56.860Z"
+   "checkedAt": "2026-10-06T18:40:29.833Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-06T18:28:57.500Z"
+   "checkedAt": "2026-10-06T18:40:30.484Z"
   }
  },
  "posts": [
@@ -1160,13 +1160,51 @@
    "date": "2026-10-06T18:19:15+00:00",
    "text": "בדקנו 10 מקרים מהעולם שבהם אחריות פוליטית לא נשארה סיסמה.\nשרת הבריאות בפורטוגל התפטרה אחרי ביקורת על סגירת שירותי חירום ליולדות, ועל רקע מותה של אישה הרה במהלך העברה באמבולנס. שר בדנמרק התפטר אחרי החלטה ממשלתית לא חוקית. בבריטניה שרים הודחו או פרשו בעקבות הפרות של הקוד המיניסטריאלי.\nאחרי המחדל בטיסת פליי דובאי, הגיע הזמן לשאול: למה מירי רגב עדיין בתפקיד?\nלכתבה של שבי גטניו >> https://shakuf.co.il/64951\n==\n💙 הצטרפו לנבחרת המו״לים שלנו: https://shakuf.co.il/join\n👋 לעדכוני \"שקוף\" בטלגרם: https://t.me/shakuf",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65571",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65571",
+   "date": "2026-10-06T18:35:20+00:00",
+   "text": "פרסום ראשון בi24NEWS: שופט בכיר נחקר בחשד לעבירות מין. השופט יצא לחופשה עד להחלטה בעניינו.\nנשיא העליון ומנהל בתי המשפט עודכנו על ידי היועמ״שית על החקירה ועל טיב החשדות.",
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19291",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19291",
+   "date": "2026-10-06T18:32:48+00:00",
+   "text": "# רוצים לגייס את החרדים? תסגרו את השיבר, נגמרה החצר הביזנטית",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131476",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131476",
+   "date": "2026-10-06T18:31:21+00:00",
+   "text": "המהומות בצרפת: כיכר האומה בפריז היום.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74705",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74705",
+   "date": "2026-10-06T18:40:06+00:00",
+   "text": "🔴 ראש המל\"ל מינה אלוף במיל' לניהול צוות שיבחן את אבטחת התעופה הזרה לישראל\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T18:28:57.900Z",
+  "at": "2026-10-06T18:40:30.884Z",
   "ok": 11,
   "fail": 0,
   "added": 4,
-  "pendingNew": 55
+  "pendingNew": 59
  }
 }
