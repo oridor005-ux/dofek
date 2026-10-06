@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T01:17:56.920Z",
+ "updated": "2026-10-06T01:30:13.416Z",
  "items": [
   {
    "id": "8f42d425e697",
@@ -1149,7 +1149,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "the7eye.org.il"
+   ],
    "important": false
   },
   {
@@ -1366,7 +1368,8 @@
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v2.jpg",
    "score": 0,
    "alsoIn": [
-    "The New York Times"
+    "The New York Times",
+    "nytimes.com"
    ],
    "important": false
   },
@@ -1551,7 +1554,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "the7eye.org.il"
+   ],
    "important": false
   },
   {
