@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T09:30:46.792Z",
+ "updated": "2026-10-06T09:31:07.280Z",
  "items": [
+  {
+   "id": "ed14dfd498fc",
+   "kind": "headline",
+   "title": "Informa Acquires Clarion Events for £2.24bn in Major B2B Live Events Consolidation",
+   "source": "streamlinefeed.co.ke",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUS1FdEJCeTI4TkVodHotLWtMN01nWXp3X1ZoTXV5QnZvQ1EtVEd5UmY1MmRyRjByNlBQbl9kMU9aVmswenF6eVVNc1VqZ3FXQmFDVnd4VkE5YXVOS0ZSbHhmdXlQd1RTVjZuSEZLMUZ1TGhfeXcxeDM4MUM3dG5SQTd6NzRSMWJCUGVjZEdKc1hPc1RGcmNqQVNCWmpmY01rcDJfX0dkdUl4bnFQamJrcHNKZjBsUQ?oc=5",
+   "topic": "deals",
+   "published": "2026-10-06T09:29:43.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "45b23738a8f9",
    "kind": "headline",
@@ -12,6 +26,20 @@
    "summary": "רשות המסים מפרסמת נתונים אודות פעילות קרן הפיצויים לרגל יום השנה השלישי לציון טבח ה-7 באוקטובר של חמאס על יישובי עוטף עזה ופרוץ מלחמת \"חרבות ברזל\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775392826/direct/AP26094484580368_e1azt2.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "97c8ae3bd262",
+   "kind": "headline",
+   "title": "חתולים ואושר: המחקר החדש שכלל גם את ישראל | וואלה חדשות",
+   "source": "וואלה",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LWGlMNjlWck51OEo4akhQYTZfRkZCZEhkTHVDc0toNWpUa04wMkp5NnhEV2lhRVlURGRKQTNWR3kxVWZPQXFNZHQyN1hzUVAzUzRkdm9wYm1nUnNn?oc=5",
+   "topic": "research",
+   "published": "2026-10-06T09:16:38.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -100,6 +128,20 @@
    "important": false
   },
   {
+   "id": "aff4dcc8e18a",
+   "kind": "headline",
+   "title": "חודשים לפני המחדל: תוספת התקציב לאבטחת טיסות שאושרה – ולא יושמה",
+   "source": "Mako",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yS1pBVXZxQTJXTWRnMFlvbi1feTFZbXRMZVhjRHpUbWtjVl9BM29MSmFOOVRCOXV3b1ZoNU9CVzlxWjdWSFI4YU1aNGZnVlBaTXZnSHdpYlVrWF9qSTUxSTRsZnkySVMzVngzbE9feXY3UUlDc3VIYnFlYkE?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T08:53:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "deb83a2f0eb5",
    "kind": "headline",
    "title": "בריטניה שוקלת לדחות את הכרזת תוכנית הגדלת תקציב הביטחון מאת Investing.com",
@@ -166,8 +208,24 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "bankingnews.gr"
+   ],
    "important": false
+  },
+  {
+   "id": "52406c16267d",
+   "kind": "headline",
+   "title": "לראשונה בהיסטוריה: לא יוגש הדו\"ח השנתי של מבקר המדינה",
+   "source": "וואלה כסף",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWmtDZW5OUHN1Y3pabVJWR2xGSGZZZFBXczBxRFN4VUpCU2hsS0hGalRVWExSX3lDcGZONm5ZZXNYTGo4bF9lc0JyTlc3NzdkVHc?oc=5",
+   "topic": "research",
+   "published": "2026-10-06T08:18:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "ee18b14ee2c0",
@@ -292,7 +350,9 @@
    "summary": "מדד ת\"א 35 יורד בכ-0.2%, ת\"א 90 נופל בכ-1.5% • יצרנית המצלמות לרחפנים נקסט ויז'ן נופלת אחרי מימוש הענק של פידליטי • ענקיות הטק הובילו את הנאסד\"ק לשיא חדש, ויש מי שמצביע על כך שהפכו לנכסי המקלט הבטוח החדשים • משבר החוב בצרפת מכביד על גוש האירו ומעצים את החשש גם בשוק החוב האמריקאי - המיליארדר ריי…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
    "score": 3,
-   "alsoIn": [],
+   "alsoIn": [
+    "globes.co.il"
+   ],
    "important": true
   },
   {
@@ -908,6 +968,20 @@
    "important": false
   },
   {
+   "id": "38db74c54ef0",
+   "kind": "headline",
+   "title": "War and tariffs: How foreign policy is impacting the midterms - Christian Science Monitor",
+   "source": "Christian Science Monitor - CSMonitor.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1I3Z2ZfTGM2THJYTVpoVi1EUVdtRnNLT3B0eV9LVG5mMEY0TU9lOENUWDdpSWY1S0dlQWhrUnNLRVBad01idjdHMTRnUVdSVGljTFRpeVZHdGJWanRLTFJrSWhyTjhzcnNJWlhaMk51eDRMczdsbWZiQUJNUHBFUzhRWGFnRWhUdXBiWGRnT2RnTDYtZERnSzRKcEg3UQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T04:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "cd4d0d5d2447",
    "kind": "headline",
    "title": "United States Approves US$1 Billion Arms Sale To United Arab Emirates: who 11 outlets blamed",
@@ -967,6 +1041,20 @@
    "id": "284996f433b0",
    "kind": "headline",
    "title": "מהפך: איזו בורסה טובה יותר - אתונה או פריז?",
+   "source": "TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzI2VWF2eVlTOFJTN0UtV25LejMtcW9DcTlxbW1DejZHckNyMjFTbV9YNW5raWM1akZzQmdPOExFRngtQjRZOFk2UXBpUmg2QkZtNW5paUx5Z0FvQWE0QlhiamktOWtuUEZfbGdsM2FhS0dtUmd1bko3V21YXzQ3YXZkVzhvaTR1dk41NkpwdUhRSGo4UFRTeGxNTXZRTzhfTlVkYXdR?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T03:14:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a2eb762e4a18",
+   "kind": "headline",
+   "title": "מהפך: בורסת יוון משגשגת בעוד הבורסה הצרפתית מקרטעת",
    "source": "TheMarker",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzI2VWF2eVlTOFJTN0UtV25LejMtcW9DcTlxbW1DejZHckNyMjFTbV9YNW5raWM1akZzQmdPOExFRngtQjRZOFk2UXBpUmg2QkZtNW5paUx5Z0FvQWE0QlhiamktOWtuUEZfbGdsM2FhS0dtUmd1bko3V21YXzQ3YXZkVzhvaTR1dk41NkpwdUhRSGo4UFRTeGxNTXZRTzhfTlVkYXdR?oc=5",
    "topic": "econ",
@@ -1102,7 +1190,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "politics.co.uk"
+   ],
    "important": false
   },
   {
@@ -1231,6 +1321,20 @@
    "alsoIn": [
     "apanews.net"
    ],
+   "important": false
+  },
+  {
+   "id": "b2caccb8babc",
+   "kind": "headline",
+   "title": "France and Germany Jointly Propose 'Red Button' Trade Measures to EU, Eyeing Activation Within 24 Hours Targeting China",
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQ3hOVFNzbXdNcDZlVmRLTWpnRTVaMHo5ZDNtdVBrdkNpVlJoMmV3a3dNSW11dlhuZjhsdnR5YkZtZnZDOXlHOFNkQ0I3ZFZnRjF4bXlNTHdaRXFxa0VPb0lzUndNbE0wam03VVV4eHBmWU03S0E?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T23:35:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1424,6 +1528,20 @@
    "alsoIn": [
     "momentmag.com"
    ],
+   "important": false
+  },
+  {
+   "id": "054068c0b52f",
+   "kind": "headline",
+   "title": "Spanish PM calls snap election amid mounting housing crisis",
+   "source": "CBC",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CT1BlVTI5R3Rlb2NUUFhIZlRtcVprUklBZEdlcE9SY3FZRlMwNEJTV2pYU2NhNnZYM1ByOHFQRlp1ZklBcjVNX2h0bDhPYU1CTXlsRm5fVzlnMjdHTDVabUJ1aDZtUmVGR2IwTWtRSkJ3bnVzazlEOTRxLVdRLVE?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T20:02:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -2761,7 +2879,8 @@
    "score": 0,
    "alsoIn": [
     "The New York Times",
-    "nytimes.com"
+    "nytimes.com",
+    "Inquirer.com"
    ],
    "important": false
   },
@@ -5768,127 +5887,6 @@
     "ynet.co.il"
    ],
    "important": true
-  },
-  {
-   "id": "8f728aebf49f",
-   "kind": "headline",
-   "title": "Appointing the Election Commission: An Expert Explains why perception matters",
-   "source": "The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVdyRXpwWEtQVjRIc3hpVUxkdjNHWV9xOUNMOEFPeUFrYllmc3NYTF9iWGd3VTh2ZGN4aFJmTEF1YnhnUW95aC0wNzJvT2c5WlQ0bEJwWEdPODN4eDByb0RMWG9iM2tKM2pOZlV1QmtXODNTZXZxaTJZaWxCdG5jTjFucVJkbUNMaWV4TmZMbXNRZk1IOTNVQUdfV1NTSEIzWTV1Tkw5MUU5ZVXSAbIBQVVfeXFMUDQxVGF5VnJIZk53SzlwaWNRem1aX3dRaUthWFVjRkh3ME5GamJCZWxNUHpNNmZxb0NpM1lVTElJM3pPSnM0dTBoVnJqNUo2ZlZKU1NIdWJjX3NWT3A1RTRkTnpuczh2VFhCR1VhNkZHZ2lGMm1zcnVOSExOcnVBLUVKak81RTNjNzhKN19rVGlhNjhaMy16ZXZBZXV2MV9sQzZlTzhoQ3FPcFJUMkFtX2pLQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T15:15:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "indianexpress.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "c92a323cc072",
-   "kind": "headline",
-   "title": "מזומנים לבוחרים: טראמפ מחלק צ'קים לקשישים ומבטיח סכומי עתק לציבור",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558389#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-04T15:09:00.000Z",
-   "summary": "שבועות ספורים לפני בחירות האמצע, נשיא ארה\"ב הכריז על חלוקת מענקים חד־פעמיים למיליוני מבוטחי בריאות, לצד הבטחה גרנדיוזית לחלוקת דיבידנד של 5,000 דולר לכל אמריקאי • מחוקקים בשני צדי המפה הפוליטית מטילים ספק בהיתכנות המהלך, שלא פורט כיצד ימומן",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791122789/AP26277077769741_lcttx1.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "222a2372cea7",
-   "kind": "headline",
-   "title": "UK's Green Party adopts Zionism-is-racism resolution; calls for Palestinian state in place of Israel",
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkstaWNWTW91ejBMM3h4M25hYlhzWmd0X3JpUzdyYm5fSTdDcF9HMVp5Sy1IMEpkeVNZY002UDJUazNCM1l3NDdKdE1yc1VOalFEZDNfcEtrNHZCbGp5T2J4ZlhJT0VBZ2Yzb2VYblV2b2RZMGFkb0dyWXVEblYyQ3hxamFUeXZGQnl3Y0lWcVNsZXFvQnJ3MG9MYlJkZlRacGhNbFpuc0RYeWhwSUZ2dUJMaTNMQkZUMTg5NU1hbzNoRHV6ZTQzVTU4VWRCaE5OaHdxYWZvTkN2UVFF?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T15:08:37.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "Saudi Gazette",
-    "timesofisrael.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "63535f1eb67e",
-   "kind": "headline",
-   "title": "8 שקלים לליטר זו רק ההתחלה, אבל הישראלים דווקא נוטשים את החשמליות",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558379#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-04T14:56:00.000Z",
-   "summary": "הפגיעה בתשתיות הנפט משכנעת נהגים וציים באירופה לאמץ טקטיקות חיסכון אגרסיביות, ולהאיץ את המעבר לחשמל • בישראל, לעומת זאת, כולם עדיין בונים על סבסוד המס על ידי הממשלה, שיפוג הפעם בסוף אוקטובר • ואיזה מחיר משלמים הציים המקומיים על השאננות?",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791123747/_RC2LVNAUF0PF_RTRMADP_3_IRAN-CRISIS-SAUDI-ARAMCO_kqgjqu.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "10e5953dead5",
-   "kind": "headline",
-   "title": "העורכים והמגישים ידעו מי הבן של הפאנליסט יעקב עמידרור, אבל הניחו לו להמשיך לפרשן באולפנים",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKWGxOa2RKNWVzTkhqc19hSXUxTFozcmhWRkU4VDZlS3VHekNnaFZDVXZmdk1abllwcS1CdkZ4TEp2cHNaLWxMMA?oc=5",
-   "topic": "media",
-   "published": "2026-10-04T14:49:21.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "4e7645d16b93",
-   "kind": "headline",
-   "title": "Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’ – UK politics live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T14:43:11.000Z",
-   "summary": "Party formally adopts policy which equates Zionism with racism, a move has alarmed some Jewish members Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the…",
-   "image": "https://i.guim.co.uk/img/media/0ec80a22ef35c2a228fdedcb6073722da88831a2/290_182_3510_2808/master/3510.jpg?width=140&quality=85&auto=format&fit=max&s=14c23d66897229d4065fbac559ed72a2",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a67ae34e7e30",
-   "kind": "headline",
-   "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-04T14:36:57.000Z",
-   "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0eab700bf4a7",
-   "kind": "headline",
-   "title": "Morocco’s Elections in a Time of Despotism: Why Ballot Boxes Don’t Produce Liberation",
-   "source": "International Viewpoint",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0gxMzRBSUdxS2pQQ1h2X0htRGNhRkFselRac09JVHU1Umt0Y3NBcmtmckpLdUxWR09jaWJMSklpSGZCVUp4T1Boamtpck1seDI0MkNUUlNLdHhvbWQzMGJhdkhvUkl2QnZ2TjQ4cllJbzdZUjdKdlpWR3liR0k4b09sQ3hFNUxEYUROZGUycnRQV1BxU2ludTAtamc3N3EtcVNuSXZxMFVVSmV5?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T14:34:06.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "internationalviewpoint.org"
-   ],
-   "important": false
   }
  ]
 }
