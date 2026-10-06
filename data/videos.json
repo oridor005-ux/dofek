@@ -2969,10 +2969,21 @@
    "posted": "1791314138",
    "found": "2026-10-06T19:18:23Z",
    "status": "failed"
+  },
+  {
+   "id": "7693634519890480385",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693634519890480385",
+   "caption": "בעקבות הספר ״מר הפקרה״: ינון מגל כינה משפחות שכולות ומשפחות חטופים ״א...",
+   "posted": "1791315000",
+   "found": "2026-10-06T19:35:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693634519890480385.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T19:18:36Z",
+  "at": "2026-10-06T19:35:46Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
