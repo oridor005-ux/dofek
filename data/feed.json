@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T03:15:47.304Z",
+ "updated": "2026-10-06T03:27:09.498Z",
  "items": [
+  {
+   "id": "3e72dd9bc381",
+   "kind": "headline",
+   "title": "למה מכרה פידליטי מניות נקסט ויז'ן ב-1.3 מיליארד שקל, ומי הרוכשים?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558512#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T03:21:00.000Z",
+   "summary": "ענקית ההשקעות פידליטי מכרה 65% מהחזקותיה ביצרנית המצלמות המיוצבות לרחפנים • לגלובס נודע כי 77% מהמכירה בוצעה למשקיעים זרים, מוסדיים באנגליה ובארה\"ב ולצידן רכש עוד מוסדי גדול בישראל • ומה צפוי לחברה בשנה הבאה? יו\"ר החברה לגלובס: \"מצפים לשנה חזקה\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786354385/RAM07764_axnlw4.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "0d8d17625dec",
    "kind": "headline",
@@ -5912,22 +5926,6 @@
    "score": 0,
    "alsoIn": [
     "ch10.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "2b201874632b",
-   "kind": "headline",
-   "title": "האוצר ממשיך להנפיק בלי הפסקה, אבל השוק מתכונן לצונאמי של מזומנים",
-   "source": "ספונסר",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OUFlzdVRIMU0tUk1OTnlSa29jQkxScVA4NFV2S0VlSzJEMV9qbUdfUUZoREtGS21QdzVFVUFRcHFTOXNtQktSN3BMR0NybnpJcXpHMWRFQWJWem55am9Vbi1PSmcyZw?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T06:55:17.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "sponser.co.il"
    ],
    "important": false
   }
