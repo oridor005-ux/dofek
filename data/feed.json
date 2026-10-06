@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T07:33:57.993Z",
+ "updated": "2026-10-06T07:45:19.782Z",
  "items": [
+  {
+   "id": "1a3933d02327",
+   "kind": "headline",
+   "title": "תחרות להוט, סלקום ופרטנר? בזק עשויה להציע בקרוב גם שירותי טלוויזיה",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/hywomxmifg",
+   "topic": "econ",
+   "published": "2026-10-06T07:39:18.000Z",
+   "summary": "צוות משותף של משרד התקשורת, משרד האוצר ורשות התחרות, ימסור חוות דעת שעשויה לבטל את חובת ההפרדה בין בזק לחברת הבת שלה יס. המהלך יאפשר לבזק להציע גם שירותי טלוויזיה, בנוסף לאינטרנט וטלפון",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/03/27/HkJBmy0G5/HkJBmy0G5_134_87_265_149_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "08e8daacee65",
+   "kind": "headline",
+   "title": "מה עומד מאחורי מימוש הענק בנקסט ויז'ן, ומה חושב עליו היו\"ר?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558512#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T07:35:00.000Z",
+   "summary": "ענקית ההשקעות פידליטי מכרה 65% מהחזקותיה ביצרנית המצלמות המיוצבות לרחפנים, בדיסקאונט של 7% על מחיר המניה • לגלובס נודע כי 77% מהמכירה בוצעה למשקיעים זרים, מוסדיים באנגליה ובארה\"ב, ולצידן רכש עוד מוסדי גדול בישראל • המניה צוללת במעל 10% במסחר בתל אביב, ומוחקת משווייה מעל 2.5 מיליארד שקל",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786354385/RAM07764_axnlw4.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a3dae170f2d2",
    "kind": "headline",
@@ -5863,36 +5891,6 @@
    "published": "2026-10-04T11:43:39.000Z",
    "summary": "יום שלם של חוויות לכל המשפחה הכולל הרפתקאות, היסטוריה ומופע לילי מרהיב",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/Hyq8YhJoGx/Hyq8YhJoGx_0_0_3000_1688_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d64bea1267ed",
-   "kind": "headline",
-   "title": "החטא הקדמון של אפיפיור הכלכלה — ואיך באמת צריך למדוד אינפלציה",
-   "source": "TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2FnNTRJNExpM3Nwa1pJamRJMnhvVWhFaFZZcXFNUFlYLWJmd3JocWhHa2FFSnpPYlNvaUp3ODlPRktYbUdZRTZuRDZaY1QyT2IxSlBxaHpUV09GT0tXczdfY0Vzdmw0WG9xWkhuaVBjRXFuZS1oY0JPTTNoY3g2cllyY1hyUDl4N3lBUFg3MmNBMGI1LVZ2SGxDYTZnbGpNcXU3em96QVdRU2JmU0ZSdnhRNA?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T11:32:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "themarker.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "f85126654f60",
-   "kind": "headline",
-   "title": "פיצוי של עד 210 אלף דולר לנוסע: איך ניתן לתבוע את פליי דובאי?",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558338#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-04T11:27:00.000Z",
-   "summary": "מה הפיצוי המרבי שיכול לקבל כל נוסע שהיה על המטוס בטיסת פליי דובאי, מה התובע נדרש להוכיח, איפה אפשר לתבוע חברת תעופה זרה, והאם יש תקדים של מקרה דומה? • גלובס עושה סדר",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790845718/AP26273609093043_sbg6ce.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
