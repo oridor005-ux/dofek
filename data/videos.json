@@ -2948,12 +2948,23 @@
    "found": "2026-10-06T18:36:10Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693625010526620948.txt"
+  },
+  {
+   "id": "7693629969691413780",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693629969691413780",
+   "caption": "",
+   "posted": "1791312824",
+   "found": "2026-10-06T19:04:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693629969691413780.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T18:47:06Z",
+  "at": "2026-10-06T19:04:50Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
