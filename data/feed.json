@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T06:23:15.775Z",
+ "updated": "2026-10-06T06:34:39.970Z",
  "items": [
+  {
+   "id": "0d7c25b3acc2",
+   "kind": "headline",
+   "title": "הממשלה אישרה תוכנית לצמצום הזיהום ועכשיו רוצה להקים תחנת כוח באשדוד",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/rylgzzzimx",
+   "topic": "knesset",
+   "published": "2026-10-06T06:26:19.000Z",
+   "summary": "הממשלה תדון היום בהסמכת בית הזיקוק אשדוד להכין תוכנית תשתית לתחנת כוח מוסקת בגז טבעי, ביוזמת שר האנרגיה אלי כהן. המהלך מגיע אחרי שביוני אישרה אותה ממשלה תוכנית לאומית לצמצום זיהום באזור אשדוד. המשרד להגנת הסביבה מתנגד וטוען כי התחנה תחמיר את איכות האוויר",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/01/26/4422992/4422992_12_94_957_539_0_medium.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "50097452504e",
    "kind": "headline",
@@ -5895,20 +5909,6 @@
    "alsoIn": [
     "lemonde.fr"
    ],
-   "important": false
-  },
-  {
-   "id": "1a6617c67dde",
-   "kind": "headline",
-   "title": "Latvia's pro-Ukraine party wins election with record support",
-   "source": "RBC-Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWN4ZTdfbV9TdERNaWMtM1M5YWhVXzhHR29PelB2cjVtbkhjeUhreFNpY3pvOUdpTnh5Q2tiR2toTG4tTk1IQWx3U3NIN0pXNW84WkJ6d0cyWWxsWlNlMHc1LVFHenlRMHI4V2w3U0VZbGtNUFZvTE5pc1hQS3RIRjVuODlqQXllVXpVRjBOVkxRQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T10:30:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
