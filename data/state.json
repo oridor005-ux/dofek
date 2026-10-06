@@ -77,7 +77,7 @@
   "ins-2026-10-06-hd02"
  ],
  "pending": [],
- "lastRun": "2026-10-06T06:06:17.934Z",
+ "lastRun": "2026-10-06T06:11:53.929Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -104,7 +104,7 @@
    },
    "at": "2026-10-06T05:59:45.752Z"
   },
-  "lastNewItemAt": "2026-10-06T06:06:17.934Z",
+  "lastNewItemAt": "2026-10-06T06:11:53.929Z",
   "lastPushOkAt": "2026-10-06T06:06:17.934Z",
   "googleOkAt": "2026-10-06T05:59:45.752Z"
  },
