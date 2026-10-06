@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T15:29:05.663Z",
+ "updated": "2026-10-06T15:41:30.052Z",
  "items": [
+  {
+   "id": "3608f9aced90",
+   "kind": "headline",
+   "title": "ממרוץ, דרך קסדות ללוחמים ועד הנצחה מוזיקלית: יוזמות ה–7 באוקטובר",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558577#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-06T15:27:00.000Z",
+   "summary": "ריצות, מוזיקה ומיצגי זיכרון הם רק חלק מיוזמות הנצחה ברחבי הארץ לנופלי 7 באוקטובר • קמפיין לגיוס תמיכה ליתומי המלחמה להענקת סיוע כלכלי, רגשי וחינוכי • וגם מיזמים המסייעים לנפגעי פוסט־טראומה ומספקים ללוחמים ציוד מתקדם • אירועם ומינויים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791291636/%D7%9E%D7%99%D7%A6%D7%92_%D7%A4%D7%9C%D7%99%D7%99%D7%98%D7%99%D7%A7%D7%94_7.10.26_roukyk.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "8433ad6ae51d",
    "kind": "headline",
@@ -962,7 +976,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "fijivillage.com"
+   ],
    "important": false
   },
   {
@@ -1443,6 +1459,20 @@
     "globes.co.il"
    ],
    "important": true
+  },
+  {
+   "id": "e01a2f3eb21a",
+   "kind": "headline",
+   "title": "הבורסה לניירות ערך בתל אביב זכתה בפרס הבינלאומי Kong Innovator Business Impact Award 2026",
+   "source": "פאנדר",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oM1dLMlRWZVJXVDR4WXM2bm5PTHI2VUdoM1JxQzhIbk55Yk1QUWlQYkJSNG9XcU1Vc1BIeWlnSDhfeVA5dktuOTVZVU9pSGtQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T07:12:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "572a20522c05",
@@ -2976,7 +3006,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Times of Israel"
+   ],
    "important": false
   },
   {
@@ -5832,36 +5864,6 @@
    "alsoIn": [
     "bizportal.co.il"
    ],
-   "important": false
-  },
-  {
-   "id": "e88cb9717078",
-   "kind": "headline",
-   "title": "Buru Energy refers Rafael project to WA EPA",
-   "source": "energynewsbulletin.net",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakx4UGoyZk5DS1dMaVpiZ2hmdTQwU01zczlSQ3RHTGpmQUhOZUV1WElQaVpBVzRBR1hkckRtMElxN1VRRWZ2ZUdqX2VFc0JZS0IyRVdOa0JaanA0VllDbkU2SGJEek51Ykk5MmVjNUdDdXA3LWM2cVg4bDVyWjUxRmMwRDFndFU2dnRmQkp5aDkyRkRiVnhPZVQwTGVONU0yNjYwS2ZaV1pzNFNH?oc=5",
-   "topic": "defense",
-   "published": "2026-10-05T05:13:02.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Energy News Bulletin"
-   ],
-   "important": false
-  },
-  {
-   "id": "2cbb32e55da3",
-   "kind": "headline",
-   "title": "האחראי על פיקוח חברות התעופה הזרות - קיבל במקביל כסף מ\"פליי דובאי\" על הדרכות | פרסום ראשון",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558405#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-05T05:08:00.000Z",
-   "summary": "דביר רובינשטיין, מנהל ביטחון התעופה במשרד התחבורה - אחראי בין היתר על הקשרים עם חברות התעופה הזרות • במקביל הוא משמש כפרילנסר ומספק ייעוץ והדרכות לאותן חברות תעופה - במה שנראה כניגוד עניינים חריף • שלושה מסמכים הועברו לרגב, למשרד התחבורה ולמל\"ל ובהם התרעה כי טיסות בחכירה אינן נבדקות כנדרש • השב\"כ…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790771672/Untitled-1_g1bbly.jpg",
-   "score": 1,
-   "alsoIn": [],
    "important": false
   }
  ]
