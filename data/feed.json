@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T10:55:12.350Z",
+ "updated": "2026-10-06T11:06:48.022Z",
  "items": [
+  {
+   "id": "79111155732f",
+   "kind": "headline",
+   "title": "עגלות חכמות ושטחי פרסום: מיזוג משמעותי בענף הריטייל מדיה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558544#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-06T11:00:00.000Z",
+   "summary": "חברת A2Z Cust2Mate רוכשת את חברת הדיה תמורת 15 מיליון דולר • הרכישה נועדה לשלב את טכנולוגיית העגלות החכמות של Cust2Mate, שטחי הפרסום הדיגיטליים שלה בחנויות ויכולות המדידה שלה, עם מערך המכירות, קשרי המפרסמים ויכולות ביצוע הקמפיינים של הדיה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791282809/%D7%A2%D7%92%D7%9C%D7%94_%D7%97%D7%9B%D7%9E%D7%94_%D7%A7%D7%A8%D7%93%D7%99%D7%98_A2Z_Cust2Mate_ym4bh8.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2b42022ea1c2",
    "kind": "headline",
@@ -5863,22 +5877,6 @@
    "score": 0,
    "alsoIn": [
     "The Jerusalem Post"
-   ],
-   "important": false
-  },
-  {
-   "id": "65d99f600de0",
-   "kind": "headline",
-   "title": "האנטישמיות מגבירה את הרצון של ישראלים בדרכון זר",
-   "source": "emess.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50SndQdVduRzhxMktRemFEWXlpdXBabmI1YmxYeWdiRVdBZkMwRWJhVXhWeUtHck9tV29sS0FYRTZxNkd6RzRCMkRtRF9lQQ?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T17:47:23.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "אמס"
    ],
    "important": false
   }
