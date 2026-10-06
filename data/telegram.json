@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65565,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:10.567Z"
+   "checkedAt": "2026-10-06T15:17:53.375Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.5K",
+   "subscribers": "58.6K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:11.339Z"
+   "checkedAt": "2026-10-06T15:17:54.051Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:12.007Z"
+   "checkedAt": "2026-10-06T15:17:54.680Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:12.755Z"
+   "checkedAt": "2026-10-06T15:17:55.331Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19285,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:13.434Z"
+   "checkedAt": "2026-10-06T15:17:55.986Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:14.187Z"
+   "checkedAt": "2026-10-06T15:17:56.630Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:14.846Z"
+   "checkedAt": "2026-10-06T15:17:57.277Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131466,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:15.548Z"
+   "checkedAt": "2026-10-06T15:17:57.971Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74693,
+   "lastId": 74694,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:16.136Z"
+   "checkedAt": "2026-10-06T15:17:58.537Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:17.053Z"
+   "checkedAt": "2026-10-06T15:17:59.224Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T15:06:17.871Z"
+   "checkedAt": "2026-10-06T15:17:59.937Z"
   }
  },
  "posts": [
@@ -872,13 +872,22 @@
    "date": "2026-10-06T15:00:19+00:00",
    "text": "🔴 הענקת אות הנשיא ל-6 גיבורי טיסת פליי דובאי תתקיים ביום חמישי\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74694",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74694",
+   "date": "2026-10-06T15:09:50+00:00",
+   "text": "🔴 עקב תוצאות חריגות בדיגום מים: 9 נחלים בצפון עלולים להיות מסוכנים לרחצה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T15:06:18.271Z",
+  "at": "2026-10-06T15:18:00.338Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 24
+  "added": 1,
+  "pendingNew": 25
  }
 }
