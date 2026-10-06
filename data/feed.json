@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T00:07:37.911Z",
+ "updated": "2026-10-06T00:19:54.593Z",
  "items": [
   {
    "id": "6ec2df98b5b2",
@@ -249,6 +249,20 @@
    "alsoIn": [
     "ice.co.il"
    ],
+   "important": false
+  },
+  {
+   "id": "bfd130e5f70e",
+   "kind": "headline",
+   "title": "Shafaq News..KRI’s PM calls for constitutional guarantees as Baghdad ties improve",
+   "source": "shafaq.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDI0b0FmV3lQLTZqLUdteHJCN1VhdmNZcS05RmJzNkZocEdBNGZCUTg4OHZKZnI2X2RhWWZPU29YWWNrZHZCMWc5OTB1NlJZVDM3TGpVUjFDejdxNy1IbHJiZnM3UTZWLVFwTjlkZklWbVRsMmFfYjNtVGYzRkl0RGpVdUF3c3pxMDktOUMtZXV3c2djbVZVMlJYSEpzU3NUcHc?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T18:07:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -562,7 +576,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Reporteri.net"
+   ],
    "important": false
   },
   {
@@ -1890,6 +1906,20 @@
    "important": false
   },
   {
+   "id": "13e1a85b10b6",
+   "kind": "headline",
+   "title": "Kuvendi voton në lexim të parë Projektligjin për ndryshimin e Ligjit për Specialen",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGlwUWhhN2M3NlNJMjNvdkg2OGhRaUMxd0lGQXhJT2g5Mmc4TFU5Rjg3aHlBck9zSVlxcUFRb3NBb2NqYUNJTXVkQkZEV0tqQ1pGMWFVcVpJZ3NaaE5SOWhnemZGYkZFUUUtT0Q3QkZFaVNVWndKaF81MU1KVXprODl5VGR5OXVPLWdaeWtsOG82b1FBY3g1dWczYWQtN0stYlAyR1J3R1BZOEN4eWhidmcyMkk?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T09:07:46.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "4e1b941ca957",
    "kind": "headline",
    "title": "זה לא היה רבעון שקרנות הגידור יכולות להתגאות בו",
@@ -2833,6 +2863,20 @@
    "score": 5,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "e132a09c5529",
+   "kind": "headline",
+   "title": "LIVE: Changes to the Law on Special Elections are voted on in principle, deadline for the president until tomorrow",
+   "source": "KOHA.net",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSV9RWjQzbEN3c3dQUkY2TUN3YVdvYzhiM1lmWHduN0Jhb3R5TjhGNjRUR0FnTWowcHFHcnoxOGFHdnhRd3FtNDRTX19JM0I3cGgxQnBrMV93d2dGcDd0QTVyWEtyV0FXMnF1bEFpM25aekNZVU0ydmpqOHVwd3JSUkZ2WUZZeDJxZjJTVTN2dVZ4WlE?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T05:55:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "cdd8af44a6e6",
@@ -5884,52 +5928,6 @@
    "score": 0,
    "alsoIn": [
     "reuters.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "82bb6687d1a8",
-   "kind": "headline",
-   "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-04T04:53:29.000Z",
-   "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ffd5797e000b",
-   "kind": "headline",
-   "title": "ראשי האופוזיציה תוקפים את הממשלה לאחר מחדל פליי דובאי: \"קו ישיר מחבר בין מחדל המטוס לטבח 7 באוקטובר\"",
-   "source": "כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93bk9tS3dsTDFmZzhFMnpLR1FfVFYtcUloSEw0YlIzVWh2ZnFHbUZlMU1MaXZ6U1g5TGlQRmFxcGh0RVNiN1BmbEt3bjJ3cGxoVmtZalZFRDZmdjk2N2xRTnAwZHdibEpDZlRQNzhR?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-04T04:46:02.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "kan.org.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "5d00aa14e332",
-   "kind": "headline",
-   "title": "החזר משכנתא לדירת 4 חדרים בת\"א: 16,850 שקל בחודש",
-   "source": "tlvonline.co.il",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc0JCeV9XdWZQVF9xMlFoNHB6MkNkeTlWQ1BYWTdoaGJZZDI0Q1kwXzkxRXNHaHR2Vl9aS1ZlX3RsZU9WdkNEeWtBRFpzZzdwSldFYjQxVm5lTmZYVm5BTlVzcDliRk9sM3pDX05JalI1TnJwUHVWUTJ3ZFd1VjFGZ3pSMHdMTUJGaVp3d1pLVGN0Q1c4cTZuTXJzUEpyT3ZxNkw4UlhmRVpJWGEyUUprOXlpdWNJaE40MXBVVG9seTVTT0hLV0FjTi1RTFBEWlVkTV9keUFobEN2R2hxck5zS3RzMi1CbUlfUWtR?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T04:40:50.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "תל אביב אונליין"
    ],
    "important": false
   }
