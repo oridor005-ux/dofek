@@ -2327,12 +2327,34 @@
    "posted": "1791274875",
    "found": "2026-10-06T08:32:04Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693472572930870548",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693472572930870548",
+   "caption": "\"מתוך 300 עמודים, הקדשנו 150 לתיאור של כל העדויות כדי להיאבק בהכחשה\" ...",
+   "posted": "1791276176",
+   "found": "2026-10-06T08:46:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693472572930870548.txt"
+  },
+  {
+   "id": "7693472704824872200",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693472704824872200",
+   "caption": "סרטון שכל אזרחי ישראל צריכים לראות | 3 שנים לטבח השבעה באוקטובר: אחת ...",
+   "posted": "1791276214",
+   "found": "2026-10-06T08:47:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693472704824872200.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T08:32:17Z",
+  "at": "2026-10-06T08:47:33Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
