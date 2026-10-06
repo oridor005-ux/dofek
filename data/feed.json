@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T08:11:17.953Z",
+ "updated": "2026-10-06T08:20:34.075Z",
  "items": [
+  {
+   "id": "ee18b14ee2c0",
+   "kind": "headline",
+   "title": "Nigeria mourns as 32 killed when military plane crashes into swamp",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-06T08:16:57.000Z",
+   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e2/live/c7aa3c10-c146-11f1-91a4-9d3e6655f0dd.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9d717197e4dd",
+   "kind": "headline",
+   "title": "\"פידליטי הרוויחו פי 2 על ההשקעה שלהם בנקסט ויז'ן - הם מנהלים סיכונים\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558525#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T08:15:00.000Z",
+   "summary": "בבנק ההשקעות אופנהיימר מעריכים כי עסקת הענק במסגרתה מכרה פידליטי מניות נקסט ויז'ן בסך כולל של 1.3 מיליארד שקל משקפת מימוש רווחים, ולא משהו שהשתנה בעסקי החברה • עמרי עפרוני, אנליסט התחום הביטחוני של הבנק: \"רואים שכל המכפילים של החברות הביטחוניות ירדו בכ-30% בממוצע, אבל בישראל זה קצת יותר חזק\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1747303117/direct/WhatsApp_Image_2025-05-15_at_11.56.48_iyzuol.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "7cda5324c0c7",
    "kind": "headline",
@@ -5863,36 +5891,6 @@
    "published": "2026-10-04T12:41:00.000Z",
    "summary": "דיוויד רובינסון, שהוביל את תחום השקיפות בצוות הבטיחות של OpenAI, הודיע על התפטרותו ומזהיר גם הוא כי חברות הבינה המלאכותית אינן נוקטות את אמצעי הזהירות הנדרשים • במקביל, הבית הלבן מקים כוח משימה מיוחד שיבחן בתוך 120 יום את הסיכונים הכרוכים בטכנולוגיה, לצד השאיפה לשמור על ההובלה האמריקאית בתחום",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784201811/shutterstock_2515703279_ncajkz.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bef1490a67ee",
-   "kind": "headline",
-   "title": "Latvian PM Andris Kulbergs’ party leads election, partial results show",
-   "source": "TVP World",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzFfejFla2VyY0h2dEZNYzVTMlMwaHJaTHAzVmR3TFNkR3NrOWpvV0JIX0RkSEFKVlo0TDhmYjBmbmNCdkRRUVVQR3ZVWUVNNXBOTldxeHVBNlRVYXV0cmZWd21Ddy0wbGJtLXVKMk14cWN2dXE3MWtNTEUxWnZCNkRTVlJNWUZkQUVMaGozRER4NXVkT18xM3VnVTJ5bXc?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T12:22:30.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "tvpworld.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "f213d7e05a16",
-   "kind": "headline",
-   "title": "רמת גן: הסכם ביצוע לבניית מגדל ב-230 מיליון שקל",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/sywocnjsmg",
-   "topic": "econ",
-   "published": "2026-10-04T12:14:32.000Z",
-   "summary": "מדובר בהסכם ביצוע שנחתם במסגרת מיזם התחדשות עירונית הממוקם בצומת הרחובות אבא הלל והמבדיל, בשכונת הגפן. המגדל בן 34 הקומות יכלול 180 דירות. האכלוס צפוי בינואר 2030",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJyIG6Jszl/SJyIG6Jszl_1_65_1601_901_0_medium.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
