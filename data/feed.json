@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T05:59:27.850Z",
+ "updated": "2026-10-06T05:59:45.752Z",
  "items": [
   {
    "id": "2791d44445d6",
@@ -44,6 +44,20 @@
    "important": false
   },
   {
+   "id": "35cc46104a56",
+   "kind": "headline",
+   "title": "Labor Protection Law Officially Passed: What It Means for Workers",
+   "source": "aktualita.co",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWl0NGNlYVhJTGkxcE5ydFFFbG0tNVI3T1MwRDU0VXNTcnJ5U2hKOEc4b0NzVkV5cnNlU2YweHBPbjV0emt4akM4WVhWbzlyY1V3SlpvXzQ5UWU4c2tkRmNFdU1ObUU0VU9aclB4MkRKUVVXNVo2SzFhSlhxSnJ1VXFYLW1SLU41MVlsR1BfZ3oyYzZubEJCVzF1cUlydw?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T05:34:08.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c7161a5ed2c1",
    "kind": "headline",
    "title": "אילו הוראות מסחר קיימות בבורסה ומה ההבדלים ביניהן?- המדריך המלא לפקודות מסחר",
@@ -58,6 +72,20 @@
    "important": false
   },
   {
+   "id": "c767336dc2b0",
+   "kind": "headline",
+   "title": "מדד המחירים לצרכן בתאילנד עלה ב-2.82% בספטמבר מאת Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51TTBiR2NwdVZCQ0tTb2N4dXdlV0FuZnFKTFZEdGc1YngxMlptbjNyMDl1dW1SaHZSM2lSQmpWYTBYVVRMQUZJZUVBQkhCTm5tazF6Rk52MnZCbVJNVmxTT2xKOUN6WWtYajBUUVVLU3FUcEpOYkE?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T05:31:23.000Z",
+   "summary": "",
+   "image": "",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
    "id": "0a1b885ad4d0",
    "kind": "headline",
    "title": "מהו דיבידנד ואיך הוא משפיע על התיק שלכם? - המדריך המלא לתיק דיבידנדים",
@@ -67,6 +95,34 @@
    "published": "2026-10-06T05:28:26.000Z",
    "summary": "יש משקיעים שמחפשים את המניה הבאה שתזנק בעשרות אחוזים, ויש כאלה שמתעניינים דווקא בכסף שהחברה מחלקת להם לאורך הדרך. דיבידנד הוא חלק מרווחי החברה שמועבר לבעלי המניות, והוא יכול להפוך למרכיב משמעותי בתשואה המצטברת של תיק השקעות לאורך שנים. אלא שלא כל דיבידנד מעיד על חברה איכותית, ותשואת דיבידנד גבוהה…",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/SkgJc711zifg/SkgJc711zifg_0_0_1999_1125_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "867980b4f4a4",
+   "kind": "headline",
+   "title": "השכר הממוצע עלה: כמה מרוויחים בהייטק ומה מראים הנתונים הראשוניים לאוגוסט",
+   "source": "PassportNews",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3a1ZqVFRQQzFta0UwZ2h0OWlBRzV3bGFDS1RpTURTbGN6azBZTkpyekxodnNWS0lBTmRCRXhkckhxN1Nmc0VFQlMwMVBYZi1TZGs4?oc=5",
+   "topic": "deals",
+   "published": "2026-10-06T05:26:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2aea9a70e0a3",
+   "kind": "headline",
+   "title": "Roy Morgan New Zealand Poll: In September National-led Government increases lead over Labour-led Parliamentary Opposition (52% vs. 41.5%)",
+   "source": "Roy Morgan Research",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMU9qOFdZWDY4OXNwX2Y3dWRrVjMwN1ZRTEVvdHNNbzNHejk4cWlVZGxDdXhRcFNOZzFHUi1hNHdwRm02bzNkVE9kRlVzdG54dEdxa19xREN1U0xEZ3pqeUZ0VDdxSDVSYUtVekh3YzdnWDhpRmRjenZ1RGx1N3owQkFZUHFPUnBOVUFRMg?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T05:25:09.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -264,7 +320,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "WWLP"
+   ],
    "important": false
   },
   {
@@ -797,6 +855,20 @@
    "important": false
   },
   {
+   "id": "8671386c02ff",
+   "kind": "headline",
+   "title": "Future Center - Possible Pathways to Forming Morocco’s Next Government After the Legislative Elections",
+   "source": "futureuae.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xVWdmRUVxVEM3VnRFWkJqQkxDS1pRcUdROUYwSEliRDQwY1FyLWhIVUExd1NjR29xa0lwUzhKRVlQem4tYXlocUhkSzdQemtjTE5UdmJoRHZhVDg?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T19:34:08.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ac855f44f178",
    "kind": "headline",
    "title": "Spain PM pins hopes on housing crisis to help win snap election",
@@ -969,6 +1041,20 @@
    "alsoIn": [
     "kikar.co.il"
    ],
+   "important": false
+  },
+  {
+   "id": "a2886af8bef6",
+   "kind": "headline",
+   "title": "250 אלף ויזות בוטלו: המהלך של טראמפ נגד האנטישמיות",
+   "source": "אמס",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3WTkzb3J1TVMyblhfWTJXeHRhdk9MWWJYa1Z3MzAtWjM5cVZ6RTZ6NHR4ODVmR01SZWFtYXM2NmpXWWN4TWRBcEwyckd4UQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T17:51:36.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -2351,7 +2437,8 @@
    "image": "https://images.wsj.net/im-15601055",
    "score": 0,
    "alsoIn": [
-    "wsj.com"
+    "wsj.com",
+    "WSJ"
    ],
    "important": false
   },
@@ -2431,7 +2518,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "theglobeandmail.com"
+   ],
    "important": false
   },
   {
@@ -3566,7 +3655,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "globes.co.il"
+   ],
    "important": false
   },
   {
@@ -3742,7 +3833,9 @@
    "summary": "הבורסה בתל אביב תנסה להתאושש משבוע אדום, המניות הדואליות יספקו רוח גבית בפתיחה • בארה\"ב, הנאסד\"ק בשיא; התשואות מזנקות לשיא של 24 שנים והשווקים נערכים לירידת תשואות • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • דוח התעסוקה בארה\"ב: הקיפאון בגיוסים מעמיק, אך…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg4_epj1sj.jpg",
    "score": 5,
-   "alsoIn": [],
+   "alsoIn": [
+    "globes.co.il"
+   ],
    "important": true
   },
   {
@@ -5821,98 +5914,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0968befcb741",
-   "kind": "headline",
-   "title": "From the Opinions Editor | America, Israel and an unsettled question: Can war win elections?",
-   "source": "The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGJfOWIxSjVYMWl3MWhvbGhlbHdUbE1BTThMdDczS080M2dRTDNqNlotWmFrVWdhV2ZETWNNLXZmZ0U0MURESjZ2S3huZGVfb2k5TDFNRUVCSFlSSDZkMC1hcDlnQ2Z3UEJoaXp1bzQ1Mjk1WGs0MUVlOUVYcGxtT2JhSDdnYTQwdUFfTDdvc1FkNzR0WXZfWFBjUTJ0eEx4LUlXXy1acDNkSzU5MlM4UUU5WTllWlVEQlJj0gHCAUFVX3lxTFBqN25tMWs5Vlg1TW9vOXZaVW1tRmMweXVMeUpnRzg5YWF5NzIxNDdCLVluYlphbkE0MVg1Z1Q0eDlmTVoxRkdFZS1MdkRyV0lTaHBjNTV6NWJpejJMc3pfMEhxZVlRRk5JdGxJbFJTdUQ2cU01NHd5QTI0YTF1NWRHMlBmVXR0enI0RHNzdW9NeHdNWHJqc0FYWDFmZ2VjVGVEZXREMjlaSUhBQzdRZFB0TW03X1RvMG1yT0ctVkpiakxB?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T10:19:53.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "indianexpress.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "9442bbd5f58b",
-   "kind": "headline",
-   "title": "מנכ\"ל ג'נריישן: תרחיש העלטה לא מאחורינו, מצב הפקקים יהיה יותר גרוע",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558159#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-04T10:00:00.000Z",
-   "summary": "עסקת ענק של כמעט 4.5 מיליארד שקל לרכישת שיכון ובינוי אנרגיה עומדת לפני המשוכה של רשות התחרות, אבל מנכ\"ל ומייסד הרוכשת, ג'נריישן קפיטל, לא מודאג • בשיחה לפודקאסט \"כוחות השוק\", ארז בלשה משרטט את חזון התשתיות הלאומיות, מזהיר מתרחיש העלטה (\"נזכה לשקט רק ב־2032\") ומבטיח שהפקקים עוד יחמירו לפני שישתפרו",
-   "image": "https://res.cloudinary.com/globes/image/upload/v1790842087/800_%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98_%D7%9B%D7%95%D7%97%D7%95%D7%AA_%D7%94%D7%A9%D7%95%D7%A7_tdahy9.png",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d830992aab41",
-   "kind": "headline",
-   "title": "סיה מוכרת חצי מהזכויות לשירים שלה ב‑180 מיליון דולר",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlcXJYSGFyRjJPcEtMLTBpclhLTW9vY1RTbmtVaXQ4S0hpSUVTRTh2Z1dXU3dKdWVld2V1RmE4SU90U0RfMXF0V2NpM3Z6NVk4N1NmZl9ZVmpDNllIdzFaN1RhV0ppcTJuQUJKdlJkNUU?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T09:49:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "bizportal.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "f9a395054c6e",
-   "kind": "headline",
-   "title": "Saeima okays new airBaltic investment decision / Article",
-   "source": "LSM",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3R2QWRJSUg4VWtfbEgtRkhwOE42Q0J2bk5YcWtxbDRuV0Z4djBmS0xTSUh3TV8zN1I2MllYX1d1UGpEc0ZnOFJxd2xMdzlTTWdjVkE3VzFkSHJSN0xISFJZMDlRTHVNSHpXSnZYVUJMa3dfa0YxbDdqaWVrNFhIZG45MzRMSDJJLXM2ZERIb1VsVnQwWkIwRlJfb0szRFZ4VlV0ajlyWHptMXF5d0hxQw?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T09:46:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6105d25fe49f",
-   "kind": "headline",
-   "title": "אנגלית כיתה ב': למה לא מחכים לבית הספר, לפי המחקר",
-   "source": "bhol.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUQVF0cGJTcWFhVE1EZGNnSVlpcVFtSlNKM3JwU1c4SFBMYUJ1Q1BGay1ySk9YWnVobDF4emx0d1U2MU84YS03R2JrQQ?oc=5",
-   "topic": "research",
-   "published": "2026-10-04T09:39:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "בחדרי חרדים"
-   ],
-   "important": false
-  },
-  {
-   "id": "b920a666a93a",
-   "kind": "headline",
-   "title": "\"לא ארפה מהמלחמה במונופולים שמכבידים על יוקר המחיה\": זה לא התיישן טוב",
-   "source": "TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVlWTEhCckpTclUzdFBNc3ZmZ2tPb0pPTDQxWTdqcVBwRUlURXRXQ3NWSXY3NElYaGhaazhNNnVLc1REall2M2lvaEE0bjBJV1owVmF3SzFER0RjX3prVFpPSWZUNTE2aXAyM2dBNHpkaFhTa0VfS3A0amNoRVY0UnF1dkt2Zjh2YWo1WkxGMThDcUN5S0N1VzA1ZDJVM1Nu?oc=5",
-   "topic": "demo",
-   "published": "2026-10-04T09:31:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "themarker.com"
-   ],
    "important": false
   }
  ]
