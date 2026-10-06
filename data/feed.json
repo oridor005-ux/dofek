@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T05:48:02.768Z",
+ "updated": "2026-10-06T05:59:27.850Z",
  "items": [
+  {
+   "id": "2791d44445d6",
+   "kind": "headline",
+   "title": "קרנות איריות ומס ירושה: מה באמת חשוב למשקיע הישראלי לדעת?",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/interactive/wallstreet/article/nmt14zlcb",
+   "topic": "econ",
+   "published": "2026-10-06T05:44:37.000Z",
+   "summary": "משקיע ישראלי שרוצה לעקוב אחר S&P 500 יכול לבחור בין קרן סל אמריקאית לבין קרן אירית שעוקבת כמעט אחר אותו מדד. על המסך ההבדל עשוי להיראות קטן, אבל מאחורי מקום ההתאגדות של הקרן מסתתרים הבדלים במיסוי דיבידנדים, במבנה הקרן ובעיקר בחשיפה האפשרית למס העיזבון האמריקאי. אז מהי בעצם קרן אירית, למה היא הפכה…",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/Sy5i7WGoGx/Sy5i7WGoGx_0_0_2000_1126_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c45ca4313112",
    "kind": "headline",
@@ -5899,20 +5913,6 @@
    "alsoIn": [
     "themarker.com"
    ],
-   "important": false
-  },
-  {
-   "id": "8cf9074dc388",
-   "kind": "headline",
-   "title": "Latvian PM’s election win boosts chances for pro-Ukraine coalition",
-   "source": "politico.eu",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3A2c094bTlpME1sb2ZWckNBUkxzSUl3Q2toQ1dRRHE2dW9RdlJfSUUzc2lKOUVCM3ZYSV9YQThNSU1VeHBMaW1mdV81LXJibGgyNnBDNldOWDN2VEIxNWFGNkxBcVFjLXRoQy1QNjBnVTUyZ1RZYy0yZF8xNDRfQkhka0dOb3pJMi12RHhLS2NQMkM0VWo5ZTBvbUl6TWJ5VnVEdTFVLUw5UFNtVmZwRjZQUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T09:30:52.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
