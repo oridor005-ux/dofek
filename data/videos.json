@@ -2874,12 +2874,34 @@
    "found": "2026-10-06T17:01:18Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693598213281975570.txt"
+  },
+  {
+   "id": "7693605717634321685",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693605717634321685",
+   "caption": "תוך כדי מלחמת קיום: השקרים של תקשורת השמאל על גבם של החטופים",
+   "posted": "1791307178",
+   "found": "2026-10-06T17:32:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693605717634321685.txt"
+  },
+  {
+   "id": "7693605657190337812",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693605657190337812",
+   "caption": "״עוד לא אבדה תקוותנו״: 700 לוחמי צנחנים נשבעו אמונים ברחבת הכותל המער...",
+   "posted": "1791307164",
+   "found": "2026-10-06T17:32:43Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693605657190337812.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T17:16:12Z",
+  "at": "2026-10-06T17:32:54Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
