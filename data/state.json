@@ -69,12 +69,8 @@
   "4bd58dbf4e1a",
   "69496b9ef9ec"
  ],
- "pending": [
-  "786dc5e0ef98",
-  "4bd58dbf4e1a",
-  "69496b9ef9ec"
- ],
- "lastRun": "2026-10-06T03:50:50.890Z",
+ "pending": [],
+ "lastRun": "2026-10-06T04:00:26.953Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -101,8 +97,8 @@
    },
    "at": "2026-10-06T03:38:47.236Z"
   },
-  "lastNewItemAt": "2026-10-06T03:50:50.890Z",
-  "lastPushOkAt": "2026-10-05T18:41:17.948Z",
+  "lastNewItemAt": "2026-10-06T04:00:26.953Z",
+  "lastPushOkAt": "2026-10-06T04:00:26.953Z",
   "googleOkAt": "2026-10-06T03:38:47.236Z"
  },
  "lastFullAt": "2026-10-06T03:38:47.236Z"
