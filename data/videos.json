@@ -2558,12 +2558,23 @@
    "found": "2026-10-06T12:49:38Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693532031929699591.txt"
+  },
+  {
+   "id": "7693540048372829492",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693540048372829492",
+   "caption": "פרטים נוספים על משחק הפרידה של מסי מנבחרת ארגנטינה #חדשות12 #N12 #mes...",
+   "posted": "1791291888",
+   "found": "2026-10-06T13:20:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693540048372829492.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T13:04:36Z",
+  "at": "2026-10-06T13:20:18Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
