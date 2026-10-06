@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T05:12:41.504Z",
+ "updated": "2026-10-06T05:24:04.261Z",
  "items": [
+  {
+   "id": "de706eeb6f31",
+   "kind": "headline",
+   "title": "South Korea Investigates Possible Use of A.I. in Hacks on Its Banks",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+   "topic": "world",
+   "published": "2026-10-06T05:18:56.000Z",
+   "summary": "The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-skorea-ai-jkbg/06xp-skorea-ai-jkbg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "51a182161e30",
+   "kind": "headline",
+   "title": "דיווח: איראן תכננה להרוג חיילי ארה\"ב ולפגוע במפציצים בבריטניה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558513#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-06T05:02:00.000Z",
+   "summary": "דיווח בניו יורק טיימס: 12 מפציצים אמריקניים הוצאו מבסיס חיל האוויר הבריטי פיירפורד בשל חשש למתקפת רחפנים איראנית • הקואליציה בראשות סעודיה הנלחמת בחות'ים: ביצענו \"מבצע צבאי גדול\" במחוז חודידה בתימן • דיווחים שוטפים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "ac4a721999e5",
    "kind": "headline",
@@ -551,6 +579,20 @@
    "score": 3,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "50531e32234d",
+   "kind": "headline",
+   "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-05T20:42:19.000Z",
+   "summary": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/784e/live/4834ba00-c0d8-11f1-bdc6-179ac8d394b5.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "065236e01dbe",
@@ -5874,52 +5916,6 @@
    "score": 0,
    "alsoIn": [
     "military.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "5bb452cf2c8a",
-   "kind": "headline",
-   "title": "הלילה בחצות: מחיר הדלק צפוי לרדת ב-50 אג' ל-7.77 שקל לליטר",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ma2hpd2w3cnU0SVc4QXF1bDU5b2g3a2ZkeTA5SlJYTzJzaUJUbkhvdE12VlV4clV2QVZreDhqMkd0a3dXa1RtcnlEenJ1QVB0cTlYVjR3S05ZamZvREUyWVZJTUt3dHhN?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T08:51:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "calcalist.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "31c7b7cc8f38",
-   "kind": "headline",
-   "title": "The votes are in: United List handed massive mandate by Latvian voters / Article",
-   "source": "LSM",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZkhOSjlnUzEyS2xCUm5VQ0pZSEFKVFJhZmMwTGxrSXVyMnNpY2RWYkxpa2lvQlZpV1hGX1RINE83N1hqTmtHakY2VC14SHg5RFAtVGI4NEZJRHpuVjhuZDkwdDNLd2hOUGNoUUp3RnhsWmM4VU0wLWs3dGozakRNN0RYVDJYM0xITllPOUdwdHBqUkd5eHVWVDRrZEQ0ekZkSTZWdEZ5alZPTnlZV1FSWXJJeXpPeTRtcV9oRm5EcFdXSHhjTm10WDd1dmwzNUk?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T08:28:27.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "89d12aa0984f",
-   "kind": "headline",
-   "title": "זעם בניו יורק: \"תוכנית האנטישמיות של ממדאני מתעלמת מישראל\"",
-   "source": "C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TZlFPUEpsLVgwRHo3TXN2T2Z2OWFfYmJ4VlR0dXRYektzQkRPeEt3SkpOOUZ6SV9nZFFHUFhZWmtqSlN1NDVSZ0p0TVYzUQ?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T08:26:24.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "c14.co.il"
    ],
    "important": false
   }
