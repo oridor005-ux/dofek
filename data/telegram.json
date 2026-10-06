@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65558,
    "ok": true,
-   "checkedAt": "2026-10-06T12:06:58.701Z"
+   "checkedAt": "2026-10-06T12:18:37.458Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T12:06:59.440Z"
+   "checkedAt": "2026-10-06T12:18:38.331Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:00.138Z"
+   "checkedAt": "2026-10-06T12:18:39.009Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11413,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:00.939Z"
+   "checkedAt": "2026-10-06T12:18:39.696Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19280,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:01.625Z"
+   "checkedAt": "2026-10-06T12:18:40.374Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:02.378Z"
+   "checkedAt": "2026-10-06T12:18:41.104Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54897,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:03.056Z"
+   "checkedAt": "2026-10-06T12:18:41.793Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131453,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:03.870Z"
+   "checkedAt": "2026-10-06T12:18:42.534Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74676,
+   "lastId": 74677,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:04.462Z"
+   "checkedAt": "2026-10-06T12:18:43.144Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:05.193Z"
+   "checkedAt": "2026-10-06T12:18:43.901Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T12:07:05.918Z"
+   "checkedAt": "2026-10-06T12:18:44.709Z"
   }
  },
  "posts": [
@@ -512,13 +512,22 @@
    "date": "2026-10-06T12:01:38+00:00",
    "text": "\"נוני מוזס היה אובססיבי, הוא רצה לדעת על כל שלב ושלב בתהליך\"\nביום עדותו השני העניק חבר הכנסת לשעבר איתן כבל הצצה למערכת היחסים שלו עם הנאשם נוני מוזס, המו\"ל אכול הסודיות של \"ידיעות אחרונות\": \"הבנאדם היה מתקשר, מקטר על הממשלה ומדבר איתי כאילו אני איזה ער\"ן\". \nכבל, שנחקר באזהרה ב\"תיק 2000\" אך לבסוף לא הועמד לדין, סיפר על הצעת שוחד שקיבל לטענתו בעבר והתעקש שידיו נקיות. כשהוצגו לו סתירות בין גרסאותיו השונות, התפתל והודה שלא כל התשובות שסיפק לחוקרים היו מדויקות \nמשפט המו\"לים, שלב העדויות: https://www.the7eye.org.il/596316\n==\n🧑‍⚖️ עוקבים אחרי כל דיון, כל עדות, כל תפנית: https://did.li/p38Iw\n📌 את/ה כבר כאן, קורא/ת. הצעד הבא הוא להצטרף: https://the7eye.org.il/join",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74677",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74677",
+   "date": "2026-10-06T12:12:28+00:00",
+   "text": "🔴 דיווח: אופ\"א חוקרת טענה לפיה שחקן נבחרת ישראל ירק על איש צוות מאירלנד\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T12:07:06.318Z",
+  "at": "2026-10-06T12:18:45.109Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 46
+  "added": 1,
+  "pendingNew": 6
  }
 }
