@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65565,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:17.883Z"
+   "checkedAt": "2026-10-06T15:41:49.229Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:18.547Z"
+   "checkedAt": "2026-10-06T15:41:49.886Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:19.185Z"
+   "checkedAt": "2026-10-06T15:41:50.558Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:19.839Z"
+   "checkedAt": "2026-10-06T15:41:51.205Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19285,
+   "lastId": 19286,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:20.489Z"
+   "checkedAt": "2026-10-06T15:41:51.838Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:21.150Z"
+   "checkedAt": "2026-10-06T15:41:52.481Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:21.861Z"
+   "checkedAt": "2026-10-06T15:41:53.142Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131466,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:22.534Z"
+   "checkedAt": "2026-10-06T15:41:53.841Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74694,
+   "lastId": 74695,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:23.115Z"
+   "checkedAt": "2026-10-06T15:41:54.398Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:23.784Z"
+   "checkedAt": "2026-10-06T15:41:55.088Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T15:30:24.477Z"
+   "checkedAt": "2026-10-06T15:41:55.780Z"
   }
  },
  "posts": [
@@ -881,13 +881,31 @@
    "date": "2026-10-06T15:09:50+00:00",
    "text": "🔴 עקב תוצאות חריגות בדיגום מים: 9 נחלים בצפון עלולים להיות מסוכנים לרחצה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19286",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19286",
+   "date": "2026-10-06T15:31:36+00:00",
+   "text": "Israeli security assessments indicate Hamas is reinforcing rather than being defeated. Three years after Oct. 7 and ahead of elections, Netanyahu keeps repeating his promise of “total victory,” despite growing signs it remains out of reach.\nhttps://www.al-monitor.com/originals/2026/10/three-years-after-oct-7-hamas-grip-gaza-tests-netanyahus-total-victory",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74695",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74695",
+   "date": "2026-10-06T15:36:38+00:00",
+   "text": "🔴 צרפת: אם יוכח שחברת הפרלמנט האירופי השחיתה מיצג ל-7/10 - יש להעניש אותה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T15:30:24.878Z",
+  "at": "2026-10-06T15:41:56.180Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 25
+  "added": 2,
+  "pendingNew": 27
  }
 }

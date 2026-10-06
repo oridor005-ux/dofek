@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T15:41:30.052Z",
+ "updated": "2026-10-06T15:53:01.163Z",
  "items": [
+  {
+   "id": "b603161a89db",
+   "kind": "headline",
+   "title": "מנהל רשות המיסים: \"אני חושב שזה נכון כרגע לחזור למס רכישה של -5% ו-6%\"",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/h1ixwkmsfx",
+   "topic": "econ",
+   "published": "2026-10-06T15:44:24.000Z",
+   "summary": "את הדברים אמר מנהל רשות המיסים בכנס נדל\"ן אך הוסיף שזו החלטה שהממשלה החדשה תידרש לה. מנכ\"ל משרד השיכון באותו הכנס: \"הניסיון כל פעם למצוא משהו חדש ולהסביר למה המחירים לא יכולים לרדת - ניסיון נואש ולא נכון\"",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/15/SJgTOWSvkl/SJgTOWSvkl_696_723_1811_1020_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "3608f9aced90",
    "kind": "headline",
@@ -5848,22 +5862,6 @@
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_0_3000_1688_0_medium.jpg",
    "score": 2,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bb86f934e22e",
-   "kind": "headline",
-   "title": "\"הזדמנות שלא הייתה בעשור האחרון לקבע תשואה גבוהה באפיקים סולידיים\": ראיון על אג\"ח, ריבית ומה שביניהם",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QQk4tMUxnQ21KdG0wM0l3dWVlRXczalZWTFBSajZ4aDl4N2dBenpwRHJyQ1hoaU5BaV9pNjczMXdMVXdvaVYxWkNFM3FtcUtuOVVJUnFqUl9IMmxGTWNfcmtCaDkzZw?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T05:14:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "bizportal.co.il"
-   ],
    "important": false
   }
  ]
