@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:25:37.180Z",
+ "updated": "2026-10-06T21:38:03.092Z",
  "items": [
   {
    "id": "812183369124",
@@ -3393,6 +3393,20 @@
    "important": false
   },
   {
+   "id": "09835444a38c",
+   "kind": "headline",
+   "title": "Georgian Young Lawyers’ Association",
+   "source": "Right Livelihood",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczNick1qSGpNN1VWVWtvTzAzVm1fOVZvNjNXZU1mNDNvN3RxNEZRNkpNS1VrTVhKZjBhQ25vNjliXzY1VkxmTlpSRGZKdzdKdFhoNE45UGd0RGN0bkxZSDM2amVYbk10MjZBeVB0SHRwWmJFdVUwMUxVTmVOVDZublRCd3RPNlV5RXJzX2pqNzJGNDV6SG5tWDg1MWhhQQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T00:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "b67ee88a863f",
    "kind": "headline",
    "title": "Ethiopia PM Abiy Ahmed secures second five-year term - APAnews",
@@ -5809,22 +5823,6 @@
    "image": "https://static01.nyt.com/images/2026/09/27/us/sotr-28sep-promo/sotr-28sep-promo-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "20242c2226f1",
-   "kind": "headline",
-   "title": "Why has Spain's PM called a snap election?",
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOUDV3S051c2dmUDlncXp6cGpXRHFqdl94bmFRMWwwRFJIM1V3NVk2MEFqRjBGdGVKeloyVmo0RWcxQnBBTFczYmZ4bW1xV2dKM2VRaGRaS2E?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T09:03:30.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "bbc.com"
-   ],
    "important": false
   }
  ]
