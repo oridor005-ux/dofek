@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T00:42:46.560Z",
+ "updated": "2026-10-06T00:55:05.677Z",
  "items": [
+  {
+   "id": "8f42d425e697",
+   "kind": "headline",
+   "title": "Protesters clash with police over Kosovo war crimes court law",
+   "source": "Yahoo News UK",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0lqM2Rib0dfTnpzX2R2YXZBbHFVQlBrUlV2c1I3M3NCNGMxZWtlbHhPY19qM0xzckRkenNDeGJoNzJFY2R6dVI1WTFhcXZ4ZEd4UkVLa0M3UHRfeGI0N3JmX1FIRFhCTGprMm5OV1hpaXpnbVFhUW1lMWd0WEwzLTVR?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T23:24:55.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6ec2df98b5b2",
    "kind": "headline",
@@ -488,7 +502,9 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
+   "alsoIn": [
+    "algemeiner.com"
+   ],
    "important": false
   },
   {
@@ -529,6 +545,20 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IQlJqT05nRDZwd2FtR3cwcVpDOGtudkxBbVZYOEFYZVRiWXpyX2ZpQkhycXU3QW9OZ0U2djAwRS1uVmc3SHQ4bHhtYXNKM0Zob1NsRFRIRlY5LXZwUFFvcVBRVVY1YWFXTkx2dTdRaw?oc=5",
    "topic": "world",
    "published": "2026-10-05T16:08:51.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b4ee2db2cf76",
+   "kind": "headline",
+   "title": "Menjëherë pas takimit me Kurtin, Hamza mbledh Grupin Parlamentar të PDK-së",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFI0V0NfbDNCNkRZWkJkd2I5QmcwdmtsWXhyTURWUWpGWlVUMlh1TVJzdjByNEZ3VFV5bVljV0N3VUdXSS12b0NtRi1XM2tlRXlXcjhDdllDVnVMUlR3eHI2X29pYU55d3pmTFpEcU1sNXBWT2w4aXVoNHlka096WmtUV3V5SHhTWG9FVGtLUm50TjdweEdtMUZUOGxyamczVmtHX04yX0Noenp0WVZfaGt0NkNBV00?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T16:00:08.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -667,6 +697,20 @@
    "alsoIn": [
     "ice (אייס)"
    ],
+   "important": false
+  },
+  {
+   "id": "d19fc2448f56",
+   "kind": "headline",
+   "title": "Çitaku: PDK-ja s’largohet nga Kuvendi, deputetët të kthehen e ta votojnë Ligjin për Specialen",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOExqeHpwSHE0Q2xBS0drNzRkTkRmU2QtaG1ZVVU4a0Q0SS1ZMTdkbGtUWS1BNnJvbGozMmFhWWdEcnhCRnNCaExYeDJpalhTcDBZSG16eG9OY3BuUlNiejJsdFo0cExCSDZuYWY5VUlWcndNQU9XLTBXMUFnclFfZFlqaTI0bXJTRnVNbW5YZU51UV9Cbnh5Q2xXdk1iUklrN05DV2J4RmR5VlREMmU1ZFAxeTNjMWdJQnFxbTB4NW8zSDNZLXZHVEdidGI?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T15:16:45.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -1277,7 +1321,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Reporteri.net"
+   ],
    "important": false
   },
   {
@@ -5882,52 +5928,6 @@
    "score": 0,
    "alsoIn": [
     "fijivillage.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "f4dd39c372e0",
-   "kind": "headline",
-   "title": "Bosnia general election 2026 explained in maps and charts",
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakhmUk9TWUN1QngzRDNSWmZ4blA0RmcxR1ZoMXh0Z1Z2Q0xMN0JiTjQ5Zzdka1YwZnBNZ0xEem5leG9NQkc5Q3lxQ1pLbVc0dXFRd21tNWg2bUhJRFhxMVpSVU9WRFd5RkdPSU1RTzlpaXMxVWpJVzZyUEhKOVNXTkdWdkVoVkVnV2hkMzhQaXJNN2MyRHZpdnNGRmhCWlnSAaQBQVVfeXFMTXQ2bGEyVU9mU1VENE1BQ1FwRjA0VzlaUzM0OC1zc29RQ1FyMzhWUzFBSTJ6ZDBGbkN5REFWY0N5OG8wSHhyWWEyUDh2LThjRFhyM0NqQ0h0MmNsdVJ2Y3FLb0hvbjgyX2Q2UUlFSU9ZRXZ1TVVkU2xEM19qM0VYUE5PX2VydVJfR3g2ZkdPTVMyNWI2bVg0M2g2cV9qSFQ2NENXbXI?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T05:03:45.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "aljazeera.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "1a5914c74cd9",
-   "kind": "headline",
-   "title": "Bosnia votes Sunday in election that could affect EU bid",
-   "source": "The Straits Times",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTVCNnQ5LWR2akd3MW5ManZ4WXg3UFBSaTkySkZBZUZGQWw2cG50bFQxYnh3UG1kOXRtc19Hdk5INWVHbEVhV1FLY2doeVc2OUpLU19yMjNEMDhVNFI0MFp1NzJ4WVQ5ZGdQN2tPdHJDMFl5MWlYR2NQOEgweTNRdldyVkJ2QmJ5U3JaMm44cV9LUVc1b3Roa0h3RDVLSklHNFp2dnh1eDBfT3ItcXh6cHBDWFpoZi1wdlBJ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T05:03:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "03726134e4db",
-   "kind": "headline",
-   "title": "Leftist and nationalists lead in election for Bosnia's tripartite presidency",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnB0bzdlVUpKdEdIZkhBZU1wLVhPTF8zLW5YMy1NRF9hSlJsM0ZmMS1DNG5JbVIwQkk4QTQwMmdSU0JCUHd5blNMdzhnME1ycHBCdm5IcVhLUTRVU1d6dENmYXgwYlV4dU5HOWVyR0oxLVNYYTVTeWVNNEVaSTFaMVhZRkk5aFlUTnE1ZHo2bVZrdHZWZG93UTd5Yw?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T05:01:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "reuters.com"
    ],
    "important": false
   }
