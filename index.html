@@ -556,8 +556,8 @@ async function openNotif(){
   <div class="box key" style="margin-top:6px"><h4>🔔 התראות ישירות מדופק אמיתי (מומלץ)</h4>
     <div style="font-size:.9rem;color:var(--ink2);margin-bottom:6px">לחיצה על ההתראה פותחת ישר את הידיעה בתוך האפליקציה. בלי אפליקציה נוספת.</div>
     ${!webPushSupported() ? '<div class="pending">הדפדפן הזה לא תומך. התקן את האפליקציה דרך Chrome (באייפון: Safari ← הוסף למסך הבית), או השתמש ב-ntfy למטה.</div>'
-      : sub ? `<div style="color:var(--demo);font-weight:600;margin:6px 0">✓ פעיל במכשיר הזה</div><button class="btn ghost small" id="wpOff">כיבוי</button>`
-      : `${standalone ? '' : '<div class="pending">💡 כדאי להפעיל מתוך האפליקציה המותקנת (האייקון במסך הבית), כדי שהלחיצה תפתח אותה.</div>'}<button class="btn" id="wpOn">הפעלת התראות</button>`}
+      : sub ? `<div style="color:var(--demo);font-weight:600;margin:6px 0">✓ פעיל במכשיר הזה</div><button class="btn ghost small" id="wpOff" style="width:auto;display:inline-flex;padding:8px 18px">כיבוי</button>`
+      : `${standalone ? '' : '<div class="pending">💡 כדאי להפעיל מתוך האפליקציה המותקנת (האייקון במסך הבית), כדי שהלחיצה תפתח אותה.</div>'}<button class="btn small" id="wpOn" style="width:auto;display:inline-flex;padding:8px 18px">🔔 הפעלה</button>`}
   </div>
   <details style="margin-top:14px"><summary style="font-size:.9rem;color:var(--ink2)">או: התראות דרך האפליקציה ntfy</summary>
   <ol class="steps" style="margin-top:10px">
