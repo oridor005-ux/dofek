@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65571,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:30.636Z"
+   "checkedAt": "2026-10-06T19:16:05.021Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:31.290Z"
+   "checkedAt": "2026-10-06T19:16:05.711Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:31.953Z"
+   "checkedAt": "2026-10-06T19:16:06.357Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:32.665Z"
+   "checkedAt": "2026-10-06T19:16:07.013Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19291,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:33.349Z"
+   "checkedAt": "2026-10-06T19:16:07.676Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:34.034Z"
+   "checkedAt": "2026-10-06T19:16:08.383Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:34.680Z"
+   "checkedAt": "2026-10-06T19:16:09.034Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131477,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:35.347Z"
+   "checkedAt": "2026-10-06T19:16:09.725Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74705,
+   "lastId": 74706,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:36.184Z"
+   "checkedAt": "2026-10-06T19:16:10.296Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:36.858Z"
+   "checkedAt": "2026-10-06T19:16:10.967Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-06T19:04:37.561Z"
+   "checkedAt": "2026-10-06T19:16:11.739Z"
   }
  },
  "posts": [
@@ -1208,13 +1208,22 @@
    "text": "המהומות בפריז - גם הכתבת של פוקס ניוז הבחינה בדגל הפלסטיני בלב ההפגנה...\nתגובה אחת",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74706",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74706",
+   "date": "2026-10-06T19:09:22+00:00",
+   "text": "🔴 דיווח בגרמניה: ראש שירותי הביון לשעבר שנעצר בחשד לריגול - עבד עם סוכן מאזרבייג'ן\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T19:04:37.960Z",
+  "at": "2026-10-06T19:16:12.140Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 60
+  "pendingNew": 61
  }
 }
