@@ -2915,12 +2915,45 @@
    "posted": "1791308955",
    "found": "2026-10-06T18:02:06Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693620549280533781",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693620549280533781",
+   "caption": "משנה כיוון | אריאל קנר כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמח...",
+   "posted": "1791310632",
+   "found": "2026-10-06T18:32:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693620549280533781.txt"
+  },
+  {
+   "id": "7693620518397709569",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693620518397709569",
+   "caption": "⁨\t21 יום לבחירות, 3 שנים ל-7/10, ועדיין לא קמה ועדת חקירה ממלכתית👆⁩",
+   "posted": "1791310628",
+   "found": "2026-10-06T18:35:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693620518397709569.txt"
+  },
+  {
+   "id": "7693625010526620948",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693625010526620948",
+   "caption": "⁨\tפעילה פרו-פלסטינית התקרבה לשער שבו המתינו נוסעים ישראלים בשדה התעופ...",
+   "posted": "1791311671",
+   "found": "2026-10-06T18:36:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693625010526620948.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T18:17:02Z",
+  "at": "2026-10-06T18:36:24Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
