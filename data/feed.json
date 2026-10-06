@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T16:52:55.192Z",
+ "updated": "2026-10-06T17:04:32.866Z",
  "items": [
+  {
+   "id": "3bbf200496ed",
+   "kind": "headline",
+   "title": "עסקת ענק בתחום הגרעין מזניקה את ה-S&P 500 לשיא",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558504#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T17:01:00.000Z",
+   "summary": "ענקיות הטכנולוגיה והאנרגיה ממשיכות לדחוף את המדדים המובילים לשיאים חדשים, בזמן שמדד המניות הקטנות מפגר מאחור • הבורסות באירופה ננעלו כולן בטריטוריה הירוקה • מניית מארוול מזנקת בעקבות תחזית הכנסות ארוכת טווח אופטימית במיוחד • מחיר נפט מסוג ברנט ירד מתחת ל-100 דולר לחבית • אופטימיות בסיטי לגבי מניית…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "91856377764c",
+   "kind": "headline",
+   "title": "U.S. Looks to Iceland as It Expands Military Footprint in Arctic",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/u-s-looks-to-iceland-as-it-expands-military-footprint-in-arctic-aa6420e6?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-06T16:51:00.000Z",
+   "summary": "Secretary of State Marco Rubio’s visit seeks to deepen cooperation with a country rattled by President Trump’s threats against neighboring Greenland.",
+   "image": "https://images.wsj.net/im-12492913",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "1110731a81dc",
    "kind": "headline",
@@ -5829,36 +5857,6 @@
    "published": "2026-10-05T07:24:00.000Z",
    "summary": "ראש ממשלת ספרד פדרו סנצ'ז הכריז הבוקר על הקדמת הבחירות, שתוכננו להתקיים בעוד פחות משנה • התזמון נובע מהפגנות נגד מחירי הדיור שפרצו בערים גדולות בספרד בשבוע האחרון",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784711483/AP26169543820862_duamlc.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ea9e3193de68",
-   "kind": "headline",
-   "title": "עשו זאת חברים, חייבים להחליף את השלטון: בני בגין קורא להצביע לאופוזיציה",
-   "source": "103FM",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORlctaVRIMDNHd0RtR1VmM3JFM2Q1a1ViSkJjXzNqalgyS1MzSlJwbUVialN6V1V6aldYc0RkOHRKaVkyZGE4bDVMOGdER3hJaGVDTjJvdERvdEk5bVpKLXB5WVZreWNRS0FJQ2Vxd0JQcTBpV0dIOHZUVUJiWGNCQg?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-05T07:18:45.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "103fm.maariv.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "023ce1d53d97",
-   "kind": "headline",
-   "title": "Parliamentary vote on two government decrees approved by the cabinet this week containing a package of social and housing measures, in Madrid",
-   "source": "The Lufkin Daily News",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOS2FCdmM1Rlk5cEZONmYzSjdha0VvOGRneW83Z29XMm1hUEh0MGp4Z1JNckNHbm5EaEFzWmRpbUx4MmpqVXZPRE9GZzJMbmtEVDV3RjRRQS1ZVF91WnZfVXhWVHBjM1NwTEF0SFF1N3dqdUxaV3BnRG9DenZLd0MwdnBxOUJZQjRIcDBVb0xRdkNkMGFRTm40VGd1UHhlYlQ4WUdLUVd4Y1kycHpaakdteW82Q1JBRzZzMkdyQS1jLWRIQmNsZV80WFRVZEhNeXFBSUZaTDNQSnIzbnVfOHFLd2Fqbmhfd3d5THNad3RLRUdjcVRvdzRhaTZKWG1lTVdfZnRYQlRSZmpSQURTMjZMVHlpZzVVZzVNSE5lQmVmSFdKbms?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T07:15:04.000Z",
-   "summary": "",
-   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
