@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T14:06:15.810Z",
+ "updated": "2026-10-06T14:15:44.113Z",
  "items": [
+  {
+   "id": "c48616a4482b",
+   "kind": "headline",
+   "title": "NGOs say Israel bombed a journalist and appeared to attack ambulances trying to aid her – explainer",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/video/2026/oct/06/ngos-say-israel-bombed-a-journalist-and-appeared-to-attack-ambulances-trying-to-aid-her-explainer",
+   "topic": "defense",
+   "published": "2026-10-06T14:13:55.000Z",
+   "summary": "Journalist Amal Khalil was killed in April in what colleagues described as a sustained attack by Israeli forces. Rescuers attempted to dig her out of the rubble of a building that had been targeted by Israeli forces, who had also prevented them from providing life-saving assistance. Beirut-based…",
+   "image": "https://i.guim.co.uk/img/media/908350228f80aedb9a7adb8c46c003b2e5233491/0_44_1008_807/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=ad71249a43bc26448348c75a7ea64110",
+   "score": 7,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "071ad9a38106",
    "kind": "headline",
@@ -5854,20 +5868,6 @@
    "summary": "לאחר זינוק חד בפעילות, אירוע האבטחה החמור מעלה שאלות קשות על נהלי הגיוס והסינון של פליי דובאי • כעת, עתיד חברת הלואו קוסט תלוי בשיקום אמון הנוסעים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790753217/shutterstock_2154617393_g7thjz.jpg",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "20931090adfe",
-   "kind": "headline",
-   "title": "האם הגידול המהיר של פליי דובאי הפיל אותה עם גיוס של טייס לא כשיר?",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558385#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-05T02:57:00.000Z",
-   "summary": "לאחר זינוק חד בפעילות, אירוע האבטחה החמור מעלה שאלות קשות על נהלי הגיוס והסינון של פליי דובאי • כעת, עתיד חברת הלואו קוסט תלוי בשיקום אמון הנוסעים",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790753217/shutterstock_2154617393_g7thjz.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
