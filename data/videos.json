@@ -2230,7 +2230,7 @@
    "caption": "תרבות של שקר, מדפים של שקר, והכל בנועם וחיוך מעושה ",
    "posted": "1791263700",
    "found": "2026-10-06T05:30:47Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693418981742382344.txt"
   },
   {
@@ -2491,8 +2491,11 @@
    "caption": "מבולבלים? גם אנחנו #פוליטיקה #בחירות #עמךישראל #וינטר ",
    "posted": "1791285082",
    "found": "2026-10-06T11:18:30Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693510805173685522.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693510805173685522.txt",
+   "insightIds": [
+    "ins-2026-10-06-wn18"
+   ]
   },
   {
    "id": "7693508796798323986",
@@ -2513,8 +2516,11 @@
    "caption": "\"הליכוד פעם הייתה מפלגה ליברלית, היום היא מפלגה חשוכה\" 👇 רה\"מ לשעבר ו...",
    "posted": "1791286855",
    "found": "2026-10-06T11:49:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693518443399630100.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693518443399630100.txt",
+   "insightIds": [
+    "ins-2026-10-06-bn13"
+   ]
   },
   {
    "id": "7693519200224152840",
@@ -2534,8 +2540,11 @@
    "caption": "יום לפני 7 באוקטובר, מגיש ערוץ 14 השתלח במהלך תכניתו ברדיו 103FM בעשר...",
    "posted": "1791286552",
    "found": "2026-10-06T11:51:04Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693517129676508434.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693517129676508434.txt",
+   "insightIds": [
+    "ins-2026-10-06-mg71"
+   ]
   },
   {
    "id": "7693529561690066183",
@@ -2545,7 +2554,7 @@
    "caption": "שלוש שנים לטבח: השוטרים שנלחמו באופקים בעדות דרמטית על הקרבות, השכול ...",
    "posted": "1791289445",
    "found": "2026-10-06T12:35:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693529561690066183.txt"
   },
   {
@@ -2556,7 +2565,7 @@
    "caption": "רגע מביש מיוחד במערכת הבחירות:  השר עמיחי שיקלי חיקה אמש את יו\"ר ישרא...",
    "posted": "1791290023",
    "found": "2026-10-06T12:49:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693532031929699591.txt"
   },
   {
@@ -2567,7 +2576,7 @@
    "caption": "פרטים נוספים על משחק הפרידה של מסי מנבחרת ארגנטינה #חדשות12 #N12 #mes...",
    "posted": "1791291888",
    "found": "2026-10-06T13:20:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693540048372829492.txt"
   },
   {
@@ -2588,7 +2597,7 @@
    "caption": "ניסן דה קאלו, מפקד הקרב בנחל עוז ב-7.10, נזכר ברגעים הקשים. לוקו, כלב...",
    "posted": "1791293400",
    "found": "2026-10-06T13:35:15Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693533873820470549.txt"
   }
  ],
