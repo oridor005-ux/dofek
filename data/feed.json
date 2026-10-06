@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-06T02:28:16.099Z",
+ "updated": "2026-10-06T02:40:35.390Z",
  "items": [
+  {
+   "id": "c74f54c4103a",
+   "kind": "headline",
+   "title": "OpenAI’s models have also meddled with U.S. government websites after going rogue.",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/openais-models-have-also-meddled-with-us-government-websites-after-going-rogue",
+   "topic": "world",
+   "published": "2026-10-06T02:31:42.000Z",
+   "summary": "",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05oz-ai-us-government-version1-qbvk/05oz-ai-us-government-version1-qbvk-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9e862aafb19e",
+   "kind": "headline",
+   "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
+   "topic": "world",
+   "published": "2026-10-06T02:29:31.000Z",
+   "summary": "The separatist party’s victory fell short of clinching a majority that would have all but guaranteed a potential showdown with Ottawa over Canada’s future.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-canada-quebec-results-01/05int-canada-quebec-results-01-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1c194a63b005",
+   "kind": "headline",
+   "title": "Alexandria Ocasio-Cortez Says, ‘If Abdul Can Win in Michigan, Anybody Can Win Anywhere’",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/us/politics/aoc-abdul-el-sayed-2028.html",
+   "topic": "world",
+   "published": "2026-10-06T02:25:08.000Z",
+   "summary": "Representative Alexandria Ocasio-Cortez made the remarks about Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, as she considers whether to run for president in 2028.",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05pol-ocasio-cortez-01-jtwh/05pol-ocasio-cortez-01-jtwh-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9e7f86433acc",
    "kind": "headline",
@@ -444,7 +486,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "israelhayom.co.il"
+   ],
    "important": false
   },
   {
@@ -5887,52 +5931,6 @@
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/Sk0VK5htWe/Sk0VK5htWe_0_0_3000_1689_0_medium.jpg",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0e68378264ff",
-   "kind": "headline",
-   "title": "‘Building Canada Wrong’: Carney picks oil pipeline as first national interest project days after tabling ‘draconian’ Bill C-39",
-   "source": "The Pointer",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZHcyY095ZjNuaTBXamV3RmtXcWxmUzJjTmhYOXJtVFh2WWIwcy1sZW9NeEJzdjE4cEJsWUNVUWZZaGtueUJsSXgwa0dkenF6aWI3Q1VZaVhoMlBLd0tRNVBYRzhaUnVBbXVqOWZFRTBZRHhnU1YyeDc1QWNHSzkzTFdrcUZHVXFzREk3VF9lLWtDYWh3S3NpZElBMm1DNXB6UXQ3S1I4WFpUWmF3LVpyWTZVSFZDVzlqbEVPRnBMZXdQdF94YjJmeUlMM1BMYWk2ZzN0bW40MUI5MGktR0NGYld2V25VT2ZpdG1aSm9TeE9vUFBqWmc?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T05:15:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a578d73a8806",
-   "kind": "headline",
-   "title": "Latvian PMs party leads in partial election results",
-   "source": "kuwaittimes.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVVkRjJtUmhBTTFUUkt2M0xfVkc3MHloSGhNT01lNE85VlNNTWpUYUpjTzJrbUZoSVJ6MENQYmhlb2ZLQmtEbFpfTkhFekJVTFoxanBxb25vQnQ2dzNWdjk2MnRaa0JIM29XcWJ4UWZZN0RoUG1UWVhEZHBrbG5qS1d2SngyOWQ0UGhfcEZ5TzNhUTZwSkVwVFJ1VTnSAaABQVVfeXFMTWFGZ3NZbXFpOHJ3Vzc0T0pfRTJ5ajhYZUk2UWoyeXlkV1RkdlpMSEF0eG5sdXp6Rjh4NE16RDhHdEJITTFrQllFckVVY0RnUUMxdVF3dHdCYTVPeUZ0U0RXTTBIOE51aUNXVFdUcFhXN2cwdmFDcHZvU1B5WmwwYTJhZ09QNVZLNnc3UXhLemxNNEdrWWd0QWlnenlteFN1bA?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T05:11:04.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Kuwait Times"
-   ],
-   "important": false
-  },
-  {
-   "id": "ca2680f8a953",
-   "kind": "headline",
-   "title": "”הבורסה עולה אבל מעל ממחצית ממניות ה-S&P 500 כבר בתיקון של 20%”",
-   "source": "ספונסר",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mbzlTc0hTdFAtMWNrdFFKdU4tVVZyMEN5NzFscVd4ZURRNGJDNU1hZVFibWVEaEk0M1NqQjM5RFplNDQ0WlBjWlFFYnAwWlRranQ2ZUNjUGpfQUZLWC12dks4WGs5UQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T05:07:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "sponser.co.il"
-   ],
    "important": false
   }
  ]
