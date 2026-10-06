@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T14:53:19.070Z",
+ "updated": "2026-10-06T15:05:46.735Z",
  "items": [
   {
    "id": "7a08975e441d",
@@ -30,6 +30,48 @@
    "important": false
   },
   {
+   "id": "b343b260b611",
+   "kind": "headline",
+   "title": "AfD candidate elected speaker of German regional parliament for first time",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-06T14:44:03.000Z",
+   "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a1/live/79d8ca40-c193-11f1-bc2e-018d645d8d21.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b0399059b583",
+   "kind": "headline",
+   "title": "לראשונה זה 3 שנים: מדד ת\"א 90 נכנס לשוק דובי",
+   "source": "C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQR1hGVFdrMVlzbm9aZVkwU2NZSnJ3V3BrR2lGeVhieXkxeVl6NEZuZlJfZ0w5TURQYzFEQld3VjRWTEcyNzhjM2tmeDRWZw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T14:43:55.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "64a12ba3b6e2",
+   "kind": "headline",
+   "title": "Americans struggle to recognize antisemitism, poll suggests",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wRDd2RWo2YVE3VVcybnVob3N0S3lUQlVISTRoUm1CeGk2c3kwMFZCbDR6ak55dFJNWDY5NnhnNVBoQzV0WWU4VWxRZ0pPd2FINFVBOXlsWWNHQ3lONHBXQ3ZlaWVrQVVwTmc?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T14:43:43.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "dbc999b364dc",
    "kind": "headline",
    "title": "בנק דיסקונט ממזג את בנק מרכנתיל לתוכו",
@@ -39,6 +81,20 @@
    "published": "2026-10-06T14:33:00.000Z",
    "summary": "דירקטוריוני בנק דיסקונט ובנק מרכנתיל אישרו את מיזוג הבת לתוך האם במסגרת מהלך אסטרטגי לצמצום חפיפות, פישוט מבנה הקבוצה ושיפור היעילות התפעולית • מרכנתיל ימשיך לפעול כמותג עצמאי ותחומי התמחותו המרכזיים, בהם הפעילות בחברה הערבית, החרדית, בקרב עסקים קטנים וברשויות המקומיות &ndash; ישמרו במלואם • המהלך…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6731d9738dd9",
+   "kind": "headline",
+   "title": "Moscow is watching Latvia. Is Washington?",
+   "source": "Engelsberg Ideas",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblBINlAxclVheTFtMzgyYmwzaFN2QzdDX2Z3U003V1IwaGRZZElFM3NMaEMwMTdxdWZHLW1iVVVzWGQ3UmtsRjFHMW5DMEhDUkxQMVBqdFQtc2N4aXZid1hjdV9xX2lUaVpTNTAxVmNhcEJ3dGNRemQ3OVdJTy1lZE9Fbw?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T14:26:02.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -166,7 +222,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Atalayar"
+   ],
    "important": false
   },
   {
@@ -191,6 +249,20 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjE5ODI4cmVrbjhCcl9pYUVmX204eXFoRFotTlhiYmJEQUhmdm44VnEzRWcxNzgxbXRnNGZTNEI4Q3drNnZuNmw5ZllGS3FoVnFuUnB5M2VNaEN6YVppSXNxdlBBeGpMUlpyOVNseHpSaXVvQ01mNEZvSm5iLTI3elpDT1ByRjUtdGQ3Nk1td05ZekNOUnAxdlhB?oc=5",
    "topic": "world",
    "published": "2026-10-06T13:02:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "770f0c03676c",
+   "kind": "headline",
+   "title": "סערה בפרלמנט האירופי: חברת הפרלמנט הפילה את דגל ישראל בתערוכת 7 באוקטובר",
+   "source": "וואלה",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13WkZxZjRkYmZhX0txRkh3aE5MTS1tTjlmaG9OU0daWkRsd0tCV1hYdXNsV0NPSE1uQTJKZTY1Umctdi1Ja1dkRU1NV3FyOFdNcWRtT1QzQQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T12:51:44.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -463,6 +535,20 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDRSVnhJMHhfZk1iWHc0eUl4V3R6aGNXZXhBMGZSVWVSd09QZmxydUg1YWZpQU9wVzNHYWZ5aURtdVk0QVphLTk5X010Zkczc3ZqcG05MkZIZ0UycTlKcnhDODFtdFd2dnpyZHdNSkdLV1d6d3pNdWlLbk80eWdoeVU5UFpqLVVXQkJ0czhqQkpmQTdnN3UwWGJIWHpRdjJUSGMw?oc=5",
    "topic": "world",
    "published": "2026-10-06T11:39:19.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9e713af7e021",
+   "kind": "headline",
+   "title": "Haradinaj: S’kemi marrë ftesë ende për seancë të Kuvendit",
+   "source": "Reporteri.net",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkM1Q2R3eU9Fc1FsTXp0bEZEN2hCQVgwMjBlZ0dKbE81MDlSRGNrZnhFMzdhcHdXdXZIVEdHVDBjZG5yUXlENkhlQWg2eWxSM2xEekxDX0gtSXl1NlhtUXplYmlCTmhZN2hqZkFRLXRFMnV1YXptNndpRUNPTkxKak11dkRFQW1paFRMVGw0TVZNbkI4QWdtelJYX3RWWGhPQVE?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T11:38:16.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -1890,6 +1976,20 @@
    "important": false
   },
   {
+   "id": "6eb142e91a9b",
+   "kind": "headline",
+   "title": "Sánchez calls snap elections to derail mass opposition as Spanish far right threatens power",
+   "source": "World Socialist Web Site",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mRTdwenJVRFhHLWQwUm9ra1AwYkd1THNFTjNZcU02b2xFVXJRUzFUdlIzT2NGcWFTd1E3OXJSQmNTcnU5bGo5STd4STNQUkFKRXRtYkFjdEJVNHZzUFMyVnBFXy02bndt?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T04:10:07.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "e1afba675475",
    "kind": "headline",
    "title": "עליות בפתיחת המסחר באירופה; הנפט נסחר מתחת ל-100 דולר",
@@ -2835,6 +2935,20 @@
    "alsoIn": [
     "i24news.tv"
    ],
+   "important": false
+  },
+  {
+   "id": "4e1332f9a184",
+   "kind": "headline",
+   "title": "Survey: Israelis feel more Middle Eastern, less connected to Europe in wake of Oct. 7",
+   "source": "timesofisrael.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dQbzVyR0dZVWJqeFpQUUJtbUI0a0RVVUVEMEpKZ2Q5Q0ZYSnZDSTA5aGUtc3lOd2VsNTRYWGlhdkFzOWItVk5ubzk2SDBYLWxON2kxUmdUUlhEenB5aDBGMVZJNUxDUVFNdlh6TkxETE0tM2p1YnE5V1gyeGhXbHlPczRfdlp5QnhuTzhLNzMwZlpfRTlmZEVHaHNUSWdrdWdtbEFpOS1YZm9VRXNfRFlpNNIBuAFBVV95cUxPOVNCaGZoVHhhZ0dpTENtYWVNSW81OExmR3lLX1VtRGp3alRFMDlIUk9sODAzLWEzUDFzRF81Skd2R2V3M3RZTEZDbllzR0x3cUljc015ejRzU1cyeUVJWkhTb1c2OW9pelFCYm5vSEJXLTlQWTZyLTdqcHJreGxiUDVESmZrb2xjUzNuVThFbURESjNtc3RIdEhfdzJsVFpqWUlHOVZTUks3ZVJuQVBVeUhyQ05ZdExm?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-05T17:57:49.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5748,122 +5862,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/a9a0ba20-c022-11f1-ae5f-052d2eebe3b9.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "da9c508824ca",
-   "kind": "headline",
-   "title": "חמישה דברים שכדאי לדעת לקראת יום המסחר",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
-   "topic": "demo",
-   "published": "2026-10-05T04:43:00.000Z",
-   "summary": "הבורסה בתל אביב תנסה להתאושש משבוע אדום, המניות הדואליות יספקו רוח גבית בפתיחה • בארה\"ב, הנאסד\"ק בשיא; התשואות מזנקות לשיא של 24 שנים והשווקים נערכים לירידת תשואות • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • דוח התעסוקה בארה\"ב: הקיפאון בגיוסים מעמיק, אך…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg4_epj1sj.jpg",
-   "score": 5,
-   "alsoIn": [
-    "globes.co.il"
-   ],
-   "important": true
-  },
-  {
-   "id": "55300edcc2e5",
-   "kind": "headline",
-   "title": "Thapa calls for open Parliament, freer parties",
-   "source": "myRepublica",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXpld21qOTJlNEZnWktrcllfc2t0TlZHdHNubHNPQUl4aHIwNXRYODEwYTV2RjdKcTkyS3BQb0s1VmUzNlY4eE9HcWtCb3dNeGJEOGpaNnJsb3pBLUpmbmRyVWJESi03Sjl0RUpQUUEwenI4MmdQdXEzLXByTEI1bVAyQlgzWmU1YjladnhLZ2U1bER6bVVOd0R1Zzg4dWZVbFE?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T04:36:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6f8e75924c36",
-   "kind": "headline",
-   "title": "אמש בחצות: מחיר הדלק הוזל ל-7.77 שקלים",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bkwufds9gx",
-   "topic": "econ",
-   "published": "2026-10-05T04:28:36.000Z",
-   "summary": "אחרי שהתייקר ב-52 אגורות למחיר שיא של כל הזמנים - 8.27 שקל לליטר, אושרה ע\"י הייעוץ המשפטי בממשלה הפחתה נוספת של מס הבלו - והיא נכנסה לתוקף אתמול בלילה",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/Sk0VK5htWe/Sk0VK5htWe_0_0_3000_1689_0_medium.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "de859f234c59",
-   "kind": "headline",
-   "title": "‏\"כושר ההשתכרות שלי מאופס\": אורן קובי מבקש מבית המשפט לבחון מחדש את מצבו‏",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/hkfyia1jgx",
-   "topic": "econ",
-   "published": "2026-10-05T04:07:17.000Z",
-   "summary": "יזם הנדל\"ן לשעבר, שהוכרז פושט רגל ונמצא במעצר בית עם אזיק אלקטרוני, מבקש להפחית את צו התשלומים החודשי שהושת עליו בסך 30 אלף שקל וטוען כי אינו יכול כיום להשתכר. העליון דחה את ‏בקשת רשות הערעור, אך הותיר אפשרות לבחינה מחודשת של הצו על סמך מצבו הכלכלי",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/06/05/7048867/7048867_75_97_744_419_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "baebdd2a90b7",
-   "kind": "headline",
-   "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
-   "topic": "world",
-   "published": "2026-10-05T04:01:07.000Z",
-   "summary": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?",
-   "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00int-vietnam-iran-01-zpbh/00int-vietnam-iran-01-zpbh-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f169ab43e74a",
-   "kind": "headline",
-   "title": "הנפט בנסיגה, הניקיי שובר שיאים היסטוריים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T03:57:00.000Z",
-   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: הנפט הגולמי מאבד כ-1.1% ונסחר סביב 90 דולר לחבית; הברנט נסוג לכיוון 101 דולר • מדד הניקיי היפני מזנק וחצה לראשונה את רף ה-70,000 נקודות; מחזורים דלילים בשל חופשות בסין ודרום קוריאה • בוול סטריט, הנאסד\"ק שבר שיא שבוע שעבר בהובלת השבבים;…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1696256724/COT_Pic/shutterstock_266526116_b3ndwx.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0e0fa4777870",
-   "kind": "headline",
-   "title": "הנפט בנסיגה, הניקיי שובר שיאים היסטוריים וגם: מתי משקיעי האג\"ח צריכים להתחיל לדאוג?",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T03:57:00.000Z",
-   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: הנפט הגולמי מאבד כ-1.1% ונסחר סביב 90 דולר לחבית; הברנט נסוג לכיוון 101 דולר • מדד הניקיי היפני מזנק וחצה לראשונה את רף ה-70,000 נקודות; מחזורים דלילים בשל חופשות בסין ודרום קוריאה • בוול סטריט, הנאסד\"ק שבר שיא שבוע שעבר בהובלת השבבים;…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1696256724/COT_Pic/shutterstock_266526116_b3ndwx.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d640bdfba94b",
-   "kind": "headline",
-   "title": "Bolsonaro Leads Lula As Brazil’s Presidential Election Heads To Runoff",
-   "source": "i24news.tv",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNODdFMXR0bFctYkFfSVVfZmNCY1FuUWpTTHVWSkN6LWVFZEJ1dWNHakV2LWh0em14ekdBM0hxZlRxVkQ2Y0tTa0Vybl9aOEwtQkFxclc3b2xqNnhORV9MZF9tQlNGekR3dVdOSkxxYlVfX3lRTVBteDJBUmlES3hLaGtORURNLXR0MkRObm04eTBWNFdKNnE5YVI3V2VVTW1UbDJsaVh0a0FONEY3MXU0TUdtNFplNnhaYjFEemIyNHhIbEk2SXEyT2w2cVg2UkU?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T03:56:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "i24NEWS"
-   ],
    "important": false
   }
  ]
