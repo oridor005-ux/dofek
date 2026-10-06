@@ -2784,10 +2784,42 @@
    "found": "2026-10-06T15:48:24Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693580447560846612.txt"
+  },
+  {
+   "id": "7693583672720510228",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693583672720510228",
+   "caption": "\"כמה אחים אתם?\" שאלה יומיומית ותמימה, שהפכה מאז השבעה באוקטובר למשא כ...",
+   "posted": "1791302044",
+   "found": "2026-10-06T16:00:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693583672720510228.txt"
+  },
+  {
+   "id": "7693571760163228929",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693571760163228929",
+   "caption": "\"הכנתי תוכנית לחיסול סינוואר בקיץ 2022, הממשלה נפלה לפני זה\" 👇 \"נתניה...",
+   "posted": "1791302400",
+   "found": "2026-10-06T16:01:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693571760163228929.txt"
+  },
+  {
+   "id": "7693582484583337224",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693582484583337224",
+   "caption": "הפנטגון הודיע אתמול (שני) כי המחבל הפלסטיני נידאל חסן, לשעבר רב-סרן ב...",
+   "posted": "1791301768",
+   "found": "2026-10-06T16:02:05Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-06T15:48:42Z",
+  "at": "2026-10-06T16:02:26Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 3
