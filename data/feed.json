@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T09:19:17.872Z",
+ "updated": "2026-10-06T09:30:46.792Z",
  "items": [
+  {
+   "id": "45b23738a8f9",
+   "kind": "headline",
+   "title": "שלוש שנים לטבח ה-7 באוקטובר: מעל 38.6 מיליארד שקל פיצויים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558531#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T09:19:00.000Z",
+   "summary": "רשות המסים מפרסמת נתונים אודות פעילות קרן הפיצויים לרגל יום השנה השלישי לציון טבח ה-7 באוקטובר של חמאס על יישובי עוטף עזה ופרוץ מלחמת \"חרבות ברזל\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775392826/direct/AP26094484580368_e1azt2.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "16b992787791",
    "kind": "headline",
@@ -5874,20 +5888,6 @@
    "alsoIn": [
     "internationalviewpoint.org"
    ],
-   "important": false
-  },
-  {
-   "id": "b590f566c7e5",
-   "kind": "headline",
-   "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-04T14:24:56.000Z",
-   "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
