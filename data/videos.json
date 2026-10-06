@@ -2479,12 +2479,34 @@
    "found": "2026-10-06T10:48:38Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693502940497054983.txt"
+  },
+  {
+   "id": "7693510805173685522",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7693510805173685522",
+   "caption": "מבולבלים? גם אנחנו #פוליטיקה #בחירות #עמךישראל #וינטר ",
+   "posted": "1791285082",
+   "found": "2026-10-06T11:18:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693510805173685522.txt"
+  },
+  {
+   "id": "7693508796798323986",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693508796798323986",
+   "caption": "\"האחדות שלנו זה הכוח שלנו\": שלוש שנים לאחר הטבח - הרב יגאל כהן במסר מרגש",
+   "posted": "1791284615",
+   "found": "2026-10-06T11:19:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693508796798323986.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T11:03:24Z",
+  "at": "2026-10-06T11:19:12Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
