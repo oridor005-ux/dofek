@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65556,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:33.793Z"
+   "checkedAt": "2026-10-06T11:07:10.744Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:34.450Z"
+   "checkedAt": "2026-10-06T11:07:11.478Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:35.086Z"
+   "checkedAt": "2026-10-06T11:07:12.209Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11413,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:35.733Z"
+   "checkedAt": "2026-10-06T11:07:12.942Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19280,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:36.382Z"
+   "checkedAt": "2026-10-06T11:07:13.686Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:37.046Z"
+   "checkedAt": "2026-10-06T11:07:14.485Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54897,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:37.712Z"
+   "checkedAt": "2026-10-06T11:07:15.247Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131451,
+   "lastId": 131452,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:38.454Z"
+   "checkedAt": "2026-10-06T11:07:16.030Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74672,
+   "lastId": 74673,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:39.199Z"
+   "checkedAt": "2026-10-06T11:07:16.662Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
-   "lastId": 8404,
+   "lastId": 8405,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:39.888Z"
+   "checkedAt": "2026-10-06T11:07:17.408Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T10:55:40.596Z"
+   "checkedAt": "2026-10-06T11:07:18.156Z"
   }
  },
  "posts": [
@@ -408,13 +408,41 @@
    "date": "2026-10-06T10:53:32+00:00",
    "text": "🔴 נתניהו: \"חמאס ינסה לאתגר אותנו לקראת הבחירות כדי לנסות להשפיע עליהן\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131452",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131452",
+   "date": "2026-10-06T11:02:06+00:00",
+   "text": "איך אומרים אינתיפאדה בצרפתית? \nאנטיב, צרפת: בני מהגרים מרוקאים מיידים אבנים לעבר רכבי משטרה.\n#Globalize_the_intifada\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74673",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74673",
+   "date": "2026-10-06T11:04:55+00:00",
+   "text": "🔴 3 שנים אחרי 7/10: נציגי 3 מפלגות הודיעו על קידום \"חוק קו העימות\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "the7eye/8405",
+   "channel": "the7eye",
+   "name": "העין השביעית",
+   "url": "https://t.me/the7eye/8405",
+   "date": "2026-10-06T11:02:15+00:00",
+   "text": "פחות נשים על המסך בחגים: הייצוג הנשי בחדשות ובאקטואליה ירד\nבדיקה של שידורי החדשות והאקטואליה בערוצי הטלוויזיה מעלה כי שיעור הנשים ירד מ-24.7% באוגוסט ל-22.5% בספטמבר • ערוץ 14 נותר שיאן הדרת הנשים • צניחה בייצוג הנשים במהדורה המרכזית של חדשות 12 • בפאנלים: נשים היו פחות מחמישית מהנוכחות על המסך • מדד ייצוג נשים, בשיתוף מיזם 5050 וארגון העיתונאים והעיתונאיות בישראל\nלכתבה של רן קדרון: https://www.the7eye.org.il/596329\n==\n📲 עדכונים מ\"העין השביעית\" ישירות בווטסאפ: https://the7eye.org.il/whatsapp\n🗞️ בלי מפרסמים שמשפיעים על התוכן. רק קוראים. תמוך/י: https://the7eye.org.il/join",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T10:55:40.996Z",
+  "at": "2026-10-06T11:07:18.557Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 35
+  "added": 3,
+  "pendingNew": 38
  }
 }
