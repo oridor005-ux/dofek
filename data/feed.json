@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T04:49:10.483Z",
+ "updated": "2026-10-06T04:53:48.281Z",
  "items": [
+  {
+   "id": "ac4a721999e5",
+   "kind": "headline",
+   "title": "ארה\"ב אישרה מכירת אמלח גדולה למדינות האזור, כולל למצרים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558515#utm_source=RSS",
+   "topic": "defense",
+   "published": "2026-10-06T04:51:00.000Z",
+   "summary": "בצל המתיחות עם איראן, מזכירות המדינה האמריקאית אישרה עסקת נשק בסכום כולל של 2.27 מיליארד דולר למצרים, כווית ואיחוד האמירויות • אלא שהנשק שתרכוש מצרים, לפחות בחלקו, לא קשור למתיחות עם איראן",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1758810992/direct/AP25128489848210_sfwjyj.jpg",
+   "score": 5,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "7f00adde8b61",
    "kind": "headline",
@@ -5907,22 +5921,6 @@
    "image": "https://i.guim.co.uk/img/media/9ef909adce513128d42254144ef8e24705ab0b5f/462_0_4191_3353/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=b98ffad5166905f115df64a885b1e3bf",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6a27713f5478",
-   "kind": "headline",
-   "title": "Geneva protest calls for sanctions against Israel",
-   "source": "SWI swissinfo.ch",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXpBdm03ejc3MW1IV1BCbmRQRjhtYWFJeVRRWVItS3RXLXQwOUdtMlFLN253dTkzTml6YVVYY1d3NGhwQnJwN212ZjZna2N4bTJMNG5MRUFteFRqMTJlZnBTMDdpVENsaUdVVDhycXdLNEJ2c1JhNXQ2aks1WHM1X09WQ2hnejZJOXRhRE5IdnRMTXVKLVVySlBYZlVGaWhxeE9JNGlRM09RWTlyS1E?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T08:19:33.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "swissinfo.ch"
-   ],
    "important": false
   }
  ]
