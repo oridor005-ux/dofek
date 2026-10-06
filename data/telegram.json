@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65565,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:49.229Z"
+   "checkedAt": "2026-10-06T15:53:22.946Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:49.886Z"
+   "checkedAt": "2026-10-06T15:53:23.662Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:50.558Z"
+   "checkedAt": "2026-10-06T15:53:24.339Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:51.205Z"
+   "checkedAt": "2026-10-06T15:53:25.026Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19286,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:51.838Z"
+   "checkedAt": "2026-10-06T15:53:25.714Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:52.481Z"
+   "checkedAt": "2026-10-06T15:53:26.412Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:53.142Z"
+   "checkedAt": "2026-10-06T15:53:27.108Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131466,
+   "lastId": 131468,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:53.841Z"
+   "checkedAt": "2026-10-06T15:53:27.856Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74695,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:54.398Z"
+   "checkedAt": "2026-10-06T15:53:28.462Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:55.088Z"
+   "checkedAt": "2026-10-06T15:53:29.213Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T15:41:55.780Z"
+   "checkedAt": "2026-10-06T15:53:30.002Z"
   }
  },
  "posts": [
@@ -899,13 +899,22 @@
    "date": "2026-10-06T15:36:38+00:00",
    "text": "🔴 צרפת: אם יוכח שחברת הפרלמנט האירופי השחיתה מיצג ל-7/10 - יש להעניש אותה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131468",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131468",
+   "date": "2026-10-06T15:53:02+00:00",
+   "text": "המהומות בצרפת : בעלי החנויות בפריז ממגנים את העסקים מחשש לוונדליזם וביזה במסגרת אירוע מרכזי שצפוי היום כחלק מהמהומות. 5 תגובות",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T15:41:56.180Z",
+  "at": "2026-10-06T15:53:30.402Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 27
+  "added": 1,
+  "pendingNew": 28
  }
 }

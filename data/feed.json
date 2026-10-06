@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T15:53:01.163Z",
+ "updated": "2026-10-06T16:00:54.185Z",
  "items": [
+  {
+   "id": "61760ad8cf97",
+   "kind": "headline",
+   "title": "במקום אקזיט: הסטארט אפ שעובד עם אילון מאסק בדרך לבורסה בתל אביב",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558595#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-06T16:00:00.000Z",
+   "summary": "ברידג'ווייז, המפתחת מערכות AI לניתוח מידע פיננסי, בוחנה הנפקה בבורסה • לראשונה מזה זמן רב שחברה טכנולוגית מגובת הון סיכון מעוניינת להגיע לבורסה ולא מחפשת להימכר • מאז הקמתה גייסה כ־35 מיליון דולר והיא עובדת עם הרשת החברתית X ובעליה אילון מאסק",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791293142/800_xrjzjm.jpg",
+   "score": 4,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "932569164dca",
+   "kind": "headline",
+   "title": "מגמה חיובית בוול סטריט; כלל הסקטורים ב-S&P נסחרים בירוק",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558504#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T15:54:00.000Z",
+   "summary": "מדדי הנאסד\"ק וה-S&P 500 נסחרים במגמה חיובית ובטריטוריית שיא • הבורסות באירופה נסחרות כולן בטריטוריה הירוקה • מניית מארוול מזנקת בעקבות תחזית הכנסות ארוכת טווח אופטימית במיוחד • מחיר נפט מסוג ברנט ירד מתחת ל-100 דולר לחבית • בורסות אסיה נסחרו במגמה מעורבת, אחרי שהנאסד\"ק טיפס אמש לשיא חדש - מניות…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b603161a89db",
    "kind": "headline",
@@ -11,6 +39,20 @@
    "published": "2026-10-06T15:44:24.000Z",
    "summary": "את הדברים אמר מנהל רשות המיסים בכנס נדל\"ן אך הוסיף שזו החלטה שהממשלה החדשה תידרש לה. מנכ\"ל משרד השיכון באותו הכנס: \"הניסיון כל פעם למצוא משהו חדש ולהסביר למה המחירים לא יכולים לרדת - ניסיון נואש ולא נכון\"",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/15/SJgTOWSvkl/SJgTOWSvkl_696_723_1811_1020_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "633badb6ebd9",
+   "kind": "headline",
+   "title": "דיסקונט יוצא לדרך עם מיזוג מרכנתיל: עד כ-550 עובדים יפרשו וסניפים ייסגרו",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558611#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-06T15:44:00.000Z",
+   "summary": "דיסקונט מתכנן להשלים את מהלך המיזוג ככל שיתקבלו האישורים הנדרשים, כבר במהלך 2027 • החסכון עדיין לא הוצג לציבור, אך מדובר בתוכנית פרישה מרצון גדולה. מרכנתיל יישמר כמותג בנקאי • לאחר נפילת עסקת כאל, התעניינות מחודשת ברכישתה על ידי גורמים מישראל ומחו\"ל",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5817,50 +5859,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "cdd8af44a6e6",
-   "kind": "headline",
-   "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T05:52:17.000Z",
-   "summary": "RMIT confirms co-pilot was a student as Australian authorities examine his time in country between 2015 and 2017 An Australian university has confirmed a flydubai co-pilot who allegedly tried to hijack an Israel-bound flight studied at its Melbourne campus, but left before completing his…",
-   "image": "https://i.guim.co.uk/img/media/80c0c83c70acd38b03989ce8767831913796c8f7/500_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7e36661d36bc9ef2efd7e41e2b2a93f7",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ad5a57e52547",
-   "kind": "headline",
-   "title": "Swiss police investigate scam call centers tied to Ukraine",
-   "source": "The New Voice of Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0gtR1dxaXZGaTYwRzhFZERXeDUyZDBYR0pLLW5yNHRUTGkyazBjcnRwX24weWNuMVhiNXdvamRKbWZNdGpmWkJJQmlyV2d5NTdZWHdBYUNiOHYwSnVFcXFsVTdPR01BU3daVEcxcWZNaDl6NnZJVVBFQk5zTGtSZFVLX3BOSXYxbV8tRE1qZDBsMDQ5eHZoSnBSWmNBTURfMVZYRy1hUlF1UU9qVWNUQnVvcmFHSXF1RWfSAbYBQVVfeXFMTXU0Zk5wb2VNWTVnd0ctbE1MTEFZUWZvNEVWYXNlYk1LbzVHTGVISG1SSm1lZlJndjZzdHlURUZ4blA4SnBUUDlxZHJRZWVKY1QwWGhKWTRvTld5LVd6V2ZnUmwxaGIxZ2RmX1pBZjJfbTB4WERSZE00RENmdHhaSDZrYkg3V0dGTFhuX2RyLVhXaWpJRVlDM2p1aWRQVl9pLURUTE5XemUtdVRTa3dvMWE3b05oUnc?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T05:42:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "english.nv.ua"
-   ],
-   "important": false
-  },
-  {
-   "id": "bb3b4974c457",
-   "kind": "headline",
-   "title": "המשבר בצרפת מפיל את היורו, בעולם ובשוק המקומי - על 3.40 שקלים",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bkqzf3lsge",
-   "topic": "research",
-   "published": "2026-10-05T05:15:13.000Z",
-   "summary": "אחרי דוח התעסוקה החלש שדוחה לפי התחזיות את העלאת הריבית הבאה: הדולר מטפס ב-0.5% מול המטבעות המובילים בעולם ונסחר בתנועה קלה בשוק המקומי - מעל 3.04 שקלים; היורו נופל ב-0.7% מול המטבע האמריקאי (נסחר מתחת ל-1.12 דולר) ומאבד 1% מול השקל. זאת בצל החשש משיתוק פוליטי בצרפת שיבטל את תוכנית הקיצוצים בתקציב",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_0_3000_1688_0_medium.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
