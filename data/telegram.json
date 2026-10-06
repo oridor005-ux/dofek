@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65572,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:32.797Z"
+   "checkedAt": "2026-10-06T22:38:01.843Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.6K",
+   "subscribers": "58.5K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:33.472Z"
+   "checkedAt": "2026-10-06T22:38:02.483Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:34.123Z"
+   "checkedAt": "2026-10-06T22:38:03.110Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11417,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:34.801Z"
+   "checkedAt": "2026-10-06T22:38:03.743Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19292,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:35.490Z"
+   "checkedAt": "2026-10-06T22:38:04.379Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:36.155Z"
+   "checkedAt": "2026-10-06T22:38:05.001Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:36.803Z"
+   "checkedAt": "2026-10-06T22:38:05.635Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131478,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:37.499Z"
+   "checkedAt": "2026-10-06T22:38:06.297Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74709,
+   "lastId": 74710,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:38.091Z"
+   "checkedAt": "2026-10-06T22:38:06.872Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:38.781Z"
+   "checkedAt": "2026-10-06T22:38:07.538Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-06T22:25:39.520Z"
+   "checkedAt": "2026-10-06T22:38:08.223Z"
   }
  },
  "posts": [
@@ -1295,13 +1295,22 @@
    "date": "2026-10-06T21:11:22+00:00",
    "text": "🔴 גבר נדקר ליד רעננה, מצבו קשה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74710",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74710",
+   "date": "2026-10-06T22:36:20+00:00",
+   "text": "🔴 ארה\"ב: שבה להכרה הרוצחת קריסטה פייק ששרדה את ניסיון הוצאתה להורג\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T22:25:39.921Z",
+  "at": "2026-10-06T22:38:08.623Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 28
+  "added": 1,
+  "pendingNew": 29
  }
 }
