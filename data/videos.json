@@ -2216,12 +2216,22 @@
    "found": "2026-10-06T06:15:28Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693431677342829831.txt"
+  },
+  {
+   "id": "7693441827961130248",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693441827961130248",
+   "caption": "ינון מגל בפרסום ראשון: ראש השב\"כ דוד זיני קיבל לידיו את רשימת השמות ה...",
+   "posted": "1791269026",
+   "found": "2026-10-06T06:45:39Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-06T06:30:41Z",
+  "at": "2026-10-06T06:45:52Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
