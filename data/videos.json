@@ -2618,7 +2618,7 @@
    "caption": "שני ישראלים נכנסו לרמאללה כדי לקדם את רעיון הפדרציה, להשכין שלום ולפג...",
    "posted": "1791294945",
    "found": "2026-10-06T14:06:26Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693553180369538325.txt"
   },
   {
@@ -2629,7 +2629,7 @@
    "caption": "התיעודים מבית החולים סורוקה ב-7.10 נחשפים, והלב נשבר מחדש 💔 “הגיעו תי...",
    "posted": "1791295719",
    "found": "2026-10-06T14:20:26Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693556510764584212.txt"
   },
   {
@@ -2640,7 +2640,7 @@
    "caption": "\"איתרנו פיר של מנהרה בתוך בית, והיה פיצוץ חזק\" ↓ מועמד הליכוד אלישע מ...",
    "posted": "1791295503",
    "found": "2026-10-06T14:21:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693555582065757461.txt"
   },
   {
@@ -2651,8 +2651,11 @@
    "caption": "האנשים המתועבים ביותר בישראל #ינוןמגל #שבעהבאוקטובר #פוליטיקה ",
    "posted": "1791297850",
    "found": "2026-10-06T14:48:41Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693565648294645010.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693565648294645010.txt",
+   "insightIds": [
+    "ins-2026-10-06-h41t"
+   ]
   },
   {
    "id": "7693562668459806004",
@@ -2662,7 +2665,7 @@
    "caption": "ממנף את ההונאה לקריירה? בריאיון לתוכנית “This Morning” של ITV סיפר לב...",
    "posted": "1791297152",
    "found": "2026-10-06T14:49:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693562668459806004.txt"
   },
   {
@@ -2673,8 +2676,11 @@
    "caption": "פרק שישי: מפלגת ״עוצמה יהודית״ בראשות איתמר בן גביר. האם אתם מצביעים ...",
    "posted": "1791297555",
    "found": "2026-10-06T14:52:47Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693564387533131014.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693564387533131014.txt",
+   "insightIds": [
+    "ins-2026-10-06-bg15"
+   ]
   },
   {
    "id": "7693566705808837909",
@@ -2684,7 +2690,7 @@
    "caption": "הדעה הפופולרית של אמא של ליבי כהן מגורי.   #מתחתלרדאר ",
    "posted": "1791298095",
    "found": "2026-10-06T14:53:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693566705808837909.txt"
   },
   {
@@ -2695,7 +2701,7 @@
    "caption": "\"זאת נקודה שאני לא אשכח בחיים\" ↓ מיכל נגרי, מועמדת 'ביחד' לכנסת ואמו ...",
    "posted": "1791296769",
    "found": "2026-10-06T14:54:41Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693561024863030548.txt"
   },
   {
@@ -2716,7 +2722,7 @@
    "caption": "עם הסברה נכונה אפשר לפעמים לשנות דעות אפילו של אנטי ישראלים. תנו לי א...",
    "posted": "1791298311",
    "found": "2026-10-06T14:56:21Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693567646947675412.txt"
   },
   {
@@ -2727,7 +2733,7 @@
    "caption": "עוד 21 ימים לבחירות, ומאי מרמת השרון כבר החליטה: הפתק של הפעם יהיה שו...",
    "posted": "1791299131",
    "found": "2026-10-06T15:13:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693571153314598164.txt"
   },
   {
@@ -2738,7 +2744,7 @@
    "caption": "מלך השווארמה במסר לעם ישראל🇮🇱 #פוליטיקה #עםישראלחייי🇮🇱 #אהבתחינם ",
    "posted": "1791298925",
    "found": "2026-10-06T15:13:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693570269738274055.txt"
   },
   {
@@ -2749,7 +2755,7 @@
    "caption": "\"אנחנו כבר לא מופתעים מכלום, הולכים כאן ממחדל למחדל\" 👇 חבר ועדת חוץ ו...",
    "posted": "1791298712",
    "found": "2026-10-06T15:15:30Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693569353148534036.txt"
   },
   {
