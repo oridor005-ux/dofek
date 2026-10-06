@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65565,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:52.366Z"
+   "checkedAt": "2026-10-06T16:17:34.400Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:53.021Z"
+   "checkedAt": "2026-10-06T16:17:35.110Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:53.645Z"
+   "checkedAt": "2026-10-06T16:17:35.798Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:54.276Z"
+   "checkedAt": "2026-10-06T16:17:36.510Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19288,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:54.914Z"
+   "checkedAt": "2026-10-06T16:17:37.244Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:55.552Z"
+   "checkedAt": "2026-10-06T16:17:37.961Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:56.195Z"
+   "checkedAt": "2026-10-06T16:17:38.651Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131469,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:56.943Z"
+   "checkedAt": "2026-10-06T16:17:39.408Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74695,
+   "lastId": 74696,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:57.512Z"
+   "checkedAt": "2026-10-06T16:17:40.041Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:58.190Z"
+   "checkedAt": "2026-10-06T16:17:40.790Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T16:05:58.871Z"
+   "checkedAt": "2026-10-06T16:17:41.590Z"
   }
  },
  "posts": [
@@ -927,13 +927,22 @@
    "text": "הנשיא טראמפ קובע דעה נחרצת על המהומות הנוכחיות בצרפת: מה שקורה בצרפת הוא לא פחות מהגירה המונית שיצאה מכלל שליטה. זה לא קשור לבתי הספר, אלא לאסלאם שרוצה להשתלט על מדינה שהייתה פעם גדולה! 3 תגובות",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74696",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74696",
+   "date": "2026-10-06T16:11:40+00:00",
+   "text": "🔴 רוסיה: מעוניינת בשיחה משולשת בין פוטין, טראמפ ושי בשולי פסגת APEC\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T16:05:59.270Z",
+  "at": "2026-10-06T16:17:41.990Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 30
+  "added": 1,
+  "pendingNew": 31
  }
 }
