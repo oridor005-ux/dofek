@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65568,
+   "lastId": 65570,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:18.803Z"
+   "checkedAt": "2026-10-06T17:17:25.562Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.6K",
+   "subscribers": "58.5K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:19.527Z"
+   "checkedAt": "2026-10-06T17:17:26.204Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:20.186Z"
+   "checkedAt": "2026-10-06T17:17:26.811Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:20.885Z"
+   "checkedAt": "2026-10-06T17:17:27.445Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19289,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:21.564Z"
+   "checkedAt": "2026-10-06T17:17:28.110Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:22.250Z"
+   "checkedAt": "2026-10-06T17:17:28.730Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
-   "lastId": 54899,
+   "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:22.922Z"
+   "checkedAt": "2026-10-06T17:17:29.347Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131471,
+   "lastId": 131472,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:23.795Z"
+   "checkedAt": "2026-10-06T17:17:30.008Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74698,
+   "lastId": 74699,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:24.382Z"
+   "checkedAt": "2026-10-06T17:17:30.565Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:25.086Z"
+   "checkedAt": "2026-10-06T17:17:35.419Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T16:53:25.823Z"
+   "checkedAt": "2026-10-06T17:17:36.158Z"
   }
  },
  "posts": [
@@ -1010,13 +1010,61 @@
    "date": "2026-10-06T16:51:30+00:00",
    "text": "🔴 ר\"מ קנדה יבקר בטורקיה וייפגש עם ארדואן \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65569",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65569",
+   "date": "2026-10-06T17:11:30+00:00",
+   "text": "ערב 7.10: דווקא עכשיו - 700 חיילי בא\"ח צנחנים נשבעו אמונים בכותל",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65570",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65570",
+   "date": "2026-10-06T17:16:14+00:00",
+   "text": "סקר חדשות 16: \nוינטר עובר, יועזליכה לא. לנתניהו יש 54",
+   "status": "new"
+  },
+  {
+   "id": "knessettv/54900",
+   "channel": "knessettv",
+   "name": "ערוץ כנסת 99",
+   "url": "https://t.me/knessettv/54900",
+   "date": "2026-10-06T17:14:21+00:00",
+   "text": "\"להוריד 30 מחבלים בלילה? זה מעט מדי\": עימות סוער בפאנל #הצבעה_ראשונה - אביאל מנהריה מותחת ביקורת על השר איתמר בן גביר על אמירותיו וטוענת כי הן פוגעות בהסברה הישראלית בעולם: \"אתה הורס\".\nבן גביר מצדו לא חוזר בו מהרטוריקה ומשיב לאביאל: \"להוריד 30-40 חמאסניקים בלילה? למה לא? זה מעט מדי\".\n📺 מתוך #הצבעה_ראשונה עם ליאת ברטוב-שדה",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131472",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131472",
+   "date": "2026-10-06T17:10:28+00:00",
+   "text": "רוסיה: מיכלית נפט עולה באש בנמל סוצ'י אחרי תקיפה אוקראינית.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74699",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74699",
+   "date": "2026-10-06T17:15:08+00:00",
+   "text": "🔴 איזנקוט: \"אם נמשיך במסלול הנוכחי - ישראל תחדל להיות המדינה שאנו מכירים\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T16:53:26.224Z",
+  "at": "2026-10-06T17:17:36.559Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 39
+  "added": 5,
+  "pendingNew": 44
  }
 }
