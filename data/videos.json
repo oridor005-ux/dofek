@@ -1881,7 +1881,7 @@
    "caption": "\"אני מאוד מקווה שב-28 לחודש נתעורר לבוקר אחר עם תקווה אחרת\" 👇 איל אשל...",
    "posted": "1791210024",
    "found": "2026-10-05T14:34:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693188441785290004.txt"
   },
   {
@@ -1902,8 +1902,11 @@
    "caption": "אם רק היו מקשיבים לי… וישראל הייתה משנה את הקונספציה מול האויבים שלנו...",
    "posted": "1791210485",
    "found": "2026-10-05T14:35:09Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693190418200284434.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693190418200284434.txt",
+   "insightIds": [
+    "ins-2026-10-06-bg05"
+   ]
   },
   {
    "id": "7693189042879384833",
@@ -1913,7 +1916,7 @@
    "caption": "אני אגיע לעמדת כוח ואלחם בכל הקיצוניים תומכי הטרור האלה מבפנים! אני ז...",
    "posted": "1791210161",
    "found": "2026-10-05T14:36:20Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693189042879384833.txt"
   },
   {
@@ -1924,7 +1927,7 @@
    "caption": "\"במחנה הימין יורים בתוך הנגמ\"ש, יורים ברגל וצולעים\" 👇 יוסף חדאד מתייח...",
    "posted": "1791212223",
    "found": "2026-10-05T15:03:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693197888867929364.txt"
   },
   {
@@ -1945,7 +1948,7 @@
    "caption": "מהומות במאה שערים: רימון הלם בסמטה ונער צעיר באזיקים פעילות משטרתית ב...",
    "posted": "1791211569",
    "found": "2026-10-05T15:48:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693195090168188181.txt"
   },
   {
@@ -1956,8 +1959,11 @@
    "caption": "22 ימים לבחירות ויש אנשים שעדיין בטוחים שהייתה בגידה מבפנים 👇",
    "posted": "1791214984",
    "found": "2026-10-05T15:49:41Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693209750888041749.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693209750888041749.txt",
+   "insightIds": [
+    "ins-2026-10-06-tq07"
+   ]
   },
   {
    "id": "7693200770803453202",
@@ -1967,8 +1973,11 @@
    "caption": "כמה פעמים רומי אמרה עומאן? @Romiz - רומיז #פוריו #פליידובאי #טיסה ",
    "posted": "1791212893",
    "found": "2026-10-05T15:50:26Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693200770803453202.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693200770803453202.txt",
+   "insightIds": [
+    "ins-2026-10-06-om14"
+   ]
   },
   {
    "id": "7693205285061577990",
@@ -1978,7 +1987,7 @@
    "caption": "\"קל לשפוט אותי כי נראה שאני מוותרת או תומכת, אבל זה לא נכון\" ↓ \"אני פ...",
    "posted": "1791213944",
    "found": "2026-10-05T15:51:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693205285061577990.txt"
   },
   {
@@ -1989,7 +1998,7 @@
    "caption": "💜💜💜",
    "posted": "1791212616",
    "found": "2026-10-05T15:51:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693199582901128469.txt"
   },
   {
@@ -2010,7 +2019,7 @@
    "caption": "\"להוריד 30 מחבלים בלילה? זה מעט מדי\" 👇 עימות סוער בפאנל #הצבעה_ראשונה...",
    "posted": "1791216000",
    "found": "2026-10-05T16:10:57Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693208318394764565.txt"
   },
   {
@@ -2021,8 +2030,11 @@
    "caption": "22 ימים לבחירות ויש אנשים שעדיין בטוחים שהייתה בגידה מבפנים 👇",
    "posted": "1791216632",
    "found": "2026-10-05T16:25:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693216811306781973.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693216811306781973.txt",
+   "insightIds": [
+    "ins-2026-10-06-tq07"
+   ]
   },
   {
    "id": "7693220048244067592",
@@ -2042,7 +2054,7 @@
    "caption": "דני אבדיה נראה מוכן מתמיד לעונה החדשה של ה-NBA, שתחל בסוף אוקטובר. בא...",
    "posted": "1791217026",
    "found": "2026-10-05T16:26:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693218517037927688.txt"
   },
   {
@@ -2083,8 +2095,11 @@
    "caption": "הרבה מילים נאמרו על מחדל 'פליי דובאי' - אתם רוצים שורה תחתונה? המדינה...",
    "posted": "1791223131",
    "found": "2026-10-05T18:11:44Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693244717944851719.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693244717944851719.txt",
+   "insightIds": [
+    "ins-2026-10-06-om14"
+   ]
   },
   {
    "id": "7693248120460741908",
@@ -2094,7 +2109,7 @@
    "caption": "המפלגה קיימה את אירוע השקת הקמפיין שלה דווקא ביום הזיכרון לטבח ה-7 בא...",
    "posted": "1791223919",
    "found": "2026-10-05T18:26:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693248120460741908.txt"
   },
   {
@@ -2105,7 +2120,7 @@
    "caption": "שאלתה של רומי סוויסה בשבעה באוקטובר - \"אתם של ישראל\", הפכה לאחד מסמלי...",
    "posted": "1791225558",
    "found": "2026-10-05T18:42:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693255163837943061.txt"
   },
   {
