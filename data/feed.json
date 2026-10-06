@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:41:45.201Z",
+ "updated": "2026-10-06T10:42:06.451Z",
  "items": [
   {
    "id": "25008621053e",
@@ -11,6 +11,20 @@
    "published": "2026-10-06T10:20:00.000Z",
    "summary": "חן גולן, יו\"ר נקסט ויז'ן, יצרנית המצלמות המיוצבות לרחפנים, מתייחס למכירת המניות של קרן ההשקעות האמריקאית בהיקף של כ-450 מיליון דולר: \"קיבלנו את זה בהפתעה, כמו כל השוק\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786354401/RAM07677_fuyzxi.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f92172e94b6f",
+   "kind": "headline",
+   "title": "The Rada was urged not to delay the language bill: what new guarantees for the Ukrainian language may be introduced",
+   "source": "Судово-юридична газета",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS3VnaTJUSDFwQVZLSW5uWEhVRlZjaVhkUG1ZdWNSQk80TFJRNWN3ZXhkbS1WcnNoTnZfQnBrY2dwWG1vc0xlSElRbVlhZDh2UzRHN2c0RDliOEIxRTlsMjRxd3BBZ241YU9wb21XaFl1QTR0M0N0LW5NMWtmLURPR1BuRG1Bcml5d0JIaDNvN3pvVHotZVBpdmJONWhpZzJkaGVneU9Ua2FwZ2ZVRV9Mb3hSalEtSFpZT1hIb2NqMUhBRmltYXFYR1ItNFhqLVptcC1WX09pNTRSX1FFY1A0STRBUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T10:19:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -113,7 +127,7 @@
    "alsoIn": [
     "ynet כלכלה"
    ],
-   "important": false
+   "important": true
   },
   {
    "id": "4500bcf7fcd2",
@@ -368,7 +382,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "en.tempo.co"
+   ],
    "important": false
   },
   {
@@ -659,6 +675,20 @@
    "important": false
   },
   {
+   "id": "9e9b347cdb9a",
+   "kind": "headline",
+   "title": "\"שבע עם אילה חסון\": תעמולה בחסות השידור הציבורי",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LTmJ0Y1Z4TGpVQmxaaGR3UHQzTkNtbW50TVVuQVNRTVdiNDgxVFRhNWFVZVRMWFpiaVFSMHBzU1lVRWNIOWNobA?oc=5",
+   "topic": "media",
+   "published": "2026-10-06T06:34:10.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "f671f3231b26",
    "kind": "headline",
    "title": "Nigeria mourns as 32 killed in military plane crash",
@@ -697,7 +727,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "maariv.co.il"
+   ],
    "important": false
   },
   {
@@ -1657,7 +1689,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "politico.com"
+   ],
    "important": false
   },
   {
@@ -2452,7 +2486,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ad-hoc-news.de"
+   ],
    "important": false
   },
   {
@@ -4236,7 +4272,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "thecanadianpressnews.ca"
+   ],
    "important": false
   },
   {
@@ -5841,34 +5879,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f7b3d8f84947",
-   "kind": "headline",
-   "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?",
-   "source": "The Economist",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-04T17:30:10.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b5dd9a7ce2b8",
-   "kind": "headline",
-   "title": "אחרי הסערה והסרת האחריות: רה\"מ הנחה לבדוק את אבטחת התעופה הזרה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558401#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-04T17:18:00.000Z",
-   "summary": "ראש המל\"ל שמואל בן עזרא יתבקש למנות בודק לבחינה יסודית של כלל היבטי אבטחת התעופה האזרחית הזרה לישראל &bull; זאת לאחר שב-2024 המליץ מבקר המדינה לקיים עבודת מטה בנושא, ובצל הטענות במשרד התחבורה כי אין בידיו יכולת לבצע בדיקה מודיעינית של טייסים וצוותי אוויר זרים",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790790724/WhatsApp_Image_2026-09-30_at_20.50.26_1_hc7yxi.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
