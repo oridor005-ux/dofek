@@ -2959,10 +2959,20 @@
    "found": "2026-10-06T19:04:39Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693629969691413780.txt"
+  },
+  {
+   "id": "7693635591619087634",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693635591619087634",
+   "caption": "בועז גולן בפרסום ראשון: טלטלה ברשימתו של עופר וינטר: דוידי בן ציון, מ...",
+   "posted": "1791314138",
+   "found": "2026-10-06T19:18:23Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-06T19:04:50Z",
+  "at": "2026-10-06T19:18:36Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
