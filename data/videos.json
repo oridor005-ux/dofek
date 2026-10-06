@@ -2501,12 +2501,44 @@
    "found": "2026-10-06T11:19:00Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693508796798323986.txt"
+  },
+  {
+   "id": "7693518443399630100",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693518443399630100",
+   "caption": "\"הליכוד פעם הייתה מפלגה ליברלית, היום היא מפלגה חשוכה\" 👇 רה\"מ לשעבר ו...",
+   "posted": "1791286855",
+   "found": "2026-10-06T11:49:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693518443399630100.txt"
+  },
+  {
+   "id": "7693519200224152840",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693519200224152840",
+   "caption": "\"לזכר כל מי שאיבדנו\": האמן חמי ירוחם, צייר כלניות שעליהן ביקש לכתוב א...",
+   "posted": "1791287038",
+   "found": "2026-10-06T11:49:57Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693517129676508434",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693517129676508434",
+   "caption": "יום לפני 7 באוקטובר, מגיש ערוץ 14 השתלח במהלך תכניתו ברדיו 103FM בעשר...",
+   "posted": "1791286552",
+   "found": "2026-10-06T11:51:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693517129676508434.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T11:34:12Z",
+  "at": "2026-10-06T11:51:23Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
