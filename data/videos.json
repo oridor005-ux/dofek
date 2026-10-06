@@ -1680,7 +1680,7 @@
    "caption": "״אל תבכה שזה נגמר, תחייך שזה קרה״ זה הסטטוס האחרון שכתב הגיבור נווה ח...",
    "posted": "1791197802",
    "found": "2026-10-05T11:00:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693135940927556885.txt"
   },
   {
@@ -1701,8 +1701,11 @@
    "caption": "אחרי שניסיון ההוצאה להורג של כריסטה פייק נכשל, ראש מערכת בתי הכלא בטנ...",
    "posted": "1791198000",
    "found": "2026-10-05T11:17:41Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693071114532293909.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693071114532293909.txt",
+   "insightIds": [
+    "ins-2026-10-06-tn01"
+   ]
   },
   {
    "id": "7693144553460600116",
@@ -1712,7 +1715,7 @@
    "caption": "האור שממשיך לחיות: זינוק של פי 10 במספר הילדים שנקראו על שם ענר שפירא...",
    "posted": "1791199803",
    "found": "2026-10-05T11:46:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693144553460600116.txt"
   },
   {
@@ -1723,7 +1726,7 @@
    "caption": "יעקב גודו, אביו של תום גודו ז״ל, צעק במהלך נאום נתניהו בטקס הממלכתי ל...",
    "posted": "1791201925",
    "found": "2026-10-05T12:16:26Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693153659231849749.txt"
   },
   {
@@ -1734,7 +1737,7 @@
    "caption": "⁨\tהסיפור של שקד 👆 גם אם לא היית בזירת הקרב או האירוע, יכול להיות שאתה...",
    "posted": "1791201581",
    "found": "2026-10-05T12:18:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693152185378557205.txt"
   },
   {
@@ -1745,8 +1748,11 @@
    "caption": "תקשיבו לד\"ר מרדכי קידר ותבינו את הסיבוב הפוליטי שמנסים לעשות עלי!",
    "posted": "1791202133",
    "found": "2026-10-05T12:19:13Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693154548235390229.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693154548235390229.txt",
+   "insightIds": [
+    "ins-2026-10-06-hd02"
+   ]
   },
   {
    "id": "7693159942039112981",
@@ -1766,7 +1772,7 @@
    "caption": "משנה כיוון | אבי ברקו כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחל...",
    "posted": "1791203634",
    "found": "2026-10-05T12:46:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693161001465679124.txt"
   },
   {
@@ -1777,7 +1783,7 @@
    "caption": "\"אנחנו באמת אחים, ואם אנחנו אחים - אני רוצה חיבוק חזק\" 👇 הרב הראשי לי...",
    "posted": "1791203781",
    "found": "2026-10-05T12:47:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693161639666830613.txt"
   },
   {
@@ -1788,7 +1794,7 @@
    "caption": "הערב במהדורת כאן חדשות | ניסן דה קאלו, סגן הרבש״צ של נחל עוז ומפקד הק...",
    "posted": "1791203085",
    "found": "2026-10-05T12:47:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693158648599661845.txt"
   },
   {
@@ -1799,7 +1805,7 @@
    "caption": "\"עוד נשוב לכאן\": הזמרת ושורדת הנובה יובל רפאל בביצוע מצמרר בטקס הזיכר...",
    "posted": "1791204462",
    "found": "2026-10-05T13:02:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693164569644027156.txt"
   },
   {
@@ -1810,7 +1816,7 @@
    "caption": "\"להמשיך את הדרך שלה זו גאווה גדולה\": סמ\"ר א', אחיה של פקד קים דוקרקר ז\"ל",
    "posted": "1791204715",
    "found": "2026-10-05T13:17:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693165650461674760.txt"
   },
   {
@@ -1821,7 +1827,7 @@
    "caption": "ניצחון החיים: ברק ניקסון שרד 8.5 שעות בתא שירותים כימיים בנובה ונדר ל...",
    "posted": "1791205887",
    "found": "2026-10-05T13:18:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693170689880214836.txt"
   },
   {
@@ -1832,7 +1838,7 @@
    "caption": "\"אתה לא הגנת על הבן שלי ב-7.10\": האב השכול, יעקב גודו, התפרץ לנאום רא...",
    "posted": "1791205719",
    "found": "2026-10-05T13:18:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693169968631844117.txt"
   },
   {
@@ -1843,7 +1849,7 @@
    "caption": "חייב לעצור הכל להגיד לכם תודה על הגב שאתם נותנים לי מול המתקפות הזדונ...",
    "posted": "1791206225",
    "found": "2026-10-05T13:19:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693172123052805397.txt"
   },
   {
@@ -1864,7 +1870,7 @@
    "caption": "אז והיום: הקפות שניות בישיבת שדרות ביום הטבח - לעומת ההקפות השנה",
    "posted": "1791206379",
    "found": "2026-10-05T13:33:41Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693172790182137095.txt"
   },
   {
