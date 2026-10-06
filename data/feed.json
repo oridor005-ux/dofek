@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T09:31:07.280Z",
+ "updated": "2026-10-06T09:37:33.036Z",
  "items": [
+  {
+   "id": "09f5958293a1",
+   "kind": "headline",
+   "title": "חשד: הלקוח עשה אקזיט של 60 מיליון שקל - רואה החשבון לא דיווח",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558536#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-06T09:34:00.000Z",
+   "summary": "על פי החשד, רואה החשבון ייצג לקוח שהיה בעל מניות מהותי בחברה המתמחה בטכנולוגיות חדשניות, אך לא כלל בדוח האישי שלו את ההכנסה ממכירת מניותיו לחברה אמריקאית • בעקבות אי-הדיווח לא שולם מס יסף בהיקף של כ-1.8 מיליון שקל",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1652173551/COT_Pic/64_mlbroc.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "ed14dfd498fc",
    "kind": "headline",
@@ -5656,6 +5670,20 @@
    "important": false
   },
   {
+   "id": "688b75da719b",
+   "kind": "headline",
+   "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+   "topic": "israelAbroad",
+   "published": "2026-10-04T16:32:00.000Z",
+   "summary": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a…",
+   "image": "https://i.guim.co.uk/img/media/0ec80a22ef35c2a228fdedcb6073722da88831a2/290_182_3510_2808/master/3510.jpg?width=140&quality=85&auto=format&fit=max&s=14c23d66897229d4065fbac559ed72a2",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "f8e4392abf23",
    "kind": "headline",
    "title": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel",
@@ -5854,39 +5882,6 @@
     "atalayar.com"
    ],
    "important": false
-  },
-  {
-   "id": "b8f767f0b245",
-   "kind": "headline",
-   "title": "גם פיגוע במטוס לא צפוי לחבל בהסכמי אברהם. החות'ים הם הסיבה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558393#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-04T15:17:00.000Z",
-   "summary": "בראש מפת האיומים של מדינות המפרץ עומד איום מוכר היטב לישראל: המורדים החות'ים • ערב הסעודית מעוניינת להתקרב לאמירויות כדי לקבל עזרה בתימן, ובמקביל בדובאי לא יוותרו מהר כל כך על הברית עם ירושלים • כעת ישנה הזדמנות ישראלית-אמריקאית ליצירת קואליציה אזורית, והמתיחות בשל פליי דובאי לא צפויה להפריע",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790503612/AP26261533909909_ioiaz2.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6b77b1243f74",
-   "kind": "headline",
-   "title": "צרפת: עם זינוק בגירעון ושיא בחוב הציבורי, ההפגנות לא צפויות לדעוך בקרוב",
-   "source": "calcalist.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZU1g3NVlOOHBsa1YxWkxvYWNnSllUaTJNU0pvUW9yQVIyR0JiZVpheEhhWEtINEI5VEJFQ1pnaGRIajMyV2htVVhza3FzYU1vMkZ0RWNIVm53VnBKZkxjMmYyTXdlMG1q?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T15:15:00.000Z",
-   "summary": "תקציב 2027 הכולל קיצוצים בהיקף 54 מיליארד אירו רק יגביה את הלהבות שהציתו תלמידי התיכונים ‏במדינה בגלל צפיפות בכיתות ומחסור במורים. בלב המשבר: הכישלון של ממשלות צרפת להשתלט על ‏החוב והגירעון",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_165_3000_1689_0_medium.jpg",
-   "score": 2,
-   "alsoIn": [
-    "ynet כלכלה",
-    "YNET",
-    "calcalist",
-    "ynet.co.il"
-   ],
-   "important": true
   }
  ]
 }
