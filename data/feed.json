@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T16:28:50.544Z",
+ "updated": "2026-10-06T16:40:27.246Z",
  "items": [
   {
    "id": "6864452713f1",
@@ -25,6 +25,20 @@
    "published": "2026-10-06T16:14:07.000Z",
    "summary": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live-broadening-lfgm/06france-protests-live-broadening-lfgm-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "fef5165a9245",
+   "kind": "headline",
+   "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
+   "topic": "world",
+   "published": "2026-10-06T16:03:08.000Z",
+   "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -564,6 +578,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "487300209c84",
+   "kind": "headline",
+   "title": "As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
+   "topic": "world",
+   "published": "2026-10-06T12:08:04.000Z",
+   "summary": "The eviction of the woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-spain-assess-1-hmqc/06int-spain-assess-1-hmqc-mediumSquareAt3X.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5829,34 +5857,6 @@
    "summary": "",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1685263503/direct/WhatsApp_Image_2023-05-28_at_11.43.11_km68mf.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "408f8b7fca8c",
-   "kind": "headline",
-   "title": "הפריצה לטלפון של אפי נוה תעלה לגל\"צ והדס שטייף 600 אלף שקל",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558409#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T06:50:00.000Z",
-   "summary": "לאחר 7 וחצי שנים, השופט אורן שוורץ קבע כי גלי צה\"ל והדס שטייף ישלמו מעל 600 אלף שקל ליו\"ר לשכת עורכי הדין על הפריצה לטלפון הנייד שלו והשימוש בתוצרים שהתקבלו בעבירה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1685263503/direct/WhatsApp_Image_2023-05-28_at_11.43.11_km68mf.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "34384efaeefe",
-   "kind": "headline",
-   "title": "האירו צולל לשפל של 17 חודשים; בורסות אירופה נפתחות בעליות והניקיי בשיא",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T06:43:00.000Z",
-   "summary": "הנפט הגולמי מאבד כ-1.1% ונסחר סביב 90 דולר לחבית; הברנט נסוג לכיוון 101 דולר • מדד הניקיי היפני מזנק וחצה לראשונה את רף ה-70,000 נקודות; מחזורים דלילים בשל חופשות בסין ודרום קוריאה • בוול סטריט, הנאסד\"ק שבר שיא שבוע שעבר בהובלת השבבים; הבוקר, החוזים העתידיים מצביעים על פתיחה יציבה • וגם: מתי משקיעי…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658986897/direct/shutterstock_2174905293_bx0u1d.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }

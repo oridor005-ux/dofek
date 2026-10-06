@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65565,
+   "lastId": 65567,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:34.400Z"
+   "checkedAt": "2026-10-06T16:29:12.874Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:35.110Z"
+   "checkedAt": "2026-10-06T16:29:13.580Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:35.798Z"
+   "checkedAt": "2026-10-06T16:29:14.244Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:36.510Z"
+   "checkedAt": "2026-10-06T16:29:14.929Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19288,
+   "lastId": 19289,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:37.244Z"
+   "checkedAt": "2026-10-06T16:29:15.602Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:37.961Z"
+   "checkedAt": "2026-10-06T16:29:16.279Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:38.651Z"
+   "checkedAt": "2026-10-06T16:29:16.952Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131469,
+   "lastId": 131470,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:39.408Z"
+   "checkedAt": "2026-10-06T16:29:17.670Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74696,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:40.041Z"
+   "checkedAt": "2026-10-06T16:29:18.265Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:40.790Z"
+   "checkedAt": "2026-10-06T16:29:18.969Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T16:17:41.590Z"
+   "checkedAt": "2026-10-06T16:29:19.721Z"
   }
  },
  "posts": [
@@ -936,13 +936,50 @@
    "date": "2026-10-06T16:11:40+00:00",
    "text": "🔴 רוסיה: מעוניינת בשיחה משולשת בין פוטין, טראמפ ושי בשולי פסגת APEC\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65566",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65566",
+   "date": "2026-10-06T16:23:10+00:00",
+   "text": "סולברג הורה לנתניהו להסיר מחשבונותיו האישיים את הסרטון שצילם בבסיס חיל האוויר, בו אמר כי \"יש סימנים שלקראת הבחירות אויבנו ינסו לתקוף\" - אך התיר להשאירו בחשבונות הרשמיים של רה\"מ",
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65567",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65567",
+   "date": "2026-10-06T16:24:13+00:00",
+   "text": "מעצר העריקים לא יביא לצבא חייל אחד. הפסקת ההטבות כן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19289",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19289",
+   "date": "2026-10-06T16:19:51+00:00",
+   "text": "סולברג לנתניהו: הסר מהחשבונות האישיים את הסרטון שצולם בבסיס חיל האוויר, אבל לא מהחשבונות הרשמיים",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131470",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131470",
+   "date": "2026-10-06T16:25:26+00:00",
+   "text": "מזכ\"ל חזבאללה נעים קאסם, בנאום הערב : \nהמלחמה מתנהלת בסבבים. \nהסבב האחרון יהיה של בעלי הארץ והזכות, ושל אלה שהלכו בדרכם של לוחמי הג'האד והשהידים.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T16:17:41.990Z",
+  "at": "2026-10-06T16:29:20.122Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 31
+  "added": 4,
+  "pendingNew": 35
  }
 }
