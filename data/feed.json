@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T10:18:33.795Z",
+ "updated": "2026-10-06T10:29:43.475Z",
  "items": [
+  {
+   "id": "25008621053e",
+   "kind": "headline",
+   "title": "\"נפל עלינו בהפתעה\": יו\"ר נקסט ויז'ן מגיב למימוש הענק ומנסה להרגיע",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558543#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T10:20:00.000Z",
+   "summary": "חן גולן, יו\"ר נקסט ויז'ן, יצרנית המצלמות המיוצבות לרחפנים, מתייחס למכירת המניות של קרן ההשקעות האמריקאית בהיקף של כ-450 מיליון דולר: \"קיבלנו את זה בהפתעה, כמו כל השוק\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786354401/RAM07677_fuyzxi.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "120726675754",
    "kind": "headline",
@@ -5854,23 +5868,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790790724/WhatsApp_Image_2026-09-30_at_20.50.26_1_hc7yxi.jpg",
    "score": 2,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c65272f6bd2d",
-   "kind": "headline",
-   "title": "Spain’s Sánchez calls snap election after housing plan fails",
-   "source": "chinadailyhk",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQk5mQVNaNHoxNlEyRThGOXdNbFV3aHJGY3RlbzZjLVhsbjBsTGhSWG96Zm9EUW9ERkF6eW9PdHEzdFR4MTNJeFhxQm1acS0wbzJPVm13?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T17:12:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "chinadailyasia.com",
-    "The Guardian"
-   ],
    "important": false
   }
  ]
