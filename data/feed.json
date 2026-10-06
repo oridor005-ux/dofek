@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T05:59:45.752Z",
+ "updated": "2026-10-06T06:04:24.732Z",
  "items": [
   {
    "id": "2791d44445d6",
@@ -56,6 +56,20 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "c90b6f4c42f1",
+   "kind": "headline",
+   "title": "\"הבועה תתפוצץ\" - תחזית האימים לוול סטריט: חמישה דברים לקראת יום המסחר",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558469#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-06T05:33:00.000Z",
+   "summary": "יום המסחר בת\"א ייפתח על רקע חששות החוב הגוברים בעולם • ענקיות הטק הובילו את הנאסד\"ק לשיא חדש, ויש מי שמצביע על כך שהפכו לנכסי המקלט הבטוח החדשים • משבר החוב בצרפת מכביד על גוש האירו ומעצים את החשש גם בשוק החוב האמריקאי - המיליארדר ריי דליו מזהיר מהאטה נוספת בביקושים • וגם: חברת המחקר שמזהירה מקריסה…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg3_x3c4yv.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "c7161a5ed2c1",
@@ -5900,20 +5914,6 @@
     "oskaloosa.com",
     "CBC"
    ],
-   "important": false
-  },
-  {
-   "id": "ac72d0850c2a",
-   "kind": "headline",
-   "title": "Somali Parliamentary Delegation in Tanzania for Regional and Global Meetings",
-   "source": "FTL Somalia",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEFhaE5yT3A4Qm41cHhDV3hSTS1TUTl2RE9WamJKZkhLLVdDeVJON1JCRWNzaTluSzZTMXpXdUVfRFFPN3hNalhnNVFhRTU0RGtqTC1kU0JiZnA4WUtNUTN1eU9PU1hqMHp5Q0NpNEJYVEttV2MtNV9Jbm1QNWVaSDFMdmpXZDk3YkU1OEZDQ1UzUTl0X2xSdm8yM05LelIydEo2andBTQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T10:20:34.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
