@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T19:03:15.940Z",
+ "updated": "2026-10-06T19:15:43.451Z",
  "items": [
+  {
+   "id": "32d2afdfbe1e",
+   "kind": "headline",
+   "title": "Ex-C.I.A. Officer Who Stashed Gold Bars Admits to Far Larger $145 Million Scam",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/us/politics/cia-officer-gold-bars-guilty-plea.html",
+   "topic": "world",
+   "published": "2026-10-06T19:09:34.000Z",
+   "summary": "The plea hearing revealed a far larger pattern of fraud against the government, while keeping some key secrets still hidden.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-goldbars-02-bjcz/06dc-goldbars-02-bjcz-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b5b74331d3ea",
    "kind": "headline",
@@ -12,6 +26,20 @@
    "summary": "President Trump’s comments caused an uproar from members of both parties. A White House official said he was taken out of context.",
    "image": "https://static01.nyt.com/images/2026/10/06/06vid-trump-nebraska-LA-San-Diego-51303-cover/06vid-trump-nebraska-LA-San-Diego-51303-cover-mediumSquareAt3X-v2.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b9eaba2d9274",
+   "kind": "headline",
+   "title": "EU officials condemn politician over Israeli flag removal at Oct. 7 event",
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOOEpTdXczSGFUam1jTEVhd3h2WHlZVWtsRlU5cE5JUldsX2JjQVNLU1cwZEtfazRGdEx4MVRka2hwWERXT21QS2drWjhveDhyMWlFbEo5RW1RX2hwdExnbEpHb3NlNjZCQXpmSkFZTzMybmpYallZNTlMTk9SLTF0bGFJZHBzR2tmejRJcEM1aUZYV29KY0xzanlnTVZmV1hBRlNYTl9GTUJTQlMzTXpUandRYXlvQWdRS0QxckdxNFU5QnB5RmdrRnpTVnpSaVFaNjJHbWlqQ20xQzBKQTV0c1R5dnk5MThSRUtLUGJZSmZiNmhWSTh6S1JRak9TeVVxTmRSelJ0YjBIdXRvVElr?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T18:44:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -39,6 +67,34 @@
    "published": "2026-10-06T18:22:06.000Z",
    "summary": "",
    "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6c7afc6eedd9",
+   "kind": "headline",
+   "title": "למדא מעלה הילוך: גיוס של עד 4 מיליארד דולר לפני הנפקה, עם הערכות שווי חדשות",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Bc3Q5YVM0ampVNlkwdE0tQ3BUZlJWNlZtVnlucWVvb0FGYzdMdEMzSk80QWlLdnlLeVpNSDAtSUY0czlLVGRmMlh5NjRCcENIbzdUVGZtRjVWWGQ2dWVDOVVCalcyOEMtb1VEWkY3NGk?oc=5",
+   "topic": "deals",
+   "published": "2026-10-06T18:18:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "429aeaa49b12",
+   "kind": "headline",
+   "title": "France Student Protests Escalate Amid Fiscal Crisis and an Election",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html",
+   "topic": "world",
+   "published": "2026-10-06T17:37:07.000Z",
+   "summary": "Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-france-assess-1-cpvh/06int-france-assess-1-cpvh-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -123,6 +179,20 @@
    "published": "2026-10-06T16:51:00.000Z",
    "summary": "Secretary of State Marco Rubio’s visit seeks to deepen cooperation with a country rattled by President Trump’s threats against neighboring Greenland.",
    "image": "https://images.wsj.net/im-12492913",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ee769375dfd0",
+   "kind": "headline",
+   "title": "יום אדום בבורסה: הביטחוניות והפיננסים משכו את תל אביב למטה",
+   "source": "חדשות 04",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xek04WGkyQzdfT0hwM3R0X0l3alVPcGI5TnBqUTExZFZ0MnZXUGkxWFY1RGNqVUJFdURrazJ1VEpINEt6bkVtenBB?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T16:49:05.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -666,6 +736,20 @@
    "important": false
   },
   {
+   "id": "c6a400e3760d",
+   "kind": "headline",
+   "title": "\"בנק ישראל לא יוכל להציל אותנו\": האזהרה הדרמטית לממשלה על פצצת הזמן הכלכלית",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zN3NaTTdrbWJEV0NHUmlqbTg5TGNTb3FPakhUajJDSFNaZmdhQ21DQm5KVkRmSlByS20zVUlaMmpmbkIyRklVSFVVUFQ0Rms0SXEtaWRPdDR1Tk85Nmk3emRKS1ZPZw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T13:17:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ee74fb4e0562",
    "kind": "headline",
    "title": "לפי שווי של כ-44 מיליון דולר: חברת הטכנולוגיה הישראלית בדרך להנפקה בניו יורק",
@@ -776,6 +860,20 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4b191b35c4c9",
+   "kind": "headline",
+   "title": "KEY POINTS: How Denmark’s planned new laws will affect foreigners",
+   "source": "The Local Denmark",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeldpVFJ2SVZJdHM5Y3JDNmdXSnRVU2ZyQl82czhIcTlRcHJhVjRCd2toNDJKaXJNLWpDUkdESXpremRTODg2a3Y1NXh2NHVBRllKUjZ4eUxROERFZWtZNmJrZXFndGJROFJJTDJRcmNvenZqU0ZCWGJFX254b1pOdFE1S3JJTXltUTZnTXE0UWVIamQ4OEE2R05lS0pPR1VyVmp1QXVELVZVT3J3THFJ?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T12:37:19.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5737,112 +5835,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "546513975a3c",
-   "kind": "headline",
-   "title": "בחירת מבקר המדינה שוב בבג\"ץ: היועמ\"שית לכנסת דורשת הצבעה חדשה",
-   "source": "ערוץ 7",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HTHJXRXRUaTY4MzBLaTFtNm5JVEJ6aTFUUFd6b0E5SGJnc2VDYzBPWlJjMGU5YnM5clgzTE5wbkZfV0d6RV9Wdw?oc=5",
-   "topic": "research",
-   "published": "2026-10-05T08:11:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "inn.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "609093330022",
-   "kind": "headline",
-   "title": "מגמה מעורבת באירופה: שניידר אלקטריק נחתכת בעקבות עסקת רכישה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T08:08:00.000Z",
-   "summary": "בורסות אירופה נסחרות במגמה מעורבת, כשבורסת פריז בולטת לשלילה בעקבות צניחת מניית שניידר אלקטריק שמשלימה עסקת ענק בארה\"ב • האירו נופל לרמתו הנמוכה ביותר מאז מאי 2025 • החוזים העתידיים בוול סטריט מצביעים על פתיחה יציבה עם נטייה לירידות קלות • מדד הניקיי היפני שמר על המומנטום וננעל בעלייה של 2.4% •…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658986897/direct/shutterstock_2174905293_bx0u1d.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e9457317b626",
-   "kind": "headline",
-   "title": "Spain's Prime Minister Calls Snap Election as Left-Wing Government Faces Ouster",
-   "source": "Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVEZOdW1sNDA0S3NLakJxaF9PdUUtMXNiTUI5aFg1VzdNRnppV1ZLNUtQZ3E2ZC1rVjJRbl9pR3l1MTlfelZNTHFJeUVFeFU1TXhGZTdNb1VQVVB5VVNlek1sWlRVSU1fUGtQVzhIamxxczh3R1JzWTNjZ3Z5Y3dWakxnd1JXQ08yTFNuUVJMRUdCMGZRQmZHaWJRSFR6U0xUajZob2FVSTNmOVA0bF9yVnFpQTNKNHVENV9qVkw2SVVVTG9sQnRtem5GTWxpZlFOUUQ2Y2dHbl91Q3dybndCVF8tRGNMcnd2emgzVnZGeGk5NUtpeGszYWZyR19taGZUVVNUTE5kcnFZbnM?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T08:08:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "haaretz.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "f1f4e2bcf165",
-   "kind": "headline",
-   "title": "הנקניקיזציה של \"וואלה\" היא לא רק כשל עיתונאי אלא גם טיפשות מסחרית",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Hck5KUlRPT3Y5eldmSGthWUpsdGxzNG5aelo0SVF6cnpfenhGS295YTBqS0ctcDJweDB5VG5kOE84QkxKcHp3Vg?oc=5",
-   "topic": "media",
-   "published": "2026-10-05T08:02:56.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "22deb1c3b013",
-   "kind": "headline",
-   "title": "דוכן צ'יפס הפך ללהיט בזכות טיקטוק - והשכונה ההיסטורית קורסת ממבקרים",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bjaadtgogl",
-   "topic": "econ",
-   "published": "2026-10-05T08:02:49.000Z",
-   "summary": "תושבים מרובע התעלות באמסטרדם הגישו ערעור משפטי על רישיון העסק של דוכן צ'יפס שהפך לוויראלי ומשך למקום אלפי מבקרים ברחובות הצרים. התוצאה: אשפה מפוזרת על מדרגות הכניסה, כתמי מיונז על אבני ריצוף היסטוריות, ופסולת מזון שמושכת חולדות",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/H1nsc6eiGl/H1nsc6eiGl_0_40_523_295_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5343f7189f83",
-   "kind": "headline",
-   "title": "אפקט \"פליי דובאי\" ממשיך להרים את ישראייר ואל על; דוראל עולה 4.5%; מגמה חיובית בבורסה",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OTlpUM3Y4cUZjZFpnQmtUQXBvbDk0VF94YTBRckF1Y0Y2UHIxOHc5MmdJaHpOQS1LZUs0NlQ5S3R4TnhpUmVhLVZJZ2hZdkxNQ05Va194cFVILW9hZjBDSDJNcU5LaXZoRWFDeGloSnY?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T08:02:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "1b46a1f5c338",
-   "kind": "headline",
-   "title": "MPs spar over Carney’s major projects bill as Parliament returns",
-   "source": "Toronto Star",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXlxWURDei10V1FJanY4MGdueXFyZ0R6RFk3VXpTU2luLUFFS1g0aWJ2QnpNUFd0eHlEVG5nYUdydGM1eTVEZkJJVThvUl9zbnJuNzdHOFRRRWtsQ3p6bndYZVRQQURGbzJBb3JPZFpTMGZUaHNoWWpCMVFrQjJwOGdJMXBXRjNhRlE4a2xoVHR0ampWQkthMUJGNVpYd3NtX3Y1amhYWFZmZ0xONTVuQjk3anFMejF0dW0xZkxMZXY2bThCN29BWGVrbmFYMkdvMEFnQllvcVlhcWc0dWFkaUM5MWJFX3lucldQOUtSQ3FrcTk1RUZuUHJCWTFxdjgxaHc?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T08:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "thecanadianpressnews.ca"
-   ],
    "important": false
   }
  ]

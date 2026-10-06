@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65571,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:02.439Z"
+   "checkedAt": "2026-10-06T19:04:30.636Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:03.164Z"
+   "checkedAt": "2026-10-06T19:04:31.290Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:03.884Z"
+   "checkedAt": "2026-10-06T19:04:31.953Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:04.567Z"
+   "checkedAt": "2026-10-06T19:04:32.665Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19291,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:05.255Z"
+   "checkedAt": "2026-10-06T19:04:33.349Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:05.937Z"
+   "checkedAt": "2026-10-06T19:04:34.034Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:06.633Z"
+   "checkedAt": "2026-10-06T19:04:34.680Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131476,
+   "lastId": 131477,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:07.352Z"
+   "checkedAt": "2026-10-06T19:04:35.347Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74705,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:07.951Z"
+   "checkedAt": "2026-10-06T19:04:36.184Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:08.691Z"
+   "checkedAt": "2026-10-06T19:04:36.858Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-06T18:52:09.400Z"
+   "checkedAt": "2026-10-06T19:04:37.561Z"
   }
  },
  "posts": [
@@ -1198,13 +1198,23 @@
    "date": "2026-10-06T18:40:06+00:00",
    "text": "🔴 ראש המל\"ל מינה אלוף במיל' לניהול צוות שיבחן את אבטחת התעופה הזרה לישראל\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131477",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131477",
+   "date": "2026-10-06T18:52:42+00:00",
+   "text": "המהומות בפריז - גם הכתבת של פוקס ניוז הבחינה בדגל הפלסטיני בלב ההפגנה...\nתגובה אחת",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T18:52:09.800Z",
+  "at": "2026-10-06T19:04:37.960Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 59
+  "added": 1,
+  "pendingNew": 60
  }
 }
