@@ -2766,8 +2766,11 @@
    "caption": "נתניהו הזהיר מחטיפת המטוס? או ששוב ניצלו הזדמנות להגיד אמרנו לכם? #מה...",
    "posted": "1791301164",
    "found": "2026-10-06T15:44:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693579886073580821.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693579886073580821.txt",
+   "insightIds": [
+    "ins-2026-10-06-hjck"
+   ]
   },
   {
    "id": "7693570740398083348",
@@ -2777,8 +2780,11 @@
    "caption": "\"אין טרור יהודי ביו\"ש, מתנהל כאן קמפיין שקרי ובזוי של אלימות מתנחלים\"...",
    "posted": "1791300600",
    "found": "2026-10-06T15:47:44Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693570740398083348.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693570740398083348.txt",
+   "insightIds": [
+    "ins-2026-10-06-gtlb"
+   ]
   },
   {
    "id": "7693580447560846612",
@@ -2788,7 +2794,7 @@
    "caption": "״תודה לכל מי שחיזק אותי״: אחרי האיומים שספג, אור אוחנה ״מלך השווארמה״...",
    "posted": "1791301294",
    "found": "2026-10-06T15:48:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693580447560846612.txt"
   },
   {
@@ -2799,7 +2805,7 @@
    "caption": "\"כמה אחים אתם?\" שאלה יומיומית ותמימה, שהפכה מאז השבעה באוקטובר למשא כ...",
    "posted": "1791302044",
    "found": "2026-10-06T16:00:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693583672720510228.txt"
   },
   {
@@ -2810,8 +2816,11 @@
    "caption": "\"הכנתי תוכנית לחיסול סינוואר בקיץ 2022, הממשלה נפלה לפני זה\" 👇 \"נתניה...",
    "posted": "1791302400",
    "found": "2026-10-06T16:01:48Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693571760163228929.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693571760163228929.txt",
+   "insightIds": [
+    "ins-2026-10-06-bnqt"
+   ]
   },
   {
    "id": "7693582484583337224",
@@ -2841,7 +2850,7 @@
    "caption": "זה מה שנשאר",
    "posted": "1791303018",
    "found": "2026-10-06T16:14:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693587834762022162.txt"
   },
   {
@@ -2872,7 +2881,7 @@
    "caption": "קרל דייסרות', פרופסור להנדסה ביולוגית ולפסיכיאטריה ומדעי ההתנהגות, מש...",
    "posted": "1791305432",
    "found": "2026-10-06T17:01:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693598213281975570.txt"
   },
   {
@@ -2883,7 +2892,7 @@
    "caption": "תוך כדי מלחמת קיום: השקרים של תקשורת השמאל על גבם של החטופים",
    "posted": "1791307178",
    "found": "2026-10-06T17:32:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693605717634321685.txt"
   },
   {
@@ -2894,7 +2903,7 @@
    "caption": "״עוד לא אבדה תקוותנו״: 700 לוחמי צנחנים נשבעו אמונים ברחבת הכותל המער...",
    "posted": "1791307164",
    "found": "2026-10-06T17:32:43Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693605657190337812.txt"
   },
   {
