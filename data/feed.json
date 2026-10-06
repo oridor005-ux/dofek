@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T07:10:07.303Z",
+ "updated": "2026-10-06T07:22:27.457Z",
  "items": [
+  {
+   "id": "572a20522c05",
+   "kind": "headline",
+   "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+   "topic": "world",
+   "published": "2026-10-06T07:11:56.000Z",
+   "summary": "Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-trump-strikes-mflg/06xp-trump-strikes-mflg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e4e0b75307bb",
+   "kind": "headline",
+   "title": "Indonesian parliament agrees higher severance benefits in new labour law",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGw5RkJGMnJWVG5aMElTWHV6NDdBTFk4VW9sQkc0NDljT0g4ZFhSY2ozMGFoTTdUV0hUZElzZFUySmFFUERJNVlCMDRCTlJ3NUJILUlHUUVjRGRWanpBWkN3U1BGckpsRmZ2eU1oY0paUmVTU1Iwd29TQjR6RTA1RUtZNk9ETUxuYnQ0anl5ekdINHNJM0pXYkNHcGM0UnJieHptNVBfdmlrbGxhSEk5YVFhaS1uWFhNdjJxaW9RcjhyZw?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T07:08:23.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "738c29ae342b",
    "kind": "headline",
@@ -124,7 +152,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Data Portuaria"
+   ],
    "important": false
   },
   {
@@ -137,6 +167,20 @@
    "published": "2026-10-06T06:10:10.000Z",
    "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-india-voters-gwqk/06int-india-voters-gwqk-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "db0236c00534",
+   "kind": "headline",
+   "title": "Romania doubles kill quota: 969 brown bears approved for killing",
+   "source": "Wild beim Wild",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MS0JCRnd6RmJGOF9fTGtoQlVGX256dlBCeVpvQUtoLXhMdVIwa2ZsWEVnUEhHSjY1VjI4WnNvYTZhM3dXNmktdncyYVVQUGliRnd5M1VwOHBaQ281cGh5cVhVb3ppMlBG?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T06:04:57.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -489,7 +533,8 @@
    "image": "",
    "score": 1,
    "alsoIn": [
-    "WWLP"
+    "WWLP",
+    "CW39 Houston"
    ],
    "important": false
   },
@@ -5851,54 +5896,6 @@
    "summary": "שלושה ימים של מוזיקה, פיוט ומסורת, מהדיוואן התימני ועד הצלילים של ישראל העכשווית",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/S1afHnyjMx/S1afHnyjMx_0_0_1203_896_0_medium.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d513bfefa26b",
-   "kind": "headline",
-   "title": "Israeli Defense Exports Hit Record As International Demand Grows",
-   "source": "i24NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTG9rYmY4VW14Nnd1aWhiekxqRVlUQ1IyXzdvdzNWZC1EVFd2VE4zUlpFMTl6MGVybGV6WXp6Q0xmR3VHZE9NNzVmNnZXQ3RCNFdGei0zV0JoWUtJV1RTcWRKcF9XY1huUXNJVURjeC12RnE3N1lnZTUtTGVtejhIUF9aMGhzYmdCVWlKV0pEQ2lwOHdqcDc4MXlrak9tbjFHTktpZTJ6VmZwUTRiOVhjSk5TajdKUQ?oc=5",
-   "topic": "defense",
-   "published": "2026-10-04T11:20:37.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "i24news.tv"
-   ],
-   "important": false
-  },
-  {
-   "id": "7a89bae43ca0",
-   "kind": "headline",
-   "title": "הפתיחות להגירה באירופה: היבשת נמצאת על סף מלחמת אזרחים | משה כהן אליה",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GU1FHa3Rkc0JNNGpNMUpIaGJ6Q0EtN1JKUE5TTzRjODgzZ3Mta0lOanpmWE9hcmVfTlhLVTB3MFR6UWlGckxCbHcwWC1rRzNGcWQxRzdsUl9vSjBCT3pxRmJwYzE?oc=5",
-   "topic": "demo",
-   "published": "2026-10-04T11:19:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "maariv.co.il",
-    "וואלה",
-    "walla.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "ff63ff72e341",
-   "kind": "headline",
-   "title": "רוצים אזרחות נוספת? המדינה שמציעה דרכון תמורת השקעה כספית",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558336#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-04T11:17:00.000Z",
-   "summary": "ארגנטינה תאפשר לזרים לקבל אזרחות בתמורה לתרומה של 350 אלף דולר או לרכישת אג\"ח ממשלתיות ב־800 אלף דולר, בעוד המבקשים לא יידרשו להתגורר במדינה • התוכנית נועדה לסייע למדינה להגדיל את יתרות המט&rdquo;ח, לקראת תשלומי חוב של כ־25 מיליארד דולר הצפויים בשנה הבאה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791112054/shutterstock_2741216327_rreh10.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
