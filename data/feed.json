@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T11:42:24.919Z",
+ "updated": "2026-10-06T11:54:04.588Z",
  "items": [
+  {
+   "id": "120433c744ab",
+   "kind": "headline",
+   "title": "וול סטריט בדרך להיפתח בשיאים חדשים; מחירי הנפט ותשואות האג\"ח יורדים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558504#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T11:50:00.000Z",
+   "summary": "מדדי הנאסד\"ק וה-S&P 500 בדרך לפתוח את היום בטריטוריית שיא • עליות גם באירופה • מחיר נפט מסוג ברנט ירד מתחת ל-100 דולר לחבית • בורסות אסיה נסחרו במגמה מעורבת, אחרי שהנאסד\"ק טיפס אמש לשיא חדש - מניות ענקיות הטכנולוגיה הובילו את הראלי • וגם: SpaceX של אילון מאסק זינקה לאחר המלצה של מורגן סטנלי,…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3f7edcb1d7db",
+   "kind": "headline",
+   "title": "חשד: הסתיר רווחים של עשרות מיליוני דולרים מקריפטו",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558551#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T11:49:00.000Z",
+   "summary": "רשות המסים ולהב 433 עצרו חשוד בהסתרת פעילות מסחר במטבעות דיגיטליים בהיקף של עשרות מיליוני דולרים • החשד: סחר במטבעות דיגיטליים בבורסות שונות, מבלי שדיווח לרשות המסים על פעילותו",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1634660081/direct/shutterstock_794562280_rumebg.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "8798c9e2a1e7",
    "kind": "headline",
@@ -5846,36 +5874,6 @@
    "alsoIn": [
     "Reuters",
     "reuters.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "4d26e2bc9998",
-   "kind": "headline",
-   "title": "Malena Tudi to address viral claims about her divorce from Nmplol after months away from internet",
-   "source": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTGIzZlFjQUl2WFBIRVRGOVE1OGNPQW1QcV8xSjNsLVRXWnRsaHN2SWo1eHF6d0VjSjg1T1U4b0lFZTNnUGttTE9PV05DdnBrbE42TVdGRlJ2a2RRT0x1MkZoNGFpSmRLSWR2ZGxPUEJSUDdWNU1wUkdKaDFLZGJacUVkczZmRElPVFJ5a2pvR1FwZFM5NlE1LW12UnVPRFh2X09qYjhPb3BzYlBTaFdnMnB4bDBJNURPMGtZS2U3TXk4U0RrbUhHZVBLdlZuVmNKNE9ENzZfVjR5Tkp0b1lkRnF2WW45UE9HV09EcG80TzFiZmtZUGs2UlJnR3VFLUNZd09IVXQwRkVlUdIBjwJBVV95cUxOMGtsM2cwYmMybXMtTTVseUtYbW9xeFU4aDlFTlFWTXRaSk1ncjhNemFOZVRySnpCSHZKRjdzcU8xRUhnZDdSQnBwY3Nkd2g4V1h4djBrbU5sUlhNWGpHTXp4TGlIVF9wU1JybTBrNDRtQnVTbFA1ZlFLMDB3OXZ1bUktWWpOZDh0bG5XNmxmOGJJQkpQSjNxVnIyR2hMZFZEQ2xvUmJEeE9ROTFjUGxaWk93YWRFbTkzRXBkLUFDckxEdVlGZlNCZzAxMVJoa0JHdEdIbTlPMnV6TVExT0tBb0RNMXpkbENkMXJ0bTBIU2dFSmhLbWJWNEZZa2FqcDR1VUxpNkVrY3BwTU1pQ3Rv?oc=5",
-   "topic": "media",
-   "published": "2026-10-04T19:24:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8ac3b15248b5",
-   "kind": "headline",
-   "title": "משפט המו\"לים: עדותו של ח\"כ כבל חידדה את החשיבות הקריטית של הקלטות נתניהו-מוזס",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lT1FjRlEySm9EcjNZekU2eGpJaVpUZWdWYXRDWENjZ0RfOWxQSnRmeC14VG1XeHBDZ25zMmFsVHNBaWxQenJPbQ?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-04T19:09:13.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "the7eye.org.il"
    ],
    "important": false
   }
