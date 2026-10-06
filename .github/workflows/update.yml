@@ -41,7 +41,10 @@ jobs:
           OWNER_KEY: ${{ secrets.OWNER_KEY }}
           TEST_PUSH: ${{ inputs.test_push }}
           NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
         run: |
+          npm i --no-save --no-audit --no-fund --silent web-push@3.6.7 || echo "web-push install failed"
+
           # ריצה מלאה (כולל חיפושים), ואז בדיקה מהירה של האתרים כל 2 דקות — כמעט בזמן אמת
           git config user.name "dofek-bot"
           git config user.email "dofek-bot@users.noreply.github.com"

@@ -273,6 +273,61 @@ async function syncRequests() {
   } catch (e) { log('requests sync failed:', e.message); }
 }
 
+// ---------- פושים ישירים לאפליקציה (Web Push) ----------
+// מי שהפעיל "התראות ישירות" באפליקציה שולח את פרטי הרישום לערוץ ntfy; כאן אוספים אותם לקובץ מוצפן
+// (המאגר ציבורי — לכן מוצפן במפתח שנגזר מהסוד VAPID_PRIVATE_KEY).
+const VAPID_PRIV = process.env.VAPID_PRIVATE_KEY || '';
+const subsKey = () => crypto.createHash('sha256').update('dofek-subs:' + VAPID_PRIV).digest();
+function loadSubs() {
+  if (!VAPID_PRIV) return [];
+  try {
+    const raw = Buffer.from(fs.readFileSync(P('data/subs.enc'), 'utf8'), 'base64');
+    const d = crypto.createDecipheriv('aes-256-gcm', subsKey(), raw.subarray(0, 12)); d.setAuthTag(raw.subarray(12, 28));
+    return JSON.parse(Buffer.concat([d.update(raw.subarray(28)), d.final()]).toString('utf8'));
+  } catch { return []; }
+}
+function saveSubs(list) {
+  const iv = crypto.randomBytes(12), c = crypto.createCipheriv('aes-256-gcm', subsKey(), iv);
+  const ct = Buffer.concat([c.update(JSON.stringify(list), 'utf8'), c.final()]);
+  fs.writeFileSync(P('data/subs.enc'), Buffer.concat([iv, c.getAuthTag(), ct]).toString('base64') + '\n');
+}
+const PUSH_HOSTS = /^https:\/\/([a-z0-9.-]+\.)?(fcm\.googleapis\.com|push\.services\.mozilla\.com|push\.apple\.com|notify\.windows\.com)\//;
+let SUBS = null;
+async function syncSubs() {
+  if (!VAPID_PRIV || FIXTURES) return;
+  SUBS = loadSubs();
+  const before = JSON.stringify(SUBS);
+  try {
+    const txt = await get(`${NTFY}/${config.ntfyTopic}-subs/json?poll=1&since=24h`, { timeout: 10000 });
+    for (const l of txt.split('\n').filter(Boolean)) {
+      let m; try { m = JSON.parse(l); } catch { continue; }
+      if (m.event !== 'message') continue;
+      let r; try { r = JSON.parse(m.message); } catch { continue; }
+      const sub = r.sub || {};
+      if (typeof sub.endpoint !== 'string' || !PUSH_HOSTS.test(sub.endpoint) || !sub.keys?.p256dh || !sub.keys?.auth) continue;
+      SUBS = SUBS.filter(x => x.endpoint !== sub.endpoint);
+      if (r.t === 'sub') SUBS.push({ endpoint: sub.endpoint, keys: { p256dh: String(sub.keys.p256dh), auth: String(sub.keys.auth) }, at: m.time });
+    }
+    if (SUBS.length > 2000) SUBS = SUBS.slice(-2000);
+    if (JSON.stringify(SUBS) !== before) { saveSubs(SUBS); log(`web-push subscribers: ${SUBS.length}`); }
+  } catch (e) { log('subs sync failed:', e.message); }
+}
+let webpush = null;
+async function webPushAll(payload) {
+  if (!VAPID_PRIV || !SUBS?.length || DRY) return 0;
+  if (!webpush) {
+    try { webpush = (await import('web-push')).default; } catch { log('web-push module missing'); return 0; }
+    webpush.setVapidDetails('https://oridor005-ux.github.io/dofek/', config.vapidPublic, VAPID_PRIV);
+  }
+  let ok = 0; const dead = new Set();
+  await Promise.all(SUBS.map(async (s) => {
+    try { await webpush.sendNotification(s, JSON.stringify(payload), { TTL: 6 * 3600, urgency: 'high' }); ok++; }
+    catch (e) { if (e.statusCode === 404 || e.statusCode === 410) dead.add(s.endpoint); else log('  web-push error', e.statusCode || e.message); }
+  }));
+  if (dead.size) { SUBS = SUBS.filter(s => !dead.has(s.endpoint)); saveSubs(SUBS); log(`removed ${dead.size} expired subscriptions`); }
+  return ok;
+}
+
 // ---------- פושים ----------
 function israelHour(d = new Date()) {
   return +new Intl.DateTimeFormat('en-GB', { timeZone: 'Asia/Jerusalem', hour: '2-digit', hour12: false }).format(d) % 24;
@@ -294,6 +349,8 @@ async function push(msg) {
     attach: msg.image || undefined,
     filename: msg.image ? 'dofek.jpg' : undefined,
   };
+  const wp = await webPushAll({ title: msg.title, body: msg.message, image: msg.image || undefined, url: msg.click || APP_URL, tag: (msg.click || '').split('#')[1] || undefined });
+  if (wp) { lastPushOk = true; try { fs.writeFileSync('/tmp/dofek_pushed', '1'); } catch {} }
   if (DRY || !config.ntfyTopic) { log('  [push dry]', JSON.stringify({ t: body.title, m: body.message, img: body.attach, click: body.click })); return true; }
   try {
     const headers = { 'Content-Type': 'application/json' };
@@ -333,6 +390,7 @@ async function main() {
   if (!process.env.LIGHT && !FIXTURES && state.lastFullAt && now - new Date(state.lastFullAt) < 28 * 60000) process.env.LIGHT = '1';
   const settings = await syncSettings();
   await syncRequests();
+  await syncSubs();
   const pushTopics = settings.pushTopics || {};
   const wants = (it) => pushTopics[it.topic] !== false;
 
@@ -410,6 +468,7 @@ async function main() {
   if (collectStats && !collectStats.light) state.lastFullAt = now.toISOString();
   state.ownerKeySet = !!OWNER_KEY;
   state.ntfyTokenSet = !!process.env.NTFY_TOKEN;
+  state.webPushSubscribers = SUBS ? SUBS.length : null;
   // נתוני בריאות למערכת ההתראות למנהל
   const h = state.health || {};
   if (collectStats && !collectStats.light) {

@@ -386,15 +386,24 @@ function render(){
     } else if (filter === 'important') { heads = heads.filter(i=>i.important); showIns = ins.filter(i => Date.now() - new Date(i.published) < 2*864e5); }
     else if (filter !== 'all') { heads = heads.filter(i=>i.topic===filter); showIns = ins.filter(i=>i.topic===filter); }
     if (filter === 'media' || filter === 'state') html += askBanner();
+    // מה שלא נקרא — קודם. מה שכבר נקרא — בסוף
+    const unreadFirst = arr => [...arr.filter(i=>!isRead(i.id)), ...arr.filter(i=>isRead(i.id))];
+    showIns = unreadFirst(showIns);
+    const newHeads = heads.filter(i=>!isRead(i.id)), oldHeads = heads.filter(i=>isRead(i.id));
+    window._order = [...showIns.slice(0,10), ...newHeads, ...oldHeads].map(i => (i.kind === 'insight' ? '' : 'h-') + i.id);
     if (showIns.length) html += `<div class="section-h">ניתוחי עומק</div><div class="strip">${showIns.slice(0,10).map(insightCard).join('')}</div>`;
     const unreadHere = [...heads, ...showIns].filter(i=>!isRead(i.id)).map(i=>i.id);
     window._unreadHere = unreadHere;
     if (unreadHere.length) html += `<button class="markall" id="markAll">✓ סימון הכל כנקרא (${unreadHere.length})</button>`;
     let last = '';
-    for (const it of heads) {
+    for (const it of newHeads) {
       const d = dayLabel(it.published);
       if (d !== last) { html += `<div class="section-h">${d}</div>`; last = d; }
       html += headlineCard(it);
+    }
+    if (oldHeads.length) {
+      html += `<div class="section-h">✓ כבר קראת (${oldHeads.length})</div>`;
+      for (const it of oldHeads) html += headlineCard(it);
     }
     if (!heads.length && !showIns.length) html += empty(query ? 'לא נמצא כלום לחיפוש הזה.' : 'אין עדיין ידיעות כאן. בדוק שוב עוד מעט.');
   }
@@ -418,6 +427,7 @@ async function load(){
   if (store.get('read', null) === null) { markRead([...feed.items, ...insights.items].filter(i => Date.now() - new Date(i.published) > 12*3600e3).map(i=>i.id)); render(); }
   store.set('seen', [...new Set([...feed.items.map(i=>i.id), ...seenBefore])].slice(0, 1500));
   routeHash();
+  refreshSub();
 }
 
 // ===================== גיליון (חלון תחתון) =====================
@@ -437,16 +447,37 @@ window.addEventListener('popstate', () => { sheetPushed = false; if (isOpen()) h
 $('#scrim').onclick = closeSheet;
 $('#sheetClose').onclick = closeSheet;
 let routed = false;
-function routeHash(){
-  const h = decodeURIComponent(location.hash.slice(1)); if (!h || routed) return; routed = true;
+function routeHash(force){
+  const h = decodeURIComponent(location.hash.slice(1)); if (!h || (routed && !force)) return; routed = true;
   history.replaceState(null, '', basePath());
   if (h.startsWith('h-')) openHeadline(h.slice(2)); else if (h === 'settings') openSettings(); else if (h === 'ask' && OWNER) openAsk(); else openInsight(h);
+}
+// הידיעה הבאה שעוד לא נקראה באותה לשונית
+function nextUnreadAfter(key){
+  const order = window._order || [];
+  const unread = k => !isRead(k.startsWith('h-') ? k.slice(2) : k);
+  const i = order.indexOf(key);
+  return [...order.slice(i + 1), ...order.slice(0, Math.max(i, 0))].find(k => k !== key && unread(k));
+}
+function nextBtn(key){
+  const n = nextUnreadAfter(key);
+  return n ? `<button class="btn small" id="nextBtn" data-next="${esc(n)}" style="margin-top:10px">הבאה שלא קראת ←</button>` : '<p class="also" style="text-align:center;margin-top:12px">✓ קראת הכל בלשונית הזו</p>';
+}
+function shareBtn(){ return `<button class="btn ghost small" id="shareBtn" style="margin-top:14px">🔗 שיתוף קישור לידיעה</button>`; }
+async function shareItem(title, text, key){
+  const url = location.origin + location.pathname.replace(/index\.html$/, '') + '#' + key;
+  try { if (navigator.share) { await navigator.share({ title, text, url }); return; } } catch (e) { if (e.name === 'AbortError') return; }
+  try { await navigator.clipboard.writeText(url); toast('הקישור הועתק ✓'); } catch { prompt('העתק את הקישור:', url); }
+}
+function bindSheetButtons(title, text, key){
+  const sb = $('#shareBtn'); if (sb) sb.onclick = () => shareItem(title, text, key);
+  const nb = $('#nextBtn'); if (nb) nb.onclick = () => { const k = nb.dataset.next; k.startsWith('h-') ? openHeadline(k.slice(2)) : openInsight(k); };
 }
 const paras = s => String(s||'').split(/\n\s*\n|\n/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join('');
 const byline = `<div class="byline"><img src="icons/icon-192.png" alt="">סיכום של דופק אמיתי (נכתב ע״י Claude לפי המקורות)</div>`;
 
 function openInsight(id){
-  const it = insights.items.find(i=>i.id===id); if (!it) return;
+  const it = insights.items.find(i=>i.id===id); if (!it) { toast('הניתוח הזה כבר לא זמין'); return; }
   if (markRead([id])) render();
   const hash = it.id;
   const vs = (it.claim||it.reality) ? `<div class="vs" style="margin-bottom:14px"><div><b>נאמר${it.claimBy?' · '+esc(it.claimBy):''}</b>${esc(it.claim||'')}</div><div><b>בפועל</b>${esc(it.reality||'')}</div></div>` : '';
@@ -456,10 +487,12 @@ function openInsight(id){
     ${vs}${it.claimSource?.url?`<a class="btn ghost small" style="margin:0 0 10px" href="${esc(it.claimSource.url)}" target="_blank" rel="noopener">איפה זה נאמר: ${esc(it.claimSource.name||'המקור')}${it.claimSource.date?' · '+esc(it.claimSource.date):''} ↗</a>`:''}
     ${it.corrected?`<div class="box"><h4>✏️ תיקון</h4><div>${esc(it.corrected)}</div></div>`:''}
     ${byline}<div class="body">${paras(it.body || it.summary)}</div>
-    ${it.sources?.length?`<div class="src"><div style="font-size:.8rem;color:var(--ink3);font-weight:600">מקורות</div>${it.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">↗ ${esc(s.name||s.url)}</a>`).join('')}</div>`:''}`, hash);
+    ${it.sources?.length?`<div class="src"><div style="font-size:.8rem;color:var(--ink3);font-weight:600">מקורות</div>${it.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">↗ ${esc(s.name||s.url)}</a>`).join('')}</div>`:''}
+    ${shareBtn()}${nextBtn(hash)}`, hash);
+  bindSheetButtons(it.title, it.summary || '', hash);
 }
 function openHeadline(id){
-  const it = feed.items.find(i=>i.id===id); if (!it) return;
+  const it = feed.items.find(i=>i.id===id); if (!it) { toast('הידיעה הזו כבר לא זמינה (נשמרות 5 ימים)'); return; }
   if (markRead([id])) render();
   const s = summaries[id];
   const img = s?.image || it.image;
@@ -480,25 +513,65 @@ function openHeadline(id){
     ${body}
     ${it.alsoIn?.length?`<div class="also" style="margin-top:12px">דווח גם ב: ${it.alsoIn.map(esc).join(' · ')}</div>`:''}
     ${s?.sources?.length?`<div class="src"><div style="font-size:.8rem;color:var(--ink3);font-weight:600">מקורות לסיכום</div>${s.sources.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">↗ ${esc(x.name||x.url)}</a>`).join('')}</div>`:''}
-    <a class="btn ghost small" style="margin-top:14px" href="${esc(it.url)}" target="_blank" rel="noopener">לכתבה המקורית ב${esc(it.source)} ↗</a>`, 'h-' + id);
+    ${shareBtn()}
+    <a class="btn ghost small" style="margin-top:8px" href="${esc(it.url)}" target="_blank" rel="noopener">לכתבה המקורית ב${esc(it.source)} ↗</a>
+    ${nextBtn('h-' + id)}`, 'h-' + id);
+  bindSheetButtons(it.title, firstSentences(s?.summary || it.summary || '', 140), 'h-' + id);
 }
 
 // ===================== התראות =====================
-function openNotif(){
+const b64u = s => { const p = '='.repeat((4 - s.length % 4) % 4); const b = atob((s + p).replace(/-/g, '+').replace(/_/g, '/')); return Uint8Array.from([...b].map(c => c.charCodeAt(0))); };
+const webPushSupported = () => 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window;
+async function currentSub(){ try { const r = await Promise.race([navigator.serviceWorker.ready, new Promise((_, no) => setTimeout(no, 3000))]); return await r.pushManager.getSubscription(); } catch { return null; } }
+async function sendSub(type, sub){
+  await fetch(`https://ntfy.sh/${config.ntfyTopic}-subs`, { method: 'POST', body: JSON.stringify({ t: type, sub: sub.toJSON ? sub.toJSON() : sub }) });
+}
+async function enableWebPush(){
+  if (!webPushSupported()) { toast('הטלפון הזה לא תומך — השתמש ב-ntfy'); return; }
+  const perm = await Notification.requestPermission();
+  if (perm !== 'granted') { toast('לא אושרו התראות. אפשר לאשר בהגדרות הטלפון'); return; }
+  try {
+    const r = await navigator.serviceWorker.ready;
+    const sub = await r.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64u(config.vapidPublic) });
+    await sendSub('sub', sub); store.set('subSent', Date.now());
+    toast('✓ התראות הופעלו'); openNotif();
+  } catch (e) { toast('ההפעלה נכשלה: ' + (e.message || e)); }
+}
+async function disableWebPush(){
+  const sub = await currentSub(); if (!sub) return;
+  try { await sendSub('unsub', sub); } catch {}
+  await sub.unsubscribe(); toast('ההתראות כובו'); openNotif();
+}
+// מרענן את הרישום פעם ביום, ליתר ביטחון
+async function refreshSub(){
+  if (!webPushSupported() || Notification.permission !== 'granted') return;
+  const sub = await currentSub(); if (!sub) return;
+  if (Date.now() - store.get('subSent', 0) > 864e5) { try { await sendSub('sub', sub); store.set('subSent', Date.now()); } catch {} }
+}
+async function openNotif(){
   const t = config.ntfyTopic || '';
+  const sub = webPushSupported() ? await currentSub() : null;
+  const standalone = matchMedia('(display-mode: standalone)').matches;
   openSheet(`<h2>התראות לטלפון</h2>
-  <p class="lead">הפושים של דופק אמיתי מגיעים דרך האפליקציה החינמית ntfy.</p>
-  <ol class="steps">
+  <div class="box key" style="margin-top:6px"><h4>🔔 התראות ישירות מדופק אמיתי (מומלץ)</h4>
+    <div style="font-size:.9rem;color:var(--ink2);margin-bottom:6px">לחיצה על ההתראה פותחת ישר את הידיעה בתוך האפליקציה. בלי אפליקציה נוספת.</div>
+    ${!webPushSupported() ? '<div class="pending">הדפדפן הזה לא תומך. התקן את האפליקציה דרך Chrome (באייפון: Safari ← הוסף למסך הבית), או השתמש ב-ntfy למטה.</div>'
+      : sub ? `<div style="color:var(--demo);font-weight:600;margin:6px 0">✓ פעיל במכשיר הזה</div><button class="btn ghost small" id="wpOff">כיבוי</button>`
+      : `${standalone ? '' : '<div class="pending">💡 כדאי להפעיל מתוך האפליקציה המותקנת (האייקון במסך הבית), כדי שהלחיצה תפתח אותה.</div>'}<button class="btn" id="wpOn">הפעלת התראות</button>`}
+  </div>
+  <details style="margin-top:14px"><summary style="font-size:.9rem;color:var(--ink2)">או: התראות דרך האפליקציה ntfy</summary>
+  <ol class="steps" style="margin-top:10px">
     <li>מתקינים את <b>ntfy</b> מחנות Play.</li>
     <li>חוזרים לכאן ולוחצים "חיבור לדופק" ומאשרים.</li>
-    <li>כדי לראות <b>תמונות</b> בפושים: ב-ntfy נכנסים ל-⋮ ← Settings ← <b>Auto download attachments</b> ובוחרים <b>Always</b> (או תמונות עד 1MB).</li>
+    <li>לתמונות בפושים: ב-ntfy ⋮ ← Settings ← <b>Auto download attachments</b> ← <b>Always</b>.</li>
   </ol>
   <a class="btn ghost" href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">1 · התקנת ntfy</a>
-  <a class="btn" href="ntfy://ntfy.sh/${esc(t)}?display=${encodeURIComponent('דופק אמיתי')}">2 · חיבור לדופק</a>
-
-  <p style="font-size:.8rem;color:var(--ink3);margin-top:14px">אם הכפתור לא עובד: ב-ntfy לוחצים + ומקלידים <code>${esc(t)}</code></p>
-  ${OWNER ? '<p style="font-size:.8rem;color:var(--ink3);margin-top:8px">על אילו נושאים לקבל פושים ומתי — ב<a href="#settings" style="color:var(--accent)">הגדרות</a>.</p>' : ''}`);
-
+  <a class="btn ghost" href="ntfy://ntfy.sh/${esc(t)}?display=${encodeURIComponent('דופק אמיתי')}">2 · חיבור לדופק</a>
+  <p style="font-size:.8rem;color:var(--ink3);margin-top:10px">אם הכפתור לא עובד: ב-ntfy לוחצים + ומקלידים <code>${esc(t)}</code>. אם הפעלת גם התראות ישירות — כדאי לבטל את ntfy כדי לא לקבל כל פוש פעמיים.</p>
+  </details>
+  ${OWNER ? '<p style="font-size:.8rem;color:var(--ink3);margin-top:12px">על אילו נושאים לקבל פושים ומתי — ב<a href="#settings" style="color:var(--accent)">הגדרות</a>.</p>' : ''}`);
+  const on = $('#wpOn'); if (on) on.onclick = enableWebPush;
+  const off = $('#wpOff'); if (off) off.onclick = disableWebPush;
 }
 async function testPush(){
   const it = feed.items.find(i=>i.topic==='demo') || feed.items[0];
@@ -684,7 +757,12 @@ document.addEventListener('click', e => {
 });
 $('#q').addEventListener('input', e => { query = e.target.value.trim().toLowerCase(); render(); });
 $('#refresh').onclick = load;
-window.addEventListener('hashchange', () => { if (location.hash.startsWith('#owner=')) load(); });
+window.addEventListener('hashchange', () => { if (location.hash.startsWith('#owner=')) load(); else if (location.hash.length > 1 && !isOpen()) routeHash(true); });
+navigator.serviceWorker?.addEventListener('message', e => {
+  if (e.data?.type !== 'open') return;
+  const h = (e.data.url.split('#')[1] || ''); if (!h) return;
+  history.replaceState(null, '', '#' + h); load().then(() => routeHash(true));
+});
 document.addEventListener('visibilitychange', () => { if (!document.hidden) load(); });
 
 let deferred;
