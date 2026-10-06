@@ -2402,12 +2402,34 @@
    "found": "2026-10-06T09:47:32Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693485963728784658.txt"
+  },
+  {
+   "id": "7693492330292055316",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7693492330292055316",
+   "caption": "אין דבר כזה עיתונאים בעזה",
+   "posted": "1791280778",
+   "found": "2026-10-06T10:03:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693492330292055316.txt"
+  },
+  {
+   "id": "7693467987361271061",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693467987361271061",
+   "caption": "תיעוד מרגש: הלוחם שיצא מלבנון לכמה דקות בלבד הגיע לחבק את אמו – והתגו...",
+   "posted": "1791275110",
+   "found": "2026-10-06T10:04:19Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693467987361271061.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T09:48:01Z",
+  "at": "2026-10-06T10:04:32Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
