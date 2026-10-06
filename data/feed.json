@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T13:41:55.322Z",
+ "updated": "2026-10-06T13:54:21.793Z",
  "items": [
   {
    "id": "6366fb6394c6",
@@ -184,6 +184,20 @@
    "important": false
   },
   {
+   "id": "c051d0f3e40d",
+   "kind": "headline",
+   "title": "חברת הפינטק קפיטוליס השלימה גיוס לפי שווי של 1.9 מיליארד דולר",
+   "source": "Calcalist",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhOTlZNjI1T2tHMGduQ3lrNU1NMXEzamdpV2VNMGdzVkV5OFlZenh6WHZvS0g5b2lUdmFCT1NSV2l1ZGdyU3dOWDl1LVdPbjJRdVl5dmljaDJFMkpRWmpsVTgyT1ZkV25Ucl9v?oc=5",
+   "topic": "deals",
+   "published": "2026-10-06T12:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "120433c744ab",
    "kind": "headline",
    "title": "וול סטריט בדרך להיפתח בשיאים חדשים; מחירי הנפט ותשואות האג\"ח יורדים",
@@ -303,6 +317,20 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGpQOU5ReVp3cUFNc3FLSHRNeTZXOWQ4d0hKT0lPTU1pX1RTSko0ZzlrYjlqUFVqQmwxcXdBTU9rY1haTGZSYXdmY1pUak1FeTd2N0s1WDNHdFg0RzhSLTVzSklLeEkxZGJGX05wZnhleXluTzNHaWJiSFRCY0txS2RIUWlSNVB3LTBIU1VNNEV2ZDdaOWc?oc=5",
    "topic": "world",
    "published": "2026-10-06T11:18:33.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e9cff273eaae",
+   "kind": "headline",
+   "title": "Opposition in Georgia",
+   "source": "JAMnews",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXI0cGJ5bkxnWkVyd21lSjhrcFZMajF4OUVPYkFjTllaRGk0M3Z3U0NzNHQ3ajNSb1J3NktZcFkyMDY0S2stNVBmV0ZmcWlzZkxzdUg0T0NFODlxaGhpUFNoT2ltaXJNbDdTWXRMRDJ2S0h1TlRYR3owRkNWNzBySzI2akxEVHVlLUxobEQwUDZOUzRld2dCR2JnUHJhV1Qwa25PdXJYTXMycUdLQnpnX0V3MEF3SHRQMS1kYTdwdERLRFl6?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T11:10:13.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -831,7 +859,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "mako.co.il"
+    "mako.co.il",
+    "mako"
    ],
    "important": false
   },
@@ -1396,6 +1425,20 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWJ1c0hLd3VTTzNfZTREcVRtVUVhbWhtc1BHWUlWR2FPVGctTjBpOEdINk1GOTRmUWR3TzdBMy1Ea0xZRFRRR3Z1RU5Jb2FSNUtKMVpiLVV1a2VoeTZxOWxSUmF6SnNXTkZNZHZIcllaaTB1VjdmOXdYQncyODVURDNXOXRLUlFuZklyS1Vyb1p0RExVLUY4NlF3?oc=5",
    "topic": "world",
    "published": "2026-10-06T05:37:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "115190734c65",
+   "kind": "headline",
+   "title": "ירידות בתל אביב: הטכנולוגיה מושכת למטה; מניית נקסט ויז'ן צוללת",
+   "source": "גלובס",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZYXd6T0N1NWFPMjRWS3lheHd5enE3WEdVZ053djRKd09iUWhXcWpEdDZyS01CVkZIS01rTGhRSDlCZ2IxLThLVDM4M1FHV2xLbjRIRUd5Y2UtWjhMRXliblJsaHp4QkhO?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T05:36:59.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5827,48 +5870,6 @@
    "score": 3,
    "alsoIn": [],
    "important": true
-  },
-  {
-   "id": "98868cb430ae",
-   "kind": "headline",
-   "title": "הדשדוש בבורסה פגע בביצועי קרנות הגידור: הציגו תשואות חסר מול המדד",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558376#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T02:52:00.000Z",
-   "summary": "התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי, שבו הציג מדד ת\"א 125 עלייה מזערית • בלטה לטובה: קרן חדשה יחסית של ספרה שהציגה תשואה של 41% • הדרמה בשוק האג\"ח בארה\"ב לא באה לידי ביטוי משמעותי בקרנות הגידור",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728995348/COT_Pic/800_hrepep.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "55ed10ba57a5",
-   "kind": "headline",
-   "title": "הרבעון שהוכיח: קרנות גידור יכולות להפסיד לבורסה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558376#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T02:52:00.000Z",
-   "summary": "התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי, שבו הציג מדד ת\"א 125 עלייה מזערית • בלטה לטובה: קרן חדשה יחסית של ספרה שהציגה תשואה של 41% • הדרמה בשוק האג\"ח בארה\"ב לא באה לידי ביטוי משמעותי בקרנות הגידור",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728995348/COT_Pic/800_hrepep.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "71ffadd88697",
-   "kind": "headline",
-   "title": "השורטיסט שעם פחות מ־10 מיליון דולר השתלט על חברת נדל\"ן שהסתבכה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558370#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T02:50:00.000Z",
-   "summary": "המיליארדר מייק קוהאן איבד את השליטה בחברת הנדל\"ן הנושאת את שמו שנקלעה לאחרונה לסחרור, לאחר שלא עמד בהחזר חוב שכנגדו שיעבד את מניותיו בחברה • הבעלים החדש של קוהאן, נתנאל לורנצי, ינסה להשכיח את הסיבוב הקודם שלו בשוק ההון, שלא הסב נחת למשקיעים",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791126232/800_c4tv9s.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }

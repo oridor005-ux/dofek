@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65561,
+   "lastId": 65562,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:38.968Z"
+   "checkedAt": "2026-10-06T13:43:07.949Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:39.626Z"
+   "checkedAt": "2026-10-06T13:43:08.681Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:40.310Z"
+   "checkedAt": "2026-10-06T13:43:09.390Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11413,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:40.982Z"
+   "checkedAt": "2026-10-06T13:43:10.139Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19282,
+   "lastId": 19283,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:41.632Z"
+   "checkedAt": "2026-10-06T13:43:10.887Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:42.323Z"
+   "checkedAt": "2026-10-06T13:43:11.636Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
-   "subscribers": "8.42K",
-   "lastId": 54897,
+   "subscribers": "8.41K",
+   "lastId": 54898,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:42.984Z"
+   "checkedAt": "2026-10-06T13:43:12.373Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131458,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:43.745Z"
+   "checkedAt": "2026-10-06T13:43:13.258Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74684,
+   "lastId": 74685,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:44.331Z"
+   "checkedAt": "2026-10-06T13:43:13.874Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:44.999Z"
+   "checkedAt": "2026-10-06T13:43:14.634Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T13:30:45.731Z"
+   "checkedAt": "2026-10-06T13:43:15.431Z"
   }
  },
  "posts": [
@@ -649,13 +649,49 @@
    "date": "2026-10-06T13:25:57+00:00",
    "text": "עוד עלה בדיון: מתחילת השנה נכנסו לישראל יותר מ-1,200 אנשי צוות אוויר ממדינות שאין איתן יחסים דיפלומטיים",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65562",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65562",
+   "date": "2026-10-06T13:37:24+00:00",
+   "text": "עוד עלה בדיון: מתחילת השנה נכנסו לישראל יותר מ-1,200 אנשי צוות אוויר ממדינות שאין איתן יחסים דיפלומטיים",
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19283",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19283",
+   "date": "2026-10-06T13:35:33+00:00",
+   "text": "לקראת ה-7 באוקטובר מחר - המל\"ל באזהרה לישראלים בחו\"ל: \"קיים סיכון מוגבר לניסיונות פיגוע נגד ישראלים ויהודים בחו\"ל, לצד הפגנות והפרות סדר. ארגוני הטרור, ובראשם איראן ושלוחיה, חמאס וגורמי הג'יהאד העולמי, רואים במועד זה נקודת ציון משמעותית\"",
+   "status": "new"
+  },
+  {
+   "id": "knessettv/54898",
+   "channel": "knessettv",
+   "name": "ערוץ כנסת 99",
+   "url": "https://t.me/knessettv/54898",
+   "date": "2026-10-06T13:38:44+00:00",
+   "text": "“לא חשבתי שאמצא את עצמי בפוליטיקה, אבל כשרה”מ קורא לי אני בא” 👇\nמועמד הליכוד אלישע מדן מספר על הפנייה האישית שקיבל מנתניהו להצטרפות לפוליטיקה: “הוא אמר לי שצריך אותי ושעוד לא סיימתי את המשימות שלי”\n📺 מתוך #הספירה_לאחור עם יובל קרני ומורן אזולאי | ערוץ כנסת 99",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74685",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74685",
+   "date": "2026-10-06T13:32:49+00:00",
+   "text": "🔴 האזהרה של המל\"ל לישראלים בחו\"ל: \"סיכון מוגבר לפיגועים מחר\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T13:30:46.132Z",
+  "at": "2026-10-06T13:43:15.831Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 20
+  "added": 4,
+  "pendingNew": 24
  }
 }
