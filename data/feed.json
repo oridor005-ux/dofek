@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T21:49:36.553Z",
+ "updated": "2026-10-06T22:01:13.666Z",
  "items": [
+  {
+   "id": "ca8f7a3d3abc",
+   "kind": "headline",
+   "title": "Amid Midterm Crunch, Trump Advisers Took Time to Help Russia-Aligned Government",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-advisers-republika-srpska.html",
+   "topic": "world",
+   "published": "2026-10-06T21:52:04.000Z",
+   "summary": "James Blair and Chris LaCivita, who are leading the president’s congressional campaign operation, traveled to Republika Srpska to provide election advice.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-srpska-01-thbp/06dc-srpska-01-thbp-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "812183369124",
    "kind": "headline",
@@ -5805,20 +5819,6 @@
    "url": "https://www.nytimes.com/2026/10/05/us/politics/midterm-elections-control-congress.html",
    "topic": "world",
    "published": "2026-10-05T09:03:51.000Z",
-   "summary": "It’s Oct. 5 — 29 days away from the midterms. Here’s the state of play.",
-   "image": "https://static01.nyt.com/images/2026/09/27/us/sotr-28sep-promo/sotr-28sep-promo-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7ef280243531",
-   "kind": "headline",
-   "title": "Who’s Winning the Battle for Congress?",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/whos-winning-the-race-for-congress.html",
-   "topic": "world",
-   "published": "2026-10-05T09:03:50.000Z",
    "summary": "It’s Oct. 5 — 29 days away from the midterms. Here’s the state of play.",
    "image": "https://static01.nyt.com/images/2026/09/27/us/sotr-28sep-promo/sotr-28sep-promo-mediumSquareAt3X.jpg",
    "score": 0,
