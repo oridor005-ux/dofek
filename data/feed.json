@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T02:52:01.240Z",
+ "updated": "2026-10-06T03:03:29.517Z",
  "items": [
+  {
+   "id": "7e5d08191f78",
+   "kind": "headline",
+   "title": "המשקיע הצ'יליאני שהרוויח הון ממניות סמארט שוטר אך הצליח פחות ביתר השקעותיו בישראל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558465#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T03:01:00.000Z",
+   "summary": "אלחנדרו ויינשטיין מימש את השקעתו בחברה הביטחונית ב&ndash;58 מיליון שקל וברווח יפה, אך מופסד במניות פלורי וגאוזי שרכש",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791209588/%D7%90%D7%9C%D7%97%D7%A0%D7%93%D7%A8%D7%95-%D7%95%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_upztyu.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "29c16c3379e8",
+   "kind": "headline",
+   "title": "התוכנית החדשה של האוצר: מס רכוש, \"מס נטפליקס\" ומיסוי של מוצרי יוקרה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558486#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T02:58:00.000Z",
+   "summary": "צוות מיוחד בראשות הכלכלן הראשי מגבש כיווני מדיניות חדשים להתמודדות עם השפעות הבינה המלאכותית על המשק • באוצר מציעים להסיט את הכובד להעלאת המסים על הון, מוצרי יוקרה וקרקעות פנויות - אך מתנגדים בתוקף להטלת מס ייעודי על רובוטים ומחשוב",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1701271936/direct/_H6A3374_ljmjw8.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c74f54c4103a",
    "kind": "headline",
@@ -5900,36 +5928,6 @@
    "summary": "מתחם חדש במערב ראשון לציון עם 3,500 חניות לרכב פרטי, ממנו יצאו ארבעה קווי שאטלים חשמליים חינמיים בנתיב ייעודי אל מרכזי התעסוקה בת\"א, נפתח הבוקר. אלא שבדומה למתחם בשפיים, גם כאן אין חיבור לרכבת או לקווי אוטובוס, ומי שלא מגיע ברכב או באופניים לא יוכל להשתמש בשירות. וגם: מתי רכבים פרטיים יוכלו לנסוע…",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/24/By9nieoO11e/By9nieoO11e_0_57_1264_712_0_medium.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "443df77e9b3f",
-   "kind": "headline",
-   "title": "Fruitful Budget Session",
-   "source": "The Rising Nepal",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vVURvYUxkeW5DY0FnVGJQT3gyQVppT3A0N2lLREtOMUZvYVNwWEw5RE8zTnYyY25LZFc2OGVzV05xakJLUlVnNzN3WUo4YldD?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T05:46:12.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "risingnepaldaily.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "d8d541eafe4b",
-   "kind": "headline",
-   "title": "בחצות: מחיר הדלק יוזל ל-7.77 שקלים",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bkwufds9gx",
-   "topic": "econ",
-   "published": "2026-10-04T05:45:06.000Z",
-   "summary": "אחרי שהתייקר ב-52 אגורות למחיר שיא של כל הזמנים - 8.27 שקל לליטר, אושרה ע\"י הייעוץ המשפטי בממשלה הפחתה נוספת של מס הבלו - והיא תיכנס לתוקף היום בלילה",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/Sk0VK5htWe/Sk0VK5htWe_0_0_3000_1689_0_medium.jpg",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
