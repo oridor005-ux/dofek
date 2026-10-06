@@ -2843,12 +2843,22 @@
    "found": "2026-10-06T16:14:35Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693587834762022162.txt"
+  },
+  {
+   "id": "7693595838613835016",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693595838613835016",
+   "caption": "תוכניתו של ראש עיריית ניו יורק זוהרן ממדאני למאבק באנטישמיות עוררה בי...",
+   "posted": "1791304880",
+   "found": "2026-10-06T16:44:57Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-06T16:30:08Z",
+  "at": "2026-10-06T16:45:17Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
