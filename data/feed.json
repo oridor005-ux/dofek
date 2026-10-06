@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T07:22:27.457Z",
+ "updated": "2026-10-06T07:32:03.987Z",
  "items": [
+  {
+   "id": "a3dae170f2d2",
+   "kind": "headline",
+   "title": "מגמה מעורבת בתל אביב; נקסט ויז'ן צוללת במעל 10%",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558469#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T07:30:00.000Z",
+   "summary": "מדד ת\"א 35 יורד בכ-0.2%, ת\"א 90 נופל בכ-1.5% • יצרנית המצלמות לרחפנים נופלת אחרי מימוש הענק של פידליטי • ענקיות הטק הובילו את הנאסד\"ק לשיא חדש, ויש מי שמצביע על כך שהפכו לנכסי המקלט הבטוח החדשים • משבר החוב בצרפת מכביד על גוש האירו ומעצים את החשש גם בשוק החוב האמריקאי - המיליארדר ריי דליו מזהיר…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "572a20522c05",
    "kind": "headline",
@@ -96,6 +110,20 @@
    "summary": "לפי נתוני שבא, היקף ההוצאות בכרטיסי חיוב בישראל הגיע בספטמבר 2026 ל-53.25 מיליארד שקל - עלייה של 6.2% לעומת ספטמבר אשתקד • זהו החודש הרביעי ברציפות שבו ההוצאה היומית הממוצעת גבוהה מ-1.7 מיליארד שקל • בין היתר נרשמה עלייה בהוצאות על בילוי וחופשות",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1629639299/direct/shutterstock_503419588_wwrv83.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f671f3231b26",
+   "kind": "headline",
+   "title": "Nigeria mourns as 32 killed in military plane crash",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-06T06:33:13.000Z",
+   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e2/live/c7aa3c10-c146-11f1-91a4-9d3e6655f0dd.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5865,36 +5893,6 @@
    "published": "2026-10-04T11:27:00.000Z",
    "summary": "מה הפיצוי המרבי שיכול לקבל כל נוסע שהיה על המטוס בטיסת פליי דובאי, מה התובע נדרש להוכיח, איפה אפשר לתבוע חברת תעופה זרה, והאם יש תקדים של מקרה דומה? • גלובס עושה סדר",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790845718/AP26273609093043_sbg6ce.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "289b71ff1b9f",
-   "kind": "headline",
-   "title": "מחר בבורסה: חוזרים לשגרה עם ארביטראז' חיובי; קמטק תזנק כ-3.8%",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OTlpUM3Y4cUZjZFpnQmtUQXBvbDk0VF94YTBRckF1Y0Y2UHIxOHc5MmdJaHpOQS1LZUs0NlQ5S3R4TnhpUmVhLVZJZ2hZdkxNQ05Va194cFVILW9hZjBDSDJNcU5LaXZoRWFDeGloSnY?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T11:25:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "bizportal.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "e5455aebf2f9",
-   "kind": "headline",
-   "title": "מתימן ועד ראש העין: פסטיבל תימנה חוזר לשורשים",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/hyiomn1jge",
-   "topic": "econ",
-   "published": "2026-10-04T11:20:58.000Z",
-   "summary": "שלושה ימים של מוזיקה, פיוט ומסורת, מהדיוואן התימני ועד הצלילים של ישראל העכשווית",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/S1afHnyjMx/S1afHnyjMx_0_0_1203_896_0_medium.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
