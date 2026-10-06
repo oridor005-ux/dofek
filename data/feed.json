@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T23:00:45.695Z",
+ "updated": "2026-10-06T23:12:18.268Z",
  "items": [
+  {
+   "id": "53e3cb837578",
+   "kind": "headline",
+   "title": "Five Takeaways in New Book From Thom Tillis, Who Turned on Trump",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/us/politics/takeaways-book-thom-tillis-trump.html",
+   "topic": "world",
+   "published": "2026-10-06T23:00:16.000Z",
+   "summary": "In “How to Lose Friends and Antagonize Presidents,” Senator Thom Tillis details his regrets about backing President Trump’s agenda.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-tillis-takeaways-01-bkmp/06dc-tillis-takeaways-01-bkmp-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "46fb10408722",
    "kind": "headline",
@@ -5804,22 +5818,6 @@
    "score": 0,
    "alsoIn": [
     "newindianexpress.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "47ddce8d6d08",
-   "kind": "headline",
-   "title": "ישי גבריאלי: בואו נדבר על מדד כוח הקנייה",
-   "source": "זמן ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5abm1NQUtvbXhRYzQzeGRFTlhVSzVaSGR4U3NobnkzTURIZFE3b0dQeVYwTExzUHBFLV9ySnV1Q0hRcGg2?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T09:30:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "zman.co.il"
    ],
    "important": false
   }
