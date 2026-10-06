@@ -2751,12 +2751,45 @@
    "found": "2026-10-06T15:15:30Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693569353148534036.txt"
+  },
+  {
+   "id": "7693579886073580821",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7693579886073580821",
+   "caption": "נתניהו הזהיר מחטיפת המטוס? או ששוב ניצלו הזדמנות להגיד אמרנו לכם? #מה...",
+   "posted": "1791301164",
+   "found": "2026-10-06T15:44:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693579886073580821.txt"
+  },
+  {
+   "id": "7693570740398083348",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693570740398083348",
+   "caption": "\"אין טרור יהודי ביו\"ש, מתנהל כאן קמפיין שקרי ובזוי של אלימות מתנחלים\"...",
+   "posted": "1791300600",
+   "found": "2026-10-06T15:47:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693570740398083348.txt"
+  },
+  {
+   "id": "7693580447560846612",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693580447560846612",
+   "caption": "״תודה לכל מי שחיזק אותי״: אחרי האיומים שספג, אור אוחנה ״מלך השווארמה״...",
+   "posted": "1791301294",
+   "found": "2026-10-06T15:48:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693580447560846612.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T15:29:01Z",
+  "at": "2026-10-06T15:48:42Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
