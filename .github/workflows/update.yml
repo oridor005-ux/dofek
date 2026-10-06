@@ -23,7 +23,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dofek-update
+  group: dofek-update${{ inputs.test_push && '-test' || '' }}
   cancel-in-progress: false
 
 jobs:
