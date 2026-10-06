@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:29:54.251Z",
+ "updated": "2026-10-06T12:42:20.519Z",
  "items": [
   {
    "id": "640d941e2336",
@@ -39,6 +39,20 @@
    "published": "2026-10-06T12:00:00.000Z",
    "summary": "חברת הטכנולוגיה הישראלית קפיטוליס, של היזם הישראלי גיל מנדלזיס, מגייסת 220 מיליון דולר לפי שווי של 1.9 מיליאראד דולר • קפיטוליוס הפכה לשחקנית הגדולה ביותר בנישה טכנולוגית המאפשרת לבנקים ולבתי השקעות לחלוק יחד בהון - על מנת להקטין את הריביות",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728889762/direct/%D7%92%D7%99%D7%9C_%D7%9E%D7%A0%D7%93%D7%9C%D7%96%D7%99%D7%A1_h4bzjs.png",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8fa96d51904d",
+   "kind": "headline",
+   "title": "קפיטוליס מגייסת חוב והון לפי שווי של 1.6 מיליארד דולר",
+   "source": "TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVQ4bjQ2WTh3ZzU0VTk4Z3E3TWZMYU5HSEE1aFhtQkF5Z2JXQkJnTjZiZlVPTFo1ZjlkRlJ3YlRIcF9qZWlxOUNjSzdZNDhWdkJOM3pNaUxQTVhIVEVuY29BbjlVMDM3VkI0RV9FeTBoTm55REx2V1RUODRWRXJqcVRjbldFVVNQYXlTNVMxQ1pEVDMzSnJrVllTRy1TbHVCNTEza1BkQjY5UQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T12:00:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -128,6 +142,20 @@
    "important": false
   },
   {
+   "id": "719697b74c3b",
+   "kind": "headline",
+   "title": "Poll: 4 In 10 Young Americans Support Sharia Law",
+   "source": "thefederalist.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd01aTjUyaWlDSEQ4d19hVUdDOWhxS2hqM2ZpRUU0Ymp2NDQ3dExsRmR4dEFRdUVkbWIzSDIzSklBU3FuSGREdks0LXpJMTE0VGJWVlFYX05mRWh5cElXQ0Jta1FnMmk0dUFoOGpIX0xHVFNzX2NweG5hNlMzekNWeUlKUGN5VXFTczZLU1Zn?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T11:36:45.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "d2e48e760463",
    "kind": "headline",
    "title": "השופטים לא מצליחים להילחם במריחת הזמן במשפט נתניהו",
@@ -138,6 +166,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6ab97cf3b4c9",
+   "kind": "headline",
+   "title": "Iran passes law banning interviews with ‘hostile’ media outlets",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGpQOU5ReVp3cUFNc3FLSHRNeTZXOWQ4d0hKT0lPTU1pX1RTSko0ZzlrYjlqUFVqQmwxcXdBTU9rY1haTGZSYXdmY1pUak1FeTd2N0s1WDNHdFg0RzhSLTVzSklLeEkxZGJGX05wZnhleXluTzNHaWJiSFRCY0txS2RIUWlSNVB3LTBIU1VNNEV2ZDdaOWc?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T11:18:33.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -454,6 +496,20 @@
    "important": true
   },
   {
+   "id": "8c45490f4c07",
+   "kind": "headline",
+   "title": "National Referendum Bill passed unanimously with rules for referendum process",
+   "source": "Fijivillage",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUdSN2syMEs5dGZMWS1XQy1TS1E2ZDAxSGxRaE1TY3BjRWgxbkp1blo0eTBSWUNfSnB2SXNHUzNmTWQzd3ozZ2xzMV9URmFxTVhXODJOT29XQmhxczhSMWNld2FhYUhVRE5MSXlUZi1TRlI2MDFKX3JBd3diZ1lPS2RfZXN3TUwtRnJETURqYTdwaTktNWxfYTVUa2RTaFNnT3VTbmhRXzJ6RC1JMkVHWW11czZCN2M?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T09:32:14.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ed14dfd498fc",
    "kind": "headline",
    "title": "Informa Acquires Clarion Events for £2.24bn in Major B2B Live Events Consolidation",
@@ -768,6 +824,20 @@
    "summary": "בבנק ההשקעות אופנהיימר מעריכים כי עסקת הענק במסגרתה מכרה פידליטי מניות נקסט ויז'ן בסך כולל של 1.3 מיליארד שקל משקפת מימוש רווחים, ולא משהו שהשתנה בעסקי החברה • עמרי עפרוני, אנליסט התחום הביטחוני של הבנק: \"רואים שכל המכפילים של החברות הביטחוניות ירדו בכ-30% בממוצע, אבל בישראל זה קצת יותר חזק\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1747303117/direct/WhatsApp_Image_2025-05-15_at_11.56.48_iyzuol.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7fa0fd145196",
+   "kind": "headline",
+   "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
+   "source": "LRT",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHktWDNLUXR6UU9YUHRkQjlFd201cXAwQ0Yxb1I5SWFhbUhGS2Z6T1Q1U2lZWi1LUzAzbGtpZnFSNTRLdk9mMi14aUwybE9ITkkwNXJuX3lkdFZfQndRbjh0RFJwalZsdWdiTlpoWTA4b0s5S1pad3NCal96RmdaS3BMclYyVVZFZ29fblFTWV9ORktDLVloWWZtTTV1REc3WWtjcjBtWHVoNlNXN1ExUjh3Q0RrRm5RbHdXY0lRVUk?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T08:10:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -2081,7 +2151,9 @@
    "summary": "",
    "image": "",
    "score": 3,
-   "alsoIn": [],
+   "alsoIn": [
+    "blogs.timesofisrael.com"
+   ],
    "important": true
   },
   {
@@ -2374,7 +2446,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "i24news.tv"
+   ],
    "important": false
   },
   {
@@ -3484,7 +3558,8 @@
    "image": "",
    "score": 1,
    "alsoIn": [
-    "jewishpress.com"
+    "jewishpress.com",
+    "worldisraelnews.com"
    ],
    "important": false
   },
@@ -5795,82 +5870,6 @@
    "published": "2026-10-05T00:07:01.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f321a4816345",
-   "kind": "headline",
-   "title": "The Sozialistische Gleichheitspartei election result in the Berlin state election",
-   "source": "World Socialist Web Site",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WNTBkekkzcnRWUF80SkpjYXVYVnpvNkh4ZVZaaVQxU0dNaFRVWXczNnBTRkdic1RBUzNzSTNGRzkwUEFleHkwOURXUEtXRTg5aTc5TUFwU1NoS1FZZWhDa2ZKOWw0eDRw?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T23:17:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "79ed11738de3",
-   "kind": "headline",
-   "title": "Nationalist Parties, Dodik Dominate Bosnian Election Amid Low Turnout",
-   "source": "rferl.org",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHI4aS1CeUlfU1FVZnBGZ3NvcTNub24zQzh3UkY4N0lnUDBodnljQWt2Z1I0V0docEY0WXBTU0lTVzRBbzFHamtOZ195dG1lR18wUUlJVExEY0ZwTFpTbDB6QmJhRGFXYTRteDhYZGFpVnVqVXVDLVk2S1VfSjVnWXhVSUZ2S3hqbTRVZFQ3dmxMbXRidVNRdUM0MGJ0QVBr0gGjAUFVX3lxTFBDVE9JYzF0U1Npd3VyZThOWVMxQi1lbmNBR0hfN3JoQzVya0ZkR0RNVlItQlAzNGk0c2ltR2Y1UXZ1VGRvZ2dNZm5FZ0JoUU5lVVNfVjFycVQ1Q3hFaTJQRGxzdTY1MWtXZzlDc2x2Wldsd3pSNHNONVNDdnFGSUtjb3FKclljM2RMczUzZHZWNnp4VC1ISmxwVmw4N053N1lXaW8?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T22:20:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Radio Free Europe/Radio Liberty"
-   ],
-   "important": false
-  },
-  {
-   "id": "bc57d78a89a8",
-   "kind": "headline",
-   "title": "Latvian leader surges to big election win as Russia threats rise",
-   "source": "The Spokesman-Review",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2E4YlpyR0luZUlSWEh2cW1WUUxtU1RKV1hESkUxWFRaX0p2RGpWanZBTDI2a2RXWElNbXc4eGRaQ3BvaWhxTThmYnl2cW5kd2dBcTg4QjY0Zy0xRko1VUVhTlhmT0N1LUdBVEZOcXg0REx0UnU3RlN0cTN1MWpEbUZDekFsRFg1THk3ZUpaY2piTDVZaWVQdThCQXNBQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T22:05:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "spokesman.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "bcd3342732fd",
-   "kind": "headline",
-   "title": "ארה\"ב: שוק העבודה כמעט לא מפטר - ובתעשייה המחירים שוב מזנקים",
-   "source": "פאנדר",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UXzJhcjJPazU3VTlmM1Y2RF9EX2dfTEFubTFkMlJ5OGVHcmxENG55ODRnWUNLYU8xblJEU3V6MFpBUlpOcVdxZGNCQWNHUzZ0?oc=5",
-   "topic": "demo",
-   "published": "2026-10-04T22:01:07.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "funder.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "0f1551a7c347",
-   "kind": "headline",
-   "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
-   "topic": "world",
-   "published": "2026-10-04T21:53:42.000Z",
-   "summary": "President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.",
-   "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04dc-trump-midterms1-tfjh/04dc-trump-midterms1-tfjh-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
