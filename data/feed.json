@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T07:45:19.782Z",
+ "updated": "2026-10-06T07:57:38.277Z",
  "items": [
   {
    "id": "1a3933d02327",
@@ -503,6 +503,20 @@
    "published": "2026-10-06T04:10:07.000Z",
    "summary": "",
    "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e1afba675475",
+   "kind": "headline",
+   "title": "עליות בפתיחת המסחר באירופה; הנפט נסחר מתחת ל-100 דולר",
+   "source": "גלובס",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pVHExRTZaNjkyNHQ4MXBFeUJHOEVvS1VSX1V5TWxCdmc5VGJhMGxyZFRhRkhXRkU0bDBPMW1Ya1cwRmR5anppSHQ3UXNGOTh5aDNhNHBZb3NOY2VpMXhlSVBES1BqUGFV?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T04:08:49.000Z",
+   "summary": "בורסות אסיה נסחרו במגמה מעורבת, אחרי שהנאסד\"ק טיפס אמש לשיא חדש • מניות ענקיות הטכנולוגיה הובילו את הראלי, שהתרחש על אף שתשואות האג\"ח המשיכו לטפס • וגם: SpaceX של אילון מאסק זינקה לאחר המלצה של מורגן סטנלי, והחזירה לו את סטטוס הטריליונר",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658986897/direct/shutterstock_2174905293_bx0u1d.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1018,7 +1032,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "ena.et"
+   ],
    "important": false
   },
   {
@@ -1367,7 +1383,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "pib.gov.in"
+   ],
    "important": false
   },
   {
@@ -1558,6 +1576,20 @@
    "published": "2026-10-05T15:57:00.000Z",
    "summary": "בית המשפט קבע כי הדס שטייף וגלי צה\"ל ישלמו לעו\"ד אפי נוה בגין הפגיעה בפרטיותו 450 אלף שקל והוצאות \"ביחד ולחוד\". אבל כמה מתוך זה תשלם גלי צה\"ל, וכמה תשלם שטייף באופן אישי? • אירועים ומינויים",
    "image": "https://res.cloudinary.com/globes/image/upload/c_auto,h_392,w_800/l_COT_Pic:minuim_d9ex5z/c_scale,fl_relative,w_0.25/fl_layer_apply,fl_no_overflow,g_center,x_278,y_-93/v1791211679/%D7%90%D7%A4%D7%99_%D7%95%D7%94%D7%93%D7%A1-800_fd74p1.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e5e79b69be04",
+   "kind": "headline",
+   "title": "Kurti-Hamza Meeting Concludes, PDK Convenes Parliamentary Group",
+   "source": "Nacionale News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnBYQWxmQnRpWE9BZVhsaUVpZ1FCVmRvcDY5emdoWVMxNjdRcHFRUXRLNVlIQVNQbm9vNHhGeXJ6cE1mSFh6S3pRbmNtR2I4OXVkSkdMcFM0NGtIZ0RXX3czc3VEdDJtYWpuN2E1RVAyMXBQc0FzT2lKbTMxTmRiakNsZGxZLTBDbDhNN2d0X0hEV0hiRHZzeHN0UF80ejliNWc?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T15:53:05.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1931,6 +1963,20 @@
    "alsoIn": [
     "inn.co.il"
    ],
+   "important": false
+  },
+  {
+   "id": "cad41ca97dcd",
+   "kind": "headline",
+   "title": "COMMENTARY: EU risks becoming sick man of the world if it doesn’t reform quickly",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYS1VMGxXLVE0OWcxc2tGZWFhUXUyd2JIbjNsV3RFektCYXc3VmloX1FuS3dqOXNzbnNybjhwN1JtYm1vYWdfRWF1V2dMcHZ1NkxsWlpkVEFJV2pWNHZNaGRZZk14eGpIbk5wMWJ4eTNMd2xKS0hSNXp1SXlZRjl3MjFheWc2LTNaSFBBWnctZ09xaEF2U1BwbC1qa0NCQ2ZlM1RBT3M2RGw0elVybXpoV3pmakcyTlRXUWhjSmtXUE5jT3ZkNTh6aWNnQmFDNTB2cXVUWTVBV2lNUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T14:13:32.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -3281,7 +3327,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "israelhayom.com"
+   ],
    "important": false
   },
   {
@@ -5849,50 +5897,6 @@
    "alsoIn": [
     "economictimes.com"
    ],
-   "important": false
-  },
-  {
-   "id": "d3267b1f5a05",
-   "kind": "headline",
-   "title": "Parliament passes financial reform bills",
-   "source": "FBC News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83UHFrYjdHaFJYS3VKbGpuSUpzdldZeXRaZFctdm9GWlRaRi0xY0lyeDNwbE1HU1RQSDRhT0dNdWZxemtrRHBrOWdIYVM2UFJKSmptZ0c3d3ltZ1JRajlvSVNZdVBWQU1TbUloT1oxWWFpS2tRcmItZDFBX2d1QQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T11:55:18.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "fbcnews.com.fj"
-   ],
-   "important": false
-  },
-  {
-   "id": "f518773c1aa0",
-   "kind": "headline",
-   "title": "Cultural Roundup • At Frankfurt Book Fair, Israel takes on a growing cultural boycott",
-   "source": "haaretz.com",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUkJzUFZmeG5NUjVDMG1RUndKWEpLRGVyam1tSGsySnVNUFFhRENVeXc1Z28tYUNmeDFjaDBhZFZRRkVHeGFCRHdTeFNBNmhaWWcwdFBnSURHSHl1RnlSbC05aUVIWFRQcEF1eFdENFFoT2VPdWpEUGZKekt3eG14XzN5dnpYZFFwM3hHOHBMTzl5b0l1Y0tUTVllMERscWhiR2VPYnQtSnRKOFdrRVhOYzVMS2xnQ2JjMGNxT3dtM3RDWU0zUTVUQ3FROHlua0tmVTFmM1RQRUFoNmFBNUkzbHNfNEZHY1F2ZWFLdUlYdU5sRV9xTHU1MC1YZDVYNHVpbjZiUTJJOHFpTG8?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T11:47:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "18b5fe258bc8",
-   "kind": "headline",
-   "title": "עכו העתיקה מתעוררת לחיים",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/byzr93jszx",
-   "topic": "econ",
-   "published": "2026-10-04T11:43:39.000Z",
-   "summary": "יום שלם של חוויות לכל המשפחה הכולל הרפתקאות, היסטוריה ומופע לילי מרהיב",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/Hyq8YhJoGx/Hyq8YhJoGx_0_0_3000_1688_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
