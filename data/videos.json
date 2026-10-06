@@ -2258,12 +2258,23 @@
    "found": "2026-10-06T07:32:47Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693428161870073109.txt"
+  },
+  {
+   "id": "7693457604252585237",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693457604252585237",
+   "caption": "לבקשת המשפחות השכולות: אושר שינוי בכיתוב על המצבות הצבאיות 🕯️ ועדת הח...",
+   "posted": "1791272693",
+   "found": "2026-10-06T07:46:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693457604252585237.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T07:32:58Z",
+  "at": "2026-10-06T07:47:14Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
