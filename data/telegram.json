@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65563,
+   "lastId": 65564,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:30.154Z"
+   "checkedAt": "2026-10-06T14:42:07.659Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:30.859Z"
+   "checkedAt": "2026-10-06T14:42:08.345Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:31.529Z"
+   "checkedAt": "2026-10-06T14:42:08.960Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:32.245Z"
+   "checkedAt": "2026-10-06T14:42:09.591Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19283,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:32.931Z"
+   "checkedAt": "2026-10-06T14:42:10.214Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:33.647Z"
+   "checkedAt": "2026-10-06T14:42:10.867Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
-   "lastId": 54898,
+   "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:34.331Z"
+   "checkedAt": "2026-10-06T14:42:11.491Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131464,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:35.082Z"
+   "checkedAt": "2026-10-06T14:42:12.181Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74690,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:35.687Z"
+   "checkedAt": "2026-10-06T14:42:12.727Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:36.404Z"
+   "checkedAt": "2026-10-06T14:42:13.427Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T14:30:37.141Z"
+   "checkedAt": "2026-10-06T14:42:14.092Z"
   }
  },
  "posts": [
@@ -789,13 +789,32 @@
    "date": "2026-10-06T14:24:48+00:00",
    "text": "🔴 צה\"ל: \"נעשו 15 ניסיונות יזומים למעצרי עריקים בספטמבר - 8 הצליחו\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65564",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65564",
+   "date": "2026-10-06T14:34:11+00:00",
+   "text": "היוזמות להבאת ישראלים מחו\"ל לבחירות התחייבו שלא לסבסד את מחירי הטיסות, שלא לארגן טיסות נוספות ולהימנע מסיוע לבוחרים ב-27.10 עצמו. בתמורה, נמחקה עתירת הליכוד",
+   "status": "new"
+  },
+  {
+   "id": "knessettv/54899",
+   "channel": "knessettv",
+   "name": "ערוץ כנסת 99",
+   "url": "https://t.me/knessettv/54899",
+   "date": "2026-10-06T14:33:37+00:00",
+   "text": "\"כבר שלוש שנים אנחנו במציאות חצויה, שענר שם ואנחנו כאן. בואו נהיה במציאות של שלם, שכל החברה הישראלית לוקחת אחריות\" - שירה שפירא, מועמדת 'ישר' לכנסת ואמו של ענר ז\"ל שנפל ב-7/10, סיפרה על השיר החדש מתוך אלבום השירים השלישי של בנה ושיתפה בתחושות החסר של קרוביו: \"הזמן לא מרפא, הוא רק מעמיק את הכאב והגעגוע\"\n📺 מתוך #החדשות עם יניר קוזין | ערוץ כנסת 99",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T14:30:37.540Z",
+  "at": "2026-10-06T14:42:14.493Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 15
+  "added": 2,
+  "pendingNew": 17
  }
 }

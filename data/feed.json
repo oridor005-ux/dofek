@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-06T14:41:45.706Z",
+ "updated": "2026-10-06T14:53:19.070Z",
  "items": [
+  {
+   "id": "7a08975e441d",
+   "kind": "headline",
+   "title": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372?mod=rss_socialeconomyfeed",
+   "topic": "world",
+   "published": "2026-10-06T14:49:00.000Z",
+   "summary": "Reading marked a sixth consecutive merchandise-trade surplus and the biggest since May 2022, and came in well above the roughly C$1.5 billion economists anticipated.",
+   "image": "https://images.wsj.net/im-18323582",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c9e68a45e947",
+   "kind": "headline",
+   "title": "Republicans are spending to aid Darline Graham as the South Carolina Senate race tightens.",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/live/2026/10/06/us/midterms-elections/darline-graham-south-carolina-senate",
+   "topic": "world",
+   "published": "2026-10-06T14:46:17.000Z",
+   "summary": "",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06midterms-gop-south-carolina-topart-wvjm/06midterms-gop-south-carolina-topart-wvjm-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "dbc999b364dc",
+   "kind": "headline",
+   "title": "בנק דיסקונט ממזג את בנק מרכנתיל לתוכו",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558611#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-06T14:33:00.000Z",
+   "summary": "דירקטוריוני בנק דיסקונט ובנק מרכנתיל אישרו את מיזוג הבת לתוך האם במסגרת מהלך אסטרטגי לצמצום חפיפות, פישוט מבנה הקבוצה ושיפור היעילות התפעולית • מרכנתיל ימשיך לפעול כמותג עצמאי ותחומי התמחותו המרכזיים, בהם הפעילות בחברה הערבית, החרדית, בקרב עסקים קטנים וברשויות המקומיות &ndash; ישמרו במלואם • המהלך…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c52626a37c26",
    "kind": "headline",
@@ -5821,50 +5863,6 @@
    "score": 0,
    "alsoIn": [
     "i24NEWS"
-   ],
-   "important": false
-  },
-  {
-   "id": "0fa4dabcb407",
-   "kind": "headline",
-   "title": "מי משקיע מיליונים במסעדות, בזמן שהענף בקושי שורד",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/yokra14905877",
-   "topic": "econ",
-   "published": "2026-10-05T03:50:04.000Z",
-   "summary": "הוא שם הרבה כסף במקומות חדשים בזמן שאחרים סגרו, מחזיק בכמה מהמסעדות הנחשקות והמצליחות בתל–אביב, ועכשיו לקח לידיו גם את מאנטה ריי המיתולוגית בחוף הים • איציק חנגל, אחד המסעדנים המובילים בישראל, מספר למה דווקא היום הוא ממשיך לקחת סיכונים, למה המחירים של המנות בארץ כל כך יקרים ואיך שורדים שנים בענף…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ryl0Caq5Ge/ryl0Caq5Ge_0_0_1920_1080_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5f8f842a6837",
-   "kind": "headline",
-   "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-05T03:37:41.000Z",
-   "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d864e765b66a",
-   "kind": "headline",
-   "title": "High Court urged to acknowledge Bill of Rights breach in recent electoral changes",
-   "source": "RNZ",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzhxUE1MY3BfWGc0X0cwQVAtOWIyNy0xQVRMZlJOdXVMam1IX18wSGEtV2t3SnlzN2JLQVNsYXN4bmN6UTJZYlg2d1dtdURtOXFpRGJEZ2Nfajc3UlM3dEFrUjJrTEN5YUFmSDh0UnVoT0d2NU5CRWNXQTZOcEd4RU5yMFRtbXlBUExMMmthckFlZGxNd1U4UldQRElPb0VQZEhYbE80YXNST3FCU0NENGpsVkFfSEdvM3BOZDdEY0pvZGM?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T03:37:32.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "rnz.co.nz"
    ],
    "important": false
   }
