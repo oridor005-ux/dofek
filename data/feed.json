@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T20:14:22.836Z",
+ "updated": "2026-10-06T20:26:53.122Z",
  "items": [
+  {
+   "id": "7d4bf2e56998",
+   "kind": "headline",
+   "title": "Understanding France’s Polycrisis",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html",
+   "topic": "world",
+   "published": "2026-10-06T20:22:47.000Z",
+   "summary": "An autumn of discontent has gripped the country ahead of its presidential election.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-theworld-france-protests-promo/07int-theworld-france-protests-promo-mediumSquareAt3X-v2.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c26b892606c6",
    "kind": "headline",
@@ -12,6 +26,22 @@
    "summary": "In an interview, French Finance Minister Roland Lescure said he is open to negotiation but will do “whatever it takes” to get the budget through.",
    "image": "https://images.wsj.net/im-83149718",
    "score": 1,
+   "alsoIn": [
+    "WSJ"
+   ],
+   "important": false
+  },
+  {
+   "id": "c7eae17c57aa",
+   "kind": "headline",
+   "title": "Kulbergs Begins Coalition Talks After United List Dominates Latvian Election",
+   "source": "EU Today",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsd0t3SEcxM25QVzNaMVM1N3dDeHotZzNYdnhMcy1vRE9JM1FnUURXRnY2SmZVWjRrcmEzN2E5Z0g5dFJrOXNkUEI2OHMtMVJIczB3ajVIckEwbzBrT3M2NWFvRDZXU1pISnZicXJHUV91N1NrbFU5WDdB?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T20:07:33.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -180,6 +210,34 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "642441deaaa0",
+   "kind": "headline",
+   "title": "Iran Bans Its Citizens From Having Contact With 'Hostile' Press",
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYk1uZThOZTJocWlIc09Ra0tRZHVacUFXTHdoZHF0ZmY2UTJWejBkWHpKN3AzZVBIMmRRLWlmX1BHT0hCZ2ZvWTZncU9meGFuaVRVNDBUcXBkYzdPdzEzNzBxaFA1WEFLM1NUUVlJc3czbDhpU2g3dUFtU3BDVGRrM1lEeVB1LVQtVHh2VDVGNUR1QWctTWY5YUdMVEVWdTMwNEhXWkluMkNrUGtqY0t0cjE1SHlWVFhZRkxNbGJVdFlld0MycGRTc1JkQ1FzX3lTUjBleDh5c0FiVTlqeGtHMnRzTU5pZzFEQTdWYTUyRGQ2Z1FMak5wU3d3?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T18:18:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "90ad7de5e5a2",
+   "kind": "headline",
+   "title": "Counter-Narcotics Bill passed, Bureau to lead Fiji’s fight against drugs",
+   "source": "Fijivillage",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFBiMXZwa2t1Y0pVZHRBbXNoOXVrMXZKTWV1X181Z2dJbFRDZWFYWU1rSF9Dd29EcmdFQkx5OTBpalpZU0FkZ3prU09EbnBGdGEtY2hpLV9kMGxvdU0wb2hXa1B1Sk1RV0I1aTdzbG9FY0c4MkkyNEt0d2x1eUZ0eWpLLTc2cDJoSVhtNlp5R3FiZ2tjV1NkRUhnX09aRW1CdzZmZTFOaXc5cVAtYWN4MVRR?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T18:10:52.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -664,6 +722,20 @@
    "important": false
   },
   {
+   "id": "19bae5702b5b",
+   "kind": "headline",
+   "title": "קרקעות מדינה ברפריפריה יהפכו למכרי זהב: עשרות מיליוני שקלים בשנה",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03VGhNOFNqR1A5Vm9BNU9rMEV3MXY4Y2tXZHd1Z0N5X1oxNzhYa2s4aFNxbm5IcHdWQy03ZnUyQUlsNlVuYjFDMW5uRnRFTXRrV3JpRmhUQkZBNVNxSTZrNHFBVS1LUHlWMmVV?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T14:35:42.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "dbc999b364dc",
    "kind": "headline",
    "title": "בנק דיסקונט ממזג את בנק מרכנתיל לתוכו",
@@ -1074,6 +1146,20 @@
    "summary": "The eviction of the woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-spain-assess-1-hmqc/06int-spain-assess-1-hmqc-mediumSquareAt3X.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "623dc8a5208c",
+   "kind": "headline",
+   "title": "משפט המו\"לים: ביום העדות השני שלו העניק איתן כבל הצצה למערכת היחסים שלו עם הנאשם נוני מוזס",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WMmpCb3o5anN6c3R1R0FHMHp5MXdZN3doRUZTNHJmSjg0QnZyTlNKaW1GTjBYbjV2bVB6TU5uNmdLbG5jRWRqWQ?oc=5",
+   "topic": "media",
+   "published": "2026-10-06T12:04:28.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -3444,6 +3530,20 @@
    "important": false
   },
   {
+   "id": "2b3d529811bb",
+   "kind": "headline",
+   "title": "מקצוע ההורים קשור להישגי התלמידים יותר מרמת השכלתם, לפי מחקר ישראלי",
+   "source": "Hayadan",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHpfaUktbVB3Z3JmS1BqR014NU5HTUNYVHZyRHdiUjZNSTA1bENrQm9DekNXdGg3a3J5cWRLdTNxb2Y0YW5pOXgwZkVlb2MyWGtaU1FxY0RmQlpQZFk0X2RoRVEzbGRkaUVuVXNTZVhpM0tUVDZIeWxUdkNydVE5cHRR?oc=5",
+   "topic": "research",
+   "published": "2026-10-05T20:56:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "786dc5e0ef98",
    "kind": "headline",
    "title": "The Blogs: Three lies about U.S. support for Israel",
@@ -5724,108 +5824,6 @@
    "summary": "Democrats are increasingly confident they will have a record number of women serving in the House next year, after backing women in competitive districts they are now positioned to win.",
    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00dc-Cong-Women-gvjl/00dc-Cong-Women-gvjl-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "84fe669dfa37",
-   "kind": "headline",
-   "title": "המצור האיראני נשבר: לראשונה יוצא מהורמוז יותר נפט מאשר לפני המלחמה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558420#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T09:03:00.000Z",
-   "summary": "למרות האיומים והפגיעות במכליות, יצוא הנפט דרך מצר הורמוז זינק מעל לרמות שלפני המלחמה: תעריפי ההובלה האמירו למיליוני דולרים, חברות ספנות מוכנות לקחת את הסיכון, אך מחירי הנפט ממשיכים לשאת פרמיית מלחמה גבוהה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1776598073/direct/AP26108447289863_p0dgdu.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "45d0b1c1bdc3",
-   "kind": "headline",
-   "title": "How the Midterms Could Complicate the Supreme Court’s New Term",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/how-the-midterms-could-complicate-the-supreme-courts-new-term.html",
-   "topic": "world",
-   "published": "2026-10-05T09:02:51.000Z",
-   "summary": "Even before the justices start their new term on Monday, the court has spent the summer resolving fast-moving requests on election-related disputes.",
-   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05dc-scotus-preview-bmvp/05dc-scotus-preview-bmvp-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e5fa9f64b900",
-   "kind": "headline",
-   "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T09:00:09.000Z",
-   "summary": "Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for vote The head of the Jewish Greens has said she may leave the party after it voted to adopt a policy that equates Zionism with racism and calls for Israel to be replaced by a single Palestinian…",
-   "image": "https://i.guim.co.uk/img/media/170cb1b6c1d65f4cd083a634d88e38fbe85ac394/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1623dbc953a89d92d5cf17af9cf4ee4a",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "678ce87bf68a",
-   "kind": "headline",
-   "title": "Latvia restricts public media from broadcasting in Russian except during emergencies",
-   "source": "The New Voice of Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWjZ1QjM0NkRKQUUyWHRoX2RVdTV5cGlEUVNQcHdtLXZlX1pJVzNRZFM2RmtreTRlY3dQaXlORERfS0RlbVhUdFRSQ0NZd3U5UmJKOHdkQzJqSEF1aHE0NnVlb0hCOGtkQndHU2xEd29xTVV6czZoa0lUd1hZRFM1alRpbDdJVWlLRS0zME9pVHkyaVRNUGZ6T29RNHRSVWgwdTlQVkw2Vm01bEFYX1hJ0gGvAUFVX3lxTE1aNnVCMzQ2REpBRTJYdGhfZFV1NXlwaURRU1Bwd20tdmVfWklXM1FkUzZGa2t5NGVjd1BpeU5ERF9LRGVtWFR0VFJDQ1l3dTlSYko4d2RDMmpIQXVocTQ2dWVvSEI4a2RCd0dTbER3b3FNVXpzNmhrSVR3WFlEUzVqVGlsN0lVaUtFLTMwT2lUeTJpVE1QZnpPb1E0dFJVaDB1OVBWTDZWbTVsQVhfWEk?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T09:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "english.nv.ua"
-   ],
-   "important": false
-  },
-  {
-   "id": "9b864d147598",
-   "kind": "headline",
-   "title": "Court blocks removal of Judge Anthony Obwayo from officeAnthony",
-   "source": "People Daily",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWlSeDlFS2h1anBCS1JxY0NZQTR3bE9hWXlnMlo0em1LOXBKMjVtT2hwc29QOHFEZzRvY21xRWtuU3M2dzV2OGRpRDdwbTNvTmlsYTlCSENWOEdiUi1MSXJJM003aEVsU3FGNlc2MFlFYnZxeHZKbWcxMjlQcWtnb0x1NGMwd3RZZGJoWjZCdDFGVkk?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T08:55:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3fc716c501dc",
-   "kind": "headline",
-   "title": "כנס ההשקה של גיליון הבחירות של כתב העת \"מסגרות מדיה\"",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ySFRVX25qa2pIZGlYWnNDUjlPWWE5ZENGa3preVB1ckFjaFczOVJXMGVSY1FfZWIzZU5FUjRBY0Zzb3d5Rkp2Xw?oc=5",
-   "topic": "media",
-   "published": "2026-10-05T08:54:35.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "81529f256526",
-   "kind": "headline",
-   "title": "בכ-4 מיליארד שקל, ובלי אגד: מכרז חדש לאוטובוסים במודיעין יוצא לדרך",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558419#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T08:54:00.000Z",
-   "summary": "המכרז להפעלת קווי האוטובוס באשכול החשמונאים, הכולל בין היתר את מודיעין ומודיעין עילית, יוביל להרחבת השירות בכ-10% ולהגדלת הצי לכ-207 אוטובוסים חדשים • אגד לא תוכל להתמודד בשל מגבלות רשות התחרות, שהכריזה עליה כמונופול • המפעיל החדש צפוי להיכנס לפעילות בהדרגה בתוך 12 עד 18 חודשים",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1652534895/direct/shutterstock_1774325645_tztf8l.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
