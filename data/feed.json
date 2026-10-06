@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T20:02:48.417Z",
+ "updated": "2026-10-06T20:14:22.836Z",
  "items": [
+  {
+   "id": "c26b892606c6",
+   "kind": "headline",
+   "title": "French Government Is Willing to Bypass Parliament to Pass Billions in Cuts",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/europe/french-government-is-willing-to-bypass-parliament-to-pass-billions-in-cuts-699d99c5?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-06T20:10:00.000Z",
+   "summary": "In an interview, French Finance Minister Roland Lescure said he is open to negotiation but will do “whatever it takes” to get the budget through.",
+   "image": "https://images.wsj.net/im-83149718",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "93352a513d4a",
+   "kind": "headline",
+   "title": "Bolsonaro Family Emerges Triumphant in Brazil’s Elections, Mounting a Surprising Resurrection",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html",
+   "topic": "world",
+   "published": "2026-10-06T20:06:02.000Z",
+   "summary": "The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-brazil-bolsonaro-family-lhwj/06int-brazil-bolsonaro-family-lhwj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "acf878b4a60c",
    "kind": "headline",
@@ -5798,36 +5826,6 @@
    "summary": "המכרז להפעלת קווי האוטובוס באשכול החשמונאים, הכולל בין היתר את מודיעין ומודיעין עילית, יוביל להרחבת השירות בכ-10% ולהגדלת הצי לכ-207 אוטובוסים חדשים • אגד לא תוכל להתמודד בשל מגבלות רשות התחרות, שהכריזה עליה כמונופול • המפעיל החדש צפוי להיכנס לפעילות בהדרגה בתוך 12 עד 18 חודשים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1652534895/direct/shutterstock_1774325645_tztf8l.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "81657a0b2b78",
-   "kind": "headline",
-   "title": "Nationalist parties lead in Bosnia's parl election - prelim results",
-   "source": "SeeNews",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0lGbWNLUk1iZjk5bzRkQmhiX24ydEo2R2RkQy12NDFRTUlwR2hRQVZXdGpOMmFwek03RHp2czBobWU5alN3S3l6U3YxZXk4VEZCbTg0cGxybzNYN3lrdjFrdmtUUmQyT2swd0Q5SWtRT0hMcXNZZkdBcjlZM3NWbTlROU5JMTZua1RzVGxEN1U2dF8ycF9SczhHR3lCUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T08:31:22.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "seenews.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "3c24b313bbc7",
-   "kind": "headline",
-   "title": "Votohet me 90 vota shmangia procedurale për ligjin për Gjykatën Specialen, LDK nuk voton",
-   "source": "Reporteri.net",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFYzRC1xSG45cGczRUNvbGtRU045bDNCMmRxekR4RFNNWi1ES2VpcUMzOGpmeFNNVUZLbHY2V3FVX0RSLXF5VWVacTZTZUVxOEViRk9IT3cxUElTMUlrS0J1UEZ5TWUzVWdyUjZaMmZ2X2cxcVRsdFFaeEFLSzNTbUpsT1pQRlU5UHhubDctN0RiNk50bld2aU1yY09kOUVVNDFKSGFVWUhMSmJCNUVMb2V5bnc4TVVHNkREbFBLQkdGVS1ma1JTZllmc2F2dURxb3BfZg?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T08:28:48.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
