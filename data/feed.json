@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T20:50:03.710Z",
+ "updated": "2026-10-06T21:02:30.415Z",
  "items": [
+  {
+   "id": "812183369124",
+   "kind": "headline",
+   "title": "Israeli settlers beat press photographer as soldiers watch in West Bank",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T21:00:28.000Z",
+   "summary": "Jaafar Ashtiyeh was covering violence against olive farmers when settlers set upon him with the butts of their guns Armed Israeli settlers beat a photographer in the presence of Israeli soldiers, hospitalising him, as he covered worsening settler violence against olive farmers in the occupied West…",
+   "image": "https://i.guim.co.uk/img/media/ceccc0211553bd77eff533b4b2317501d06b2419/114_0_6752_5400/master/6752.jpg?width=140&quality=85&auto=format&fit=max&s=0eb99ca72b60bbcab06a594f70676d3f",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "7d4bf2e56998",
    "kind": "headline",
@@ -84,6 +98,20 @@
    "summary": "ענקיות הטכנולוגיה והאנרגיה ממשיכות לדחוף את המדדים המובילים לשיאים חדשים, בזמן שמדד המניות הקטנות מפגר מאחור • אנבידיה צועדת לקראת שווי שוק של 6 טריליון דולר • מחירי הנפט מחקו את הירידות וחזרו לעלות • מייקל ברי מזהיר: \"השווקים בשלב ההכחשה לגבי טרנד ה-AI\" • אופטימיות בסיטי לגבי מניית AMD • בברנברג…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7bd4d92ede9b",
+   "kind": "headline",
+   "title": "דירוג תוכניות הטלוויזיה ליום שלישי, 29.09.2026",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LS2EteXNlVzlCU0RmOGVCNnNBUDBrNDdweklNbFIyUzNSWnBBQnVIWjM1ZWEwb1V5Q0NBNFFPN2tPUXFFeUVLQWdLRDEycjkzRXc?oc=5",
+   "topic": "media",
+   "published": "2026-10-06T19:40:49.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -5797,34 +5825,6 @@
    "alsoIn": [
     "bbc.com"
    ],
-   "important": false
-  },
-  {
-   "id": "629d147a3cb0",
-   "kind": "headline",
-   "title": "Supreme Court to Hear Major Environmental Lawsuit",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
-   "topic": "world",
-   "published": "2026-10-05T09:03:24.000Z",
-   "summary": "The justices will begin their new term with a landmark case about whether local governments can sue oil companies over damages caused by climate change.",
-   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05dc-scotus-suncor-topart-02-vfmw/05dc-scotus-suncor-topart-02-vfmw-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8178332500b4",
-   "kind": "headline",
-   "title": "Democrats Expect Record Number of Women in Party in House After Midterm Elections",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/democrats-congress-women-house.html",
-   "topic": "world",
-   "published": "2026-10-05T09:03:07.000Z",
-   "summary": "Democrats are increasingly confident they will have a record number of women serving in the House next year, after backing women in competitive districts they are now positioned to win.",
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00dc-Cong-Women-gvjl/00dc-Cong-Women-gvjl-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
