@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T09:37:33.036Z",
+ "updated": "2026-10-06T09:43:09.325Z",
  "items": [
+  {
+   "id": "4500bcf7fcd2",
+   "kind": "headline",
+   "title": "לקוחות אסוס: קיבלנו הודעה שהאתר נפרץ",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/ryduxbfjfg",
+   "topic": "econ",
+   "published": "2026-10-06T09:37:42.000Z",
+   "summary": "משתמשים מדווחים על הודעת פוש שנשלחה מאפליקציית אתר האופנה אסוס, לכאורה ממתקפים שפרצו לפלטפורמת הענן של החברה ומאיימים להדליף מידע משם",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/HJ67R4fozx/HJ67R4fozx_43_34_643_362_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3ece4233fbaf",
+   "kind": "headline",
+   "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-henning-arrested-espionage.html",
+   "topic": "world",
+   "published": "2026-10-06T09:35:39.000Z",
+   "summary": "August Henning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06germany-spy-jgmw/06germany-spy-jgmw-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "09f5958293a1",
    "kind": "headline",
@@ -5849,38 +5877,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791120776/WhatsApp_Image_2026-10-04_at_15.58.03_lce7g6.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8755952be190",
-   "kind": "headline",
-   "title": "הבורסה הניחה שלקואליציה אין סיכוי בבחירות. כעת היא מאבדת ביטחון",
-   "source": "TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUllmN0tRR1pYdW00SHFjZmpMckJ1UXdFaUVNSkp5Y01sWnF0WjFiaWdNbHFMSnVObDZDS3JQNjJBMVlZRzJnSHFvZEI2bUVtU3FCeEhYQW9VRkdlX3BtLVB6TjNnYUxlcVVjc2FIekVRdkZQMWp4cUxNdjhzTXJQcWdXWm9MX0EyS0lVQ1ktc09Gc2xOMEk0MTF3ME13aVVMSWdJTkhB?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-04T15:31:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "themarker.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "e099b26673cb",
-   "kind": "headline",
-   "title": "Nizar Baraka’s Message to Morocco’s Next Government: Credibility Must Follow the Ballot Box",
-   "source": "Atalayar",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVUdmX0NvckoyQklmSThWcE1FaTlMbFRXSFlIdTVpUmVrb2pYS2gwMzdwSmYyamloeWlYd0tGUXV2aEk2M0dwd000LVlOQUF3M3lkYzhuREVYanY4NTV2dUxBaFE5ejJ0WXBRRVZ0a1c0ZlhfbzlRejJVWmtpV2NoZ255Tk05a3U0QUJJNzRkVmE2UlBKVVVKRFFmRFhaLXF1N3lUVmRfYlBhY1ZpaFl0T0w1QjFmczJybzBrNXg4R2hpX3ZuVllWVl9IVmU3T3EtNGlqbWhlZElxYlVFemtGYjRiRnpBMlVfd1RLUU1WUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T15:22:12.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "atalayar.com"
-   ],
    "important": false
   }
  ]
