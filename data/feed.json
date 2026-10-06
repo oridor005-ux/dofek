@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T04:13:46.064Z",
+ "updated": "2026-10-06T04:26:02.164Z",
  "items": [
   {
    "id": "c807ceec6404",
@@ -58,6 +58,20 @@
    "important": false
   },
   {
+   "id": "0cc952ba37a2",
+   "kind": "headline",
+   "title": "מצב השווקים: מגמה מעורבת באסיה, ומה הפך את אילון מאסק שוב לטריליונר",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558504#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T04:04:00.000Z",
+   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: בורסות אסיה נסחרות במגמה מעורבת, אחרי שהנאסד\"ק טיפס אמש לשיא חדש • מניות ענקיות הטכנולוגיה הובילו את הראלי, שהתרחש על אף שתשואות האג\"ח המשיכו לטפס • וגם: SpaceX של אילון מאסק זינקה לאחר המלצה של מורגן סטנלי, והחזירה לו את סטטוס הטריליונר",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658985943/direct/shutterstock_1599366514_etqc85.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "b69bec7079f7",
    "kind": "headline",
    "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
@@ -82,6 +96,20 @@
    "summary": "דיווח בניו יורק טיימס: 12 מפציצים אמריקניים הוצאו מבסיס חיל האוויר הבריטי פיירפורד בשל חשש למתקפת רחפנים איראנית • הקואליציה בראשות סעודיה הנלחמת בחות'ים: ביצענו \"מבצע צבאי גדול\" במחוז חודידה בתימן • דיווחים שוטפים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "542f4ffab6af",
+   "kind": "headline",
+   "title": "עלייה בשכר הממוצע ביולי: 14,534 ש\"ח בחודש; הייטק בראש, מלונאות בתחתית",
+   "source": "אשדוד אונליין",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxObTlSZno1UGVCU0NGQTJMRXNjejUwTXlWaFZNRmxxbm1kemhlcy1oS3BoRXJOMkVyNHpXcWE3QzVhdzI0RnVyeVlhSmFrQTNkbUdGa0lPZzFtMi1jWjF0RUdsUXZfTGtYSTdVdWJfcWtEdzFZUnA1dHNNX0RkY25TZXZGV1VBN3ZXOGstNC1QOW81aFU5aEMtU3oxMm5VRlRXd3VmUVRkUWdpSmhHQ0tQUk5lUHZxNF9VcllMdXNXRHF3ckRaekZXRkJzMVpTOElVbWprUWE1QWdpR08tQVY4UUpfd0taSU85N0ZWN2dZNEx4eXdiQlNibkdvMzFSZ1hsWDRBa19TS010LUVrLUR0cW1hVlBmc2lQcklReDVxYmtTUFplTGQyaGw2Zi1aeHh1NS1KQjBxUkhhUWlUNElpamRjT25qa2NXMzJZ?oc=5",
+   "topic": "deals",
+   "published": "2026-10-06T03:35:44.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -166,7 +194,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "מעריב"
+   ],
    "important": false
   },
   {
@@ -335,7 +365,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Myall Coast News Of The Area"
+    "Myall Coast News Of The Area",
+    "Port Stephens News Of The Area"
    ],
    "important": false
   },
@@ -1120,6 +1151,20 @@
    "important": false
   },
   {
+   "id": "001b21c820ea",
+   "kind": "headline",
+   "title": "Everyone is Trading Blame for the Flydubai Failure",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iRi1yZHhucTRwTnNpWW8xdFJhdHdoam1ONzNYelpoZWwzSE0zUl9JbE1KUHBrNjN3VE5wbXhhdEdWTXlfYnZiSg?oc=5",
+   "topic": "media",
+   "published": "2026-10-05T14:50:11.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c8c093f8d66a",
    "kind": "headline",
    "title": "UK voting systems explained: FPTP, AMS, STV and more",
@@ -1768,6 +1813,20 @@
    "summary": "ביי אנד דרייב, שהתמחתה במשך 3 עשורים בשיווק רכבי יוקרה עבור יבואנים ועוד, נקלעה לחובות של 97 מיליון שקל • בבקשה לעיכוב הליכים חשפה הסוכנות את הסיבות למשבר, בעיקרן המלחמה והריבית, שגררו ירידה חדה בביקוש לכלי רכב מפוארים • האם זהו מקרה בודד או קדימון למגמה?",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791122614/WhatsApp-Image-2026-10-04-at-14.55.15_q8wo6d.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c7785271d7ac",
+   "kind": "headline",
+   "title": "Ethiopia forms new govt as Abiy Ahmed reappointed PM",
+   "source": "chinadailyhk",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92akdNYUw5X3A5aldGMWlWXzJWZzRRbFZkdDFnSHNMRE9uSzV6bUlobGpkT0RoYk9ub3cyQ1pNRWRsZlZqWVczckRPZ0xxeG5vM0dDbm1n?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T10:54:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5865,70 +5924,6 @@
    "summary": "קמרי קמעונאות תשלם כ־3.5 מיליון שקל, בעסקה המשקפת לרשת שווי של כ־7 מיליון שקל • השותפים מתכננים להרחיב את הרשת מ־12 לכ־20 סניפים עד סוף השנה ובהמשך לכ-40 סניפים ברחבי הארץ",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791100112/%D7%A7%D7%9E%D7%A8%D7%99_-_%D7%A8%D7%A9%D7%AA_%D7%96%D7%9C%D7%9E%D7%A0_%D7%A1_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%91%D7%90%D7%93%D7%99%D7%91%D7%95%D7%AA_%D7%A7%D7%9E%D7%A8%D7%99_%D7%A7%D7%9E%D7%A2%D7%95%D7%A0%D7%90%D7%95%D7%AA_4_liou9r.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d4570fc7d745",
-   "kind": "headline",
-   "title": "Preliminary results: United List leads in Latvian parliamentary election",
-   "source": "chinadailyasia.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoUkZOZE0zU0NrY2xFQ3VsWkVnc0tIRkhYcVA1YmFuYWNGQW9NMWYxbTVYUWRENEtiV0JZUW5xQmFjU0V4SzhmSGR1UmNETDBBUXJGRHhId3A?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T07:52:36.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "China Daily Global Edition",
-    "global.chinadaily.com.cn"
-   ],
-   "important": false
-  },
-  {
-   "id": "36ec81fcb7a7",
-   "kind": "headline",
-   "title": "תל אביב צנחה, אשקלון המריאה: הנתונים המפתיעים על החשמליות בישראל",
-   "source": "Calcalist",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wdGowY29WLVVhbEs2VjZXUFljSEF4SWlCNm1aNHUxU2c4bWNmYS1oejFKMTRPTmJCYzJ6TzB0NEtWWHNyaXllaDNUYkRFTFpWREJGODFOeWR1SzdsR3IzaXRfSXVwYlZRWFFWWG5B?oc=5",
-   "topic": "econ",
-   "published": "2026-10-04T07:52:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "calcalist",
-    "calcalist.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "fe15ac90a934",
-   "kind": "headline",
-   "title": "מוספי הנשים והילדים של העיתונות החרדית | שמירת העיניים, עיון ביקורתי בעיתונות החרדית",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2Q25fcWduNklpd0JGZ1RrZGk0TnJVQlI1aWZQVTRGLUFfZzlDU1dsLUtLTDE3WE1JQjhwV3FrdUJkZXQzaG15Ug?oc=5",
-   "topic": "media",
-   "published": "2026-10-04T07:48:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "038fef1e1527",
-   "kind": "headline",
-   "title": "Conservatives claim ‘major victory’ as Tory conference begins after Labour scraps plans to curb jury trials – UK politics live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T07:42:19.000Z",
-   "summary": "Shadow justice secretary says despite U-turn Labour are still ‘restricting juries by the back door’, as Conservative conference begins in Birmingham Carla Denye r, the former Green party co-leader, has urged activists to reject the ‘Zionism is racism’ motion due to be debated by the party this…",
-   "image": "https://i.guim.co.uk/img/media/9ef909adce513128d42254144ef8e24705ab0b5f/462_0_4191_3353/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=b98ffad5166905f115df64a885b1e3bf",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
