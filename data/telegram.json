@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65567,
+   "lastId": 65568,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:12.874Z"
+   "checkedAt": "2026-10-06T16:41:40.719Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:13.580Z"
+   "checkedAt": "2026-10-06T16:41:41.436Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:14.244Z"
+   "checkedAt": "2026-10-06T16:41:42.192Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:14.929Z"
+   "checkedAt": "2026-10-06T16:41:42.897Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19289,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:15.602Z"
+   "checkedAt": "2026-10-06T16:41:43.592Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:16.279Z"
+   "checkedAt": "2026-10-06T16:41:44.350Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:16.952Z"
+   "checkedAt": "2026-10-06T16:41:45.047Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131470,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:17.670Z"
+   "checkedAt": "2026-10-06T16:41:45.782Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74696,
+   "lastId": 74697,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:18.265Z"
+   "checkedAt": "2026-10-06T16:41:46.391Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:18.969Z"
+   "checkedAt": "2026-10-06T16:41:47.131Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T16:29:19.721Z"
+   "checkedAt": "2026-10-06T16:41:47.892Z"
   }
  },
  "posts": [
@@ -973,13 +973,32 @@
    "date": "2026-10-06T16:25:26+00:00",
    "text": "מזכ\"ל חזבאללה נעים קאסם, בנאום הערב : \nהמלחמה מתנהלת בסבבים. \nהסבב האחרון יהיה של בעלי הארץ והזכות, ושל אלה שהלכו בדרכם של לוחמי הג'האד והשהידים.\nכדי להגיב לכתבה לחצו כאן",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65568",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65568",
+   "date": "2026-10-06T16:41:01+00:00",
+   "text": "נתניהו ואיזנקוט מפעילים על וינטר וזליכה את התכנית ללכידת עריקים",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74697",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74697",
+   "date": "2026-10-06T16:38:32+00:00",
+   "text": "🔴 סולברג קבע: סרטון שצילם נתניהו בבסיס חה\"א יוסר מחשבונותיו האישיים \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T16:29:20.122Z",
+  "at": "2026-10-06T16:41:48.293Z",
   "ok": 11,
   "fail": 0,
-  "added": 4,
-  "pendingNew": 35
+  "added": 2,
+  "pendingNew": 37
  }
 }

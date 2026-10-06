@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T16:40:27.246Z",
+ "updated": "2026-10-06T16:52:55.192Z",
  "items": [
+  {
+   "id": "1110731a81dc",
+   "kind": "headline",
+   "title": "India Voter-List Purge Draws Growing Backlash",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/india/india-voter-list-purge-draws-growing-backlash-e54ec306?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-06T16:44:00.000Z",
+   "summary": "About 130 million people have been deleted from final or preliminary voter rolls in a process that some government critics have described as opaque.",
+   "image": "https://images.wsj.net/im-48241123",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6864452713f1",
    "kind": "headline",
@@ -16,6 +30,20 @@
    "important": false
   },
   {
+   "id": "b37e850b6c0c",
+   "kind": "headline",
+   "title": "Americans View Of Israel Hits Record Low as ‘NAZA’ Film Hits Theaters",
+   "source": "Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlc5Z2pQbHhwcVM2SUYzQV94cDhxbEk0R1VzZzdmeTExdWpsU1N4bkVGbkFBbnlScEVvZ0U1QXp1V29zWXAxZ0Etc1RkR05OSE9DMnE2UjlYdjRURXF3QW1KZW8yTUVsNXJ4YWt5M2FOT2h2QUVVa1FGSUxHM2p6eHRzdGM1YXUtbEJSUWY5Wk52QkR3MWxGaldrVVB3MEhvMldB?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T16:22:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "3f8421ca784a",
    "kind": "headline",
    "title": "People of All Ages Join French Student Protests, as Movement Broadens",
@@ -25,6 +53,20 @@
    "published": "2026-10-06T16:14:07.000Z",
    "summary": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live-broadening-lfgm/06france-protests-live-broadening-lfgm-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "950d556eb8f0",
+   "kind": "headline",
+   "title": "הבורסה ננעלה בירידות, המניות הביטחוניות הובילו את המגמה, מחזור חריג במק\"מים ואיזו מניה צנחה ביותר מ 12%?",
+   "source": "PassportNews",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TUnVrVldFTXhJMzlHUU5Ca0hYMXZUVC0tVDM4NThxQUZFbWRlQkpZdU1JRW0xYnI4eWRodmR3N3FrMmxsVW5jakJ2cHFLcXE4U0Fv?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T16:05:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -53,6 +95,22 @@
    "published": "2026-10-06T16:03:07.000Z",
    "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [
+    "The New York Times"
+   ],
+   "important": false
+  },
+  {
+   "id": "6bd083802fc1",
+   "kind": "headline",
+   "title": "Law to toughen punishment for ‘statutory rape’ may be deferred due to prison capacity crisis",
+   "source": "Inside Time",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbERQN2NaaER0M0FGYjlwRUtlUVd3S0MxX2N6a05IS01lWXFHZVZVOV81SG00RzBRRjBhYy1LUkd1MUtZX1pRR3AyZVhrSHNfR0RwTG9tekFCOUdiNnFfeUVWZG5nYzA3eF9EY1pXRUhjTE11MnpWWGotNC1YdFphNFEyTFpNaEE0ek5zTElCREJQQnktVXRYSEVSN0xIWFRCZVNsSllkbGZUOVYySzVxbTd6WGpxSG9XR19ZYU85aV94QQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T16:00:15.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -138,6 +196,20 @@
    "summary": "ריצות, מוזיקה ומיצגי זיכרון הם רק חלק מיוזמות הנצחה ברחבי הארץ לנופלי 7 באוקטובר • קמפיין לגיוס תמיכה ליתומי המלחמה להענקת סיוע כלכלי, רגשי וחינוכי • וגם מיזמים המסייעים לנפגעי פוסט־טראומה ומספקים ללוחמים ציוד מתקדם • אירועם ומינויים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791291636/%D7%9E%D7%99%D7%A6%D7%92_%D7%A4%D7%9C%D7%99%D7%99%D7%98%D7%99%D7%A7%D7%94_7.10.26_roukyk.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2000f23896bf",
+   "kind": "headline",
+   "title": "Israel's Elbit Systems seeks Moroccan business at Marrakech Air Show",
+   "source": "IntelliNews",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlRWYW1yRzFPQWtJWV83eXB5RWVfbWJGQnUzbGl6bnZCRTdOVC1VYklMbHhuVURIV2lPQlExckNvMTRsdmc4V3l2QmJjRUVlcEV2dVhoekpRZ2JVRENWdlBZaXdrMzFteVZIbG5VbWNBS0trVkI0cTJDcGNoc1dIZkpnVXdKdGcxdjJKT0drbmNRaHRoVlJMSlFuem12WG1nd016dWNFNjVfeGFZS0tzZU9UWkRVUU5xTkE?oc=5",
+   "topic": "defense",
+   "published": "2026-10-06T15:08:11.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -310,6 +382,20 @@
    "important": true
   },
   {
+   "id": "19c067b1f262",
+   "kind": "headline",
+   "title": "AfD Fails to Secure First State Government After Saxony-Anhalt Win",
+   "source": "Global Banking & Finance Review",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWpBTi0yeVhVZEppbXhrREUzWHE5c0Y2RHZVOWJ5NERaZ1JjaVlXYVkzR2k1aG8tSWNHZ2tiU2p4QkdxdV9KeTF5OFUtS3l0blp2TTMzNEFVcjV2dWJOSkFRZXZuZzkzQk1wbm9CaHlNbGdCbVI2X0dyTWhlRzl4d2ZsQ0VrUFA4RG8wZUgyU2hGdjVYNk1MaXhIckxKX2x0X0pv?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T14:03:22.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "071ad9a38106",
    "kind": "headline",
    "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
@@ -448,7 +534,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "AFP.com"
+   ],
    "important": false
   },
   {
@@ -868,6 +956,20 @@
    "important": false
   },
   {
+   "id": "31ecc04addc1",
+   "kind": "headline",
+   "title": "The first session of the new state parliament in Saxony-Anhalt on Tuesday, October 6, saw Tobias Rausch of the far-right Alternative for Germany (AfD) elected as speaker of the house. Rausch, 35, is the first AfD speaker of a state parliament in Germany. And it",
+   "source": "Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUxMOXVfZ3JLMVV2aDd2SGlVZlpfTWJxVmVGaEZSb1NkWnhDbllKTDl2UHlCaGpNamc0R3pTOTZUUjZqUnNJUDExM29uWkNmSklVek9rc1huTVltTDZRWm51dF9ZM3ljMXpDYXk3ckFBQ0pVS0ZPQWcwZUtfWExETDlENG9xUzRFTWxVNjZCdjdCZGFua2FQQV9MTWlmd0c3TXFtZ3l2RmUyc3pMNFBHV2g0NWNPN3NqdHZqVHQ2RlhOOS1RMG9WczloT25QU0ZQR0piUDNQVTlpek03ZG1RTw?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T10:58:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "f1d71f655d18",
    "kind": "headline",
    "title": "עובדי החברה שנמכרה לאנבידיה במיליארדים: העסקה לא חוקית",
@@ -1064,6 +1166,20 @@
    "important": false
   },
   {
+   "id": "6f2f345c5499",
+   "kind": "headline",
+   "title": "Indonesia passes new labour law covering severance, layoffs, maternity and menstrual leave",
+   "source": "People Matters Global",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSDR1Zk45ZzFlM1pjOWFLUzdTZnBibXQtVHFRZ21mTURVRWl4YW1qdHJIc3RPczIxRlNiQndEdnUtWGc0MFhsRnVxNmY1cVlkek1lQmFyT0lacmlUMmVaWTEzT3V3YWVSVmZXMGJIV2x2TXc1ODAyTDc0TGZxakhBcVo5eXkwNVhPcl9uR0tPaXB4dGdJVzZXbk5CSWk4clNoZWpEcnpGQ1M3eGREZnktemVkdWZPVVBwR2hvQ1RfSkpiLTRQcUdBbmprVzJ0RmhvZDk1bXhTSnRVUk9XYnBqQUF6eVlYUlZiU2c?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T09:50:17.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "5d262f23c439",
    "kind": "headline",
    "title": "Lithuania says it would pay the cost if US establishes military base",
@@ -1164,7 +1280,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "https://streamlinefeed.co.ke/"
+   ],
    "important": false
   },
   {
@@ -1541,7 +1659,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "CTech"
+   ],
    "important": false
   },
   {
@@ -1792,6 +1912,20 @@
    "important": false
   },
   {
+   "id": "9eddacde0594",
+   "kind": "headline",
+   "title": "Most Israelis, Palestinians Do Not Want Two-State Solution",
+   "source": "Gallup News",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUZYQjRma0xDT3lmZGlNYmtadTNKRkJlTUZwcXdWRWc2cjNEc0Rsa3FXRG84TWRCeHpTMjNKNVgwbW5ONVBrQm1Dc1BMdDVHYmhmWDRJclhDT0cyMGg4bWltTDZnbXJ3eTh2ZUFUQTRYNE1tNFVyWmoyRjdTTEJPTG41c1NhSlhmUzRjajdB?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T06:28:51.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "0d7c25b3acc2",
    "kind": "headline",
    "title": "הממשלה אישרה תוכנית לצמצום הזיהום ועכשיו רוצה להקים תחנת כוח באשדוד",
@@ -1943,6 +2077,20 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWJ1c0hLd3VTTzNfZTREcVRtVUVhbWhtc1BHWUlWR2FPVGctTjBpOEdINk1GOTRmUWR3TzdBMy1Ea0xZRFRRR3Z1RU5Jb2FSNUtKMVpiLVV1a2VoeTZxOWxSUmF6SnNXTkZNZHZIcllaaTB1VjdmOXdYQncyODVURDNXOXRLUlFuZklyS1Vyb1p0RExVLUY4NlF3?oc=5",
    "topic": "world",
    "published": "2026-10-06T05:37:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3958fccb23f1",
+   "kind": "headline",
+   "title": "לפעמים עדיף צ'ק של כמה עשרות מיליוני שקלים ביד מפוטנציאל על הנייר",
+   "source": "TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUFkWnBhSkxsZlphb1Z2Z2Y4ZGNXZTJJWjR4SlZqdk9NRGFRcFBnQkRwaTRZSk9sWjNHb0NDY2xTSHJZSG0tNzBFRVhMdDA1U2ZWcmY5QjBLVHl1MHo5b3FGZFJIVHJjMUR0b0MtcXloR0dyNC1pajExaXoxSXR5cFZFeHZjaFlGY05sRlYzckkyVksyQ1lCamUxeXlYNHUwWEpN?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T05:37:00.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -2794,7 +2942,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Middle East Online"
+   ],
    "important": false
   },
   {
@@ -3044,6 +3194,20 @@
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRnd5clBPVjdjSTdTUEpMcGRsWTRlLW0wOURPbU9VUmpMSXVYQzJOenNDZWxnVzJkMF9mNE51QmpaVHNPWVcwOVBXeEtTeGN5RGw1VTZWN29Za09OeG1Jc2tVWFk0TXRBTkNlUWVsZEIzV0c5VkY2Z3V1Y3FYY3BxaG9MQVNzMDdZRV9KdGlxTllMemhqNWpiaHVfSE5pQ1V4b1BrdE9WRlcyZTdKUWhKaVdUeHd1YXNRRkx0dnZDUVQzV1JqSEktZlBuM3otdUtoN1BMOGF2VGd4aGV5ZFhRUmZoOWd1TDQ5Rk9z?oc=5",
    "topic": "world",
    "published": "2026-10-05T18:46:22.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0fb5bd9d6164",
+   "kind": "headline",
+   "title": "איתקה, חברה כלולה של דלק קבוצה, רוכשת נכסי נפט ימיים בקנדה תמורת 860 מיליון דולר מאת Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MZDJfYnBNMzNHbE9BMFdlNktSU25HemZ5MHRoOGFPNkU4bkpFWXVkekEzNV80VlJ3ay1DU0lFWGJHekxBN2pXSkxya25Xenc4ZVRsOGd0alIwQVMzbm8xN1IzeGNLWU5XVUY5U05hSk8zQQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T18:33:45.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -3301,7 +3465,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "World Israel News"
+   ],
    "important": false
   },
   {
@@ -5693,169 +5859,6 @@
    "published": "2026-10-05T07:15:04.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c25ef2fca518",
-   "kind": "headline",
-   "title": "One of Europe’s most anti-Israel governments heads to election as Sánchez calls snap vote",
-   "source": "Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52ZmRaQjZPMkRicnlmNkhlcVZqem42LTczLVdsSGtIbVByM0FYdmY3YzhYTkhBbTdaMmJfYVhQY3hMdGdqZEgxdUV4UWJsWlNJNXF0dmJR?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T07:14:01.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "ynetnews.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "4874f549527c",
-   "kind": "headline",
-   "title": "Spain Is to Hold Early Elections After Housing Crisis Topples Government",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
-   "topic": "world",
-   "published": "2026-10-05T07:12:15.000Z",
-   "summary": "Pedro Sánchez, the Spanish prime minister, had faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-Spain-Elections-HFO-hvgj/00int-Spain-Elections-HFO-hvgj-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [
-    "The New York Times"
-   ],
-   "important": false
-  },
-  {
-   "id": "36587ca70126",
-   "kind": "headline",
-   "title": "Spain’s PM Pedro Sánchez: I am calling an early election",
-   "source": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFIwbFhWQ0lCVzZZRHdvcW5IcjBSbmVvZUJaek1oVW91V0xkM1l1R19jSUxVTTRkSVYwVkVmcHc1eEhVRnZRMllaQnVUcWdWakRCel8zVVRoRTNfM3hPQ0VDN0V3RHR1bEZjMXVTRWZPNnZFYXBWRmZTeG9fUTNYUTJhOC01OXNMN1lIOGlVVGhWSVJTY3c?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T07:11:35.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bcdddcc6f13a",
-   "kind": "headline",
-   "title": "פתיחה חיובית בתל אביב: הטכנולוגיה מזנקת, הבנקים מעיבים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T07:07:00.000Z",
-   "summary": "הבורסה בתל אביב נפתחת במגמה חיובית: המדדים המובילים מטפסים בתמיכת מניות האנרגיה, סקטור הבנקים מושך מטה • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a2e1356f992c",
-   "kind": "headline",
-   "title": "British Jews more likely to identify as Zionist since 7 October attacks, research finds",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/2026/oct/05/british-jews-more-likely-to-identify-as-zionist-since-7-october-attacks-research-finds",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T07:00:52.000Z",
-   "summary": "Percentage who feel ‘very emotionally attached to Israel’ rose to 51% in June 2025, up 13 points from before Gaza war British Jews have become more likely to identify as Zionist, consider emigrating to Israel, and feel a close attachment to the country since the 7 October attacks, research has…",
-   "image": "https://i.guim.co.uk/img/media/4c3525ef36cb5b4adf3df58f80c4963f9a8f242d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ff07cfa63b5f7fb6f0a544754a6e583c",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ac3c358f9010",
-   "kind": "headline",
-   "title": "חברת enso הישראלית במגעים לרכישת שתי חברות בכ-25 מיליון דולר",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5VVNnSUNZd1BUbF9jMzhYeEFsSEFLLVRUcy02ZnhNNHA0VHhjNGpsenFSRzNqTUhqZ3RDVWxUUW5Zal9HdXB3TW54cDMtS3M5WUJiTm9JbG5TbDhPb25qRXFTcTdrWllhXzEw?oc=5",
-   "topic": "deals",
-   "published": "2026-10-05T06:59:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Calcalist",
-    "calcalist.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "55df41badb06",
-   "kind": "headline",
-   "title": "ספטמבר 2026 בבורסה: מדדי הדגל מובילים, שוק החוב מציג עוצמה",
-   "source": "PassportNews",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcjUxRnFYc1ZxWUFRcENTU0ZzU05kMUYtY3VjS2JBX3RYZ2ZMb1VWMFlGcXB2Vy1Sc2R2cHgtX01RMUZVaUo3Zkx5dUJ0QmpRdl9z?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T06:55:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3fab4d15440f",
-   "kind": "headline",
-   "title": "המשבר בצרפת מפיל את האירו בעולם ובישראל",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bkqzf3lsge",
-   "topic": "research",
-   "published": "2026-10-05T06:54:59.000Z",
-   "summary": "אחרי דוח התעסוקה החלש שדוחה לפי התחזיות את העלאת הריבית הבאה: הדולר מטפס ב-0.5% מול המטבעות המובילים בעולם ונסחר בתנועה קלה בשוק המקומי - מעל 3.04 שקלים; האירו נופל ב-0.7% מול המטבע האמריקני (נסחר מתחת ל-1.12 דולר) ומאבד כאחוז מול השקל. זאת בצל החשש משיתוק פוליטי בצרפת שיבטל את תוכנית הקיצוצים…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/rJsOm2gjGx/rJsOm2gjGx_0_106_3000_1689_0_medium.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ba83a42c78c5",
-   "kind": "headline",
-   "title": "שיא בגיוסים: תעשיית הקרנות גייסה 53.5 מיליארד שקל מתחילת 2026",
-   "source": "פאנדר",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLbWtELXFxSE1ralJpMU5yNm52Zzh0OTYwdEpZX1ZxY09NWGg5TzI3TjJ4TFdCOG9tMGNpcEpRODlKSTB3VmpLSE5vNmVTNVZs?oc=5",
-   "topic": "deals",
-   "published": "2026-10-05T06:52:22.000Z",
-   "summary": "",
-   "image": "",
-   "score": 3,
-   "alsoIn": [
-    "funder.co.il"
-   ],
-   "important": true
-  },
-  {
-   "id": "86083b1337e0",
-   "kind": "headline",
-   "title": "הלשכה הפלסטינית המרכזית לסטטיסטיקה מסרה כי כ-201,290 מבנים ברצועת עזה נפגעו כתוצאה מהתוקפנות הישראלית המתמשכת מאז 7 באוקטובר 2023 ועד 16 ביוני 2026, המהווים כ-82% מכלל המבנים",
-   "source": "yaffaps.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13akxEekVYZkVLTW5SekxIaXN4aTY0RWZzUU10M2ZRX2NwTjJsaXo4R2p5LTlKazAzUDZoZWhUQnFOZmQ1LV9QNkRfeGJ0MTJ5?oc=5",
-   "topic": "demo",
-   "published": "2026-10-05T06:51:50.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "15b08a97e090",
-   "kind": "headline",
-   "title": "לאחר 7 וחצי שנים: גלי צה\"ל והדס שטייף ישלמו מעל 600 אלף שקל לאפי נוה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558409#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T06:50:00.000Z",
-   "summary": "",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1685263503/direct/WhatsApp_Image_2023-05-28_at_11.43.11_km68mf.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
