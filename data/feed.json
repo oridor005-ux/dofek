@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T05:01:14.877Z",
+ "updated": "2026-10-06T05:12:41.504Z",
  "items": [
   {
    "id": "ac4a721999e5",
@@ -215,6 +215,20 @@
    "id": "e4e79db8ba51",
    "kind": "headline",
    "title": "​מנהל ההשקעות שהמליץ על ת\"א, במעבר חד לחו\"ל: \"לא רואה אירוע חיובי באופק\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558456#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-06T03:04:00.000Z",
+   "summary": "לפני כשנה המליץ שמואל בן אריה מפיוניר על טבע ומניות הביטוח, וקצר תשואות פנומנליות של עד 120% • כעת הוא מעריך שהבורסה המקומית מיצתה את מהלך העליות ומציע לעבור בעיקר לשוק האמריקאי • וגם: מניית המיגון שצפויה לדעתו לעלות בעשרות אחוזים",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1791210339/%D7%AA%D7%99%D7%A7_%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA_800_1_prr4tr.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "68d6f9fb3506",
+   "kind": "headline",
+   "title": "״אפסייד של עשרות אחוזים״: המשקיע שמאמין במניה ביטחונית מפתיעה",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558456#utm_source=RSS",
    "topic": "econ",
@@ -5907,20 +5921,6 @@
    "alsoIn": [
     "c14.co.il"
    ],
-   "important": false
-  },
-  {
-   "id": "72aeb869d9e5",
-   "kind": "headline",
-   "title": "Badenoch says Tories want policies ‘for everybody’ as she defends plan to let millionaires to get free childcare – UK politics live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T08:23:17.000Z",
-   "summary": "Conservative leader defends plan to extend free childcare to high earners, as Tory conference begins in Birmingham today When Laura Kuenssberg asked Badenoch whether it was a good use of public money to spend it on subsidising childcare for “incredibly wealthy” people, Badenoch switched the subject…",
-   "image": "https://i.guim.co.uk/img/media/9ef909adce513128d42254144ef8e24705ab0b5f/462_0_4191_3353/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=b98ffad5166905f115df64a885b1e3bf",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
