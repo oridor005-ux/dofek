@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T03:38:30.119Z",
+ "updated": "2026-10-06T03:50:50.890Z",
  "items": [
+  {
+   "id": "5ec3b1020b83",
+   "kind": "headline",
+   "title": "טראמפ: \"חושב שאיראן אחראית לניסיון הפיגוע בטיסה\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558513#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-06T03:39:00.000Z",
+   "summary": "דיווח בניו יורק טיימס: 12 מפציצים אמריקניים הוצאו מבסיס חיל האוויר הבריטי פיירפורד בשל חשש למתקפת רחפנים איראנית • הקואליציה בראשות סעודיה הנלחמת בחות'ים: ביצענו \"מבצע צבאי גדול\" במחוז חודידה בתימן • דיווחים שוטפים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "3e72dd9bc381",
    "kind": "headline",
@@ -67,6 +81,20 @@
    "published": "2026-10-06T03:01:00.000Z",
    "summary": "אלחנדרו ויינשטיין מימש את השקעתו בחברה הביטחונית ב&ndash;58 מיליון שקל וברווח יפה, אך מופסד במניות פלורי וגאוזי שרכש",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791209588/%D7%90%D7%9C%D7%97%D7%A0%D7%93%D7%A8%D7%95-%D7%95%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_upztyu.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6ecd5fff2870",
+   "kind": "headline",
+   "title": "האוצר יזרים 40 מיליון שקל למוסדות שנפגעו במלחמה - בשני מסלולים | יהודה שרוני",
+   "source": "maariv.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TNVBUWW1nY0NUUHpJcGZ5LXllY2FPeTYyNzQxVVBJUzVESHVaWHBIQ0g4TzNVOHdlcEJ1dW1QdVVZcFAyWHlJQ1ZFdjBUcG91cHBKUzA2TGdvQlBQc29HUThSWUx5dw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T03:00:46.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -413,7 +441,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Bangkok Post"
+    "Bangkok Post",
+    "France 24"
    ],
    "important": false
   },
@@ -556,7 +585,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "kikar.co.il"
+   ],
    "important": false
   },
   {
@@ -598,7 +629,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "kikar.co.il"
+   ],
    "important": false
   },
   {
@@ -1031,6 +1064,20 @@
    "important": false
   },
   {
+   "id": "187801a07b62",
+   "kind": "headline",
+   "title": "“Like a rogue state”: Netanyahu turns Britain’s insult back on London",
+   "source": "israeltoday.co.il",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjhkR29jT1M1REU1TlJVQlNTTGxUUFF3VE9fSE1zRFYteW9ncWtDX2N0UFl4WWdTYWpOeFdaNy1ETVhuSHBkelhpanBFV2VvUVBfNEprSXdzeTUtUFowRDR2U2hNdENZOVJRNmVHSEQyQkdBVDhKTFI2RTkyQ1FGRmpjd1VvbURxZERuTldIT1hwUEJ2cHNaS1ZHRHRlbGVqUEww?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-05T14:48:45.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "246c6aa3720d",
    "kind": "headline",
    "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
@@ -1101,7 +1148,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "inn.co.il"
+   ],
    "important": false
   },
   {
@@ -5882,50 +5931,6 @@
    "score": 1,
    "alsoIn": [
     "walla.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "eaf8bc8558cc",
-   "kind": "headline",
-   "title": "ספורה זרקה אותו והמנכ\"לית נטשה: כך קרס המותג המבטיח של סקהרלט ג'והנסון",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/s1yjzdksgg",
-   "topic": "econ",
-   "published": "2026-10-04T07:09:44.000Z",
-   "summary": "לאחר ארבע שנים בלבד, מותג טיפוח העור The Outset של הכוכבת ההוליוודית הרים ידיים אחרי שעשה כל טעות אפשרית. עם הון של 165 מיליון דולר בחשבון, ג'והנסון לא תיקלע למשבר כלכלי, אבל היא מספקת הוכחה לכך שלצרכנים של שנת 2026 פשוט נמאס ממותגי סלבס",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/03/S1vczXU111l/S1vczXU111l_687_123_2009_1131_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0316a9f63519",
-   "kind": "headline",
-   "title": "Voter turnout looks like a new low in Latvian parliamentary history / Article",
-   "source": "LSM",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUZyOWo0bm1vNnFMUU9IRl9CV0FVRUdweUxqSGY3YWFHdTc3VHVZbDZoaGNmbzZmX21TbWFJRXpMNWR3YzE4LUZBUmxPTDJpQ09LTjltM0lfS1cxek5vRnRpOF9mT0RRMzlQUDF2cG5YU3doZnFza1hqNTMtYk5nTkNaN3MwRmJ1aTVoUnpQbXNFdVY4VDFOR2xUOTF2THpiTlJRS1d0cjVXcTBwMl81VjBvbVI0RXVlTEZpdDNwYjcwNGFIM1VKdzR3eS0?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T07:02:42.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "64c357ac96fb",
-   "kind": "headline",
-   "title": "סקר: יותר משליש מהישראלים סבורים שהאנטישמיות מגבירה את הצורך בדרכון זר",
-   "source": "חרדים10",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YZVg0SjhYZmpic2VnNndsVjI2TjlYc3lkMDJIaDNwaW0weERDYVd1Si04c21CbkRZYVpuTWVoelFGQmxPYWVj?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-04T06:58:05.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "ch10.co.il"
    ],
    "important": false
   }
