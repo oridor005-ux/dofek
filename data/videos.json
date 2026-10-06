@@ -2131,8 +2131,11 @@
    "caption": "האנשים האלה צריכים להיות על עמוד הקלון! על עמוד הקלון לא פחות מזה!  ש...",
    "posted": "1791227442",
    "found": "2026-10-05T21:35:23Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693263228742274311.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693263228742274311.txt",
+   "insightIds": [
+    "ins-2026-10-06-mg16"
+   ]
   },
   {
    "id": "7693259553344900358",
@@ -2142,8 +2145,11 @@
    "caption": "האמת על החטופים יוצאת לאור",
    "posted": "1791226584",
    "found": "2026-10-05T21:36:14Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693259553344900358.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693259553344900358.txt",
+   "insightIds": [
+    "ins-2026-10-06-mg16"
+   ]
   },
   {
    "id": "7693282024651738375",
@@ -2153,7 +2159,7 @@
    "caption": "רווה אפלטון, משפיען בתחום הרכב, מצטרף ל-C14 בפינה שבועית קבועה",
    "posted": "1791231818",
    "found": "2026-10-05T21:37:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693282024651738375.txt"
   },
   {
@@ -2164,7 +2170,7 @@
    "caption": "\"היה קרב יריות ואני באמצע\": ד\"ר טארק מאיחוד הצלה מספר על הזירה אליה נ...",
    "posted": "1791230299",
    "found": "2026-10-05T21:38:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693275473819831559.txt"
   },
   {
@@ -2185,8 +2191,11 @@
    "caption": "\"הוא הורס את המדינה\": דרמה בספרד אחרי שממשלתו של פדרו סאנצ'ס, ממבקריה...",
    "posted": "1791233145",
    "found": "2026-10-05T21:40:20Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693287738958695701.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693287738958695701.txt",
+   "insightIds": [
+    "ins-2026-10-06-es29"
+   ]
   },
   {
    "id": "7693250373712121108",
@@ -2196,7 +2205,7 @@
    "caption": "ניצחון החיים: ברק ניקסון שרד 8.5 שעות בתא שירותים כימיים בנובה ונדר ל...",
    "posted": "1791224445",
    "found": "2026-10-05T21:40:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693250373712121108.txt"
   },
   {
@@ -2207,8 +2216,11 @@
    "caption": "גדי איזנקוט מגיב לאמירה של מועמד הליכוד איציק בונצל: \"לא מצפה ממנו לכ...",
    "posted": "1791231879",
    "found": "2026-10-05T21:41:44Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693282287319797010.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693282287319797010.txt",
+   "insightIds": [
+    "ins-2026-10-06-bz28"
+   ]
   },
   {
    "id": "7693418981742382344",
@@ -2229,7 +2241,7 @@
    "caption": "הפצועים בפיצוץ הרכב בירושלים - עבריין מוכר מאוד ובנו 📸: שימוש לפי סעי...",
    "posted": "1791266662",
    "found": "2026-10-06T06:15:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693431677342829831.txt"
   },
   {
@@ -2250,7 +2262,7 @@
    "caption": "3 שנים חלפו מאז השבת השחורה, והשיחה של הפרמדיקית עמית מן ז\"ל למוקד המ...",
    "posted": "1791271145",
    "found": "2026-10-06T07:31:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693450954838052117.txt"
   },
   {
@@ -2271,7 +2283,7 @@
    "caption": "מודיעין: מאות חרדים ניסו לפרוץ לבניין כדי למנוע מעצר עריק. המשטרה נאל...",
    "posted": "1791265840",
    "found": "2026-10-06T07:32:47Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693428161870073109.txt"
   },
   {
@@ -2282,7 +2294,7 @@
    "caption": "לבקשת המשפחות השכולות: אושר שינוי בכיתוב על המצבות הצבאיות 🕯️ ועדת הח...",
    "posted": "1791272693",
    "found": "2026-10-06T07:46:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693457604252585237.txt"
   },
   {
@@ -2304,7 +2316,7 @@
    "caption": "ההכנות בארגנטינה למשחקו האחרון בנבחרת של אגדת הכדורגל בשיאן! ⚽️ #חדשו...",
    "posted": "1791272810",
    "found": "2026-10-06T08:02:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693458092465425670.txt"
   },
   {
@@ -2315,7 +2327,7 @@
    "caption": "המעצר שנכשל: המשטרה הצבאית יצאה למעצר יזום של עריק ממודיעין, אך ההמונ...",
    "posted": "1791273907",
    "found": "2026-10-06T08:16:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693462797312658696.txt"
   },
   {
