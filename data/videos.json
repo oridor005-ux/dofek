@@ -2599,12 +2599,33 @@
    "found": "2026-10-06T13:35:15Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7693533873820470549.txt"
+  },
+  {
+   "id": "7693554198251588884",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693554198251588884",
+   "caption": "המל”ל באזהרה חריגה לקראת 7 באוקטובר: ערנות מוגברת לישראלים בחו”ל לקרא...",
+   "posted": "1791295179",
+   "found": "2026-10-06T14:05:27Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693553180369538325",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693553180369538325",
+   "caption": "שני ישראלים נכנסו לרמאללה כדי לקדם את רעיון הפדרציה, להשכין שלום ולפג...",
+   "posted": "1791294945",
+   "found": "2026-10-06T14:06:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693553180369538325.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T13:50:43Z",
+  "at": "2026-10-06T14:06:45Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
