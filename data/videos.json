@@ -2718,12 +2718,45 @@
    "found": "2026-10-06T14:56:21Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693567646947675412.txt"
+  },
+  {
+   "id": "7693571153314598164",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693571153314598164",
+   "caption": "עוד 21 ימים לבחירות, ומאי מרמת השרון כבר החליטה: הפתק של הפעם יהיה שו...",
+   "posted": "1791299131",
+   "found": "2026-10-06T15:13:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693571153314598164.txt"
+  },
+  {
+   "id": "7693570269738274055",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693570269738274055",
+   "caption": "מלך השווארמה במסר לעם ישראל🇮🇱 #פוליטיקה #עםישראלחייי🇮🇱 #אהבתחינם ",
+   "posted": "1791298925",
+   "found": "2026-10-06T15:13:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693570269738274055.txt"
+  },
+  {
+   "id": "7693569353148534036",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693569353148534036",
+   "caption": "\"אנחנו כבר לא מופתעים מכלום, הולכים כאן ממחדל למחדל\" 👇 חבר ועדת חוץ ו...",
+   "posted": "1791298712",
+   "found": "2026-10-06T15:15:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693569353148534036.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T14:58:27Z",
+  "at": "2026-10-06T15:15:45Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
