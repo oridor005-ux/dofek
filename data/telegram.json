@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65558,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:36.695Z"
+   "checkedAt": "2026-10-06T11:31:10.194Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:37.307Z"
+   "checkedAt": "2026-10-06T11:31:10.948Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:37.915Z"
+   "checkedAt": "2026-10-06T11:31:11.621Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11413,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:38.602Z"
+   "checkedAt": "2026-10-06T11:31:12.317Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19280,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:39.241Z"
+   "checkedAt": "2026-10-06T11:31:13.001Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:39.854Z"
+   "checkedAt": "2026-10-06T11:31:13.730Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54897,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:40.473Z"
+   "checkedAt": "2026-10-06T11:31:14.432Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131452,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:41.206Z"
+   "checkedAt": "2026-10-06T11:31:15.187Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74673,
+   "lastId": 74674,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:41.758Z"
+   "checkedAt": "2026-10-06T11:31:15.777Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8405,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:42.402Z"
+   "checkedAt": "2026-10-06T11:31:16.474Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T11:19:43.046Z"
+   "checkedAt": "2026-10-06T11:31:17.218Z"
   }
  },
  "posts": [
@@ -454,13 +454,22 @@
    "date": "2026-10-06T11:19:23+00:00",
    "text": "הראיון המלא עם פירס מורגן:\n https://youtu.be/cbyg05GOLTU?si=8bkVGjYWX_-Gl7xj",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74674",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74674",
+   "date": "2026-10-06T11:22:57+00:00",
+   "text": "🔴 כ\"ץ: \"נערכים לתרחיש של היפוך קנים מצד הרש\"פ ביו\"ש ונגד ישובי קו התפר\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T11:19:43.446Z",
+  "at": "2026-10-06T11:31:17.618Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 40
+  "added": 1,
+  "pendingNew": 41
  }
 }
