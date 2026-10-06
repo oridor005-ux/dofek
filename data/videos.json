@@ -2436,10 +2436,31 @@
    "found": "2026-10-06T10:04:19Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693467987361271061.txt"
+  },
+  {
+   "id": "7693488302963346740",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693488302963346740",
+   "caption": "ציור הקיר החדש על הארנה: לזכרם של הירש ואורי דנינו ז\"ל שנחטפו ב-7 באו...",
+   "posted": "1791281580",
+   "found": "2026-10-06T10:18:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693488302963346740.txt"
+  },
+  {
+   "id": "7693495430037900552",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693495430037900552",
+   "caption": "שורד השבי רום ברסלבסקי יצא במתקפה חריפה נגד טקס הזיכרון של תנועת קומו...",
+   "posted": "1791281501",
+   "found": "2026-10-06T10:18:29Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-06T10:04:32Z",
+  "at": "2026-10-06T10:18:48Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
