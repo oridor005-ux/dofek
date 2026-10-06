@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T17:51:47.657Z",
+ "updated": "2026-10-06T18:04:18.050Z",
  "items": [
   {
    "id": "ed9241e265bb",
@@ -11,6 +11,20 @@
    "published": "2026-10-06T17:32:00.000Z",
    "summary": "האירו נמצא בשפל של כשנה וחצי מול הדולר, על רקע החששות ממצבה הפיסקלי של צרפת, אי־היציבות הפוליטית באירופה והאפשרות למשבר חוב חדש • בעוד שהמשקיעים והאנליסטים דרוכים, החברות היצואניות ביבשת דווקא גוזרות קופון מהיחלשות המטבע",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791292538/shutterstock_2526967181_unoifr.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1e98bd12aad2",
+   "kind": "headline",
+   "title": "Public Opinion Gets to Trump",
+   "source": "The Contrarian",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sMEoyanhYSy1PSVY4V1cwdGZtckltdHc3WlJaMWhrc2J6bmpCaTViUS1XOW1aMkREbmtya2RuVFRjcTFxeWdUWGxXQlBmcDJndnJ3UVZDQUJsbVBTRURQbk9zN2pVNU1xbVFma1dR?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T17:30:26.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5834,22 +5848,6 @@
    "score": 0,
    "alsoIn": [
     "chronicle.gi"
-   ],
-   "important": false
-  },
-  {
-   "id": "f3dc0c3e2b8e",
-   "kind": "headline",
-   "title": "מגמה חיובית בתל אביב בהובלת מניות האנרגיה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T07:39:00.000Z",
-   "summary": "הבורסה בתל אביב נפתחת במגמה חיובית: המדדים המובילים מטפסים בתמיכת מניות האנרגיה, סקטור הבנקים מושך מטה • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
-   "score": 1,
-   "alsoIn": [
-    "globes.co.il"
    ],
    "important": false
   }
