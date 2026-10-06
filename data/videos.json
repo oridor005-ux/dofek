@@ -2205,12 +2205,23 @@
    "found": "2026-10-06T05:30:47Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693418981742382344.txt"
+  },
+  {
+   "id": "7693431677342829831",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693431677342829831",
+   "caption": "הפצועים בפיצוץ הרכב בירושלים - עבריין מוכר מאוד ובנו 📸: שימוש לפי סעי...",
+   "posted": "1791266662",
+   "found": "2026-10-06T06:15:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693431677342829831.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T06:00:37Z",
+  "at": "2026-10-06T06:15:42Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
