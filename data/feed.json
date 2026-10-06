@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T16:04:39.141Z",
+ "updated": "2026-10-06T16:17:07.504Z",
  "items": [
+  {
+   "id": "55bcdcccee74",
+   "kind": "headline",
+   "title": "Spain Clears Way for Separatist Leader to Return to Catalonia",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
+   "topic": "world",
+   "published": "2026-10-06T16:03:07.000Z",
+   "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "61760ad8cf97",
    "kind": "headline",
@@ -53,6 +67,20 @@
    "published": "2026-10-06T15:44:00.000Z",
    "summary": "דיסקונט מתכנן להשלים את מהלך המיזוג ככל שיתקבלו האישורים הנדרשים, כבר במהלך 2027 • החסכון עדיין לא הוצג לציבור, אך מדובר בתוכנית פרישה מרצון גדולה. מרכנתיל יישמר כמותג בנקאי • לאחר נפילת עסקת כאל, התעניינות מחודשת ברכישתה על ידי גורמים מישראל ומחו\"ל",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "acef42addc2d",
+   "kind": "headline",
+   "title": "AfD politician becomes first party member to lead a German state parliament",
+   "source": "The New Voice of Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVI1MlJzdnFvdlEtMEZ4dE9ZR1B6Z2UzN0NXcDlkWmlqRU10Mk5MX0NodDZ2OVAxZHd6YkdFUmppdUhYY0VrT1JsT2xlaG1tTFhnNVYybElnbTBDT2luOGpkZFNuZ3BWN3FtTzVVdm84WExXci1FQXFaVWdveG9IcmpLaGNiTTRwTzZFa0tKSURLbmhuSGI1M0VlR1VQNEFpczZrOXZB0gGiAUFVX3lxTE5yZ3poeXVUaS1xTGNveGo5YkVzd1R5cXNPNk9xbGllc2hrUng5SjFDbXJkWENVbVBZaWVQQzgzUTF1ZnNTOWFxNXdOcTdPMUptTFB4cHdNQ3VwOTlaTmlqd2hOczlSOGNsVzlhT3lHRE5uYVMxc2NMeWxFWEdyelZLbEVoWXg5djMwYnRJU2tPc0Nsa3VBWmZpRHFRS2JRcGpwZw?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T15:32:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -368,6 +396,20 @@
    "important": false
   },
   {
+   "id": "4568ac72943d",
+   "kind": "headline",
+   "title": "Germany's far-right AfD gains first ever state parliament speaker",
+   "source": "afp.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdnlhSUh3V1kxdjRyV1NrWWJfVXctQ3BnQk9lZmdhTG5zQkVXb2d0R3V1YXd2Yk9OVTlSS3BMY1RPN3g4UG1WZlJRUWYwdlY1Nmkyc2xmM3I4eHJBQXBpM3lkVmo0UmxrcWwyX29zQWstWEFPc0xqM082NU10ZzRIa2tSMkxhS2dnbjljWEI5V2g?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T12:51:39.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "a871738f68e2",
    "kind": "headline",
    "title": "ירידות בתל אביב: התקשורת והטכנולוגיה מושכות למטה; נקסט ויז'ן צוללת",
@@ -436,7 +478,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "ad-hoc-news.de"
+   ],
    "important": false
   },
   {
@@ -492,6 +536,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "55de30fe2df5",
+   "kind": "headline",
+   "title": "בעקבות העלייה באנטישמיות, מגמה חיובית בקהילות יהודיות בתפוצות",
+   "source": "JDN",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jekFzcXV1VHAtcnUydjlZTEktYXR2cHRrLXdyeHBrWVZ4VHo4TmhfeEZIQy1GdEs3SWlsd3FPV1hfek8xU3l2NGg4S0F0M3czbmI2YjhMUlk?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T12:03:22.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -692,7 +750,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "yahoo.com"
+   ],
    "important": false
   },
   {
@@ -2201,7 +2261,8 @@
    "alsoIn": [
     "WWLP",
     "CW39 Houston",
-    "cw39.com"
+    "cw39.com",
+    "CTV News"
    ],
    "important": false
   },
@@ -4701,7 +4762,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "The National"
+   ],
    "important": false
   },
   {
@@ -5800,66 +5863,6 @@
     "The Canberra Times",
     "canberratimes.com.au"
    ],
-   "important": false
-  },
-  {
-   "id": "990e002e3247",
-   "kind": "headline",
-   "title": "הבורסה נסגרה בשיא חדש; הדיווח שהפיל את המניות הביטחוניות",
-   "source": "גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aR21ZeDlzQXNkV2ptSWJGZTRGR0VhMm94QnhuUjMxdDhoLW5jbTlpUWNQRU52MS1BMk9zX3M3STFPTFk1RDFOQ29kRVBhX0lNVG41dWxPVGdzam5FSjVYcVFhNDZYWmdT?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T06:09:50.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "globes.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "368ebb0f8fc5",
-   "kind": "headline",
-   "title": "למחזר את האנטישמיות: הירוקים באנגליה הגדירו את הציונות כגזענות",
-   "source": "מקור ראשון",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uM2t3VWY5T3B5d2c1TWJjRllJTWw2WDFGMmRJVWdpUVYxUGRNdVl1NXJSYXUwN09ubnY3OHZ3Tmp6Q2RzbmtNbmY0dEtYNzg2cm8xRDB4QmxOSkpKcWV5a2NiU2hpYlRtY0gzbg?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T05:56:46.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "makorrishon.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "e511176e3817",
-   "kind": "headline",
-   "title": "שלוש מניות שבג'יי.פי מורגן מאמינים שיקפצו החודש: חמישה דברים לקראת יום המסחר",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
-   "topic": "demo",
-   "published": "2026-10-05T05:55:00.000Z",
-   "summary": "הבורסה בתל אביב תנסה להתאושש משבוע אדום, המניות הדואליות יספקו רוח גבית בפתיחה • בארה\"ב, הנאסד\"ק בשיא; התשואות מזנקות לשיא של 24 שנים והשווקים נערכים לירידת תשואות • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • דוח התעסוקה בארה\"ב: הקיפאון בגיוסים מעמיק, אך…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg4_epj1sj.jpg",
-   "score": 5,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "e132a09c5529",
-   "kind": "headline",
-   "title": "LIVE: Changes to the Law on Special Elections are voted on in principle, deadline for the president until tomorrow",
-   "source": "KOHA.net",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSV9RWjQzbEN3c3dQUkY2TUN3YVdvYzhiM1lmWHduN0Jhb3R5TjhGNjRUR0FnTWowcHFHcnoxOGFHdnhRd3FtNDRTX19JM0I3cGgxQnBrMV93d2dGcDd0QTVyWEtyV0FXMnF1bEFpM25aekNZVU0ydmpqOHVwd3JSUkZ2WUZZeDJxZjJTVTN2dVZ4WlE?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T05:55:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]

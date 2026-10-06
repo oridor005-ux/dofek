@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65565,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:22.946Z"
+   "checkedAt": "2026-10-06T16:05:52.366Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7251,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:23.662Z"
+   "checkedAt": "2026-10-06T16:05:53.021Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:24.339Z"
+   "checkedAt": "2026-10-06T16:05:53.645Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:25.026Z"
+   "checkedAt": "2026-10-06T16:05:54.276Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19286,
+   "lastId": 19288,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:25.714Z"
+   "checkedAt": "2026-10-06T16:05:54.914Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:26.412Z"
+   "checkedAt": "2026-10-06T16:05:55.552Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54899,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:27.108Z"
+   "checkedAt": "2026-10-06T16:05:56.195Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131468,
+   "lastId": 131469,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:27.856Z"
+   "checkedAt": "2026-10-06T16:05:56.943Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74695,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:28.462Z"
+   "checkedAt": "2026-10-06T16:05:57.512Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:29.213Z"
+   "checkedAt": "2026-10-06T16:05:58.190Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T15:53:30.002Z"
+   "checkedAt": "2026-10-06T16:05:58.871Z"
   }
  },
  "posts": [
@@ -908,13 +908,32 @@
    "date": "2026-10-06T15:53:02+00:00",
    "text": "המהומות בצרפת : בעלי החנויות בפריז ממגנים את העסקים מחשש לוונדליזם וביזה במסגרת אירוע מרכזי שצפוי היום כחלק מהמהומות. 5 תגובות",
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19288",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19288",
+   "date": "2026-10-06T16:04:09+00:00",
+   "text": "נענתי לבקשת משפחות שכולות להחליף את תמונת הפרופיל ל-24 השעות הקרובות, בשבעה באוקטובר, כדי להעביר מסר חד וברור: \nכל מי שהיה עם יד על ההגה בשבעה באוקטובר, דרג מדיני וביטחוני, צריך ללכת הביתה. \nמזמין אתכם להחליף גם לתמונה המצורפת - כולם הביתה! \n#כולםהביתה",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131469",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131469",
+   "date": "2026-10-06T16:04:10+00:00",
+   "text": "הנשיא טראמפ קובע דעה נחרצת על המהומות הנוכחיות בצרפת: מה שקורה בצרפת הוא לא פחות מהגירה המונית שיצאה מכלל שליטה. זה לא קשור לבתי הספר, אלא לאסלאם שרוצה להשתלט על מדינה שהייתה פעם גדולה! 3 תגובות",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T15:53:30.402Z",
+  "at": "2026-10-06T16:05:59.270Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 28
+  "added": 2,
+  "pendingNew": 30
  }
 }
