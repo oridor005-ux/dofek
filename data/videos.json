@@ -2359,12 +2359,44 @@
    "posted": "1791277112",
    "found": "2026-10-06T09:01:50Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693479826845355285",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7693479826845355285",
+   "caption": "שומע שוב את סיפור הגבורה הבלתי נתפס של בן שמעוני ז״ל. ג׳סיקה, את אישה...",
+   "posted": "1791277870",
+   "found": "2026-10-06T09:17:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693479826845355285.txt"
+  },
+  {
+   "id": "7693477525556628756",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7693477525556628756",
+   "caption": "ביקשתי מתומך הטר!ר מהדי חסן לגנות את חטיפת המטוס בתכנית של פירס מורגן",
+   "posted": "1791277333",
+   "found": "2026-10-06T09:19:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693477525556628756.txt"
+  },
+  {
+   "id": "7693478730911452424",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693478730911452424",
+   "caption": "ח\"כ מיכאל מלכיאלי מש\"ס תקף היום (שלישי) בחריפות את ראש הממשלה לשעבר נ...",
+   "posted": "1791277613",
+   "found": "2026-10-06T09:19:58Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-06T09:02:25Z",
+  "at": "2026-10-06T09:20:17Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
