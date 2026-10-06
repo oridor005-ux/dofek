@@ -385,6 +385,7 @@ function render(){
       heads = heads.filter(i=>i.topic==='media'); showIns = ins.filter(i=>i.topic==='media');
     } else if (filter === 'important') { heads = heads.filter(i=>i.important); showIns = ins.filter(i => Date.now() - new Date(i.published) < 2*864e5); }
     else if (filter !== 'all') { heads = heads.filter(i=>i.topic===filter); showIns = ins.filter(i=>i.topic===filter); }
+    if (filter === 'state' && window._wpInvite) html += `<button class="ask" id="wpInvite"><span class="ic">🔔</span><span><b>חדש: התראות ישירות מדופק אמיתי</b><small>לחיצה על התראה פותחת ישר את הידיעה באפליקציה. לחץ להפעלה</small></span></button>`;
     if (filter === 'media' || filter === 'state') html += askBanner();
     // מה שלא נקרא — קודם. מה שכבר נקרא — בסוף
     const unreadFirst = arr => [...arr.filter(i=>!isRead(i.id)), ...arr.filter(i=>isRead(i.id))];
@@ -428,6 +429,8 @@ async function load(){
   store.set('seen', [...new Set([...feed.items.map(i=>i.id), ...seenBefore])].slice(0, 1500));
   if (!routeShare()) routeHash();
   refreshSub();
+  // הזמנה חד-פעמית לכל מי שעוד לא הפעיל התראות ישירות (גם למי שמחובר דרך ntfy)
+  if (webPushSupported() && !store.get('wpInviteDone') && Notification.permission !== 'denied') currentSub().then(sub => { const want = !sub; if (want !== !!window._wpInvite) { window._wpInvite = want; render(); } });
 }
 
 // ===================== גיליון (חלון תחתון) =====================
@@ -763,6 +766,7 @@ document.addEventListener('click', e => {
   const h = e.target.closest('[data-h]'); if (h) { openHeadline(h.dataset.h); return; }
   if (e.target.closest('#markAll')) { markRead(window._unreadHere || []); render(); toast('סומן כנקרא ✓'); return; }
   if (e.target.closest('#askBtn')) { openAsk(); return; }
+  if (e.target.closest('#wpInvite')) { store.set('wpInviteDone', 1); window._wpInvite = false; render(); enableWebPush(); return; }
   const gi = e.target.closest('[data-goins]'); if (gi) { e.preventDefault(); openInsight(gi.dataset.goins); return; }
   const a = e.target.closest('a[href="#settings"]'); if (a) { e.preventDefault(); openSettings(); }
 });
