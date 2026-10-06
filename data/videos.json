@@ -2349,12 +2349,22 @@
    "found": "2026-10-06T08:47:12Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693472704824872200.txt"
+  },
+  {
+   "id": "7693476559885307154",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693476559885307154",
+   "caption": "המעצר שנכשל: המשטרה הצבאית יצאה למעצר יזום של עריק ממודיעין, אך ההמונ...",
+   "posted": "1791277112",
+   "found": "2026-10-06T09:01:50Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-06T08:47:33Z",
+  "at": "2026-10-06T09:02:25Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
