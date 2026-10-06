@@ -97,10 +97,13 @@
   "5f6d90510e8f",
   "61760ad8cf97",
   "ins-2026-10-06-bg15",
-  "ins-2026-10-06-h41t"
+  "ins-2026-10-06-h41t",
+  "ins-2026-10-06-gtlb",
+  "ins-2026-10-06-bnqt",
+  "ins-2026-10-06-hjck"
  ],
  "pending": [],
- "lastRun": "2026-10-06T18:15:56.007Z",
+ "lastRun": "2026-10-06T18:16:16.026Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -127,8 +130,8 @@
    },
    "at": "2026-10-06T17:52:10.731Z"
   },
-  "lastNewItemAt": "2026-10-06T18:15:56.007Z",
-  "lastPushOkAt": "2026-10-06T16:17:32.059Z",
+  "lastNewItemAt": "2026-10-06T18:16:16.026Z",
+  "lastPushOkAt": "2026-10-06T18:16:16.026Z",
   "googleOkAt": "2026-10-06T17:52:10.731Z"
  },
  "lastFullAt": "2026-10-06T17:52:10.731Z",

@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65570,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:41.407Z"
+   "checkedAt": "2026-10-06T18:16:19.283Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7253,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:42.076Z"
+   "checkedAt": "2026-10-06T18:16:20.030Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2989,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:42.704Z"
+   "checkedAt": "2026-10-06T18:16:20.743Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11414,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:43.351Z"
+   "checkedAt": "2026-10-06T18:16:21.481Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19289,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:44.020Z"
+   "checkedAt": "2026-10-06T18:16:22.240Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:44.664Z"
+   "checkedAt": "2026-10-06T18:16:22.991Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:45.288Z"
+   "checkedAt": "2026-10-06T18:16:23.876Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131474,
+   "lastId": 131475,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:45.977Z"
+   "checkedAt": "2026-10-06T18:16:24.702Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74702,
+   "lastId": 74703,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:46.544Z"
+   "checkedAt": "2026-10-06T18:16:25.330Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:47.268Z"
+   "checkedAt": "2026-10-06T18:16:26.117Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11062,
    "ok": true,
-   "checkedAt": "2026-10-06T18:04:47.967Z"
+   "checkedAt": "2026-10-06T18:16:26.863Z"
   }
  },
  "posts": [
@@ -1104,13 +1104,31 @@
    "date": "2026-10-06T17:54:15+00:00",
    "text": "🔴 האמירויות ביטלו את הסלוטים של טיסות החילוץ הישראליות\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131475",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131475",
+   "date": "2026-10-06T18:15:45+00:00",
+   "text": "גולש עזתי בולט המתנגד לחמאס:\nفي مثل هذا اليوم قبل 3 سنوات كان اخر غروب للشمس على قطاع غزة \nولغاية الأن عايشين في الظلام و لم تشرق الشمس مره اخرى\nתרגום :\nביום הזה, לפני שלוש שנים, הייתה השקיעה האחרונה ברצועת עזה.\nמאז ועד היום אנחנו חיים בחשכה, והשמש לא זרחה שוב.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74703",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74703",
+   "date": "2026-10-06T18:10:08+00:00",
+   "text": "🔴 זיני הזהיר בקבינט: יש התארגנויות טרור מדאיגות מאוד בפזורה הבדואית\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-06T18:04:48.367Z",
+  "at": "2026-10-06T18:16:27.263Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 49
+  "added": 2,
+  "pendingNew": 51
  }
 }
