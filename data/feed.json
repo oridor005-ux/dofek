@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T22:01:13.666Z",
+ "updated": "2026-10-06T22:13:42.697Z",
  "items": [
   {
    "id": "ca8f7a3d3abc",
@@ -40,6 +40,20 @@
    "summary": "An autumn of discontent has gripped the country ahead of its presidential election.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-theworld-france-protests-promo/07int-theworld-france-protests-promo-mediumSquareAt3X-v2.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1b4f7db3e14f",
+   "kind": "headline",
+   "title": "מיליונים לעורכי דין, מאות מיליונים לעמיתים: ועדת הכספים דורשת פירוט",
+   "source": "אמס",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzcFJCV3lfc0pBR09RYzJVWkFhNUx0Tl9lbVFxcmphT1V5YTUwaEJpZDZOTG9Od3FoTXNlckZtajNURlJEZnJNNlE2WnU2UQ?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-06T20:12:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -605,6 +619,20 @@
    "published": "2026-10-06T15:44:00.000Z",
    "summary": "דיסקונט מתכנן להשלים את מהלך המיזוג ככל שיתקבלו האישורים הנדרשים, כבר במהלך 2027 • המהלך יכלול בטווח הארוך פרידה ממאות עובדים, מרכנתיל יישמר כמותג בנקאי • לאחר נפילת עסקת כאל, התעניינות מחודשת ברכישתה על ידי גורמים מישראל",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6f3c76ad5d3c",
+   "kind": "headline",
+   "title": "State parliament elects Germany’s first far-right speaker since second world war",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXNxM0dUdy1yYVY2U2hMRVZpX3BFbkY5ZGNXU05nNzQyY1o1VkNYczlCaHM0bFlYendFRDFfZVFQc2huTDF1NE5BQXRvQnVFdEJjR2E2ZXpDYXlfTng0R21pZkk0SFBWY09FOUdodE15eElhNWlWOEdZOU1HZ1dhMlhxTDRkYW1pLUxSS1ZNUXJVX3RqWkdVSmw2X1BtemxlMVZtaVI2WV8?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T15:36:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -2888,6 +2916,20 @@
    "important": false
   },
   {
+   "id": "456e4f94a0b4",
+   "kind": "headline",
+   "title": "נקסט ויז'ן צנחה 12%, אלביט 5%; הביטוח איבד 2.2%; נעילה אדומה בת\"א",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWRmNfODlSWVp2WDFSOUdfZ2pyXzVxZmFDaUNtYTFqZEJJNmFQcFdFZGdSNlg1ejR6OENLUVlDaFRTUm5XQ0piblVVVVNlVE9ocERGVFRxYWJPWDhudjJlLXF0Wk14WTFrVWRDX2UyVkQ?oc=5",
+   "topic": "defense",
+   "published": "2026-10-06T04:54:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ac4a721999e5",
    "kind": "headline",
    "title": "ארה\"ב אישרה מכירת אמלח גדולה למדינות האזור, כולל למצרים",
@@ -3444,6 +3486,20 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQ3hOVFNzbXdNcDZlVmRLTWpnRTVaMHo5ZDNtdVBrdkNpVlJoMmV3a3dNSW11dlhuZjhsdnR5YkZtZnZDOXlHOFNkQ0I3ZFZnRjF4bXlNTHdaRXFxa0VPb0lzUndNbE0wam03VVV4eHBmWU03S0E?oc=5",
    "topic": "world",
    "published": "2026-10-05T23:35:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "cba48111a005",
+   "kind": "headline",
+   "title": "Kosovo Parliament Moves Towards Changing Law to Curb Hague Special Court",
+   "source": "Balkan Insight",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDQ0VHl4ZVVHNkhXdDhTTXVZZ24yTGxBTG5PeHoyRGFubFdfX1ZadmZaUm1mMmgxNEJlRzE4M3hVakVwZGFTM3dxZnFWdUlZcUwtRzlfNUMxaHBTdmZBMDJod0h1TEJ1TmZSSnFZdHlxN0JVTmxIUlVqc2VxLUpPamYzcHV4RW5UVnJObjlGTjBob3o2WmlPMVlNV2FNcV96RzI1RzdRcnZJNVd5c21UUVdid0k?oc=5",
+   "topic": "world",
+   "published": "2026-10-05T23:34:27.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5765,62 +5821,6 @@
    "published": "2026-10-05T09:13:24.000Z",
    "summary": "ישראייר רושמת עלייה של 5% במסחר, שמצטרפת לעלייה משמעותית שעשתה בשבוע שעבר. אל על החלה את היום גם כן בצורה חיובית, אבל כעת יורדת בכאחוז. מט\"ח: האירו נחלש בעולם",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/24/Hk7exAWZbx/Hk7exAWZbx_0_125_1183_666_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "13e1a85b10b6",
-   "kind": "headline",
-   "title": "Kuvendi voton në lexim të parë Projektligjin për ndryshimin e Ligjit për Specialen",
-   "source": "Reporteri.net",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGlwUWhhN2M3NlNJMjNvdkg2OGhRaUMxd0lGQXhJT2g5Mmc4TFU5Rjg3aHlBck9zSVlxcUFRb3NBb2NqYUNJTXVkQkZEV0tqQ1pGMWFVcVpJZ3NaaE5SOWhnemZGYkZFUUUtT0Q3QkZFaVNVWndKaF81MU1KVXprODl5VGR5OXVPLWdaeWtsOG82b1FBY3g1dWczYWQtN0stYlAyR1J3R1BZOEN4eWhidmcyMkk?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T09:07:46.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4e1b941ca957",
-   "kind": "headline",
-   "title": "זה לא היה רבעון שקרנות הגידור יכולות להתגאות בו",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558376#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T09:06:00.000Z",
-   "summary": "התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי, שבו הציג מדד ת\"א 125 עלייה מזערית • בלטה לטובה: קרן חדשה יחסית של ספרה שהציגה תשואה של 41% • הדרמה בשוק האג\"ח בארה\"ב לא באה לידי ביטוי משמעותי בקרנות הגידור",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728995348/COT_Pic/800_hrepep.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3f8130da0724",
-   "kind": "headline",
-   "title": "Family of Epstein Victim Appears in Ad Targeting Republican",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/jeff-crank-jeffrey-epstein-virginia-giuffre.html",
-   "topic": "world",
-   "published": "2026-10-05T09:04:05.000Z",
-   "summary": "In a tough new ad for the Democrat running against Representative Jeff Crank, the brother and sister-in-law of Virginia Giuffre say the congressman refused to meet with them.",
-   "image": "https://static01.nyt.com/images/2026/10/05/us/05pol-epstein-ad/05pol-epstein-ad-mediumSquareAt3X.png",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bdcb4f65c2dc",
-   "kind": "headline",
-   "title": "Midterm Elections: Who Is Winning the Race for Congress? Latest Data",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/midterm-elections-control-congress.html",
-   "topic": "world",
-   "published": "2026-10-05T09:03:51.000Z",
-   "summary": "It’s Oct. 5 — 29 days away from the midterms. Here’s the state of play.",
-   "image": "https://static01.nyt.com/images/2026/09/27/us/sotr-28sep-promo/sotr-28sep-promo-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
