@@ -2468,10 +2468,21 @@
    "found": "2026-10-06T10:34:21Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693500004291349767.txt"
+  },
+  {
+   "id": "7693502940497054983",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693502940497054983",
+   "caption": "איך הגענו למצב שבו שורד טבח צריך להוכיח שהוא \"מספיק פגוע\" כדי לקבל לי...",
+   "posted": "1791283254",
+   "found": "2026-10-06T10:48:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693502940497054983.txt"
   }
  ],
  "health": {
-  "at": "2026-10-06T10:34:45Z",
+  "at": "2026-10-06T10:49:07Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
