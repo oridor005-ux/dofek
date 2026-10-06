@@ -2317,10 +2317,20 @@
    "found": "2026-10-06T08:16:37Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693462797312658696.txt"
+  },
+  {
+   "id": "7693466962499882258",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693466962499882258",
+   "caption": "הגעתי הבוקר יחד עם דחפורי המשילות לשכונת א-טור במזרח ירושלים, כדי לוו...",
+   "posted": "1791274875",
+   "found": "2026-10-06T08:32:04Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-06T08:16:58Z",
+  "at": "2026-10-06T08:32:17Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
