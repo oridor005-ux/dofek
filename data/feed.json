@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T08:20:34.075Z",
+ "updated": "2026-10-06T08:20:52.378Z",
  "items": [
   {
    "id": "ee18b14ee2c0",
@@ -138,7 +138,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "reuters.com"
+   ],
    "important": false
   },
   {
@@ -546,6 +548,20 @@
    "summary": "דיווח בניו יורק טיימס: 12 מפציצים אמריקניים הוצאו מבסיס חיל האוויר הבריטי פיירפורד בשל חשש למתקפת רחפנים איראנית • הקואליציה בראשות סעודיה הנלחמת בחות'ים: ביצענו \"מבצע צבאי גדול\" במחוז חודידה בתימן • דיווחים שוטפים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "842c801f0037",
+   "kind": "headline",
+   "title": "נקסט ויז'ן והביטחוניות מתממשות ומדדי הדגל נצבעים אדום; בלייד ריינג'ר מטפסת 8%",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWRmNfODlSWVp2WDFSOUdfZ2pyXzVxZmFDaUNtYTFqZEJJNmFQcFdFZGdSNlg1ejR6OENLUVlDaFRTUm5XQ0piblVVVVNlVE9ocERGVFRxYWJPWDhudjJlLXF0Wk14WTFrVWRDX2UyVkQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T04:54:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -1385,6 +1401,20 @@
    "important": false
   },
   {
+   "id": "2f84ef325f3e",
+   "kind": "headline",
+   "title": "תקנים קוצצו ותקציבים לא אושרו: קריסה באגף הביטחון במשרד התחבורה",
+   "source": "i24NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnTE4xY193WTdWRVE2R0JoeS1TaDQ4VXEzZklrcnloM2VCLXR6M082LTI1b1g5OWJUOGQxd2VyLTFCRjE5VVU3NjFaOWctSjFpUHVDckN4V1FIYzBndHlEUW4tRE5sQQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-05T17:58:29.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "502ee541e799",
    "kind": "headline",
    "title": "UK threatens to expel Israeli diplomats after closing of East Jerusalem consulate",
@@ -2046,7 +2076,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "reuters.com"
+   ],
    "important": false
   },
   {
@@ -3773,7 +3805,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "aa.com.tr"
+    "aa.com.tr",
+    "The Express Tribune"
    ],
    "important": false
   },
@@ -5861,36 +5894,6 @@
    "published": "2026-10-04T13:00:00.000Z",
    "summary": "Oakberry הברזילאית פותחת שני סניפים חדשים בתל אביב: בקניון TLV, ובחוף בוגרשוב בניהולה של יוליה פלוטקין. כמה תעלה קערת אסאי ומה יהיו הלוקיישנים הבאים?",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HkmVVYJjGl/HkmVVYJjGl_0_0_1600_901_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0b6815b3802a",
-   "kind": "headline",
-   "title": "Parliament Session Tomorrow at 09:00, Special Court Law to be Addressed in First Reading",
-   "source": "nacionale.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDJ4WGJFVFc3eEJMZlZ6ZU1pV05WckVDdFk5TmRLamw3R3NmNFpFT1Y2eWR4ZFJ4SDkwR25tUXBKbXBibm52X210aTNyTE1HMlVqdVkycUU5UGdOZ0lqeGFLbjhURmpkM3NSQUJJTDJJeEtmMzdSWTdzMXhVb0ZQLUhDWGZUOXV3NjdnYkdlLU41UW5hWEQwS2R5bGp1UQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-04T12:47:54.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Nacionale News"
-   ],
-   "important": false
-  },
-  {
-   "id": "d40f76be3580",
-   "kind": "headline",
-   "title": "בכיר נוסף עוזב את OpenAI ומזהיר: ״הזמן לניסוי וטעייה נגמר״",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558345#utm_source=RSS",
-   "topic": "world",
-   "published": "2026-10-04T12:41:00.000Z",
-   "summary": "דיוויד רובינסון, שהוביל את תחום השקיפות בצוות הבטיחות של OpenAI, הודיע על התפטרותו ומזהיר גם הוא כי חברות הבינה המלאכותית אינן נוקטות את אמצעי הזהירות הנדרשים • במקביל, הבית הלבן מקים כוח משימה מיוחד שיבחן בתוך 120 יום את הסיכונים הכרוכים בטכנולוגיה, לצד השאיפה לשמור על ההובלה האמריקאית בתחום",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784201811/shutterstock_2515703279_ncajkz.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
