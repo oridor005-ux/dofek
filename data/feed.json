@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T21:25:48.139Z",
+ "updated": "2026-10-07T21:38:15.775Z",
  "items": [
   {
    "id": "20ffd89e390b",
@@ -12,6 +12,20 @@
    "summary": "People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive Ahmed Ishtaiwi has six chairs. They are cheap and plastic and battered, but they are among the 43-year-old driver and mechanic’s most valuable possessions.…",
    "image": "https://i.guim.co.uk/img/media/0d0f5ae6a7f02c5a92bea298f0d96f41be8a5762/385_0_4402_3521/master/4402.jpg?width=140&quality=85&auto=format&fit=max&s=ee01540be756909131070bbcfb3a1c37",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "52a19d16a94b",
+   "kind": "headline",
+   "title": "GNU has failed to change local coalition politics, report finds",
+   "source": "Daily Maverick",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDJ1R1RjWHJWS21NcGkzMTJlWlk1VElVZXQxdGluRW5aT1lXVHkwU3BYUmEtTW5scEdIWjVCOVk2NVIydk80UXI4ZGl2RmZwZW1aZmZwc0w2RHdaZTZRT21GbnpSU19PS185Sl9EYkh2Mko4SW9HNFdramFYZF9RZ0laY1Zjdw?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T20:51:39.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -82,7 +96,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "KBAK"
+   ],
    "important": false
   },
   {
@@ -221,6 +237,20 @@
    "published": "2026-10-07T18:25:10.000Z",
    "summary": "The U.S. and Greece are launching a joint security program to strengthen counterterrorism information sharing between their law enforcement agencies.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DL7YZRYMNFA2LPLM3G2KCOODUQ.JPG",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9ee5dbb0aa9d",
+   "kind": "headline",
+   "title": "EU Parliament defends secret ballots that kept far right out of top committee jobs",
+   "source": "POLITICO.eu",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTRSMTJOaDJKOWY5VVpYRmRyLU1KTWJ4TWNqYmpydEJ2UldqWFJhRXJQUmM4T3BpdkhKVHZKc2lFcGR6cHkwU0hJR3M1a3FBUWhabWFoSE5SOXlBcXc4NWhZNjk4eEhiVGpvaFhBcVRfVGs1VW5JN3FDM0NvelVvRzU5Smx1c2l4eHdLbVp0Y21fbkF0OGFKN0RscGgzRm9uNGpIYlBYTmdCMzFQWjJSS1hpM2gxdw?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T18:12:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1896,6 +1926,20 @@
    "summary": "נוהל גילוי מרצון של רשות המיסים נגמר ומסתבר שגם משקיעי הנדל\"ן שרכשו נכסים בחו\"ל צריכים להכיר את הנושא. \"ישראלים אוהבים לחשוב שאם שילמו מס בחו\"ל, הסיפור נגמר\". טור שבועי",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/01/02/HypEmD11dp/HypEmD11dp_358_0_1144_644_0_medium.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1fefc4e321c1",
+   "kind": "headline",
+   "title": "Ronaldo walkout, Israel-Ireland tensions and Zidane breezes back as Nations League throws up drama",
+   "source": "Alton Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjNHMGk5UEhZVzlTenNJN09IT0txYmd0T0xhWmFoZzVGalhidkdfTG91M0h6ekxGc3FleXhHM3pZN0V1RkM4SUczUEdMUUVCVkh6dWRsQTlidGxGWjFpeUZnUGJOaTJZM3FveVEyN20yQmRXZUY1dVllNmFYNjBqMEJ3VGJqRDh2OTNQdWRuUC1OMGxIREhBUlA3R1FiRnhFNWc?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-07T08:53:43.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5611,52 +5655,6 @@
    "alsoIn": [
     "en.tempo.co"
    ],
-   "important": false
-  },
-  {
-   "id": "99d46e0cd8ef",
-   "kind": "headline",
-   "title": "CIA: Israel on the verge of civil war – Trump: Iran will destroy Los Angeles and San Diego",
-   "source": "Bankingnews",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU4zaDF5UTJRMHNZTWhjVVVpTjJJUWRzSDdsRC1JelFYa0JSUzFJSlJLYURvUzNVdnNJZEdrSG1TM0pySi1fLXY4d3BVdW0tdl9oT0wtTGQtRjBHZHAzNVRsTUd6MTJmRi0tS3JNS0ZjMzlkUmlPSWpPQXR3UjdRb3VFUV9MZWcwSVRWYTY1Q3JkYmJDSzYyUVREWm14MVRnUG44VEJ6cEpBNjdjTjIxU3ZTYUViN1hYUUl0LUZEVjBDZkplSC1zSlVja0toZHpJRTdz?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T08:25:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "bankingnews.gr"
-   ],
-   "important": false
-  },
-  {
-   "id": "52406c16267d",
-   "kind": "headline",
-   "title": "לראשונה בהיסטוריה: לא יוגש הדו\"ח השנתי של מבקר המדינה",
-   "source": "וואלה כסף",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWmtDZW5OUHN1Y3pabVJWR2xGSGZZZFBXczBxRFN4VUpCU2hsS0hGalRVWExSX3lDcGZONm5ZZXNYTGo4bF9lc0JyTlc3NzdkVHc?oc=5",
-   "topic": "research",
-   "published": "2026-10-06T08:18:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 3,
-   "alsoIn": [
-    "finance.walla.co.il"
-   ],
-   "important": true
-  },
-  {
-   "id": "ee18b14ee2c0",
-   "kind": "headline",
-   "title": "Nigeria mourns as 32 killed when military plane crashes into swamp",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-06T08:16:57.000Z",
-   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e2/live/c7aa3c10-c146-11f1-91a4-9d3e6655f0dd.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
