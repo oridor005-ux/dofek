@@ -3249,10 +3249,21 @@
    "found": "2026-10-07T09:33:27Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693853002637102354.txt"
+  },
+  {
+   "id": "7693858516574031111",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693858516574031111",
+   "caption": "״אני רוצה שיזכרו מליבי שהיא שמש״☀️ #7באוקטובר #נזכורולאנשכח #לאנפסיקל...",
+   "posted": "1791366039",
+   "found": "2026-10-07T09:47:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693858516574031111.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T09:34:03Z",
+  "at": "2026-10-07T09:47:44Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
