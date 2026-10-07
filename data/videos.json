@@ -3336,12 +3336,23 @@
    "found": "2026-10-07T10:35:32Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693795601078750485.txt"
+  },
+  {
+   "id": "7693875297350929684",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693875297350929684",
+   "caption": "עם תמונת בנה ביד, שרה ליאור עמדה בבית המשפט מול הנאשמים בפרשת גניבת צ...",
+   "posted": "1791369943",
+   "found": "2026-10-07T10:48:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693875297350929684.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T10:35:48Z",
+  "at": "2026-10-07T10:48:22Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 1
  }
 }
