@@ -3485,12 +3485,44 @@
    "found": "2026-10-07T12:34:57Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693902639637056789.txt"
+  },
+  {
+   "id": "7693910585171381511",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7693910585171381511",
+   "caption": "הערבים יעזרו ליאיר גולן להילחם במשתמטים, כן כן, ברור🤡",
+   "posted": "1791378162",
+   "found": "2026-10-07T13:05:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693910585171381511.txt"
+  },
+  {
+   "id": "7693910205012167944",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693910205012167944",
+   "caption": "בלי טיפת בושה: ראש עיריית ניו יורק, זוהרן ממדאני, ישתתף ב\"עצרת זיכרון...",
+   "posted": "1791378072",
+   "found": "2026-10-07T13:06:08Z",
+   "status": "failed"
+  },
+  {
+   "id": "7693908462207618324",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693908462207618324",
+   "caption": "למי אתה קורא שקרן?! תומך חמאס מטומטם! Who are you calling a liar?! Yo...",
+   "posted": "1791377669",
+   "found": "2026-10-07T13:06:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693908462207618324.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T12:49:37Z",
+  "at": "2026-10-07T13:07:00Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 3
  }
 }
