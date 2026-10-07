@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65589,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:34.775Z"
+   "checkedAt": "2026-10-07T15:52:05.209Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.5K",
+   "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:35.432Z"
+   "checkedAt": "2026-10-07T15:52:05.871Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:36.034Z"
+   "checkedAt": "2026-10-07T15:52:06.504Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11435,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:36.659Z"
+   "checkedAt": "2026-10-07T15:52:07.148Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19301,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:37.304Z"
+   "checkedAt": "2026-10-07T15:52:07.786Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:37.926Z"
+   "checkedAt": "2026-10-07T15:52:08.425Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54904,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:38.551Z"
+   "checkedAt": "2026-10-07T15:52:09.041Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131525,
+   "lastId": 131526,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:39.185Z"
+   "checkedAt": "2026-10-07T15:52:09.686Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74782,
+   "lastId": 74783,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:39.722Z"
+   "checkedAt": "2026-10-07T15:52:10.232Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:40.352Z"
+   "checkedAt": "2026-10-07T15:52:10.964Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11068,
    "ok": true,
-   "checkedAt": "2026-10-07T15:40:41.078Z"
+   "checkedAt": "2026-10-07T15:52:11.580Z"
   }
  },
  "posts": [
@@ -2608,13 +2608,31 @@
    "date": "2026-10-07T15:39:17+00:00",
    "text": "🔴 אלקנה בוחבוט הקריא \"יזכור\" בטקס לנרצחי הנובה: \"יהיו חתומים בלב ישראל\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131526",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131526",
+   "date": "2026-10-07T15:48:42+00:00",
+   "text": "רויטרס: חזבאללה קיבל מאיראן 200 מיליון דולר כדי לסייע לעקורים לבנונים בעקבות המלחמה עם ישראל השנה.\nהארגון מתכנן להעניק 3,000 דולר לכל משפחה, תוך מתן עדיפות לכ-50 אלף משפחות מכפרים שנהרסו או שאין אפשרות לשוב אליהם.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74783",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74783",
+   "date": "2026-10-07T15:50:05+00:00",
+   "text": "🔴 איזנקוט: \"נתניהו פועל לזיוף האמת - קורא ליועמ\"שית לפתוח בחקירה פלילית\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T15:40:41.478Z",
+  "at": "2026-10-07T15:52:11.981Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 131
+  "added": 2,
+  "pendingNew": 133
  }
 }
