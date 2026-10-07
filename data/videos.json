@@ -3260,12 +3260,34 @@
    "found": "2026-10-07T09:47:16Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693858516574031111.txt"
+  },
+  {
+   "id": "7693863269466934536",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693863269466934536",
+   "caption": "לא נשכח אותם 💔 שלוש משפחות שלמות - כולם נרצחו בשבעה באוקטובר, ללא נצו...",
+   "posted": "1791367147",
+   "found": "2026-10-07T10:02:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693863269466934536.txt"
+  },
+  {
+   "id": "7693860234577759508",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693860234577759508",
+   "caption": "בפתיחת דיון ועדת החוקה: דקת דומייה והקראת פרק תהילים לזכר קורבנות טבח...",
+   "posted": "1791366436",
+   "found": "2026-10-07T10:02:57Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693860234577759508.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T09:47:44Z",
+  "at": "2026-10-07T10:03:12Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
