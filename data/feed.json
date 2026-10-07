@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:02:20.547Z",
+ "updated": "2026-10-07T19:02:40.070Z",
  "items": [
   {
    "id": "a15626b0dc78",
@@ -25,6 +25,20 @@
    "published": "2026-10-07T18:37:06.000Z",
    "summary": "Senator Patty Murray, a former chair of the Senate health committee, is forming a group of experts to examine how to insulate the C.D.C. from political interference.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-murray-health-bqfj/07dc-murray-health-bqfj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "cc885e439bd2",
+   "kind": "headline",
+   "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdElzX2dQYUJoMXJJaWVZRl8xa1UzaDVMOU90M1hvbHBYWUQ1WG9CV3F2Sm81RE5LQjZOZldyUGdWUE5JUlpCbDAtOGxHbk1vLVlkLU5fbENwRTh1bW1IMkphUGRIa2lvQ09rV0ZFZTN1VmtoT0p2dnlFSFlXZnQ1Nkota0E3UkxzRmRnSGFKeU1oX1EyakhHMkI0WWVtSFN0?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T18:36:08.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -210,6 +224,20 @@
    "score": 1,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "e329af38a0f0",
+   "kind": "headline",
+   "title": "דוח הלמ\"ס חושף: זו העיר הגדולה שמובילה את שיא ההגירה השלילית בישראל",
+   "source": "חדשות 04",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MQ1hoSTZ2YUNqOEU5bmxIOEtZSzlBTVVWcWxiSlpBM1dxTUI2aXdjdFo4TVhTb1FMd3hlMUxuQVRaeFpsV0pXeEVB?oc=5",
+   "topic": "demo",
+   "published": "2026-10-07T16:58:42.000Z",
+   "summary": "",
+   "image": "",
+   "score": 5,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "c21221469bff",
@@ -5635,37 +5663,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "572a20522c05",
-   "kind": "headline",
-   "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-   "topic": "world",
-   "published": "2026-10-06T07:11:56.000Z",
-   "summary": "Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-trump-strikes-mflg/06xp-trump-strikes-mflg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e4e0b75307bb",
-   "kind": "headline",
-   "title": "Indonesian parliament agrees higher severance benefits in new labour law",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGw5RkJGMnJWVG5aMElTWHV6NDdBTFk4VW9sQkc0NDljT0g4ZFhSY2ozMGFoTTdUV0hUZElzZFUySmFFUERJNVlCMDRCTlJ3NUJILUlHUUVjRGRWanpBWkN3U1BGckpsRmZ2eU1oY0paUmVTU1Iwd29TQjR6RTA1RUtZNk9ETUxuYnQ0anl5ekdINHNJM0pXYkNHcGM0UnJieHptNVBfdmlrbGxhSEk5YVFhaS1uWFhNdjJxaW9RcjhyZw?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T07:08:23.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "reuters.com",
-    "The Business Times"
-   ],
    "important": false
   }
  ]
