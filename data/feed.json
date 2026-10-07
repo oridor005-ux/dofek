@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T03:45:55.413Z",
+ "updated": "2026-10-07T03:57:26.072Z",
  "items": [
   {
    "id": "76408fbf2723",
@@ -39,6 +39,76 @@
    "published": "2026-10-07T03:00:00.000Z",
    "summary": "מיזם שחר, מערך חינמי שמסייע למשפחות שכולות לצלוח את הבירוקרטיה הסבוכה כדי להגיע לכספים שהותירו יקיריהן, הוקם להנצחת רס\"ן שחר בוזגלו ז\"ל שנפל בעזה • \"החזון הוא לפתוח את עולם הפיננסים לאנשים\", אומר המייסד",
    "image": "https://res.cloudinary.com/globes/image/upload/v1781184440/direct/2-3-800_lbidlf.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ff2fd1f41408",
+   "kind": "headline",
+   "title": "300 מיליארד שקל בפנסיה כמעט ללא פיקוח: \"נקודת העיוורון\" של רשות שוק ההון",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558588#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T03:00:00.000Z",
+   "summary": "כשהיקף ההשקעות האלטרנטיביות בידי המוסדיים כבר עומד על מאות מיליארדי שקלים, ברשות פועלים להפוך את חובת ביצוע הערכת השווי לנכסים משנתית לרבעונית • סגן הממונה על שוק ההון באזהרה למוסדיים: \"בלי שיערוך רבעוני, תבחנו כדאיות ההשקעה בקרן פרטית\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791292555/%D7%90%D7%A1%D7%A3_%D7%A0%D7%97%D7%9E%D7%A0%D7%99_%D7%90%D7%99%D7%9B%D7%95%D7%AA_%D7%92%D7%91%D7%95%D7%94%D7%94_lczh2h.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7b61516bb15d",
+   "kind": "headline",
+   "title": "פרדוקס בבורסה: מדד ת\"א 125 עלה יפה השנה, אבל רוב המניות בו דווקא ירדו",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558580#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T03:00:00.000Z",
+   "summary": "למרות שאחד ממדדי הדגל של ת\"א עלה בשיעור דו־ספרתי, רוב המניות הכלולות בו רשמו תשואה שלילית ומספר המניות שירדו בבורסה מתחילת השנה כפול מאלו שעלו • המומחים חלוקים בפרשנות לתופעה, בין \"עדות לשבריריות השוק\" לבין \"היופי בשוק שיש בו סלקטיביות\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791294963/800_grfwh0.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "dcb4190b86b9",
+   "kind": "headline",
+   "title": "3 שנים ל־7 באוקטובר: הדרום מתאושש, בצפון ממתינים לממשלה הבאה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558614#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T03:00:00.000Z",
+   "summary": "היקף הנזקים הישירים עומד על פי נתוני רשות המסים על למעלה מ־8 מיליארד שקל בשלוש שנים, אך צלילת עומק לנתונים מגלה פערי שיקום משמעותיים בין הדרום לצפון • מהפעילות העסקית ועד החזרה לבתים: מה מלמדים הנתונים ?",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1705249633/direct/234e6cbe-df48-4057-b588-31e258c75137_ic1d0p.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "18cf4af3fd46",
+   "kind": "headline",
+   "title": "הכלכלה הישראלית צלחה את המלחמה. המבחן הגדול יגיע בהמשך",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558609#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-07T03:00:00.000Z",
+   "summary": "המשק הישראלי הפגין חוסן מפתיע בזמן המלחמה, בין היתר בזכות הזרמות כספים ודחיפה ממנוע ההייטק • ואולם, הזינוק בגירעון וביחס החוב&ndash;תוצר ושחיקת כריות הביטחון חושפים סדקים בכלכלה ומעמידים בסכנה את העמידות בפני המשבר הבא",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1757259414/direct/%D7%90%D7%9E%D7%99%D7%A8_%D7%99%D7%A8%D7%95%D7%9F_%D7%95%D7%A1%D7%9E%D7%95%D7%98%D7%A8%D7%99%D7%A5-800_ygzrtd.png",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5cd302cae98f",
+   "kind": "headline",
+   "title": "הסכסוך בצמרת אלרון: בעלי השליטה החזירו להפניקס בית השקעות \"סכום נכבד\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558584#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-07T03:00:00.000Z",
+   "summary": "בצל הסכסוך בין חברי קבוצת אריאלי השולטת באלרון, מדווחת החברה כי אריאלי שילמה חלק מהחוב להפניקס, שמימן עבורה את רכישת השליטה, וקיבלה דחייה בפירעון החוב",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791288099/%D7%9C%D7%99%D7%A1%D7%99%D7%94_%D7%91%D7%9B%D7%A8_%D7%9E%D7%A0%D7%95%D7%97_%D7%95%D7%99%D7%A0%D7%99%D7%91_%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8_1._%D7%91%D7%90%D7%93%D7%99%D7%91%D7%95%D7%AA_%D7%90%D7%9C%D7%A8%D7%95%D7%9F_tjfzfw_rshryk.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5711,85 +5781,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6469610b44fc",
-   "kind": "headline",
-   "title": "Three years of genocide: US public support for Israel erodes over Gaza atrocities",
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFBnRVpzeVB0aElOX2ZHa0JFa0xPTkZOb0NMN2V2UE1sTGJMN0NBSVM2bDlRRFZYWWFPMmFkTmxQZXY4OGFfZVhGOS1WVGFVd1h3alo1OFNOZmo4SFY3SkxLMGlKeEk0MVlvSmlZaUZBUXFBcmtzSktWNmc3N1V5SlAxRk1pZ3NCTWlUUXF0SnZBXzMwZkVxSG9aSmllalVRRDhxT3lEMU9JeW9XYXgwcEFwa1B1LVRkRnJzZVVDQQ?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T10:50:05.000Z",
-   "summary": "",
-   "image": "",
-   "score": 3,
-   "alsoIn": [
-    "aa.com.tr"
-   ],
-   "important": true
-  },
-  {
-   "id": "a7cc190d2ee3",
-   "kind": "headline",
-   "title": "אקסנצ׳ר תשקיע 5 מיליארד דולר ברכישות",
-   "source": "israeldefense.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CdXBvSzNBYUlCRzNyVFN5WHoySmMtUExFc3dMV3ZvSnZtQnkzYnVyYTRTcTZiX1o1UExNZDV6em5rTXFGQ0FDYkUyNWlrdUdaNG4yMQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T10:45:01.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "55a3e9f04ddc",
-   "kind": "headline",
-   "title": "42,886 שקל לחודש: השכר במקצוע המבוקש במשק יורד בכ-5,000 שקל",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wNGtmQjJxZEFENFY2dUVGazFJYVdjdjE2eFhFM0NmWkMtOEtaWTBZR1JJbERFNkE3QzdLNV9aa3BxcGQ5a3BmWnFQRml5Nm5mNnhWTXZ3UU9yTjRqXzBORmR0dVhjQQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T10:40:33.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "maariv.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "1f019c33cc44",
-   "kind": "headline",
-   "title": "הסטארטאפ הישראלי בעסקת ענק: רוכש שתי חברות ב-25 מיליון דולר",
-   "source": "ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCRnFCLUh2OEgzWHFXa3hzaExubjZYTmd1NmxmaVVqQWtiWWJIa2ZjbHl2c3lJbGVNSkdZMGFFY1JyQTYzY3JRTUk1dTB3T0xYbXhnUmlDSWQzZFBGQjc4?oc=5",
-   "topic": "deals",
-   "published": "2026-10-05T10:38:37.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "ice.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "44e278e6f022",
-   "kind": "headline",
-   "title": "חדשות 04 - הניקיי חזר מעל 70 אלף נקודות לראשונה מאז יולי, והנפט נסוג לכ-101 דולר",
-   "source": "0404",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VOHIyeEFSaWlyNG9VNzloYmZvT0xPcEJmU3hveGN4UTV1eXZPTnZvRE1GM1p2MnBodU4tcm5HQThQUHZtWGRGenNR?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T10:37:25.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "חדשות 04",
-    "0404.co.il"
-   ],
    "important": false
   }
  ]
