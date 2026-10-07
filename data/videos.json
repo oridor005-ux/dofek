@@ -3195,10 +3195,21 @@
    "found": "2026-10-07T08:31:17Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693827886826179847.txt"
+  },
+  {
+   "id": "7693841648689679637",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693841648689679637",
+   "caption": "שלי משל-יוגב, אימה של ליבי כהן מגורי ז\"ל, הגיעה למקום בו היא נ%צחה וס...",
+   "posted": "1791362109",
+   "found": "2026-10-07T08:47:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693841648689679637.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T08:31:49Z",
+  "at": "2026-10-07T08:47:15Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
