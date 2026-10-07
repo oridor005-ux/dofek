@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T05:44:44.216Z",
+ "updated": "2026-10-07T05:57:05.486Z",
  "items": [
   {
    "id": "751b42880bd2",
@@ -40,6 +40,20 @@
    "summary": "Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own investigation into the flydubai co-pilot who allegedly tried to hijack an Israel-bound plane, after…",
    "image": "https://i.guim.co.uk/img/media/3896ca0479fed88b7e5394212443180d14b75745/406_0_4058_3249/master/4058.jpg?width=140&quality=85&auto=format&fit=max&s=24786e441b88b90a8eaea56a24fda646",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "92399c02107e",
+   "kind": "headline",
+   "title": "Netanyahu and his opponents are putting Oct. 7 at the heart of Israel's elections",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZS1HRjczT0VyamQ0dkZpTnRKckZCRkFjeXkzbWxiNnZtV1lMS3FBUjNzcWUyOFBNSzF3aUo4MEZvZzRhTVcyd1M2Y01CYnhsWi13eUhvTTRMeDByNFRISU5XRkY1SlgtZUVHc1NmNUpXRDluSGhZTDJOUzhBbTk1azk1OXBOcDFFRUJjZFlHVHpuWndxU1hnVjZoa01xUDV3WDVJcEplUWxaajlkYjZfTWw0Zl95MjF6Q3ZRNVROOXJMZjY2aHRHRDdtRS1Ld2ZFNHQ3cA?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-07T05:24:55.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -110,6 +124,20 @@
    "summary": "למרות שרשות התחרות הסירה את התנגדותה לעסקת הענק של ניו-מד ורציו מול תחנות הכוח החדשות של יצרנית החשמל דליה, בניו-מד מתקעשים שהעסקה מבוטלת • מנגד, בדליה מתעקשים שההסכם בתוקף: \"עמדת החברה היא כי הודעת הביטול ניתנה שלא בהתאם להוראות ההסכם והדין\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790516849/800_dqv9us.jpg",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8c2c9e7c6676",
+   "kind": "headline",
+   "title": "עלייה מתונה בדולר, נסחר מעל 3.05 שקלים",
+   "source": "calcalist",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hbWVYZ1Y4MXhseXVUMVlaMjJYM1ljbXdvWHZDN2Nia094b295RHRpXzh1VEJDRXdBUnFpblRubHB3NUNmbXRpVjd3dXJmOVJOaEtBVzVUSVBBWW5zUWVzRHBn?oc=5",
+   "topic": "econ",
+   "published": "2026-10-07T04:04:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -970,6 +998,20 @@
    "important": false
   },
   {
+   "id": "8e350d341ba1",
+   "kind": "headline",
+   "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+   "topic": "world",
+   "published": "2026-10-06T18:23:51.000Z",
+   "summary": "A Saudi-led coalition launched a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.",
+   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-saudi-yemen-wtk-1-jbvq/00int-saudi-yemen-wtk-1-jbvq-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "71c320a9e885",
    "kind": "headline",
    "title": "Six O'Clock News | French police fire tear gas at school protesters",
@@ -1532,6 +1574,20 @@
    "score": 5,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "cb4c474f8193",
+   "kind": "headline",
+   "title": "בורסת ת\"א: נקסט ויז'ן צנחה ב-12.7% אחרי חשיפת כלכליסט, מניות הביטוח איבדו 2.3%",
+   "source": "calcalist",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hQVBtd3FDRDM4bkpBNUVOZlI2ODdBV0MzOHBiS1A3djJ4dU90aEJHd0FaQUVDdE5uMUQ5V2JKSy03WGxCWEFudUU5WWFxc3BVeEx2QVZhUTlHR3RCOXZ3NVFR?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T14:49:44.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "7a08975e441d",
@@ -5697,68 +5753,6 @@
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/22/HySUS5U6be/HySUS5U6be_0_563_3000_1688_0_medium.jpg",
    "score": 2,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "be16ceabb5a8",
-   "kind": "headline",
-   "title": "What the first Results showed us: SBiH is the biggest Winner of the Election, DF and Our Party the biggest Losers",
-   "source": "Sarajevo Times",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdHZMdzV1bDVZLU8wMzZRM1ZQRmFXUTB5QldEOU5wWmRoUlFpdVJiNlNYY09jQV96UkdlUUQ4azlrTEZaS3o0bWl0TXIyMU1DVVJZZTh5Z1gwSUFiU1NXQ1NoSDMxTmVCZXp2SWhFSzViR1ZvQmVKV0pEVTZ0TFgtUGZqX3J3MGdTVGZucmhlY0xTQzRjaTFQZnhPZGdmS3VzbmNUek15cEVac1FESjR6X0RtNHlhU1hqWUU4bUxSTWR2LUVjS0hJRGdWUTRCLWozQ010NNIB1AFBVV95cUxNdHZMdzV1bDVZLU8wMzZRM1ZQRmFXUTB5QldEOU5wWmRoUlFpdVJiNlNYY09jQV96UkdlUUQ4azlrTEZaS3o0bWl0TXIyMU1DVVJZZTh5Z1gwSUFiU1NXQ1NoSDMxTmVCZXp2SWhFSzViR1ZvQmVKV0pEVTZ0TFgtUGZqX3J3MGdTVGZucmhlY0xTQzRjaTFQZnhPZGdmS3VzbmNUek15cEVac1FESjR6X0RtNHlhU1hqWUU4bUxSTWR2LUVjS0hJRGdWUTRCLWozQ010NA?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T13:30:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "sarajevotimes.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "8e350d341ba1",
-   "kind": "headline",
-   "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
-   "topic": "world",
-   "published": "2026-10-05T13:29:52.000Z",
-   "summary": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.",
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-saudi-yemen-wtk-1-jbvq/00int-saudi-yemen-wtk-1-jbvq-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b8e5cd2a249c",
-   "kind": "headline",
-   "title": "Spain’s polarised politics could ensure another term for Pedro Sánchez",
-   "source": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzZyNGlqRzdjaTNhamo5Ny1XdnhERGFDMUx0T05kXzg2UUpDUHc0YkV6bk9BQmRyM1hhZnFBNEEyYzZEaV9fZWZMaWkxYkVqMV9IMVVQZzRvdWk1S2RKbmdKY0tfa0VYTkJqZE9sQXVBeUZkMW1LWkp0b1ZjaXlJTUdGLXJtOXpjYnM1aGQ3MnFhMW5FUTFwLVZLZDZKMGgx?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T13:28:05.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "thetimes.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "709d8f9adee9",
-   "kind": "headline",
-   "title": "Bou Saab after electoral law session: Atmosphere positive and there's complete openness",
-   "source": "Naharnet",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDVBOUg2Q1BJeExvbjlheVRjcEl4NDMyU2RRODR0Z2NyMVY3XzBIWXk3RjJoVmhwZTR2S0xfUWRXRlFqS0dtdGZWVEN4Y1k5Q1dSejRsRGpKTmhMaXhJX2FORXpkMnBsblpFajNTLTR6M1o4YVd1MTRHMTBuZGh4eDIzX1d4YXNJQ2NJVzJ4cjlNd245bXNSbWNvaWpCSVY3ZEs4bGEwdG5ZaFluRWZpMU82MXduYlpZU2ZDWU03eTRNYVBMeXh2NQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T13:22:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "naharnet.com"
-   ],
    "important": false
   }
  ]
