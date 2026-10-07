@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-07T16:03:17.022Z",
+ "updated": "2026-10-07T16:15:47.838Z",
  "items": [
+  {
+   "id": "ae49e4397dff",
+   "kind": "headline",
+   "title": "אנרכיה בעזה: \"זה כאוס שחמאס מנהל אותו\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558666#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T16:11:00.000Z",
+   "summary": "דיווח: חיזבאללה קיבל מאיראן 200 מיליון דולר בחודש שעבר • למרות ההבטחות שארגון הטרור חמאס יתפרק מנשקו, העדויות שמגיעות ל-N12 חושפות מציאות מדאיגה • סגן נשיא ארה\"ב ג'יי.די ואנס פיקפק בכוונות האמיתיות של משטר האייתוללות: \"אם אתם לא רוצים נשק גרעיני - אז למה אתם צריכים דלק מועשר ב-60%?!\" &bull; החות'ים…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779178822/direct/AP26135341865397_megofh.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3919e824784d",
+   "kind": "headline",
+   "title": "הדאו ג'ונס נופל; תשואת האג\"ח ל-10 שנים עולה לרמה הגבוהה ביותר מזה 24 שנים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T16:11:00.000Z",
+   "summary": "יום לאחר שמדד ה-S&P 500 נגע בשיא כל הזמנים, המגמה בוול סטריט מתהפכת בחדות • וול סטריט מתנהלת בירידות שערים; מניות הטכנולוגיה סופגות מימושים, מניות התחבורה בדרך לשוק דובי • מדד המניות הקטנות מתקרב לטריטוריה של תיקון • אירופה ננעלה באדום עמוק בצל החששות הכלכליים • הנפט חוזר למעל 101 דולר; מורגן סטנלי…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "96984f0e26a1",
+   "kind": "headline",
+   "title": "Germany's AfD faces difficulty forming government after Saxony-Anhalt election win",
+   "source": "Baltic News Network",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVI1YnNjeDV5Qkd6SjJBTmUycWVnWE4tVy1hcEhQMm1kNERVaDlSYmVGQ05sYlNKekVZQURGWktDTDQwQTVoNDktOWdsQ1VIRy1zUXgtdGJNYjF0OFVWa1JwbUVUSEQtQi1GTU5tOTdpcVVEeG5iaFF4ZkowVnhvSkw3Nk11ak4yVVlDZ3kzdl9ERUpsYmRLTWlKcGttTkR2eEZObjVRVGFwYW9COFEwMG1uT3NqNlgx?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T15:57:54.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e54382cc2d46",
+   "kind": "headline",
+   "title": "סיכום המסחר בבורסה: השוק בצניחה, נקסט ויז'ן צוללת ב-23% ביומיים",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBka0h5S25pZGRob2JiV2RxWGcwdWFkQ3pfMGJJai1VX0R3Q3dnTk9PeDN1ZlZhbzJmVVJxYTJNR1pCTUlUQmg1SGp5d3NCMVo4Z3ZhNDdHMWhpNUhfYTI0?oc=5",
+   "topic": "econ",
+   "published": "2026-10-07T15:38:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "dcee002e9c17",
    "kind": "headline",
@@ -152,7 +208,9 @@
    "summary": "מניות הביטוח והחברות הביטחוניות הורידו את הבורסה, והמדדים המובילים צנחו ביותר מ-2%. נקסט ויז'ן צללה ביומיים ב-23%",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/24/H18dRX36F/H18dRX36F_0_0_1000_562_0_medium.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "YNET"
+   ],
    "important": false
   },
   {
@@ -5614,62 +5672,6 @@
    "published": "2026-10-06T05:23:36.000Z",
    "summary": "אחרי חודשים שבהם הוויכוח סביב בינה מלאכותית עבר מהשאלה כמה מהר המודלים משתפרים לשאלה האם בכלל ניתן לשלוט בהם, אנבידיה (NVDA) מציגה תשובה משלה: לא להאט את הפיתוח - אלא לבנות שכבת אבטחה שתפקח על הסוכנים בזמן אמת ותעצור אותם אם הם חורגים מהכללים. החברה חשפה את Open Agent Safety Platform, מערכת חדשה…",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/SkvFXZzoMe/SkvFXZzoMe_0_8_512_289_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2a51e198a583",
-   "kind": "headline",
-   "title": "מהן 5 הטעויות הנפוצות שסוחרים עושים - ואיך להימנע מהן?",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/interactive/wallstreet/article/9ry8s8vhp",
-   "topic": "research",
-   "published": "2026-10-06T05:21:14.000Z",
-   "summary": "גם סוחר שמכיר גרפים, חדשות ודוחות כספיים יכול להפסיד אם הוא פועל בלי תוכנית, לוקח סיכון גדול מדי או נותן לרגש לנהל את העסקאות. רבות מהטעויות במסחר אינן קשורות דווקא ליכולת לחזות את כיוון השוק, אלא לאופן שבו מנהלים פוזיציה לפני הכניסה, בזמן העסקה ואחרי שהשוק מתחיל לזוז. אלה חמש מהטעויות הנפוצות…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/r1yY7bMoMl/r1yY7bMoMl_0_32_512_289_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "de706eeb6f31",
-   "kind": "headline",
-   "title": "South Korea Investigates Possible Use of A.I. in Hacks on Its Banks",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-   "topic": "world",
-   "published": "2026-10-06T05:18:56.000Z",
-   "summary": "The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-skorea-ai-jkbg/06xp-skorea-ai-jkbg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ca5868550ad3",
-   "kind": "headline",
-   "title": "מהם היתרונות של תיק השקעות מגוון ואיך אפשר לבנות תיק כזה? - המדריך המלא",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/interactive/wallstreet/article/aorzoxlqi",
-   "topic": "econ",
-   "published": "2026-10-06T05:18:21.000Z",
-   "summary": "מניה אחת יכולה לזנק ולהרים תיק שלם - אבל היא גם יכולה לעשות בדיוק את ההפך. לכן אחד העקרונות הבסיסיים בעולם ההשקעות הוא פיזור: חלוקת הכסף בין מספר חברות, סקטורים, מדינות וסוגי נכסים, כך שהתיק לא יהיה תלוי בתרחיש אחד בלבד. אלא שפיזור אמיתי הוא הרבה יותר מהחזקה של מספר גדול של מניות. אז איך בונים תיק…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/SJEDQbMoMg/SJEDQbMoMg_0_0_1376_768_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bfc64bc14a49",
-   "kind": "headline",
-   "title": "SNP pressed for detailed plans after dropping disability law",
-   "source": "The Herald",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd19oejlyOWVxY01HZElaTzJOUjBGcldueWNHV3h2VTRxTXdtLVhSd2hLOG9CRHRJOVNESVBjLU1wVkZNTlMtdXV0bjRzWTh0c1d1RFVfWk5Ub3ZCZ1BfZE1DU1R2N1Q4cGdLN2ExWElWNVNNRkVRZmp1RkFldUxFUTZ2dHdDRXlPSXZwempzOE5DV3hKVUhtM1JOXzM?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T05:04:15.000Z",
-   "summary": "",
-   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
