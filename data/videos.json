@@ -3662,12 +3662,34 @@
    "posted": "1791382326",
    "found": "2026-10-07T14:21:21Z",
    "status": "failed"
+  },
+  {
+   "id": "7693937970155474197",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693937970155474197",
+   "caption": "מלי וליאל יהלומי נחתו היום בישראל, לאחר שעזבו את הארץ בחודש אוגוסט וא...",
+   "posted": "1791384536",
+   "found": "2026-10-07T14:51:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693937970155474197.txt"
+  },
+  {
+   "id": "7693935309192432916",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693935309192432916",
+   "caption": "לא ניתן להם לשכתב את ההיסטוריה!",
+   "posted": "1791383916",
+   "found": "2026-10-07T14:52:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693935309192432916.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T14:36:14Z",
+  "at": "2026-10-07T14:53:02Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
