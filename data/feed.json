@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T14:39:43.367Z",
+ "updated": "2026-10-07T14:51:56.517Z",
  "items": [
+  {
+   "id": "27660050f9a9",
+   "kind": "headline",
+   "title": "הבורסה בתל אביב ננעלה בירידות חדות",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/hkbj067jzg",
+   "topic": "econ",
+   "published": "2026-10-07T14:40:48.000Z",
+   "summary": "מניות הביטוח והחברות הביטחוניות הורידו את הבורסה, והמדדים המובילים צנחו ביותר מ-2%. נקסט ויז'ן צללה ביומיים ב-23%",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/24/H18dRX36F/H18dRX36F_0_0_1000_562_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "be9eb7f5808a",
    "kind": "headline",
@@ -5664,22 +5678,6 @@
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05biz-china-currency-01-hwjm/05biz-china-currency-01-hwjm-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "38db74c54ef0",
-   "kind": "headline",
-   "title": "War and tariffs: How foreign policy is impacting the midterms - Christian Science Monitor",
-   "source": "Christian Science Monitor - CSMonitor.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1I3Z2ZfTGM2THJYTVpoVi1EUVdtRnNLT3B0eV9LVG5mMEY0TU9lOENUWDdpSWY1S0dlQWhrUnNLRVBad01idjdHMTRnUVdSVGljTFRpeVZHdGJWanRLTFJrSWhyTjhzcnNJWlhaMk51eDRMczdsbWZiQUJNUHBFUzhRWGFnRWhUdXBiWGRnT2RnTDYtZERnSzRKcEg3UQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T04:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "csmonitor.com"
-   ],
    "important": false
   }
  ]
