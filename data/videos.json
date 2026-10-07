@@ -4044,12 +4044,23 @@
    "found": "2026-10-07T20:28:39Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694022124268195093.txt"
+  },
+  {
+   "id": "7694052698227739911",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694052698227739911",
+   "caption": "\"אני לא רואה את העתיד שלי בטלוויזיה לנצח\" אראל סג\"ל מספר איך המלחמה ש...",
+   "posted": "1791411250",
+   "found": "2026-10-07T22:24:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694052698227739911.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T22:09:38Z",
+  "at": "2026-10-07T22:24:49Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
