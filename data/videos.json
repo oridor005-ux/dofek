@@ -3520,10 +3520,43 @@
    "found": "2026-10-07T13:06:50Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693908462207618324.txt"
+  },
+  {
+   "id": "7693914144738675989",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693914144738675989",
+   "caption": "שלוש שנים אחרי שאחותה מפל אדם נרצחה במסיבת הנובה, מעיין אדם משתפת בחש...",
+   "posted": "1791378992",
+   "found": "2026-10-07T13:19:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693914144738675989.txt"
+  },
+  {
+   "id": "7693914316143267093",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693914316143267093",
+   "caption": "3 שנים לשבעה באוקטובר - זוכרים את אופיר ליבשטיין 💔",
+   "posted": "1791379029",
+   "found": "2026-10-07T13:20:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693914316143267093.txt"
+  },
+  {
+   "id": "7693912008667778356",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693912008667778356",
+   "caption": "",
+   "posted": "1791378490",
+   "found": "2026-10-07T13:22:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693912008667778356.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T13:07:00Z",
+  "at": "2026-10-07T13:22:28Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 3
