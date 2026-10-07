@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T06:32:39.489Z",
+ "updated": "2026-10-07T06:44:10.193Z",
  "items": [
+  {
+   "id": "e70336af31ad",
+   "kind": "headline",
+   "title": "France’s Economy Is Trapped in a Negative Feedback Loop",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/pro/cybersecurity/frances-economy-is-trapped-in-a-negative-feedback-loop-509598a9?mod=rss_socialeconomyfeed",
+   "topic": "world",
+   "published": "2026-10-07T06:34:00.000Z",
+   "summary": "The French government desperately needs a return to strong growth if it is to contain its rapidly rising debts.",
+   "image": "https://images.wsj.net/im-31231085",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "69fde34a6779",
    "kind": "headline",
@@ -5738,20 +5752,6 @@
    "alsoIn": [
     "reuters.com"
    ],
-   "important": false
-  },
-  {
-   "id": "e3f0d50a0057",
-   "kind": "headline",
-   "title": "What are the preliminary results of BiH’s general elections?",
-   "source": "European Western Balkans",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVdWSF9JY0xWNjJRYzZJcEg3WkRmUGdIY1p5VDcwZUVPYVFjdElOUThFWURYOUk1ekx4WE5vR080eHFQRXE3ZGROenZMT3hRQ3lmVmhJXzQ2U3ROSUhlMEdaMEpldDM3SGEzTDFvc3hqemJ2UGljd2lNa2g5OGxKb0tSTkRRcmZNS0sxUlpFVWRsbXhUeDVXUldOZThjMEFvc2JNWGZ3Rms?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T14:11:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
