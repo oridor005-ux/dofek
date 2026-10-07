@@ -3119,12 +3119,34 @@
    "found": "2026-10-07T07:01:01Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693813369018535188.txt"
+  },
+  {
+   "id": "7693819023737244935",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693819023737244935",
+   "caption": "\"הרגשתי שהקב\"ה שומע אותי - זה היה שווה כל רגע\": אימו של שורד השבי בר ...",
+   "posted": "1791356844",
+   "found": "2026-10-07T07:15:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693819023737244935.txt"
+  },
+  {
+   "id": "7693759685459021064",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693759685459021064",
+   "caption": "התמונות הקשות מהנובה מתחילות להגיע ושרון - שיצא לחפש את בנו במתחם המס...",
+   "posted": "1791357300",
+   "found": "2026-10-07T07:16:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693759685459021064.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:01:27Z",
-  "channelsOk": 22,
-  "channelsFail": 1,
-  "transcribed": 1
+  "at": "2026-10-07T07:16:31Z",
+  "channelsOk": 23,
+  "channelsFail": 0,
+  "transcribed": 2
  }
 }
