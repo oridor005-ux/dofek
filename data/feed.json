@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-07T14:27:52.435Z",
+ "updated": "2026-10-07T14:39:23.665Z",
  "items": [
+  {
+   "id": "866ce8279024",
+   "kind": "headline",
+   "title": "הבורסה ננעלה בירידות חדות; ת\"א 90 בשפל של יותר משנה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T14:31:00.000Z",
+   "summary": "כלל הסקטורים בבורסה נסחרים באדום מלבד ת\"א מזון • מניות השבבים הדואליות מאבדות גובה • יצרנית המצלמות הרחפנים נקסט ויז'ן ממשיכה לספוג לחצים אחרי מימוש הענק של פידליטי • מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים, על רקע דיווח שאיראן מגבירה את התקיפות במצר הורמוז • במקביל: ירידות באירופה ובוול סטריט",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1744793416/COT_Pic/807_ypklng.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "59a0fc5daabb",
+   "kind": "headline",
+   "title": "המדינה בונה על 2 מיליארד שקל מהייטקיסטים. במוקד: מודל האופציות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558737#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-07T14:30:00.000Z",
+   "summary": "צוות מיוחד של משרד האוצר ורשות המסים מגבש תיקון חקיקה שיחייב עובדי הייטק לממש את האופציות שקיבלו מיד בתום תקופת ההבשלה, או שידרשו לשלם מס גבוה יותר בהמשך • באוצר מקווים שהמהלך יכניס למדינה עוד כ&ndash;2 מיליארד שקלים בשנה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785940128/800_rwdn9w.png",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "78b193a57dc3",
    "kind": "headline",
@@ -5652,34 +5680,6 @@
    "published": "2026-10-06T03:04:00.000Z",
    "summary": "לפני כשנה המליץ שמואל בן אריה מפיוניר על טבע ומניות הביטוח, וקצר תשואות פנומנליות של עד 120% • כעת הוא מעריך שהבורסה המקומית מיצתה את מהלך העליות ומציע לעבור בעיקר לשוק האמריקאי • וגם: מניית המיגון שצפויה לדעתו לעלות בעשרות אחוזים",
    "image": "https://res.cloudinary.com/globes/image/upload/v1791210339/%D7%AA%D7%99%D7%A7_%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA_800_1_prr4tr.png",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "69496b9ef9ec",
-   "kind": "headline",
-   "title": "בעלי החברה הביטחונית מכר מניות בשיא והמוסדיים הפסידו כרבע מיליארד שקל",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558460#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T03:02:00.000Z",
-   "summary": "בתחילת השנה מכר צבי לוי, בעל השליטה בארית, נתח של 7% ממניותיו ביצרנית המרעומים משדרות תמורת 400 מיליון שקל • אלא שמאז צנחה המניה במעל 70%, על רקע ירידה בתוצאות ולמרות הכרזה על דיבידנד גדול, והסבה לרוכשים, בהם מנורה, הפניקס ומור, הפסד משמעותי",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1774795830/COT_Pic/800_gykfp6.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "7e5d08191f78",
-   "kind": "headline",
-   "title": "המשקיע הצ'יליאני שהרוויח הון ממניות סמארט שוטר אך הצליח פחות ביתר השקעותיו בישראל",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558465#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T03:01:00.000Z",
-   "summary": "אלחנדרו ויינשטיין מימש את השקעתו בחברה הביטחונית ב&ndash;58 מיליון שקל וברווח יפה, אך מופסד במניות פלורי וגאוזי שרכש",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791209588/%D7%90%D7%9C%D7%97%D7%A0%D7%93%D7%A8%D7%95-%D7%95%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_upztyu.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false

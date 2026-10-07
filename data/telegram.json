@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65588,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:39.850Z"
+   "checkedAt": "2026-10-07T14:28:12.757Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:40.526Z"
+   "checkedAt": "2026-10-07T14:28:13.399Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:41.191Z"
+   "checkedAt": "2026-10-07T14:28:14.015Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11431,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:41.872Z"
+   "checkedAt": "2026-10-07T14:28:14.647Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19301,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:42.563Z"
+   "checkedAt": "2026-10-07T14:28:15.278Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:43.206Z"
+   "checkedAt": "2026-10-07T14:28:15.960Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:43.858Z"
+   "checkedAt": "2026-10-07T14:28:16.590Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131521,
+   "lastId": 131522,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:44.565Z"
+   "checkedAt": "2026-10-07T14:28:17.268Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74773,
+   "lastId": 74775,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:45.145Z"
+   "checkedAt": "2026-10-07T14:28:17.817Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:45.821Z"
+   "checkedAt": "2026-10-07T14:28:18.445Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11068,
    "ok": true,
-   "checkedAt": "2026-10-07T14:16:46.544Z"
+   "checkedAt": "2026-10-07T14:28:19.262Z"
   }
  },
  "posts": [
@@ -2453,13 +2453,40 @@
    "date": "2026-10-07T14:10:26+00:00",
    "text": "🔴 עקב המשבר עם האמירויות: בוטלו כל טיסות החילוץ מדובאי היום ומחר \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131522",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131522",
+   "date": "2026-10-07T14:18:08+00:00",
+   "text": "הבדל בולט שאני שם לב היום ב 7.10.26 לעומת 7.10.25 ברשתות החברתיות:\nהפך הרבה יותר מקובל לתמוך בטבח שעשתה חמאס ב 7.10 מאשר בעבר.\nגולשים כבר לא מתאמצים להסתיר שהם תומכים בחמאס ובטבח. לא חוששים שהרשתות החברתיות עצמן יצנזרו את התמיכה בטבח.\nמנרמלים את הטבח.\n3 תגובות",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74774",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74774",
+   "date": "2026-10-07T14:21:11+00:00",
+   "text": "🔴 ייערך מחר תרגיל בנמל התעופה בהרצליה, תורגש תנועה ערה של כוחות חירום\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74775",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74775",
+   "date": "2026-10-07T14:23:41+00:00",
+   "text": "🔴 תוקנה התקלה באפליקציית וולט \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T14:16:46.944Z",
+  "at": "2026-10-07T14:28:19.663Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 114
+  "added": 3,
+  "pendingNew": 117
  }
 }
