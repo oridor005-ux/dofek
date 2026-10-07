@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T00:58:59.590Z",
+ "updated": "2026-10-07T01:11:20.927Z",
  "items": [
   {
    "id": "ccd965550388",
@@ -249,6 +249,20 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsd0t3SEcxM25QVzNaMVM1N3dDeHotZzNYdnhMcy1vRE9JM1FnUURXRnY2SmZVWjRrcmEzN2E5Z0g5dFJrOXNkUEI2OHMtMVJIczB3ajVIckEwbzBrT3M2NWFvRDZXU1pISnZicXJHUV91N1NrbFU5WDdB?oc=5",
    "topic": "world",
    "published": "2026-10-06T20:07:33.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "951d45754b1b",
+   "kind": "headline",
+   "title": "מפתיע: ממדאני מצטט מהגמרא - ופותח ב\"מלחמה נגד האנטישמיות\"",
+   "source": "כיכר השבת",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5T05ad2FaVW5oWTZXVnVQdFVFVGd2S1ZkMU42Mm1jeG8tdUEyWnlTWnVyUVNzZXE3eGVFdG9sanRCVkxZYzlLdHZvZDRIbXpIV1Vz?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T20:06:43.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5793,23 +5807,6 @@
    "score": 0,
    "alsoIn": [
     "i24news.tv"
-   ],
-   "important": false
-  },
-  {
-   "id": "af24b543df8b",
-   "kind": "headline",
-   "title": "השכר הממוצע במשק טיפס באוגוסט: זו גובה התוספת בשקלים",
-   "source": "mako",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaHdNYUZHN3JYSl9yRl93TnoyNDlRVDRUWHF2WGpBRzVsQkhWcnE2c0czOHhUY01fRzBsajRKTmQtYlJpMjZKVzM0VVV0NndfOGpNNzBqcVVaNVROd2xtM2ZUQkRNbTE2RlpGeEtETnVOUEYtbG8tbC0yckk?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T09:57:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "mako.co.il",
-    "Mako"
    ],
    "important": false
   }
