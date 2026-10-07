@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T01:34:26.818Z",
+ "updated": "2026-10-07T01:46:54.190Z",
  "items": [
   {
    "id": "ccd965550388",
@@ -68,6 +68,20 @@
    "summary": "President Trump traveled to Baltimore to announce a major investment that he said would create new jobs. Gov. Wes Moore of Maryland, a Democrat, says he deserves credit, too.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-trump-new-vtpb/06dc-trump-new-vtpb-mediumSquareAt3X.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4297d31c7238",
+   "kind": "headline",
+   "title": "בהובלת מניות הטכנולוגיה: S&P 500 והנאסד\"ק חתמו את יום המסחר בשיא כל הזמנים",
+   "source": "גלובס",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pVHExRTZaNjkyNHQ4MXBFeUJHOEVvS1VSX1V5TWxCdmc5VGJhMGxyZFRhRkhXRkU0bDBPMW1Ya1cwRmR5anppSHQ3UXNGOTh5aDNhNHBZb3NOY2VpMXhlSVBES1BqUGFV?oc=5",
+   "topic": "econ",
+   "published": "2026-10-06T22:45:01.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -382,6 +396,20 @@
    "important": false
   },
   {
+   "id": "2139d01b6ebe",
+   "kind": "headline",
+   "title": "Nearly half of Israelis equally blame government, IDF for October 7 failures, poll finds",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDdpeHJ6V25hT3pvMlN1Z052ZG1ld0tJUlFRZWF2V3EwZ241TmVrY2xNdTVMZ3RJd1pDSzk0UXdoeVR4emtEV0N6b29KQzloeXRYSW52LVlJaGhfWmdTbFFhVlRCaEJzcFlLd1FCWXNWbjRNU0U0Tk1TaVN2STUzZ0tqU1pwUFZ4RmJUMGRuaEY4aGp4eVpWNU9n?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T18:57:27.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "b5b74331d3ea",
    "kind": "headline",
    "title": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles?",
@@ -616,6 +644,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "71e57633f6b4",
+   "kind": "headline",
+   "title": "CIA’s Red Cell warns Israel sits one spark away from collapse",
+   "source": "Tehran Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanpUMmNQZ2tOanluQzBpU2dLcW40U3h1OHpTUlp4TGdhS29nRC1UaEx2NlZCeU84YnNjbGZ1RzVlMWJBcFh1TmxHZ1BFLXhsSVo3V0pUSlI3TmVpXzZTNnZvcmhHTXJjUXdnLU5qWkZzbEUzQ1lTaWU2TldoTjRLcFh0QW1PUXpFSGRCMzdnT0lWenNLSUdITENCN21rMzNQZWJF?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-06T16:44:47.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5758,56 +5800,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a49963e4dc60",
-   "kind": "headline",
-   "title": "Spanish Leader Calls for Elections, Riding Wave of Anger Over Housing Costs",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/europe/spains-prime-minister-sanchez-calls-snap-elections-44caae73?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-05T10:00:00.000Z",
-   "summary": "Prime Minister Pedro Sánchez is gambling that outrage over soaring rents will help his socialist party secure a majority.",
-   "image": "https://images.wsj.net/im-15601055",
-   "score": 0,
-   "alsoIn": [
-    "wsj.com",
-    "WSJ"
-   ],
-   "important": false
-  },
-  {
-   "id": "ceaadff6e4f6",
-   "kind": "headline",
-   "title": "השכר הממוצע בהייטק ירד ביולי ב-6.2%; העלייה השנתית התכווצה ל-2.3% בלבד",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pSThoSEtWaXNqRjRMT2xGTnlFbjdHX1BlMy1OYjliMHhEcmNkUFZQalFnOHhuRVl0b3JWcFlWeGtvTWV6Vy1EbnZaQTJOVDRLd09oNGJNbDI3aHFwVXhFMXFNYzFtTVdxMHhJ?oc=5",
-   "topic": "deals",
-   "published": "2026-10-05T10:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Calcalist",
-    "calcalist.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "7471b5341ac8",
-   "kind": "headline",
-   "title": "השכר הממוצע במשק עלה ב-4%, מספר המשרות בהייטק הצטמצם",
-   "source": "i24NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14MDdURWppZ1llZWhReXllTVl5TjBnVllqU1RrMlFUdnc3b1l5SFVzbnpKTkJqRjFBSl9FNXA5Tl9iT2t0dlhITGRGRFVZMzNpLW4yZzlkOVZGcmxaUUVzX2pSTQ?oc=5",
-   "topic": "deals",
-   "published": "2026-10-05T10:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "i24news.tv"
-   ],
    "important": false
   }
  ]
