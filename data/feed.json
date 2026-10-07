@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T07:08:23.087Z",
+ "updated": "2026-10-07T07:19:40.777Z",
  "items": [
+  {
+   "id": "0c2f41d29140",
+   "kind": "headline",
+   "title": "איך הופכים שיקום לצמיחה: האתגר העכשווי של יישובי העוטף",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558612#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T07:04:00.000Z",
+   "summary": "פורום \"הביתה\" מאגד בתוכו 14 יישובים \"אדומים\" מהעוטף, שספגו את הפגיעה הקשה ביותר ב-7 באוקטובר • בראיון עמם מספרים ראשי הפורום על מאבקי התושבים והקושי לייצר תחושת ביטחון, לצד הקמת תאגיד כלכלי חדש והתקווה שהוא מביא עמו",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791288090/%D7%96%D7%99%D7%95_%D7%9E%D7%A6%D7%9C%D7%99%D7%97_%D7%95%D7%A2%D7%93%D7%9F_%D7%91%D7%99%D7%96%D7%9E%D7%9F_%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%A4%D7%95%D7%A8%D7%95%D7%9D_%D7%94%D7%91%D7%99%D7%AA%D7%94_b7oblh.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a400ae9838f1",
    "kind": "headline",
@@ -5729,20 +5743,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "246c6aa3720d",
-   "kind": "headline",
-   "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-05T14:37:17.000Z",
-   "summary": "Houthi-run media deny the government has made advances in the Dhubab area, which overlooks the strategic Red Sea waterway.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58c/live/3aa7d380-c0ca-11f1-a5b0-6f550c662e91.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
