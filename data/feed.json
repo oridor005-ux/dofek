@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-07T00:23:27.772Z",
+ "updated": "2026-10-07T00:35:58.086Z",
  "items": [
+  {
+   "id": "ccd965550388",
+   "kind": "headline",
+   "title": "Kosovo parliament elects new president, avoiding snap election",
+   "source": "Global Banking & Finance Review",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3lTQWlEeW15dnluS3RRQTJOLTJsM1dUSjBlX1VPbWVwR09mSFR5d2JCX3JDTVpLNlhINnFlWlJ0S1Z6Ri1zOWJ5bE92TEVULVlHaVdYV0pQYi1WeFRtNmxreDhGdzNQRTFaOXpwb2V6N2pTWjc3bGYyMDZicmxpUU5SV2MyVVFrQURFY25HbG1wU1BibWg4Mw?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T00:13:31.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ab22e56448af",
+   "kind": "headline",
+   "title": "Metallus stock follows a USD 995 million defense contract",
+   "source": "AD HOC NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPalJBTjhOZ0xENDl6ZUdQUHFXclJwT2ozRnM0RC1aaFhKMVUwbl9mNW5tQnBrUTE4V3dUdWZnMEdUTGpfd1lwMER4Wm5ZeUZlNUtNSXJlN0Zna3Nsa3VwZmJESmZqY3pZOXlEeHJVazh3NW1acmIyTkxGVUpHVDZPUmU0a204X0pEZGVISElhdGNXRFRJNnhJVVp0YVpCbjBPS0J1ZWZsQjFNdlhXMi1MMzByNFdSZUk?oc=5",
+   "topic": "defense",
+   "published": "2026-10-06T23:45:10.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "511fbecdea9b",
    "kind": "headline",
@@ -5782,38 +5810,6 @@
    "alsoIn": [
     "mako.co.il",
     "Mako"
-   ],
-   "important": false
-  },
-  {
-   "id": "3ed0384091ca",
-   "kind": "headline",
-   "title": "Nationalists eye win in Bosnia elections marked by low turnout",
-   "source": "Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLV9yaWN4SUt5WmloYi1IV2dSaW8wa3dzYkVpRldIcVFwbVVVOXdYaHVFcmdaRkxYdmxDbkRkWVRYZTZvSUxXV2FtV3dhMXVBN0JSeEdUUXFodWtrY0wyQ0V0VTRJYkhhazQtS05MZFE2enp3NmhJeW5KNTl6YVN4a3liU2ZodkFMamdaeVp1Y3JEdThlWGduS2ZyZy1KVmV1RzhuOVo0aU12QQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T09:56:23.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "dailysabah.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "a9d8599f472b",
-   "kind": "headline",
-   "title": "MPs debate merits, consequences of Bill C-39 in return to Parliament",
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlZxTGM2dkJvXzdaMWVCanh5RlJ1ZWtFRGdBUkZScEs5NVFKWXZrVGMwZWVJbl9GUWVtWEpnSTF4cjAweDIzNnQ2Zmp1YThEdEMtbDhPRmxPRWNFM2FORHhNeGlLQnJiT1BDN2hLZ29QNDJRNS11aGhZVjVFWXNCcDhZbTQzalowXzJEbzZ1dmdZN1VKTWNEMjBYOTFiMWpkV0VDRXM2ZEVkcGRJcXFKWlM3a1A?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T09:55:27.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "theglobeandmail.com"
    ],
    "important": false
   }

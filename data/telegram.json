@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65572,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:13.461Z"
+   "checkedAt": "2026-10-07T00:24:43.269Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.5K",
+   "subscribers": "58.6K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:14.149Z"
+   "checkedAt": "2026-10-07T00:24:43.960Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:14.840Z"
+   "checkedAt": "2026-10-07T00:24:44.608Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11417,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:15.523Z"
+   "checkedAt": "2026-10-07T00:24:45.270Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19292,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:16.224Z"
+   "checkedAt": "2026-10-07T00:24:45.938Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:16.906Z"
+   "checkedAt": "2026-10-07T00:24:46.615Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:17.601Z"
+   "checkedAt": "2026-10-07T00:24:47.281Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131478,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:18.330Z"
+   "checkedAt": "2026-10-07T00:24:47.978Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74712,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:18.941Z"
+   "checkedAt": "2026-10-07T00:24:48.579Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:19.681Z"
+   "checkedAt": "2026-10-07T00:24:49.287Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-07T00:12:20.431Z"
+   "checkedAt": "2026-10-07T00:24:50.039Z"
   }
  },
  "posts": [
@@ -1325,7 +1325,7 @@
   }
  ],
  "health": {
-  "at": "2026-10-07T00:12:20.831Z",
+  "at": "2026-10-07T00:24:50.440Z",
   "ok": 11,
   "fail": 0,
   "added": 0,
