@@ -3597,12 +3597,45 @@
    "found": "2026-10-07T13:36:23Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693917202193370388.txt"
+  },
+  {
+   "id": "7693921450918464789",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693921450918464789",
+   "caption": "\"שלא ישכחו את אף אחד מהפרחים שנמצאים פה\" ↓ אורית בר-און, אמה של יובל ...",
+   "posted": "1791380693",
+   "found": "2026-10-07T13:51:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693921450918464789.txt"
+  },
+  {
+   "id": "7693919724417109249",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693919724417109249",
+   "caption": "נשיא ארגנטינה חאבייר מיליי עומד לצד ישראל בציון 3 שנים לטבח שבעה באוק...",
+   "posted": "1791380287",
+   "found": "2026-10-07T13:52:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693919724417109249.txt"
+  },
+  {
+   "id": "7693922137807047956",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693922137807047956",
+   "caption": "לא רק להרוג. מה מחבר בין 7.10 לניסיון הפיגוע בטיסת פליי דובאי? @roika...",
+   "posted": "1791380850",
+   "found": "2026-10-07T13:55:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693922137807047956.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T13:36:33Z",
+  "at": "2026-10-07T13:55:42Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 3
  }
 }
