@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T09:07:09.542Z",
+ "updated": "2026-10-07T09:18:44.130Z",
  "items": [
   {
    "id": "a98cdad4d7c5",
@@ -11,6 +11,20 @@
    "published": "2026-10-07T09:02:35.000Z",
    "summary": "Angela Paxton is urging Texas voters to support Mr. Paxton’s Senate campaign, even as she is divorcing him and accusing him of adultery. She has political aspirations of her own.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06pol-angela-paxton-profile-01-tgmb/06pol-angela-paxton-profile-01-tgmb-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "02e17ed8dd63",
+   "kind": "headline",
+   "title": "Mass Trials Put Hundreds in One Dock in El Salvador",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html",
+   "topic": "world",
+   "published": "2026-10-07T09:02:10.000Z",
+   "summary": "Lawyers warn that the mass trials of people imprisoned during President Nayib Bukele’s gang crackdown are marred by vague evidence and restrictions on a proper defense.",
+   "image": "https://static01.nyt.com/images/2026/10/07/world/07int-elsalvador-trials-top/07int-elsalvador-trials-top-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5709,20 +5723,6 @@
    "published": "2026-10-05T16:00:08.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "668aa4462498",
-   "kind": "headline",
-   "title": "אחרי פסיקת הפיצויים: כמה תשלם הדס שטייף לעו\"ד אפי נוה?",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558496#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T15:57:00.000Z",
-   "summary": "בית המשפט קבע כי הדס שטייף וגלי צה\"ל ישלמו לעו\"ד אפי נוה בגין הפגיעה בפרטיותו 450 אלף שקל והוצאות \"ביחד ולחוד\". אבל כמה מתוך זה תשלם גלי צה\"ל, וכמה תשלם שטייף באופן אישי? • אירועים ומינויים",
-   "image": "https://res.cloudinary.com/globes/image/upload/c_auto,h_392,w_800/l_COT_Pic:minuim_d9ex5z/c_scale,fl_relative,w_0.25/fl_layer_apply,fl_no_overflow,g_center,x_278,y_-93/v1791211679/%D7%90%D7%A4%D7%99_%D7%95%D7%94%D7%93%D7%A1-800_fd74p1.png",
    "score": 0,
    "alsoIn": [],
    "important": false
