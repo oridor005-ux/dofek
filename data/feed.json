@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T02:45:40.166Z",
+ "updated": "2026-10-07T02:58:40.271Z",
  "items": [
   {
    "id": "4001e2d1f67c",
@@ -247,6 +247,20 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGl6M25FQ3lTZzlqdGUzNkl1Qm5HX1FETDExMDE3QU5pSDk2SUVtTTFiLWlfbTR0eVZlLVZab2J6aExGLTNESmVwQnpYcXVJZ0J1WUNyZ0I0Nk1jTFUyd2pzYmotR3ZlXzBsSlRTaHI3dS1RS1podFNwRlVNX3ZZVU5XQ1lBcFJCMnhRWjZDLTRvY0FqaHc?oc=5",
    "topic": "econ",
    "published": "2026-10-06T20:26:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "265094c64ecd",
+   "kind": "headline",
+   "title": "Two Indian Americans, Two Uphill Climbs: Where Vivek Ramaswamy and Nithya Raman Stand Four Weeks From Election Day",
+   "source": "American Kahani",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOVJRa2NQOVp0bmtDQjJvVmRlMm5JbjNfZ3hkNllpWXc0aHBvYUhaMDl0SDAybWxFenVKVlNPaUNkbndXWDBsVnV0dDNGXzhTLVl4WjBfODZGNGVBaHNMNzZlZTQxMmh0T3FtbWlLTU9IUnVLVnpPSlFkX09ockRtWU5BUVBfLTlpd3liM21TY0F1RXdfZmZSTEk2Z2hjcWlGRkJZVHJRbEktNlkxLWFnYTdEQkRjVjJoNFIwLUVJczFkN183bjlodmNWYV9IcV8wQUV6RDRieUU3aVpKbkViWnU4dw?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T20:24:10.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5782,20 +5796,6 @@
    "published": "2026-10-05T10:18:47.000Z",
    "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1479/live/0ea9d1f0-c090-11f1-a4af-19dbf5352a59.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "146497600388",
-   "kind": "headline",
-   "title": "\"עבדנו פול טיים בחגים, עכשיו אפשר לחזור לנשום\"",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/yokra14917221",
-   "topic": "econ",
-   "published": "2026-10-05T10:14:47.000Z",
-   "summary": "מעצב השיער שעבד בלי הפסקה כל החודש, עובד הדיוטי פרי שנהנה מההמולה בנתב\"ג, מנהלת התיכון שמצפה לאתגרים חדשים, חבר ועדת הבחירות שבשבילו האקשן רק מתחיל ולוחם מג\"ב שנמצא תמיד בכוננות. המשק חוזר לשגרה וכך נראה \"אחרי החגים\" שלהם",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/yk14917327/yk14917327_35_3_569_321_0_medium.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
