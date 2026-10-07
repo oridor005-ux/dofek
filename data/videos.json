@@ -3347,12 +3347,43 @@
    "found": "2026-10-07T10:48:07Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693875297350929684.txt"
+  },
+  {
+   "id": "7693875752030178581",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7693875752030178581",
+   "caption": "אף אחד מאיתנו לא ישכח את היום ההוא כל חיינו. זה השבעה באוקטובר שלי. #...",
+   "posted": "1791370051",
+   "found": "2026-10-07T11:04:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693875752030178581.txt"
+  },
+  {
+   "id": "7693876998489345286",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693876998489345286",
+   "caption": "שפל מוסרי: גנבו כשדם נרצחי הנובה עדיין על הרצפה בזמן שמתן ליאור מרדכי...",
+   "posted": "1791370342",
+   "found": "2026-10-07T11:04:32Z",
+   "status": "failed"
+  },
+  {
+   "id": "7693879852193074453",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693879852193074453",
+   "caption": "דיווח בסוריה: הדרוזים במחוז א-סווידא בסוריה בעצרת ותהלוכת זיכרון לציו...",
+   "posted": "1791371004",
+   "found": "2026-10-07T11:04:55Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-07T10:48:22Z",
+  "at": "2026-10-07T11:05:07Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
