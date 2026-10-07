@@ -3474,12 +3474,23 @@
    "found": "2026-10-07T12:20:10Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693899052265508104.txt"
+  },
+  {
+   "id": "7693902639637056789",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693902639637056789",
+   "caption": "הגענו ללונדון כי לא ניתן לאנטי ישראלים לגנוב את התאריך של השבעה באוקט...",
+   "posted": "1791376309",
+   "found": "2026-10-07T12:34:57Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693902639637056789.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T12:20:35Z",
+  "at": "2026-10-07T12:35:04Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
