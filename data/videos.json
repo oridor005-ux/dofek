@@ -3816,12 +3816,23 @@
    "found": "2026-10-07T16:24:18Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693958328019422484.txt"
+  },
+  {
+   "id": "7693961891424505140",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693961891424505140",
+   "caption": "קארין ז׳ורנו ז״ל נרצחה במסיבה ב-7.10.23 במסיבת הנובה היא הגיעה למסיבה...",
+   "posted": "1791390105",
+   "found": "2026-10-07T16:38:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693961891424505140.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T16:24:34Z",
+  "at": "2026-10-07T16:38:59Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
