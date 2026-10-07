@@ -3859,12 +3859,33 @@
    "found": "2026-10-07T17:09:13Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693968527656635669.txt"
+  },
+  {
+   "id": "7693975836952775956",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693975836952775956",
+   "caption": "זיכרון על המגרש: קבוצת הכדורסל החדשה לזכר ששת החטופים 🎗️🏀 קבוצת הכדור...",
+   "posted": "1791393354",
+   "found": "2026-10-07T17:24:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693975836952775956.txt"
+  },
+  {
+   "id": "7693974696269729042",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693974696269729042",
+   "caption": "אופנוענים, חלקם עם תיקי המשלוחים המזוהים עם וולט, תועדו נוסעים בכבישי...",
+   "posted": "1791393088",
+   "found": "2026-10-07T17:24:36Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-07T17:09:23Z",
+  "at": "2026-10-07T17:25:00Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 2
  }
 }
