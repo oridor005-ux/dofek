@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65592,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:35.541Z"
+   "checkedAt": "2026-10-07T18:28:07.082Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:36.255Z"
+   "checkedAt": "2026-10-07T18:28:07.732Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:39.353Z"
+   "checkedAt": "2026-10-07T18:28:08.414Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11440,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:40.021Z"
+   "checkedAt": "2026-10-07T18:28:09.074Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19303,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:40.761Z"
+   "checkedAt": "2026-10-07T18:28:10.022Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:41.420Z"
+   "checkedAt": "2026-10-07T18:28:10.676Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54904,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:42.055Z"
+   "checkedAt": "2026-10-07T18:28:11.324Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131532,
+   "lastId": 131534,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:42.736Z"
+   "checkedAt": "2026-10-07T18:28:11.979Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74792,
+   "lastId": 74794,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:43.305Z"
+   "checkedAt": "2026-10-07T18:28:12.549Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:43.989Z"
+   "checkedAt": "2026-10-07T18:28:13.219Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T18:15:44.729Z"
+   "checkedAt": "2026-10-07T18:28:13.920Z"
   }
  },
  "posts": [
@@ -2838,13 +2838,50 @@
    "date": "2026-10-07T18:05:11+00:00",
    "text": "🔴 סעודיה: 3 הרוגים בתקיפות החות'ים על נמלי התעופה הבינלאומיים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131533",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131533",
+   "date": "2026-10-07T18:17:01+00:00",
+   "text": "הזירה החות'ית גובה קורבנות בסעודיה :\nסעודיה הודיעה כי בתקיפות על נמלי התעופה בערים אבהא וריאד ב-6 וב-7 באוקטובר נהרגו שלושה בני אדם ונפצעו 36.\nבנמל התעופה הבינלאומי אבהא נהרגו שני בני אדם ו-28 נפצעו, ואילו בנמל התעופה הבינלאומי המלך ח'אלד בריאד נהרג אדם אחד ושמונה נפצעו.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131534",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131534",
+   "date": "2026-10-07T18:24:05+00:00",
+   "text": "שר המלחמה האמריקאי פיט הגסת': \n\"הגענו להסדר עם הצי האיראני. החלטנו לחלוק איתם את האוקיינוס - הם קיבלו את החצי התחתון.\"\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74793",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74793",
+   "date": "2026-10-07T18:18:46+00:00",
+   "text": "🔴 החל טקס הזיכרון הלאומי של משפחות 7 באוקטובר\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74794",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74794",
+   "date": "2026-10-07T18:21:40+00:00",
+   "text": "🔴 צה\"ל: שוגר מיירט לעבר מטרת שווא בדרום לבנון\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T18:15:45.128Z",
+  "at": "2026-10-07T18:28:14.320Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 157
+  "added": 4,
+  "pendingNew": 161
  }
 }
