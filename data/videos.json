@@ -3070,10 +3070,21 @@
    "found": "2026-10-07T05:30:05Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693793194886122773.txt"
+  },
+  {
+   "id": "7693668259580644629",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693668259580644629",
+   "caption": "מיכה ביטון, תושב נתיב העשרה, התחנן בשידור: \"בבקשה תוודאו שצה\"ל מגיע, ...",
+   "posted": "1791351600",
+   "found": "2026-10-07T05:45:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693668259580644629.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T05:30:17Z",
+  "at": "2026-10-07T05:45:23Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
