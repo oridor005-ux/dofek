@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T20:26:45.100Z",
+ "updated": "2026-10-07T20:38:35.182Z",
  "items": [
+  {
+   "id": "8bab2d4c86cf",
+   "kind": "headline",
+   "title": "Rubio Turns to Ancient Greece to Make the Case for ‘America First’",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/politics/policy/rubio-turns-to-ancient-greece-to-make-the-case-for-america-first-dc4bbb06?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-07T20:29:00.000Z",
+   "summary": "Secretary of State Marco Rubio invoked historic figures from Socrates to Julius Caesar to make the case for President Trump’s nationalist agenda.",
+   "image": "https://images.wsj.net/im-15868204",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "fa6a16a3d002",
    "kind": "headline",
@@ -5643,22 +5657,6 @@
    "image": "",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "146f72e30d19",
-   "kind": "headline",
-   "title": "Lawmakers Set to Elect Germany’s 1st Far-Right Statehouse Speaker Since 1945",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-   "topic": "world",
-   "published": "2026-10-06T07:58:17.000Z",
-   "summary": "After winning a state election last month, the AfD is now on the cusp of being the first far-right party to oversee a state Parliament since the Nazi era.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-germany-afd-saxony-anhalt-plcg/06int-germany-afd-saxony-anhalt-plcg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [
-    "The New York Times"
-   ],
    "important": false
   }
  ]
