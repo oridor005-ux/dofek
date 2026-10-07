@@ -3141,12 +3141,33 @@
    "found": "2026-10-07T07:16:15Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693759685459021064.txt"
+  },
+  {
+   "id": "7693827521665699080",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693827521665699080",
+   "caption": "המשפחה שאי אפשר לשכוח🧡💔 שורד השבי ירדן ביבס, שאשתו שירי ושני בניו הקט...",
+   "posted": "1791358824",
+   "found": "2026-10-07T07:45:55Z",
+   "status": "failed"
+  },
+  {
+   "id": "7693826511618542868",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693826511618542868",
+   "caption": "שלוש שנים לאחר טבח 7 באוקטובר ופרוץ המלחמה, נחשפים ממדי הפעילות הצבאי...",
+   "posted": "1791358589",
+   "found": "2026-10-07T07:46:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693826511618542868.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:31:01Z",
+  "at": "2026-10-07T07:46:49Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
