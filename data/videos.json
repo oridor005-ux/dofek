@@ -3935,12 +3935,34 @@
    "found": "2026-10-07T18:24:00Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693990828032707858.txt"
+  },
+  {
+   "id": "7694001456977808661",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7694001456977808661",
+   "caption": "נתניהו הזהיר אותנו? או ששוב ניצלו הזדמנות להגיד אמרנו לכם? #חדשות #מה...",
+   "posted": "1791399324",
+   "found": "2026-10-07T18:57:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694001456977808661.txt"
+  },
+  {
+   "id": "7693999790442417416",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693999790442417416",
+   "caption": "3 שנים אחרי: צוות זק״א חזר לזירת 7.10 לאסוף את הממצאים של צורי חג׳בי ז״ל",
+   "posted": "1791398940",
+   "found": "2026-10-07T18:58:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693999790442417416.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T18:39:59Z",
+  "at": "2026-10-07T18:59:03Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
