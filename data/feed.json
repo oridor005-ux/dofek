@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T05:09:29.890Z",
+ "updated": "2026-10-07T05:21:39.544Z",
  "items": [
   {
    "id": "772eef03dad9",
@@ -742,6 +742,20 @@
    "summary": "Israeli communities shattered by Hamas masacres are torn between rebuilding their lives and remembering lost friends and relatives Keith Siegel spent many of his long hours in Hamas captivity in Gaza etching everything that happened after 7 October 2023 into his memory. For 484 days, he recited to…",
    "image": "https://i.guim.co.uk/img/media/5039ec5358de0071419ccf1eb7b3abe929ce16b4/520_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=42f03cd09e1ee3d52d5e8662e9bc3cf3",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "88a383a974ba",
+   "kind": "headline",
+   "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-06T19:53:45.000Z",
+   "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d4e/live/b62d3360-c1ab-11f1-bc2e-018d645d8d21.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5747,22 +5761,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1645696030/direct/IMG_20200309_140611_jxtlyd.jpg",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3d4628a91958",
-   "kind": "headline",
-   "title": "חלה ירידה בייצוג הנשי בחדשות ובאקטואליה בספטמבר",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ub2lhRHNHNXZmWERycUYzdVVsSS1QejJwbktRc0VuN3Nxa1V2c2hKZTVmTDJtV2k4ZThqdjk2ZWN0QjMzckh3SQ?oc=5",
-   "topic": "media",
-   "published": "2026-10-05T12:47:38.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
    "important": false
   }
  ]
