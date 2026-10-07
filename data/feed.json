@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T23:12:32.192Z",
+ "updated": "2026-10-07T23:25:00.951Z",
  "items": [
   {
    "id": "6d23edf40711",
@@ -11,6 +11,20 @@
    "published": "2026-10-07T22:56:44.000Z",
    "summary": "Trump is in Texas tonight to stump for the Senate candidate.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07pol-onpolitics-newsletter-paxton-pfvl/07pol-onpolitics-newsletter-paxton-pfvl-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f14d89f223b2",
+   "kind": "headline",
+   "title": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T22:40:51.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -114,6 +128,20 @@
    "important": false
   },
   {
+   "id": "0603402222cf",
+   "kind": "headline",
+   "title": "Vote ACT to Save the Kiwi (Dollar)",
+   "source": "ACT NZ",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NT2NieEY0SjRaOHF5VkJfY3BWUnJFdi1TNFo0bDgwQlBFdGF0M1NfWFVRNHJZYktHVU9zUU1NanItSkx0Q292bEEzckhFakdRX1pBUHRHSHR1dHNVSnVUdVYwbVVoLXBxSGRpaDFNaw?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T20:13:20.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "fa6a16a3d002",
    "kind": "headline",
    "title": "התאוששות מאוחרת בוול סטריט: המדדים מחקו את רוב הנפילות; ה-S&P 500 והנאסד\"ק ירדו ב-0.2%",
@@ -153,9 +181,12 @@
    "image": "",
    "score": 1,
    "alsoIn": [
-    "KBAK"
+    "KBAK",
+    "KEYE",
+    "WCYB",
+    "WSMH"
    ],
-   "important": false
+   "important": true
   },
   {
    "id": "cc18e90ed77b",
@@ -773,7 +804,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Straits Times"
+   ],
    "important": false
   },
   {
@@ -5625,37 +5658,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1723724514/direct/shutterstock_557817256_pjih2b.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ad181af1f471",
-   "kind": "headline",
-   "title": "How Alaska’s Fish Became a Defining Issue for the Midterms",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html",
-   "topic": "world",
-   "published": "2026-10-06T09:00:55.000Z",
-   "summary": "In the battle for an Alaska Senate seat and the governor’s mansion, the oil-dependent state’s declining fisheries loom large, but no one wants to look at the biggest culprit, climate change.",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "aff4dcc8e18a",
-   "kind": "headline",
-   "title": "חודשים לפני המחדל: תוספת התקציב לאבטחת טיסות שאושרה – ולא יושמה",
-   "source": "Mako",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yS1pBVXZxQTJXTWRnMFlvbi1feTFZbXRMZVhjRHpUbWtjVl9BM29MSmFOOVRCOXV3b1ZoNU9CVzlxWjdWSFI4YU1aNGZnVlBaTXZnSHdpYlVrWF9qSTUxSTRsZnkySVMzVngzbE9feXY3UUlDc3VIYnFlYkE?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T08:53:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "mako.co.il",
-    "mako"
-   ],
    "important": false
   }
  ]
