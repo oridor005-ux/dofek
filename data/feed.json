@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T02:34:05.970Z",
+ "updated": "2026-10-07T02:45:40.166Z",
  "items": [
+  {
+   "id": "4001e2d1f67c",
+   "kind": "headline",
+   "title": "Takeaways From the First Maine Senate Debate Between Susan Collins and Troy Jackson",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/06/us/politics/maine-senate-debate-takeaways.html",
+   "topic": "world",
+   "published": "2026-10-07T02:33:00.000Z",
+   "summary": "Senator Susan Collins, one of the most vulnerable Republicans in the midterms, clashed with the Democratic challenger Troy Jackson over President Trump, ICE and more.",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06pol-debate-takeaways-promo/06pol-debate-takeaways-promo-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "ccd965550388",
    "kind": "headline",
@@ -5783,20 +5797,6 @@
    "summary": "מעצב השיער שעבד בלי הפסקה כל החודש, עובד הדיוטי פרי שנהנה מההמולה בנתב\"ג, מנהלת התיכון שמצפה לאתגרים חדשים, חבר ועדת הבחירות שבשבילו האקשן רק מתחיל ולוחם מג\"ב שנמצא תמיד בכוננות. המשק חוזר לשגרה וכך נראה \"אחרי החגים\" שלהם",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/yk14917327/yk14917327_35_3_569_321_0_medium.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "16f81724414d",
-   "kind": "headline",
-   "title": "המסחר בתל אביב עובר לירידות שערים בהובלת סקטור הבנייה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T10:08:00.000Z",
-   "summary": "הבורסה בתל אביב נסחרת במגמה שלילית: בהובלת מניות הבנייה והביטוח, האנרגיה שוחה נגד הזרם • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות ספטמבר ההפכפך,…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
