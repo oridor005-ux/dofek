@@ -3957,12 +3957,23 @@
    "found": "2026-10-07T18:58:42Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693999790442417416.txt"
+  },
+  {
+   "id": "7693981238020902162",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693981238020902162",
+   "caption": "התיעודים הראשונים | ״אני מבין שהטלפון המצלם הוא כלי נשק יותר חשוב מהא...",
+   "posted": "1791394612",
+   "found": "2026-10-07T19:10:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693981238020902162.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T18:59:03Z",
+  "at": "2026-10-07T19:10:46Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
