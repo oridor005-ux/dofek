@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T09:18:44.130Z",
+ "updated": "2026-10-07T09:19:02.325Z",
  "items": [
   {
    "id": "a98cdad4d7c5",
@@ -72,6 +72,20 @@
    "important": false
   },
   {
+   "id": "800cadd44520",
+   "kind": "headline",
+   "title": "Israel, three years after October 7: A nation's traumas and blind spots",
+   "source": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUdtRl84VXlmaGo5dkxEMzN2Q21JWkV6SjU5a18wYWV2MjZIaWJoazZXaVYwZ2xHWmowYWpwLWJhd0hBSWh4VmFmT0p5aFlMWm5fVERnUGt6eXUtVXM3Z3pwZXZESG9SX2VWeWFiUFlDUlFTWHFXVFU5eEE0YUxDaG9tZ0hybDBQRjhzYWNYOHd0ekNkX3dYQ083VkZ4QlE2NHY0N2hIdGRsTUNkb2Z3NTM1Q21rNzFmdU8tRDBYTURXOUl6NWFqTEVhaEJzbEdSaWYzbllVeUFLRXM?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-07T09:00:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "4d7909394bb1",
    "kind": "headline",
    "title": "רוכשים דירה בחו\"ל? אל תשכחו את רשות המיסים",
@@ -84,6 +98,34 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "956bc1c5a9fb",
+   "kind": "headline",
+   "title": "Indonesia's new labor law soothes workers, worries businesses",
+   "source": "Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXkzYkd4SUN2d2Nwd2dVYWFVRW1WS29lWkswZlNyLW1WOENpVjhDM181WDVoWEVsUTBDUVBiSnpuQUdWOFhvbzhyNmF4RTMxTEEwdzF4VzI2QVpPSFFBbXp4YWhXc2twU0dhZFFXTkhZcFJweXF1dHFRWVNkUDVpLVZLN3ktRGhSdjdpaDU1WTZoVkFrN2xOdEx3?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T08:50:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "836d54a78491",
+   "kind": "headline",
+   "title": "Pro-Palestinian vigils held across Australia amid demand of arms embargo on Israel",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVdZb1dOOHpNNFpEbXdSUkRQZ0N2VjYwdENVckV0S2kzV2hrbEdtY1gwQ09BajgyLTdxbjA0WTVvQm9iNlBTZm1xa2RxZVBrOENuamc3b1B3OS1XRGY0ZzBGcXBJd2pkNWFUS3E3MTc1dmMzS2ZuQ21lSWpjMTg5UkdNXzVwRmNpbTRob3RqY1pYS3NZS21QaWg2bHZ3OXFDai01eEw2SkcxT2JkNVRwWTBFMHZDOHoxTTFPbndWb052QkQ0bnRV?oc=5",
+   "topic": "defense",
+   "published": "2026-10-07T08:47:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 4,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "1aed3afb3961",
@@ -391,7 +433,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "The Business Times"
+    "The Business Times",
+    "The Straits Times"
    ],
    "important": false
   },
@@ -3093,6 +3136,20 @@
    "important": false
   },
   {
+   "id": "8b258ede697f",
+   "kind": "headline",
+   "title": "Why Spanish PM calls early election and what comes next?",
+   "source": "Macau Business",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEtXWVJQY2NQUUR4TFVpYTB0bkkwS2xwRGZHbXFHQUpVdWtlMGRNM2stY3JYa0lGaGhjc0x3RExSTEVuVGVCOUdxa3dPakstczNQclkxaHdOR3VTZ0U5V1NhVlRwNEtJN1BIOHkxWlNOTDZwNVIyVGtuLVZwTFNIdEdiejRhRGkwb2c?oc=5",
+   "topic": "world",
+   "published": "2026-10-06T10:10:17.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "120726675754",
    "kind": "headline",
    "title": "Indian opposition MPs detained in protest against election chief",
@@ -5665,66 +5722,6 @@
    "alsoIn": [
     "algemeiner.com"
    ],
-   "important": false
-  },
-  {
-   "id": "09314d24b6e7",
-   "kind": "headline",
-   "title": "השכר ממשיך לעלות: 14,534 שקל בממוצע ביולי",
-   "source": "ביזנעס",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNbnpFbU1HWkFlMmZrLWNhN0dTSFFRdDJIRHVkemNaYTFidzhDay1UN01WR2szRElnemFOenZjdVFUaGV2aWZBODl0NGwzeS1PbUx1VFJ5Z0Mxa1JQdUNMcDlIaTVrNmRnaVJYZ1NqcXFicFZpRmVQdzVWeTg4dUNOYThVT3dyNzFBOWZ1Y29MUlE2ZmZtWVZEZnBBNzB2ZHBubHZtYXItUFJ0OU9zRXJlSnc1c2lXTHdJTXA3RUgtblJIck9nSWZ5MUhra01FU0EtbkRERlljdExSaTNqWmo5Q1AwaUdZT3JSSVZIN2wzWWdPZERBaGR4LWdaTWg4TUVTNXdxTGNKd3hDRVJMV3RUaW5TY1hBNi0zdTdrTjNJcVBqOWNYZTVETg?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T16:10:16.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "bizzness.net"
-   ],
-   "important": false
-  },
-  {
-   "id": "771beef513b6",
-   "kind": "headline",
-   "title": "Sanction Israel to save Palestinian state, officials tell EU",
-   "source": "The New Arab",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVYZElkVmJmRWwzTkFVcWtTUU5PWHN4Y2hlaXVXOFBhbktBUjBkN2NFQnRpeDQxRzRBWFJGVlhWbGMxVVZNNmpGdWZNZGdoOGRMWjl3S0xUbElMd1V6bFB5WFZRckpCYXhOcUhGM2RjQ0NOVC1CRHJrU09JOV9ma1BKdkpTQ09jdnBWa0t3?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T16:08:51.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "newarab.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "b6471b4400c2",
-   "kind": "headline",
-   "title": "Hungary may unblock the technical phase of Ukraine’s negotiations with the EU",
-   "source": "UkrMedia News",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IQlJqT05nRDZwd2FtR3cwcVpDOGtudkxBbVZYOEFYZVRiWXpyX2ZpQkhycXU3QW9OZ0U2djAwRS1uVmc3SHQ4bHhtYXNKM0Zob1NsRFRIRlY5LXZwUFFvcVBRVVY1YWFXTkx2dTdRaw?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T16:08:51.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b4ee2db2cf76",
-   "kind": "headline",
-   "title": "Menjëherë pas takimit me Kurtin, Hamza mbledh Grupin Parlamentar të PDK-së",
-   "source": "Reporteri.net",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFI0V0NfbDNCNkRZWkJkd2I5QmcwdmtsWXhyTURWUWpGWlVUMlh1TVJzdjByNEZ3VFV5bVljV0N3VUdXSS12b0NtRi1XM2tlRXlXcjhDdllDVnVMUlR3eHI2X29pYU55d3pmTFpEcU1sNXBWT2w4aXVoNHlka096WmtUV3V5SHhTWG9FVGtLUm50TjdweEdtMUZUOGxyamczVmtHX04yX0Noenp0WVZfaGt0NkNBV00?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T16:00:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
