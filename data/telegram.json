@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65584,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:25.409Z"
+   "checkedAt": "2026-10-07T11:06:49.562Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:26.144Z"
+   "checkedAt": "2026-10-07T11:06:50.324Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:26.813Z"
+   "checkedAt": "2026-10-07T11:06:51.041Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11423,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:27.467Z"
+   "checkedAt": "2026-10-07T11:06:51.779Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19297,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:28.111Z"
+   "checkedAt": "2026-10-07T11:06:52.648Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:28.787Z"
+   "checkedAt": "2026-10-07T11:06:53.369Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:29.449Z"
+   "checkedAt": "2026-10-07T11:06:54.067Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131510,
+   "lastId": 131511,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:30.184Z"
+   "checkedAt": "2026-10-07T11:06:54.900Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74752,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:30.761Z"
+   "checkedAt": "2026-10-07T11:06:55.533Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:31.534Z"
+   "checkedAt": "2026-10-07T11:06:56.280Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11066,
    "ok": true,
-   "checkedAt": "2026-10-07T10:54:32.288Z"
+   "checkedAt": "2026-10-07T11:06:57.006Z"
   }
  },
  "posts": [
@@ -2035,13 +2035,23 @@
    "text": "חשיפת \"שקוף\"\n3 במרץ 2025, דיון בוועדת הפנים על חוק למניעת מפגעים סביבתיים.\nסילמן אמרה שלא פנו אליה עמותות נוספות שביקשו להצטרף לחוק. ח\"כ יוראי להב-הרצנו שאל שוב, והיא חזרה על תשובתה.\nבקשת חופש מידע שהגישה יעל געתון מראה אחרת: עמותת \"שומרי הבית\" פנתה, אפילו לסילמן ישירות. חלק מהתכתובות לא אותרו.\nבמקביל, \"הפורום לישראל ירוקה\", שבראשה עמד היועץ לשעבר של סילמן, צורפה לחוק במסלול המהיר.\nלכתבה המלאה >> https://shakuf.co.il/64965\n==\n💙 הצטרפו לנבחרת המו\"לים שלנו: https://shakuf.co.il/join\n👋 לעדכוני \"שקוף\" בטלגרם: https://t.me/shakuf",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131511",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131511",
+   "date": "2026-10-07T11:05:27+00:00",
+   "text": "רשות השידור הממלכתית של טורקיה משדרת הבוקר, לרגל ה 7.10, סרטון התומך במתקפת הטרור של חמאס באותו הבוקר ומציג \"רגעי שיא\" של אופוריה חמאסית מתובלים בביטויים מהקוראן על \"הניצחון\" של חמאס.\nאין כל אזכור למעשי רצח או התייחסות לקורבנות.\nמדובר בכלי התקשורת המוביל בטורקיה - כלי תקשורת לגיטימי במערב.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T10:54:32.688Z",
+  "at": "2026-10-07T11:06:57.407Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 109
+  "pendingNew": 110
  }
 }
