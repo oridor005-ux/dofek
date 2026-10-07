@@ -3891,12 +3891,45 @@
    "found": "2026-10-07T17:38:53Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693978636289887495.txt"
+  },
+  {
+   "id": "7693983561073855764",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693983561073855764",
+   "caption": "דווקא היום: הפעילה היהודיה הניפה דגל ישראל - המפגינים באוניברסיטת ״סי...",
+   "posted": "1791395153",
+   "found": "2026-10-07T17:58:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693983561073855764.txt"
+  },
+  {
+   "id": "7693983873536920853",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693983873536920853",
+   "caption": "",
+   "posted": "1791395226",
+   "found": "2026-10-07T17:59:25Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693983873536920853.txt"
+  },
+  {
+   "id": "7693984456058703124",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693984456058703124",
+   "caption": "המפגינים האנטי ישראלים הם חבורת פחדנים שלא מעיזים לעמוד מולי ולהסתכל ...",
+   "posted": "1791395363",
+   "found": "2026-10-07T18:00:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693984456058703124.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T17:39:14Z",
+  "at": "2026-10-07T18:00:08Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
