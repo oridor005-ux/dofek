@@ -3293,12 +3293,55 @@
    "found": "2026-10-07T10:18:04Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693867727760444693.txt"
+  },
+  {
+   "id": "7693870633473559828",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693870633473559828",
+   "caption": "\"לפני שקופצים למסקנות, צריכים לזכור מה האויבים שלנו עשו לנו\" ↓ \"ואיזה...",
+   "posted": "1791368859",
+   "found": "2026-10-07T10:33:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693870633473559828.txt"
+  },
+  {
+   "id": "7693870059583786258",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693870059583786258",
+   "caption": "\"תגיד, מה הסוד שלכם, הישראלים והיהודים? איך אתם מצליחים לחיות בחוסן כ...",
+   "posted": "1791368724",
+   "found": "2026-10-07T10:34:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693870059583786258.txt"
+  },
+  {
+   "id": "7693869768956316949",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693869768956316949",
+   "caption": "⁨\tנתיבי איילון נחסמו הבוקר ע״י פעילי מועצת אוקטובר שעמדו דקת דומייה ל...",
+   "posted": "1791368657",
+   "found": "2026-10-07T10:34:56Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7693795601078750485",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693795601078750485",
+   "caption": "היום לפני שלוש שנים | \"דובר צה\"ל, האם יש חטופים בעזה?\" 7.10.23 | 13:20",
+   "posted": "1791368400",
+   "found": "2026-10-07T10:35:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693795601078750485.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T10:18:24Z",
+  "at": "2026-10-07T10:35:48Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 4
  }
 }
