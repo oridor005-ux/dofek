@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65591,
+   "lastId": 65592,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:54.886Z"
+   "checkedAt": "2026-10-07T17:52:28.846Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:55.564Z"
+   "checkedAt": "2026-10-07T17:52:29.686Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:56.220Z"
+   "checkedAt": "2026-10-07T17:52:30.292Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11437,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:56.894Z"
+   "checkedAt": "2026-10-07T17:52:30.918Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19303,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:57.532Z"
+   "checkedAt": "2026-10-07T17:52:31.569Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:58.329Z"
+   "checkedAt": "2026-10-07T17:52:32.182Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54904,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:58.926Z"
+   "checkedAt": "2026-10-07T17:52:32.818Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131532,
    "ok": true,
-   "checkedAt": "2026-10-07T17:39:59.554Z"
+   "checkedAt": "2026-10-07T17:52:33.424Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74790,
+   "lastId": 74791,
    "ok": true,
-   "checkedAt": "2026-10-07T17:40:00.096Z"
+   "checkedAt": "2026-10-07T17:52:33.976Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T17:40:00.795Z"
+   "checkedAt": "2026-10-07T17:52:34.636Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T17:40:01.511Z"
+   "checkedAt": "2026-10-07T17:52:35.297Z"
   }
  },
  "posts": [
@@ -2793,13 +2793,22 @@
    "date": "2026-10-07T17:39:31+00:00",
    "text": "🔴 השגריר לייטר על בנו שנפצע בפיגוע: \"התחיל לנשום בכוחות עצמו\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74791",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74791",
+   "date": "2026-10-07T17:47:46+00:00",
+   "text": "🔴 בן 14 נפצע קשה מירי סמוך לערד\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T17:40:01.911Z",
+  "at": "2026-10-07T17:52:35.697Z",
   "ok": 11,
   "fail": 0,
-  "added": 4,
-  "pendingNew": 152
+  "added": 5,
+  "pendingNew": 153
  }
 }
