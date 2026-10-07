@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T21:49:49.784Z",
+ "updated": "2026-10-07T22:01:21.497Z",
  "items": [
+  {
+   "id": "5fc3fc7da53d",
+   "kind": "headline",
+   "title": "The Trump administration resurrected its global tariffs by turning to a novel theory of forced-labor violations. The tariffs face a court challenge, but forced-labor polices aren’t going away",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/economy/trade/trumps-tariffs-put-a-spotlight-on-forced-labor-it-isnt-going-away-b5f68fda?mod=rss_socialeconomyfeed",
+   "topic": "world",
+   "published": "2026-10-07T22:00:00.000Z",
+   "summary": "​The president’s use of forced-labor concerns to resurrect his tariffs faces a Democratic-led legal challenge, but America’s trade partners are toughening up their own laws either way.",
+   "image": "https://images.wsj.net/im-31321040",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "20ffd89e390b",
    "kind": "headline",
@@ -5639,22 +5653,6 @@
    "image": "",
    "score": 2,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0b6cfb0751cd",
-   "kind": "headline",
-   "title": "House Passes Labor Protection Bill into Law",
-   "source": "Tempo.co English",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMU9tdldneEJxSnpOOW1FdkdfTGZ0X3NGeFhreUM3d3VqVkQ0TVJOZ1dfZ0lvaFg5NVFtdmU0OENSY3VRdXRPS3dzYXJHVlI3THJrMm53MzFQbFE3WGE4U3RzQ3NBckVpelFCSUp3eWVyMHkzMDVsMUlvaVZ4UUR0bjhn?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T08:32:34.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "en.tempo.co"
-   ],
    "important": false
   }
  ]
