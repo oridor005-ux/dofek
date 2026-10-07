@@ -3173,10 +3173,21 @@
    "found": "2026-10-07T08:02:38Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693832246372945172.txt"
+  },
+  {
+   "id": "7693832654608665863",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693832654608665863",
+   "caption": "⁨\tשלי משל-יוגב, אמה של ליבי כהן מגורי ז״ל שנרצחה בטבח במסיבת הנובה, ר...",
+   "posted": "1791360022",
+   "found": "2026-10-07T08:16:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693832654608665863.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T08:02:58Z",
+  "at": "2026-10-07T08:16:41Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
