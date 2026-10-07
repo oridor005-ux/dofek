@@ -3081,12 +3081,23 @@
    "found": "2026-10-07T05:45:06Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693668259580644629.txt"
+  },
+  {
+   "id": "7693804990741171462",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693804990741171462",
+   "caption": "״אף אחד לא עוזר לנו. שורפים לנו את הבתים״: בחזרה לבוקר ה-7.10 - השיחה...",
+   "posted": "1791353574",
+   "found": "2026-10-07T06:15:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693804990741171462.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T06:00:10Z",
+  "at": "2026-10-07T06:16:07Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
