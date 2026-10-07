@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T22:36:52.706Z",
+ "updated": "2026-10-07T22:49:20.078Z",
  "items": [
+  {
+   "id": "89a120fb2eea",
+   "kind": "headline",
+   "title": "Eight new bills steered through parliament",
+   "source": "Cayman News Service",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzZtd2lRVlk1ZGtFbzMxQnFPQ0duQ1h5aEQzUHozbnRCZ3J3SmN3bEtRT1NSNWYwNzdSelRoX1k2WTBpMVd4VTdOaGVUdmdndGw3U3lLV3Z3aTNxRmJHVmpKRGxqVGY1TlhfQWx1ZXJ2SkhiYVhTMGMydjd6QklsTDJ1VkE0dkha?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T22:26:49.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5fc3fc7da53d",
    "kind": "headline",
@@ -322,7 +336,10 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "SILive.com",
+    "OregonLive.com"
+   ],
    "important": false
   },
   {
@@ -5637,20 +5654,6 @@
    "published": "2026-10-06T08:48:45.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c932b76b80a0",
-   "kind": "headline",
-   "title": "דירקטוריון צים מבהיר לרשות החברות: לא צריכים לדון בעסקה מחדש",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558528#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-06T08:42:00.000Z",
-   "summary": "רשות החברה הודיעה כי אם יוגש מתווה חדש לרכישת צים על ידי הפג לויד וקרן פימי - יהיה על החברה להגיש אותו לאישורה מחדש • לגלובס נודע כי דירקטוריון צים שלח מכתב תשובה לרשות, ובו נטען כי החברה לא נדרשת לדון מחדש בעסקה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1717509931/direct/%D7%99%D7%90%D7%99%D7%A8_%D7%A1%D7%A8%D7%95%D7%A1%D7%99_ljfseu.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
