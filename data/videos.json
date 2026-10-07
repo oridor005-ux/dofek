@@ -3228,12 +3228,22 @@
    "found": "2026-10-07T09:03:00Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693793345335840006.txt"
+  },
+  {
+   "id": "7693851325716598023",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693851325716598023",
+   "caption": "התחזו למלי וליאל יהלומי? לפני שעות ספורות דווח כי מלי וליאל יהלומי נע...",
+   "posted": "1791364366",
+   "found": "2026-10-07T09:16:48Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-07T09:03:11Z",
-  "channelsOk": 22,
-  "channelsFail": 1,
-  "transcribed": 2
+  "at": "2026-10-07T09:17:20Z",
+  "channelsOk": 23,
+  "channelsFail": 0,
+  "transcribed": 1
  }
 }
