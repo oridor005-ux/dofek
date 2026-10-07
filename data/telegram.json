@@ -4,87 +4,78 @@
    "title": "עמית סגל",
    "subscribers": "369K",
    "lastId": 65572,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:50.988Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:31.310Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.6K",
+   "subscribers": "58.5K",
    "lastId": 7254,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:51.524Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:31.973Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:52.060Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:32.598Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11418,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:52.595Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:33.231Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19292,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:53.131Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:33.875Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:53.668Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:34.526Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:54.203Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:35.204Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131478,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:21:54.740Z",
-   "error": "HTTP 502"
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:35.860Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74720,
-   "ok": false,
-   "checkedAt": "2026-10-07T04:22:10.141Z",
-   "error": "This operation was aborted"
+   "lastId": 74723,
+   "ok": true,
+   "checkedAt": "2026-10-07T04:34:36.427Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T04:22:11.811Z"
+   "checkedAt": "2026-10-07T04:34:37.133Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-07T04:22:12.774Z"
+   "checkedAt": "2026-10-07T04:34:37.787Z"
   }
  },
  "posts": [
@@ -1412,13 +1403,40 @@
    "date": "2026-10-07T03:59:29+00:00",
    "text": "🔴 התקיפה החות'ית בנמל התעופה בתימן כוונה לעבר משלוחים סעודיים, מטוסים פונו\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74721",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74721",
+   "date": "2026-10-07T04:14:53+00:00",
+   "text": "🔴 תיעוד: איזנקוט עם הוריו של ענר שפירא, במיגונית בה נפל ברעים\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74722",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74722",
+   "date": "2026-10-07T04:16:55+00:00",
+   "text": "🔴 צה\"ל: כטב\"ם של חיל האוויר נחת באופן מבוקר בצפון הארץ בשל תקלה טכנית\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74723",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74723",
+   "date": "2026-10-07T04:29:21+00:00",
+   "text": "🔴 נשיא המדינה ורעייתו הדליקו נר זיכרון בבית הנשיא ב-6:29\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T04:22:13.174Z",
-  "ok": 2,
-  "fail": 9,
-  "added": 0,
-  "pendingNew": 40
+  "at": "2026-10-07T04:34:38.187Z",
+  "ok": 11,
+  "fail": 0,
+  "added": 3,
+  "pendingNew": 43
  }
 }
