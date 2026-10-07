@@ -3117,7 +3117,7 @@
    "caption": "על גבול עזה עם שלי דקל התצפיתנית, שומע את הסיפור הבלתי נתפס של התצפית...",
    "posted": "1791355525",
    "found": "2026-10-07T07:01:01Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693813369018535188.txt"
   },
   {
@@ -3128,7 +3128,7 @@
    "caption": "\"הרגשתי שהקב\"ה שומע אותי - זה היה שווה כל רגע\": אימו של שורד השבי בר ...",
    "posted": "1791356844",
    "found": "2026-10-07T07:15:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693819023737244935.txt"
   },
   {
@@ -3139,7 +3139,7 @@
    "caption": "התמונות הקשות מהנובה מתחילות להגיע ושרון - שיצא לחפש את בנו במתחם המס...",
    "posted": "1791357300",
    "found": "2026-10-07T07:16:15Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693759685459021064.txt"
   },
   {
@@ -3160,7 +3160,7 @@
    "caption": "שלוש שנים לאחר טבח 7 באוקטובר ופרוץ המלחמה, נחשפים ממדי הפעילות הצבאי...",
    "posted": "1791358589",
    "found": "2026-10-07T07:46:32Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693826511618542868.txt"
   },
   {
@@ -3171,8 +3171,11 @@
    "caption": "האהבה שניצחה הכל ❤️‍🩹 #שבעהבאוקטובר #חטופים #isr ",
    "posted": "1791359927",
    "found": "2026-10-07T08:02:38Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693832246372945172.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693832246372945172.txt",
+   "insightIds": [
+    "ins-2026-10-07-ec50"
+   ]
   },
   {
    "id": "7693832654608665863",
@@ -3182,7 +3185,7 @@
    "caption": "⁨\tשלי משל-יוגב, אמה של ליבי כהן מגורי ז״ל שנרצחה בטבח במסיבת הנובה, ר...",
    "posted": "1791360022",
    "found": "2026-10-07T08:16:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693832654608665863.txt"
   },
   {
@@ -3193,7 +3196,7 @@
    "caption": "הטלנובלה מסתבכת: מה גורם לאם ובתה להמשיך לברוח? 🌍 אחרי שנעלמו באוגוסט...",
    "posted": "1791360900",
    "found": "2026-10-07T08:31:17Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693827886826179847.txt"
   },
   {
@@ -3204,7 +3207,7 @@
    "caption": "שלי משל-יוגב, אימה של ליבי כהן מגורי ז\"ל, הגיעה למקום בו היא נ%צחה וס...",
    "posted": "1791362109",
    "found": "2026-10-07T08:47:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693841648689679637.txt"
   },
   {
@@ -3215,7 +3218,7 @@
    "caption": "\"שאלתי את עצמי מה בורא עולם היה רוצה ממני דווקא עכשיו\": אימה של אגם ב...",
    "posted": "1791363454",
    "found": "2026-10-07T09:02:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693847420811169032.txt"
   },
   {
@@ -3226,7 +3229,7 @@
    "caption": "היום לפני שלוש שנים | קובי, שהצליח להימלט מהנובה, התקשה למצוא מילים ל...",
    "posted": "1791363600",
    "found": "2026-10-07T09:03:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693793345335840006.txt"
   },
   {
@@ -3247,7 +3250,7 @@
    "caption": "שלוש שנים ל-7 באוקטובר - התפכחנו או שנשארנו בקונספציה?",
    "posted": "1791364754",
    "found": "2026-10-07T09:33:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693853002637102354.txt"
   },
   {
@@ -3258,7 +3261,7 @@
    "caption": "״אני רוצה שיזכרו מליבי שהיא שמש״☀️ #7באוקטובר #נזכורולאנשכח #לאנפסיקל...",
    "posted": "1791366039",
    "found": "2026-10-07T09:47:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693858516574031111.txt"
   },
   {
@@ -3269,7 +3272,7 @@
    "caption": "לא נשכח אותם 💔 שלוש משפחות שלמות - כולם נרצחו בשבעה באוקטובר, ללא נצו...",
    "posted": "1791367147",
    "found": "2026-10-07T10:02:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693863269466934536.txt"
   },
   {
@@ -3280,7 +3283,7 @@
    "caption": "בפתיחת דיון ועדת החוקה: דקת דומייה והקראת פרק תהילים לזכר קורבנות טבח...",
    "posted": "1791366436",
    "found": "2026-10-07T10:02:57Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693860234577759508.txt"
   },
   {
@@ -3291,7 +3294,7 @@
    "caption": "\"עם ישראל כבר לא יכול יותר. חייבים את זה לעצמנו, למשפחות\" ↓ ח\"כ יוליה...",
    "posted": "1791368179",
    "found": "2026-10-07T10:18:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693867727760444693.txt"
   },
   {
