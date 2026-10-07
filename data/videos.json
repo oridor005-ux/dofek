@@ -3026,12 +3026,23 @@
    "found": "2026-10-07T03:58:50Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693667053688884500.txt"
+  },
+  {
+   "id": "7693776791453863175",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693776791453863175",
+   "caption": "שלוש שנים אחרי. 7.10, 06:29. אני כאן עומד על קו התפר, סמוך לטולכרם, מ...",
+   "posted": "1791347013",
+   "found": "2026-10-07T04:29:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693776791453863175.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T04:14:40Z",
+  "at": "2026-10-07T04:29:33Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
