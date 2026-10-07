@@ -2992,7 +2992,7 @@
    "caption": "",
    "posted": "1791317885",
    "found": "2026-10-06T20:22:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693651695930232085.txt"
   },
   {
@@ -3003,8 +3003,11 @@
    "caption": "איפה הייתם ב־6:29? חיים בוכריס, אחיו של רס״ן חן בוכריס ז״ל, סגן מפקד ...",
    "posted": "1791313678",
    "found": "2026-10-06T20:54:01Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693633624322673941.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693633624322673941.txt",
+   "insightIds": [
+    "ins-2026-10-07-sh41"
+   ]
   },
   {
    "id": "7693764800261688597",
@@ -3024,8 +3027,11 @@
    "caption": "\"זה די הפתיע את כולנו, מערכת הביטחון נערכה בעיקר לאירועי הסלמה ביהודה...",
    "posted": "1791345000",
    "found": "2026-10-07T03:58:50Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693667053688884500.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693667053688884500.txt",
+   "insightIds": [
+    "ins-2026-10-07-kn29"
+   ]
   },
   {
    "id": "7693776791453863175",
@@ -3035,7 +3041,7 @@
    "caption": "שלוש שנים אחרי. 7.10, 06:29. אני כאן עומד על קו התפר, סמוך לטולכרם, מ...",
    "posted": "1791347013",
    "found": "2026-10-07T04:29:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693776791453863175.txt"
   },
   {
@@ -3046,7 +3052,7 @@
    "caption": "⁨\t‏בשעה 6:29: טקסי הזיכרון בתחנת המשטרה בשדרות וביישובי העוטף לציון 3...",
    "posted": "1791347754",
    "found": "2026-10-07T04:44:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693779976553762068.txt"
   },
   {
@@ -3057,7 +3063,7 @@
    "caption": "״בזכותם אנחנו יכולים להקים בית קפה במדינה הזו״ @rubihammerschlag",
    "posted": "1791349200",
    "found": "2026-10-07T05:16:30Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693642619322109236.txt"
   },
   {
@@ -3068,7 +3074,7 @@
    "caption": "אימה של התצפיתנית גילי לייבושור ז\"ל הגיעה הבוקר לחמ\"ל השרוף בנחל עוז,...",
    "posted": "1791350830",
    "found": "2026-10-07T05:30:05Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693793194886122773.txt"
   },
   {
@@ -3079,7 +3085,7 @@
    "caption": "מיכה ביטון, תושב נתיב העשרה, התחנן בשידור: \"בבקשה תוודאו שצה\"ל מגיע, ...",
    "posted": "1791351600",
    "found": "2026-10-07T05:45:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693668259580644629.txt"
   },
   {
@@ -3090,7 +3096,7 @@
    "caption": "״אף אחד לא עוזר לנו. שורפים לנו את הבתים״: בחזרה לבוקר ה-7.10 - השיחה...",
    "posted": "1791353574",
    "found": "2026-10-07T06:15:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693804990741171462.txt"
   },
   {
