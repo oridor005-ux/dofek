@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65576,
+   "lastId": 65581,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:40.502Z"
+   "checkedAt": "2026-10-07T07:56:16.350Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:41.168Z"
+   "checkedAt": "2026-10-07T07:56:17.039Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:41.798Z"
+   "checkedAt": "2026-10-07T07:56:17.674Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11421,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:42.437Z"
+   "checkedAt": "2026-10-07T07:56:18.347Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19296,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:43.085Z"
+   "checkedAt": "2026-10-07T07:56:19.013Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:43.741Z"
+   "checkedAt": "2026-10-07T07:56:19.656Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:44.367Z"
+   "checkedAt": "2026-10-07T07:56:20.291Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131498,
+   "lastId": 131499,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:45.092Z"
+   "checkedAt": "2026-10-07T07:56:21.105Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74741,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:45.669Z"
+   "checkedAt": "2026-10-07T07:56:21.665Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:46.367Z"
+   "checkedAt": "2026-10-07T07:56:22.368Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11064,
    "ok": true,
-   "checkedAt": "2026-10-07T07:44:47.014Z"
+   "checkedAt": "2026-10-07T07:56:23.079Z"
   }
  },
  "posts": [
@@ -1778,13 +1778,42 @@
    "date": "2026-10-07T07:37:57+00:00",
    "text": "🔴 ואנס: \"איראן חייבת לעצור את ההעשרה הגרעינית כדי להביא לסיום המלחמה\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65577",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65577",
+   "date": "2026-10-07T07:46:48+00:00",
+   "text": "מוצב בפסגת החרמון שהיה בשליטת אסד עד לפני שנתיים - נצבע כחול לבן\n(על הביצוע: גדוד שמעון מחטיבת החשמונאים)",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65581",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65581",
+   "date": "2026-10-07T07:47:45+00:00",
+   "text": "הליכוד והציונות הדתית יקימו מטה משותף שיפעל ביום הבחירות להגדלת אחוזי ההצבעה בימין\nבראש המטה: יו\"ר מועצת יש\"ע ישראל גנץ",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131499",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131499",
+   "date": "2026-10-07T07:47:50+00:00",
+   "text": "כוחות צה\"ל פושטים על ביתו של המחבל קדרי סמארה שביצע את פיגוע הירי הרצחני הבוקר בנווה צוף (חלמיש). בין היתר ימופה ביתו שבכפר בדו, לקראת הריסתו. בכפרו של סמארה, בדו, ישנם, כפי שתוכלו לראות במפה המצורפת לא מעט בתים עם צו הריסה מוכן לביצוע (מסומנים בנקודות ירוקות).…",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:44:47.414Z",
+  "at": "2026-10-07T07:56:23.479Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 81
+  "added": 3,
+  "pendingNew": 84
  }
 }

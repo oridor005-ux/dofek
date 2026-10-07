@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T07:55:53.246Z",
+ "updated": "2026-10-07T08:07:30.025Z",
  "items": [
+  {
+   "id": "352e53e953a5",
+   "kind": "headline",
+   "title": "מכוניות יוקרה ומטוס פרטי: החל משפט \"מלך הקריפטו\" שמואשם בהונאת ענק",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/rykx9oxoge",
+   "topic": "econ",
+   "published": "2026-10-07T08:01:09.000Z",
+   "summary": "איידן פלטרסקי, שמואשם בהונאת משקיעים של כ-41 מיליון דולר ובהלבנת הון, נשפט בטורונטו ובחר לייצג את עצמו מול חבר המושבעים. לפי הנאמן בהליך פשיטת הרגל שלו, הוא השקיע רק 1.6% מהכסף והוציא 15.9 מיליון דולר על אורח חייו הראוותני",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/S1MBoumsMl/S1MBoumsMl_0_0_1440_816_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "3da24cd81baa",
    "kind": "headline",
@@ -95,6 +109,20 @@
    "published": "2026-10-07T07:00:02.000Z",
    "summary": "",
    "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ca6f897b0429",
+   "kind": "headline",
+   "title": "בין הדרום לצפון: הנתונים שחושפים את פערי השיקום בין שני חבלי הארץ שנפגעו במלחמה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558614#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T07:00:00.000Z",
+   "summary": "היקף הנזקים הישירים עומד על פי נתוני רשות המסים על למעלה מ־8 מיליארד שקל בשלוש שנים, אך צלילת עומק לנתונים מגלה פערי שיקום משמעותיים בין הדרום לצפון • מהפעילות העסקית ועד החזרה לבתים: מה מלמדים הנתונים?",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1705249633/direct/234e6cbe-df48-4057-b588-31e258c75137_ic1d0p.jpg",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -5713,36 +5741,6 @@
    "alsoIn": [
     "nytimes.com",
     "The New York Times"
-   ],
-   "important": false
-  },
-  {
-   "id": "688466408db9",
-   "kind": "headline",
-   "title": "Texas Pediatricians Face Paxton Investigations for Vaccinating Children",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
-   "topic": "world",
-   "published": "2026-10-05T15:00:54.000Z",
-   "summary": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.",
-   "image": "https://static01.nyt.com/images/2026/10/01/multimedia/XXDC-Pediatrician-vaccines-top-tzph/XXDC-Pediatrician-vaccines-top-tzph-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8e59d36f1ad4",
-   "kind": "headline",
-   "title": "שליח טראמפ דוחה את השוואת הציונות לגזענות: “אנשים צריכים להבין את המונח\"",
-   "source": "walla.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhVkJPNzJ6SWJWaTJkMzI4LVljZ1I2T09aaVFrV0o3RklLY01UMkMxWmlZTUdYZEtuYktvS2VEcVVDVERLUUhUeTVPY2Z5UTkzaGlDZklPRQ?oc=5",
-   "topic": "research",
-   "published": "2026-10-05T14:59:16.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "וואלה"
    ],
    "important": false
   }
