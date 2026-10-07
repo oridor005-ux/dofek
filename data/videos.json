@@ -4011,12 +4011,34 @@
    "posted": "1791400372",
    "found": "2026-10-07T19:40:00Z",
    "status": "failed"
+  },
+  {
+   "id": "7694016898970684693",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694016898970684693",
+   "caption": "העצב אין לו סוף: קטע מתוך טקס הזיכרון הלאומי של משפחות 7 באוקטובר, שק...",
+   "posted": "1791402915",
+   "found": "2026-10-07T19:57:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694016898970684693.txt"
+  },
+  {
+   "id": "7694015931869334792",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694015931869334792",
+   "caption": "עודד הרוש מודה: \"לא האמנתי שכל החטופים יחזרו. הייתי קטן אמונה - משפחו...",
+   "posted": "1791402697",
+   "found": "2026-10-07T19:58:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694015931869334792.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T19:42:40Z",
+  "at": "2026-10-07T19:58:39Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
