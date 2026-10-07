@@ -3772,12 +3772,34 @@
    "found": "2026-10-07T15:54:00Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693840134352932116.txt"
+  },
+  {
+   "id": "7693955346494229768",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693955346494229768",
+   "caption": "#פוריו #בשבילך #ימין #פוליטיקה ",
+   "posted": "1791388585",
+   "found": "2026-10-07T16:07:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693955346494229768.txt"
+  },
+  {
+   "id": "7693954675351031092",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693954675351031092",
+   "caption": "מונעים את ה-7.10 הבא - מפרקים את הרשות הפלסטינית!",
+   "posted": "1791388426",
+   "found": "2026-10-07T16:08:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693954675351031092.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T15:54:12Z",
+  "at": "2026-10-07T16:08:09Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 2
  }
 }
