@@ -4,78 +4,87 @@
    "title": "עמית סגל",
    "subscribers": "369K",
    "lastId": 65572,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:18.950Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:50.988Z",
+   "error": "HTTP 502"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7254,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:19.602Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:51.524Z",
+   "error": "HTTP 502"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:20.254Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:52.060Z",
+   "error": "HTTP 502"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11418,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:20.899Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:52.595Z",
+   "error": "HTTP 502"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19292,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:21.563Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:53.131Z",
+   "error": "HTTP 502"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:22.212Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:53.668Z",
+   "error": "HTTP 502"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:22.848Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:54.203Z",
+   "error": "HTTP 502"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131478,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:23.491Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:21:54.740Z",
+   "error": "HTTP 502"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74720,
-   "ok": true,
-   "checkedAt": "2026-10-07T04:10:24.053Z"
+   "ok": false,
+   "checkedAt": "2026-10-07T04:22:10.141Z",
+   "error": "This operation was aborted"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T04:10:24.745Z"
+   "checkedAt": "2026-10-07T04:22:11.811Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-07T04:10:25.425Z"
+   "checkedAt": "2026-10-07T04:22:12.774Z"
   }
  },
  "posts": [
@@ -1406,10 +1415,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-07T04:10:25.826Z",
-  "ok": 11,
-  "fail": 0,
-  "added": 1,
+  "at": "2026-10-07T04:22:13.174Z",
+  "ok": 2,
+  "fail": 9,
+  "added": 0,
   "pendingNew": 40
  }
 }
