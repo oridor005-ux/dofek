@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-07T13:04:57.648Z",
+ "updated": "2026-10-07T13:16:35.789Z",
  "items": [
+  {
+   "id": "02291b0750a5",
+   "kind": "headline",
+   "title": "British Jewish groups to hold London vigil for victims of 7 October attacks",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
+   "topic": "israelAbroad",
+   "published": "2026-10-07T13:16:35.000Z",
+   "summary": "Gathering expected to take place at Richmond Terrace, opposite Downing Street, at 5pm on Wednesday British Jewish organisations will gather in central London for a vigil honouring victims of the 7 October attacks in Israel on Wednesday, after a day of tributes from politicians and community…",
+   "image": "https://i.guim.co.uk/img/media/cdab195965a8182b9e42b65866c3e256e93e79f8/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=3234ef45b9973278debc4b38c53fb6c3",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2b910672c242",
+   "kind": "headline",
+   "title": "הערכות: דיסקונט ישלם כמיליון שקל לכל עובד מרכנתיל שיפרוש במיזוג",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558710#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-07T13:03:00.000Z",
+   "summary": "עלות המהלך במסגרתו יעזבו מאות מעובדי מרכנתיל, צפויה לעמוד לפי ההערכות על חצי מיליארד שקל לפחות • אי.בי.אי: \"בטווח של שלוש שנים נראה את פירות המיזוג\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1598840933/old/289006.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a8ef34ff3fa6",
    "kind": "headline",
@@ -5654,36 +5682,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "09835444a38c",
-   "kind": "headline",
-   "title": "Georgian Young Lawyers’ Association",
-   "source": "Right Livelihood",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczNick1qSGpNN1VWVWtvTzAzVm1fOVZvNjNXZU1mNDNvN3RxNEZRNkpNS1VrTVhKZjBhQ25vNjliXzY1VkxmTlpSRGZKdzdKdFhoNE45UGd0RGN0bkxZSDM2amVYbk10MjZBeVB0SHRwWmJFdVUwMUxVTmVOVDZublRCd3RPNlV5RXJzX2pqNzJGNDV6SG5tWDg1MWhhQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T00:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b67ee88a863f",
-   "kind": "headline",
-   "title": "Ethiopia PM Abiy Ahmed secures second five-year term - APAnews",
-   "source": "APAnews - Agence de Presse Africaine",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iVmNKWXZZd2s0OHEteDdYYkticl9VZ0lpTHpFejNPblNUQ1RjZEN3TGx2eGVuOERON1RCSzhVZ0QxVWN6VC1kQkR6TmFQYkhjT3MzZXREM3l4X1VzUUNjd1BXaHBBMWNoVWpGSy1mVlVPU1F3Y1BnYlNzb3BqQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T23:50:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "apanews.net"
-   ],
    "important": false
   }
  ]
