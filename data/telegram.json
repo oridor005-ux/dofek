@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65581,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:16.350Z"
+   "checkedAt": "2026-10-07T08:08:43.066Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:17.039Z"
+   "checkedAt": "2026-10-07T08:08:43.858Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:17.674Z"
+   "checkedAt": "2026-10-07T08:08:44.476Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11421,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:18.347Z"
+   "checkedAt": "2026-10-07T08:08:45.108Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19296,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:19.013Z"
+   "checkedAt": "2026-10-07T08:08:45.747Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:19.656Z"
+   "checkedAt": "2026-10-07T08:08:46.402Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:20.291Z"
+   "checkedAt": "2026-10-07T08:08:47.037Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131499,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:21.105Z"
+   "checkedAt": "2026-10-07T08:08:47.709Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74741,
+   "lastId": 74742,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:21.665Z"
+   "checkedAt": "2026-10-07T08:08:48.267Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:22.368Z"
+   "checkedAt": "2026-10-07T08:08:48.920Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11064,
    "ok": true,
-   "checkedAt": "2026-10-07T07:56:23.079Z"
+   "checkedAt": "2026-10-07T08:08:49.658Z"
   }
  },
  "posts": [
@@ -1807,13 +1807,22 @@
    "text": "כוחות צה\"ל פושטים על ביתו של המחבל קדרי סמארה שביצע את פיגוע הירי הרצחני הבוקר בנווה צוף (חלמיש). בין היתר ימופה ביתו שבכפר בדו, לקראת הריסתו. בכפרו של סמארה, בדו, ישנם, כפי שתוכלו לראות במפה המצורפת לא מעט בתים עם צו הריסה מוכן לביצוע (מסומנים בנקודות ירוקות).…",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74742",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74742",
+   "date": "2026-10-07T08:01:26+00:00",
+   "text": "🔴 פיצוץ נשמע בגבעת שמואל עקב הריסת בית של מחבל\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:56:23.479Z",
+  "at": "2026-10-07T08:08:50.058Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 84
+  "added": 1,
+  "pendingNew": 85
  }
 }

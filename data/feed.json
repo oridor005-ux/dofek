@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-07T08:07:30.025Z",
+ "updated": "2026-10-07T08:19:55.528Z",
  "items": [
+  {
+   "id": "df9e9d8c5a6b",
+   "kind": "headline",
+   "title": "מגמה מעורבת בתל אביב; נקסט ויז'ן מוחקת קרוב ל-4 מיליארד שקל ביומיים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T08:17:00.000Z",
+   "summary": "ת\"א 35 יורד בכ-0.5%, ת\"א 90 מטפס בכ-0.8% • יצרנית המצלמות הרחפנים ממשיכה לספוג לחצים אחרי מימוש הענק של פידליטי • מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים, על רקע דיווח שאיראן מגבירה את התקיפות במצר הורמוז • וול סטריט שוב טיפסה לשיאים חדשים בהובלת מניות הטכנולוגיה, אך אנליסטים ממשיכים להצביע על נזק…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "610f611ed048",
+   "kind": "headline",
+   "title": "המרוץ למכירת אייפון 18: אושר עד מציעה הנחה נוספת",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558680#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T08:10:00.000Z",
+   "summary": "אושר עד הובילה את טרנד מכירת האייפונים בסופר, וכעת מציעה את דגם ה־256GB בהנחה של יותר מאלף שקל ממחיר השוק • כך רשתות השיווק נוקטות בטקטיקת ״לוס לידר״ ומוכרות מוצרים מבוקשים במחיר נמוך ובמלאי מוגבל כדי למשוך לקוחות ולהגדיל את הקניות בסניף",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1599166457/direct/DSC_0215_tmfsiq.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8f6a33d8ab54",
+   "kind": "headline",
+   "title": "בקשה לייצוגית ב-140 מיליון שקל נגד קצא\"א",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/rkwe2umjml",
+   "topic": "econ",
+   "published": "2026-10-07T08:07:43.000Z",
+   "summary": "שני תושבי אילת טוענים למפגעים שמקורם בחוות המכלים של החברה ב-2025-2021: \"מסכת בת שנים של זיהום\". לבקשה צורפו 142 תלונות שתועדו בעירייה",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/11/25/HyPQcRhOK/HyPQcRhOK_0_56_1600_901_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d20ed0998a44",
+   "kind": "headline",
+   "title": "הפסד לקשישה שניסתה לעצור תמ\"א 38 בפ\"ת",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/syxbj00mimg",
+   "topic": "econ",
+   "published": "2026-10-07T08:07:16.000Z",
+   "summary": "בעלת דירה סירבה לחתום בטענה שמגיעות לה זכויות של דייר קשיש. שכניה שכנעו שהרוב הדרוש לפרויקט הושג לפני תיקון החוק הנוגע להגנה על קשישים",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/rkY7DP9QMg/rkY7DP9QMg_0_0_1000_563_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "12d86b940dfb",
+   "kind": "headline",
+   "title": "ישראלית הוכרה כאם לבת של זוגתה הזרה",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/bjxr900mjfg",
+   "topic": "econ",
+   "published": "2026-10-07T08:06:49.000Z",
+   "summary": "בנות הזוג, תושבות ארה\"ב, ילדו בהפרש של חודש. בעוד בנה של הישראלית קיבל אזרחות בארץ, מעמדה של הבת נותר שונה. בית המשפט החליט לשים לזה סוף",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/05/10/6041392/6041392_0_0_1300_732_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "352e53e953a5",
    "kind": "headline",
@@ -5664,83 +5734,6 @@
    "score": 0,
    "alsoIn": [
     "ice (אייס)"
-   ],
-   "important": false
-  },
-  {
-   "id": "d19fc2448f56",
-   "kind": "headline",
-   "title": "Çitaku: PDK-ja s’largohet nga Kuvendi, deputetët të kthehen e ta votojnë Ligjin për Specialen",
-   "source": "Reporteri.net",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOExqeHpwSHE0Q2xBS0drNzRkTkRmU2QtaG1ZVVU4a0Q0SS1ZMTdkbGtUWS1BNnJvbGozMmFhWWdEcnhCRnNCaExYeDJpalhTcDBZSG16eG9OY3BuUlNiejJsdFo0cExCSDZuYWY5VUlWcndNQU9XLTBXMUFnclFfZFlqaTI0bXJTRnVNbW5YZU51UV9Cbnh5Q2xXdk1iUklrN05DV2J4RmR5VlREMmU1ZFAxeTNjMWdJQnFxbTB4NW8zSDNZLXZHVEdidGI?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T15:16:45.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "reporteri.net"
-   ],
-   "important": false
-  },
-  {
-   "id": "e0fac69b8e32",
-   "kind": "headline",
-   "title": "Elbit Systems stock gains 4.11 percent on Q2 growth",
-   "source": "AD HOC NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE1kM2pqWmFJTXV6OV9mYjRralJST3doYjdvTUYtWXVYX2IzT2JzSHZuUU5BSThVSDI4Q2V1a01xS2REeVhKYnR0VVNnX0tVN3lFbU9UN1pLQWFERF9HNkFnQ3loUkN5aTNWQm40aTg4N1FYV1lwX1kwZUs4bmpVemtUUVk3eGM1cm5vMllFOXFsOEgwZlhxRl9hMW8yWXV4ampYUXJsUFNOTTV3R1BfLUItQzA?oc=5",
-   "topic": "defense",
-   "published": "2026-10-05T15:11:34.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "ad-hoc-news.de"
-   ],
-   "important": false
-  },
-  {
-   "id": "22addde303cd",
-   "kind": "headline",
-   "title": "Over 70 pro-Palestinian protests planned for Oct. 7 anniversary",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGNU9PUDN1NWlzX2ZnTzFfS0VuUko0RXZaay1ucG5DY0hwdHF1QVRpTGdxTWhmeUhybm94SVkybkhZQ1hjQ2o5RVFnRkZJT1RFVFhUT0xiVEJfZHJGMGxRMkdFVWh4TlJ2Q1E?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T15:02:36.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a0b80891ebb1",
-   "kind": "headline",
-   "title": "At least 75 pro-Palestinian protests planned worldwide on Oct. 7 anniversary, many deemed high risk",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGNU9PUDN1NWlzX2ZnTzFfS0VuUko0RXZaay1ucG5DY0hwdHF1QVRpTGdxTWhmeUhybm94SVkybkhZQ1hjQ2o5RVFnRkZJT1RFVFhUT0xiVEJfZHJGMGxRMkdFVWh4TlJ2Q1E?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T15:02:36.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9fdc05d5fb1b",
-   "kind": "headline",
-   "title": "Spain’s Leader Calls an Early Election",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
-   "topic": "world",
-   "published": "2026-10-05T15:01:41.000Z",
-   "summary": "Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
-   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v3.jpg",
-   "score": 0,
-   "alsoIn": [
-    "nytimes.com",
-    "The New York Times"
    ],
    "important": false
   }
