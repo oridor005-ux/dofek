@@ -3827,12 +3827,44 @@
    "found": "2026-10-07T16:38:35Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693961891424505140.txt"
+  },
+  {
+   "id": "7693966169912478994",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693966169912478994",
+   "caption": "ביום הזיכרון לטבח 7 באוקטובר: הליכוד יצא במתקפה חריפה נגד חדשות 12 בט...",
+   "posted": "1791391110",
+   "found": "2026-10-07T17:08:15Z",
+   "status": "failed"
+  },
+  {
+   "id": "7693969993507114246",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693969993507114246",
+   "caption": "תיעוד מחטיפת התצפיתניות ב-7.10: מסוק קרב שהה מעל המוצב, ראה את הג'יפ ...",
+   "posted": "1791391992",
+   "found": "2026-10-07T17:08:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693969993507114246.txt"
+  },
+  {
+   "id": "7693968527656635669",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693968527656635669",
+   "caption": "איך אנשים מסוגלים להאמין לשיכתוב ההיסטוריה של האנטי ישראלים כשיש להם ...",
+   "posted": "1791391653",
+   "found": "2026-10-07T17:09:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693968527656635669.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T16:38:59Z",
+  "at": "2026-10-07T17:09:23Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
