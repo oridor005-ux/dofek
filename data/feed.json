@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T11:53:43.571Z",
+ "updated": "2026-10-07T12:05:20.251Z",
  "items": [
+  {
+   "id": "af4eb9fda84c",
+   "kind": "headline",
+   "title": "Case of U.S. Marine Accused of Murder in Japan Draws Outcry",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html",
+   "topic": "world",
+   "published": "2026-10-07T11:56:10.000Z",
+   "summary": "Prime Minister Sanae Takaichi, a close Trump ally, is under pressure to strengthen oversight of the U.S. military in Japan.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-japan-okinawa-tjfv/07int-japan-okinawa-tjfv-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "fb2085dafbd6",
    "kind": "headline",
@@ -5680,20 +5694,6 @@
     "blogs.timesofisrael.com"
    ],
    "important": true
-  },
-  {
-   "id": "50531e32234d",
-   "kind": "headline",
-   "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-05T20:42:19.000Z",
-   "summary": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/784e/live/4834ba00-c0d8-11f1-bdc6-179ac8d394b5.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
