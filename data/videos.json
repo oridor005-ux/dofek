@@ -3553,12 +3553,56 @@
    "found": "2026-10-07T13:22:18Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693912008667778356.txt"
+  },
+  {
+   "id": "7693917261114985736",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693917261114985736",
+   "caption": "ארין מולן, עיתונאית אוסטרלית שראתה את מנהרות חמאס וצפתה בתיעודי השבעה...",
+   "posted": "1791379714",
+   "found": "2026-10-07T13:35:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693917261114985736.txt"
+  },
+  {
+   "id": "7693917840809676052",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693917840809676052",
+   "caption": "ארגונים פרו-פלסטיניים באירופה ובארה\"ב החלו באירועים של מה שהם מכנים \"...",
+   "posted": "1791379848",
+   "found": "2026-10-07T13:35:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693917840809676052.txt"
+  },
+  {
+   "id": "7693873944885153044",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693873944885153044",
+   "caption": "הילדים שלא יכירו את אבא | הערב במהדורת כאן חדשות (יפעת עמיאל)",
+   "posted": "1791379800",
+   "found": "2026-10-07T13:36:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693873944885153044.txt"
+  },
+  {
+   "id": "7693917202193370388",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693917202193370388",
+   "caption": "אוהד יהלומי ז\"ל ובנו איתן נח@פו ב-7 באוקטובר מביתם בקיבוץ ניר עוז. אי...",
+   "posted": "1791379699",
+   "found": "2026-10-07T13:36:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693917202193370388.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T13:22:28Z",
+  "at": "2026-10-07T13:36:33Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 4
  }
 }
