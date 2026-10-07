@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-07T07:31:17.599Z",
+ "updated": "2026-10-07T07:43:43.351Z",
  "items": [
+  {
+   "id": "3da24cd81baa",
+   "kind": "headline",
+   "title": "מגמה מעורבת בתל אביב; מניות השבבים הדואליות נופלות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T07:42:00.000Z",
+   "summary": "ת\"א 35 יורד בכ-0.5%, ת\"א 90 מטפס בכ-0.8% • מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים, על רקע דיווח שאיראן מגבירה את התקיפות במצר הורמוז • וול סטריט שוב טיפסה לשיאים חדשים בהובלת מניות הטכנולוגיה, אך אנליסטים ממשיכים להצביע על נזק מתחת לפני השטח • וגם: בבנק סיטי מעריכים שענקית השבבים AMD תזנק ב-25%",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0e1dd40b1715",
+   "kind": "headline",
+   "title": "איך נקבע יום הזיכרון הרשמי של ה־7 באוקטובר?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558636#utm_source=RSS",
+   "topic": "factcheck",
+   "published": "2026-10-07T07:40:00.000Z",
+   "summary": "טקסי יום הזיכרון לטבח ה־7 באוקטובר מצוינים השבוע בישראל, כשמועד הציון עדיין נתון במחלוקת כיצד נקבעים ימי זיכרון? • המשרוקית מסבירה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1704879712/direct/DSCF8868_qittbn.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "633a27417c5d",
    "kind": "headline",
@@ -58,6 +86,20 @@
    "important": false
   },
   {
+   "id": "664cdf43f5ac",
+   "kind": "headline",
+   "title": "ד\"ר חוסאם אבו בכר: המלחמה פגעה בתעסוקת הערבים והמשק משלם את המחיר",
+   "source": "זמן ישראל",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RRHFtSEhWMXotaWNEazNvYXJqeVhqaWltMVRRZ3JISnNUZVdfNTMyWFliRHhVdGMwOUNnbl9qR1JjRXUy?oc=5",
+   "topic": "demo",
+   "published": "2026-10-07T07:00:02.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "e70336af31ad",
    "kind": "headline",
    "title": "France’s Economy Is Trapped in a Negative Feedback Loop",
@@ -96,7 +138,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Business Times"
+   ],
    "important": false
   },
   {
@@ -5700,50 +5744,6 @@
    "alsoIn": [
     "וואלה"
    ],
-   "important": false
-  },
-  {
-   "id": "482d4703c1c4",
-   "kind": "headline",
-   "title": "הפרדוקס של שוק הנפט: היצוא מהורמוז חזר לשגרה, אך המחירים ממשיכים לטפס",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558480#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-05T14:56:00.000Z",
-   "summary": "נתונים חדשים של חברת המחקר הבינ\"ל קפלר מלמדים כי יצוא הנפט מהמזרח התיכון רשם התאוששות דרמטית וחזר לרמות שלפני פרוץ המלחמה • למרות זאת, מחירי חבית ברנט נותרו סביב 100 דולר • מה עומד מאחורי האנומליה שבין ההיצע למחיר",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781785447/direct/1_wtolye.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "001b21c820ea",
-   "kind": "headline",
-   "title": "Everyone is Trading Blame for the Flydubai Failure",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iRi1yZHhucTRwTnNpWW8xdFJhdHdoam1ONzNYelpoZWwzSE0zUl9JbE1KUHBrNjN3VE5wbXhhdEdWTXlfYnZiSg?oc=5",
-   "topic": "media",
-   "published": "2026-10-05T14:50:11.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "the7eye.org.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "c8c093f8d66a",
-   "kind": "headline",
-   "title": "UK voting systems explained: FPTP, AMS, STV and more",
-   "source": "Politics.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UeFUtS21CUE1MSm8tWmg4Z0FRTXpDYy1rSlVPU2JjVzVtYUVMY1Y2NzVlQnRwUVlRTWs5cUVUWFM2YVVPaG1HRVJBVmprMzZNdTRHdTNYdktFbU9zQTQ4VUdEWl9saGdsN25IQ2ZhTHBQVTN0aHh0SFBmRlZOc0U?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T14:49:23.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]

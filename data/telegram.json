@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65576,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:03.156Z"
+   "checkedAt": "2026-10-07T07:32:28.357Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:03.849Z"
+   "checkedAt": "2026-10-07T07:32:29.076Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:04.500Z"
+   "checkedAt": "2026-10-07T07:32:29.766Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11421,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:05.339Z"
+   "checkedAt": "2026-10-07T07:32:30.464Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19296,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:06.026Z"
+   "checkedAt": "2026-10-07T07:32:31.207Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:06.702Z"
+   "checkedAt": "2026-10-07T07:32:31.914Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:07.369Z"
+   "checkedAt": "2026-10-07T07:32:32.608Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131492,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:08.118Z"
+   "checkedAt": "2026-10-07T07:32:33.360Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74739,
+   "lastId": 74740,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:08.710Z"
+   "checkedAt": "2026-10-07T07:32:33.981Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:09.420Z"
+   "checkedAt": "2026-10-07T07:32:34.734Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11064,
    "ok": true,
-   "checkedAt": "2026-10-07T07:20:10.144Z"
+   "checkedAt": "2026-10-07T07:32:35.528Z"
   }
  },
  "posts": [
@@ -1750,13 +1750,22 @@
    "date": "2026-10-07T07:13:33+00:00",
    "text": "בפתיחת דיון ועדת החוקה: דקת דומייה והקראת פרק תהילים לזכר קורבנות טבח 7/10",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74740",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74740",
+   "date": "2026-10-07T07:29:51+00:00",
+   "text": "🔴 חברי הכנסת עמדו דקת דומייה לזכר קובנות 7.10 בפתח דיון ועדת החוקה \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:20:10.544Z",
+  "at": "2026-10-07T07:32:35.929Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 78
+  "added": 1,
+  "pendingNew": 79
  }
 }
