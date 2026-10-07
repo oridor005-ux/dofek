@@ -3206,12 +3206,34 @@
    "found": "2026-10-07T08:47:04Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693841648689679637.txt"
+  },
+  {
+   "id": "7693847420811169032",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693847420811169032",
+   "caption": "\"שאלתי את עצמי מה בורא עולם היה רוצה ממני דווקא עכשיו\": אימה של אגם ב...",
+   "posted": "1791363454",
+   "found": "2026-10-07T09:02:25Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693847420811169032.txt"
+  },
+  {
+   "id": "7693793345335840006",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693793345335840006",
+   "caption": "היום לפני שלוש שנים | קובי, שהצליח להימלט מהנובה, התקשה למצוא מילים ל...",
+   "posted": "1791363600",
+   "found": "2026-10-07T09:03:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693793345335840006.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T08:47:15Z",
-  "channelsOk": 23,
-  "channelsFail": 0,
-  "transcribed": 1
+  "at": "2026-10-07T09:03:11Z",
+  "channelsOk": 22,
+  "channelsFail": 1,
+  "transcribed": 2
  }
 }
