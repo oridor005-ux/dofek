@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T13:28:30.936Z",
+ "updated": "2026-10-07T13:40:40.935Z",
  "items": [
+  {
+   "id": "ca2495396239",
+   "kind": "headline",
+   "title": "פתיחה שלילית בוול סטריט בצל הזינוק בתשואות ובמדד הפחד",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T13:37:00.000Z",
+   "summary": "זינוק בתשואות האג\"ח הממשלתיות בארה\"ב מעיב על סנטימנט המשקיעים • וול סטריט נפתחה בירידות שערים • בורסות אסיה ננעלו במגמה מעורבת, הקוספי נפל בכ-2% • שוק המשכנתאות האמריקאי סופג מכה • מניות הטכנולוגיה מובילות את המגמה השלילית • באירופה, ירידות שערים רוחביות בכל המדדים המובילים • הנפט חוזר למעל 101…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "02291b0750a5",
    "kind": "headline",
@@ -5667,20 +5681,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9e7f86433acc",
-   "kind": "headline",
-   "title": "How the Bolsonaro Family Made a Warp Speed Political Comeback in Brazil",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/americas/how-the-bolsonaro-family-made-a-warp-speed-political-comeback-in-brazil-3e2e1d4b?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-06T02:00:00.000Z",
-   "summary": "The conservative movement is becoming the dominant force in Brazilian politics after Sunday’s national election.",
-   "image": "https://images.wsj.net/im-81919169",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
