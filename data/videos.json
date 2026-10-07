@@ -3630,12 +3630,23 @@
    "found": "2026-10-07T13:55:22Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693922137807047956.txt"
+  },
+  {
+   "id": "7693879968186551572",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693879968186551572",
+   "caption": "אמא של עמית בוסקילה ז\"ל הגיעה לבית החולים סורוקה לחפש את בתה: \"אני מת...",
+   "posted": "1791381600",
+   "found": "2026-10-07T14:06:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693879968186551572.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T13:55:42Z",
+  "at": "2026-10-07T14:06:20Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
