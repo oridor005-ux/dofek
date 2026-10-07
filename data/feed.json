@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T14:16:20.238Z",
+ "updated": "2026-10-07T14:27:52.435Z",
  "items": [
+  {
+   "id": "78b193a57dc3",
+   "kind": "headline",
+   "title": "נסיגה בוול סטריט: הדאו ג'ונס צולל בכ-500 נקודות בצל הזינוק בתשואות ומחירי הנפט",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T14:05:00.000Z",
+   "summary": "יום לאחר שמדד ה-S&P 500 נגע בשיא כל הזמנים, המגמה בוול סטריט מתהפכת בחדות • וול סטריט מתנהלת בירידות שערים; מניות הטכנולוגיה סופגות מימושים • בורסות אסיה ננעלו במגמה מעורבת, הקוספי נפל בכ-2% • שוק המשכנתאות האמריקאי סופג מכה • באירופה, ירידות שערים רוחביות בכל המדדים המובילים • הנפט חוזר למעל 102…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6d5343fa87db",
    "kind": "headline",
@@ -5668,22 +5682,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791209588/%D7%90%D7%9C%D7%97%D7%A0%D7%93%D7%A8%D7%95-%D7%95%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_upztyu.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6ecd5fff2870",
-   "kind": "headline",
-   "title": "האוצר יזרים 40 מיליון שקל למוסדות שנפגעו במלחמה - בשני מסלולים | יהודה שרוני",
-   "source": "maariv.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TNVBUWW1nY0NUUHpJcGZ5LXllY2FPeTYyNzQxVVBJUzVESHVaWHBIQ0g4TzNVOHdlcEJ1dW1QdVVZcFAyWHlJQ1ZFdjBUcG91cHBKUzA2TGdvQlBQc29HUThSWUx5dw?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T03:00:46.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "מעריב"
-   ],
    "important": false
   }
  ]
