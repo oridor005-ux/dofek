@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-07T13:52:17.902Z",
+ "updated": "2026-10-07T14:03:52.108Z",
  "items": [
+  {
+   "id": "6d5343fa87db",
+   "kind": "headline",
+   "title": "‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
+   "topic": "world",
+   "published": "2026-10-07T14:00:53.000Z",
+   "summary": "Forced closure marks low point in UK-Israeli relations, with reports UK is considering retaliatory expulsion of Israeli diplomats from London Israel marks three years since 7 October attack – live The UK consulate in East Jerusalem gave few signs that it was at the centre of a geopolitical…",
+   "image": "https://i.guim.co.uk/img/media/ed824521005f7f4f78c26048db8728d9e70293f8/375_0_3417_2733/master/3417.jpg?width=140&quality=85&auto=format&fit=max&s=642dfc6b6179c1f64384f90275e63b26",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8b7ab106c62b",
+   "kind": "headline",
+   "title": "ירידות חדות בבורסה בתל אביב",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/hkbj067jzg",
+   "topic": "econ",
+   "published": "2026-10-07T13:54:10.000Z",
+   "summary": "מניות הביטוח והחברות הביטחוניות מורידות את הבורסה, והמדדים המובילים צונחים ביותר מ-2%",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/24/H18dRX36F/H18dRX36F_0_0_1000_562_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "50b4b1ce2a69",
    "kind": "headline",
@@ -5654,34 +5682,6 @@
    "alsoIn": [
     "politics.co.uk"
    ],
-   "important": false
-  },
-  {
-   "id": "3495e95571b6",
-   "kind": "headline",
-   "title": "Diplomat is Romania’s fourth prime ministerial candidate in five months",
-   "source": "politico.eu",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWtMUjdYd29GTXpSWTNjTnBwWHJzaXpFdnhZUHlkUVZaWDFzRjgxTWJPUW0yWGNHcHctTEJPNEpvV0gyd3dRYTR6RWljUmtsWEd2c3lZbTFxdE4zcTB1NGlGc2Q5Nm1acVFIbFZuN1hCWUVrbC1ZbkNzTEE3SVF5bXh0TTJOblVENi1qZ1hWTFJHNUVxZzJKLWlMNEU4ak9R?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T02:33:11.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c74f54c4103a",
-   "kind": "headline",
-   "title": "OpenAI’s models have also meddled with U.S. government websites after going rogue.",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/openais-models-have-also-meddled-with-us-government-websites-after-going-rogue",
-   "topic": "world",
-   "published": "2026-10-06T02:31:42.000Z",
-   "summary": "",
-   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05oz-ai-us-government-version1-qbvk/05oz-ai-us-government-version1-qbvk-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
