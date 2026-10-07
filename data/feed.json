@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T05:57:05.486Z",
+ "updated": "2026-10-07T06:08:39.513Z",
  "items": [
   {
    "id": "751b42880bd2",
@@ -19,6 +19,20 @@
    "id": "ab79793d4a34",
    "kind": "headline",
    "title": "חמישה דברים שכדאי לדעת לקראת פתיחת המסחר בבורסה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T05:40:00.000Z",
+   "summary": "יום המסחר צפוי להיפתח במגמה מעורבת, המניות הדואליות יכבידו על המדדים • מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים, על רקע דיווח שאיראן מגבירה את התקיפות במצר הורמוז • וול סטריט שוב טיפסה לשיאים חדשים בהובלת מניות הטכנולוגיה, אך אנליסטים ממשיכים להצביע על נזק מתחת לפני השטח • וגם: בבנק סיטי מעריכים…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg3_x3c4yv.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a9e8429a1331",
+   "kind": "headline",
+   "title": "המניות שיעיבו על הבורסה: חמישה דברים לקראת יום המסחר",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
    "topic": "econ",
@@ -5738,20 +5752,6 @@
    "summary": "ה-S&P 500 עולה בכ-0.2% • מחירי הנפט מאבדים גובה • משבר האג\"ח בצרפת מעיב על אירופה; הבורסה בפריז בולטת לשלילה בעקבות צניחת מניית שניידר אלקטריק, שמשלימה עסקת ענק בארה\"ב • בורסת טוקיו קפצה במעל 2%",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "05d0f8bb8630",
-   "kind": "headline",
-   "title": "תמורת 1.2 מיליארד שקל: הושלמה עסקת מכירת הוט מובייל",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/r10vafzsfg",
-   "topic": "deals",
-   "published": "2026-10-05T13:32:10.000Z",
-   "summary": "במסגרת העסקה, דלק ישראל וקרן קיסטון רכשו 40% כל אחת מהוט מובייל, ולאומי פרטנרס 20%, לפי שווי של כ-1.88 מיליארד שקל",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/22/HySUS5U6be/HySUS5U6be_0_563_3000_1688_0_medium.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }

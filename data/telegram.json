@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65572,
+   "lastId": 65573,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:53.890Z"
+   "checkedAt": "2026-10-07T05:57:23.622Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:54.523Z"
+   "checkedAt": "2026-10-07T05:57:24.373Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:55.171Z"
+   "checkedAt": "2026-10-07T05:57:25.107Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11420,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:55.795Z"
+   "checkedAt": "2026-10-07T05:57:25.809Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19293,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:56.429Z"
+   "checkedAt": "2026-10-07T05:57:26.531Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:57.053Z"
+   "checkedAt": "2026-10-07T05:57:27.277Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:57.671Z"
+   "checkedAt": "2026-10-07T05:57:27.986Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131486,
+   "lastId": 131488,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:58.314Z"
+   "checkedAt": "2026-10-07T05:57:28.699Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74732,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:58.867Z"
+   "checkedAt": "2026-10-07T05:57:29.328Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T05:45:59.548Z"
+   "checkedAt": "2026-10-07T05:57:30.123Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-07T05:46:00.252Z"
+   "checkedAt": "2026-10-07T05:57:30.945Z"
   }
  },
  "posts": [
@@ -1575,13 +1575,42 @@
    "date": "2026-10-07T05:44:24+00:00",
    "text": "🔴 תיעוד המיצג בקיסריה: הושמעו הקלטות של מבלים מהנובה למשטרה ולמשפחות\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65573",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65573",
+   "date": "2026-10-07T05:51:27+00:00",
+   "text": "3 שנים לטבח - צהל החל הלילה במבצע רחב להריסת עשרות אנדרטאות טרור ביו\"ש.\nצה״ל פנה באגרת לתושבים: ״כוחות הביטחון לא יאפשרו הסתה לטרור או פיאור של מחבלים. כל מי שיפאר טרור או יתמוך בו ייעצר באשמת הסתה, וכל אנדרטה שהוקמה כדי לפאר מחבלים תיהרס. הטרור לא הביא, ולא יביא, דבר מלבד הרס וחורבן, כשם שחמאס הביא חורבן על רצועת עזה במשך שנים״.\nהשר סמוטריץ׳ וח״כ סוכות בירכו: ״מדינת ישראל גודעת את תשתיות ההסתה לטרור״.",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131487",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131487",
+   "date": "2026-10-07T05:51:13+00:00",
+   "text": "אנדריי חרז'נובסקי, פעיל רוסי אנטי ישראלי (מחזיק בת\"ז ישראלית מכוח חוק השבות) הפועל בשטחי איו\"ש מתלונן בערבית: \n\"מתנחלים שרפו את הרכב שלי בכפר אלמע'יר\"\n2 תגובות",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131488",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131488",
+   "date": "2026-10-07T05:56:55+00:00",
+   "text": "ערוצים פלסטינים:\nכוחות צה\"ל ניפצו את האנדרטה לזכר \"השהיד\" יאסר אלחמדוני בכפר יעבד בנפת ג'נין.\n##\nכמו כן דווח על הריסת אנדרטת \"שהידים\" נוספת בעיר שכם.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T05:46:00.652Z",
+  "at": "2026-10-07T05:57:31.345Z",
   "ok": 11,
   "fail": 0,
-  "added": 6,
-  "pendingNew": 59
+  "added": 3,
+  "pendingNew": 62
  }
 }
