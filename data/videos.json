@@ -3641,12 +3641,33 @@
    "found": "2026-10-07T14:06:04Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693879968186551572.txt"
+  },
+  {
+   "id": "7693928728526736661",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693928728526736661",
+   "caption": "\"בר היתה ילדה מאד מיוחדת, אף פעם לא שפטה, תמיד הגנה על שכבות חלשות\" ↓...",
+   "posted": "1791382385",
+   "found": "2026-10-07T14:21:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693928728526736661.txt"
+  },
+  {
+   "id": "7693928490600647943",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693928490600647943",
+   "caption": "ראש עיריית ניו יורק אמנם ציין את קורבנות מתקפת הטרור האכזרית של חמאס,...",
+   "posted": "1791382326",
+   "found": "2026-10-07T14:21:21Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-07T14:06:20Z",
+  "at": "2026-10-07T14:21:40Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
