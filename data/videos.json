@@ -3452,10 +3452,32 @@
    "found": "2026-10-07T12:04:51Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693892333913345300.txt"
+  },
+  {
+   "id": "7693898181721050388",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693898181721050388",
+   "caption": "ממדי האסון נחשפים, דקה אחר דקה. בבוקר שבעה באוקטובר, בזמן שגם בדרגים ...",
+   "posted": "1791375272",
+   "found": "2026-10-07T12:19:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693898181721050388.txt"
+  },
+  {
+   "id": "7693899052265508104",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693899052265508104",
+   "caption": "\"בשבעה באוקטובר שפכו עליהם חומר בעירה והדליקו אותם. נתנו להם להישרף ח...",
+   "posted": "1791375476",
+   "found": "2026-10-07T12:20:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693899052265508104.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T12:05:03Z",
+  "at": "2026-10-07T12:20:35Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
