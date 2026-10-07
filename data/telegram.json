@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65572,
    "ok": true,
-   "checkedAt": "2026-10-07T05:21:59.646Z"
+   "checkedAt": "2026-10-07T05:33:31.965Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:00.313Z"
+   "checkedAt": "2026-10-07T05:33:32.604Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:00.946Z"
+   "checkedAt": "2026-10-07T05:33:33.234Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11420,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:01.634Z"
+   "checkedAt": "2026-10-07T05:33:33.865Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19292,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:02.297Z"
+   "checkedAt": "2026-10-07T05:33:34.507Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:02.981Z"
+   "checkedAt": "2026-10-07T05:33:35.153Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:03.649Z"
+   "checkedAt": "2026-10-07T05:33:35.795Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131478,
+   "lastId": 131479,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:04.333Z"
+   "checkedAt": "2026-10-07T05:33:36.463Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74729,
+   "lastId": 74730,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:04.910Z"
+   "checkedAt": "2026-10-07T05:33:37.034Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:05.589Z"
+   "checkedAt": "2026-10-07T05:33:37.723Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-07T05:22:06.324Z"
+   "checkedAt": "2026-10-07T05:33:38.441Z"
   }
  },
  "posts": [
@@ -1502,13 +1502,31 @@
    "date": "2026-10-07T05:18:18+00:00",
    "text": "🔴 המחאות לציון 3 שנים ל-7.10: שניים עוכבו מול ביתו של נתניהו בקיסריה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131479",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131479",
+   "date": "2026-10-07T05:25:44+00:00",
+   "text": "צה\"ל מפרסם נתונים לרגל יום השנה ל-7.10:\n970 חיילים נפלו בנסיבות מבצעיות במלחמה מאז ה 7.10.23. \n70% מהחיילים שנפצעו במלחמה חזרו לשרת. \nצה\"ל תקף כ-100 אלף מטרות בזירות השונות :\n65 אלף ברצועת עזה\n28 אלף בלבנון ובסוריה\n4,500 באיראן\n80 בתימן\nיותר מ 31 אלף שיגורים לעבר מדינת ישראל:\nכ-10,200 מרצועת עזה\nכ-20 אלף מלבנון\nכ-1,200 מאיראן\nכ-50 מסוריה\nכ-90 מתימן\nחיסולים בולטים בזירות השונות:\nהזירה הפלסטינית\nיחיא סנואר\nמחמד דף\nאסמאעיל הניה \nצאלח אלעארורי\nזירת לבנון: \nחסן נסראללה \nהאשם צפי א-דין \nפואד שכר\nאבראהים עקיל\nזירת איראן: \nהמנהיג העליון עלי ח'אמינאי \nחסין סלאמי מפקד משמרות המהפכה \nאמיר חאג'י זאדה מפקד חיל האוויר \nעלי לאריג'אני \nעלי שמח'אני\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74730",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74730",
+   "date": "2026-10-07T05:28:27+00:00",
+   "text": "🔴 תיעוד: מיצג מחאה בטיילת תל אביב\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T05:22:06.725Z",
+  "at": "2026-10-07T05:33:38.841Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 51
+  "added": 2,
+  "pendingNew": 53
  }
 }
