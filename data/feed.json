@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:01:21.497Z",
+ "updated": "2026-10-07T22:13:44.337Z",
  "items": [
   {
    "id": "5fc3fc7da53d",
@@ -67,6 +67,20 @@
    "published": "2026-10-07T20:29:00.000Z",
    "summary": "Secretary of State Marco Rubio invoked historic figures from Socrates to Julius Caesar to make the case for President Trump’s nationalist agenda.",
    "image": "https://images.wsj.net/im-15868204",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "196909999a9e",
+   "kind": "headline",
+   "title": "Poll: Nearly Half of America’s Youngest Voters View Sharia Law Positively",
+   "source": "Texas Scorecard",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVE96MzlBaGVXd3RkOFpFVTNTbk9yVm5vQ290VEVBOFY0UXNDejZpbVpnRlVXMVZOU2V6Zm1sTHRLOTJzWE9FOVF6UlR5YXQ2N3NZSUdwR0RYakZBa3Y2UUt1VE5XeWpMZ016QnhXUGI5aGpxOXBBSlg4dmNqVkZGMmRrOWJFLVJwN3FRVGNxMzlabUppcFBBX0puMXEzQkFIWjA5cjNTMWtoZ1k?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T20:17:08.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5638,20 +5652,6 @@
    "summary": "רשות החברה הודיעה כי אם יוגש מתווה חדש לרכישת צים על ידי הפג לויד וקרן פימי - יהיה על החברה להגיש אותו לאישורה מחדש • לגלובס נודע כי דירקטוריון צים שלח מכתב תשובה לרשות, ובו נטען כי החברה לא נדרשת לדון מחדש בעסקה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1717509931/direct/%D7%99%D7%90%D7%99%D7%A8_%D7%A1%D7%A8%D7%95%D7%A1%D7%99_ljfseu.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "612d6210e9af",
-   "kind": "headline",
-   "title": "לפי שווי של לפחות 7.5 מיליארד דולר: איון במו\"מ לגיוס מימון נוסף",
-   "source": "TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnRtX1VGcUltZEpVU2NNR2Y2V0tfeGtBU2EwUFNzN1Q3bElvcVZySWFoR0VoZmlZNVh4R291NS03NHozUThZQThvZ2JQM2NvNF82YkY5SGRMdWVzaTBCajZCaXlWVXg0UGFBd25VeDZZQzVrZmJvRUZHbHoxcTVVb3dfSUdfVzBIY2wxOEFlYVU0b09hTlZrZ3FLMDhrMXhaQUxHbVYwSDNfUQ?oc=5",
-   "topic": "deals",
-   "published": "2026-10-06T08:36:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
