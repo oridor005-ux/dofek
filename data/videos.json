@@ -3037,10 +3037,21 @@
    "found": "2026-10-07T04:29:24Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693776791453863175.txt"
+  },
+  {
+   "id": "7693779976553762068",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693779976553762068",
+   "caption": "⁨\t‏בשעה 6:29: טקסי הזיכרון בתחנת המשטרה בשדרות וביישובי העוטף לציון 3...",
+   "posted": "1791347754",
+   "found": "2026-10-07T04:44:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693779976553762068.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T04:29:33Z",
+  "at": "2026-10-07T04:44:19Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
