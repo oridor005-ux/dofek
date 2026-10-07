@@ -3924,12 +3924,23 @@
    "found": "2026-10-07T18:00:02Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693984456058703124.txt"
+  },
+  {
+   "id": "7693990828032707858",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693990828032707858",
+   "caption": "התיעודים הראשונים | ״אתם של ישראל? תקחו אותנו!״: ריאיון עם רמי כהן, ש...",
+   "posted": "1791396846",
+   "found": "2026-10-07T18:24:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693990828032707858.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T18:11:23Z",
+  "at": "2026-10-07T18:24:18Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
