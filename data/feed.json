@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T04:06:14.323Z",
+ "updated": "2026-10-07T04:09:59.479Z",
  "items": [
+  {
+   "id": "da67fb80dbe5",
+   "kind": "headline",
+   "title": "מצב השווקים: מחירי הנפט ותשואות האג\"ח עולים, ואיראן מגבירה את המתקפות בהורמוז",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-07T04:03:00.000Z",
+   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: בורסות אסיה נסחרות במגמה מעורבת, אחרי שוול סטריט טיפסה אמש לשיאים חדשים • דיווח של בלומברג על התגברות התקיפות האיראניות על מכליות בהורמוז דוחף מעלה את מחירי הנפט • וגם: למרות השיאים בניו יורק, בגולדמן זאקס מזהירים: ה-S&P 500 כבר לא משקף…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789568961/AP26167495408169_qtxq2q.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9618df2ac20f",
    "kind": "headline",
@@ -5750,23 +5764,6 @@
    "score": 3,
    "alsoIn": [],
    "important": true
-  },
-  {
-   "id": "84095fdab8fe",
-   "kind": "headline",
-   "title": "Israelis Increasingly Identify with Middle East as Attitudes Toward Europe Decline",
-   "source": "The Jewish Press",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkJCb2M1ZGhEME91RGZEVTBpTXByYkl0c01ZNE5hZmpJbVVsSTlPaG03MXJ1T18xT0JvR1pCTWF0WmExWU9HQWY4WldqbjU1MGIzX0doSXB5VVg2akFXNTFGc2VPQkE0bl9fbzF6a0tXWjhUdGFsYlk1S2d2Wm10M0kxcDhrcnduWU1kT2Fwb3dwNHpxR2dDQnZyZW9RS3FwZFZSY1BYTlNSWUE?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T12:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "jewishpress.com",
-    "worldisraelnews.com"
-   ],
-   "important": false
   }
  ]
 }
