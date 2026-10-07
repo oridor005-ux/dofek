@@ -110,7 +110,7 @@
   "751b42880bd2"
  ],
  "pending": [],
- "lastRun": "2026-10-07T06:44:10.193Z",
+ "lastRun": "2026-10-07T06:55:40.636Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -137,7 +137,7 @@
    },
    "at": "2026-10-07T06:20:31.946Z"
   },
-  "lastNewItemAt": "2026-10-07T06:44:10.193Z",
+  "lastNewItemAt": "2026-10-07T06:55:40.636Z",
   "lastPushOkAt": "2026-10-07T05:44:44.216Z",
   "googleOkAt": "2026-10-07T06:20:31.946Z"
  },
