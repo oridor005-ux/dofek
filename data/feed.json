@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T08:19:55.528Z",
+ "updated": "2026-10-07T08:31:29.668Z",
  "items": [
+  {
+   "id": "aed4e0006c22",
+   "kind": "headline",
+   "title": "בתום המיון המוקדם: 19 קבוצות יתמודדו במכרז בהיקף של כ-65 מיליארד שקל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558681#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T08:24:00.000Z",
+   "summary": "מכרזי האינפרא 1 של המטרו: נת\"ע הודיעה כי 19 קבוצות בינלאומיות, המורכבות מ-31 חברות, עברו את הליך המיון המקדים • הקבוצות מגיעות מהודו, מארה\"ב, מיוון, מדרום קוריאה, מצרפת ומסין • גם חברות ישראליות יקחו חלק במכרז, ביניהן אלקטרה, דניה סיבוס, מנרב ועוד",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1724830986/one%20time%20use%20only/WhatsApp_Image_2024-08-26_at_15.19.28_vmscjy.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "df9e9d8c5a6b",
    "kind": "headline",
@@ -5718,22 +5732,6 @@
    "score": 1,
    "alsoIn": [
     "israelhayom.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "40a456f42656",
-   "kind": "headline",
-   "title": "מגמה מעורבת בבורסה: אלו המניות שהתרסקו ואכזבו את המשקיעים",
-   "source": "ice.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNG4wckNFcWxfY0xBNFBDcUZyaXdlM3VPakRQMXJtZDBvT2FybHZkR2VJUGR4eTljUFhWVTYxZVJVeWYxTlg1SW5uMkFoalFwT2NnN2N5ak9ydERPRFVn?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T15:19:59.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "ice (אייס)"
    ],
    "important": false
   }
