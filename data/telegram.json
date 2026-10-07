@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65584,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:31.728Z"
+   "checkedAt": "2026-10-07T10:07:07.520Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:32.467Z"
+   "checkedAt": "2026-10-07T10:07:08.292Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:33.146Z"
+   "checkedAt": "2026-10-07T10:07:08.976Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11423,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:33.856Z"
+   "checkedAt": "2026-10-07T10:07:09.717Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19297,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:34.582Z"
+   "checkedAt": "2026-10-07T10:07:10.454Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:35.295Z"
+   "checkedAt": "2026-10-07T10:07:11.187Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:35.990Z"
+   "checkedAt": "2026-10-07T10:07:11.876Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131506,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:36.714Z"
+   "checkedAt": "2026-10-07T10:07:12.651Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74748,
+   "lastId": 74749,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:37.325Z"
+   "checkedAt": "2026-10-07T10:07:13.265Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:38.069Z"
+   "checkedAt": "2026-10-07T10:07:14.081Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11065,
    "ok": true,
-   "checkedAt": "2026-10-07T09:55:38.845Z"
+   "checkedAt": "2026-10-07T10:07:14.845Z"
   }
  },
  "posts": [
@@ -1962,13 +1962,22 @@
    "date": "2026-10-07T09:52:53+00:00",
    "text": "🔴 רם שאהין נידון ל-7 שנות מאסר, בגין גניבת ציוד הגברה מאתר הנובה שהיה שייך לנרצח\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74749",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74749",
+   "date": "2026-10-07T10:05:53+00:00",
+   "text": "🔴 במשטרה מבהירים: מלי וליאל יהלומי לא נעצרו באפריקה, אלא איראניות שהתחזו \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T09:55:39.245Z",
+  "at": "2026-10-07T10:07:15.245Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 101
+  "added": 1,
+  "pendingNew": 102
  }
 }
