@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T16:15:47.838Z",
+ "updated": "2026-10-07T16:28:01.554Z",
  "items": [
   {
    "id": "ae49e4397dff",
@@ -26,6 +26,20 @@
    "summary": "יום לאחר שמדד ה-S&P 500 נגע בשיא כל הזמנים, המגמה בוול סטריט מתהפכת בחדות • וול סטריט מתנהלת בירידות שערים; מניות הטכנולוגיה סופגות מימושים, מניות התחבורה בדרך לשוק דובי • מדד המניות הקטנות מתקרב לטריטוריה של תיקון • אירופה ננעלה באדום עמוק בצל החששות הכלכליים • הנפט חוזר למעל 101 דולר; מורגן סטנלי…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "64090012c544",
+   "kind": "headline",
+   "title": "Israelis demand accountability over 7 October failures three years after attacks",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+   "topic": "knesset",
+   "published": "2026-10-07T16:00:18.000Z",
+   "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80cb/live/9b494cf0-c25f-11f1-babe-4199b0e7ccea.jpg",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -5660,20 +5674,6 @@
    "alsoIn": [
     "roymorgan.com"
    ],
-   "important": false
-  },
-  {
-   "id": "80e680dea13b",
-   "kind": "headline",
-   "title": "מהו הפתרון החדש של אנבידיה שעשוי להפוך לשכבת האבטחה של עידן הסוכנים?",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/interactive/wallstreet/article/xfobn95v3",
-   "topic": "econ",
-   "published": "2026-10-06T05:23:36.000Z",
-   "summary": "אחרי חודשים שבהם הוויכוח סביב בינה מלאכותית עבר מהשאלה כמה מהר המודלים משתפרים לשאלה האם בכלל ניתן לשלוט בהם, אנבידיה (NVDA) מציגה תשובה משלה: לא להאט את הפיתוח - אלא לבנות שכבת אבטחה שתפקח על הסוכנים בזמן אמת ותעצור אותם אם הם חורגים מהכללים. החברה חשפה את Open Agent Safety Platform, מערכת חדשה…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/SkvFXZzoMe/SkvFXZzoMe_0_8_512_289_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
