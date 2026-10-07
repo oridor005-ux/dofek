@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:50:26.795Z",
+ "updated": "2026-10-07T20:02:00.286Z",
  "items": [
   {
    "id": "64aef6c727b9",
@@ -12,6 +12,20 @@
    "summary": "María del Carmen Abascal, aged and ailing, became a symbol of the country’s housing crisis when she was evicted two weeks ago, prompting mass protests and triggering nation elections.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-spain-top-ztqj/07int-spain-top-ztqj-mediumSquareAt3X.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d52d644d3018",
+   "kind": "headline",
+   "title": "אלי שרעבי: \"רק אם נזכור באמת, נוכל ללמוד ותקן\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558666#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T19:27:00.000Z",
+   "summary": "תנועת \"קומו\" ומשפחות 7 באוקטובר מקיימות את הטקס השנתי לזכר השבת השחורה • דיווח: חיזבאללה קיבל מאיראן 200 מיליון דולר בחודש שעבר • למרות ההבטחות שארגון הטרור חמאס יתפרק מנשקו, העדויות שמגיעות ל-N12 חושפות מציאות מדאיגה • סגן נשיא ארה\"ב ג'יי.די ואנס פיקפק בכוונות האמיתיות של משטר האייתוללות: \"אם אתם…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791399018/WhatsApp_Image_2026-10-07_at_21.47.14_weq7su.jpg",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5648,20 +5662,6 @@
     "The Hub | More Signal. Less Noise."
    ],
    "important": false
-  },
-  {
-   "id": "a3dae170f2d2",
-   "kind": "headline",
-   "title": "מגמה מעורבת בתל אביב; נקסט ויז'ן צוללת במעל 10%",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558469#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T07:30:00.000Z",
-   "summary": "מדד ת\"א 35 יורד בכ-0.2%, ת\"א 90 נופל בכ-1.5% • יצרנית המצלמות לרחפנים נופלת אחרי מימוש הענק של פידליטי • ענקיות הטק הובילו את הנאסד\"ק לשיא חדש, ויש מי שמצביע על כך שהפכו לנכסי המקלט הבטוח החדשים • משבר החוב בצרפת מכביד על גוש האירו ומעצים את החשש גם בשוק החוב האמריקאי - המיליארדר ריי דליו מזהיר…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }

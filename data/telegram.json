@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65596,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:14.222Z"
+   "checkedAt": "2026-10-07T19:50:47.854Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:14.922Z"
+   "checkedAt": "2026-10-07T19:50:48.538Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:15.569Z"
+   "checkedAt": "2026-10-07T19:50:49.172Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
-   "lastId": 11440,
+   "lastId": 11442,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:16.230Z"
+   "checkedAt": "2026-10-07T19:50:49.819Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19307,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:16.891Z"
+   "checkedAt": "2026-10-07T19:50:50.471Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:17.620Z"
+   "checkedAt": "2026-10-07T19:50:51.115Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54904,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:18.248Z"
+   "checkedAt": "2026-10-07T19:50:51.750Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131535,
+   "lastId": 131536,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:18.903Z"
+   "checkedAt": "2026-10-07T19:50:52.394Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74803,
+   "lastId": 74805,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:19.463Z"
+   "checkedAt": "2026-10-07T19:50:52.954Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:20.146Z"
+   "checkedAt": "2026-10-07T19:50:53.640Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T19:39:20.840Z"
+   "checkedAt": "2026-10-07T19:50:54.345Z"
   }
  },
  "posts": [
@@ -3012,13 +3012,51 @@
    "date": "2026-10-07T19:35:53+00:00",
    "text": "🔴 אמה של התצפיתנית נועה מרציאנו: \"סליחה על הסבל והפחד בימייך האחרונים\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11442",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11442",
+   "date": "2026-10-07T19:42:21+00:00",
+   "text": "וואו לתותח הזה קוראים דודי. אין לי מילים!! אתה לא מבין מה עשית לי. תודה על כל הכוח והאנרגיות שהכנסת בי זה לא מובן מאליו בכלל... מבטיח לך שאני ממשיך בכל הכוח וכלום לא יעצור אותי!! 💜🇮🇱",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131536",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131536",
+   "date": "2026-10-07T19:41:43+00:00",
+   "text": "ארה\"ב: הסניף המקומי של \"סטודנטים למען צדק בפלסטין\" (SJP) באוניברסיטת קולומביה מארגן מחר עצרת תמיכה בחמאס לרגל ה 7.10 בערבית נכתב: התהילה לשהידים, התנגדות עד לניצחון. 14 תגובות",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74804",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74804",
+   "date": "2026-10-07T19:42:56+00:00",
+   "text": "🔴 בתו של אלי שנרצח בחוף זיקים: \"אמרו לי 'מצאו את אבא' - ואז הבנתי שמצאו גופה\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74805",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74805",
+   "date": "2026-10-07T19:48:10+00:00",
+   "text": "🔴 דיווח: סוריה שוקלת לספק סיוע צבאי לסעודיה מול החות'ים\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T19:39:21.240Z",
+  "at": "2026-10-07T19:50:54.745Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 176
+  "added": 4,
+  "pendingNew": 180
  }
 }
