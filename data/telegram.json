@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65597,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:27.540Z"
+   "checkedAt": "2026-10-07T21:03:03.162Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:28.214Z"
+   "checkedAt": "2026-10-07T21:03:03.856Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:28.850Z"
+   "checkedAt": "2026-10-07T21:03:04.500Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11442,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:29.501Z"
+   "checkedAt": "2026-10-07T21:03:05.251Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19307,
+   "lastId": 19308,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:30.172Z"
+   "checkedAt": "2026-10-07T21:03:05.908Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:30.839Z"
+   "checkedAt": "2026-10-07T21:03:06.583Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:31.467Z"
+   "checkedAt": "2026-10-07T21:03:07.300Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131537,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:32.136Z"
+   "checkedAt": "2026-10-07T21:03:07.964Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74809,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:32.702Z"
+   "checkedAt": "2026-10-07T21:03:08.525Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:33.383Z"
+   "checkedAt": "2026-10-07T21:03:09.213Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T20:51:34.071Z"
+   "checkedAt": "2026-10-07T21:03:09.960Z"
   }
  },
  "posts": [
@@ -3114,13 +3114,23 @@
    "date": "2026-10-07T20:36:24+00:00",
    "text": "🔴 דיווח: כתב האישום נגד ניקולס מדורו צפוי לכלול עינויים של אזרחים אמריקנים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19308",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19308",
+   "date": "2026-10-07T20:55:20+00:00",
+   "text": "תחקיר חשוב של ירון אברהם הערב, על ההתרעות הרבות שנתניהו קיבל מראשי מערכת הביטחון בכל התקופה שקדמה לטבח. הוא ידע",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T20:51:34.473Z",
+  "at": "2026-10-07T21:03:10.360Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 187
+  "added": 1,
+  "pendingNew": 188
  }
 }
