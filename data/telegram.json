@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65572,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:18.988Z"
+   "checkedAt": "2026-10-07T00:47:48.057Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:19.609Z"
+   "checkedAt": "2026-10-07T00:47:48.714Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:20.197Z"
+   "checkedAt": "2026-10-07T00:47:49.395Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11417,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:20.843Z"
+   "checkedAt": "2026-10-07T00:47:50.023Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19292,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:21.442Z"
+   "checkedAt": "2026-10-07T00:47:50.641Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:22.059Z"
+   "checkedAt": "2026-10-07T00:47:51.248Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:22.666Z"
+   "checkedAt": "2026-10-07T00:47:51.859Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131478,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:23.280Z"
+   "checkedAt": "2026-10-07T00:47:52.505Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74712,
+   "lastId": 74713,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:23.815Z"
+   "checkedAt": "2026-10-07T00:47:53.050Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:24.462Z"
+   "checkedAt": "2026-10-07T00:47:53.715Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11063,
    "ok": true,
-   "checkedAt": "2026-10-07T00:36:25.144Z"
+   "checkedAt": "2026-10-07T00:47:54.404Z"
   }
  },
  "posts": [
@@ -1322,13 +1322,22 @@
    "date": "2026-10-06T22:55:30+00:00",
    "text": "🔴 ואנס: \"לא החלטתי עדיין אם ארוץ לנשיאות, אני דחיין\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74713",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74713",
+   "date": "2026-10-07T00:36:52+00:00",
+   "text": "🔴 תימן: החות'ים שיגרו טילים לעבר נמל התעופה עדן\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T00:36:25.544Z",
+  "at": "2026-10-07T00:47:54.804Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 31
+  "added": 1,
+  "pendingNew": 32
  }
 }
