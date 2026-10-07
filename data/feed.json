@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-07T19:37:59.511Z",
+ "updated": "2026-10-07T19:50:26.795Z",
  "items": [
+  {
+   "id": "64aef6c727b9",
+   "kind": "headline",
+   "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+   "topic": "world",
+   "published": "2026-10-07T19:37:00.000Z",
+   "summary": "María del Carmen Abascal, aged and ailing, became a symbol of the country’s housing crisis when she was evicted two weeks ago, prompting mass protests and triggering nation elections.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-spain-top-ztqj/07int-spain-top-ztqj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a1c33357c179",
+   "kind": "headline",
+   "title": "US approves over $2bn in weapons sales to Egypt, Kuwait and UAE",
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWU40QzhZZk5XX0VaSk5SbDZlOVRvU29xNFlRd3dobmJMUWxHbDRfbDBfaDdXeWp2S09jb0c5MVFWYkc4Q0luMFF5MDFWVlc2QU9raGlSSkhfclE3eUZMemxtMW54ZldHMUl3UmhFM1ZKN1VzYk5uWU15WTVFREstSnVhVzd6Y19odGx3bkxvcVQzRlI5?oc=5",
+   "topic": "defense",
+   "published": "2026-10-07T19:10:16.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a15626b0dc78",
    "kind": "headline",
@@ -5634,36 +5662,6 @@
    "score": 3,
    "alsoIn": [],
    "important": true
-  },
-  {
-   "id": "d0cc2335dd46",
-   "kind": "headline",
-   "title": "מגמה מעורבת בתל אביב; כמעט 3 מיליארד שקל נמחקו בחצי שעה במניית נקסט ויז'ן",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558469#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T07:30:00.000Z",
-   "summary": "מדד ת\"א 35 יורד בכ-0.2%, ת\"א 90 נופל בכ-1.5% • יצרנית המצלמות לרחפנים נקסט ויז'ן נופלת אחרי מימוש הענק של פידליטי • ענקיות הטק הובילו את הנאסד\"ק לשיא חדש, ויש מי שמצביע על כך שהפכו לנכסי המקלט הבטוח החדשים • משבר החוב בצרפת מכביד על גוש האירו ומעצים את החשש גם בשוק החוב האמריקאי - המיליארדר ריי…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
-   "score": 3,
-   "alsoIn": [
-    "globes.co.il"
-   ],
-   "important": true
-  },
-  {
-   "id": "e01a2f3eb21a",
-   "kind": "headline",
-   "title": "הבורסה לניירות ערך בתל אביב זכתה בפרס הבינלאומי Kong Innovator Business Impact Award 2026",
-   "source": "פאנדר",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oM1dLMlRWZVJXVDR4WXM2bm5PTHI2VUdoM1JxQzhIbk55Yk1QUWlQYkJSNG9XcU1Vc1BIeWlnSDhfeVA5dktuOTVZVU9pSGtQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T07:12:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }

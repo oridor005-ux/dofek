@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65596,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:45.639Z"
+   "checkedAt": "2026-10-07T19:39:14.222Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:46.332Z"
+   "checkedAt": "2026-10-07T19:39:14.922Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
-   "lastId": 2991,
+   "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:46.986Z"
+   "checkedAt": "2026-10-07T19:39:15.569Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11440,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:47.692Z"
+   "checkedAt": "2026-10-07T19:39:16.230Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19307,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:48.379Z"
+   "checkedAt": "2026-10-07T19:39:16.891Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:49.052Z"
+   "checkedAt": "2026-10-07T19:39:17.620Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54904,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:49.731Z"
+   "checkedAt": "2026-10-07T19:39:18.248Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131535,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:50.435Z"
+   "checkedAt": "2026-10-07T19:39:18.903Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74802,
+   "lastId": 74803,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:51.028Z"
+   "checkedAt": "2026-10-07T19:39:19.463Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:51.763Z"
+   "checkedAt": "2026-10-07T19:39:20.146Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T19:26:52.498Z"
+   "checkedAt": "2026-10-07T19:39:20.840Z"
   }
  },
  "posts": [
@@ -2993,13 +2993,32 @@
    "date": "2026-10-07T19:22:11+00:00",
    "text": "🔴 אמה של קארין שנרצחה בנובה: \"לא אשכח את הבשורה, שמהילדה שלי נותרו 3 שיניים\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "gideonsaar/2992",
+   "channel": "gideonsaar",
+   "name": "גדעון סער",
+   "url": "https://t.me/gideonsaar/2992",
+   "date": "2026-10-07T19:32:46+00:00",
+   "text": "צפו בנאום המלא של שר החוץ בטקס הזיכרון הדיפלומטי לציון שלוש שנים ל־7 באוקטובר, בהשתתפות סגן נשיא פרגוואי פדרו אליאנה ושגרירים מרחבי העולם 🇮🇱",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74803",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74803",
+   "date": "2026-10-07T19:35:53+00:00",
+   "text": "🔴 אמה של התצפיתנית נועה מרציאנו: \"סליחה על הסבל והפחד בימייך האחרונים\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T19:26:52.899Z",
+  "at": "2026-10-07T19:39:21.240Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 174
+  "added": 2,
+  "pendingNew": 176
  }
 }
