@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T09:42:43.900Z",
+ "updated": "2026-10-07T09:54:18.484Z",
  "items": [
+  {
+   "id": "a0aeef724d7e",
+   "kind": "headline",
+   "title": "לא מצדיקה את הבאזז? איילון מגייסת במרץ אך שוב מתקשה לבלוט בתשואות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558691#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-07T09:51:00.000Z",
+   "summary": "לאחר שגייסה עוד 1.5 מיליארד שקל בספטמבר, ביצועי קרנות ההשתלמות של איילון ממקמים אותה במרכז ואף בחלק התחתון של דירוג התשואות בחודש שעבר • הערכות: אלטשולר שחם שוב למטה, למרות התשואה העודפת של וול סטריט",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1743427207/COT_Pic/%D7%AA%D7%9E%D7%99%D7%A8_%D7%94%D7%A8%D7%A9%D7%A7%D7%95%D7%91%D7%99%D7%A5_n3ybyg_kxwcg4.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e73ad891ee4c",
    "kind": "headline",
@@ -5707,20 +5721,6 @@
     "tlvonline.co.il"
    ],
    "important": false
-  },
-  {
-   "id": "4bd58dbf4e1a",
-   "kind": "headline",
-   "title": "Tensions rise as the UK announces sanctions on Israeli settlement expansions",
-   "source": "The Mancunion",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbk9QVFJJOGFiVUlVOFNwSUlVS19TalVDemJzSEQ4LXRTS3prdHVBY1VKcGl5b1JsNGZOVzB2SlNjZnF3cEo1RG8xSHo5emxqaFg5LUZULVNvb2dsckx3czhBcjVvR0JqZFVWWWVzck41WE9lTkItdjNLNElEZGNSQ3BKT1BjNDU4NVFWNnVDTEVDSEVILTBMdWY3RGw1aGd0enVVTlEzUTlTUnMzS2xZ?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T16:46:09.000Z",
-   "summary": "",
-   "image": "",
-   "score": 4,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
