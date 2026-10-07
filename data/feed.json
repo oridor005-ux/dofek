@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T06:08:39.513Z",
+ "updated": "2026-10-07T06:20:14.637Z",
  "items": [
+  {
+   "id": "88cb2e65f197",
+   "kind": "headline",
+   "title": "Israel marks three years since 7 October attack by Hamas – live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/oct/07/israel-october-7-anniversary-hamas-gaza-netanyahu-iran-latest-news-updates",
+   "topic": "israelAbroad",
+   "published": "2026-10-07T06:19:47.000Z",
+   "summary": "1,200 died in attack that led to launch of devastating war in Gaza We are starting our live coverage on the third anniversary of the Hamas-led 7 October attack on southern Israel, in which about 1,200 people were killed and another 251 taken back to Gaza as hostages. Israeli communities shattered…",
+   "image": "https://i.guim.co.uk/img/media/b06e781437a45c4537f257ba67c82b1dc7b5439d/725_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=8f73cc1743ba8a7f9a9888308e9c355f",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "751b42880bd2",
    "kind": "headline",
@@ -5737,20 +5751,6 @@
    "published": "2026-10-05T13:52:00.000Z",
    "summary": "ככל הידוע מדובר במגעים שאינם בעלי אופי מחייב, ולפי שעה טרם נחתם מסמך מחייב בנושא • בגרין לנטרן לא צפויה להיות נכונות לשלם את השווי שציפו לו בעלי רשת המסעדות בהנפקה, שהוערך בכ-330 מיליון שקל, כך שניתן להעריך בזהירות שאם תהיה עסקה, היא צפויה להיות בשווי נמוך יותר",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1597542795/old/1042712.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "efc8443239c9",
-   "kind": "headline",
-   "title": "פתיחה מעורבת בוול סטריט; תשואות האג\"ח ממשיכות לטפס",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T13:35:00.000Z",
-   "summary": "ה-S&P 500 עולה בכ-0.2% • מחירי הנפט מאבדים גובה • משבר האג\"ח בצרפת מעיב על אירופה; הבורסה בפריז בולטת לשלילה בעקבות צניחת מניית שניידר אלקטריק, שמשלימה עסקת ענק בארה\"ב • בורסת טוקיו קפצה במעל 2%",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
