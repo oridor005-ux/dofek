@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65575,
+   "lastId": 65576,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:25.140Z"
+   "checkedAt": "2026-10-07T07:20:03.156Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
-   "lastId": 7254,
+   "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:25.818Z"
+   "checkedAt": "2026-10-07T07:20:03.849Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:26.482Z"
+   "checkedAt": "2026-10-07T07:20:04.500Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11421,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:27.121Z"
+   "checkedAt": "2026-10-07T07:20:05.339Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19296,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:27.776Z"
+   "checkedAt": "2026-10-07T07:20:06.026Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:28.430Z"
+   "checkedAt": "2026-10-07T07:20:06.702Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
-   "lastId": 54901,
+   "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:29.141Z"
+   "checkedAt": "2026-10-07T07:20:07.369Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131492,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:29.828Z"
+   "checkedAt": "2026-10-07T07:20:08.118Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74739,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:30.408Z"
+   "checkedAt": "2026-10-07T07:20:08.710Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:31.102Z"
+   "checkedAt": "2026-10-07T07:20:09.420Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11064,
    "ok": true,
-   "checkedAt": "2026-10-07T07:08:31.821Z"
+   "checkedAt": "2026-10-07T07:20:10.144Z"
   }
  },
  "posts": [
@@ -1732,13 +1732,31 @@
    "date": "2026-10-07T06:48:16+00:00",
    "text": "🔴 מעצר מלי וליאל יהלומי: \"כבר לא נראות כמו שנראו\", וקנו דרכונים מזוייפים בשוק האפור\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65576",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65576",
+   "date": "2026-10-07T07:16:20+00:00",
+   "text": "דקת דומיה בכנסת. לפני דיון בוועדת החוקה על יישום חוק העמדת מחבלי הטבח לדין",
+   "status": "new"
+  },
+  {
+   "id": "knessettv/54902",
+   "channel": "knessettv",
+   "name": "ערוץ כנסת 99",
+   "url": "https://t.me/knessettv/54902",
+   "date": "2026-10-07T07:13:33+00:00",
+   "text": "בפתיחת דיון ועדת החוקה: דקת דומייה והקראת פרק תהילים לזכר קורבנות טבח 7/10",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:08:32.221Z",
+  "at": "2026-10-07T07:20:10.544Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 76
+  "added": 2,
+  "pendingNew": 78
  }
 }

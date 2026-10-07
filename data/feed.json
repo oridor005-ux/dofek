@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T07:19:40.777Z",
+ "updated": "2026-10-07T07:31:17.599Z",
  "items": [
+  {
+   "id": "633a27417c5d",
+   "kind": "headline",
+   "title": "ירידות באירופה; מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-07T07:23:00.000Z",
+   "summary": "בורסת פרנקפורט יורדת בכ-0.8% • בורסות אסיה ננעלו במגמה מעורבת, הקוספי נפל בכ-2% • וול סטריט טיפסה אמש לשיאים חדשים • דיווח של בלומברג על התגברות התקיפות האיראניות על מכליות בהורמוז דוחף מעלה את מחירי הנפט • וגם: למרות השיאים בניו יורק, בגולדמן זאקס מזהירים: ה-S&P 500 כבר לא משקף את מצבו האמיתי של…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672302361/direct/shutterstock_2207725477_yl9eh8.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "0c2f41d29140",
    "kind": "headline",
@@ -5729,20 +5743,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "187801a07b62",
-   "kind": "headline",
-   "title": "“Like a rogue state”: Netanyahu turns Britain’s insult back on London",
-   "source": "israeltoday.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjhkR29jT1M1REU1TlJVQlNTTGxUUFF3VE9fSE1zRFYteW9ncWtDX2N0UFl4WWdTYWpOeFdaNy1ETVhuSHBkelhpanBFV2VvUVBfNEprSXdzeTUtUFowRDR2U2hNdENZOVJRNmVHSEQyQkdBVDhKTFI2RTkyQ1FGRmpjd1VvbURxZERuTldIT1hwUEJ2cHNaS1ZHRHRlbGVqUEww?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-05T14:48:45.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
