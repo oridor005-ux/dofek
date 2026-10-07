@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T14:03:52.108Z",
+ "updated": "2026-10-07T14:16:20.238Z",
  "items": [
   {
    "id": "6d5343fa87db",
@@ -26,7 +26,9 @@
    "summary": "מניות הביטוח והחברות הביטחוניות מורידות את הבורסה, והמדדים המובילים צונחים ביותר מ-2%",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/24/H18dRX36F/H18dRX36F_0_0_1000_562_0_medium.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "YNET"
+   ],
    "important": false
   },
   {
@@ -58,6 +60,20 @@
    "important": false
   },
   {
+   "id": "16af34ae1176",
+   "kind": "headline",
+   "title": "Gallup: Palestinians Overwhelmingly Reject Two-State Solution",
+   "source": "Newsmax",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2J6LVZaaGpoa1RhRkJjYlJ5UDhpYm5XbVlUU002UTgxZmdfQmdEaUZaSGtNaWY3X1dhY0hVQjdlMzVzbkxCRXZhSkdwVWgtZEliejZtemVQM1J3em94OFIzYkdpa2RUWWJGSVJmS21VSU9yX1o1QkxLOUE0VUJhaHU3Q2RRR0ZY?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-07T13:43:01.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "b67719d8ea8a",
    "kind": "headline",
    "title": "בורסת ת\"א באדום בוהק: מה עומד מאחורי הירידות?",
@@ -81,6 +97,20 @@
    "published": "2026-10-07T13:37:00.000Z",
    "summary": "זינוק בתשואות האג\"ח הממשלתיות בארה\"ב מעיב על סנטימנט המשקיעים • וול סטריט נפתחה בירידות שערים • בורסות אסיה ננעלו במגמה מעורבת, הקוספי נפל בכ-2% • שוק המשכנתאות האמריקאי סופג מכה • מניות הטכנולוגיה מובילות את המגמה השלילית • באירופה, ירידות שערים רוחביות בכל המדדים המובילים • הנפט חוזר למעל 101…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "76e4b0e0a7eb",
+   "kind": "headline",
+   "title": "EU Says Kosovo's Changes To War Crimes Court Law Violate International Obligations",
+   "source": "Radio Free Europe/Radio Liberty",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTldtMFZQU0J0V2NwdjQ0Ul92cEk3cXB5eWNqYWwzN0FXZHp0VURTR1pRZU9yV0dXWDNmVmFUODlMaTRrV2Q2ajJ4T0VpdGIwT01vZ1BrYnZnMXUxM1RNNFh2Zm5NWUo5Qk0za25BVVJYM2Z3Tk1vNjhYalU3Y3k2eXpqOW1HVnZTdjN5YnFDUWxFSUFy0gGXAUFVX3lxTFBrMkJzRElfVDdjWEhJRjJSWjFLMF8wUC1mZlNpSkE4UFB0RFpaeHdfN1VITjJtRFpoa0RiMkhkTUUyRDR1NUpzX1NSX1JpcTJxWklTWlNYdGd2MklaU3B3eWZ5b2hWRVhYZlV1a3QxNjdaNy1ieXhrdi0yRzdUaW5pNnE4MW9mMUJyTXFCN3ZKRG5BOG9BNms?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T13:34:29.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -219,6 +249,20 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaDZYYmE0YVM0N1RfTzZpWUlka25GRWZXRlFqU1dBLW9UVEpGRkNHckN6S1dJTUNCYThuMnBYTUJOUDBlMldKUGFocFRVc2pObWJ2cnFpTGQ4QzRCamR4eWp4YU1RclE2SmJBbUdqNGNIZUxuYmstNDFrcDVCbUFNRm9IUnZfZDBWRW1qM2wwdTA1TjdXMHc?oc=5",
    "topic": "israelAbroad",
    "published": "2026-10-07T12:07:11.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "09de7ab4a570",
+   "kind": "headline",
+   "title": "Israel’s next government must support vulnerable children",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEakpTOUt6NzdpVzZZeFVNdWhoS3N5UVJ5SmdQVW1TcDdUTmVYS29wZmRmOHctT3hBYWhBdXROUTJ6Y09ha1ljbjVUa2tLUkRrY1BIRzJNRQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T12:00:00.000Z",
    "summary": "",
    "image": "",
    "score": 1,
@@ -432,7 +476,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "בנק ישראל"
+   ],
    "important": false
   },
   {
@@ -5637,50 +5683,6 @@
    "score": 0,
    "alsoIn": [
     "מעריב"
-   ],
-   "important": false
-  },
-  {
-   "id": "29c16c3379e8",
-   "kind": "headline",
-   "title": "התוכנית החדשה של האוצר: מס רכוש, \"מס נטפליקס\" ומיסוי של מוצרי יוקרה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558486#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T02:58:00.000Z",
-   "summary": "צוות מיוחד בראשות הכלכלן הראשי מגבש כיווני מדיניות חדשים להתמודדות עם השפעות הבינה המלאכותית על המשק • באוצר מציעים להסיט את הכובד להעלאת המסים על הון, מוצרי יוקרה וקרקעות פנויות - אך מתנגדים בתוקף להטלת מס ייעודי על רובוטים ומחשוב",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1701271936/direct/_H6A3374_ljmjw8.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "040de4cbb432",
-   "kind": "headline",
-   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-06T02:37:46.000Z",
-   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f58/live/e9fa7ea0-c0d9-11f1-8cf3-7dbc6a5861dd.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bd8fcef90f1c",
-   "kind": "headline",
-   "title": "Proportional representation: the case for and against",
-   "source": "Politics.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55Mi1IY2lQUXBIU0k0YjN4RVpDVWxuNDlYSWxqam13cVEzTXA1UGE5VnU5cnhJZnQ3LXZJR084VlZST1BlbmtfVlZybXRNNENSS3N5VjJrSnBoS1Mtd2ZkNkNhT0ZpU1BGN29BcTM1eVNiMWs?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T02:35:54.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "politics.co.uk"
    ],
    "important": false
   }
