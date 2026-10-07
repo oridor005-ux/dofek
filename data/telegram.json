@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65576,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:28.357Z"
+   "checkedAt": "2026-10-07T07:44:40.502Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:29.076Z"
+   "checkedAt": "2026-10-07T07:44:41.168Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:29.766Z"
+   "checkedAt": "2026-10-07T07:44:41.798Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11421,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:30.464Z"
+   "checkedAt": "2026-10-07T07:44:42.437Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19296,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:31.207Z"
+   "checkedAt": "2026-10-07T07:44:43.085Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:31.914Z"
+   "checkedAt": "2026-10-07T07:44:43.741Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:32.608Z"
+   "checkedAt": "2026-10-07T07:44:44.367Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131492,
+   "lastId": 131498,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:33.360Z"
+   "checkedAt": "2026-10-07T07:44:45.092Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74740,
+   "lastId": 74741,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:33.981Z"
+   "checkedAt": "2026-10-07T07:44:45.669Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:34.734Z"
+   "checkedAt": "2026-10-07T07:44:46.367Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11064,
    "ok": true,
-   "checkedAt": "2026-10-07T07:32:35.528Z"
+   "checkedAt": "2026-10-07T07:44:47.014Z"
   }
  },
  "posts": [
@@ -1759,13 +1759,32 @@
    "date": "2026-10-07T07:29:51+00:00",
    "text": "🔴 חברי הכנסת עמדו דקת דומייה לזכר קובנות 7.10 בפתח דיון ועדת החוקה \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131498",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131498",
+   "date": "2026-10-07T07:40:58+00:00",
+   "text": "המחבל העזתי אבו ודיע אלקצאצ שהצליח להגיע לבריטניה מתבכיין שהימין הבריטי, כולל נייג'ל פרג' ☝️רודף אותו ומטיל עליו טרור - והוא בכלל צדיק, רק רוצה לחיות בשלווה.... 8 תגובות",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74741",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74741",
+   "date": "2026-10-07T07:37:57+00:00",
+   "text": "🔴 ואנס: \"איראן חייבת לעצור את ההעשרה הגרעינית כדי להביא לסיום המלחמה\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:32:35.929Z",
+  "at": "2026-10-07T07:44:47.414Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 79
+  "added": 2,
+  "pendingNew": 81
  }
 }
