@@ -3282,12 +3282,23 @@
    "found": "2026-10-07T10:02:57Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693860234577759508.txt"
+  },
+  {
+   "id": "7693867727760444693",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693867727760444693",
+   "caption": "\"עם ישראל כבר לא יכול יותר. חייבים את זה לעצמנו, למשפחות\" ↓ ח\"כ יוליה...",
+   "posted": "1791368179",
+   "found": "2026-10-07T10:18:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693867727760444693.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T10:03:12Z",
+  "at": "2026-10-07T10:18:24Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
