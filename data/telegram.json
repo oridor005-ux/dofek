@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65584,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:44.685Z"
+   "checkedAt": "2026-10-07T12:41:17.821Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:45.342Z"
+   "checkedAt": "2026-10-07T12:41:18.597Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:45.947Z"
+   "checkedAt": "2026-10-07T12:41:19.296Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11430,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:46.570Z"
+   "checkedAt": "2026-10-07T12:41:20.002Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19298,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:47.199Z"
+   "checkedAt": "2026-10-07T12:41:20.710Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:47.823Z"
+   "checkedAt": "2026-10-07T12:41:21.418Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:48.475Z"
+   "checkedAt": "2026-10-07T12:41:22.182Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131514,
+   "lastId": 131516,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:49.161Z"
+   "checkedAt": "2026-10-07T12:41:22.954Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74762,
+   "lastId": 74763,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:49.713Z"
+   "checkedAt": "2026-10-07T12:41:23.559Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:50.377Z"
+   "checkedAt": "2026-10-07T12:41:24.304Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11067,
    "ok": true,
-   "checkedAt": "2026-10-07T12:29:51.032Z"
+   "checkedAt": "2026-10-07T12:41:25.098Z"
   }
  },
  "posts": [
@@ -2228,13 +2228,42 @@
    "date": "2026-10-07T12:22:34+00:00",
    "text": "🔴 בן 14 רכב על קורקינט חשמלי באזור נוף הגליל, מצבו קשה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131515",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131515",
+   "date": "2026-10-07T12:31:05+00:00",
+   "text": "מההפגנות אתמול בפריז... גז מדמיע, כאפיה ודגל פלסטיני.... שילוב מנצח.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131516",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131516",
+   "date": "2026-10-07T12:41:01+00:00",
+   "text": "א-סווידאא', דרום סוריה:\n הדרוזים בשיירת תמיכה בישראל לציון ה 7.10",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74763",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74763",
+   "date": "2026-10-07T12:39:41+00:00",
+   "text": "🔴 בשל טקס המשפחות בגני יהושע: ייחסמו צירי תנועה באזור ת\"א החל מ-21:00\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T12:29:51.432Z",
+  "at": "2026-10-07T12:41:25.498Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 130
+  "added": 3,
+  "pendingNew": 133
  }
 }

@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T12:40:56.656Z",
+ "updated": "2026-10-07T12:52:32.199Z",
  "items": [
+  {
+   "id": "ae38ca074498",
+   "kind": "headline",
+   "title": "Embraer, Lockheed Martin vie for India’s $10.5B military transport aircraft deal",
+   "source": "Defense News",
+   "url": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
+   "topic": "world",
+   "published": "2026-10-07T12:35:37.000Z",
+   "summary": "The Indian government wants one of its biggest military aviation contracts to deepen the country’s local aerospace industrial base.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UROOOSSVN5EDVJXM64REA5264I.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e91995405328",
    "kind": "headline",
@@ -5673,20 +5687,6 @@
     "Myall Coast News Of The Area",
     "Port Stephens News Of The Area"
    ],
-   "important": false
-  },
-  {
-   "id": "6fb8f389b556",
-   "kind": "headline",
-   "title": "Four political parties announce creation of joint parliamentary caucus in Morocco's lower house - HESPRESS English",
-   "source": "HESPRESS English - Morocco News",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3B4OXVDa0doeHI0UXlvVC1QbE5zMERCSUdtdmlCRnFLd0Z0RkVOM2UxZDZyUm1JYXM2RXF5T2F0UjlBN0x6ODJmTHNtV1IyUUhLQ0JNVEVxY1RUSGdfcjh1ODJ4c21Qb1pWdEV4OWZfc2xhVWJnVjVyRXZZMFpQWnIydnlmOXBPVmNpTlFRbldKVG1GQXFrZ0ZIaUtRbS1ad0RpVXZ1aEpsdGg1MEZjRU9Vd2NKd2RvczNvamM5WFZWaVAtbFpKOE9R?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T22:02:25.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
