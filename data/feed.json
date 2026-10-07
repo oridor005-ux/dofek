@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T09:19:02.325Z",
+ "updated": "2026-10-07T09:31:11.014Z",
  "items": [
+  {
+   "id": "83b7e8345bc8",
+   "kind": "headline",
+   "title": "ויכוח על 7 באוקטובר הסתיים בפיטורים: המשרד שהתפרק בעקבות המלחמה בעזה",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/r1ikqtqoml",
+   "topic": "econ",
+   "published": "2026-10-07T09:21:05.000Z",
+   "summary": "ויכוח על האם מותר לדבר על המלחמה בעזה בישיבות הצוות של משרד טיפולי בדאלאס הביא לפיטורי שתי מטפלות יהודיות ולתביעות הדדיות. חילופי מיילים סוערים והודעות פרטיות של הבעלים, שנחשפו במסמכי בית המשפט, מראים איך סכסוך על נושא רגיש הפך למשבר ארגוני",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/B1JPjYQszg/B1JPjYQszg_0_0_850_479_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a98cdad4d7c5",
    "kind": "headline",
@@ -5706,22 +5720,6 @@
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05dc-scotus-suncor-topart-02-vfmw/05dc-scotus-suncor-topart-02-vfmw-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d35459f2c324",
-   "kind": "headline",
-   "title": "Ruling Palestinian Party in West Bank Says It Has Never Recognized Israel",
-   "source": "Algemeiner.com",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVA0UlNUc0xmcGJtMFQ4cDVNbEJSTllsZjZ3TVdRd0FDU3NpQ1dUcWxCekw5S1JYTXE3VDlFX3RpSVhSRDlrNEc5a2IxOFBqQ3ktWURVR1N6QVlmcjJ1aDUxamZNSUlvSjJ3QkI0QkhOWk9XLW04bnJLM3lOTjB5QlRVUUhhVGUwSWgzNnUyUGVIdDlORUUzN0lyaDMyWlRPU1BaNg?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-05T16:13:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "algemeiner.com"
-   ],
    "important": false
   }
  ]
