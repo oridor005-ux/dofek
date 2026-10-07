@@ -3968,12 +3968,55 @@
    "found": "2026-10-07T19:10:22Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693981238020902162.txt"
+  },
+  {
+   "id": "7694009711817018645",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694009711817018645",
+   "caption": "בטקס הזיכרון הלאומי של “קומו” ומשפחות 7 באוקטובר נשא דברים עמרי שפרונ...",
+   "posted": "1791401243",
+   "found": "2026-10-07T19:37:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694009711817018645.txt"
+  },
+  {
+   "id": "7694005040956083462",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7694005040956083462",
+   "caption": "\"חד משמעית אשם - אבל בואו נדבר על השב\"כ\": רום ברסלבסקי בראיון ללא פיל...",
+   "posted": "1791400152",
+   "found": "2026-10-07T19:39:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694005040956083462.txt"
+  },
+  {
+   "id": "7694011045920214290",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694011045920214290",
+   "caption": "3 שנים לשבעה באוקטובר: מי שמתעסק עם עם הנצח, גוזר על עצמו חורבן והרס ...",
+   "posted": "1791401555",
+   "found": "2026-10-07T19:39:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694011045920214290.txt"
+  },
+  {
+   "id": "7694005923370601735",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694005923370601735",
+   "caption": "יאיר גולן תועד מחייך מפה לאוזן בטקס הזיכרון הלאומי ל-7.10. לצידו: ראש...",
+   "posted": "1791400372",
+   "found": "2026-10-07T19:40:00Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-07T19:10:46Z",
+  "at": "2026-10-07T19:40:15Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 4
  }
 }
