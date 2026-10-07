@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T02:09:56.844Z",
+ "updated": "2026-10-07T02:22:26.001Z",
  "items": [
   {
    "id": "ccd965550388",
@@ -9,6 +9,34 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3lTQWlEeW15dnluS3RRQTJOLTJsM1dUSjBlX1VPbWVwR09mSFR5d2JCX3JDTVpLNlhINnFlWlJ0S1Z6Ri1zOWJ5bE92TEVULVlHaVdYV0pQYi1WeFRtNmxreDhGdzNQRTFaOXpwb2V6N2pTWjc3bGYyMDZicmxpUU5SV2MyVVFrQURFY25HbG1wU1BibWg4Mw?oc=5",
    "topic": "world",
    "published": "2026-10-07T00:13:31.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9d6681183287",
+   "kind": "headline",
+   "title": "Kosovo elects president, rushes war crimes court change to avoid snap poll",
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGs4ODZHUDMwdGVQdUlQZExtdHBZVTNDVV9oZkxUMHUzS0QtVkVwclVaMHRQWGt6WWttaDFLVTNLMDVFYjlZdUVBcFNtNF9qOVRKaGtHeENnOUpQMGZuY0swS1ZjV0E3WTh0MTdFOWdpeUY4TG56dkw5bjBWMDRPR1g1XzJmLXp5b3FQa05pcF9rem9YMGd1eHRMS203WmRYbVFKcGNha2tzTWJIQ0Z2c1NFWmIzVFlZa0dz?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T00:12:33.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b4a966ec5ee5",
+   "kind": "headline",
+   "title": "Parties, polls, processes: detailed election guide",
+   "source": "The Jewish Independent",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjlIR0Jidi04R2xzS0tkaUw2QS0zanZQMEVLSlQzaTRKQTJ6a0FUVmdLb1dFOG13b3hmV3lFaUZfRzd0YlB6bU9oX3c5aG1JZ3pDUy1tOEhtalhQbkJVMjdCTGZKRkpnNzluRnU4T09GNmJpekJKX0NsRW03Rk1ncGtqb3MyZTMtMjZTRg?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T00:09:38.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -1727,6 +1755,20 @@
    "alsoIn": [
     "yahoo.com"
    ],
+   "important": false
+  },
+  {
+   "id": "0b3688186f1a",
+   "kind": "headline",
+   "title": "מבוכה בהצבעה על חוק התורה: חברי הליכוד ששברו משמעת והדליקו את המליאה",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyN3hZelhuOVNKZTNxWUVwZTdZb1g0bzBxZHFia1kwbUpSNkJmNEE0M29qdGFPTENCdFFFTUJINVFJc3NJWlZmcS1qeHJodGphV2xQOTdZcU1qdUFPdHBZMl8yTzU?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-06T11:16:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5755,50 +5797,6 @@
    "summary": "הבורסה בתל אביב נסחרת במגמה שלילית: בהובלת מניות הבנייה והביטוח, האנרגיה שוחה נגד הזרם • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • פרדוקס הנפט: ההיצע מתאושש וה-G7 מתערב, אבל החרדה הגיאופוליטית משאירה את המחירים בשיא • וגם: למרות ספטמבר ההפכפך,…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7d9d99b7fcf1",
-   "kind": "headline",
-   "title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado’s US Senate race",
-   "source": "The Colorado Sun",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yTlBUQ01LZWZ5Yk9LYWFRa0h5SDZQY0FleWdzQkQ0cGhnUm1lSmFCT0NIQUxSUnRyVHhqNTVzRXRfazY0XzVBWGM0MmVtek9FSXlzWGFacUFzSmFhbkQ0YW1IYXViZDg0WUpORTZ0U1JlUzB0NS1vRDlBc2E?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T10:04:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "coloradosun.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "9648eebd3304",
-   "kind": "headline",
-   "title": "Trump chooses top spy boss to run new AI taskforce",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-05T10:03:38.000Z",
-   "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b39fdd4133df",
-   "kind": "headline",
-   "title": "עלייה של 3.4% בשכר הממוצע ביולי 2026 ל-14,534 שקלים",
-   "source": "davar1.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yQkxaTTJyWnpYWjBia3FmMmRpdlhhSmJZdTY3WVNnUXJOekNPZUZSWlNLVGV4d0xsV21TLVJydU9XT1pUdWdn?oc=5",
-   "topic": "econ",
-   "published": "2026-10-05T10:02:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
