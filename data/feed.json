@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-07T18:39:20.007Z",
+ "updated": "2026-10-07T18:50:50.602Z",
  "items": [
+  {
+   "id": "a15626b0dc78",
+   "kind": "headline",
+   "title": "שלוש שנים: ישיר מטקס הזיכרון הלאומי של משפחות 7 באוקטובר",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558666#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T18:40:00.000Z",
+   "summary": "החל טקס הזיכרון הלאומי של משפחות נפגעי ה-7 באוקטובר • דיווח: חיזבאללה קיבל מאיראן 200 מיליון דולר בחודש שעבר • למרות ההבטחות שארגון הטרור חמאס יתפרק מנשקו, העדויות שמגיעות ל-N12 חושפות מציאות מדאיגה • סגן נשיא ארה\"ב ג'יי.די ואנס פיקפק בכוונות האמיתיות של משטר האייתוללות: \"אם אתם לא רוצים נשק גרעיני…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791397859/WhatsApp_Image_2026-10-07_at_21.28.31_kf9nsd.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "92a78fecb3ac",
+   "kind": "headline",
+   "title": "A Public Health-Minded Senator Asks: What Comes After Trump and Kennedy?",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/us/politics/patty-murray-public-health.html",
+   "topic": "world",
+   "published": "2026-10-07T18:37:06.000Z",
+   "summary": "Senator Patty Murray, a former chair of the Senate health committee, is forming a group of experts to examine how to insulate the C.D.C. from political interference.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-murray-health-bqfj/07dc-murray-health-bqfj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b0abaa56e4dd",
    "kind": "headline",
@@ -5638,34 +5666,6 @@
     "reuters.com",
     "The Business Times"
    ],
-   "important": false
-  },
-  {
-   "id": "738c29ae342b",
-   "kind": "headline",
-   "title": "עליות קלות בפתיחה בתל אביב; נקסט ויז'ן צונחת בכ-10%",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558469#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-06T07:07:00.000Z",
-   "summary": "מדד ת\"א 35 עולה בכ-0.2% • המסחר בת\"א מתנהל על רקע חששות החוב הגוברים בעולם • ענקיות הטק הובילו את הנאסד\"ק לשיא חדש, ויש מי שמצביע על כך שהפכו לנכסי המקלט הבטוח החדשים • משבר החוב בצרפת מכביד על גוש האירו ומעצים את החשש גם בשוק החוב האמריקאי - המיליארדר ריי דליו מזהיר מהאטה נוספת בביקושים • וגם:…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "fbac13f2aa33",
-   "kind": "headline",
-   "title": "משרד התקשורת יפרסם בשבוע הבא שימוע לביטול ההפרדה המבנית בבזק ו-yes",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558519#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-06T07:06:00.000Z",
-   "summary": "הבקשה נוגעת למיזוג עם yes, ללא החברות-הבנות הנוספות בקבוצת בזק • בשנה האחרונה התבצעה עבודה של משרד התקשורת, משרד האוצר ורשות התחרות לבחינת המהלך, וכעת הצוות נמצא בשלבי סיום לפרסום השימוע",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1774534553/direct/H-_9-of-12_kw1bbp.png",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
