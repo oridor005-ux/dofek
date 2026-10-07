@@ -3880,12 +3880,23 @@
    "posted": "1791393088",
    "found": "2026-10-07T17:24:36Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693978636289887495",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693978636289887495",
+   "caption": "שר המלחמה האמריקני פיט הגסת' הצטרף לחיילים לאימון מפרך - משקולות, מתח...",
+   "posted": "1791394010",
+   "found": "2026-10-07T17:38:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693978636289887495.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T17:25:00Z",
+  "at": "2026-10-07T17:39:14Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
