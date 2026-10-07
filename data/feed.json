@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T08:31:29.668Z",
+ "updated": "2026-10-07T08:43:09.964Z",
  "items": [
+  {
+   "id": "f8f6d0b2b2b3",
+   "kind": "headline",
+   "title": "ההשקעה החדשה של פתאל בבורסה: 24 מיליון שקל בסניף נוסף של ROOMS",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/rkzkp007jfl",
+   "topic": "econ",
+   "published": "2026-10-07T08:29:25.000Z",
+   "summary": "רשת חללי העבודה ROOMS תפתח בדצמבר את הסניף ה-15 שלה במגדל עלית ברמת גן, שישתרע על פני שטח של כ-5,000 מ\"ר. בתוכנית: חללי עבודה משותפים ומתחמי וולנס שיכללו סאונות, אמבטיות קרח, חללי אירועים ובר קפה",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/ry11T11MYmiMx/ry11T11MYmiMx_0_0_1600_900_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "aed4e0006c22",
    "kind": "headline",
@@ -5717,22 +5731,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791212124/%D7%9E%D7%99%D7%9B%D7%9C_%D7%95%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9E%D7%A1%D7%9A_kexxk3.jpg",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6063176b5b53",
-   "kind": "headline",
-   "title": "הסוד על חוק הגיוס? ח\"כ אשר: \"הצביעות הפוליטית תיגמר אחרי הבחירות\"",
-   "source": "היום",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qRWhiRWhoVDVJVXB0bGVWS3pWT25qZC1yVmszZ2NUaEZabFdIR0lzSzZDMHN2NWZ0cDFmV2NzZUo4OVBud3V3dnB5ZWNaOG1NLXIzNG1DVmtqYmF6V0VVdW1SNGpMdVUxc1JUddIBdEFVX3lxTE5FRURMRVQ1VEtZd2E3dW8xVHR4UE9rZ3BqRGRtSW5XaXRGOGNtMWFYQjJGbzhQSTVWNjQ3Rkd4TTEyYkt2cXFDcVRBdkVfQzBwRnFucDBwX0REX3UyR2NPN1Z6Zmg0QWhOOGlSVm9MZDNWWmgw?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-05T15:20:22.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "israelhayom.co.il"
-   ],
    "important": false
   }
  ]
