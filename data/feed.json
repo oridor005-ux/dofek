@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-07T13:40:40.935Z",
+ "updated": "2026-10-07T13:50:23.834Z",
  "items": [
+  {
+   "id": "50b4b1ce2a69",
+   "kind": "headline",
+   "title": "אחרי ארה\"ב, יפן ואירופה: גם הבנק המרכזי של הודו העלה את הריבית",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558719#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T13:47:00.000Z",
+   "summary": "הבנק המרכזי של הודו העלה את הריבית ל ־5.5% כדי לבלום את האינפלציה • המהלך עלול לייקר אשראי, משכנתאות והלוואות ולהכביד על משקי הבית • הודו היא הכלכלה הגדולה הצומחת במהירות הגבוהה בעולם, אך מתמודדת עם השלכות המלחמה באיראן וסיכוני אקלים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791380128/shutterstock_2165632539_t2gaaa.jpg",
+   "score": 4,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "580a5faafbc2",
+   "kind": "headline",
+   "title": "\"בתוך שנתיים נשתקם לחלוטין\": הצפון חוזר הביתה ובונה כלכלה חדשה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558624#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T13:44:00.000Z",
+   "summary": "גלובס יצא לסיור מיוחד בצפון, ושוחח עם התושבים על החודשים של הירי, הפינוי וההרס, וגם על ההחלטה לשקם, בלי לחכות לממשלה • הקהילות חוזרות, והיזמים מנסים להפוך את המשבר להזדמנות צמיחה כלכלית וחברתית",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791290024/%D7%91%D7%99%D7%AA_%D7%94%D7%A8%D7%95%D7%A1_%D7%91%D7%A7%D7%99%D7%91%D7%95%D7%A5_%D7%9E%D7%A0%D7%A8%D7%94_xlskks.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b67719d8ea8a",
+   "kind": "headline",
+   "title": "בורסת ת\"א באדום בוהק: מה עומד מאחורי הירידות?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T13:38:00.000Z",
+   "summary": "כלל הסקטורים בבורסה נסחרים באדום מלבד ת\"א מזון • מניות השבבים הדואליות מאבדות גובה • יצרנית המצלמות הרחפנים נקסט ויז'ן ממשיכה לספוג לחצים אחרי מימוש הענק של פידליטי • מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים, על רקע דיווח שאיראן מגבירה את התקיפות במצר הורמוז • במקביל: ירידות באירופה ובוול סטריט",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1744793416/COT_Pic/807_ypklng.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "ca2495396239",
    "kind": "headline",
@@ -5639,48 +5681,6 @@
    "summary": "",
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05oz-ai-us-government-version1-qbvk/05oz-ai-us-government-version1-qbvk-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9e862aafb19e",
-   "kind": "headline",
-   "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
-   "topic": "world",
-   "published": "2026-10-06T02:29:31.000Z",
-   "summary": "The separatist party’s victory fell short of clinching a majority that would have all but guaranteed a potential showdown with Ottawa over Canada’s future.",
-   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-canada-quebec-results-01/05int-canada-quebec-results-01-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "1c194a63b005",
-   "kind": "headline",
-   "title": "Alexandria Ocasio-Cortez Says, ‘If Abdul Can Win in Michigan, Anybody Can Win Anywhere’",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/aoc-abdul-el-sayed-2028.html",
-   "topic": "world",
-   "published": "2026-10-06T02:25:08.000Z",
-   "summary": "Representative Alexandria Ocasio-Cortez made the remarks about Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, as she considers whether to run for president in 2028.",
-   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05pol-ocasio-cortez-01-jtwh/05pol-ocasio-cortez-01-jtwh-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e5d342d289eb",
-   "kind": "headline",
-   "title": "Opposing Netanyahu’s Genocidal Militarism Is NOT Anti-Semitic, It is P",
-   "source": "CityWatch LA",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0pyZmRPZmQ2UWxjUU9EVXRVMVZKVC1hNjU0a09pYU5GRTNnOXBGSXBrc3dRZ1ZYTllnaVk1c2RsdkR0aVZqZWxVZGZJYnRqeEt6RFE2YkFsa1hRNmRZbVN1UmlDOFVSTGF5bFpXd2ZVZTdwTC1JYXZEMnJVUVVsaEU1THhnbVpmTmxha294QXI5LXFBQi1VdDZvTVY0dlotTGU0eGN4RDJ0ajVudHQ4MVBnUEpGcTFLSTBvdHpVMkVqOXc?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-06T02:02:42.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }

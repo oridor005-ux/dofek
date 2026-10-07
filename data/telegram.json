@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65585,
+   "lastId": 65587,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:25.197Z"
+   "checkedAt": "2026-10-07T13:41:02.309Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:25.844Z"
+   "checkedAt": "2026-10-07T13:41:02.996Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:26.461Z"
+   "checkedAt": "2026-10-07T13:41:03.663Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11431,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:27.115Z"
+   "checkedAt": "2026-10-07T13:41:04.319Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19298,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:27.742Z"
+   "checkedAt": "2026-10-07T13:41:04.962Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:28.404Z"
+   "checkedAt": "2026-10-07T13:41:05.625Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:29.019Z"
+   "checkedAt": "2026-10-07T13:41:06.278Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131518,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:29.708Z"
+   "checkedAt": "2026-10-07T13:41:07.002Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74767,
+   "lastId": 74768,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:30.267Z"
+   "checkedAt": "2026-10-07T13:41:07.584Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:30.945Z"
+   "checkedAt": "2026-10-07T13:41:08.257Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11067,
    "ok": true,
-   "checkedAt": "2026-10-07T13:29:31.647Z"
+   "checkedAt": "2026-10-07T13:41:08.956Z"
   }
  },
  "posts": [
@@ -2324,13 +2324,31 @@
    "date": "2026-10-07T13:24:25+00:00",
    "text": "🔴 שגריר ארה\"ב בישראל: \"בניגוד לפרסומי הפייק - אין שינוי בפטור מוויזה לישראלים\" \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65586",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65586",
+   "date": "2026-10-07T13:37:30+00:00",
+   "text": "לידיעת הנהגים: מחר צפויות הפגנות חרדים קיצוניים בירושלים ובגוש דן, כנראה באזור 16:00",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74768",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74768",
+   "date": "2026-10-07T13:36:31+00:00",
+   "text": "🔴 ממדאני בפוסט ל-7/10: \"הסבל לא החל אז, ישראל מבצעת רצח עם מתמשך\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T13:29:32.048Z",
+  "at": "2026-10-07T13:41:09.356Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 100
+  "added": 2,
+  "pendingNew": 102
  }
 }
