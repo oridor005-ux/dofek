@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65589,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:29.025Z"
+   "checkedAt": "2026-10-07T16:41:04.405Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:29.729Z"
+   "checkedAt": "2026-10-07T16:41:05.085Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:30.365Z"
+   "checkedAt": "2026-10-07T16:41:05.732Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11435,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:31.046Z"
+   "checkedAt": "2026-10-07T16:41:06.404Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19302,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:31.728Z"
+   "checkedAt": "2026-10-07T16:41:07.117Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:32.368Z"
+   "checkedAt": "2026-10-07T16:41:07.778Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54904,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:33.050Z"
+   "checkedAt": "2026-10-07T16:41:08.458Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131527,
+   "lastId": 131528,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:33.750Z"
+   "checkedAt": "2026-10-07T16:41:09.177Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74787,
+   "lastId": 74788,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:34.327Z"
+   "checkedAt": "2026-10-07T16:41:09.773Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:35.018Z"
+   "checkedAt": "2026-10-07T16:41:10.481Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T16:28:35.705Z"
+   "checkedAt": "2026-10-07T16:41:11.200Z"
   }
  },
  "posts": [
@@ -2690,13 +2690,31 @@
    "date": "2026-10-07T16:24:31+00:00",
    "text": "🔴 נקבע מותו של הגבר שנפצע אנושות בתאונה ליד עומר \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131528",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131528",
+   "date": "2026-10-07T16:31:01+00:00",
+   "text": "סופיאן אבו זאידה, המכונה \"עיני פחם\" כותב היום: \nכלל שלא תמיד הקפדתי עליו בימים האחרונים:\n\"אל תיאבק עם חזיר בבוץ - אתה תתלכלך, והוא ייהנה מזה.\"\n(Never wrestle with a pig)\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74788",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74788",
+   "date": "2026-10-07T16:38:36+00:00",
+   "text": "🔴 האב השכול בטקס הנובה: \"הילדים השאירו צוואה שנכתבה בדם - לחיות זה לצד זה\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T16:28:36.106Z",
+  "at": "2026-10-07T16:41:11.599Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 140
+  "added": 2,
+  "pendingNew": 142
  }
 }
