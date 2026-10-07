@@ -3238,10 +3238,21 @@
    "posted": "1791364366",
    "found": "2026-10-07T09:16:48Z",
    "status": "failed"
+  },
+  {
+   "id": "7693853002637102354",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7693853002637102354",
+   "caption": "שלוש שנים ל-7 באוקטובר - התפכחנו או שנשארנו בקונספציה?",
+   "posted": "1791364754",
+   "found": "2026-10-07T09:33:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693853002637102354.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T09:17:20Z",
+  "at": "2026-10-07T09:34:03Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
