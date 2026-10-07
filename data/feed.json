@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T03:34:19.788Z",
+ "updated": "2026-10-07T03:45:55.413Z",
  "items": [
   {
    "id": "76408fbf2723",
@@ -26,6 +26,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6d938e596c61",
+   "kind": "headline",
+   "title": "המשפחות השכולות לא מימשו מאות מיליוני שקלים מנכסי יקיריהן",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558632#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T03:00:00.000Z",
+   "summary": "מיזם שחר, מערך חינמי שמסייע למשפחות שכולות לצלוח את הבירוקרטיה הסבוכה כדי להגיע לכספים שהותירו יקיריהן, הוקם להנצחת רס\"ן שחר בוזגלו ז\"ל שנפל בעזה • \"החזון הוא לפתוח את עולם הפיננסים לאנשים\", אומר המייסד",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1781184440/direct/2-3-800_lbidlf.png",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5775,22 +5789,6 @@
    "alsoIn": [
     "חדשות 04",
     "0404.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "664265b1c000",
-   "kind": "headline",
-   "title": "Britain’s Greens equate Zionism with racism, Israel sanctions leader",
-   "source": "The Arab Weekly",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORzJQYkJRM3RHeERhV09Wd1ZpRi1WTHlXdnJQZndrNFVveXpFU3p0NXRRcXcyMnhOU3ZLRTVKTk1tVm1MSlA2ZkdJazAtdzdtbjdpdFdEMmYtbjNXZUtobWRaOVNRaVlQek40QXlWd3NLVURIUXZpWXhpNVNRUU4xWnBySXFGRVQ3ZVlTUUJneTA?oc=5",
-   "topic": "world",
-   "published": "2026-10-05T10:32:05.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "thearabweekly.com"
    ],
    "important": false
   }
