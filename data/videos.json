@@ -3728,12 +3728,56 @@
    "found": "2026-10-07T15:24:31Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693943096106601749.txt"
+  },
+  {
+   "id": "7693950562248838421",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693950562248838421",
+   "caption": "\"ילד שהוא פספוס ליקום\" ↓ קרובות משפחתו של מתן זנטי ז\"ל מדברות על החיי...",
+   "posted": "1791387466",
+   "found": "2026-10-07T15:52:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693950562248838421.txt"
+  },
+  {
+   "id": "7693952597438319879",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693952597438319879",
+   "caption": "לאחר חודשים מחוץ לישראל: מלי וליאל יהלומי נחתו בנתב\"ג בתיעוד ראשון מה...",
+   "posted": "1791387942",
+   "found": "2026-10-07T15:52:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693952597438319879.txt"
+  },
+  {
+   "id": "7693953175828712711",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693953175828712711",
+   "caption": "מצמרר: אורן סמדג'ה משתף את התיעוד האחרון שצילם של בנו עומר, שנפל בקרב...",
+   "posted": "1791388077",
+   "found": "2026-10-07T15:53:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693953175828712711.txt"
+  },
+  {
+   "id": "7693840134352932116",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693840134352932116",
+   "caption": "היום לפני שלוש שנים | איילה חסון שוחחה עם אסיה מבארי, שהייתה נצורה במ...",
+   "posted": "1791387900",
+   "found": "2026-10-07T15:54:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693840134352932116.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T15:36:56Z",
+  "at": "2026-10-07T15:54:12Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 4
  }
 }
