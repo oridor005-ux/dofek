@@ -3162,12 +3162,23 @@
    "found": "2026-10-07T07:46:32Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693826511618542868.txt"
+  },
+  {
+   "id": "7693832246372945172",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7693832246372945172",
+   "caption": "האהבה שניצחה הכל ❤️‍🩹 #שבעהבאוקטובר #חטופים #isr ",
+   "posted": "1791359927",
+   "found": "2026-10-07T08:02:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693832246372945172.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T07:46:49Z",
+  "at": "2026-10-07T08:02:58Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
