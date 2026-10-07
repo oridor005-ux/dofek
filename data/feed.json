@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T20:02:00.286Z",
+ "updated": "2026-10-07T20:13:31.304Z",
  "items": [
+  {
+   "id": "fa6a16a3d002",
+   "kind": "headline",
+   "title": "התאוששות מאוחרת בוול סטריט: המדדים מחקו את רוב הנפילות; ה-S&P 500 והנאסד\"ק ירדו ב-0.2%",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T20:04:00.000Z",
+   "summary": "יום מסחר תנודתי ננעל בירידות מתונות, לאחר שזינוק בתשואות האג\"ח לשיא של 22 שנה שלח את המדדים מוקדם יותר לצלילה עמוקה • מכרז חוב ממשלתי מוצלח הרגיע את המשקיעים ובלם את עליית התשואות • מניות תשתיות ה-AI והשבבים סיפקו רוח גבית שמנעה הפסדים כבדים • פרוטוקול הפד מאותת על העלאת ריבית נוספת השנה • הברנט…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "64aef6c727b9",
    "kind": "headline",
@@ -5645,22 +5659,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786354385/RAM07764_axnlw4.jpg",
    "score": 2,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e529a06fae56",
-   "kind": "headline",
-   "title": "Ottawa first used its fast-track power for major projects last week, under law the government is now asking Parliament to rebuild",
-   "source": "thehub.ca",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU1BsS19qXzdRel9hSnhJUTV3ZnNTV1pDQXRleW45NmxrT19VblJ4d0txTTNVRVhJUGlia2VILXVIQ1FwMm03cVVzeTBER3RCRUhvaEFoMWN3SmFjVkR3c1l4NVlQOHV4cFBqNmpTa000NXhYTHUzQWdVVTVGYVdQOWY2S25MRWM5VmV6dmNCb1lpSGw0V0ZNcWN4MW9pUTllRDRpYjNIQ0pfM21FUFhFVHlnTEtGaG9SQVgydU11MW11Tm85R1puSFpMbVpaOVIwYlhhTFNQSFhWd2stblFHN0ltN1ByekxGTnc5NlNOUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T07:31:50.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "The Hub | More Signal. Less Noise."
-   ],
    "important": false
   }
  ]
