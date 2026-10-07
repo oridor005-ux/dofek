@@ -108,7 +108,7 @@
   "7beabca26703"
  ],
  "pending": [],
- "lastRun": "2026-10-07T04:09:59.479Z",
+ "lastRun": "2026-10-07T04:21:31.293Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -135,7 +135,7 @@
    },
    "at": "2026-10-07T03:57:44.930Z"
   },
-  "lastNewItemAt": "2026-10-07T04:09:59.479Z",
+  "lastNewItemAt": "2026-10-07T04:21:31.293Z",
   "lastPushOkAt": "2026-10-07T04:06:14.323Z",
   "googleOkAt": "2026-10-07T03:57:44.930Z"
  },
