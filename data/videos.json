@@ -3184,10 +3184,21 @@
    "found": "2026-10-07T08:16:24Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693832654608665863.txt"
+  },
+  {
+   "id": "7693827886826179847",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693827886826179847",
+   "caption": "הטלנובלה מסתבכת: מה גורם לאם ובתה להמשיך לברוח? 🌍 אחרי שנעלמו באוגוסט...",
+   "posted": "1791360900",
+   "found": "2026-10-07T08:31:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693827886826179847.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T08:16:41Z",
+  "at": "2026-10-07T08:31:49Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
