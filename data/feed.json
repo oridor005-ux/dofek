@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T18:03:39.853Z",
+ "updated": "2026-10-07T18:15:15.549Z",
  "items": [
+  {
+   "id": "a228d376f8b0",
+   "kind": "headline",
+   "title": "Fed Minutes Signal Further Rate Increase This Year, but No Urgency for October Hike",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/economy/central-banking/fed-minutes-signal-further-rate-increase-this-year-but-no-urgency-for-october-hike-54ec759f?mod=rss_socialeconomyfeed",
+   "topic": "world",
+   "published": "2026-10-07T18:11:00.000Z",
+   "summary": "After raising rates in September, some of the central bank’s top officials have suggested a further rate rise can wait until December.",
+   "image": "https://images.wsj.net/im-62300636",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "16410d13d701",
    "kind": "headline",
@@ -5656,20 +5670,6 @@
    "alsoIn": [
     "maariv.co.il"
    ],
-   "important": false
-  },
-  {
-   "id": "da0001428a6d",
-   "kind": "headline",
-   "title": "בעקבות אנטישמיות: זינוק חד בניו יורק בהרשמה לבתי ספר יהודים",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04a0lNSE15alBMQnQtLXNpS1VMdEI3WXlzUl80MEp1elItQnhMOTZUNHREZFlhSzgtRU00R1JVcmZuc3JCRG40UmN6bzZDUUptQ0hpVFNReUEyVnhHV2lUVQ?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T06:14:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
