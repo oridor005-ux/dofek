@@ -3794,10 +3794,32 @@
    "found": "2026-10-07T16:08:00Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693954675351031092.txt"
+  },
+  {
+   "id": "7693959066871270674",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693959066871270674",
+   "caption": "איך נלחמים בקמפיין אנטי-ישראלי ממומן היטב ברשת? | העיתונאית האוסטרלית...",
+   "posted": "1791389449",
+   "found": "2026-10-07T16:22:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693959066871270674.txt"
+  },
+  {
+   "id": "7693958328019422484",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693958328019422484",
+   "caption": "\"ראתה אותך כאילו שהיא אמא שלהן\": סגן עדן נימרי נפלה בקרב במוצב \"נחל ע...",
+   "posted": "1791389275",
+   "found": "2026-10-07T16:24:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693958328019422484.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T16:08:09Z",
+  "at": "2026-10-07T16:24:34Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
