@@ -4033,12 +4033,23 @@
    "found": "2026-10-07T19:58:24Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694015931869334792.txt"
+  },
+  {
+   "id": "7694022124268195093",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694022124268195093",
+   "caption": "שורד השבי אלי שרעבי שיתף מילים אישיות שכתב לאשתו ליאן ולבנותיו נויה ו...",
+   "posted": "1791404135",
+   "found": "2026-10-07T20:28:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694022124268195093.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T20:16:14Z",
+  "at": "2026-10-07T20:28:53Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
