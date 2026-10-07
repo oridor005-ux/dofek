@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65596,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:19.657Z"
+   "checkedAt": "2026-10-07T20:15:31.209Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:20.292Z"
+   "checkedAt": "2026-10-07T20:15:31.890Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:20.883Z"
+   "checkedAt": "2026-10-07T20:15:32.529Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11442,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:21.510Z"
+   "checkedAt": "2026-10-07T20:15:33.371Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19307,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:22.123Z"
+   "checkedAt": "2026-10-07T20:15:34.026Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:22.733Z"
+   "checkedAt": "2026-10-07T20:15:34.662Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:23.329Z"
+   "checkedAt": "2026-10-07T20:15:35.316Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131537,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:23.992Z"
+   "checkedAt": "2026-10-07T20:15:35.989Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74806,
+   "lastId": 74807,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:24.536Z"
+   "checkedAt": "2026-10-07T20:15:36.769Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:25.212Z"
+   "checkedAt": "2026-10-07T20:15:37.525Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T20:02:25.898Z"
+   "checkedAt": "2026-10-07T20:15:38.251Z"
   }
  },
  "posts": [
@@ -3078,13 +3078,22 @@
    "date": "2026-10-07T19:51:29+00:00",
    "text": "🔴 אלי שרעבי בסיום הטקס: \"צריך לחקור איך זה קרה, לא לעגל פינות\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74807",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74807",
+   "date": "2026-10-07T20:03:13+00:00",
+   "text": "🔴 דיווח: טראמפ ביקש לגבש תוכניות לתקיפה באיראן - שניתן לממש לפני הבחירות\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T20:02:26.298Z",
+  "at": "2026-10-07T20:15:38.651Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 183
+  "added": 1,
+  "pendingNew": 184
  }
 }
