@@ -3005,12 +3005,22 @@
    "found": "2026-10-06T20:54:01Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693633624322673941.txt"
+  },
+  {
+   "id": "7693764800261688597",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7693764800261688597",
+   "caption": "3 שנים 💔🇮🇱",
+   "posted": "1791344216",
+   "found": "2026-10-07T03:44:12Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-07T03:28:25Z",
+  "at": "2026-10-07T03:44:26Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
