@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65584,
    "ok": true,
-   "checkedAt": "2026-10-07T09:19:55.881Z"
+   "checkedAt": "2026-10-07T09:31:31.661Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7255,
    "ok": true,
-   "checkedAt": "2026-10-07T09:19:56.545Z"
+   "checkedAt": "2026-10-07T09:31:32.328Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T09:19:57.189Z"
+   "checkedAt": "2026-10-07T09:31:32.953Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11423,
    "ok": true,
-   "checkedAt": "2026-10-07T09:19:57.834Z"
+   "checkedAt": "2026-10-07T09:31:33.603Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19297,
    "ok": true,
-   "checkedAt": "2026-10-07T09:19:58.489Z"
+   "checkedAt": "2026-10-07T09:31:34.256Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T09:19:59.175Z"
+   "checkedAt": "2026-10-07T09:31:34.936Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54902,
    "ok": true,
-   "checkedAt": "2026-10-07T09:19:59.861Z"
+   "checkedAt": "2026-10-07T09:31:35.575Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131505,
    "ok": true,
-   "checkedAt": "2026-10-07T09:20:00.559Z"
+   "checkedAt": "2026-10-07T09:31:36.263Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74744,
+   "lastId": 74745,
    "ok": true,
-   "checkedAt": "2026-10-07T09:20:01.136Z"
+   "checkedAt": "2026-10-07T09:31:36.870Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T09:20:01.809Z"
+   "checkedAt": "2026-10-07T09:31:37.543Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11065,
    "ok": true,
-   "checkedAt": "2026-10-07T09:20:02.552Z"
+   "checkedAt": "2026-10-07T09:31:38.266Z"
   }
  },
  "posts": [
@@ -1917,13 +1917,22 @@
    "date": "2026-10-07T09:09:53+00:00",
    "text": "🔴 תיעוד: דקת דומייה בכיכר החטופים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74745",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74745",
+   "date": "2026-10-07T09:23:03+00:00",
+   "text": "🔴 פרופ' שחר נבו הוא המרצה מבר אילן שמואשם בתכנון פיגועי ענק נגד ערבים\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T09:20:02.953Z",
+  "at": "2026-10-07T09:31:38.667Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 96
+  "pendingNew": 97
  }
 }

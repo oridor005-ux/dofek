@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T09:31:11.014Z",
+ "updated": "2026-10-07T09:42:43.900Z",
  "items": [
+  {
+   "id": "e73ad891ee4c",
+   "kind": "headline",
+   "title": "חיפה: בניין ישן נהרס במסגרת התחדשות עירונית",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/hk85kfmime",
+   "topic": "econ",
+   "published": "2026-10-07T09:33:28.000Z",
+   "summary": "מדובר בבניין ברחוב אידר בעיר שנהרס במסגרת פרויקט תמ\"א 38. במקום 8 דירות ישנות ייבנו 26 דירות חדשות בחלקה הדרומי של העיר",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/HJ0kTK7iGe/HJ0kTK7iGe_0_170_1200_676_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "83b7e8345bc8",
    "kind": "headline",
@@ -5707,20 +5721,6 @@
    "score": 4,
    "alsoIn": [],
    "important": true
-  },
-  {
-   "id": "d92e0dac914f",
-   "kind": "headline",
-   "title": "Supreme Court Tangles Over Major Climate Change Case",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
-   "topic": "world",
-   "published": "2026-10-05T16:14:31.000Z",
-   "summary": "The justices began their new term with a landmark dispute over whether local governments can hold oil companies liable for damages from climate change.",
-   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05dc-scotus-suncor-topart-02-vfmw/05dc-scotus-suncor-topart-02-vfmw-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
