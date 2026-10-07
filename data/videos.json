@@ -3684,12 +3684,56 @@
    "found": "2026-10-07T14:52:52Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693935309192432916.txt"
+  },
+  {
+   "id": "7693943203698904341",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7693943203698904341",
+   "caption": "למעלה ממחצית מהישראלים רואים בקיטוב את אחד האיומים המסוכנים ביותר על ...",
+   "posted": "1791385753",
+   "found": "2026-10-07T15:21:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693943203698904341.txt"
+  },
+  {
+   "id": "7693940310342110484",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7693940310342110484",
+   "caption": "\"אנחנו צריכים לקדם את סוגיית הגירוש וההתיישבות\" ↓ סא\"ל (במיל') איתמר ...",
+   "posted": "1791385080",
+   "found": "2026-10-07T15:23:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693940310342110484.txt"
+  },
+  {
+   "id": "7693942554823347474",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693942554823347474",
+   "caption": "מה הדבר הראשון שבחר ינון מגל לעשות כשפתח את תוכנית הפטריוטים ב-7 באוק...",
+   "posted": "1791385606",
+   "found": "2026-10-07T15:23:57Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693942554823347474.txt"
+  },
+  {
+   "id": "7693943096106601749",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7693943096106601749",
+   "caption": "לא שותקים מול תומכי הטרור ביום הזה!!",
+   "posted": "1791385729",
+   "found": "2026-10-07T15:24:31Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693943096106601749.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T14:53:02Z",
+  "at": "2026-10-07T15:24:41Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 4
  }
 }
