@@ -3092,12 +3092,22 @@
    "found": "2026-10-07T06:15:50Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693804990741171462.txt"
+  },
+  {
+   "id": "7693811323162905877",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7693811323162905877",
+   "caption": "שלוש שנים לטבח 7 באוקטובר: מפכ\"ל המשטרה וסגל הפיקוד הבכיר של המשטרה ק...",
+   "posted": "1791355051",
+   "found": "2026-10-07T06:45:39Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-07T06:30:37Z",
+  "at": "2026-10-07T06:46:00Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
