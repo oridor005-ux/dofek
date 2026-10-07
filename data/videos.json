@@ -3378,12 +3378,34 @@
    "posted": "1791371004",
    "found": "2026-10-07T11:04:55Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693882278929272065",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693882278929272065",
+   "caption": "",
+   "posted": "1791371570",
+   "found": "2026-10-07T11:19:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693882278929272065.txt"
+  },
+  {
+   "id": "7693881327107525909",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693881327107525909",
+   "caption": "",
+   "posted": "1791371349",
+   "found": "2026-10-07T11:20:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693881327107525909.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T11:05:07Z",
+  "at": "2026-10-07T11:20:37Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 2
  }
 }
