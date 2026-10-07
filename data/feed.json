@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-07T18:15:15.549Z",
+ "updated": "2026-10-07T18:23:08.410Z",
  "items": [
   {
    "id": "a228d376f8b0",
    "kind": "headline",
    "title": "Fed Minutes Signal Further Rate Increase This Year, but No Urgency for October Hike",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/economy/central-banking/fed-minutes-signal-further-rate-increase-this-year-but-no-urgency-for-october-hike-54ec759f?mod=rss_socialeconomyfeed",
+   "topic": "world",
+   "published": "2026-10-07T18:11:00.000Z",
+   "summary": "After raising rates in September, some of the central bank’s top officials have suggested a further rate rise can wait until December.",
+   "image": "https://images.wsj.net/im-62300636",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "fe98edb599fb",
+   "kind": "headline",
+   "title": "Fed officials didn’t make an urgent case for an immediate follow-on rate hike after raising interest rates in September, according to the minutes of the meeting.",
    "source": "Wall Street Journal",
    "url": "https://www.wsj.com/economy/central-banking/fed-minutes-signal-further-rate-increase-this-year-but-no-urgency-for-october-hike-54ec759f?mod=rss_socialeconomyfeed",
    "topic": "world",
@@ -44,6 +58,20 @@
    "important": false
   },
   {
+   "id": "e915bda54b97",
+   "kind": "headline",
+   "title": "פרוטוקול הפד: הבנק המרכזי צופה העלאת ריבית נוספת השנה, אך המועד נותר פתוח",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T17:48:00.000Z",
+   "summary": "יום לאחר שמדד ה-S&P 500 נגע בשיא כל הזמנים, המגמה בוול סטריט מתהפכת בחדות • וול סטריט מתנהלת בירידות שערים; מניות הטכנולוגיה סופגות מימושים, מניות התחבורה בדרך לשוק דובי • מדד המניות הקטנות מתקרב לטריטוריה של תיקון • אירופה ננעלה באדום עמוק בצל החששות הכלכליים • הנפט חוזר למתחת ל-100 דולר; מורגן…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
    "id": "48f2840729bd",
    "kind": "headline",
    "title": "'Netanyahu Is A War Criminal’: Susan Collins Confronted During Troy Jackson Debate",
@@ -68,6 +96,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ae0ac407f773",
+   "kind": "headline",
+   "title": "שלוש שנים לטבח: החל טקס הזיכרון הלאומי בפארק הירקון",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558666#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T17:20:00.000Z",
+   "summary": "טקס הזיכרון לזכר נרצחי מסיבת הנובה בחניון רעים נפתח בדקת דומייה • דיווח: חיזבאללה קיבל מאיראן 200 מיליון דולר בחודש שעבר • למרות ההבטחות שארגון הטרור חמאס יתפרק מנשקו, העדויות שמגיעות ל-N12 חושפות מציאות מדאיגה • סגן נשיא ארה\"ב ג'יי.די ואנס פיקפק בכוונות האמיתיות של משטר האייתוללות: \"אם אתם לא…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791390529/in_elkana_autoOrient.mxf_autoOrient_w_ogiokz.jpg",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5626,50 +5668,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e2/live/c7aa3c10-c146-11f1-91a4-9d3e6655f0dd.jpg",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9eddacde0594",
-   "kind": "headline",
-   "title": "Most Israelis, Palestinians Do Not Want Two-State Solution",
-   "source": "Gallup News",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUZYQjRma0xDT3lmZGlNYmtadTNKRkJlTUZwcXdWRWc2cjNEc0Rsa3FXRG84TWRCeHpTMjNKNVgwbW5ONVBrQm1Dc1BMdDVHYmhmWDRJclhDT0cyMGg4bWltTDZnbXJ3eTh2ZUFUQTRYNE1tNFVyWmoyRjdTTEJPTG41c1NhSlhmUzRjajdB?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T06:28:51.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0d7c25b3acc2",
-   "kind": "headline",
-   "title": "הממשלה אישרה תוכנית לצמצום הזיהום ועכשיו רוצה להקים תחנת כוח באשדוד",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/rylgzzzimx",
-   "topic": "knesset",
-   "published": "2026-10-06T06:26:19.000Z",
-   "summary": "הממשלה תדון היום בהסמכת בית הזיקוק אשדוד להכין תוכנית תשתית לתחנת כוח מוסקת בגז טבעי, ביוזמת שר האנרגיה אלי כהן. המהלך מגיע אחרי שביוני אישרה אותה ממשלה תוכנית לאומית לצמצום זיהום באזור אשדוד. המשרד להגנת הסביבה מתנגד וטוען כי התחנה תחמיר את איכות האוויר",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/01/26/4422992/4422992_12_94_957_539_0_medium.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "1d4dd51eb600",
-   "kind": "headline",
-   "title": "אנטישמיות בשיאה: בארה\"ב ובאירופה נערכים להפגנות אנטי-ישראליות ב-7 באוקטובר",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55RVc4bFRUMXB4ZVlXc1Z2dk9EdDJnRlJMRDA4cmZtZVBZcmUyTmZnVUZaWDNJcjVQSzBsS25SeXdfU244TEZycFJlT09WZThESWJkNXlfNjE5X2I3LWx1bg?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T06:15:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "maariv.co.il"
-   ],
    "important": false
   }
  ]

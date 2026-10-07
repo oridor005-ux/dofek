@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65592,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:02.637Z"
+   "checkedAt": "2026-10-07T18:15:35.541Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:03.317Z"
+   "checkedAt": "2026-10-07T18:15:36.255Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:04.061Z"
+   "checkedAt": "2026-10-07T18:15:39.353Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
-   "lastId": 11439,
+   "lastId": 11440,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:04.720Z"
+   "checkedAt": "2026-10-07T18:15:40.021Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19303,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:05.456Z"
+   "checkedAt": "2026-10-07T18:15:40.761Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:06.130Z"
+   "checkedAt": "2026-10-07T18:15:41.420Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54904,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:06.756Z"
+   "checkedAt": "2026-10-07T18:15:42.055Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131532,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:07.438Z"
+   "checkedAt": "2026-10-07T18:15:42.736Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74791,
+   "lastId": 74792,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:08.016Z"
+   "checkedAt": "2026-10-07T18:15:43.305Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:08.692Z"
+   "checkedAt": "2026-10-07T18:15:43.989Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-07T18:04:09.389Z"
+   "checkedAt": "2026-10-07T18:15:44.729Z"
   }
  },
  "posts": [
@@ -2820,13 +2820,31 @@
    "date": "2026-10-07T17:57:52+00:00",
    "text": "אז גם חנין כמו עוד לא מעט אנשים שחוגגים מוקדם מדי את \"נפילתי\" יצטרכו עוד לאכול את הכובע כשיבינו שהם טועים בגדול, אני פה בכל הכוח, רק מתחזק, ואשאר תמיד עצם תקוע בגרון של כל אנטי ישראלי שחי בינינו!",
    "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11440",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11440",
+   "date": "2026-10-07T18:14:50+00:00",
+   "text": "תודה לרב עמיחי גורדין על החיזוק בימים האלה 🙏\nhttps://www.inn.co.il/news/707695",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74792",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74792",
+   "date": "2026-10-07T18:05:11+00:00",
+   "text": "🔴 סעודיה: 3 הרוגים בתקיפות החות'ים על נמלי התעופה הבינלאומיים\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T18:04:09.789Z",
+  "at": "2026-10-07T18:15:45.128Z",
   "ok": 11,
   "fail": 0,
   "added": 2,
-  "pendingNew": 155
+  "pendingNew": 157
  }
 }
