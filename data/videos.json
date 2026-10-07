@@ -3059,10 +3059,21 @@
    "found": "2026-10-07T05:16:30Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7693642619322109236.txt"
+  },
+  {
+   "id": "7693793194886122773",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7693793194886122773",
+   "caption": "אימה של התצפיתנית גילי לייבושור ז\"ל הגיעה הבוקר לחמ\"ל השרוף בנחל עוז,...",
+   "posted": "1791350830",
+   "found": "2026-10-07T05:30:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693793194886122773.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T05:16:41Z",
+  "at": "2026-10-07T05:30:17Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
