@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T22:49:20.078Z",
+ "updated": "2026-10-07T23:00:55.453Z",
  "items": [
+  {
+   "id": "6d23edf40711",
+   "kind": "headline",
+   "title": "Who Is Ken Paxton Turning to for Help in the Texas Senate Race?",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/us/politics/ken-paxton-texas-senate-race.html",
+   "topic": "world",
+   "published": "2026-10-07T22:56:44.000Z",
+   "summary": "Trump is in Texas tonight to stump for the Senate candidate.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07pol-onpolitics-newsletter-paxton-pfvl/07pol-onpolitics-newsletter-paxton-pfvl-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "89a120fb2eea",
    "kind": "headline",
@@ -5642,20 +5656,6 @@
     "mako.co.il",
     "mako"
    ],
-   "important": false
-  },
-  {
-   "id": "deb83a2f0eb5",
-   "kind": "headline",
-   "title": "בריטניה שוקלת לדחות את הכרזת תוכנית הגדלת תקציב הביטחון מאת Investing.com",
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01TnJSSzZTcllTYVVGcVdUZkVFMXh6WTM3VmdncG9fblVqcnM5d1ZfUUpieUtGeWVieVA4U2ZnckU2NFIxY1dzc2ZqYlJ6YUFBZTJGN1pKSzFQUVVKelpLeTBwME5QVFp4Wkw0Q0tCNA?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T08:48:45.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
