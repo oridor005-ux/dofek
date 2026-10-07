@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-07T05:21:39.544Z",
+ "updated": "2026-10-07T05:33:12.375Z",
  "items": [
+  {
+   "id": "f054e6df16e8",
+   "kind": "headline",
+   "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
+   "topic": "israelAbroad",
+   "published": "2026-10-07T05:25:10.000Z",
+   "summary": "Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own investigation into the flydubai co-pilot who allegedly tried to hijack an Israel-bound plane, after…",
+   "image": "https://i.guim.co.uk/img/media/3896ca0479fed88b7e5394212443180d14b75745/406_0_4058_3249/master/4058.jpg?width=140&quality=85&auto=format&fit=max&s=24786e441b88b90a8eaea56a24fda646",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "772eef03dad9",
    "kind": "headline",
@@ -306,6 +320,20 @@
    "summary": "מיזם שחר, מערך חינמי שמסייע למשפחות שכולות לצלוח את הבירוקרטיה הסבוכה כדי להגיע לכספים שהותירו יקיריהן, הוקם להנצחת רס\"ן שחר בוזגלו ז\"ל שנפל בעזה • \"החזון הוא לפתוח את עולם הפיננסים לאנשים\", אומר המייסד",
    "image": "https://res.cloudinary.com/globes/image/upload/v1781184440/direct/2-3-800_lbidlf.png",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7a4a960e11bf",
+   "kind": "headline",
+   "title": "300 מיליארד שקל בפנסיה מנוהלים ללא פיקוח. ברשות שוק ההון מתכוונים לשנות את המצב",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558588#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-07T03:00:00.000Z",
+   "summary": "כשהיקף ההשקעות האלטרנטיביות בידי המוסדיים כבר עומד על מאות מיליארדי שקלים, ברשות פועלים להפוך את חובת ביצוע הערכת השווי לנכסים משנתית לרבעונית • סגן הממונה על שוק ההון באזהרה למוסדיים: \"בלי שיערוך רבעוני, תבחנו כדאיות ההשקעה בקרן פרטית\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791292555/%D7%90%D7%A1%D7%A3_%D7%A0%D7%97%D7%9E%D7%A0%D7%99_%D7%90%D7%99%D7%9B%D7%95%D7%AA_%D7%92%D7%91%D7%95%D7%94%D7%94_lczh2h.jpg",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -5729,36 +5757,6 @@
    "published": "2026-10-05T13:01:05.000Z",
    "summary": "",
    "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e941f3ce1096",
-   "kind": "headline",
-   "title": "פחות נשים על המסך בחגים: הייצוג הנשי בחדשות ובאקטואליה ירד בספטמבר",
-   "source": "שקוף",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5qUGVVWFViMlh6TlpFWXRZTFVxaXQ5ZnVzS1BJU3E4ajhYVmE3ejVCeThkVy1QeTc2czVRTFNadw?oc=5",
-   "topic": "factcheck",
-   "published": "2026-10-05T12:57:50.000Z",
-   "summary": "בדיקה של שידורי החדשות והאקטואליה בערוצי הטלוויזיה בספטמבר מעלה כי שיעור הנשים בנוכחות החזותית ירד מ-24.7% באוגוסט ל-22.5% בספטמבר – ירידה של 2.2 נקודות אחוז • ערוץ 14 נותר שיאן הדרת הנשים • צניחה בייצוג הנשים במהדורה המרכזית של חדשות 12 • בפאנלים: נשים היו פחות מחמישית מהנוכחות על המסך",
-   "image": "https://shakuf.co.il/wp-content/uploads/2026/10/women-representation-overall-september-2026-427x240.jpg",
-   "score": 2,
-   "alsoIn": [
-    "shakuf.co.il"
-   ],
-   "important": true
-  },
-  {
-   "id": "2f185cea99af",
-   "kind": "headline",
-   "title": "ירידות בתל אביב, בהובלת מניות הבנייה והביטוח",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558349#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-05T12:51:00.000Z",
-   "summary": "מדד ת\"א 90 נחלש בכ-1.5% • אאורה מדווחת על שיא מכירות בשוק הדיור • דוראל קיבלה היתרי בנייה לשלב ב' להאב האנרגיה באינדיאנה • טלטלה בבזא: משרד האנרגיה דורש בעל שליטה אסטרטגי, המניה מאבדת גובה • גילת ממשיכה את ההתרחבות שלה בפרו • וגם: למרות ספטמבר ההפכפך, 3 המניות שג'יי.פי מורגן מסמן לחודש אוקטובר",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1645696030/direct/IMG_20200309_140611_jxtlyd.jpg",
    "score": 1,
    "alsoIn": [],
    "important": false
