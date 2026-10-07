@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65575,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:29.874Z"
+   "checkedAt": "2026-10-07T06:56:50.645Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7254,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:30.511Z"
+   "checkedAt": "2026-10-07T06:56:51.386Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2991,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:31.158Z"
+   "checkedAt": "2026-10-07T06:56:52.082Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11421,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:31.792Z"
+   "checkedAt": "2026-10-07T06:56:52.802Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19296,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:32.432Z"
+   "checkedAt": "2026-10-07T06:56:53.535Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:33.088Z"
+   "checkedAt": "2026-10-07T06:56:54.284Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54901,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:33.708Z"
+   "checkedAt": "2026-10-07T06:56:54.988Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131491,
+   "lastId": 131492,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:34.370Z"
+   "checkedAt": "2026-10-07T06:56:55.734Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74737,
+   "lastId": 74739,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:34.926Z"
+   "checkedAt": "2026-10-07T06:56:56.402Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8407,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:35.577Z"
+   "checkedAt": "2026-10-07T06:56:57.198Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11064,
    "ok": true,
-   "checkedAt": "2026-10-07T06:44:36.223Z"
+   "checkedAt": "2026-10-07T06:56:57.994Z"
   }
  },
  "posts": [
@@ -1704,13 +1704,41 @@
    "date": "2026-10-07T06:40:14+00:00",
    "text": "🔴 ציון 7/10 ברחבי העולם: בצרפת חנכו שביל על שם שירי, אריאל וכפיר ביבס\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131492",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131492",
+   "date": "2026-10-07T06:45:12+00:00",
+   "text": "ערוצים פלסטינים: כוחות צה\"ל ניפצו את האנדרטה לזכר \"השהיד\" יאסר אלחמדוני בכפר יעבד בנפת ג'נין. ## כמו כן דווח על הריסת אנדרטת \"שהידים\" נוספת בעיר שכם. תגובה אחת",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74738",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74738",
+   "date": "2026-10-07T06:45:37+00:00",
+   "text": "🔴 בכיר במשטרה נגד דוד זיני: \"לא ברור מאיפה המידע על התארגנויות צבאיות בפזורה\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74739",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74739",
+   "date": "2026-10-07T06:48:16+00:00",
+   "text": "🔴 מעצר מלי וליאל יהלומי: \"כבר לא נראות כמו שנראו\", וקנו דרכונים מזוייפים בשוק האפור\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-07T06:44:36.624Z",
+  "at": "2026-10-07T06:56:58.395Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 73
+  "added": 3,
+  "pendingNew": 76
  }
 }
