@@ -3108,12 +3108,23 @@
    "posted": "1791355051",
    "found": "2026-10-07T06:45:39Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7693813369018535188",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7693813369018535188",
+   "caption": "על גבול עזה עם שלי דקל התצפיתנית, שומע את הסיפור הבלתי נתפס של התצפית...",
+   "posted": "1791355525",
+   "found": "2026-10-07T07:01:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7693813369018535188.txt"
   }
  ],
  "health": {
-  "at": "2026-10-07T06:46:00Z",
-  "channelsOk": 23,
-  "channelsFail": 0,
+  "at": "2026-10-07T07:01:27Z",
+  "channelsOk": 22,
+  "channelsFail": 1,
   "transcribed": 1
  }
 }
