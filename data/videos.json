@@ -4420,10 +4420,32 @@
    "found": "2026-10-08T10:33:08Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694241861510155540.txt"
+  },
+  {
+   "id": "7694245077266304276",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694245077266304276",
+   "caption": "⁨\tבפוסט ששיתפה ברשתות החברתיות, מאי ברזילי ביקשה מהגולשים דבר אחד: לע...",
+   "posted": "1791456042",
+   "found": "2026-10-08T10:47:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694245077266304276.txt"
+  },
+  {
+   "id": "7694244448301010196",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694244448301010196",
+   "caption": "",
+   "posted": "1791455892",
+   "found": "2026-10-08T10:47:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694244448301010196.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T10:33:17Z",
+  "at": "2026-10-08T10:47:52Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
