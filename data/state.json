@@ -143,7 +143,7 @@
   "67e9302e9439"
  ],
  "pending": [],
- "lastRun": "2026-10-08T14:16:46.066Z",
+ "lastRun": "2026-10-08T14:28:24.970Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -170,7 +170,7 @@
    },
    "at": "2026-10-08T14:04:35.363Z"
   },
-  "lastNewItemAt": "2026-10-08T14:16:46.066Z",
+  "lastNewItemAt": "2026-10-08T14:28:24.970Z",
   "lastPushOkAt": "2026-10-08T14:04:13.176Z",
   "googleOkAt": "2026-10-08T14:04:35.363Z"
  },
