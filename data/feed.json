@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T16:27:40.694Z",
+ "updated": "2026-10-08T16:34:35.444Z",
  "items": [
+  {
+   "id": "4d2b72049dd6",
+   "kind": "headline",
+   "title": "New TSC Bill set to reshape teacher management as parliament invites public views",
+   "source": "People Daily",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOempCdVVsZkN0N1dSMmxXMDNzNkJnWVJ6Q1Rub2Nqa21FWWktT19ONnE1THpjZE1XdlRONGlpWXBFNzl2WHlJVmo0OWhBMjdsSThJbmFlblVWRk9vTXBEN19UVk82ck9POWdIV19EOXdwelYtby1jUzVHaTlMR3V2UDVDQWQ2Qjk2dzV6RlViSlpvbHFOZHRqM2FIbUhnaEFrWGdlSnZsNjhqd09nR3dicWF1NFM?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T16:14:43.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "7d13702a03e4",
    "kind": "headline",
@@ -30,6 +44,20 @@
    "important": false
   },
   {
+   "id": "dde5e4f8758e",
+   "kind": "headline",
+   "title": "Should we keep funding Israel? - America’s $3.8 billion question",
+   "source": "Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRBMWYtV1c1Qng5NG5uWjJYZEk4b2dyWXFqeDVTN2l0aXc0N3d6SkNmUm1JTlgyY3QzLTYyVFRLUUplZnoxcU9nVWhxc09sUVE5RUVMMHZqZkhrSkZPX2xVd3RET0dwRmdWS2ZYMWdGMG5vczBIcjN6bm1ScW5YQ1Z2bE9lQ3Y1UC1ZOUliQjB2bWkwZFhUSDlhQ1dmMUxzOW9xM1puN3ZlUQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T15:56:47.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "213b9b5b2432",
    "kind": "headline",
    "title": "Trump Administration Suspends Microsoft From Green Card Program",
@@ -42,6 +70,48 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "5c39aa82b2a0",
+   "kind": "headline",
+   "title": "Five years after the Pandora Papers, transparency laws lose their teeth - International Consortium of Investigative Journalists",
+   "source": "International Consortium of Investigative Journalists - ICIJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObWlvWXh4OHM3anEzQTdwSWpPVFhxdjdncGk5SURzcGVsWVI3eXI3V2VPcG1mSU1oc3AxQVYzbXUwRWVDeG9Qajc5NlVlaDU2SFE3UzFwTTF1eGRBSmVxWTkwTVctYnltZ0ExQTIzb2FNUi14UGxGcTZOc3NDTEVrZVBTZEZZQ0p3ZzUyRENKb0EzOTRnT2tVb3pUQmF6blNDRjJQSEk5Qlh5N1hUODlEd1JpRDJGQzFUcUpVSVhQOA?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T15:52:13.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "75a8e36245ff",
+   "kind": "headline",
+   "title": "ההוצאה הציבורית לתלמיד בישראל נמוכה לעומת ה-OECD, במיוחד בלידה עד 5",
+   "source": "אתר החדשות דבר",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZY05OSTlXS2dwUm5BbGd6R3VvZlRBNG52dHktTzhTX2ZEWmQ5ZzdlTHZSNXMyMkxEWm1QeTU4dE1RRzdBRzgw?oc=5",
+   "topic": "research",
+   "published": "2026-10-08T15:50:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7d7f46faef53",
+   "kind": "headline",
+   "title": "וול סטריט נסוגה: ירידות רוחביות במדדים; מחירי הנפט חוצים את רף ה-105 דולר",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-08T15:42:00.000Z",
+   "summary": "המסחר בניו יורק מתנהל בטריטוריה האדומה • 9 מתוך 11 הסקטורים ב-S&P 500 רושמים ירידות, בהובלת סקטור הבריאות • זינוק של למעלה מ-5% בנפט מסוג ברנט • תביעות האבטלה הראשוניות ירדו מתחת לתחזיות והפד מאותת על עוד העלאות ריבית באופק • אירופה ננעלה בירידות רוחביות • רוזנבלט החל לסקר את ספקית ענן ה-AI נביוס…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1663249791/direct/roberto-junior-4fsCBcZt9H8-unsplash_vztsq3.jpg",
+   "score": 6,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "32e0ad7207bb",
@@ -871,7 +941,8 @@
    "alsoIn": [
     "The Edwardsville Intelligencer",
     "WSLS",
-    "Stamford Advocate"
+    "Stamford Advocate",
+    "Bozeman Daily Chronicle"
    ],
    "important": false
   },
@@ -2133,6 +2204,20 @@
    "important": false
   },
   {
+   "id": "fd1c57d48a3a",
+   "kind": "headline",
+   "title": "Constitution Bill passes second reading with required 35 votes",
+   "source": "Fijivillage",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjRUQ0htOV91MXdvekpHOUVmQUpxNVlUWkdqVjJJY2ZPWE43MXJhOG1Qb2lPS3JnN0V6b21SdDYzREpTWG1yUzBoR3Fib2hfMVo4U2VQanJ3LWF6WTJhY3RKLUt3QzBuMms2enVub0d1Nm9fc3V1V2JsTFdWc0tjdThJV1FGbXliRms0U0ZtMzZ0ZlcyYjhYMk0zZUt2TTA0U01lazZ3?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T05:47:22.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "a3986e30dd46",
    "kind": "headline",
    "title": "ילין לפידות משיקה שלוש קרנות מחקות חדשות על מדדי המניות המובילים בתל אביב – בדמי ניהול 0%",
@@ -2254,6 +2339,20 @@
    "published": "2026-10-08T04:53:00.000Z",
    "summary": "הוויכוחים התקציביים בין משרד האוצר למשרד הביטחון יצרו מצב שבו האמריקאים נותנים את סלוט הייצור ללקוח אחר, ויתרה מכך סוגרים את קו ייצור האפאצ'י • סוגיית האפאצ'י עלתה במסקנות ועדת נגל ל-7 באוקטובר, כי במידה והם היו בזמינות גבוהה &ndash; ניתן היה להגיע לגבול עזה ולהגיב הרבה יותר מהר",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791434721/shutterstock_2396101569_zuzw1v.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8c45490f4c07",
+   "kind": "headline",
+   "title": "National Referendum Bill passed unanimously with rules for referendum process",
+   "source": "Fijivillage",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQXJ6X3FrU1V1QTR3LTF4cmR0UjlBMFV2NjV1LUFBSUI0dk9xbEpaXzlfOWNIX0xHazYyXzI2QnhLa0xZbGpRMDZaWlBzNEZPaXA2NUg3TERnRHBwcmdfamFlcHczeXlZd3FEbEh0b0MtQUZMc2FZbEk3a3lJdzBNTHFQOXNUTER5NnVlSWdHYlE3NmxwcXlVQ3JKb1NpX0RzdFlMZEk2R1ZXd3dOeTBBV1VaM3A3aE9hZnc?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T04:28:23.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5550,104 +5649,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7a4de45cb346",
-   "kind": "headline",
-   "title": "Karasu: Democratization is for everyone",
-   "source": "ANF English",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGlFa3AtREtQVmkwOXVhd0pUbWJuSDlKY1RJRTh6Z2tmQ21yLU1pS1VKZHBJeDBoaDE0NW8xaUpXY3I5WVBOWUJualFfZ0VWSHYtOEdwNHM2WHRPZnRlSDRvLTN0NFhZYmhZOFEtLWc4WURrOVdfeFliYk9kOEs0S3dZaWlFV2RGaU5V?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T05:54:43.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "57b7b3e23843",
-   "kind": "headline",
-   "title": "Danish government prioritizes higher early retirement benefit and Greenland defense agreement",
-   "source": "The Copenhagen Post",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM0E5YTlmektEWU1GV1ozdHdaQjNQakpheHVlM0Nma1VuR250MHJCRUpVN0hMUWVuSWdIQ3VraFRjZGZCWW9IN1NKdkNDMV9hMnBtb1BSMmhlbHk1Rnd5RFJwVDhEVzhxZURLSUR2ZTlDQjA2Q0NGMkJHaHBHcXZKWm9mWDlwNEVQaE8xcWQ3YnJ1UUlsSzRYdUFXZmJ3QnBaeFEteWJONnJMeWZabTRTZkNuNktYOFp2ei14UXhZOGlReElvbGdhaEU4MG1peGp2OXI0Qw?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T05:52:34.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6f4c0de385cb",
-   "kind": "headline",
-   "title": "Pending reforms to non-compete clauses: what employers should be doing now",
-   "source": "Human Resources Director",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS09yc1pDLUxaMmcxUFJfMjI2ZktZSWlWLUdrWk02SkcyUlljVU4xaFFSTy1LU2hremZrMjBTMk9XRXhzeG5tU0ZrQTIyM3NnZDlQcldvcGFCODhXdUh3eEpMQjYyYmRnY241RXR5UXU4SWFKRnlvQ2J2RXl4RWVGZ3JtTEFEYnFmcU9jeFg4MExDUnlpZ0VmOUh4cVZiMlFBOWVCczlKSENHM0EtWFZkd2c2amJ4UnpneGxpZW5MUFh1emwzZXlnVG9fX2xoQy1ZSUE?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T05:51:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "751b42880bd2",
-   "kind": "headline",
-   "title": "המלחמה נגמרת, החשבון רק מתחיל (והוא כבד)",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/hkysti7sze",
-   "topic": "econ",
-   "published": "2026-10-07T05:41:54.000Z",
-   "summary": "לפחות 405 מיליארד שקל כבר עלתה המלחמה, אבל הוצאות הביטחון העצומות, הריבית, השיקום והפיצויים ימשיכו להכביד על ישראל עוד שנים ארוכות. אנחנו, וגם ילדינו, נרגיש את זה – במיסים גבוהים יותר ובשירותים ציבוריים מצומצמים יותר",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/03/H1WqagdHqxl/H1WqagdHqxl_0_110_3000_1689_0_medium.jpg",
-   "score": 4,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "ab79793d4a34",
-   "kind": "headline",
-   "title": "חמישה דברים שכדאי לדעת לקראת פתיחת המסחר בבורסה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-07T05:40:00.000Z",
-   "summary": "יום המסחר צפוי להיפתח במגמה מעורבת, המניות הדואליות יכבידו על המדדים • מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים, על רקע דיווח שאיראן מגבירה את התקיפות במצר הורמוז • וול סטריט שוב טיפסה לשיאים חדשים בהובלת מניות הטכנולוגיה, אך אנליסטים ממשיכים להצביע על נזק מתחת לפני השטח • וגם: בבנק סיטי מעריכים…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg3_x3c4yv.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "a9e8429a1331",
-   "kind": "headline",
-   "title": "המניות שיעיבו על הבורסה: חמישה דברים לקראת יום המסחר",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558599#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-07T05:40:00.000Z",
-   "summary": "יום המסחר צפוי להיפתח במגמה מעורבת, המניות הדואליות יכבידו על המדדים • מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים, על רקע דיווח שאיראן מגבירה את התקיפות במצר הורמוז • וול סטריט שוב טיפסה לשיאים חדשים בהובלת מניות הטכנולוגיה, אך אנליסטים ממשיכים להצביע על נזק מתחת לפני השטח • וגם: בבנק סיטי מעריכים…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg3_x3c4yv.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f054e6df16e8",
-   "kind": "headline",
-   "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T05:25:10.000Z",
-   "summary": "Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own investigation into the flydubai co-pilot who allegedly tried to hijack an Israel-bound plane, after…",
-   "image": "https://i.guim.co.uk/img/media/3896ca0479fed88b7e5394212443180d14b75745/406_0_4058_3249/master/4058.jpg?width=140&quality=85&auto=format&fit=max&s=24786e441b88b90a8eaea56a24fda646",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
