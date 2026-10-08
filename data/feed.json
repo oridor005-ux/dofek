@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-08T02:46:46.213Z",
+ "updated": "2026-10-08T02:59:13.709Z",
  "items": [
+  {
+   "id": "b992972c0020",
+   "kind": "headline",
+   "title": "המעסיק ששילם כמיליון שקל לעובד של חודשיים והמסר החד משמעי של בית הדין",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558750#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-08T02:53:00.000Z",
+   "summary": "חברה שלא הפקידה לפנסיה במשך 52 ימי עבודה חויבה לשלם לעובד לשעבר 890 אלף שקל • בית הדין קבע כי הזכאות להפקדות מתחילה ביום העבודה הראשון, גם אם העובד עוזב לפני שחלפו 90 יום • מומחים מזהירים: גם העסקה קצרה עלולה להוביל לחשיפה כספית כבדה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783425418/direct/shutterstock_2217269361_wf5opg.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4433bbec07cf",
+   "kind": "headline",
+   "title": "סקר חדש מגלה: כמה מועמדים דחו הצעה כי לא עובדים מהבית",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558782#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-08T02:51:00.000Z",
+   "summary": "סקר חדש של חברת ההד האנטינג EER Global, בו השתתפו 300 מנהלי משאבי אנוש, מראה כי 30% מהחברות דורשות שלושה ימי עבודה מהמשרד • במקביל נמצא כי העבודה מהבית כבר אינה נתפסת כבונוס, וכחמישית מהמועמדים דחו הצעה בגלל הדרישה לעבוד מהמשרד",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1689255622/direct/shutterstock_615508904_djftwa.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bc7bf66528ea",
+   "kind": "headline",
+   "title": "המשקיעה שעזרה להורים לצאת מהמינוס, ומצטערת שלא נכנסה לשוק ההון בגיל 18",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558776#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T02:50:00.000Z",
+   "summary": "נינה יזושין התחילה ללמוד על שוק ההון בגיל 21, עם הפקדת מענק השחרור לקופת גמל להשקעה • מאז השתכללה, ומעבר לחיסכון חשוב לה \"לתת לכסף לעבוד בשבילה\" באמצעות מדד וקרן כספית • ואל תשאלו אותה על רווח בתיק, היא רק \"מפקידה ושוכחת\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791365727/_%D7%94%D7%9E%D7%A9%D7%A7%D7%99%D7%A2%D7%99%D7%9D_%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D_800_x_392_px_1_ouedm8.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ecb64ef468b9",
+   "kind": "headline",
+   "title": "המניה הביטחונית שנפלה 58% מאז הגיעה לת\"א, ומה הסיכוי שתהפוך ליוניקורן",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558766#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-08T02:47:00.000Z",
+   "summary": "בניגוד לקבלת הפנים החמה לה זכתה מניית פאלו אלטו, זו של אודיסייט איבדה מעל מחצית משווייה מאז הצטרפה לת\"א במסגרת הרישום הכפול • המשקיע מורי ארקין והמנכ\"ל יהוא עופר, משוכנעים שהיא תהפוך לחברה של מיליארדים: \"המניה תתאים את עצמה ותעוף בשווי\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1762417362/direct/Arkin_Holdings24188_w2t67p.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "49e61f0fd168",
    "kind": "headline",
@@ -53,6 +109,20 @@
    "published": "2026-10-08T02:00:00.000Z",
    "summary": "Pedro Sánchez bets his left-wing coalition can avoid a bruising defeat in next month’s election amid rage over the eviction of an elderly woman who died Wednesday.",
    "image": "https://images.wsj.net/im-95799755",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b153aa7ee4af",
+   "kind": "headline",
+   "title": "Parliamentary Committee Submits Report on Constitutional Body Officials' Benefits Bill",
+   "source": "Ratopati",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMGV1VFVjanRlUENRT3Q0R2ZmVUJYb09DemRrdTZlZUZBMjgzaVp2Q3ZjZl85UEJKMzZqaktBSkNQLVhDdDhWSG0teXlRUGVIdE5MQ0llUVpYWVhaa180cEZRTHNjTV9PN3QxNWtHc3hUNUVydEZhcW55eWhJQkdET2pXc3g3S2FmX1FIR3JUSkNsZVduMGRVR3AtWkg2c1RxRmRMTW5tTkJmYVZLc2M2bXJycEhGZFVWYU1RRUtFWDZJQURGYU5kRFRmeXNHcnZFZkQyemZSTTI0UFVlaUJRWEdPZw?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T01:49:49.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5581,80 +5651,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "5d262f23c439",
-   "kind": "headline",
-   "title": "Lithuania says it would pay the cost if US establishes military base",
-   "source": "Defense News",
-   "url": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
-   "topic": "world",
-   "published": "2026-10-06T09:41:07.000Z",
-   "summary": "Lithuania is ready to pay the cost to set up a permanent U.S. military base if Washington should agree to establish one there, the prime minister said.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XWABP2Y3RJFFFJM54PVYNJ6I7M.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "171b48c9ca0e",
-   "kind": "headline",
-   "title": "לקוחות משכו כסף מהפיקדון - והריבית עליו ירדה: בנק הפועלים ישלם כמעט 7 מיליון שקל",
-   "source": "calcalist.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtb001M045blAyQjFlWVpuYW15ZVRvOU1Od3hUbmNiT3BiSm95cXlVUjB1c0NYcTZqbWFUcjg5dXFXUTkwRTZ5Q0FiZFJEbXpiLThmWHhyR1ZBQnd6QnBjcEtGUQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T09:38:00.000Z",
-   "summary": "במסגרת הסדר פשרה בתביעה ייצוגית, הבנק יפצה לקוחות שביצעו משיכה חלקית מפיקדונות בריבית משתנה ולאחריה הפחית הבנק את הריבית על יתרת הכסף. הבנק התחייב גם לשנות את אופן הצגת תנאי הריבית, כך שהלקוחות יידרשו לאשר במפורש את השינוי בעת משיכה חלקית",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/15/H100PdZ4Ixg/H100PdZ4Ixg_0_92_1600_901_0_medium.jpg",
-   "score": 2,
-   "alsoIn": [
-    "ynet כלכלה",
-    "calcalist",
-    "Calcalist"
-   ],
-   "important": true
-  },
-  {
-   "id": "4500bcf7fcd2",
-   "kind": "headline",
-   "title": "לקוחות אסוס: קיבלנו הודעה שהאתר נפרץ",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/ryduxbfjfg",
-   "topic": "econ",
-   "published": "2026-10-06T09:37:42.000Z",
-   "summary": "משתמשים מדווחים על הודעת פוש שנשלחה מאפליקציית אתר האופנה אסוס, לכאורה ממתקפים שפרצו לפלטפורמת הענן של החברה ומאיימים להדליף מידע משם",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/HJ67R4fozx/HJ67R4fozx_43_34_643_362_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3ece4233fbaf",
-   "kind": "headline",
-   "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-henning-arrested-espionage.html",
-   "topic": "world",
-   "published": "2026-10-06T09:35:39.000Z",
-   "summary": "August Henning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06germany-spy-jgmw/06germany-spy-jgmw-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "09f5958293a1",
-   "kind": "headline",
-   "title": "חשד: הלקוח עשה אקזיט של 60 מיליון שקל - רואה החשבון לא דיווח",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558536#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-06T09:34:00.000Z",
-   "summary": "על פי החשד, רואה החשבון ייצג לקוח שהיה בעל מניות מהותי בחברה המתמחה בטכנולוגיות חדשניות, אך לא כלל בדוח האישי שלו את ההכנסה ממכירת מניותיו לחברה אמריקאית • בעקבות אי-הדיווח לא שולם מס יסף בהיקף של כ-1.8 מיליון שקל",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1652173551/COT_Pic/64_mlbroc.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
