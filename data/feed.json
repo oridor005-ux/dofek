@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:05:16.987Z",
+ "updated": "2026-10-08T11:05:37.562Z",
  "items": [
   {
    "id": "76dd8c732a26",
@@ -44,6 +44,20 @@
    "important": false
   },
   {
+   "id": "21198f32b1ba",
+   "kind": "headline",
+   "title": "הגירעון נותר על 3.2% - ורגע האמת של הכלכלה הישראלית הולך ומתקרב",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11dkMtblIyWUVSeDdnVXZnTlIxZ2lpcmR6Z09VLW1qdE9CX256Tm1zT1ozWHVsZ01BM2gyYkU1UHRIUi1GYlJZcVBJbHIzM083MkxmWTB6SnlHT1lVbzFKTE9EUFJsdw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T10:40:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "85bbd672f83e",
    "kind": "headline",
    "title": "הגירעון בספטמבר נמוך מהיעד, אבל באוצר לא ממהרים לחגוג",
@@ -70,6 +84,20 @@
    "score": 5,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "010bbb591adf",
+   "kind": "headline",
+   "title": "שלוש הורדות ריבית ברצף: כמה כסף זה חוסך לכם במשכנתא?",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56NmRWb2FCeFg3NzlsN0NIWmN0N2xYd1ZwQ0otNDhKNHAzeW5hUzJJN2dYTVJReUo3c2hXMnpjR2x5TDJVS2RhTEkxWHZTRDNUaDRKUGJQYmh2ZDA5NE1laWpuMm1WdF94dHRYSXlR?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T10:31:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "f81969d0c9d3",
@@ -114,6 +142,20 @@
    "important": false
   },
   {
+   "id": "968a986525fb",
+   "kind": "headline",
+   "title": "בשורה לישראל? הסקרים בספרד חוזים ניצחון ימני",
+   "source": "סרוגים",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQbGt3UXBuWElUaWUzYURhM2dMcWUtZVNOV1FSRkZvbUxmT21PdWZaOXNBaEdEeXV0VUdJem9DNmVFWUU4eFRCRGtCZGdScENRSUJkWGlMMmdISThWYTdFS3FlNy11WnRHYmZobWFPZ2FNdjZuYTBOam5Kbm5iMGRmamdreUVXeGFJSzQzLTJabmtaZUFQcXJvamtrMXA3bUYzSC03WnBZa0g1VEVKdVV0bUdudmJnNUpKczdKcEJSXy1INHNKUkh3aG9YYVFPV29wbnZBLXFvX3B6QS1YZ05qR2cxbzBKQngzcWRnLVFDMUFza1RYMW5yVWdwNm1vZlZRRGNNMm9uZDBkbEZiZkJGYWlPUmM2dEQxaWZjN0hIR2s2aUVHdGs1Skd1Y2VHZ1kzb0ZIUzB6YXNRNWg0NHpaUXZhSlhqU0k5aFVERklxWklKR0RtNFZ0aA?oc=5",
+   "topic": "research",
+   "published": "2026-10-08T10:01:17.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "f8a252c1986f",
    "kind": "headline",
    "title": "אוקטובר 2026: הלמ\"ס מפרסם כמה ישראל הוציאה על חינוך ב-2023",
@@ -149,6 +191,20 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3kyRF9FOF9aanplY3NteTd6YnFfR2puOUZhZl9iUTN4TkFRY25WNUZZRUFnQk41U3FrVDJwLWhsZjR0NmJoa2haN2dIVmFVTTFEdEdOVW0xR1BoT3YzYUFVU0tKMjBSV1R5ZHdSYlM3Wk96NkppWktrNEJFNjdZMHZsT1pncDc4QjEtRmtUODZKUWRFOWlSa2ZMaEhTRFFBSDM0?oc=5",
    "topic": "world",
    "published": "2026-10-08T09:55:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3549fcbea343",
+   "kind": "headline",
+   "title": "Canadian VPN threatens exit over surveillance law",
+   "source": "Cybernews",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3dBWlJ6R0thTHJjc1hVSHdLYTlaaTNlUjdELXNGT3gyZWw1bXQwNXVENzdqMmI1YkNkTjUxY2h1Z09CSGUtV0l2QXc4dVM5dmRmcEQzZlBydjBFal9VYkNpdV9wNTlOWnVxc19GdE93eUJJZnlpN19vX3hrLWsxMlVYU2lUaDhNMzZiX3NB?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T09:46:35.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -268,6 +324,34 @@
    "important": false
   },
   {
+   "id": "095a07338950",
+   "kind": "headline",
+   "title": "הדולר ב-3.07 שקלים; הפד ממשיך לחשוש מהאינפלציה",
+   "source": "calcalist",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sVDBzeGNmNzV3RWZlWHhwOWZBWkFFeW4yV2VoaWJhajJIVEJMdElZck9wMVFFYkVJVENVUEJjamxqaFYtZ3FUT29XRF8zNDRJeE9ySlZ0QUVzWGh0TmMxTmdWZw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T09:04:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8b6cded952a0",
+   "kind": "headline",
+   "title": "GRS' 15-seat target opens door for talks, says Mustapha",
+   "source": "NST Online",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXVWMy1XbHkxbVM3OUxJTmRVN0dUb2NGWFdTV1BMYTNLaUFzd2dKaWNiamZjNzJXbTl6aFpocUczc1FMTGgzenVXUmo0NHhaUmI4MXVwT0phTEhtckY1X3ZJTWtCQXFoQU93OGx3WXBOb201Yjd0MkpzOWc3NEtrY3g2YkxONEdPTXZhaE94dk8yRjllNVctR01TcmVzc3lkZzBzY3Jqc9IBpwFBVV95cUxNeXVWMy1XbHkxbVM3OUxJTmRVN0dUb2NGWFdTV1BMYTNLaUFzd2dKaWNiamZjNzJXbTl6aFpocUczc1FMTGgzenVXUmo0NHhaUmI4MXVwT0phTEhtckY1X3ZJTWtCQXFoQU93OGx3WXBOb201Yjd0MkpzOWc3NEtrY3g2YkxONEdPTXZhaE94dk8yRjllNVctR01TcmVzc3lkZzBzY3Jqcw?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T09:03:27.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "d79c10f81588",
    "kind": "headline",
    "title": "מגמה מעורבת בתל אביב; נקסט ויז'ן מטפסת בכ-4%",
@@ -322,6 +406,20 @@
    "score": 1,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "d9054174e873",
+   "kind": "headline",
+   "title": "מאמר דעה: למרות 5 הורדות הריבית האינפלציה לא הרימה ראש - נהפוך הוא",
+   "source": "פאנדר",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zSmVYQVl5aWxmWUxaYXJTX3U4cTFVYmNwV3g3VzhBUXpiQkVCS0dOQ0hsbzlvWkJDODR2SE5SVEVYVWJ6ZkMxU2g5NF9CcGpF?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T08:28:05.000Z",
+   "summary": "",
+   "image": "",
+   "score": 4,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "df9cb07332fb",
@@ -490,7 +588,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "כאן 11"
+   ],
    "important": false
   },
   {
@@ -944,6 +1044,20 @@
    "important": false
   },
   {
+   "id": "7be6cf0045c4",
+   "kind": "headline",
+   "title": "הישראלי שהבטיח להערים על ההאקרים וגרף 19 מיליון דולר במרמה",
+   "source": "בחדרי חרדים",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wUXdsYTF1Vjl5VUhjT1NVemxlVnNmUXMzMHJyVEw3a0s4c21oN0ZackpRMVI4VVlfSnJfQ1U4aUlsMEpkVzlWdkZtNA?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T04:57:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "12212a18ddee",
    "kind": "headline",
    "title": "נפלה העסקה לרכישת 12 מסוקי אפאצ'י מארה\"ב",
@@ -992,6 +1106,20 @@
    "source": "ביזפורטל",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pc0U2NGJyZkxQeFpxLWJnR1MyQ0NqM25YamVySEo1Yk9vOGV5TjVwZ2tsNWU4QmhTaTlHVWhnWmtsM3pMTkxIQVR3TFpSVlYwZ3ZWQ2hEOF91WUtYX2JiZVp0TkFOZzhxNnR4VUdSU0E?oc=5",
    "topic": "research",
+   "published": "2026-10-08T04:13:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "801e170fbd28",
+   "kind": "headline",
+   "title": "הירידות בתל אביב מעמיקות: ת\"א 35 מאבד 1%; הבנקים והנדל\"ן מכבידים",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pc0U2NGJyZkxQeFpxLWJnR1MyQ0NqM25YamVySEo1Yk9vOGV5TjVwZ2tsNWU4QmhTaTlHVWhnWmtsM3pMTkxIQVR3TFpSVlYwZ3ZWQ2hEOF91WUtYX2JiZVp0TkFOZzhxNnR4VUdSU0E?oc=5",
+   "topic": "econ",
    "published": "2026-10-08T04:13:00.000Z",
    "summary": "",
    "image": "",
@@ -5511,132 +5639,6 @@
    "summary": "הרשת תפעל תחת השם \"FRANKCO\" והסניף הראשון ייפתח בהיכל מנורה. רוט: \"מצד אחד יש לי את הפיין דיינינג הכי גבוה בישראל, ומצד שני דוכן נקניקיות, וזה בסדר, כי המטרה שלי לגעת בכמה שיותר קהל\"",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/BJVkKiGozx/BJVkKiGozx_0_0_850_479_0_medium.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9a21f2cea1f1",
-   "kind": "headline",
-   "title": "Federal ministers promise to work with new Quebec government, Alberta separatists praise PQ win",
-   "source": "Montreal Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFhiQXRXdGYtLVNqY0Nnc0x0UkUxc1RuYUZrWGo5em9xNWZ0QUpNNjJJcjFDTE9DWDRYMDVQZjhXTVlHZDdmME1qazd1OFZDMFNhVEg0VU95X3E0d1F3dllvejg0cWZiaG1zaXB6U2hMYjdOVGRta3JGMjhDdUVpX2NvMVJfY0licGpadkdWMGkyWG9vUEpQM1hrZkRZZw?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T16:57:20.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "91856377764c",
-   "kind": "headline",
-   "title": "U.S. Looks to Iceland as It Expands Military Footprint in Arctic",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/u-s-looks-to-iceland-as-it-expands-military-footprint-in-arctic-aa6420e6?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-06T16:51:00.000Z",
-   "summary": "Secretary of State Marco Rubio’s visit seeks to deepen cooperation with a country rattled by President Trump’s threats against neighboring Greenland.",
-   "image": "https://images.wsj.net/im-12492913",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ee769375dfd0",
-   "kind": "headline",
-   "title": "יום אדום בבורסה: הביטחוניות והפיננסים משכו את תל אביב למטה",
-   "source": "חדשות 04",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xek04WGkyQzdfT0hwM3R0X0l3alVPcGI5TnBqUTExZFZ0MnZXUGkxWFY1RGNqVUJFdURrazJ1VEpINEt6bkVtenBB?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T16:49:05.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "71e57633f6b4",
-   "kind": "headline",
-   "title": "CIA’s Red Cell warns Israel sits one spark away from collapse",
-   "source": "Tehran Times",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanpUMmNQZ2tOanluQzBpU2dLcW40U3h1OHpTUlp4TGdhS29nRC1UaEx2NlZCeU84YnNjbGZ1RzVlMWJBcFh1TmxHZ1BFLXhsSVo3V0pUSlI3TmVpXzZTNnZvcmhHTXJjUXdnLU5qWkZzbEUzQ1lTaWU2TldoTjRLcFh0QW1PUXpFSGRCMzdnT0lWenNLSUdITENCN21rMzNQZWJF?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T16:44:47.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "08b6f3d062b9",
-   "kind": "headline",
-   "title": "Packages from abroad may become more expensive due to the new VAT",
-   "source": "UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdldHd3UxLWkyYllxUC10eDk4eEp1akY0RVhsd2lhQXRhQ1FoYUhTejNqdUV5U2o4V3FmVFJtUmh4NndpN1VZSVZzWEthR1htaEg3TzV6clBLNXF0UGd0bnlvYWR1N0xycDNHcDYwbTRsU3l4U1hndFJsTVZDSjJFejkyQVVVZDFPUkszNnN3?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T16:44:11.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "1110731a81dc",
-   "kind": "headline",
-   "title": "India Voter-List Purge Draws Growing Backlash",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/india/india-voter-list-purge-draws-growing-backlash-e54ec306?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-06T16:44:00.000Z",
-   "summary": "About 130 million people have been deleted from final or preliminary voter rolls in a process that some government critics have described as opaque.",
-   "image": "https://images.wsj.net/im-48241123",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6da982595de6",
-   "kind": "headline",
-   "title": "Ministers Comment on Quebec Election Results",
-   "source": "CPAC",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3pVZDVkLUNQTWQ5MDhXOXUxVDdvbmI2SjRJOU9tZ1VvcGNDWnI2YmpUemN6T2YzSWItVkZJRTVRYVItajdwaHA3SW41QnU3aXZqUWk2dDdlaS1hUzFRRVNaWEk3VU16Y09DaFBxVXNsTEV4RDllM2tPTnhrS2JtQzc5S2pLVFl6VW9qMUZWSGpES3hTU2tvQmNPakxxYXZva3NhUXNkTTVuUmFQM1ZnelpBbkItelR3VldB?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T16:23:54.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6864452713f1",
-   "kind": "headline",
-   "title": "הבטיח דירה לאשתו בפרידה. העיכוב ברכישה יעלה לו כמיליון שקל",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558659#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T16:22:00.000Z",
-   "summary": "בית המשפט המחוזי קבע כי על הבעל לרכוש לאישה דירה חדשה, וכי אינו יכול להעביר לה דירה שברשותו בשרון • שווי הדירה שעליו לקנות נקבע על 4.2 מיליון שקל, בתוספת ריבית מאז הפרידה • בית המשפט דחה את דרישת האישה לדירה דווקא בתל אביב, ואת טענת הבעל להרעה כלכלית המצדיקה הפחתת מזונות",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1623049895/direct/shutterstock_521783218_ly15jx.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b37e850b6c0c",
-   "kind": "headline",
-   "title": "Americans View Of Israel Hits Record Low as ‘NAZA’ Film Hits Theaters",
-   "source": "Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlc5Z2pQbHhwcVM2SUYzQV94cDhxbEk0R1VzZzdmeTExdWpsU1N4bkVGbkFBbnlScEVvZ0U1QXp1V29zWXAxZ0Etc1RkR05OSE9DMnE2UjlYdjRURXF3QW1KZW8yTUVsNXJ4YWt5M2FOT2h2QUVVa1FGSUxHM2p6eHRzdGM1YXUtbEJSUWY5Wk52QkR3MWxGaldrVVB3MEhvMldB?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T16:22:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
