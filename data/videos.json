@@ -4069,10 +4069,21 @@
    "found": "2026-10-08T05:59:28Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694170932184763656.txt"
+  },
+  {
+   "id": "7694172713467890964",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694172713467890964",
+   "caption": "ראש עיריית ניו יורק זוהראן ממדאני הגיע הלילה (בין רביעי לחמישי) לטקס ...",
+   "posted": "1791439193",
+   "found": "2026-10-08T06:14:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694172713467890964.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T05:59:56Z",
+  "at": "2026-10-08T06:14:21Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
