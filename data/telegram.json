@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65602,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:03.308Z"
+   "checkedAt": "2026-10-08T06:44:33.802Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:03.983Z"
+   "checkedAt": "2026-10-08T06:44:34.514Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:04.611Z"
+   "checkedAt": "2026-10-08T06:44:35.214Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11444,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:05.238Z"
+   "checkedAt": "2026-10-08T06:44:35.948Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19311,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:05.881Z"
+   "checkedAt": "2026-10-08T06:44:36.650Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:06.512Z"
+   "checkedAt": "2026-10-08T06:44:37.367Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:07.142Z"
+   "checkedAt": "2026-10-08T06:44:38.099Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131548,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:07.854Z"
+   "checkedAt": "2026-10-08T06:44:38.848Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74828,
+   "lastId": 74829,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:08.388Z"
+   "checkedAt": "2026-10-08T06:44:39.442Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:09.036Z"
+   "checkedAt": "2026-10-08T06:44:40.195Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T06:33:09.766Z"
+   "checkedAt": "2026-10-08T06:44:40.954Z"
   }
  },
  "posts": [
@@ -3434,13 +3434,22 @@
    "date": "2026-10-08T06:23:24+00:00",
    "text": "🔴 בריטניה: \"הקונסוליה לא נסגרת, אלא משנה את שמה. נמשיך להעניק שם שירות\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74829",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74829",
+   "date": "2026-10-08T06:38:23+00:00",
+   "text": "🔴 14 שנות מאסר לגינקולוג פרופ' מנחם אלקלעי, שאנס 9 מטופלות\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T06:33:10.166Z",
+  "at": "2026-10-08T06:44:41.355Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 180
+  "added": 1,
+  "pendingNew": 181
  }
 }
