@@ -54,7 +54,7 @@ if (WHO === 'update' && (state.ntfyTokenSet === false || state.ownerKeySet === f
   problems.secrets = 'חסר מפתח סודי ב-GitHub (NTFY_TOKEN או OWNER_KEY).';
 // 4. סבבי Claude (סיכומים ובדיקות)
 const lastClaude = [...insights.map(i => i.published), ...Object.values(summaries).map(s => s.updated)].filter(Boolean).sort().pop();
-if (daytime && mins(lastClaude) > 300)
+if (daytime && mins(lastClaude) > 840) // הסבבים רצים 3 פעמים ביום (09:45, 15:45, 21:45), כך שבבוקר עוברות עד ~13 שעות מהסבב הקודם
   problems.claude = `סבב הסיכומים והבדיקות של Claude לא הוסיף כלום כבר ${fmt(mins(lastClaude))}. אולי נגמרה מכסת השימוש, או שהמשימה המתוזמנת נכשלה.`;
 // 5. טיקטוק
 const vh = videos.health;
