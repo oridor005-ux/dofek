@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65597,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:07.726Z"
+   "checkedAt": "2026-10-08T05:57:38.377Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:08.416Z"
+   "checkedAt": "2026-10-08T05:57:39.063Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:09.048Z"
+   "checkedAt": "2026-10-08T05:57:39.678Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11444,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:09.828Z"
+   "checkedAt": "2026-10-08T05:57:40.320Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19310,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:10.580Z"
+   "checkedAt": "2026-10-08T05:57:41.015Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:11.231Z"
+   "checkedAt": "2026-10-08T05:57:41.662Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:11.841Z"
+   "checkedAt": "2026-10-08T05:57:42.365Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131544,
+   "lastId": 131546,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:12.498Z"
+   "checkedAt": "2026-10-08T05:57:43.031Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74826,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:13.063Z"
+   "checkedAt": "2026-10-08T05:57:43.598Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:13.722Z"
+   "checkedAt": "2026-10-08T05:57:44.313Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T05:46:14.411Z"
+   "checkedAt": "2026-10-08T05:57:45.020Z"
   }
  },
  "posts": [
@@ -3343,13 +3343,32 @@
    "text": "כך נראה יום השנה לציון טבח ה 7.10 במונטריאל קנדה - תהלוכה באישור רשמי עם אבטחה של המשטרה הקנדית.",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131545",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131545",
+   "date": "2026-10-08T05:51:01+00:00",
+   "text": "הרחבת בסיס הייצור של טילי \"טמיר\" - המיירטים של כיפת ברזל: בפעם הראשונה על אדמת ארה״ב, הושלם ייצור מלא של מיירט מערכת ״כיפת ברזל״ מתוצרת אמריקנית\nבטקס שנערך במפעל Raytheon-Rafael Protection Systems &rlm;R2S באיסט קמדן, ארקנסו, קיבלה מנהלת חומה במפא״ת שבמשרד הביטחון את מיירט ה״טמיר״ הראשון של מערכת ״כיפת ברזל״, שנבנה והורכב באופן מלא בארה״ב\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131546",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131546",
+   "date": "2026-10-08T05:56:01+00:00",
+   "text": "דוברות המשטרה:\nצפו בתיעוד: שיירת אופנועים בנסיעה פרועה ובריונית, כשחלק מהרוכבים נושאים דגלים ירוקים, עוררה בהלה וסיכנה את משתמשי הדרך - לוחמי יחידת יואב פעלו לעצירתה ועצרו רוכב שניסה להימלט.\n##\n הדגלים הירוקים הם דגלי מפלגת רע\"מ.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T05:46:14.811Z",
+  "at": "2026-10-08T05:57:45.421Z",
   "ok": 11,
   "fail": 0,
   "added": 2,
-  "pendingNew": 170
+  "pendingNew": 172
  }
 }
