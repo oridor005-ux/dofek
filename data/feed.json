@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:52:28.819Z",
+ "updated": "2026-10-08T15:00:24.659Z",
  "items": [
   {
    "id": "7845849f5318",
@@ -210,6 +210,20 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "0118de4c2ae6",
+   "kind": "headline",
+   "title": "הירידות בוול סטריט נחלשות; מניות הטכנולוגיה מובילות את הירידות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-08T13:35:00.000Z",
+   "summary": "המסחר מתנהל בירידות שערים • הנפט ממשיך במסע ההתייקרות ומטפס ברקע מתיחות במזרח התיכון • תביעות האבטלה הראשוניות ירדו מתחת לתחזיות והפד מאותת על עוד העלאות ריבית באופק • באירופה: ירידות רוחביות בעוד גרמניה מפתיעה עם הכפלת תחזית הצמיחה • נעילה שלילית באסיה, סמסונג דיווחה הבוקר על זינוק של כמעט פי תשעה…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1663249791/direct/roberto-junior-4fsCBcZt9H8-unsplash_vztsq3.jpg",
+   "score": 7,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "5a8f7addd9f5",
@@ -5636,20 +5650,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "50d49ecaacf1",
-   "kind": "headline",
-   "title": "Why has support for Israel eroded so much in America?",
-   "source": "Il Foglio",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnRxREtrZXlzMTFZV0lpVEp0SllpMnRuVUNYLUxBNlNJSWRkVnhMcV9PTXBfWHNVLXFGZFNBdDZSWVhUNkRPTGZNd3FQcXVqOXBLQWpoN25GR05jMU4zRnBEN2pucDJsOGdPZFV5SnZta1FfQ0x1QWtJZ2ZkTm5Eak1KUG44Rm5IdFAxVkQzUkRqNlpPbzA5YTk3T200TjFXeXlZTjYzajdmcTBDSFE?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T04:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
