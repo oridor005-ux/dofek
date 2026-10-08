@@ -3532,7 +3532,7 @@
    "caption": "שלוש שנים אחרי שאחותה מפל אדם נרצחה במסיבת הנובה, מעיין אדם משתפת בחש...",
    "posted": "1791378992",
    "found": "2026-10-07T13:19:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693914144738675989.txt"
   },
   {
@@ -3543,8 +3543,11 @@
    "caption": "3 שנים לשבעה באוקטובר - זוכרים את אופיר ליבשטיין 💔",
    "posted": "1791379029",
    "found": "2026-10-07T13:20:46Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693914316143267093.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693914316143267093.txt",
+   "insightIds": [
+    "ins-2026-10-08-lb50"
+   ]
   },
   {
    "id": "7693912008667778356",
@@ -3565,7 +3568,7 @@
    "caption": "ארין מולן, עיתונאית אוסטרלית שראתה את מנהרות חמאס וצפתה בתיעודי השבעה...",
    "posted": "1791379714",
    "found": "2026-10-07T13:35:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693917261114985736.txt"
   },
   {
@@ -3576,7 +3579,7 @@
    "caption": "ארגונים פרו-פלסטיניים באירופה ובארה\"ב החלו באירועים של מה שהם מכנים \"...",
    "posted": "1791379848",
    "found": "2026-10-07T13:35:47Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693917840809676052.txt"
   },
   {
@@ -3587,7 +3590,7 @@
    "caption": "הילדים שלא יכירו את אבא | הערב במהדורת כאן חדשות (יפעת עמיאל)",
    "posted": "1791379800",
    "found": "2026-10-07T13:36:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693873944885153044.txt"
   },
   {
@@ -3598,7 +3601,7 @@
    "caption": "אוהד יהלומי ז\"ל ובנו איתן נח@פו ב-7 באוקטובר מביתם בקיבוץ ניר עוז. אי...",
    "posted": "1791379699",
    "found": "2026-10-07T13:36:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693917202193370388.txt"
   },
   {
@@ -3609,7 +3612,7 @@
    "caption": "\"שלא ישכחו את אף אחד מהפרחים שנמצאים פה\" ↓ אורית בר-און, אמה של יובל ...",
    "posted": "1791380693",
    "found": "2026-10-07T13:51:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693921450918464789.txt"
   },
   {
@@ -3620,7 +3623,7 @@
    "caption": "נשיא ארגנטינה חאבייר מיליי עומד לצד ישראל בציון 3 שנים לטבח שבעה באוק...",
    "posted": "1791380287",
    "found": "2026-10-07T13:52:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693919724417109249.txt"
   },
   {
@@ -3631,7 +3634,7 @@
    "caption": "לא רק להרוג. מה מחבר בין 7.10 לניסיון הפיגוע בטיסת פליי דובאי? @roika...",
    "posted": "1791380850",
    "found": "2026-10-07T13:55:22Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693922137807047956.txt"
   },
   {
@@ -3642,7 +3645,7 @@
    "caption": "אמא של עמית בוסקילה ז\"ל הגיעה לבית החולים סורוקה לחפש את בתה: \"אני מת...",
    "posted": "1791381600",
    "found": "2026-10-07T14:06:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693879968186551572.txt"
   },
   {
@@ -3653,7 +3656,7 @@
    "caption": "\"בר היתה ילדה מאד מיוחדת, אף פעם לא שפטה, תמיד הגנה על שכבות חלשות\" ↓...",
    "posted": "1791382385",
    "found": "2026-10-07T14:21:17Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693928728526736661.txt"
   },
   {
@@ -3674,7 +3677,7 @@
    "caption": "מלי וליאל יהלומי נחתו היום בישראל, לאחר שעזבו את הארץ בחודש אוגוסט וא...",
    "posted": "1791384536",
    "found": "2026-10-07T14:51:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693937970155474197.txt"
   },
   {
@@ -3685,7 +3688,7 @@
    "caption": "לא ניתן להם לשכתב את ההיסטוריה!",
    "posted": "1791383916",
    "found": "2026-10-07T14:52:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693935309192432916.txt"
   },
   {
@@ -3707,7 +3710,7 @@
    "caption": "\"אנחנו צריכים לקדם את סוגיית הגירוש וההתיישבות\" ↓ סא\"ל (במיל') איתמר ...",
    "posted": "1791385080",
    "found": "2026-10-07T15:23:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693940310342110484.txt"
   },
   {
@@ -3718,7 +3721,7 @@
    "caption": "מה הדבר הראשון שבחר ינון מגל לעשות כשפתח את תוכנית הפטריוטים ב-7 באוק...",
    "posted": "1791385606",
    "found": "2026-10-07T15:23:57Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693942554823347474.txt"
   },
   {
