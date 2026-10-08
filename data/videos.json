@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692708849043803413",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7692708849043803413",
-   "caption": "אנשים בישראל עדיין לא יודעים מה ההבדל בין שמאל לימין 🤯",
-   "posted": "1791098362",
-   "found": "2026-10-04T07:36:34Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692708849043803413.txt"
-  },
-  {
    "id": "7692715871159979271",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4475,12 +4464,23 @@
    "posted": "1791477099",
    "found": "2026-10-08T16:38:06Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694340635377044757",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694340635377044757",
+   "caption": "איומים על קבר בנו שנפל בעזה: החשיפה המטלטלת של איזנקוט בריאיון ל״ידיע...",
+   "posted": "1791478290",
+   "found": "2026-10-08T17:07:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694340635377044757.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T16:51:56Z",
+  "at": "2026-10-08T17:07:45Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
