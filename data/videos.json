@@ -4333,12 +4333,55 @@
    "found": "2026-10-08T09:16:31Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694220088232185108.txt"
+  },
+  {
+   "id": "7694224548903783700",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694224548903783700",
+   "caption": "הסתה מכוערת מחוץ לטקס הלאומי של משפחות השבעה באוקטובר: זיו ברנס, שעל ...",
+   "posted": "1791451257",
+   "found": "2026-10-08T09:30:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694224548903783700.txt"
+  },
+  {
+   "id": "7694225761615596808",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694225761615596808",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791451545",
+   "found": "2026-10-08T09:31:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694225761615596808.txt"
+  },
+  {
+   "id": "7694224569137106184",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694224569137106184",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791451267",
+   "found": "2026-10-08T09:31:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694224569137106184.txt"
+  },
+  {
+   "id": "7694226181603740936",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694226181603740936",
+   "caption": "לאחר שישראל הודיעה על ביטול מעמד הקונסוליה הבריטית בירושלים, בלונדון ...",
+   "posted": "1791451642",
+   "found": "2026-10-08T09:31:53Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-08T09:16:37Z",
+  "at": "2026-10-08T09:32:06Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 4
  }
 }
