@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "id": "7692756414296640776",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692756414296640776",
-   "caption": "בעקבות האירוע ב\"פליי דובאי\": החקירה חושפת את האזהרות שהיו שם עוד לפני...",
-   "posted": "1791111600",
-   "found": "2026-10-04T11:07:30Z",
-   "status": "failed"
-  },
-  {
    "id": "7692775706358467858",
    "channel": "ask__dani",
    "name": "ask__dani",
@@ -4470,12 +4460,22 @@
    "found": "2026-10-08T19:30:23Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694379504097168661.txt"
+  },
+  {
+   "id": "7694399891791039764",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694399891791039764",
+   "caption": "מפגינים חרדים חסמו כבישים ברחבי הארץ היום אחרי הצהריים מחאה על מעצר ע...",
+   "posted": "1791492091",
+   "found": "2026-10-08T20:43:22Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-08T20:28:16Z",
+  "at": "2026-10-08T20:43:35Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
