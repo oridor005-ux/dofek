@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65615,
+   "lastId": 65616,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:04.560Z"
+   "checkedAt": "2026-10-08T09:42:42.383Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:05.380Z"
+   "checkedAt": "2026-10-08T09:42:43.110Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:06.053Z"
+   "checkedAt": "2026-10-08T09:42:43.820Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:06.775Z"
+   "checkedAt": "2026-10-08T09:42:44.556Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:07.441Z"
+   "checkedAt": "2026-10-08T09:42:45.272Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:08.174Z"
+   "checkedAt": "2026-10-08T09:42:45.979Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:08.916Z"
+   "checkedAt": "2026-10-08T09:42:46.722Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131559,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:09.732Z"
+   "checkedAt": "2026-10-08T09:42:47.562Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74845,
+   "lastId": 74848,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:10.347Z"
+   "checkedAt": "2026-10-08T09:42:48.174Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:11.059Z"
+   "checkedAt": "2026-10-08T09:42:48.989Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T09:31:11.779Z"
+   "checkedAt": "2026-10-08T09:42:49.824Z"
   }
  },
  "posts": [
@@ -3806,13 +3806,50 @@
    "date": "2026-10-08T09:22:58+00:00",
    "text": "🔴 המשטרה: חתונה בפזורה הבדואית פוזרה בעקבות חשד לירי, 7 נעצרו - כולל החתן \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65616",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65616",
+   "date": "2026-10-08T09:41:59+00:00",
+   "text": "הדיפלומטים הבריטיים נאלצים לעזוב את הקונסוליה בירושלים",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74846",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74846",
+   "date": "2026-10-08T09:31:55+00:00",
+   "text": "🔴 שאול מרידור: \"גדי איזנקוט יקים את הממשלה. אצלנו לא יהיו סילמנים\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74847",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74847",
+   "date": "2026-10-08T09:37:33+00:00",
+   "text": "🔴 צה\"ל: חיסלנו מחבל שפשט לישראל ב-7/10 ולקח חלק בחטיפת סמל שקד דהן\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74848",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74848",
+   "date": "2026-10-08T09:38:38+00:00",
+   "text": "🔴 אוקראינה: שלושה הרוגים במתקפה רוסית בקייב\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T09:31:12.178Z",
+  "at": "2026-10-08T09:42:50.224Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 221
+  "added": 4,
+  "pendingNew": 225
  }
 }
