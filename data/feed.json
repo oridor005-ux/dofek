@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T16:04:08.983Z",
+ "updated": "2026-10-08T16:16:04.184Z",
  "items": [
+  {
+   "id": "7d13702a03e4",
+   "kind": "headline",
+   "title": "בגלל סכסוך שכר: פיצויי מלחמה שהגישו אלפי אזרחים תקועים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558995#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T16:13:00.000Z",
+   "summary": "כ־10,000 עררים של אזרחים ועסקים, בהיקף כספי של כ־5 מיליארד שקל, ממתינים להכרעה • יושבי ראש ועדות הערר וחבריהן הודיעו על הפסקת עבודתם בטענה כי רשות המסים מגבילה את שעות העבודה המשולמות עבור כל תיק • במשרד האוצר טוענים כי כבר אושרה הגדלת מכסת השעות וקוראים לוועדות לחדש את פעילותן",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1772449043/direct/AP26059689465359_qdaqw7.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c2e5e5af1e02",
+   "kind": "headline",
+   "title": "החוקרים שמככבים בבורסת ההימורים על הנובל בכלכלה, והקשר הישראלי",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558935#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-08T16:04:00.000Z",
+   "summary": "שלושה כלכלנים בעלי זיקה ישראלית מככבים השנה ברשימות המועמדים לנובל בכלכלה • מי מוביל בפלטפורמות ההימורים, מדוע המחקרים נחשבים פורצי דרך ומה ההיסטוריה מלמדת על הסיכוי להמר נכון? • וגם: הדומיננטיות האמריקאית והמועדון הסגור של הזוכים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791462080/shutterstock_2556649765_qqsd8x.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "213b9b5b2432",
    "kind": "headline",
@@ -5619,34 +5647,6 @@
    "published": "2026-10-07T05:25:10.000Z",
    "summary": "Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own investigation into the flydubai co-pilot who allegedly tried to hijack an Israel-bound plane, after…",
    "image": "https://i.guim.co.uk/img/media/3896ca0479fed88b7e5394212443180d14b75745/406_0_4058_3249/master/4058.jpg?width=140&quality=85&auto=format&fit=max&s=24786e441b88b90a8eaea56a24fda646",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "92399c02107e",
-   "kind": "headline",
-   "title": "Netanyahu and his opponents are putting Oct. 7 at the heart of Israel's elections",
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZS1HRjczT0VyamQ0dkZpTnRKckZCRkFjeXkzbWxiNnZtV1lMS3FBUjNzcWUyOFBNSzF3aUo4MEZvZzRhTVcyd1M2Y01CYnhsWi13eUhvTTRMeDByNFRISU5XRkY1SlgtZUVHc1NmNUpXRDluSGhZTDJOUzhBbTk1azk1OXBOcDFFRUJjZFlHVHpuWndxU1hnVjZoa01xUDV3WDVJcEplUWxaajlkYjZfTWw0Zl95MjF6Q3ZRNVROOXJMZjY2aHRHRDdtRS1Ld2ZFNHQ3cA?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-07T05:24:55.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "15075ec0ca7c",
-   "kind": "headline",
-   "title": "Israel’s Battle Over The IDF Is Becoming A Battle Over What It Means To Be Chosen",
-   "source": "THEJ.CA",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFRUM3FqVFZVdGE1NDJhN3plTmpWdjVzem1DVWJVOEJMMEJjUkV0cGc2Y1cwdGJ5d2tBOElVc24zMlk2OWhmSnRMamUtTFZFSlJWNlpLVXYyVGdqdUpCMk9fVERDRDVFNjYwTVZsXzZpUXNNamZKS2ZDdUpiNWF5SFh1aUVkRUppaVczOGlzWjVPYk9SRWV6X3JmVE1ZMlJqTzJtZVNwazgyTUds?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T05:16:53.000Z",
-   "summary": "",
-   "image": "",
    "score": 1,
    "alsoIn": [],
    "important": false
