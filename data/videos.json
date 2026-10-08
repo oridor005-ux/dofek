@@ -1,34 +1,6 @@
 {
  "items": [
   {
-   "id": "7692703865028005141",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7692703865028005141",
-   "caption": "בפרלמנט באשקלון אמרו לי שאני לא ימני. זה מה שעניתי>> #ישראל #פוליטיקה...",
-   "posted": "1791097201",
-   "found": "2026-10-04T07:06:40Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692703865028005141.txt",
-   "insightIds": [
-    "ins-2026-10-04-m7b1"
-   ]
-  },
-  {
-   "id": "7691712236187979028",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7691712236187979028",
-   "caption": "\"מכונת שטיפת מוח עולמית\": למה ההסברה הישראלית קרסה ב-7 באוקטובר? 👇 אי...",
-   "posted": "1791097200",
-   "found": "2026-10-04T07:07:29Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691712236187979028.txt",
-   "insightIds": [
-    "ins-2026-10-04-m7k2"
-   ]
-  },
-  {
    "id": "7692708849043803413",
    "channel": "m_laradar",
    "name": "m_laradar",
@@ -4482,12 +4454,33 @@
    "found": "2026-10-08T16:23:11Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694330341397449992.txt"
+  },
+  {
+   "id": "7694335820823530760",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694335820823530760",
+   "caption": "שתפו. לא לשכוח במי הם תומכים #פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791477171",
+   "found": "2026-10-08T16:37:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694335820823530760.txt"
+  },
+  {
+   "id": "7694335516824653064",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694335516824653064",
+   "caption": "ראש מערך ההסברה הלאומי במשרד ראש הממשלה, ציפי חוטובלי, העניקה היום (ח...",
+   "posted": "1791477099",
+   "found": "2026-10-08T16:38:06Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-08T16:23:19Z",
+  "at": "2026-10-08T16:38:26Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 2
  }
 }
