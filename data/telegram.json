@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65648,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:12.875Z"
+   "checkedAt": "2026-10-08T21:02:53.062Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.6K",
+   "subscribers": "58.5K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:13.650Z"
+   "checkedAt": "2026-10-08T21:02:53.816Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:14.378Z"
+   "checkedAt": "2026-10-08T21:02:54.513Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11455,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:15.153Z"
+   "checkedAt": "2026-10-08T21:02:55.300Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19328,
+   "lastId": 19329,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:15.878Z"
+   "checkedAt": "2026-10-08T21:02:55.992Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:16.596Z"
+   "checkedAt": "2026-10-08T21:02:56.662Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:17.333Z"
+   "checkedAt": "2026-10-08T21:02:57.323Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131601,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:18.139Z"
+   "checkedAt": "2026-10-08T21:02:58.077Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74903,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:18.758Z"
+   "checkedAt": "2026-10-08T21:02:58.668Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:19.528Z"
+   "checkedAt": "2026-10-08T21:02:59.401Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-08T20:51:20.302Z"
+   "checkedAt": "2026-10-08T21:03:00.167Z"
   }
  },
  "posts": [
@@ -5078,13 +5078,23 @@
    "text": "אבי גיל, המזכיר הצבאי של נתניהו: העברתי באופן אישי התרעות לראש הממשלה שאויבינו מזהים חולשה ונערכים לתקוף - והוא גם קיבל התרעה למלחמה.\nהוא ידע.",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19329",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19329",
+   "date": "2026-10-08T20:55:39+00:00",
+   "text": "עוד מאבי גיל, שמפרק עם העובדות את השקרים של מכונת הרעל: נתניהו קיבל המלצות חוזרות ונשנות לביצוע סיכולים ממוקדים של בכירים בחמאס - ונתניהו לא אישר",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T20:51:20.702Z",
+  "at": "2026-10-08T21:03:00.567Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 321
+  "added": 1,
+  "pendingNew": 322
  }
 }

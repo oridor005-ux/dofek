@@ -151,7 +151,7 @@
   "bdc9ba772c36"
  ],
  "pending": [],
- "lastRun": "2026-10-08T21:02:30.477Z",
+ "lastRun": "2026-10-08T21:14:08.207Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -178,7 +178,7 @@
    },
    "at": "2026-10-08T20:38:42.638Z"
   },
-  "lastNewItemAt": "2026-10-08T21:02:30.477Z",
+  "lastNewItemAt": "2026-10-08T21:14:08.207Z",
   "lastPushOkAt": "2026-10-08T19:59:00.007Z",
   "googleOkAt": "2026-10-08T20:38:42.638Z"
  },
