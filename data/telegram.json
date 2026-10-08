@@ -3,80 +3,80 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65643,
+   "lastId": 65648,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:34.378Z"
+   "checkedAt": "2026-10-08T18:17:05.076Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:35.101Z"
+   "checkedAt": "2026-10-08T18:17:05.720Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:35.932Z"
+   "checkedAt": "2026-10-08T18:17:06.371Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11453,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:36.729Z"
+   "checkedAt": "2026-10-08T18:17:07.048Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19322,
+   "lastId": 19323,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:37.424Z"
+   "checkedAt": "2026-10-08T18:17:07.670Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:38.142Z"
+   "checkedAt": "2026-10-08T18:17:08.297Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:38.829Z"
+   "checkedAt": "2026-10-08T18:17:08.924Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131588,
    "ok": false,
-   "checkedAt": "2026-10-08T18:04:39.840Z",
+   "checkedAt": "2026-10-08T18:17:09.688Z",
    "error": "not found or preview disabled"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74893,
+   "lastId": 74894,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:40.460Z"
+   "checkedAt": "2026-10-08T18:17:10.249Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8412,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:41.229Z"
+   "checkedAt": "2026-10-08T18:17:10.883Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11071,
    "ok": true,
-   "checkedAt": "2026-10-08T18:04:41.950Z"
+   "checkedAt": "2026-10-08T18:17:11.564Z"
   }
  },
  "posts": [
@@ -4810,13 +4810,40 @@
    "date": "2026-10-08T18:00:18+00:00",
    "text": "🔴 דיווח: המתווכות ביקשו מטראמפ עוד זמן למו\"מ עם איראן לפני כל תקיפה אפשרית\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65644",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65644",
+   "date": "2026-10-08T18:11:08+00:00",
+   "text": "הותר לפרסום שמו של חלל צה\"ל אשר הודעה נמסרה למשפחתו\nמצורף שם החלל:\n- סרן אליאב חיים צפלמוס (Eliav Haim Tzapalamus), בן 21 מחיפה, קצין לוחם בגדוד 603 מחטיבה 7, נפל בקרב בדרום לבנון.",
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19323",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19323",
+   "date": "2026-10-08T18:13:33+00:00",
+   "text": "הותר לפרסום: סרן אליאב חיים צפלמוס, קצין שריון בן 21 מחיפה, נהרג היום בהתהפכות האמר בדרום לבנון\nשלושה לוחמים נוספים נפצעו באירוע הקשה",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74894",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74894",
+   "date": "2026-10-08T18:11:11+00:00",
+   "text": "🔴 הותר לפרסום: סרן אליאב חיים צפלמוס נפל בדרום לבנון\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T18:04:42.351Z",
+  "at": "2026-10-08T18:17:11.966Z",
   "ok": 10,
   "fail": 1,
-  "added": 1,
-  "pendingNew": 290
+  "added": 3,
+  "pendingNew": 293
  }
 }

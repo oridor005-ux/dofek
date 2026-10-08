@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:15:51.615Z",
+ "updated": "2026-10-08T18:28:18.405Z",
  "items": [
   {
    "id": "d3684352a307",
@@ -205,6 +205,20 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUJFenBTNnd0MzlQYkZwb3hnSlVWMXZQSWstZ0owbFVIdjNzT1I2dlh1R1pqZUVZOGpiY2RZNnhEUml0U052dHFhQ3VONDF4T0VTMmJSdEg4RWNXNktfak0zdDZXdmpyYXZvQ1Y0c29BMTZMODhVdXpWREpyZUVDX0VqVVFvT0RCbjNXc0VsWlEtY1ViamM2cHRHeGQ?oc=5",
    "topic": "world",
    "published": "2026-10-08T16:28:48.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "919cfc45c819",
+   "kind": "headline",
+   "title": "230 מיליון שקל: הקיפאון בנדל\"ן עולה למדינה ביוקר",
+   "source": "היום",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZZU4zMVM3bTJQR2xDVmN2U3FzMlI0cHVDYk9tRmtkQk5fY0lrSDA1QlVqMGxSUEI1UGVKWVJueG5sRzNnY1JkZzYtRDM5MVZzTzJ1MWFpVWhpTXhoMTZsTVJfVENwaHktdzNKWEFB0gFuQVVfeXFMTlllTjMxUzdtMlBHbENWY3ZTcXMyUjRwdUNiT21Ga2RCTl9jSWtIMDVCVWowbFJQQjVQZUpZUm54bmxHM2djUmRnNi1EMzkxVnNPMnUxYWlVaGlNeGgxNmxNUl9UQ3BoeS13M0pYQUE?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T16:22:06.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -2635,6 +2649,20 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3ddcfa99a4aa",
+   "kind": "headline",
+   "title": "Kosovo lawmakers elect new president in vote to avert snap election",
+   "source": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEtsb2Z6NVpZMzRnZHVsSnpkUF9pYlE1WlduaW5ISkV1WEJSMVZXakJEaHY4b3MyZ3o5Rk83STdWQzh1WmtvQnB5WHlOSjB4bGlqV2g1RTFCRXRtb3VpNG5qcjJuOTRkLXNsUkNtNjVkTWJGdUh6Tzdod0llU19aMTAxM1dLZnl1a3BhWGpmcXNwSzJxRWtwRDlrWVlqb2Uta1ZSZzFud0d1Qk1taUJpU1duSFJnUnktLVR5VlA2QVRDRTRk?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T04:14:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5613,34 +5641,6 @@
    "published": "2026-10-07T08:07:43.000Z",
    "summary": "שני תושבי אילת טוענים למפגעים שמקורם בחוות המכלים של החברה ב-2025-2021: \"מסכת בת שנים של זיהום\". לבקשה צורפו 142 תלונות שתועדו בעירייה",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/11/25/HyPQcRhOK/HyPQcRhOK_0_56_1600_901_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d20ed0998a44",
-   "kind": "headline",
-   "title": "הפסד לקשישה שניסתה לעצור תמ\"א 38 בפ\"ת",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/syxbj00mimg",
-   "topic": "econ",
-   "published": "2026-10-07T08:07:16.000Z",
-   "summary": "בעלת דירה סירבה לחתום בטענה שמגיעות לה זכויות של דייר קשיש. שכניה שכנעו שהרוב הדרוש לפרויקט הושג לפני תיקון החוק הנוגע להגנה על קשישים",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/rkY7DP9QMg/rkY7DP9QMg_0_0_1000_563_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "12d86b940dfb",
-   "kind": "headline",
-   "title": "ישראלית הוכרה כאם לבת של זוגתה הזרה",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/bjxr900mjfg",
-   "topic": "econ",
-   "published": "2026-10-07T08:06:49.000Z",
-   "summary": "בנות הזוג, תושבות ארה\"ב, ילדו בהפרש של חודש. בעוד בנה של הישראלית קיבל אזרחות בארץ, מעמדה של הבת נותר שונה. בית המשפט החליט לשים לזה סוף",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/05/10/6041392/6041392_0_0_1300_732_0_medium.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
