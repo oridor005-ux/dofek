@@ -1,41 +1,6 @@
 {
  "items": [
   {
-   "id": "7692563751391776018",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692563751391776018",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791064581",
-   "found": "2026-10-03T21:58:49Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692563751391776018.txt",
-   "insightIds": [
-    "ins-2026-10-04-m104"
-   ]
-  },
-  {
-   "id": "7692562681684823303",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692562681684823303",
-   "caption": "#פוריו #ימין #שמאל #בשבילך ",
-   "posted": "1791064331",
-   "found": "2026-10-03T21:59:10Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692562681684823303.txt"
-  },
-  {
-   "id": "7692560548969401608",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7692560548969401608",
-   "caption": "וכמובן הר המור! (חכו לסוף) תּוֹרַת הַשֵּׁם תְּמִימָה מְשִׁיבַת נָפֶשׁ...",
-   "posted": "1791063834",
-   "found": "2026-10-03T21:59:24Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7692566339017379079",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4484,12 +4449,45 @@
    "posted": "1791474595",
    "found": "2026-10-08T15:52:34Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694320325223353608",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694320325223353608",
+   "caption": "המפגש עם הזיכרון | עמיחי אתאלי כשהמילואים בחקירות המחבלים הציפו את טר...",
+   "posted": "1791475200",
+   "found": "2026-10-08T16:06:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694320325223353608.txt"
+  },
+  {
+   "id": "7694326739270388999",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694326739270388999",
+   "caption": "סרטון שהעלה טייס \"איג'יפטאייר\", בו תיעד את מטוסו מתקרב למטוס אל על במ...",
+   "posted": "1791475054",
+   "found": "2026-10-08T16:07:09Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694326739270388999.txt"
+  },
+  {
+   "id": "7694325884907441414",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7694325884907441414",
+   "caption": "להילחם למען ישראל בזירת ההסברה זו משימת חיי עד יומי האחרון!",
+   "posted": "1791474854",
+   "found": "2026-10-08T16:07:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694325884907441414.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T15:52:48Z",
+  "at": "2026-10-08T16:07:28Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 3
  }
 }
