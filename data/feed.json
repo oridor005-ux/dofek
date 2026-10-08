@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:16:44.627Z",
+ "updated": "2026-10-08T12:29:12.828Z",
  "items": [
   {
    "id": "b2a2f30e92d7",
@@ -11,6 +11,20 @@
    "published": "2026-10-08T12:07:00.000Z",
    "summary": "התובענות הייצוגיות הוגשו לבית המשפט המחוזי בטענה כי גוגל המשיכה לאסוף נתוני מיקום גם לאחר שמשתמשים כיבו את הפונקציה במכשיריהם, ואף השתמשה בנתונים לצרכים מסחריים &bull; גוגל לא הודתה בטענות, אך התחייבה להגביר את הגילוי למשתמשים בישראל &bull; בנוסף תשלם מיליון שקל שכר טרחה ו-110 אלף שקל גמול",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1704812916/direct/shutterstock_1283047378_lj0y3f.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2dfbee6dcb76",
+   "kind": "headline",
+   "title": "Green Light for Meloni's Controversial New Election Law",
+   "source": "bluewin.ch",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUduVXdwaTJoSHhUekFtZ2F4d0lIbURMUEZzLWhrNDRBeWhMY3EtdklhcDU4ZmFsbUFEd2VKTWV4dDRuMnNxQjU0Tk1MVjJiZVhZTXpmalNKLTNYNVAtYl94QzNJaDUyakNFcjlTQ1YzRVRwcmR6REdOYldyWUdQZE04UTBQazNUTlJuOXotMWt5YWpiT21LOG1SS09SQQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T12:03:46.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -30,6 +44,50 @@
    "important": false
   },
   {
+   "id": "16b1d15079ab",
+   "kind": "headline",
+   "title": "הימור ענק על אנבידיה: מישהו שם כסף על מחיר מעל 247 דולר בתוך שבועיים",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nTjZoQjVIZ0V2d2Q0Zk1qQ0VnZ1pRcUtmc2pyTVBsVjI3X093aEtpM3U3ZWpxNk10SW83eUd1V3g2ak9Db1VwZ2syTnpnRGJHQlhlWEZJcngzWmpOd3Itb2FlNHQxbXphZXR6cFVHTGQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T11:51:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7db22e371658",
+   "kind": "headline",
+   "title": "Meloni overhauls election rules in secret ballot",
+   "source": "The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm1ubHlTZHJuUGRjVi10b3lqV1E2RjZETXVVLVM0RkZIMGFfQTN4RGw5TVZ6Q2cwZlowZ3VFdGJubnZSMDZLVDFudXl6ZE8tNXlOeFZ6UVVEWkdfZy1FYTNfY2hJanhZZndJcE81djRzNHFsVEdkdFhZZzBzMXcwRGFWRTg1eHlTYjB5STFlZDB2UHl3TG14cmNwUGs1QlY5ZXhEV0MyRkhJUQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T11:47:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2c3af93258a8",
+   "kind": "headline",
+   "title": "Italy’s parliament gives final approval to Meloni’s electoral reform",
+   "source": "CoastTV",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDlHbkdLdEdkeFZSUTVCSDVwbkROaVVNZWprZUloWGU5cThxZ19FaTZTX3NmQUk2eHpxXzcxZExPVEdxUUZwb1FJZ0lTNEN2VkMzSk5GVjVDZExkalRNZ2dQUXRrX0JGdnV3SG1LZk1PMnpvNC1GQWg1dHllSmh4SVliWU1jdk40VW54RHNpWkRHeDRwZ2FGR1NaVlExaHQ1NGNxS2ZLSGo4eHVYUFRyLUprZzZZLU1EOUViQlQ4SGZWZFA5dWU5X3BOSy1UREk3VnF4aFExNEUtMXdQdFNobVNQSzVVZWY2?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T11:46:22.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [
+    "The Edwardsville Intelligencer"
+   ],
+   "important": false
+  },
+  {
    "id": "051082b4499d",
    "kind": "headline",
    "title": "מפקח לשעבר ברשות המסים נשלח ל-18 חודשי מאסר בגין עבירות מס",
@@ -40,6 +98,20 @@
    "summary": "הנאשם, רו\"ח ארז מינס, הורשע כי במסגרת עבודתו כרואה חשבון עצמאי סייע ללקוחותיו לקבל החזרי מס שלא הגיעו להם באמצעות תרמית, דיווחים כוזבים וזיוף, זאת על-מנת לגזור עמלות מאותם החזרים • ביהמ\"ש בפ\"ת קבע: \"הנאשם ניצל את הידע שיש לו על דרך התנהלות גופי אכיפת המס על-מנת לבצע עבירות כלפיהן\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1613887858/old/1465721.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "86a4227f66dc",
+   "kind": "headline",
+   "title": "הדולר עולה ל-3.08 שקלים ובעולם נסחר בשיא של שנה וחצי",
+   "source": "calcalist",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sVDBzeGNmNzV3RWZlWHhwOWZBWkFFeW4yV2VoaWJhajJIVEJMdElZck9wMVFFYkVJVENVUEJjamxqaFYtZ3FUT29XRF8zNDRJeE9ySlZ0QUVzWGh0TmMxTmdWZw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T11:44:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5573,76 +5645,6 @@
    "summary": "The plea hearing revealed a far larger pattern of fraud against the government, while keeping some key secrets still hidden.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-goldbars-02-bjcz/06dc-goldbars-02-bjcz-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "fe90eb056c87",
-   "kind": "headline",
-   "title": "Israeli scholar: Left-wing progressive diaspora Jews embracing crazy ideologies",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLX3hyMVVsX1VLYlVZUEoxdDJ2Zjk2RWhzWlgtZUp6dXNHdU9TR0I5dU5yNi1QejJuZDV2TzJweDNybVNKSkdIX0JzUk9ENGM0d1lZaU9Cc3c?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T19:02:56.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8a0d91a6dbc3",
-   "kind": "headline",
-   "title": "October 7 ended an era. Israel’s fourth founding has begun",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oV19RM1NteGNoTlhTNE8wUE5JdVBwUGhqVklRanNleWVEZHpfUVZsUHdnWWpLMmV2SlhqN0dJWVFiRTJFbUttUVd1d0pzVVJkX0xLeko0UQ?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T19:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2139d01b6ebe",
-   "kind": "headline",
-   "title": "Nearly half of Israelis equally blame government, IDF for October 7 failures, poll finds",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDdpeHJ6V25hT3pvMlN1Z052ZG1ld0tJUlFRZWF2V3EwZ241TmVrY2xNdTVMZ3RJd1pDSzk0UXdoeVR4emtEV0N6b29KQzloeXRYSW52LVlJaGhfWmdTbFFhVlRCaEJzcFlLd1FCWXNWbjRNU0U0Tk1TaVN2STUzZ0tqU1pwUFZ4RmJUMGRuaEY4aGp4eVpWNU9n?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T18:57:27.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b5b74331d3ea",
-   "kind": "headline",
-   "title": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles?",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html",
-   "topic": "world",
-   "published": "2026-10-06T18:48:24.000Z",
-   "summary": "President Trump’s comments caused an uproar from members of both parties. A White House official said he was taken out of context.",
-   "image": "https://static01.nyt.com/images/2026/10/06/06vid-trump-nebraska-LA-San-Diego-51303-cover/06vid-trump-nebraska-LA-San-Diego-51303-cover-mediumSquareAt3X-v2.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b9eaba2d9274",
-   "kind": "headline",
-   "title": "EU officials condemn politician over Israeli flag removal at Oct. 7 event",
-   "source": "Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOOEpTdXczSGFUam1jTEVhd3h2WHlZVWtsRlU5cE5JUldsX2JjQVNLU1cwZEtfazRGdEx4MVRka2hwWERXT21QS2drWjhveDhyMWlFbEo5RW1RX2hwdExnbEpHb3NlNjZCQXpmSkFZTzMybmpYallZNTlMTk9SLTF0bGFJZHBzR2tmejRJcEM1aUZYV29KY0xzanlnTVZmV1hBRlNYTl9GTUJTQlMzTXpUandRYXlvQWdRS0QxckdxNFU5QnB5RmdrRnpTVnpSaVFaNjJHbWlqQ20xQzBKQTV0c1R5dnk5MThSRUtLUGJZSmZiNmhWSTh6S1JRak9TeVVxTmRSelJ0YjBIdXRvVElr?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-06T18:44:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
