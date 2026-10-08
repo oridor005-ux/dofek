@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T19:15:57.345Z",
+ "updated": "2026-10-08T19:27:12.701Z",
  "items": [
+  {
+   "id": "bd6526a003ef",
+   "kind": "headline",
+   "title": "French Students Take to the Streets as Government Seeks Way Out of Crisis",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
+   "topic": "world",
+   "published": "2026-10-08T19:15:28.000Z",
+   "summary": "Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-protest-leadall-vphg/08int-france-protest-leadall-vphg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "846993e079bf",
    "kind": "headline",
@@ -5628,20 +5642,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "161e044d7f5d",
-   "kind": "headline",
-   "title": "נתוני הלמ״ס ליולי 2026: ירידה של 4.7% בסך יצוא השירותים הישראלי",
-   "source": "PORT2PORT",
-   "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxObE5pX1pRbDlvbDJjTDlWOHJranphc1NUa01rYk9mN0dEb01VOXRjS0xEUXExaVl4Qzh1N01wVk5jaEtQeEEzcDFiWkdSUWtuREpjNThza01SeGR0dDV1azAxLXp4eWotVzVoY3pKTWs3cF83NngzYVhkaXZuZS1DRmxhRDdZQXpoMnZGREFVaU50M19aY2JqT2lMbWl3dk9sU2lDa2dfQVBheEotNUlTV1huQW5DQUNQRDZXRktKbWdHS1VvbUo2amJfaHViWmRTRkxnTXJWQ3dtVEEwQkhHYW16YlVzeF9EU254TDRxMW42T1hmbnAybGFXMGlWLXF6NUhGYlVNQzVGTktZNXc4bXZFUjE4cURyTWRGVEpBcHBORjdHUWZHT0lEeEVVOG4zbWJaMEc0dFRGYUcwT0J0Mkw0NEs4V1dzOVY5alhsNWhYZEpmR1YxSHdMZE5WTXh5Rmx5Y2Naa3ROYV93cUxXdnQ2NFp3dTFPVXQ1bkt1QjNLbmF3SEZhbEN4enR6MXVsZXNVY0duYkdxazZ3YTdOSmFVeE9JTUwzdWlHdDI4M3hqMVRRVzdIT1A2TGFXOEF4NGhxYzJsMnQwUlhjb0FveThJUUFpcDhGVUd0N1lOejl4UWRLeGdwYWxMYmJpNV9hQ0hUZDFKb01NckNuQ3ZtTzNkOWdRUDdRXzFrWk9zYjVpdEVSRkRHMjVTNnNZMmF3T1QzcjltV2RrRHhybFo4SGFMTnp2aDhoa25hUlZVSDk?oc=5",
-   "topic": "demo",
-   "published": "2026-10-07T08:25:25.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
