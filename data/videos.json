@@ -3305,7 +3305,7 @@
    "caption": "\"לפני שקופצים למסקנות, צריכים לזכור מה האויבים שלנו עשו לנו\" ↓ \"ואיזה...",
    "posted": "1791368859",
    "found": "2026-10-07T10:33:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693870633473559828.txt"
   },
   {
@@ -3316,7 +3316,7 @@
    "caption": "\"תגיד, מה הסוד שלכם, הישראלים והיהודים? איך אתם מצליחים לחיות בחוסן כ...",
    "posted": "1791368724",
    "found": "2026-10-07T10:34:42Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693870059583786258.txt"
   },
   {
@@ -3337,7 +3337,7 @@
    "caption": "היום לפני שלוש שנים | \"דובר צה\"ל, האם יש חטופים בעזה?\" 7.10.23 | 13:20",
    "posted": "1791368400",
    "found": "2026-10-07T10:35:32Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693795601078750485.txt"
   },
   {
@@ -3348,7 +3348,7 @@
    "caption": "עם תמונת בנה ביד, שרה ליאור עמדה בבית המשפט מול הנאשמים בפרשת גניבת צ...",
    "posted": "1791369943",
    "found": "2026-10-07T10:48:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693875297350929684.txt"
   },
   {
@@ -3359,7 +3359,7 @@
    "caption": "אף אחד מאיתנו לא ישכח את היום ההוא כל חיינו. זה השבעה באוקטובר שלי. #...",
    "posted": "1791370051",
    "found": "2026-10-07T11:04:26Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693875752030178581.txt"
   },
   {
@@ -3390,7 +3390,7 @@
    "caption": "",
    "posted": "1791371570",
    "found": "2026-10-07T11:19:26Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693882278929272065.txt"
   },
   {
@@ -3401,7 +3401,7 @@
    "caption": "",
    "posted": "1791371349",
    "found": "2026-10-07T11:20:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693881327107525909.txt"
   },
   {
@@ -3442,7 +3442,7 @@
    "caption": "היום לפני שלוש שנים | אלוף במיל' יאיר גולן הגיע לעוטף עזה לבוש במדים:...",
    "posted": "1791373800",
    "found": "2026-10-07T12:04:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693873008078785813.txt"
   },
   {
@@ -3453,7 +3453,7 @@
    "caption": "",
    "posted": "1791373911",
    "found": "2026-10-07T12:04:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693892333913345300.txt"
   },
   {
@@ -3464,7 +3464,7 @@
    "caption": "ממדי האסון נחשפים, דקה אחר דקה. בבוקר שבעה באוקטובר, בזמן שגם בדרגים ...",
    "posted": "1791375272",
    "found": "2026-10-07T12:19:26Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693898181721050388.txt"
   },
   {
@@ -3475,7 +3475,7 @@
    "caption": "\"בשבעה באוקטובר שפכו עליהם חומר בעירה והדליקו אותם. נתנו להם להישרף ח...",
    "posted": "1791375476",
    "found": "2026-10-07T12:20:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693899052265508104.txt"
   },
   {
@@ -3486,8 +3486,11 @@
    "caption": "הגענו ללונדון כי לא ניתן לאנטי ישראלים לגנוב את התאריך של השבעה באוקט...",
    "posted": "1791376309",
    "found": "2026-10-07T12:34:57Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7693902639637056789.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7693902639637056789.txt",
+   "insightIds": [
+    "ins-2026-10-08-hd20"
+   ]
   },
   {
    "id": "7693910585171381511",
@@ -3497,7 +3500,7 @@
    "caption": "הערבים יעזרו ליאיר גולן להילחם במשתמטים, כן כן, ברור🤡",
    "posted": "1791378162",
    "found": "2026-10-07T13:05:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693910585171381511.txt"
   },
   {
@@ -3518,7 +3521,7 @@
    "caption": "למי אתה קורא שקרן?! תומך חמאס מטומטם! Who are you calling a liar?! Yo...",
    "posted": "1791377669",
    "found": "2026-10-07T13:06:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693908462207618324.txt"
   },
   {
@@ -3551,7 +3554,7 @@
    "caption": "",
    "posted": "1791378490",
    "found": "2026-10-07T13:22:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693912008667778356.txt"
   },
   {
