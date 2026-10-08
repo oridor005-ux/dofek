@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65618,
+   "lastId": 65619,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:28.982Z"
+   "checkedAt": "2026-10-08T11:18:20.536Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:29.718Z"
+   "checkedAt": "2026-10-08T11:18:21.268Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:30.433Z"
+   "checkedAt": "2026-10-08T11:18:21.988Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11447,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:31.216Z"
+   "checkedAt": "2026-10-08T11:18:22.760Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:31.947Z"
+   "checkedAt": "2026-10-08T11:18:23.566Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:32.704Z"
+   "checkedAt": "2026-10-08T11:18:24.326Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:33.415Z"
+   "checkedAt": "2026-10-08T11:18:25.166Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131561,
+   "lastId": 131563,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:34.198Z"
+   "checkedAt": "2026-10-08T11:18:25.961Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74855,
+   "lastId": 74857,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:34.825Z"
+   "checkedAt": "2026-10-08T11:18:26.590Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:35.604Z"
+   "checkedAt": "2026-10-08T11:18:27.382Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T11:06:36.432Z"
+   "checkedAt": "2026-10-08T11:18:28.215Z"
   }
  },
  "posts": [
@@ -3944,13 +3944,51 @@
    "date": "2026-10-08T11:05:01+00:00",
    "text": "🔴 אן קרסון היא הזוכה בפרס נובל לספרות לשנת 2026\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65619",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65619",
+   "date": "2026-10-08T11:14:39+00:00",
+   "text": "-ח״כ יאסר חוג׳יראת מרע״מ, אתה יכול להגיד שחמאס הוא ארגון טרור? \n״זה ארגון שבעצם חלק ממנו צדקה וחלק שרוצה לקבל זכות קיום והכרה כמדינה״",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131563",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131563",
+   "date": "2026-10-08T11:06:37+00:00",
+   "text": "האיחוד האירופי, שאמור להיות בעל ברית של ארצות הברית, חשב שזה רעיון טוב להציג פסל חדש בשם \"המגפה הכתומה\", המתאר את הנשיא טראמפ עירום, רכוב על כתפיו של גבר שברירי ואוחז במחבט גולף.\n## \nיש סיכוי שטראמפ לא יגיב לזה?\n4 תגובות",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74856",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74856",
+   "date": "2026-10-08T11:11:21+00:00",
+   "text": "🔴 ריקול לגלידת חלב ודבש של בן & ג'ריס: \"נמצא גוף זר דמוי פלסטיק\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74857",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74857",
+   "date": "2026-10-08T11:15:51+00:00",
+   "text": "🔴 נדחה ערעורו של דניאל קדר שהורשע ברצח אלדר פרי, עונש מאסר העולם יישאר\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T11:06:36.833Z",
+  "at": "2026-10-08T11:18:28.616Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 236
+  "added": 4,
+  "pendingNew": 240
  }
 }
