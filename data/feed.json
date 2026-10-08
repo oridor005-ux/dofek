@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T19:04:08.286Z",
+ "updated": "2026-10-08T19:15:39.374Z",
  "items": [
+  {
+   "id": "846993e079bf",
+   "kind": "headline",
+   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-08T19:10:06.000Z",
+   "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d62a/live/d11c0100-c341-11f1-b521-0bbd7e4f1f2e.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "c8cdb685a468",
    "kind": "headline",
@@ -5627,20 +5641,6 @@
    "published": "2026-10-07T08:25:25.000Z",
    "summary": "",
    "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "aed4e0006c22",
-   "kind": "headline",
-   "title": "בתום המיון המוקדם: 19 קבוצות יתמודדו במכרז בהיקף של כ-65 מיליארד שקל",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558681#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-07T08:24:00.000Z",
-   "summary": "מכרזי האינפרא 1 של המטרו: נת\"ע הודיעה כי 19 קבוצות בינלאומיות, המורכבות מ-31 חברות, עברו את הליך המיון המקדים • הקבוצות מגיעות מהודו, מארה\"ב, מיוון, מדרום קוריאה, מצרפת ומסין • גם חברות ישראליות יקחו חלק במכרז, ביניהן אלקטרה, דניה סיבוס, מנרב ועוד",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1724830986/one%20time%20use%20only/WhatsApp_Image_2024-08-26_at_15.19.28_vmscjy.jpg",
    "score": 2,
    "alsoIn": [],
    "important": false
