@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7692012272746630407",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692012272746630407",
-   "caption": "בית של כוח, עשייה ותקווה חדשה ​בימים אלה החל לפעול בית הלוחם החדש באש...",
-   "posted": "1790937780",
-   "found": "2026-10-03T14:34:19Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692012272746630407.txt"
-  },
-  {
-   "id": "7691371570576592136",
-   "channel": "lusil_blek",
-   "name": "lusil_blek",
-   "url": "https://www.tiktok.com/@lusil_blek/video/7691371570576592136",
-   "caption": "פרק רביעי: ״הדמוקרטים״ בראשות יאיר גולן. האם אתם מצביעים למפגה של יאי...",
-   "posted": "1790787005",
-   "found": "2026-10-03T14:36:47Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691371570576592136.txt",
-   "insightIds": [
-    "ins-2026-10-03-mgol"
-   ]
-  },
-  {
    "id": "7691670304510283028",
    "channel": "m_laradar",
    "name": "m_laradar",
@@ -4514,12 +4489,33 @@
    "posted": "1791462000",
    "found": "2026-10-08T12:33:47Z",
    "status": "failed"
+  },
+  {
+   "id": "7694270219207937281",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694270219207937281",
+   "caption": "שימו לב⚠️🍨 ריקול לגלידה הפופולרית: בעקבות תלונה של צרכן על הימצאות גו...",
+   "posted": "1791464400",
+   "found": "2026-10-08T13:04:25Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7694278576484420865",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7694278576484420865",
+   "caption": "יצאנו לחפש קפה ומצאנו מילואימניקים חתיכים ☕️🫡",
+   "posted": "1791463839",
+   "found": "2026-10-08T13:05:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694278576484420865.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T12:48:46Z",
+  "at": "2026-10-08T13:05:39Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
