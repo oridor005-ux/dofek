@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65636,
+   "lastId": 65638,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:26.033Z"
+   "checkedAt": "2026-10-08T15:52:53.812Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
-   "subscribers": "58.5K",
+   "subscribers": "58.6K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:26.802Z"
+   "checkedAt": "2026-10-08T15:52:54.548Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:27.444Z"
+   "checkedAt": "2026-10-08T15:52:55.315Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11452,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:28.078Z"
+   "checkedAt": "2026-10-08T15:52:56.047Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19321,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:28.704Z"
+   "checkedAt": "2026-10-08T15:52:56.763Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:29.411Z"
+   "checkedAt": "2026-10-08T15:52:57.533Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:30.017Z"
+   "checkedAt": "2026-10-08T15:52:58.235Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131581,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:30.824Z"
+   "checkedAt": "2026-10-08T15:52:58.995Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74883,
+   "lastId": 74884,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:31.389Z"
+   "checkedAt": "2026-10-08T15:52:59.614Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:32.043Z"
+   "checkedAt": "2026-10-08T15:53:00.338Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T15:40:32.822Z"
+   "checkedAt": "2026-10-08T15:53:01.190Z"
   }
  },
  "posts": [
@@ -4572,13 +4572,40 @@
    "date": "2026-10-08T15:33:53+00:00",
    "text": "🔴 כביש 4 במחלף אלוף שדה נפתח לתנועה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65637",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65637",
+   "date": "2026-10-08T15:47:02+00:00",
+   "text": "סקר ישראל היום: \nשוויון 51 בין הגושים, הליכוד עולה במנדט מסקר קודם, וינטר לא עובר",
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65638",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65638",
+   "date": "2026-10-08T15:50:55+00:00",
+   "text": "#\nמנכ\"ל הדמוקרטים עוקץ את בנט: \"לא ניתן לקהלת ולתומכי ההפיכה לחזור אליה בדלת האחורית\"",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74884",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74884",
+   "date": "2026-10-08T15:44:35+00:00",
+   "text": "🔴 החות'ים: \"מזהירים עובדים במפעלי הנפט הסעודיים מפני שהייה ביעד עבור כוחותינו\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T15:40:33.222Z",
+  "at": "2026-10-08T15:53:01.590Z",
   "ok": 11,
   "fail": 0,
   "added": 3,
-  "pendingNew": 263
+  "pendingNew": 266
  }
 }
