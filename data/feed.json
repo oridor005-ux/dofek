@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T23:25:03.164Z",
+ "updated": "2026-10-08T23:36:33.580Z",
  "items": [
+  {
+   "id": "30943aaaf7ae",
+   "kind": "headline",
+   "title": "How Trump Has Alienated Republican Voters",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/us/politics/trump-republican-voters.html",
+   "topic": "world",
+   "published": "2026-10-08T23:24:14.000Z",
+   "summary": "Plus, a big debate night in Senate battlegrounds.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pol-onpolitics-newsletter-top-zlqg/08pol-onpolitics-newsletter-top-zlqg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "37c93e0f7c8e",
    "kind": "headline",
@@ -5628,20 +5642,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9742f77aef98",
-   "kind": "headline",
-   "title": "Israelis are split over Netanyahu in their first elections since Oct. 7",
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZS1HRjczT0VyamQ0dkZpTnRKckZCRkFjeXkzbWxiNnZtV1lMS3FBUjNzcWUyOFBNSzF3aUo4MEZvZzRhTVcyd1M2Y01CYnhsWi13eUhvTTRMeDByNFRISU5XRkY1SlgtZUVHc1NmNUpXRDluSGhZTDJOUzhBbTk1azk1OXBOcDFFRUJjZFlHVHpuWndxU1hnVjZoa01xUDV3WDVJcEplUWxaajlkYjZfTWw0Zl95MjF6Q3ZRNVROOXJMZjY2aHRHRDdtRS1Ld2ZFNHQ3cA?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-07T09:54:55.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
