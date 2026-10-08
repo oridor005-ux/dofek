@@ -4113,12 +4113,34 @@
    "found": "2026-10-08T06:30:05Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694178189446253832.txt"
+  },
+  {
+   "id": "7694186668990942472",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694186668990942472",
+   "caption": "#פוריו #ימין #שמאל #בשבילך",
+   "posted": "1791442441",
+   "found": "2026-10-08T07:00:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694186668990942472.txt"
+  },
+  {
+   "id": "7694185165987384594",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7694185165987384594",
+   "caption": "אין להם בושה, הם חושבים ששכחנו ",
+   "posted": "1791442099",
+   "found": "2026-10-08T07:01:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694185165987384594.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T06:44:37Z",
+  "at": "2026-10-08T07:01:39Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
