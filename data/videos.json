@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692725652935593234",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692725652935593234",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791102271",
-   "found": "2026-10-04T08:36:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692725652935593234.txt"
-  },
-  {
    "id": "7692724817455500562",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4475,12 +4464,23 @@
    "found": "2026-10-08T17:42:29Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694352919696739604.txt"
+  },
+  {
+   "id": "7694359224985406728",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694359224985406728",
+   "caption": "חדשות 14 | חשיפה: כך התנהל האלוף אבי גיל המזכיר הצבאי של נתניהו בשעות...",
+   "posted": "1791482617",
+   "found": "2026-10-08T18:06:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694359224985406728.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T17:42:35Z",
+  "at": "2026-10-08T18:06:56Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
