@@ -144,7 +144,7 @@
   "0118de4c2ae6"
  ],
  "pending": [],
- "lastRun": "2026-10-08T15:04:11.017Z",
+ "lastRun": "2026-10-08T15:15:48.749Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -171,7 +171,7 @@
    },
    "at": "2026-10-08T14:40:19.703Z"
   },
-  "lastNewItemAt": "2026-10-08T15:04:11.017Z",
+  "lastNewItemAt": "2026-10-08T15:15:48.749Z",
   "lastPushOkAt": "2026-10-08T15:00:24.659Z",
   "googleOkAt": "2026-10-08T14:40:19.703Z"
  },
