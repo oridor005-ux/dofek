@@ -1,28 +1,6 @@
 {
  "items": [
   {
-   "id": "7692732705858964743",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692732705858964743",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791103914",
-   "found": "2026-10-04T09:07:17Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692732705858964743.txt"
-  },
-  {
-   "id": "7691713026663157012",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7691713026663157012",
-   "caption": "\"הדרך היחידה לנצח את נתניהו היא להעמיד בראש הגוש הליברלי איש ימין מדי...",
-   "posted": "1791104400",
-   "found": "2026-10-04T09:07:47Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7691713026663157012.txt"
-  },
-  {
    "id": "7692737435230391560",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4474,12 +4452,34 @@
    "found": "2026-10-08T18:40:28Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694366328882302226.txt"
+  },
+  {
+   "id": "7694373458628578567",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694373458628578567",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791485936",
+   "found": "2026-10-08T19:12:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694373458628578567.txt"
+  },
+  {
+   "id": "7694376147555077396",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7694376147555077396",
+   "caption": "הגיע הזמן שלא נלך יותר לפי הנרטיב שלהם ולא נתנצל יותר- זה לא הגדה המע...",
+   "posted": "1791486562",
+   "found": "2026-10-08T19:13:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694376147555077396.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T18:55:38Z",
+  "at": "2026-10-08T19:13:39Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
