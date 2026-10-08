@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T07:20:04.678Z",
+ "updated": "2026-10-08T07:31:20.830Z",
  "items": [
   {
    "id": "00e78fa40053",
@@ -298,6 +298,20 @@
    "important": false
   },
   {
+   "id": "a926182b60ca",
+   "kind": "headline",
+   "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html",
+   "topic": "world",
+   "published": "2026-10-08T04:00:11.000Z",
+   "summary": "Far-left leaders are cheering on the students. Government officials accuse them of stirring up the unrest for political gain.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-far-left-kpfg/08int-france-far-left-kpfg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "7bb786aac4f5",
    "kind": "headline",
    "title": "ירידות באסיה ויציבות בחוזים בוול סטריט; מחירי הנפט ממשיכים לטפס",
@@ -307,6 +321,20 @@
    "published": "2026-10-08T03:58:00.000Z",
    "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: ירידות באסיה, סמסונג דיווחה הבוקר על זינוק של כמעט פי תשעה ברווח התפעולי • אחרי הירידות אתמול יציבות בחוזים בוול סטריט • מחירי הנפט ממשיכים לטפס, 102 דולר לחבית • המיליארדר שמזהיר: בועת ה-AI עומדת להתפוצץ",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783424919/direct/2026-07-03T000000Z_1953503890_MT1NURPHO000NDVEX6_RTRMADP_3_SOUTH-KOREA-STOCKS-REBOUND_zomlpx.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8e6339b0e73f",
+   "kind": "headline",
+   "title": "ירידות באירופה; גם החוזים בניו יורק עברו לירידות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T03:58:00.000Z",
+   "summary": "נעילה שלילית באסיה, סמסונג דיווחה הבוקר על זינוק של כמעט פי תשעה ברווח התפעולי • אחרי הירידות אתמול יציבות בחוזים בוול סטריט • מחירי הנפט ממשיכים לטפס, 102 דולר לחבית • המיליארדר שמזהיר: בועת ה-AI מתקרבת לנקודת פיצוץ",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1622706480/direct/shutterstock_254253733_awzirx.jpg",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -5613,34 +5641,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f43624cd519c",
-   "kind": "headline",
-   "title": "הישראלי שהקים את ה\"בנק של הבנקים\" מגייס לפי שווי של כמעט 2 מיליארד דולר",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558520#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T12:00:00.000Z",
-   "summary": "חברת הטכנולוגיה הישראלית קפיטוליס, של היזם הישראלי גיל מנדלזיס, מגייסת 220 מיליון דולר לפי שווי של 1.9 מיליאראד דולר • קפיטוליוס הפכה לשחקנית הגדולה ביותר בנישה טכנולוגית המאפשרת לבנקים ולבתי השקעות לחלוק יחד בהון - על מנת להקטין את הריביות",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728889762/direct/%D7%92%D7%99%D7%9C_%D7%9E%D7%A0%D7%93%D7%9C%D7%96%D7%99%D7%A1_h4bzjs.png",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8fa96d51904d",
-   "kind": "headline",
-   "title": "קפיטוליס מגייסת חוב והון לפי שווי של 1.6 מיליארד דולר",
-   "source": "TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVQ4bjQ2WTh3ZzU0VTk4Z3E3TWZMYU5HSEE1aFhtQkF5Z2JXQkJnTjZiZlVPTFo1ZjlkRlJ3YlRIcF9qZWlxOUNjSzdZNDhWdkJOM3pNaUxQTVhIVEVuY29BbjlVMDM3VkI0RV9FeTBoTm55REx2V1RUODRWRXJqcVRjbldFVVNQYXlTNVMxQ1pEVDMzSnJrVllTRy1TbHVCNTEza1BkQjY5UQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T12:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
