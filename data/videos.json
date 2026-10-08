@@ -1,27 +1,6 @@
 {
  "items": [
   {
-   "id": "7692555720436256018",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7692555720436256018",
-   "caption": "ישיבת רמת גן לְעוֹרֵר לִבִּי לְאַהֲבָתֶךָ",
-   "posted": "1791062714",
-   "found": "2026-10-03T21:27:55Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7692552707361574162",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7692552707361574162",
-   "caption": "שדרות 3 שנים אחרי האסון:",
-   "posted": "1791062005",
-   "found": "2026-10-03T21:28:16Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692552707361574162.txt"
-  },
-  {
    "id": "7692563751391776018",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4484,12 +4463,33 @@
    "found": "2026-10-08T15:36:53Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694319516444069140.txt"
+  },
+  {
+   "id": "7694321026167049492",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7694321026167049492",
+   "caption": "יובל נפצע אנושות בשבעה באוקטובר - וזה הסיפור שלו #צהל #מלחמה #חיילים ",
+   "posted": "1791473726",
+   "found": "2026-10-08T15:52:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694321026167049492.txt"
+  },
+  {
+   "id": "7694324768824118536",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694324768824118536",
+   "caption": "נשיא המדינה העניק את אות הגבורה האזרחית לששת הנוסעים שסיכלו את ניסיון...",
+   "posted": "1791474595",
+   "found": "2026-10-08T15:52:34Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-08T15:37:06Z",
+  "at": "2026-10-08T15:52:48Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 2
  }
 }
