@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T10:42:05.076Z",
+ "updated": "2026-10-08T10:53:39.637Z",
  "items": [
+  {
+   "id": "f1f6fd56a5a1",
+   "kind": "headline",
+   "title": "מגמה מעורבת בתל אביב; דוניץ צוללת ב-12% במחזור מסחר ענק",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T10:48:00.000Z",
+   "summary": "ת\"א 35 יורד בכ-1%, מדד ת\"א 90 מטפס בכ-0.3% • מניות השבבים נובה וטאואר מאבדות גובה • יו\"ר נקסט ויז'ן בעקבות הנפילה במניה: \"יש ביקוש חזק הן בטווח המיידי והן בטווח הארוך\" • פי.סי.בי רוכשת את Gorilla Circuits בארה\"ב לפי שווי פעילות של 120 מיליון דולר • ירידות בחוזים בניו יורק • אחרי השיאים בוול סטריט:…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "85bbd672f83e",
    "kind": "headline",
@@ -5620,22 +5634,6 @@
    "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
    "topic": "world",
    "published": "2026-10-06T16:03:08.000Z",
-   "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [
-    "The New York Times"
-   ],
-   "important": false
-  },
-  {
-   "id": "55bcdcccee74",
-   "kind": "headline",
-   "title": "Spain Clears Way for Separatist Leader to Return to Catalonia",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
-   "topic": "world",
-   "published": "2026-10-06T16:03:07.000Z",
    "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg",
    "score": 0,
