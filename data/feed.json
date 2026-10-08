@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T23:01:00.638Z",
+ "updated": "2026-10-08T23:13:29.107Z",
  "items": [
   {
    "id": "37c93e0f7c8e",
@@ -628,6 +628,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e98110e577ae",
+   "kind": "headline",
+   "title": "ToI poll: Anti-Netanyahu bloc regains lead but both camps short of majority 19 days ahead of vote",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3V5M0dIeE5hUEJWMWdzVWM3UjRNQnQ1a09qMkRDQVlveVcybHRQaU0yOU8wUXJuRWZGVGl3Ums0ZDljcWJpN2ZRRy1LNHdrYUpFWFJFQTVLbTQ3VHhrU0l4UDM0amFycndocUowUWotSFo3aEgydTRsUW5LaHNwdmN2bXgwT21GRXdfdkN0ZXZIMFdDdUl3UFVRQlBrWE03R3FWcGlSQ3B1UHFQR1BuR0VBaGZqYXRRb3JUVtIBwgFBVV95cUxNSG5XVXY5a0w3MDQ4VjJYczNGTG9COW13aUNrUUNUa2cxYnl4M0drY1FVcVllMTU4by1YZkZhaWxucUhpUEdNUGF1Y1VSRzNCR05FVHpFMUtqeWxqMUJDcy1rTmJpdzBmcm9qZnJNa3ZRejBqLWpBMXpxcE9OSXI3T0txOUtETDZwaVJKRnItaF9ERFF4Rl9FamNhbjNjdVJ4aHZuWjBVUEpHMVJUYnBWNUNBZWRBeU5Zdkt5YTE4eHZ3dw?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-08T16:19:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5628,20 +5642,6 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "154d494e7c36",
-   "kind": "headline",
-   "title": "ת\"א ננעלה בירידות חדות; מדד הקלינטק נפל, מדד נפט וגז זינק",
-   "source": "גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KQm9pVjBsdlk2OG9wbmtubTJzcTJuTEZZV3gwdzBmNlEtUVlMRkVleVE0QTBISl9WOE9ud2JFQWlsbDdGUGNrX05DcFhva3ltT3poWU43eW5HZWtMNHNhcmd2aWxjWUNo?oc=5",
-   "topic": "econ",
-   "published": "2026-10-07T09:53:12.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
