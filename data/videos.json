@@ -1,28 +1,6 @@
 {
  "items": [
   {
-   "id": "7692715871159979271",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692715871159979271",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791099995",
-   "found": "2026-10-04T07:50:54Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692715871159979271.txt"
-  },
-  {
-   "id": "7692717398805253383",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692717398805253383",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791100352",
-   "found": "2026-10-04T08:06:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692717398805253383.txt"
-  },
-  {
    "id": "7692723434417179912",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4475,12 +4453,34 @@
    "found": "2026-10-08T17:07:17Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694340635377044757.txt"
+  },
+  {
+   "id": "7694343573088554241",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694343573088554241",
+   "caption": "תשע שנים הם היו בלתי נפרדים. גדלו יחד בירושלים, שיחקו כדורגל, דיברו ב...",
+   "posted": "1791478974",
+   "found": "2026-10-08T17:23:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694343573088554241.txt"
+  },
+  {
+   "id": "7694346286610255111",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7694346286610255111",
+   "caption": "פרק שביעי: מפלגת ״עמך ישראל״ בראשות עופר וינטר. האם אתם מצביעים למפלג...",
+   "posted": "1791479604",
+   "found": "2026-10-08T17:25:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694346286610255111.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T17:07:45Z",
+  "at": "2026-10-08T17:25:47Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
