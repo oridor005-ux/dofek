@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65613,
+   "lastId": 65614,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:05.684Z"
+   "checkedAt": "2026-10-08T09:19:27.282Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:06.344Z"
+   "checkedAt": "2026-10-08T09:19:27.999Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:07.023Z"
+   "checkedAt": "2026-10-08T09:19:28.838Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:07.687Z"
+   "checkedAt": "2026-10-08T09:19:29.493Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:08.318Z"
+   "checkedAt": "2026-10-08T09:19:30.137Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:08.951Z"
+   "checkedAt": "2026-10-08T09:19:34.119Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:09.545Z"
+   "checkedAt": "2026-10-08T09:19:34.777Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131555,
+   "lastId": 131558,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:10.354Z"
+   "checkedAt": "2026-10-08T09:19:35.591Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74843,
+   "lastId": 74844,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:10.889Z"
+   "checkedAt": "2026-10-08T09:19:36.152Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:11.560Z"
+   "checkedAt": "2026-10-08T09:19:36.884Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T09:07:12.308Z"
+   "checkedAt": "2026-10-08T09:19:37.737Z"
   }
  },
  "posts": [
@@ -3759,13 +3759,41 @@
    "date": "2026-10-08T09:06:15+00:00",
    "text": "🔴 הרשות השנייה פתחה בהליך בעקבות התבטאויות ינון מגל נגד משפחות שכולות\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65614",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65614",
+   "date": "2026-10-08T09:16:25+00:00",
+   "text": "נשיא העליון עמית מתנצל על אמירתו על החרדים שמחזיקים טלפון כשר ולידו טלפון חכם",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131558",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131558",
+   "date": "2026-10-08T09:14:02+00:00",
+   "text": "טורקיה: הפגנות תמיכה ב\"טופאן אלאקצא\" - טבח ה 7.10, של חמאס בערים שונות ברחבי המדינה.\nבהפגנות השתתפו נושאי משרה רשמיים כמו ראשי ערים.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74844",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74844",
+   "date": "2026-10-08T09:16:33+00:00",
+   "text": "🔴 פולין: הרוג ושני פצועים בדקירה בבית ספר - ע\"י תלמיד לשעבר בן 15\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T09:07:12.709Z",
+  "at": "2026-10-08T09:19:38.137Z",
   "ok": 11,
   "fail": 0,
-  "added": 4,
-  "pendingNew": 216
+  "added": 3,
+  "pendingNew": 219
  }
 }
