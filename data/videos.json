@@ -4215,12 +4215,44 @@
    "found": "2026-10-08T07:48:06Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694197504732187922.txt"
+  },
+  {
+   "id": "7694201890816544020",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694201890816544020",
+   "caption": "אנשי 'הפלג הירושלמי' צפויים לחסום היום שורה של מוקדים מרכזיים בירושלי...",
+   "posted": "1791445987",
+   "found": "2026-10-08T08:11:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694201890816544020.txt"
+  },
+  {
+   "id": "7694204159561583878",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7694204159561583878",
+   "caption": "\"אי פעם רציתי לרצוח אותך? את אחותי\": עימות סוער באולפן מול השר בן גבי...",
+   "posted": "1791446512",
+   "found": "2026-10-08T08:12:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694204159561583878.txt"
+  },
+  {
+   "id": "7694206278914166034",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694206278914166034",
+   "caption": "הרב הראשי לישראל לשעבר, הרב יצחק יוסף, יצא למתקפה חריפה נגד השר לביטח...",
+   "posted": "1791447010",
+   "found": "2026-10-08T08:12:28Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-08T07:48:29Z",
+  "at": "2026-10-08T08:12:45Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 5
+  "transcribed": 3
  }
 }
