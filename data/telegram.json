@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65601,
+   "lastId": 65602,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:33.352Z"
+   "checkedAt": "2026-10-08T06:33:03.308Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:33.998Z"
+   "checkedAt": "2026-10-08T06:33:03.983Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:34.625Z"
+   "checkedAt": "2026-10-08T06:33:04.611Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11444,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:35.276Z"
+   "checkedAt": "2026-10-08T06:33:05.238Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19311,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:36.051Z"
+   "checkedAt": "2026-10-08T06:33:05.881Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:36.688Z"
+   "checkedAt": "2026-10-08T06:33:06.512Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:37.405Z"
+   "checkedAt": "2026-10-08T06:33:07.142Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131548,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:38.073Z"
+   "checkedAt": "2026-10-08T06:33:07.854Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74827,
+   "lastId": 74828,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:38.619Z"
+   "checkedAt": "2026-10-08T06:33:08.388Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:39.330Z"
+   "checkedAt": "2026-10-08T06:33:09.036Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T06:21:40.032Z"
+   "checkedAt": "2026-10-08T06:33:09.766Z"
   }
  },
  "posts": [
@@ -3416,13 +3416,31 @@
    "date": "2026-10-08T06:13:36+00:00",
    "text": "🔴 שר החוץ: הקונסוליה הבריטית במזרח ירושלים נסגרה, 7 דיפלומטים יישארו\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65602",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65602",
+   "date": "2026-10-08T06:25:15+00:00",
+   "text": "הבריטים לא נסוגים מהכוונה לקדם סנקציות, תהליך שייקח 6-9 חודשים, ולכן נסגרה הקונסוליה.\nהשינוי הוא שבתמורה להשארת קומץ דיפלומטים במבנה ושנמוך הנוכחות הבריטית בירושלים, יבוטל גירוש דיפלומטים ישראלים מלונדון ויתקיימו שיחות.\nהבריטים מקווים שממשלה חדשה תחזיר את הקונסוליה למעמדה הקודם.",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74828",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74828",
+   "date": "2026-10-08T06:23:24+00:00",
+   "text": "🔴 בריטניה: \"הקונסוליה לא נסגרת, אלא משנה את שמה. נמשיך להעניק שם שירות\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T06:21:40.433Z",
+  "at": "2026-10-08T06:33:10.166Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 178
+  "added": 2,
+  "pendingNew": 180
  }
 }
