@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65616,
+   "lastId": 65617,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:42.383Z"
+   "checkedAt": "2026-10-08T09:55:09.463Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:43.110Z"
+   "checkedAt": "2026-10-08T09:55:10.186Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:43.820Z"
+   "checkedAt": "2026-10-08T09:55:10.855Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:44.556Z"
+   "checkedAt": "2026-10-08T09:55:11.557Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:45.272Z"
+   "checkedAt": "2026-10-08T09:55:12.241Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:45.979Z"
+   "checkedAt": "2026-10-08T09:55:13.030Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:46.722Z"
+   "checkedAt": "2026-10-08T09:55:13.752Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131559,
+   "lastId": 131560,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:47.562Z"
+   "checkedAt": "2026-10-08T09:55:14.508Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74848,
+   "lastId": 74851,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:48.174Z"
+   "checkedAt": "2026-10-08T09:55:15.147Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:48.989Z"
+   "checkedAt": "2026-10-08T09:55:15.870Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T09:42:49.824Z"
+   "checkedAt": "2026-10-08T09:55:16.616Z"
   }
  },
  "posts": [
@@ -3843,13 +3843,58 @@
    "date": "2026-10-08T09:38:38+00:00",
    "text": "🔴 אוקראינה: שלושה הרוגים במתקפה רוסית בקייב\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65617",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65617",
+   "date": "2026-10-08T09:43:39+00:00",
+   "text": "דרמר תומך בהחלטת סער לסגור את הקונסוליה - אך להשאיר שם 7 דיפלומטים שימשיכו לעבוד:\nזו דרך שתמזער את הנזק הדיפלומטי ותשאיר את ישראל עם כלים להגיב לפעולות נוספות של בריטניה נגדנו או לשיפור יחסי ישראל-בריטניה אם זו תשנה כיוון.",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131560",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131560",
+   "date": "2026-10-08T09:43:45+00:00",
+   "text": "דובר צה\"ל: \nצה\"ל תקף במרחב חאן יונס שברצועת עזה מוקדם יותר השבוע (ב'), וחיסל את אבראהים עלאם, מפקד בזרוע הצבאית של ארגון הטרור חמאס. \nהמחבל פשט לשטח מדינת ישראל בטבח 7 באוקטובר, ולקח חלק ברציחתם של אזרחים ישראלים רבים, בנוסף לחטיפת גופתו של סמל שקד דהן ז\"ל לשבי החמאס\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74849",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74849",
+   "date": "2026-10-08T09:42:57+00:00",
+   "text": "🔴 רימון רסס הושלך לבית בקריית גת: נזק בלוני גז ואין נפגעים, הרקע פלילי\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74850",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74850",
+   "date": "2026-10-08T09:45:21+00:00",
+   "text": "🔴 התקיפה במזרח אוקראינה: מניין ההרוגים עלתה ל-30\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74851",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74851",
+   "date": "2026-10-08T09:53:03+00:00",
+   "text": "🔴 22-15 שנות מאסר לנאשמים ברצח איה אבו חג'אג' לעיני ילדיה בלוד ב-2023\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T09:42:50.224Z",
+  "at": "2026-10-08T09:55:17.016Z",
   "ok": 11,
   "fail": 0,
-  "added": 4,
-  "pendingNew": 225
+  "added": 5,
+  "pendingNew": 230
  }
 }
