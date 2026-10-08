@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T07:08:11.843Z",
+ "updated": "2026-10-08T07:19:46.920Z",
  "items": [
+  {
+   "id": "00e78fa40053",
+   "kind": "headline",
+   "title": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html",
+   "topic": "world",
+   "published": "2026-10-08T07:10:00.000Z",
+   "summary": "Abhijeet Dipke started the movement as a joke. But after ousting a minister over a dysfunctional college entrance exam system, India’s youth say they now want to save democracy.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/INT-INDIA-COCKROACHES-01-hwfp/INT-INDIA-COCKROACHES-01-hwfp-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a757af8fdc65",
    "kind": "headline",
@@ -5628,22 +5642,6 @@
    "image": "",
    "score": 2,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3199b57c25cd",
-   "kind": "headline",
-   "title": "קפיטוליס גייסה 220 מיליון דולר בהון ובחוב לפי שווי של 1.9 מיליארד דולר",
-   "source": "Calcalist",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhOTlZNjI1T2tHMGduQ3lrNU1NMXEzamdpV2VNMGdzVkV5OFlZenh6WHZvS0g5b2lUdmFCT1NSV2l1ZGdyU3dOWDl1LVdPbjJRdVl5dmljaDJFMkpRWmpsVTgyT1ZkV25Ucl9v?oc=5",
-   "topic": "deals",
-   "published": "2026-10-06T12:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "Techtime"
-   ],
    "important": false
   }
  ]

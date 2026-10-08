@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65602,
+   "lastId": 65603,
    "ok": true,
-   "checkedAt": "2026-10-08T06:56:58.942Z"
+   "checkedAt": "2026-10-08T07:08:33.262Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-08T06:56:59.640Z"
+   "checkedAt": "2026-10-08T07:08:33.949Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:00.263Z"
+   "checkedAt": "2026-10-08T07:08:34.644Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11444,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:00.923Z"
+   "checkedAt": "2026-10-08T07:08:35.383Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19311,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:01.588Z"
+   "checkedAt": "2026-10-08T07:08:36.084Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:02.526Z"
+   "checkedAt": "2026-10-08T07:08:36.867Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:03.172Z"
+   "checkedAt": "2026-10-08T07:08:37.568Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131549,
+   "lastId": 131550,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:03.875Z"
+   "checkedAt": "2026-10-08T07:08:38.384Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74830,
+   "lastId": 74831,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:04.456Z"
+   "checkedAt": "2026-10-08T07:08:39.014Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:05.166Z"
+   "checkedAt": "2026-10-08T07:08:39.767Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T06:57:05.945Z"
+   "checkedAt": "2026-10-08T07:08:40.481Z"
   }
  },
  "posts": [
@@ -3461,13 +3461,42 @@
    "date": "2026-10-08T06:53:16+00:00",
    "text": "🔴 תושב יפו יואשם ברצח מוחמד קטואן לפני כחודש\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65603",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65603",
+   "date": "2026-10-08T07:05:58+00:00",
+   "text": "ח״כ מירב בן ארי מציגה היטב את החשש של בנט: אם נכריז על מועמד אחד מטעם הגוש - אתם תלכו אליו, זה שולף לנו את השטיח",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131550",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131550",
+   "date": "2026-10-08T06:58:27+00:00",
+   "text": "עיתונאים עזתיים מדווחים על ירי טנק של צה\"ל לעבר מבנה בצפון מערב רפיח (אזור המואצי). ע\"פ מקורות אלו דווח על ירי פצצות עשן ומסוק שמפטרל מלמעלה.\nלטענת עיתונאים מקורבי חמאס פעילי המיליציות של ע'סאן א-דהיני נתקלו במארב של פעילי חמאס וכוחות צה\"ל מסייעים להם להיחלץ.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74831",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74831",
+   "date": "2026-10-08T07:02:31+00:00",
+   "text": "🔴 אישום בבריטניה: איש הצי המלכותי \"תכנן לחשוף מידע מוגן לטובת מעצמה זרה\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T06:57:06.346Z",
+  "at": "2026-10-08T07:08:40.881Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 183
+  "added": 3,
+  "pendingNew": 186
  }
 }
