@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T03:57:54.091Z",
+ "updated": "2026-10-08T04:01:03.868Z",
  "items": [
+  {
+   "id": "7bb786aac4f5",
+   "kind": "headline",
+   "title": "ירידות באסיה ויציבות בחוזים בוול סטריט; מחירי הנפט ממשיכים לטפס",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T03:58:00.000Z",
+   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: ירידות באסיה, סמסונג דיווחה הבוקר על זינוק של כמעט פי תשעה ברווח התפעולי • אחרי הירידות אתמול יציבות בחוזים בוול סטריט • מחירי הנפט ממשיכים לטפס, 102 דולר לחבית • המיליארדר שמזהיר: בועת ה-AI עומדת להתפוצץ",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783424919/direct/2026-07-03T000000Z_1953503890_MT1NURPHO000NDVEX6_RTRMADP_3_SOUTH-KOREA-STOCKS-REBOUND_zomlpx.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2ad30559e87a",
+   "kind": "headline",
+   "title": "5 Takeaways From the First Iowa Senate Debate",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/us/politics/iowa-senate-debate-ashley-hinson-josh-turek.html",
+   "topic": "world",
+   "published": "2026-10-08T03:56:51.000Z",
+   "summary": "In a top Senate battleground, Representative Ashley Hinson, the Republican nominee, sparred with Josh Turek, her Democratic rival, on policy issues ranging from Medicaid to term limits.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07pol-iowa-takeaways-wlbg/07pol-iowa-takeaways-wlbg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "45eba5b0b6b8",
    "kind": "headline",
@@ -75,6 +103,20 @@
    "id": "1faf28e9822d",
    "kind": "headline",
    "title": "Israel must carry out British consulate closure after sanctions, op-ed says",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FQWVZTTQ5M0ZXWlJoajQybjllT0VCVTVFUE9PeW5lSGJUZVdPSWVhVnI0OU1WOGRPNzB4aV9tWnh1NG9OajlZSjQxX0cwYmxJamhoMVpETQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T02:58:57.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "268ea282c149",
+   "kind": "headline",
+   "title": "Israel must follow through on British consulate closure after Miliband sanctions - editorial",
    "source": "The Jerusalem Post",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FQWVZTTQ5M0ZXWlJoajQybjllT0VCVTVFUE9PeW5lSGJUZVdPSWVhVnI0OU1WOGRPNzB4aV9tWnh1NG9OajlZSjQxX0cwYmxJamhoMVpETQ?oc=5",
    "topic": "world",
@@ -310,6 +352,20 @@
    "important": false
   },
   {
+   "id": "94406cadb39e",
+   "kind": "headline",
+   "title": "Liberals look to amend 31 laws at once in attempt to reduce red tape",
+   "source": "CBC",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObmZsM0tRcUxoWlhuNUVpdFlXTmZGbWlpT0RuRHMwYS14ODlraWxHaDhTbUxtczBjRlk2MUhsZW5GTlA4dmZVUXMwSEZKdERNbEx5cmVBY0ZNT3pNNFMwLWpCZl9HVm9aLVh1VlJXUDNPQzhtdXZZRlRpdE9NZ0o3Yw?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T21:57:10.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "20ffd89e390b",
    "kind": "headline",
    "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
@@ -468,6 +524,20 @@
    "alsoIn": [
     "The New York Times"
    ],
+   "important": false
+  },
+  {
+   "id": "ef45e4737e1f",
+   "kind": "headline",
+   "title": "Former Shiloh mayor explains Israel’s resilience and healing work after Oct. 7",
+   "source": "KATU",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQMkpFQWhtR1ZjcU8xNGhJSDF6Zm5TMkhTZkpsSGpqUEtSVi1uSmhRRk8zVjkwNzFGUTVHVVk0Wm5Ld2NWOUNCaVpJVVVjVTI4clB0bFN6a1RYUkdqRS12TTdYZ1N2Y2Y1UExEYU5OalB2YUloVC1rWVpsNVU2T0xGaWhqNjZFcFlPZDZ2WVlUZXhWSjg3SURyalkwa0VpVEljU1pQN1F5OENuRXM5RUpQRUhmNU14cUUwWGJXT1lRdDFoU240M0dGNk9XMVZydVhNOVU0bTZwVE5UalNEOGF0MFNLaGFRc3BHNnZ6QjVWSWV1bEtRcEY5Zkd0YnBaeXN2ckhGQUEtZnNUQ1RFWDB0djQzakpMLWpwbmxCbE9NbndSOW8zMlQ3VEFzYw?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-07T19:36:28.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5578,76 +5648,6 @@
    "published": "2026-10-06T10:21:25.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "25008621053e",
-   "kind": "headline",
-   "title": "\"נפל עלינו בהפתעה\": יו\"ר נקסט ויז'ן מגיב למימוש הענק ומנסה להרגיע",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558543#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T10:20:00.000Z",
-   "summary": "חן גולן, יו\"ר נקסט ויז'ן, יצרנית המצלמות המיוצבות לרחפנים, מתייחס למכירת המניות של קרן ההשקעות האמריקאית בהיקף של כ-450 מיליון דולר: \"קיבלנו את זה בהפתעה, כמו כל השוק\"",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786354401/RAM07677_fuyzxi.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f92172e94b6f",
-   "kind": "headline",
-   "title": "The Rada was urged not to delay the language bill: what new guarantees for the Ukrainian language may be introduced",
-   "source": "Судово-юридична газета",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS3VnaTJUSDFwQVZLSW5uWEhVRlZjaVhkUG1ZdWNSQk80TFJRNWN3ZXhkbS1WcnNoTnZfQnBrY2dwWG1vc0xlSElRbVlhZDh2UzRHN2c0RDliOEIxRTlsMjRxd3BBZ241YU9wb21XaFl1QTR0M0N0LW5NMWtmLURPR1BuRG1Bcml5d0JIaDNvN3pvVHotZVBpdmJONWhpZzJkaGVneU9Ua2FwZ2ZVRV9Mb3hSalEtSFpZT1hIb2NqMUhBRmltYXFYR1ItNFhqLVptcC1WX09pNTRSX1FFY1A0STRBUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T10:19:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6b84c7ac92c1",
-   "kind": "headline",
-   "title": "Spain elections stall nationality law for Sahrawis",
-   "source": "Yabiladi.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQnZLN1NiY3J1X2JjcVpaQUV1RHAtV3E1cXZoUzBldUVLZXNfRG5kdFFqRVM1R2VYR2RGRzZKVkFXTGRjUnVaR2VMNTE4b1ZuVVh6Z0xmNTNGeUx2bTRQcG1LSG1nRFVLZEVyaWJ4aG9JSExJd2F5VUZheW40SXk5Skt4eWFtMGYyczJ2MkdiZ2hobnhMQnRFY3pocw?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T10:14:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8b258ede697f",
-   "kind": "headline",
-   "title": "Why Spanish PM calls early election and what comes next?",
-   "source": "Macau Business",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEtXWVJQY2NQUUR4TFVpYTB0bkkwS2xwRGZHbXFHQUpVdWtlMGRNM2stY3JYa0lGaGhjc0x3RExSTEVuVGVCOUdxa3dPakstczNQclkxaHdOR3VTZ0U5V1NhVlRwNEtJN1BIOHkxWlNOTDZwNVIyVGtuLVZwTFNIdEdiejRhRGkwb2c?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T10:10:17.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "120726675754",
-   "kind": "headline",
-   "title": "Indian opposition MPs detained in protest against election chief",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-10-06T10:05:22.000Z",
-   "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0e/live/d31f47a0-c16b-11f1-a003-8be783290413.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
