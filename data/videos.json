@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "7692053111870852373",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7692053111870852373",
-   "caption": "מגבירים קצב, כל הדרך לתיקון 🇮🇱 @יונתן שלו  #ריצה #ישראל ",
-   "posted": "1790945680",
-   "found": "2026-10-03T10:56:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692053111870852373.txt"
-  },
-  {
-   "id": "7691583104795823381",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7691583104795823381",
-   "caption": "גם לאהרון מבני ברק מגיע לדעת אנגלית>> #פוליטיקה #ישראל #בניברק #אנגלית ",
-   "posted": "1790836252",
-   "found": "2026-10-03T10:56:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7691583104795823381.txt"
-  },
-  {
-   "id": "7691213464882253077",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7691213464882253077",
-   "caption": "פרלמנט בני ברק בלי צנזורה. נמשיך להילחם כדי לקיים שיח אמיתי עם כל חלק...",
-   "posted": "1790750192",
-   "found": "2026-10-03T10:59:48Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7691213464882253077.txt"
-  },
-  {
-   "id": "7691363872501992710",
-   "channel": "idaneretz",
-   "name": "idaneretz",
-   "url": "https://www.tiktok.com/@idaneretz/video/7691363872501992710",
-   "caption": "מצר הורמוז פתוח! סוג של",
-   "posted": "1790785235",
-   "found": "2026-10-03T11:01:06Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691363872501992710.txt",
-   "insightIds": [
-    "ins-2026-10-03-sa6m"
-   ]
-  },
-  {
-   "id": "7691718642517429525",
-   "channel": "guyzo",
-   "name": "guyzo",
-   "url": "https://www.tiktok.com/@guyzo/video/7691718642517429525",
-   "caption": "השר בן גביר מתגאה ששיפר את חיי הנשים בישראל. הנשים שואלות אם הוא ראה ...",
-   "posted": "1790867807",
-   "found": "2026-10-03T11:01:54Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691718642517429525.txt",
-   "insightIds": [
-    "ins-2026-10-03-gz46"
-   ]
-  },
-  {
-   "id": "7691359057889774869",
-   "channel": "guyzo",
-   "name": "guyzo",
-   "url": "https://www.tiktok.com/@guyzo/video/7691359057889774869",
-   "caption": "מיהו חרדי? לפי חן ארצי סרור, זה מי שלא משקר לגבי המנוי לנטפליקס #מהצד...",
-   "posted": "1790784086",
-   "found": "2026-10-03T11:03:48Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691359057889774869.txt",
-   "insightIds": [
-    "ins-2026-10-03-gk75"
-   ]
-  },
-  {
    "id": "7692018887994428680",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4524,12 +4449,77 @@
    "found": "2026-10-08T12:04:39Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694243601601088789.txt"
+  },
+  {
+   "id": "7694268491658136839",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7694268491658136839",
+   "caption": "⚠️זהירות - שמאלנים⚠️ #פוליטיקה #בחירות #עושיםסדר #הדמוקרטים ",
+   "posted": "1791461492",
+   "found": "2026-10-08T12:19:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694268491658136839.txt"
+  },
+  {
+   "id": "7694269554406526215",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694269554406526215",
+   "caption": "תקרית חריגה בנתב\"ג: השרה מאי גולן קיבלה פטור מבידוק בדרכה לצ'כיה – וה...",
+   "posted": "1791461741",
+   "found": "2026-10-08T12:19:51Z",
+   "status": "failed"
+  },
+  {
+   "id": "7694267586694909202",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694267586694909202",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791461282",
+   "found": "2026-10-08T12:20:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694267586694909202.txt"
+  },
+  {
+   "id": "7694266183503203602",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694266183503203602",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791460958",
+   "found": "2026-10-08T12:21:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694266183503203602.txt"
+  },
+  {
+   "id": "7694245787345095956",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7694245787345095956",
+   "caption": "סרטון של ילד עזתי, לפי הרשתות זה מהשבוע האחרון. 3 שנים לשבעה באוקטובר...",
+   "posted": "1791456205",
+   "found": "2026-10-08T12:21:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694245787345095956.txt"
+  },
+  {
+   "id": "7694267735638887701",
+   "channel": "radio103fm",
+   "name": "radio103fm",
+   "url": "https://www.tiktok.com/@radio103fm/video/7694267735638887701",
+   "caption": "כל האמת בפרצוף >> @margolofficial #גיאפלג @haron_haron5",
+   "posted": "1791461313",
+   "found": "2026-10-08T12:22:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694267735638887701.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T12:04:48Z",
-  "channelsOk": 23,
-  "channelsFail": 0,
-  "transcribed": 3
+  "at": "2026-10-08T12:22:05Z",
+  "channelsOk": 22,
+  "channelsFail": 1,
+  "transcribed": 6
  }
 }
