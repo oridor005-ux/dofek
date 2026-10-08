@@ -3255,7 +3255,7 @@
    "caption": "דווקא היום: הפעילה היהודיה הניפה דגל ישראל - המפגינים באוניברסיטת ״סי...",
    "posted": "1791395153",
    "found": "2026-10-07T17:58:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693983561073855764.txt"
   },
   {
@@ -3266,7 +3266,7 @@
    "caption": "",
    "posted": "1791395226",
    "found": "2026-10-07T17:59:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693983873536920853.txt"
   },
   {
@@ -3277,7 +3277,7 @@
    "caption": "המפגינים האנטי ישראלים הם חבורת פחדנים שלא מעיזים לעמוד מולי ולהסתכל ...",
    "posted": "1791395363",
    "found": "2026-10-07T18:00:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693984456058703124.txt"
   },
   {
@@ -3288,7 +3288,7 @@
    "caption": "התיעודים הראשונים | ״אתם של ישראל? תקחו אותנו!״: ריאיון עם רמי כהן, ש...",
    "posted": "1791396846",
    "found": "2026-10-07T18:24:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693990828032707858.txt"
   },
   {
@@ -3299,8 +3299,11 @@
    "caption": "נתניהו הזהיר אותנו? או ששוב ניצלו הזדמנות להגיד אמרנו לכם? #חדשות #מה...",
    "posted": "1791399324",
    "found": "2026-10-07T18:57:15Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694001456977808661.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694001456977808661.txt",
+   "insightIds": [
+    "ins-2026-10-06-hjck"
+   ]
   },
   {
    "id": "7693999790442417416",
@@ -3310,7 +3313,7 @@
    "caption": "3 שנים אחרי: צוות זק״א חזר לזירת 7.10 לאסוף את הממצאים של צורי חג׳בי ז״ל",
    "posted": "1791398940",
    "found": "2026-10-07T18:58:42Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693999790442417416.txt"
   },
   {
@@ -3321,7 +3324,7 @@
    "caption": "התיעודים הראשונים | ״אני מבין שהטלפון המצלם הוא כלי נשק יותר חשוב מהא...",
    "posted": "1791394612",
    "found": "2026-10-07T19:10:22Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7693981238020902162.txt"
   },
   {
@@ -3332,7 +3335,7 @@
    "caption": "בטקס הזיכרון הלאומי של “קומו” ומשפחות 7 באוקטובר נשא דברים עמרי שפרונ...",
    "posted": "1791401243",
    "found": "2026-10-07T19:37:26Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694009711817018645.txt"
   },
   {
@@ -3343,7 +3346,7 @@
    "caption": "\"חד משמעית אשם - אבל בואו נדבר על השב\"כ\": רום ברסלבסקי בראיון ללא פיל...",
    "posted": "1791400152",
    "found": "2026-10-07T19:39:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694005040956083462.txt"
   },
   {
@@ -3354,7 +3357,7 @@
    "caption": "3 שנים לשבעה באוקטובר: מי שמתעסק עם עם הנצח, גוזר על עצמו חורבן והרס ...",
    "posted": "1791401555",
    "found": "2026-10-07T19:39:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694011045920214290.txt"
   },
   {
@@ -3375,7 +3378,7 @@
    "caption": "העצב אין לו סוף: קטע מתוך טקס הזיכרון הלאומי של משפחות 7 באוקטובר, שק...",
    "posted": "1791402915",
    "found": "2026-10-07T19:57:41Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694016898970684693.txt"
   },
   {
@@ -3386,7 +3389,7 @@
    "caption": "עודד הרוש מודה: \"לא האמנתי שכל החטופים יחזרו. הייתי קטן אמונה - משפחו...",
    "posted": "1791402697",
    "found": "2026-10-07T19:58:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694015931869334792.txt"
   },
   {
@@ -3397,7 +3400,7 @@
    "caption": "שורד השבי אלי שרעבי שיתף מילים אישיות שכתב לאשתו ליאן ולבנותיו נויה ו...",
    "posted": "1791404135",
    "found": "2026-10-07T20:28:39Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694022124268195093.txt"
   },
   {
@@ -3408,7 +3411,7 @@
    "caption": "\"אני לא רואה את העתיד שלי בטלוויזיה לנצח\" אראל סג\"ל מספר איך המלחמה ש...",
    "posted": "1791411250",
    "found": "2026-10-07T22:24:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694052698227739911.txt"
   },
   {
@@ -3419,7 +3422,7 @@
    "caption": "שתפו! נפגעי הפרלמנטים המזוייפים של נפתלי בנט צרו קשר 🙏 #פוריו #בשבילך...",
    "posted": "1791438789",
    "found": "2026-10-08T05:59:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694170932184763656.txt"
   },
   {
