@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65609,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:24.293Z"
+   "checkedAt": "2026-10-08T08:19:56.430Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
-   "lastId": 7258,
+   "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:25.043Z"
+   "checkedAt": "2026-10-08T08:19:57.124Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:25.652Z"
+   "checkedAt": "2026-10-08T08:19:57.789Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
-   "lastId": 11445,
+   "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:26.282Z"
+   "checkedAt": "2026-10-08T08:19:58.436Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:26.925Z"
+   "checkedAt": "2026-10-08T08:19:59.083Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:27.637Z"
+   "checkedAt": "2026-10-08T08:19:59.754Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:28.291Z"
+   "checkedAt": "2026-10-08T08:20:00.370Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131553,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:28.982Z"
+   "checkedAt": "2026-10-08T08:20:01.146Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74836,
+   "lastId": 74837,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:29.534Z"
+   "checkedAt": "2026-10-08T08:20:01.708Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:30.197Z"
+   "checkedAt": "2026-10-08T08:20:02.538Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T08:08:30.908Z"
+   "checkedAt": "2026-10-08T08:20:03.231Z"
   }
  },
  "posts": [
@@ -3630,13 +3630,41 @@
    "date": "2026-10-08T08:02:40+00:00",
    "text": "🔴 כסיף: \"ההרשעה לא מפתיעה, המערכת מוטה לחיסול חשבונות בניצוח הכהניסטים\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "bnetanyahu/7259",
+   "channel": "bnetanyahu",
+   "name": "בנימין נתניהו",
+   "url": "https://t.me/bnetanyahu/7259",
+   "date": "2026-10-08T08:09:04+00:00",
+   "text": "אויבי ישראל פועלים להפלת נתניהו. צפו בתחקיר הבוטים המלא של אילה חסון >>",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11446",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11446",
+   "date": "2026-10-08T08:18:12+00:00",
+   "text": "תדמיינו שבניו יורק בזמן עצרת זיכרון בתאריך 11 בספטמבר יעמדו תומכי טרור ויניפו תמונה של בן לאדן.\nאז אתמול בניו יורק, בעצרת זיכרון לטבח השבעה באוקטובר, הניפו מפגינים תומכי טרור תמונה של יחיא סינוואר.\nתומכי הטרור כבשו את ניו יורק, וככה גם ברחבי אמריקה ואירופה! והעולם בטיפשותו שותק.\nImagine if, during a September 11th memorial rally in New York, terror supporters stood there waving a picture of Bin Laden.\nWell, yesterday in New York at a memorial rally for the October 7th massacre pro-terror demonstrators waved a picture of Yahya Sinwar.\nTerror supporters have taken over New York, and the same is happening across America and Europe! \nYet the world, demonstrating its utter foolishness, remains silent.",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74837",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74837",
+   "date": "2026-10-08T08:11:46+00:00",
+   "text": "🔴 רומי גונן באתר הנובה: \"כשאני כאן אני יודעת כמה קרובה הייתי ללא לעמוד פה\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T08:08:31.308Z",
+  "at": "2026-10-08T08:20:03.632Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 202
+  "added": 3,
+  "pendingNew": 205
  }
 }

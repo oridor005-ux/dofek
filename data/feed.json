@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-08T08:19:35.882Z",
+ "updated": "2026-10-08T08:31:09.625Z",
  "items": [
+  {
+   "id": "df9cb07332fb",
+   "kind": "headline",
+   "title": "עליות בבורסה בתל אביב; נקסט ויז'ן מטפסת במעל 4%",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T08:22:00.000Z",
+   "summary": "ת\"א 35 עולה בכ-0.2%, מדד ת\"א 90 מתקדם בכ-1% • מניות השבבים נובה וטאואר מאבדות גובה • יו\"ר נקסט ויז'ן בעקבות הנפילה במניה: \"יש ביקוש חזק הן בטווח המיידי והן בטווח הארוך\" • פי.סי.בי רוכשת את Gorilla Circuits בארה\"ב לפי שווי פעילות של 120 מיליון דולר • ירידות בחוזים בניו יורק • אחרי השיאים בוול סטריט:…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "deae5c485884",
+   "kind": "headline",
+   "title": "אירופה מקשיחה את החזית מול סין ונערכת להטלת מסי בזק",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558784#utm_source=RSS",
+   "topic": "world",
+   "published": "2026-10-08T08:20:00.000Z",
+   "summary": "האיחוד האירופי התקשה לגבש תגובה יעילה עם ההצפה הסינית של מוצרים ממכוניות חשמליות ועד מתכות • כעת, גרמניה וצרפת סיכמו על מנגנון שיאפשר להטיל מכסים על סחורה סינית \"בתוך ימים בלבד\" • ההסכמה מגיעה ברקע המו\"מ בין האיחוד לסין שצפוי לארוך חודשים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765469052/direct/2025-09-12T111424Z_1705582216_MT1VCG000K02OLX_RTRMADP_3_VCG_eauaty.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "be37515b466d",
+   "kind": "headline",
+   "title": "\"רגע ChatGPT על סטרואידים\": מניות הקוונטום מנסות להתאושש מקיץ קשוח",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558772#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T08:18:00.000Z",
+   "summary": "למרות הירידות החדות במניות המחשוב הקוונטי, בבנק אוף אמריקה מתארים את התחום כ\"גילוי האש הבא של האנושות\" • בבנק מעריכים כי לוח הזמנים לאימוץ מסחרי של הטכנולוגיה התקצר דרמטית והוא לפני פריצה • האם מניות הקוונטום על סף זינוק בשנת 2027?",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790674689/shutterstock_2747654687_jgz9je.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "26469dea3b8e",
    "kind": "headline",
@@ -5592,50 +5634,6 @@
    "published": "2026-10-06T13:32:00.000Z",
    "summary": "דיווח ב\"ניו יורק טיימס\": 12 מפציצים אמריקאים הוצאו מבסיס חיל האוויר הבריטי פיירפורד בשל חשש למתקפת רחפנים איראנית • הקואליציה בראשות סעודיה הנלחמת בחות'ים: ביצענו \"מבצע צבאי גדול\" במחוז חודידה בתימן • דיווחים שוטפים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1747737796/direct/AP25138543055459_u1a6mm.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7e0c59862dd6",
-   "kind": "headline",
-   "title": "Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/us/politics/senate-majority-pac-democrats.html",
-   "topic": "world",
-   "published": "2026-10-06T13:30:05.000Z",
-   "summary": "Democratic Senate candidates have generally out-raised Republicans, but are struggling to match outside spending from Trump-affiliated groups.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06pol-dem-superpac1-plfw/06pol-dem-superpac1-plfw-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "66ff8204fc65",
-   "kind": "headline",
-   "title": "A decisive phase in shaping Morocco’s new government",
-   "source": "atalayar.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVA2aXVxX3Z3OUZYcHJjUlI4MmR2eFhPQWJ6aUQybndSVXh6Q29haDgyTEdqNGNJcXkzRUdCRXdjakRmNjYxOHdEbkpXa2JQbDZpUnpyRXdRbXlsLWQwcVJtdGRkRVhyWkhxVjFoYUhDbEg1UnBaMWNDM1V6M2phQ0dCSWQzMFZCc09GcVJ1WFl1NmhxdGNERGtOMUFFYzRScmg3NEdyMEFSN09Yd0U3Y2FhQkRYWnVHLVRGNGljQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T13:26:07.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Atalayar"
-   ],
-   "important": false
-  },
-  {
-   "id": "c6a400e3760d",
-   "kind": "headline",
-   "title": "\"בנק ישראל לא יוכל להציל אותנו\": האזהרה הדרמטית לממשלה על פצצת הזמן הכלכלית",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zN3NaTTdrbWJEV0NHUmlqbTg5TGNTb3FPakhUajJDSFNaZmdhQ21DQm5KVkRmSlByS20zVUlaMmpmbkIyRklVSFVVUFQ0Rms0SXEtaWRPdDR1Tk85Nmk3emRKS1ZPZw?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T13:17:00.000Z",
-   "summary": "",
-   "image": "",
    "score": 1,
    "alsoIn": [],
    "important": false
