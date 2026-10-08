@@ -4496,12 +4496,22 @@
    "found": "2026-10-08T11:34:27Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694256561526492423.txt"
+  },
+  {
+   "id": "7694259300679650568",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694259300679650568",
+   "caption": "לאחר שעורר סערה כשטען כי חרדים רבים מחזיקים בטלפון כשר לצד טלפון חכם,...",
+   "posted": "1791459350",
+   "found": "2026-10-08T11:48:05Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-08T11:34:47Z",
+  "at": "2026-10-08T11:48:20Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
