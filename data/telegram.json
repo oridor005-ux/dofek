@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65626,
+   "lastId": 65629,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:31.333Z"
+   "checkedAt": "2026-10-08T13:17:06.003Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:32.031Z"
+   "checkedAt": "2026-10-08T13:17:06.771Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:32.710Z"
+   "checkedAt": "2026-10-08T13:17:07.440Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11449,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:33.399Z"
+   "checkedAt": "2026-10-08T13:17:08.157Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19315,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:34.057Z"
+   "checkedAt": "2026-10-08T13:17:08.941Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:34.752Z"
+   "checkedAt": "2026-10-08T13:17:09.676Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:35.412Z"
+   "checkedAt": "2026-10-08T13:17:10.354Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131575,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:36.123Z"
+   "checkedAt": "2026-10-08T13:17:11.157Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74861,
+   "lastId": 74863,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:36.688Z"
+   "checkedAt": "2026-10-08T13:17:11.767Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:37.355Z"
+   "checkedAt": "2026-10-08T13:17:12.509Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T13:05:38.068Z"
+   "checkedAt": "2026-10-08T13:17:13.275Z"
   }
  },
  "posts": [
@@ -4179,13 +4179,40 @@
    "date": "2026-10-08T12:59:40+00:00",
    "text": "🔴 המחבל שהרג ב-2020 את סמ\"ר עמית בן יגאל נידון למאסר עולם\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65628",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65628",
+   "date": "2026-10-08T13:09:57+00:00",
+   "text": "השב״כ חושף פרשה חמורה: \nבמהלך החודשים מאי ויוני 2026 נעצרו חמישה חשודים תושבי שגב שלום שתכננו לקדם פעילות טרור ולהקים גדוד צבאי ביישוב, בהשראת הגדודים הצבאיים באיו\"ש. \nחברי החוליה תכננו לבצע פיגועים במתווים שונים כגון פיגוע ירי כנגד תחנת משטרה בשגב שלום ופיגוע דקירה וירי בתחנה המרכזית בבאר שבע.",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74862",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74862",
+   "date": "2026-10-08T13:06:48+00:00",
+   "text": "🔴 שינויים בתנועת הרכבת הקלה בירושלים בעקבות הפגנות הפלג הירושלמי\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74863",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74863",
+   "date": "2026-10-08T13:14:07+00:00",
+   "text": "🔴 החלו הפגנות החרדים: הכניסה לירושלים נחסמה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T13:05:38.468Z",
+  "at": "2026-10-08T13:17:13.676Z",
   "ok": 11,
   "fail": 0,
   "added": 3,
-  "pendingNew": 259
+  "pendingNew": 222
  }
 }
