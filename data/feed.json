@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T07:43:51.014Z",
+ "updated": "2026-10-08T07:55:38.744Z",
  "items": [
+  {
+   "id": "6e2719d86b1c",
+   "kind": "headline",
+   "title": "UK says 'vital services' to continue in East Jerusalem as Israel says most consulate diplomats leaving",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-08T07:51:06.000Z",
+   "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af2/live/5079a140-c2df-11f1-bc2e-018d645d8d21.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3fe9193f5652",
+   "kind": "headline",
+   "title": "הבעל זכה בדירה בהגרלה לפני הנישואים, אך בית הדין קבע: היא שייכת לשניהם",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558819#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T07:42:00.000Z",
+   "summary": "הבעל טען כי הזכייה בהגרלת \"מחיר למשתכן\" לפני החתונה הופכת את הדירה לרכושו בלבד, אך בית הדין הרבני קבע כי הזכייה אינה שקולה לבעלות &bull; גם הצהרת האישה לבנק כי אין לה דירה אחרת לא שינתה את התוצאה, והבעל ישלם לה 12 אלף שקל הוצאות משפט",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1693902023/one%20time%20use%20only/shutterstock_655562695-_Converted_a1y65l.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "73d243448f03",
    "kind": "headline",
@@ -122,6 +150,20 @@
    "topic": "econ",
    "published": "2026-10-08T06:50:00.000Z",
    "summary": "כאל מדווחת כי כ-200 אלף לקוחות כבר הצטרפו לכרטיס FlyAll, ומכריזה על סבב הטבות נוסף שנועד לחזק את מעמדה מול פליי קארד של אל על וישראכרט • הפעם, בניגוד למבצעי ההצטרפות הקודמים, בכאל מנסים גם לשמר את הלקוחות שכבר גויסו באמצעות הטבה של 150 דולר",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780491696/COT_Pic/flyall_nmij47_hdvwc7.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d7de0b7b2198",
+   "kind": "headline",
+   "title": "משנה את כללי המשחק: FlyAll תחלק כסף גם למחזיקי אשראי ותיקים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558833#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T06:50:00.000Z",
+   "summary": "כאל מדווחת כי כ-200 אלף לקוחות כבר הצטרפו לכרטיס FlyAll, ומכריזה על סבב הטבות נוסף שנועד לחזק את מעמדה מול פליי קארד של אל על וישראכרט • הפעם, בניגוד למבצעי ההצטרפות הקודמים, בכאל שומרים גם על הלקוחות הותיקים באמצעות הטבה של 150 דולר",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780491696/COT_Pic/flyall_nmij47_hdvwc7.jpg",
    "score": 0,
    "alsoIn": [],
@@ -5598,52 +5640,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4b191b35c4c9",
-   "kind": "headline",
-   "title": "KEY POINTS: How Denmark’s planned new laws will affect foreigners",
-   "source": "The Local Denmark",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeldpVFJ2SVZJdHM5Y3JDNmdXSnRVU2ZyQl82czhIcTlRcHJhVjRCd2toNDJKaXJNLWpDUkdESXpremRTODg2a3Y1NXh2NHVBRllKUjZ4eUxROERFZWtZNmJrZXFndGJROFJJTDJRcmNvenZqU0ZCWGJFX254b1pOdFE1S3JJTXltUTZnTXE0UWVIamQ4OEE2R05lS0pPR1VyVmp1QXVELVZVT3J3THFJ?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T12:37:19.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "19e1b54d5542",
-   "kind": "headline",
-   "title": "Christodoulides insists has ‘no disagreement’ with AG over legal service reform",
-   "source": "Cyprus Mail",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZ5T2lDYUt1Zjg1VDVSY0V3V2ppQnpvVUZrRk13YS1rc3c4empiZHhnOWxZNmM0dFBhdl9VRmZoR0hBU2VFTUxvMmxoSUFiN1BEY0FEbW5QMU5lYW5vVkhObVJhblIwbEdKX19yZUxpaVROTWZvM0U5Y0xCektjWmNlcmg5d2VPcWM0MTFMZmVOTU5ycnoxMnY0MnVra3FtUndaQ1Yxa3prMUpKaWc3TjVB?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T12:35:50.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "cyprus-mail.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "f5a629f6944e",
-   "kind": "headline",
-   "title": "Boeing stock gets a USD 14.7 billion defense contract",
-   "source": "AD HOC NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOU5sbXlyMG5aeG5COGRKd3JkSzJEY2EzbE05X2o1Y2tCZmtCU3JRa0Izend5S2Q5VmhqdVRKclgtWDg2blBnNTh1Um9EaDlBckVRRVYydTdNLU9TTHpvTXpSQmIwSWU0M2pUUUl6U0pDVWZacE41MmJUVEhqcmtQcjVxWGVKLVR4aFVXcU50RU1PNjF0SE1IV3Nsa2w2WEFsdzdMeWQ1NHJQTzFsVWhwWDNOajluX0U?oc=5",
-   "topic": "defense",
-   "published": "2026-10-06T12:27:37.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "ad-hoc-news.de"
-   ],
    "important": false
   }
  ]
