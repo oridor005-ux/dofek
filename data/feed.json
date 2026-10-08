@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:04:12.057Z",
+ "updated": "2026-10-08T18:10:14.927Z",
  "items": [
   {
    "id": "d3684352a307",
@@ -117,6 +117,20 @@
    "id": "ed9a7d806d6c",
    "kind": "headline",
    "title": "הנאסד\"ק נופל ביותר מ-1%; קצב ההכנסות של OpenAI נמוך מההערכות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-08T17:00:00.000Z",
+   "summary": "המסחר בניו יורק מתנהל בטריטוריה האדומה בהובלת מניות הטכנולוגיה • קצב ההכנסות השנתי של OpenAI עומד על 50 מיליארד דולר בלבד • סקטור האנרגיה מזנק, הנשיא טראמפ מצנן את שוק הנפט • תביעות האבטלה הראשוניות ירדו מתחת לתחזיות והפד מאותת על עוד העלאות ריבית באופק • אירופה ננעלה בירידות רוחביות • רוזנבלט החל…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1663249791/direct/roberto-junior-4fsCBcZt9H8-unsplash_vztsq3.jpg",
+   "score": 9,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "3ed1b935b02e",
+   "kind": "headline",
+   "title": "הלחץ בענקיות הטכנולוגיה מפיל את הנאסד\"ק; מניות הביטקוין צוללות",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
    "topic": "demo",
@@ -5627,20 +5641,6 @@
    "published": "2026-10-07T08:06:49.000Z",
    "summary": "בנות הזוג, תושבות ארה\"ב, ילדו בהפרש של חודש. בעוד בנה של הישראלית קיבל אזרחות בארץ, מעמדה של הבת נותר שונה. בית המשפט החליט לשים לזה סוף",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/05/10/6041392/6041392_0_0_1300_732_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "352e53e953a5",
-   "kind": "headline",
-   "title": "מכוניות יוקרה ומטוס פרטי: החל משפט \"מלך הקריפטו\" שמואשם בהונאת ענק",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/rykx9oxoge",
-   "topic": "econ",
-   "published": "2026-10-07T08:01:09.000Z",
-   "summary": "איידן פלטרסקי, שמואשם בהונאת משקיעים של כ-41 מיליון דולר ובהלבנת הון, נשפט בטורונטו ובחר לייצג את עצמו מול חבר המושבעים. לפי הנאמן בהליך פשיטת הרגל שלו, הוא השקיע רק 1.6% מהכסף והוציא 15.9 מיליון דולר על אורח חייו הראוותני",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/S1MBoumsMl/S1MBoumsMl_0_0_1440_816_0_medium.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
