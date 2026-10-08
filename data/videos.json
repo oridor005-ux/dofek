@@ -1,39 +1,6 @@
 {
  "items": [
   {
-   "id": "7692566339017379079",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692566339017379079",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791065190",
-   "found": "2026-10-03T22:13:51Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692566339017379079.txt"
-  },
-  {
-   "id": "7692564794712263943",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692564794712263943",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791064822",
-   "found": "2026-10-03T22:14:12Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692564794712263943.txt"
-  },
-  {
-   "id": "7692694067473435911",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692694067473435911",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791094923",
-   "found": "2026-10-04T06:35:29Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692694067473435911.txt"
-  },
-  {
    "id": "7692703865028005141",
    "channel": "naftalibennett_official",
    "name": "naftalibennett_official",
@@ -4482,10 +4449,43 @@
    "found": "2026-10-08T16:07:23Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694325884907441414.txt"
+  },
+  {
+   "id": "7694332306969922868",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7694332306969922868",
+   "caption": "מי שלא לומר תורה יתגייס",
+   "posted": "1791476393",
+   "found": "2026-10-08T16:22:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694332306969922868.txt"
+  },
+  {
+   "id": "7694331347325816084",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694331347325816084",
+   "caption": "גם במטה משפחות החטופים לקח זמן להבין שכדי להשיג את המטרה המשותפת חייב...",
+   "posted": "1791476125",
+   "found": "2026-10-08T16:22:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694331347325816084.txt"
+  },
+  {
+   "id": "7694330341397449992",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7694330341397449992",
+   "caption": "עובדים על השריר הימני 💪",
+   "posted": "1791475894",
+   "found": "2026-10-08T16:23:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694330341397449992.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T16:07:28Z",
+  "at": "2026-10-08T16:23:19Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 3
