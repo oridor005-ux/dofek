@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T04:33:47.482Z",
+ "updated": "2026-10-08T04:46:07.282Z",
  "items": [
+  {
+   "id": "758f65be7f1b",
+   "kind": "headline",
+   "title": "הדולר בשיא של שנה וחצי בעולם: מה קורה הבוקר לשקל?",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hUm9yOFF6bjE4OGpVYjJGTWlDVkxodm1fbk1YQkhxNmYzX01IQVpoZVEtTjdONmxaX2VBeW1QRFprMzNBODd6WmdlcUFlMkl4V2hRb05VRGxUcEtkRlh3?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T04:17:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "a1bb975539bb",
    "kind": "headline",
@@ -26,7 +40,9 @@
    "summary": "Supporters of the law say it would bring stability to a country with a long history of short-lived governments, but critics see the measure as a threat to democracy.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/ITALY-ELECTORAL-LAW-hfbv/ITALY-ELECTORAL-LAW-hfbv-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The New York Times"
+   ],
    "important": false
   },
   {
@@ -53,6 +69,20 @@
    "published": "2026-10-08T03:56:51.000Z",
    "summary": "In a top Senate battleground, Representative Ashley Hinson, the Republican nominee, sparred with Josh Turek, her Democratic rival, on policy issues ranging from Medicaid to term limits.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07pol-iowa-takeaways-wlbg/07pol-iowa-takeaways-wlbg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7f3fc79a961c",
+   "kind": "headline",
+   "title": "Pro-Palestinian groups call for boycott of Andrea Bocelli concert in Jordan",
+   "source": "Israel National News",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yM21lYUViSEYtUE9pNU9URnVZTHdGTUtGTktmRjFERHNNbEZfaWZqZ1hWM241TlJtZ1pJbjZHb281a0s0YXJ3Z2xUSHhqbHJ4WXZrVWVpTGNGZw?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T03:15:09.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5621,34 +5651,6 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2b42022ea1c2",
-   "kind": "headline",
-   "title": "עובדי חברת השבבים שנמכרה לאנבידיה במיליארדים טוענים: העסקה לא חוקית - ויש גם זווית ישראלית",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558545#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-06T10:51:00.000Z",
-   "summary": "שני עובדי גרוק לשעבר, שמחזיקים במניות החברה, טוענים כי החברה נמכרה בהליך לא חוקי • לטענת התובעים, גרוק נמכרה ללא הצבעת בעלי מניות כנדרש, וללא תהליך תחרותי שהיה יכול להעלות את מחיר החברה • כך עובדת השיטה החדשה בעמק הסיליקון",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1764086618/direct/AP25304273141314_fk0uq5.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "15244b5c06c5",
-   "kind": "headline",
-   "title": "Kosovo Protesters Against Hague Court Gather Again After Clashes",
-   "source": "Prishtina Insight",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXNyU0ctZUI2TUJ3ajVpTmhwYUZpY2FLbUxXX252THVIeUpYSXMySlNZZFlYSnMwbDY3YjhoWjZmNi1pNGlRbjFPSldfTUZ6Z0RQa1Z1VWxKcklnSnRnN2ItWV94X3ZiNkgtNkZkcldzMlk0M3RwZ2M5cm5fc3RPYXdhSGs2Smt5ZGtaR1BNRWI0WG9qb1o4RHNn?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T10:48:34.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
