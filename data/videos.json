@@ -4080,12 +4080,45 @@
    "found": "2026-10-08T06:14:02Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694172713467890964.txt"
+  },
+  {
+   "id": "7694179945139981620",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694179945139981620",
+   "caption": "שתפו! נפגעי הפרלמנטים המזוייפים של נפתלי בנט צרו קשר 🙏 #פוריו #בשבילך...",
+   "posted": "1791440876",
+   "found": "2026-10-08T06:29:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694179945139981620.txt"
+  },
+  {
+   "id": "7694178629122526482",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694178629122526482",
+   "caption": "למרות שטען כי ישראל מבצעת \"רצח עם מתמשך\" ועורר את זעם הקהילה היהודית,...",
+   "posted": "1791440568",
+   "found": "2026-10-08T06:29:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694178629122526482.txt"
+  },
+  {
+   "id": "7694178189446253832",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7694178189446253832",
+   "caption": "הנה סרטון מדהים שמספר איך עושים שינוי! בטח ראיתם את התיעוד של האופנוע...",
+   "posted": "1791440470",
+   "found": "2026-10-08T06:30:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694178189446253832.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T06:14:21Z",
+  "at": "2026-10-08T06:30:11Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
