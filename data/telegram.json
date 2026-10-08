@@ -3,80 +3,80 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65642,
+   "lastId": 65643,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:30.202Z"
+   "checkedAt": "2026-10-08T17:17:10.642Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:30.869Z"
+   "checkedAt": "2026-10-08T17:17:11.344Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:31.543Z"
+   "checkedAt": "2026-10-08T17:17:11.996Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11452,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:32.302Z"
+   "checkedAt": "2026-10-08T17:17:12.642Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19322,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:32.929Z"
+   "checkedAt": "2026-10-08T17:17:13.403Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:33.613Z"
+   "checkedAt": "2026-10-08T17:17:15.366Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:34.251Z"
+   "checkedAt": "2026-10-08T17:17:15.994Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131588,
    "ok": false,
-   "checkedAt": "2026-10-08T17:04:35.104Z",
+   "checkedAt": "2026-10-08T17:17:16.778Z",
    "error": "not found or preview disabled"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74891,
+   "lastId": 74892,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:35.672Z"
+   "checkedAt": "2026-10-08T17:17:17.323Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
-   "lastId": 8410,
+   "lastId": 8411,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:36.390Z"
+   "checkedAt": "2026-10-08T17:17:18.104Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11071,
    "ok": true,
-   "checkedAt": "2026-10-08T17:04:37.062Z"
+   "checkedAt": "2026-10-08T17:17:18.806Z"
   }
  },
  "posts": [
@@ -4755,13 +4755,40 @@
    "date": "2026-10-08T16:58:19+00:00",
    "text": "🔴 נקבע מותה של הולכת הרגל שנפגעה מרכב בגליל המערבי\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65643",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65643",
+   "date": "2026-10-08T17:16:41+00:00",
+   "text": "לישראל נשארו שנתיים לפעול - אחר כך יהיה מאוחר מדי | הטור של עמית סגל >> bit.ly/4AWocZK",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74892",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74892",
+   "date": "2026-10-08T17:13:34+00:00",
+   "text": "🔴 \"ישר!\" ליועמ\"שית: יש לבדוק האם נתניהו השמיט מידע ממסמכים שקדמו ל-7/10\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "the7eye/8411",
+   "channel": "the7eye",
+   "name": "העין השביעית",
+   "url": "https://t.me/the7eye/8411",
+   "date": "2026-10-08T17:16:20+00:00",
+   "text": "טוהר הבחירות ותקינותן – לקראת בחירות 2026\nהבחירות הפעם תקבענה את דמותה הערכית של המדינה לדורות הבאים. מכאן, גורליותן וחשיבותן יוצאת הדופן ביחס לקודמותיהן ובהתאם גם גודל הסיכונים האורבים לטוהר הבחירות ותקינותן\nלמאמר של שופטת העליון בדימוס אילה פרוקצ'יה: https://www.the7eye.org.il/596619\n==\n📰 הקוראים שלנו הם גם המו\"לים שלנו. ואתה? https://the7eye.org.il/join",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T17:04:37.462Z",
+  "at": "2026-10-08T17:17:19.207Z",
   "ok": 10,
   "fail": 1,
-  "added": 2,
-  "pendingNew": 284
+  "added": 3,
+  "pendingNew": 287
  }
 }
