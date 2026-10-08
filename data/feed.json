@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T13:28:44.562Z",
+ "updated": "2026-10-08T13:39:04.582Z",
  "items": [
+  {
+   "id": "3e3dca2233bd",
+   "kind": "headline",
+   "title": "פתיחה שלילית בוול סטריט; הנפט מזנק והתשואות מזדחלות מעלה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-08T13:35:00.000Z",
+   "summary": "החוזים העתידיים בוול סטריט מצביעים על פתיחה שלילית לקראת יום הולדת 4 לשוק השוורי • הנפט ממשיך במסע ההתייקרות ומטפס ברקע מתיחות במזרח התיכון • תביעות האבטלה הראשוניות ירדו מתחת לתחזיות והפד מאותת על עוד העלאות ריבית באופק • באירופה: ירידות רוחביות בעוד גרמניה מפתיעה עם הכפלת תחזית הצמיחה • נעילה…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1663249791/direct/roberto-junior-4fsCBcZt9H8-unsplash_vztsq3.jpg",
+   "score": 7,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "dca93f3a61cc",
    "kind": "headline",
@@ -5631,20 +5645,6 @@
    "summary": "President Trump traveled to Baltimore to announce a major investment that he said would create new jobs. Gov. Wes Moore of Maryland, a Democrat, says he deserves credit, too.",
    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-trump-new-vtpb/06dc-trump-new-vtpb-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4297d31c7238",
-   "kind": "headline",
-   "title": "בהובלת מניות הטכנולוגיה: S&P 500 והנאסד\"ק חתמו את יום המסחר בשיא כל הזמנים",
-   "source": "גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pVHExRTZaNjkyNHQ4MXBFeUJHOEVvS1VSX1V5TWxCdmc5VGJhMGxyZFRhRkhXRkU0bDBPMW1Ya1cwRmR5anppSHQ3UXNGOTh5aDNhNHBZb3NOY2VpMXhlSVBES1BqUGFV?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T22:45:01.000Z",
-   "summary": "נעילה בשיא: מדד S&P 500 עלה ב-0.6% והנאסד\"ק הוסיף 0.4%. מדד הדאו ג'ונס טיפס ב-0.5% • העליות התרכזו בקומץ ענקיות; שווי \"שבע המופלאות\" חצה 25 טריליון דולר • מייקל ברי מזהיר שהשוק נמצא בשלב ההכחשה; באופנהיימר מצביעים על התנהגות של סוף מחזור • אנבידיה מתקרבת לשווי של 6 טריליון דולר; מניית AMD זינקה…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }

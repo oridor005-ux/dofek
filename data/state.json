@@ -138,10 +138,11 @@
   "ins-2026-10-08-yh71",
   "ins-2026-10-08-hd72",
   "ins-2026-10-08-tr73",
-  "21dc612b9315"
+  "21dc612b9315",
+  "3e3dca2233bd"
  ],
  "pending": [],
- "lastRun": "2026-10-08T13:28:44.562Z",
+ "lastRun": "2026-10-08T13:39:04.582Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -168,8 +169,8 @@
    },
    "at": "2026-10-08T13:28:44.562Z"
   },
-  "lastNewItemAt": "2026-10-08T13:28:44.562Z",
-  "lastPushOkAt": "2026-10-08T13:28:44.562Z",
+  "lastNewItemAt": "2026-10-08T13:39:04.582Z",
+  "lastPushOkAt": "2026-10-08T13:39:04.582Z",
   "googleOkAt": "2026-10-08T13:28:44.562Z"
  },
  "lastFullAt": "2026-10-08T13:28:44.562Z",
