@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65623,
+   "lastId": 65624,
    "ok": true,
-   "checkedAt": "2026-10-08T12:17:58.148Z"
+   "checkedAt": "2026-10-08T12:29:35.331Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T12:17:58.864Z"
+   "checkedAt": "2026-10-08T12:29:36.093Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T12:17:59.601Z"
+   "checkedAt": "2026-10-08T12:29:36.810Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11448,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:00.309Z"
+   "checkedAt": "2026-10-08T12:29:37.583Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19315,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:01.013Z"
+   "checkedAt": "2026-10-08T12:29:38.306Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:01.750Z"
+   "checkedAt": "2026-10-08T12:29:39.091Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:02.445Z"
+   "checkedAt": "2026-10-08T12:29:39.837Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131565,
+   "lastId": 131568,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:03.253Z"
+   "checkedAt": "2026-10-08T12:29:40.650Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74859,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:03.853Z"
+   "checkedAt": "2026-10-08T12:29:41.284Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:04.570Z"
+   "checkedAt": "2026-10-08T12:29:42.041Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T12:18:05.388Z"
+   "checkedAt": "2026-10-08T12:29:42.830Z"
   }
  },
  "posts": [
@@ -4078,13 +4078,23 @@
    "date": "2026-10-08T12:15:33+00:00",
    "text": "🔴 כשעה לפני הפגנות החרדים: עומסי תנועה כבדים במרכז ובדרך לירושלים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131568",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131568",
+   "date": "2026-10-08T12:18:52+00:00",
+   "text": "דרום לבנון: מטוסי קרב של צה\"ל תקפו לפני זמן קצר בכפר בני חיאן ובכפר אלמנצורי.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T12:18:05.789Z",
+  "at": "2026-10-08T12:29:43.231Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 250
+  "added": 1,
+  "pendingNew": 251
  }
 }
