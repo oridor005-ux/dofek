@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T05:44:57.650Z",
+ "updated": "2026-10-08T05:57:18.877Z",
  "items": [
   {
    "id": "d9cee2bd3737",
@@ -11,6 +11,20 @@
    "published": "2026-10-08T05:12:23.000Z",
    "summary": "הבורסה המקומית מקיימת תהליך בחינה מתקדם לרכישת הבורסה השכנה, כשייצא מכרז להפרטתה. שווי הבורסה בניקוסיה מוערך ב־20‑40 מיליון יורו. על רכישתה צפויות להתחרות בורסות נוספות, בהן הבורסה באתונה, איתה היא מקיימת שיתוף פעולה",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/83n85zw1n/83n85zw1n_0_0_3000_1689_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "8850d5f4fa8f",
+   "kind": "headline",
+   "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-08T05:10:40.000Z",
+   "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b9/live/7fe868c0-c2db-11f1-babe-4199b0e7ccea.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -391,6 +405,20 @@
    "published": "2026-10-08T00:25:06.000Z",
    "summary": "The government is now 5-0 in its efforts to admit the so-called clean team confessions to the capital cases at Guantánamo Bay.",
    "image": "https://static01.nyt.com/images/2026/05/11/multimedia/17dc-gitmo-1/17dc-gitmo-1-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "db7f6fd278dd",
+   "kind": "headline",
+   "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-07T23:18:40.000Z",
+   "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19cd/live/9e6a0ef0-c2a1-11f1-b3a5-abc2b328c8d1.png",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5622,36 +5650,6 @@
    "image": "",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e9cff273eaae",
-   "kind": "headline",
-   "title": "Opposition in Georgia",
-   "source": "JAMnews",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXI0cGJ5bkxnWkVyd21lSjhrcFZMajF4OUVPYkFjTllaRGk0M3Z3U0NzNHQ3ajNSb1J3NktZcFkyMDY0S2stNVBmV0ZmcWlzZkxzdUg0T0NFODlxaGhpUFNoT2ltaXJNbDdTWXRMRDJ2S0h1TlRYR3owRkNWNzBySzI2akxEVHVlLUxobEQwUDZOUzRld2dCR2JnUHJhV1Qwa25PdXJYTXMycUdLQnpnX0V3MEF3SHRQMS1kYTdwdERLRFl6?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T11:10:13.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8798c9e2a1e7",
-   "kind": "headline",
-   "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-   "topic": "world",
-   "published": "2026-10-06T11:04:53.000Z",
-   "summary": "After winning a state election last month, the Alternative for Germany is the first far-right party to oversee a state legislature since the Nazi era.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-germany-afd-saxony-anhalt-plcg/06int-germany-afd-saxony-anhalt-plcg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [
-    "The New York Times"
-   ],
    "important": false
   }
  ]
