@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65624,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:23.827Z"
+   "checkedAt": "2026-10-08T12:53:55.202Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:24.554Z"
+   "checkedAt": "2026-10-08T12:53:55.873Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:25.234Z"
+   "checkedAt": "2026-10-08T12:53:56.552Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
-   "lastId": 11448,
+   "lastId": 11449,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:26.129Z"
+   "checkedAt": "2026-10-08T12:53:57.220Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19315,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:26.844Z"
+   "checkedAt": "2026-10-08T12:53:57.882Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:27.681Z"
+   "checkedAt": "2026-10-08T12:53:58.637Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:28.364Z"
+   "checkedAt": "2026-10-08T12:53:59.267Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131571,
+   "lastId": 131573,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:29.183Z"
+   "checkedAt": "2026-10-08T12:53:59.959Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74859,
+   "lastId": 74860,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:29.806Z"
+   "checkedAt": "2026-10-08T12:54:00.555Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:30.579Z"
+   "checkedAt": "2026-10-08T12:54:01.254Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T12:41:31.344Z"
+   "checkedAt": "2026-10-08T12:54:01.952Z"
   }
  },
  "posts": [
@@ -4097,13 +4097,49 @@
    "date": "2026-10-08T12:39:01+00:00",
    "text": "דובר צה\"ל: צה\"ל תקף במרחב חאן יונס שברצועת עזה מוקדם יותר השבוע (ב'), וחיסל את אבראהים עלאם, מפקד בזרוע הצבאית של ארגון הטרור חמאס. המחבל פשט לשטח מדינת ישראל בטבח 7 באוקטובר, ולקח חלק ברציחתם של אזרחים ישראלים רבים, בנוסף לחטיפת גופתו של סמל שקד דהן ז\"ל…",
    "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11449",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11449",
+   "date": "2026-10-08T12:50:36+00:00",
+   "text": "גם היום, יום אחרי שציינו 3 שנים לטבח- נסגר עוד חשבון. עוד מחבל בן עוולה של חמאס שהשתתף בטבח ובחטיפות בשבעה באוקטובר. כואב לדעת שהוא חי 3 שנים יותר ממה שהגיע לו, אבל לפחות הצדק בסוף נעשה.\nיש עוד המון המון מחבלים שחייבים כבר לסגור איתם חשבון כמה שיותר מהר, לא לעצור לרגע!!!",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131572",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131572",
+   "date": "2026-10-08T12:51:08+00:00",
+   "text": "ארגון הטרור הפלסטיני החזית העממית לערוץ א-תלפזיון אלערבי הקטרי:\nהסכמנו עם פת\"ח וחמאס לדחות בשנה את הבחירות ברש\"פ.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131573",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131573",
+   "date": "2026-10-08T12:52:44+00:00",
+   "text": "ארגון הטרור הפלסטיני החזית העממית לערוץ א-תלפזיון אלערבי הקטרי: הסכמנו עם פת\"ח וחמאס לדחות בשנה את הבחירות ברש\"פ. כדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74860",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74860",
+   "date": "2026-10-08T12:44:57+00:00",
+   "text": "🔴 לקראת הפגנות החרדים: המשטרה חסמה לתנועה את כביש 4 באזור בני ברק\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T12:41:31.745Z",
+  "at": "2026-10-08T12:54:02.353Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 252
+  "added": 4,
+  "pendingNew": 256
  }
 }
