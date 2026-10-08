@@ -4474,12 +4474,34 @@
    "found": "2026-10-08T11:17:38Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694252347719027976.txt"
+  },
+  {
+   "id": "7694254079958174996",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694254079958174996",
+   "caption": "להביט למציאות בעיניים: הפרויקט שמציג את תיעודי הטבח פנים אל פנים אל מ...",
+   "posted": "1791458136",
+   "found": "2026-10-08T11:33:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694254079958174996.txt"
+  },
+  {
+   "id": "7694256561526492423",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694256561526492423",
+   "caption": "שתפו לכולם!",
+   "posted": "1791458713",
+   "found": "2026-10-08T11:34:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694256561526492423.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T11:17:51Z",
+  "at": "2026-10-08T11:34:47Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
