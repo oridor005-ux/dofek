@@ -4442,10 +4442,31 @@
    "found": "2026-10-08T10:47:45Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694244448301010196.txt"
+  },
+  {
+   "id": "7694247231762779400",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694247231762779400",
+   "caption": "בית משפט השלום בירושלים הרשיע את  עופר כסיף בתקיפת שוטר בנסיבות מחמיר...",
+   "posted": "1791456541",
+   "found": "2026-10-08T11:02:15Z",
+   "status": "failed"
+  },
+  {
+   "id": "7694243342812450069",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694243342812450069",
+   "caption": "עדן אברג'יל וחן אסולין, שאיבדו את בעליהן ב-7 באוקטובר, מספרות איך זה ...",
+   "posted": "1791457200",
+   "found": "2026-10-08T11:06:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694243342812450069.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T10:47:52Z",
+  "at": "2026-10-08T11:07:02Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
