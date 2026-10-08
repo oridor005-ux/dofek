@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65619,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:20.536Z"
+   "checkedAt": "2026-10-08T11:29:57.565Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:21.268Z"
+   "checkedAt": "2026-10-08T11:29:58.235Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:21.988Z"
+   "checkedAt": "2026-10-08T11:29:58.926Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11447,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:22.760Z"
+   "checkedAt": "2026-10-08T11:29:59.593Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:23.566Z"
+   "checkedAt": "2026-10-08T11:30:00.246Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:24.326Z"
+   "checkedAt": "2026-10-08T11:30:00.898Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:25.166Z"
+   "checkedAt": "2026-10-08T11:30:01.528Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131563,
+   "lastId": 131564,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:25.961Z"
+   "checkedAt": "2026-10-08T11:30:02.247Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74857,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:26.590Z"
+   "checkedAt": "2026-10-08T11:30:02.826Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:27.382Z"
+   "checkedAt": "2026-10-08T11:30:03.520Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T11:18:28.215Z"
+   "checkedAt": "2026-10-08T11:30:04.216Z"
   }
  },
  "posts": [
@@ -3982,13 +3982,23 @@
    "date": "2026-10-08T11:15:51+00:00",
    "text": "🔴 נדחה ערעורו של דניאל קדר שהורשע ברצח אלדר פרי, עונש מאסר העולם יישאר\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131564",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131564",
+   "date": "2026-10-08T11:25:55+00:00",
+   "text": "שר החוץ הטורקי האכאן פידאן על ברית מכה והאפשרות שטורקיה תעמיד כוחות צבאיים לטובת סעודיה: \n\"הסכם הגנה פירושו שכאשר מדינה החתומה על ההסכם מותקפת, אתה מתייצב לצדה כדי להגן עליה.\nזה אינו הסכם שנועד לתקיפה.\nטורקיה לא תשלח את כוחותיה לשטחה של מדינה אחרת כדי לפתוח משם במתקפה. מדובר בהסכם הגנה.\"\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T11:18:28.616Z",
+  "at": "2026-10-08T11:30:04.617Z",
   "ok": 11,
   "fail": 0,
-  "added": 4,
-  "pendingNew": 240
+  "added": 1,
+  "pendingNew": 241
  }
 }
