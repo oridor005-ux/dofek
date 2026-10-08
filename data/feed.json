@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T21:49:41.760Z",
+ "updated": "2026-10-08T22:02:12.049Z",
  "items": [
   {
    "id": "37c93e0f7c8e",
@@ -67,6 +67,20 @@
    "published": "2026-10-08T20:41:23.000Z",
    "summary": "The U.S. military has drafted options for three days of strikes, but in recent months the president has repeatedly vetoed plans to restart the war.",
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-military-qcmt/08dc-military-qcmt-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "78c39dcbd8ac",
+   "kind": "headline",
+   "title": "European Parliament Backs Calls to Put Muslim Brotherhood Entities on Terrorist List",
+   "source": "Algemeiner.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3dWWFNUY2VpWmlWVG9lTWtwN0xGZEVGbE53TUlEXzZPckthM016WExmQXNqNGlXRERLc3pyR0NELVFDODZleUhLS3hzazFiYlB2ZWI4QnNnbGUxTHBENUJvRGdmcG44NEh2alZkUTJqa0tKTV9zbzNxbHY2SWxCd2JEZVBTTzhFRVBHQW00RW9DdjRHNktTUklKM3Y3NGFZNmFNdzFqQWNBdkxKalpYMDVfV2JnXzkx?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T20:38:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -208,6 +222,20 @@
    "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d62a/live/d11c0100-c341-11f1-b521-0bbd7e4f1f2e.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "cec6412a6453",
+   "kind": "headline",
+   "title": "Jordan BDS group urges boycott of Andrea Bocelli over alleged Israel support",
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQk5reDZkLXpCNkJicDBYeGFSc1hrUUJmbnpUZ3dxWmFweFdKZW5zV2VyNk9SbEFfYUwzdXBkenNzcmEwb09FYlMxcjQxdEdFSFowaFpaLWs4SVY0VXk1Y1lHSDR4ZF9xQTA4WkZMMUduMEVtUWZWX0tlNHZvUU5sck1UaWtTRV8wSHEwd1ZZMjVVcEJmSnd6VzZxRUloSEFXcFlSQ3pEWGM5RW9qYTFRVHlCbi1QZzRMQmtHOGh1cWpYbnk4WFBOSmlmaTFnQ1B1S2VqZ0Q3dVlUWTJYbkNFaFNQTGZublo4QTBtTzVyN2VyM21xelB6TG9GSi1LOV9WLWVBNEI0cUpIak5Wc0tSa3pLNGVVQ1lYNjQ2RlVVRVFzQQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T18:59:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -5614,34 +5642,6 @@
    "summary": "לאחר שגייסה עוד 1.5 מיליארד שקל בספטמבר, ביצועי קרנות ההשתלמות של איילון ממקמים אותה במרכז ואף בחלק התחתון של דירוג התשואות בחודש שעבר • הערכות: אלטשולר שחם שוב למטה, למרות התשואה העודפת של וול סטריט",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1743427207/COT_Pic/%D7%AA%D7%9E%D7%99%D7%A8_%D7%94%D7%A8%D7%A9%D7%A7%D7%95%D7%91%D7%99%D7%A5_n3ybyg_kxwcg4.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "61427e6cb8f0",
-   "kind": "headline",
-   "title": "אינפלציה בהונגריה עלתה ל-1.6% בספטמבר, מתחת לתחזיות מאת Investing.com",
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DZWNHNTJjYVEtMjF6dUMtYU95QmEtWjZRdl92bHFyT2w4c3JvbFFlNUFQeVNKNmxnSDRxVEVUaU9EMFpiU1k3b1VoZl92T3dCR2N3aFJIU1JaNkdsUmVJNmVoSXFEWlNxcUJ6RzhFZml2aFJ2T1YwaQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-07T09:49:10.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "414d2199e68e",
-   "kind": "headline",
-   "title": "קפיטוליס גייסה 220 מיליון דולר בהון ובחוב",
-   "source": "Techtime",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80eVVDSWtPTDZfbi1BSDRDSkpEellLaGI0bU9FYXpKeE9XLVRNSEJkRkZwaFVObkwwOFktNWNtTmowaG5HMVhDTi1yQjEwRGdmVmE0VWotS1FUQQ?oc=5",
-   "topic": "deals",
-   "published": "2026-10-07T09:44:23.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
