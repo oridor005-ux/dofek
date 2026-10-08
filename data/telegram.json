@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65629,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:06.003Z"
+   "checkedAt": "2026-10-08T13:29:38.415Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:06.771Z"
+   "checkedAt": "2026-10-08T13:29:39.153Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:07.440Z"
+   "checkedAt": "2026-10-08T13:29:39.856Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11449,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:08.157Z"
+   "checkedAt": "2026-10-08T13:29:40.604Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19315,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:08.941Z"
+   "checkedAt": "2026-10-08T13:29:41.315Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:09.676Z"
+   "checkedAt": "2026-10-08T13:29:42.061Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:10.354Z"
+   "checkedAt": "2026-10-08T13:29:42.780Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131575,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:11.157Z"
+   "checkedAt": "2026-10-08T13:29:43.645Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74863,
+   "lastId": 74865,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:11.767Z"
+   "checkedAt": "2026-10-08T13:29:44.273Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:12.509Z"
+   "checkedAt": "2026-10-08T13:29:45.034Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T13:17:13.275Z"
+   "checkedAt": "2026-10-08T13:29:45.816Z"
   }
  },
  "posts": [
@@ -197,16 +197,6 @@
    "insightIds": [
     "ins-2026-10-06-mg71"
    ]
-  },
-  {
-   "id": "knessettv/54893",
-   "channel": "knessettv",
-   "name": "ערוץ כנסת 99",
-   "url": "https://t.me/knessettv/54893",
-   "date": "2026-10-04T13:19:11+00:00",
-   "text": "\"שופטי בית המשפט החליטו להשתמש במאמר אחד שהיה לא טוב. אין במאמר הזה תמיכה בפגיעה במדינת ישראל, יש בו אזהרה\" 👇\nח\"כ עופר כסיף מצר על החלטת בית המשפט לפסילת חברו לרשימה סמי אבו שחאדה מהתמודדות בבחירות, ומתייחס למאמר שפרסם אבו שחאדה יום למחרת הטבח: \"התנגדנו באופן ברור למקרים המזעזעים שבוצעו בידי חמאס ב-7/10\"\n📺 מתוך #החדשות עם יניר קוזין | ערוץ כנסת 99",
-   "hasVideo": true,
-   "status": "no-claims"
   },
   {
    "id": "knessettv/54894",
@@ -4206,13 +4196,31 @@
    "date": "2026-10-08T13:14:07+00:00",
    "text": "🔴 החלו הפגנות החרדים: הכניסה לירושלים נחסמה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74864",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74864",
+   "date": "2026-10-08T13:21:25+00:00",
+   "text": "🔴 שב\"כ חשף מעצר חוליה שתכננה להקים \"גדוד טרור\" בנגב בהשראת יו\"ש\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74865",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74865",
+   "date": "2026-10-08T13:28:45+00:00",
+   "text": "🔴 הפגנות החרדים: הפלג הירושלמי ניסה להפריע לדרעי כנס בחירות במודיעין עילית\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T13:17:13.676Z",
+  "at": "2026-10-08T13:29:46.217Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 222
+  "added": 2,
+  "pendingNew": 224
  }
 }
