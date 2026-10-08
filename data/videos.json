@@ -4398,12 +4398,34 @@
    "found": "2026-10-08T10:01:14Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694231436085300500.txt"
+  },
+  {
+   "id": "7694239348987841810",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694239348987841810",
+   "caption": "\"ברגע אחד שכחנו את כל הקרעים שהיו לפני, התאחדנו כאיש אחד בלב אחד, ועמ...",
+   "posted": "1791454711",
+   "found": "2026-10-08T10:32:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694239348987841810.txt"
+  },
+  {
+   "id": "7694241861510155540",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694241861510155540",
+   "caption": "ההפתעה, האימה וגילויי הגבורה: התמונות ורגעים מהיום ששינה את חיינו",
+   "posted": "1791455289",
+   "found": "2026-10-08T10:33:08Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694241861510155540.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T10:16:47Z",
+  "at": "2026-10-08T10:33:17Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
