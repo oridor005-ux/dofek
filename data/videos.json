@@ -4058,12 +4058,23 @@
    "found": "2026-10-07T22:24:35Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694052698227739911.txt"
+  },
+  {
+   "id": "7694170932184763656",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694170932184763656",
+   "caption": "שתפו! נפגעי הפרלמנטים המזוייפים של נפתלי בנט צרו קשר 🙏 #פוריו #בשבילך...",
+   "posted": "1791438789",
+   "found": "2026-10-08T05:59:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694170932184763656.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T05:44:07Z",
+  "at": "2026-10-08T05:59:56Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
