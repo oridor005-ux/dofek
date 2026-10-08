@@ -1,52 +1,6 @@
 {
  "items": [
   {
-   "id": "7692477783838133525",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692477783838133525",
-   "caption": "משנה כיוון | נטלי פיטוסי כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע ש...",
-   "posted": "1791044561",
-   "found": "2026-10-03T18:41:17Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692477783838133525.txt"
-  },
-  {
-   "id": "7692473658714983732",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692473658714983732",
-   "caption": "לגיטימי או חסר רגישות? מה דעתכם? #נובה #שמחתתורה ",
-   "posted": "1791043598",
-   "found": "2026-10-03T18:41:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692473658714983732.txt"
-  },
-  {
-   "id": "7692473894489427218",
-   "channel": "lusil_blek",
-   "name": "lusil_blek",
-   "url": "https://www.tiktok.com/@lusil_blek/video/7692473894489427218",
-   "caption": "פרק חמישי: מפלגת ״ישראל ביתנו״ בראשות אביגדור ליברמן. האם אתם מצביעים...",
-   "posted": "1791043657",
-   "found": "2026-10-03T18:43:04Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692473894489427218.txt",
-   "insightIds": [
-    "ins-2026-10-03-mlib"
-   ]
-  },
-  {
-   "id": "7692086977931398406",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7692086977931398406",
-   "caption": "",
-   "posted": "1790953570",
-   "found": "2026-10-03T18:43:20Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7691957669287955730",
    "channel": "yinonmagal",
    "name": "yinonmagal",
@@ -4499,12 +4453,55 @@
    "found": "2026-10-08T14:22:48Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694298004332776725.txt"
+  },
+  {
+   "id": "7694304374415281416",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694304374415281416",
+   "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
+   "posted": "1791469847",
+   "found": "2026-10-08T14:35:21Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694304374415281416.txt"
+  },
+  {
+   "id": "7694303914203614482",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694303914203614482",
+   "caption": "חבר הכנסת יאסר חוג'יראת ממפלגת רע\"ם אמר בריאיון לערוץ I24 כי חמאס בחל...",
+   "posted": "1791469741",
+   "found": "2026-10-08T14:35:37Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7694302585976638738",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694302585976638738",
+   "caption": "למה לוקח לבית המשפט 4 שנים להרשיע עבריין אלים בתקיפה? | נועם אמיר: \"ה...",
+   "posted": "1791469432",
+   "found": "2026-10-08T14:36:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694302585976638738.txt"
+  },
+  {
+   "id": "7694305038214122773",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694305038214122773",
+   "caption": "",
+   "posted": "1791470001",
+   "found": "2026-10-08T14:38:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694305038214122773.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T14:22:57Z",
+  "at": "2026-10-08T14:39:03Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 4
  }
 }
