@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7692036588368301319",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692036588368301319",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1790941835",
-   "found": "2026-10-03T14:40:07Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692036588368301319.txt"
-  },
-  {
-   "id": "7692475071629135111",
-   "channel": "ask__dani",
-   "name": "ask__dani",
-   "url": "https://www.tiktok.com/@ask__dani/video/7692475071629135111",
-   "caption": "ומה דעתכם? #פוליטיקה #בחירות #הציונותהדתית ",
-   "posted": "1791043929",
-   "found": "2026-10-03T18:39:51Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692475071629135111.txt",
-   "insightIds": [
-    "ins-2026-10-03-mdg5"
-   ]
-  },
-  {
    "id": "7692488502751022357",
    "channel": "naftalibennett_official",
    "name": "naftalibennett_official",
@@ -4502,12 +4477,34 @@
    "found": "2026-10-08T13:49:42Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694292640757599496.txt"
+  },
+  {
+   "id": "7694276272742010130",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694276272742010130",
+   "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 19 ימים...",
+   "posted": "1791468000",
+   "found": "2026-10-08T14:05:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694276272742010130.txt"
+  },
+  {
+   "id": "7694293588536069384",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694293588536069384",
+   "caption": "לקול תשואות המפגינים: \"מתבייש שהתגייסתי, המדינה לא שווה את זה\" במהלך ...",
+   "posted": "1791467334",
+   "found": "2026-10-08T14:06:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694293588536069384.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T13:50:00Z",
+  "at": "2026-10-08T14:06:48Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
