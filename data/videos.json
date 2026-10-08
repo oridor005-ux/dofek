@@ -4311,10 +4311,32 @@
    "posted": "1791444123",
    "found": "2026-10-08T09:02:45Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694220534506163477",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694220534506163477",
+   "caption": "",
+   "posted": "1791450327",
+   "found": "2026-10-08T09:16:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694220534506163477.txt"
+  },
+  {
+   "id": "7694220088232185108",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694220088232185108",
+   "caption": "",
+   "posted": "1791450222",
+   "found": "2026-10-08T09:16:31Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694220088232185108.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T09:03:03Z",
+  "at": "2026-10-08T09:16:37Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
