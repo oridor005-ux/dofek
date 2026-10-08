@@ -151,7 +151,7 @@
   "bdc9ba772c36"
  ],
  "pending": [],
- "lastRun": "2026-10-08T23:36:33.580Z",
+ "lastRun": "2026-10-08T23:48:13.652Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -164,24 +164,28 @@
  },
  "health": {
   "sources": {
-   "ok": 66,
-   "fail": 2,
+   "ok": 11,
+   "fail": 57,
    "light": false,
    "direct": 13,
    "directFail": 2,
    "google": 55,
-   "googleFail": 0,
+   "googleFail": 55,
    "errors": {
     "direct": {
      "HTTP 403": 2
+    },
+    "google": {
+     "HTTP 503": 1,
+     "skipped (google blocked)": 54
     }
    },
-   "at": "2026-10-08T23:01:21.537Z"
+   "at": "2026-10-08T23:36:50.738Z"
   },
-  "lastNewItemAt": "2026-10-08T23:36:33.580Z",
+  "lastNewItemAt": "2026-10-08T23:48:13.652Z",
   "lastPushOkAt": "2026-10-08T19:59:00.007Z",
   "googleOkAt": "2026-10-08T23:01:21.537Z"
  },
- "lastFullAt": "2026-10-08T23:01:21.537Z",
+ "lastFullAt": "2026-10-08T23:36:50.738Z",
  "webPushSubscribers": 2
 }
