@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65597,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:07.281Z"
+   "checkedAt": "2026-10-08T05:33:43.445Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:08.089Z"
+   "checkedAt": "2026-10-08T05:33:44.245Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:08.755Z"
+   "checkedAt": "2026-10-08T05:33:44.923Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11444,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:09.464Z"
+   "checkedAt": "2026-10-08T05:33:45.596Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19310,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:10.160Z"
+   "checkedAt": "2026-10-08T05:33:46.279Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:10.810Z"
+   "checkedAt": "2026-10-08T05:33:46.950Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:11.485Z"
+   "checkedAt": "2026-10-08T05:33:47.647Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131539,
+   "lastId": 131540,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:12.187Z"
+   "checkedAt": "2026-10-08T05:33:48.337Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74826,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:12.773Z"
+   "checkedAt": "2026-10-08T05:33:49.023Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:13.512Z"
+   "checkedAt": "2026-10-08T05:33:49.765Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T05:22:14.284Z"
+   "checkedAt": "2026-10-08T05:33:50.571Z"
   }
  },
  "posts": [
@@ -3313,13 +3313,23 @@
    "date": "2026-10-08T05:21:31+00:00",
    "text": "🔴 צה\"ל: חוסל מחבל שחצה את הקו הצהוב בדרום רצועת עזה וניסה לפגוע בתשתית \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131540",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131540",
+   "date": "2026-10-08T05:24:01+00:00",
+   "text": "הנשיא טראמפ לרגל יום השנה לטבח: לעולם לא נשכח את ה 7.10. נעמוד מול כוחות הרשע כך כתב : \"לפני שלוש שנים בדיוק, ב-7 באוקטובר, היה העולם עד לאחד הימים האפלים והמרושעים ביותר בתולדות ישראל. גברים, נשים וילדים חפים מפשע נרצחו, נחטפו ונחשפו לזוועות שאי אפשר להעלות…",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T05:22:14.684Z",
+  "at": "2026-10-08T05:33:50.972Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 167
+  "added": 1,
+  "pendingNew": 168
  }
 }
