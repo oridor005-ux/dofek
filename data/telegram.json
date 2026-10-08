@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65614,
+   "lastId": 65615,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:27.282Z"
+   "checkedAt": "2026-10-08T09:31:04.560Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:27.999Z"
+   "checkedAt": "2026-10-08T09:31:05.380Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:28.838Z"
+   "checkedAt": "2026-10-08T09:31:06.053Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:29.493Z"
+   "checkedAt": "2026-10-08T09:31:06.775Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:30.137Z"
+   "checkedAt": "2026-10-08T09:31:07.441Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:34.119Z"
+   "checkedAt": "2026-10-08T09:31:08.174Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:34.777Z"
+   "checkedAt": "2026-10-08T09:31:08.916Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131558,
+   "lastId": 131559,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:35.591Z"
+   "checkedAt": "2026-10-08T09:31:09.732Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74844,
+   "lastId": 74845,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:36.152Z"
+   "checkedAt": "2026-10-08T09:31:10.347Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:36.884Z"
+   "checkedAt": "2026-10-08T09:31:11.059Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T09:19:37.737Z"
+   "checkedAt": "2026-10-08T09:31:11.779Z"
   }
  },
  "posts": [
@@ -3787,13 +3787,32 @@
    "date": "2026-10-08T09:16:33+00:00",
    "text": "🔴 פולין: הרוג ושני פצועים בדקירה בבית ספר - ע\"י תלמיד לשעבר בן 15\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131559",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131559",
+   "date": "2026-10-08T09:29:36+00:00",
+   "text": "גדעון סער על צעדי הענישה נגד בריטניה בעקבות צעדיה של ממשלת הלייבור נגד ישראל ועל הסיכום מול בריטניה: 1. הקונסוליה הבריטית במזרח ירושלים תפסיק לתפקד כקונסוליה. 20 מתוך 27 הדיפלומטים הבריטים שם יעזבו. (המבנה בבעלות בריטניה - א\"ע). 2. הנציגים בבריטניה במפקדה…",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74845",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74845",
+   "date": "2026-10-08T09:22:58+00:00",
+   "text": "🔴 המשטרה: חתונה בפזורה הבדואית פוזרה בעקבות חשד לירי, 7 נעצרו - כולל החתן \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T09:19:38.137Z",
+  "at": "2026-10-08T09:31:12.178Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 219
+  "added": 2,
+  "pendingNew": 221
  }
 }
