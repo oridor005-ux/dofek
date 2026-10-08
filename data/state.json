@@ -140,7 +140,7 @@
   "ins-2026-10-08-tr73"
  ],
  "pending": [],
- "lastRun": "2026-10-08T13:17:03.506Z",
+ "lastRun": "2026-10-08T13:28:23.904Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -167,7 +167,7 @@
    },
    "at": "2026-10-08T12:52:58.913Z"
   },
-  "lastNewItemAt": "2026-10-08T13:17:03.506Z",
+  "lastNewItemAt": "2026-10-08T13:28:23.904Z",
   "lastPushOkAt": "2026-10-08T13:17:03.506Z",
   "googleOkAt": "2026-10-08T12:52:58.913Z"
  },
