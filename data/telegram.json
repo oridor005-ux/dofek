@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65633,
+   "lastId": 65635,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:33.318Z"
+   "checkedAt": "2026-10-08T15:17:07.530Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:34.064Z"
+   "checkedAt": "2026-10-08T15:17:08.221Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:34.762Z"
+   "checkedAt": "2026-10-08T15:17:08.911Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11451,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:35.449Z"
+   "checkedAt": "2026-10-08T15:17:09.622Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19319,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:36.177Z"
+   "checkedAt": "2026-10-08T15:17:10.312Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:36.864Z"
+   "checkedAt": "2026-10-08T15:17:11.046Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:37.618Z"
+   "checkedAt": "2026-10-08T15:17:11.701Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131580,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:38.375Z"
+   "checkedAt": "2026-10-08T15:17:12.411Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74879,
+   "lastId": 74882,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:38.987Z"
+   "checkedAt": "2026-10-08T15:17:13.058Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:39.704Z"
+   "checkedAt": "2026-10-08T15:17:13.776Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T15:04:40.469Z"
+   "checkedAt": "2026-10-08T15:17:14.500Z"
   }
  },
  "posts": [
@@ -4479,13 +4479,59 @@
    "date": "2026-10-08T14:55:55+00:00",
    "text": "לטריוויה המלאה ולמתחם הבחירות של ערוץ כנסת 99: https://elections.knesset.tv/",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65634",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65634",
+   "date": "2026-10-08T15:14:28+00:00",
+   "text": "אחרי כשעתיים: תמו הפגנות החרדים בירושלים ובבני ברק",
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65635",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65635",
+   "date": "2026-10-08T15:16:47+00:00",
+   "text": "במקביל, חיילי נצח יהודה מצהירים אמונים בכותל המערבי",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74880",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74880",
+   "date": "2026-10-08T15:07:09+00:00",
+   "text": "🔴 איזנקוט: \"הבחנה בין דם לדם פוגעת בביטחון. הממשלה מטפחת כאוס\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74881",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74881",
+   "date": "2026-10-08T15:09:30+00:00",
+   "text": "🔴 תיעוד: שימוש במכתזית בהפגנות החרדים בירושלים\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74882",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74882",
+   "date": "2026-10-08T15:11:08+00:00",
+   "text": "🔴 המפגינים בבני ברק מתחילים לעזוב את המקום\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T15:04:40.870Z",
+  "at": "2026-10-08T15:17:14.901Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 253
+  "added": 5,
+  "pendingNew": 258
  }
 }
