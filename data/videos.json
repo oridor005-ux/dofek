@@ -1,52 +1,6 @@
 {
  "items": [
   {
-   "id": "7692513354639838485",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692513354639838485",
-   "caption": "פרטים חדשים חושפים: ישראל קיבלה מראש את רשימת הצוות של טיסת פלי דובאי...",
-   "posted": "1791052842",
-   "found": "2026-10-03T20:27:37Z",
-   "status": "failed"
-  },
-  {
-   "id": "7691662369671466260",
-   "channel": "amitsegalnews",
-   "name": "amitsegalnews",
-   "url": "https://www.tiktok.com/@amitsegalnews/video/7691662369671466260",
-   "caption": "טייס שעבד בשביל האמירויות ונוסעים ישראלים הצליחו יחד להילחם בטרור | מ...",
-   "posted": "1790854707",
-   "found": "2026-10-03T20:28:03Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7691662369671466260.txt"
-  },
-  {
-   "id": "7691696684203642132",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7691696684203642132",
-   "caption": "\"שני חברי כנסת לא מגיעים - הוא הסתובב וחיפש, ואין לו רוב\" 👇 עשור למות...",
-   "posted": "1790924400",
-   "found": "2026-10-03T20:28:36Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7691696684203642132.txt"
-  },
-  {
-   "id": "7691711376435236117",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7691711376435236117",
-   "caption": "\"מי שאין לו שישה מנדטים עדיף שלא ירוץ בבחירות האלה\" 👇 השר לשעבר מתן כ...",
-   "posted": "1790867100",
-   "found": "2026-10-03T20:28:49Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691711376435236117.txt",
-   "insightIds": [
-    "ins-2026-10-04-m101"
-   ]
-  },
-  {
    "id": "7691710328459119893",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4492,12 +4446,56 @@
    "found": "2026-10-08T15:06:36Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694305305043193095.txt"
+  },
+  {
+   "id": "7694316227803548948",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7694316227803548948",
+   "caption": "ליאם התעורר מקומה של עשרה ימים.- וזה הסיפור שלו #צהל #מלחמה #צפון ",
+   "posted": "1791472606",
+   "found": "2026-10-08T15:21:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694316227803548948.txt"
+  },
+  {
+   "id": "7694316519127256328",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694316519127256328",
+   "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
+   "posted": "1791472673",
+   "found": "2026-10-08T15:21:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694316519127256328.txt"
+  },
+  {
+   "id": "7694315754497330450",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694315754497330450",
+   "caption": "❤️💙",
+   "posted": "1791472498",
+   "found": "2026-10-08T15:21:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694315754497330450.txt"
+  },
+  {
+   "id": "7694314927422442772",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694314927422442772",
+   "caption": "",
+   "posted": "1791472305",
+   "found": "2026-10-08T15:21:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694314927422442772.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T15:07:04Z",
+  "at": "2026-10-08T15:22:03Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 4
  }
 }
