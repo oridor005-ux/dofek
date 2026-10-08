@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T01:59:33.784Z",
+ "updated": "2026-10-08T02:11:08.416Z",
  "items": [
+  {
+   "id": "354ebef2e96c",
+   "kind": "headline",
+   "title": "Spain’s Leader Pins Political Survival on Public Anger Over Housing Crisis",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-08T02:00:00.000Z",
+   "summary": "Pedro Sánchez bets his left-wing coalition can avoid a bruising defeat in next month’s election amid rage over the eviction of an elderly woman who died Wednesday.",
+   "image": "https://images.wsj.net/im-95799755",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e60d3f287a12",
    "kind": "headline",
@@ -5643,20 +5657,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "45b23738a8f9",
-   "kind": "headline",
-   "title": "שלוש שנים לטבח ה-7 באוקטובר: מעל 38.6 מיליארד שקל פיצויים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558531#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T09:19:00.000Z",
-   "summary": "רשות המסים מפרסמת נתונים אודות פעילות קרן הפיצויים לרגל יום השנה השלישי לציון טבח ה-7 באוקטובר של חמאס על יישובי עוטף עזה ופרוץ מלחמת \"חרבות ברזל\"",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775392826/direct/AP26094484580368_e1azt2.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
