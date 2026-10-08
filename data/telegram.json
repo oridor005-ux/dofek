@@ -5,56 +5,56 @@
    "subscribers": "369K",
    "lastId": 65643,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:43.412Z"
+   "checkedAt": "2026-10-08T17:41:15.954Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:44.120Z"
+   "checkedAt": "2026-10-08T17:41:16.665Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:44.805Z"
+   "checkedAt": "2026-10-08T17:41:17.384Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
-   "lastId": 11452,
+   "lastId": 11453,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:45.509Z"
+   "checkedAt": "2026-10-08T17:41:18.136Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19322,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:46.223Z"
+   "checkedAt": "2026-10-08T17:41:18.815Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:46.926Z"
+   "checkedAt": "2026-10-08T17:41:19.590Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:47.604Z"
+   "checkedAt": "2026-10-08T17:41:20.331Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131588,
    "ok": false,
-   "checkedAt": "2026-10-08T17:28:48.604Z",
+   "checkedAt": "2026-10-08T17:41:21.356Z",
    "error": "not found or preview disabled"
   },
   "ynetalerts": {
@@ -62,21 +62,21 @@
    "subscribers": "113K",
    "lastId": 74892,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:49.208Z"
+   "checkedAt": "2026-10-08T17:41:21.955Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
-   "lastId": 8411,
+   "lastId": 8412,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:49.937Z"
+   "checkedAt": "2026-10-08T17:41:22.674Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11071,
    "ok": true,
-   "checkedAt": "2026-10-08T17:28:50.672Z"
+   "checkedAt": "2026-10-08T17:41:23.451Z"
   }
  },
  "posts": [
@@ -4782,13 +4782,32 @@
    "date": "2026-10-08T17:16:20+00:00",
    "text": "טוהר הבחירות ותקינותן – לקראת בחירות 2026\nהבחירות הפעם תקבענה את דמותה הערכית של המדינה לדורות הבאים. מכאן, גורליותן וחשיבותן יוצאת הדופן ביחס לקודמותיהן ובהתאם גם גודל הסיכונים האורבים לטוהר הבחירות ותקינותן\nלמאמר של שופטת העליון בדימוס אילה פרוקצ'יה: https://www.the7eye.org.il/596619\n==\n📰 הקוראים שלנו הם גם המו\"לים שלנו. ואתה? https://the7eye.org.il/join",
    "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11453",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11453",
+   "date": "2026-10-08T17:35:47+00:00",
+   "text": "ככה המהגרים הקיצונים בשילוב הארגונים הפרוגרסיבים מבעירים את האנטישמיות בבריטניה.\nצפו בקטע מהראיון שלי היום בלונדון בערוץ TALK TV:\nThis is how radical immigrants, alongside progressive organizations, are stoking antisemitism in the UK.\nWatch a clip from my interview today in London on TalkTV:",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "the7eye/8412",
+   "channel": "the7eye",
+   "name": "העין השביעית",
+   "url": "https://t.me/the7eye/8412",
+   "date": "2026-10-08T17:41:17+00:00",
+   "text": "\"אני יכול להגיד שחשתי סוג של תרעומת על השאלות שנשאלו שם\"\nחוקר משטרה נוסף הגיע לדוכן העדים במסגרת פסטיבל \"חוקרים את החוקרים\" של פרקליטי נתניהו. עו\"ד עמית חדד ניסה לחלץ מסנ\"צ צחי בן-חמו אמירות ביקורתיות על ניהול התיק, אך רוב הזמן נהדף. לקראת סוף עדותו סיפר שבתום חקירת \"תיק 4000\" הגיע למסקנה שאין מספיק ראיות כדי לתמוך באישומים\nמשפט המו\"לים, שלב העדויות: https://www.the7eye.org.il/596629\n==\n🏛️ כל מה שרצית לדעת על משפט נתניהו, מהיום הראשון: https://did.li/p38Iw\n🔐 עיתונות שאף אחד לא יכול לקנות – כי רק הקוראים שלה משלמים עבורה: https://the7eye.org.il/join",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T17:28:51.073Z",
+  "at": "2026-10-08T17:41:23.851Z",
   "ok": 10,
   "fail": 1,
-  "added": 0,
-  "pendingNew": 287
+  "added": 2,
+  "pendingNew": 289
  }
 }
