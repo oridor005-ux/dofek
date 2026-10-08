@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-08T02:35:10.347Z",
+ "updated": "2026-10-08T02:46:46.213Z",
  "items": [
+  {
+   "id": "49e61f0fd168",
+   "kind": "headline",
+   "title": "חיזוי גירושים תוך שלוש דקות: האם המחקר רלוונטי גם לשותפות יו\"ר ומנכ\"ל?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558448#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-08T02:43:00.000Z",
+   "summary": "החוקר ג'ון גוטמן חזה גירושים על בסיס שלוש דקות שיחה, לא מתוך מה שנאמר אלא מהדרך בה בני הזוג מתקשרים • אותם דפוסים שמנבאים קריסת זוגיות, נוכחים גם ביחסי יו\"ר ומנכ\"ל חברה • ומה אפשר ללמוד מ\"הגירושים העסקי\" של ראטן טאטא וסיירוס מיסטרי? • עסק משפחתי, טור חודשי",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791207803/800_dgav5l.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c48cf42ab2c2",
+   "kind": "headline",
+   "title": "המדינה שמציבה מערכות הגנה אווירית סיניות לצד ישראליות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558679#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-08T02:41:00.000Z",
+   "summary": "באזרבייג'ן לא מהססים לרכוש מכל מי שהם רואים לנכון, וכך נוצר מצב שבו מערכות הגנה אווירית סיניות מוצבות לצד כאלו מישראל • חברת המל\"טים המתאבדים הישראלית יוויז'ן, חתמה על הסכם עם חברת מאסטוניה • שר ההגנה לשעבר של אוקראינה, השיק פרויקט לייצור צבא רובוטים • השבוע בתעשיות הביטחוניות",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1693995487/direct/Barak_MX_Launcher_dyvm85.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2bf01620c01b",
+   "kind": "headline",
+   "title": "המפעל הישראלי הראשון שייצר נשק מערבי באזרבייג'ן",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558797#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-08T02:38:00.000Z",
+   "summary": "חברת ארי ארמס הישראלית חנכה באזרבייג'ן מפעל רובים • חלק מתנאי העסקה היה ייצור מלא על אדמה המדינה במסגרת שאיפת אזרבייג'ן להעשיר את עצמה בטכנולוגיה וידע מהמערב • לגלובס נודע כי עסקאות עם מדינות נוספות נמצאות על סף סגירה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791379821/azr_ijqfav.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "354ebef2e96c",
    "kind": "headline",
@@ -5613,52 +5655,6 @@
    "score": 3,
    "alsoIn": [],
    "important": true
-  },
-  {
-   "id": "8c45490f4c07",
-   "kind": "headline",
-   "title": "National Referendum Bill passed unanimously with rules for referendum process",
-   "source": "Fijivillage",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUdSN2syMEs5dGZMWS1XQy1TS1E2ZDAxSGxRaE1TY3BjRWgxbkp1blo0eTBSWUNfSnB2SXNHUzNmTWQzd3ozZ2xzMV9URmFxTVhXODJOT29XQmhxczhSMWNld2FhYUhVRE5MSXlUZi1TRlI2MDFKX3JBd3diZ1lPS2RfZXN3TUwtRnJETURqYTdwaTktNWxfYTVUa2RTaFNnT3VTbmhRXzJ6RC1JMkVHWW11czZCN2M?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T09:32:14.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "fijivillage.com"
-   ],
-   "important": false
-  },
-  {
-   "id": "ed14dfd498fc",
-   "kind": "headline",
-   "title": "Informa Acquires Clarion Events for £2.24bn in Major B2B Live Events Consolidation",
-   "source": "streamlinefeed.co.ke",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUS1FdEJCeTI4TkVodHotLWtMN01nWXp3X1ZoTXV5QnZvQ1EtVEd5UmY1MmRyRjByNlBQbl9kMU9aVmswenF6eVVNc1VqZ3FXQmFDVnd4VkE5YXVOS0ZSbHhmdXlQd1RTVjZuSEZLMUZ1TGhfeXcxeDM4MUM3dG5SQTd6NzRSMWJCUGVjZEdKc1hPc1RGcmNqQVNCWmpmY01rcDJfX0dkdUl4bnFQamJrcHNKZjBsUQ?oc=5",
-   "topic": "deals",
-   "published": "2026-10-06T09:29:43.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "https://streamlinefeed.co.ke/"
-   ],
-   "important": false
-  },
-  {
-   "id": "b54fb2edcc98",
-   "kind": "headline",
-   "title": "הבשורה הענקית של האוצר: ההטבה הדרמטית בדרך לדירה שמחכה למשרתי המילואים",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0X1BfUVkxcERzSVNuM1FockhHdkRTOXpEZFJ1Q0RySzZYLU1seEc0T3FkMFlEUHV5bjNiellwMmNrUXRfcmxvdmxNQTFMZXJUNllFTDBTcjJ5RUU5TmNHZTRVVTdkUQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T09:20:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
