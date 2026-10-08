@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65617,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:49.890Z"
+   "checkedAt": "2026-10-08T10:18:20.157Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:50.558Z"
+   "checkedAt": "2026-10-08T10:18:20.885Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:51.178Z"
+   "checkedAt": "2026-10-08T10:18:22.508Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:51.798Z"
+   "checkedAt": "2026-10-08T10:18:23.234Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:52.401Z"
+   "checkedAt": "2026-10-08T10:18:23.924Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:53.040Z"
+   "checkedAt": "2026-10-08T10:18:24.708Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
-   "subscribers": "8.41K",
+   "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:53.706Z"
+   "checkedAt": "2026-10-08T10:18:25.464Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131560,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:54.380Z"
+   "checkedAt": "2026-10-08T10:18:26.223Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74851,
+   "lastId": 74852,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:54.922Z"
+   "checkedAt": "2026-10-08T10:18:26.847Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:55.553Z"
+   "checkedAt": "2026-10-08T10:18:27.550Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T10:06:56.251Z"
+   "checkedAt": "2026-10-08T10:18:28.365Z"
   }
  },
  "posts": [
@@ -3888,13 +3888,22 @@
    "date": "2026-10-08T09:53:03+00:00",
    "text": "🔴 22-15 שנות מאסר לנאשמים ברצח איה אבו חג'אג' לעיני ילדיה בלוד ב-2023\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74852",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74852",
+   "date": "2026-10-08T10:17:05+00:00",
+   "text": "🔴 תלונה נגד נשיא העליון שאמר שיש חרדים עם טלפון חכם וכשר במקביל: \"מצר על כך\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T10:06:56.652Z",
+  "at": "2026-10-08T10:18:28.765Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 230
+  "added": 1,
+  "pendingNew": 231
  }
 }
