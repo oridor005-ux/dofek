@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65635,
+   "lastId": 65636,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:45.609Z"
+   "checkedAt": "2026-10-08T15:40:26.033Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:46.321Z"
+   "checkedAt": "2026-10-08T15:40:26.802Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:47.021Z"
+   "checkedAt": "2026-10-08T15:40:27.444Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11452,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:47.745Z"
+   "checkedAt": "2026-10-08T15:40:28.078Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19319,
+   "lastId": 19321,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:48.504Z"
+   "checkedAt": "2026-10-08T15:40:28.704Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:49.207Z"
+   "checkedAt": "2026-10-08T15:40:29.411Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:49.889Z"
+   "checkedAt": "2026-10-08T15:40:30.017Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131581,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:50.625Z"
+   "checkedAt": "2026-10-08T15:40:30.824Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74882,
+   "lastId": 74883,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:51.224Z"
+   "checkedAt": "2026-10-08T15:40:31.389Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:51.931Z"
+   "checkedAt": "2026-10-08T15:40:32.043Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T15:28:52.674Z"
+   "checkedAt": "2026-10-08T15:40:32.822Z"
   }
  },
  "posts": [
@@ -4545,13 +4545,40 @@
    "text": "יש מבצעים שפשוט אסור לפספס 😍\n🛋️ כורסה דגם סברינה של שמרת הזורע רק ב־990 ₪ במקום 1,890 ₪\nהמבצע ל־72 שעות בלבד!\n🎟️ בהקלדת קוד קופון בלעדי לעוקבי הערוץ: ALI990\n👈 להזמנה: https://bit.ly/4j9cuVg\n💫 עוד מבצעים מפנקים: https://www.shw.co.il/sale",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19320",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19320",
+   "date": "2026-10-08T15:33:01+00:00",
+   "text": "ש״ס מאשימה את ״אנשי מחאת קפלן״ במימון והתנעת מחאות החרדים ברחבי הארץ",
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19321",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19321",
+   "date": "2026-10-08T15:33:16+00:00",
+   "text": "וכמובן גם את היועמ״שית, אבל היא תמיד אשמה בהכל אז זה לא חדש",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74883",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74883",
+   "date": "2026-10-08T15:33:53+00:00",
+   "text": "🔴 כביש 4 במחלף אלוף שדה נפתח לתנועה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T15:28:53.075Z",
+  "at": "2026-10-08T15:40:33.222Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 260
+  "added": 3,
+  "pendingNew": 263
  }
 }

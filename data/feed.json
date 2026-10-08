@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:40:02.129Z",
+ "updated": "2026-10-08T15:51:39.086Z",
  "items": [
   {
    "id": "0cfb42585b8a",
@@ -53,6 +53,20 @@
    "published": "2026-10-08T15:03:00.000Z",
    "summary": "שלוש שנים לטבח ה-7 באוקטובר: מה קרה מאז למספר התושבים שגרים בישובים שבעוטף עזה • שתי חברות בינה מלאכותית הציגו השבוע הישגים יוצא דופן ודומים. מהם? • וגם: השבוע אושרה תביעה ייצוגית נגד רשת רמי לוי. מה הסיבה? • חושבים שאתם בקיאים בכל מה שקרה השבוע בכלכלה בארץ ובעולם? בואו לבחון את הידע שלכם • החידון…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1613446679/old/1434514.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3990b85827f7",
+   "kind": "headline",
+   "title": "מה כוללת תוכניות המיסוי החדשה של האוצר?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558846#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T15:03:00.000Z",
+   "summary": "שלוש שנים לטבח ה-7 באוקטובר: מה קרה מאז למספר התושבים שגרים בישובים שבעוטף עזה • שתי חברות בינה מלאכותית הציגו השבוע הישגים יוצא דופן ודומים. מהם? • וגם: השבוע אושרה תביעה ייצוגית נגד רשת רמי לוי. מה הסיבה? • חושבים שאתם בקיאים בכל מה שקרה השבוע בכלכלה בארץ ובעולם? בואו לבחון את הידע שלכם • החידון…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791472698/shutterstock_2846248911_mjeieq.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5634,20 +5648,6 @@
    "summary": "למרות שרשות התחרות הסירה את התנגדותה לעסקת הענק של ניו-מד ורציו מול תחנות הכוח החדשות של יצרנית החשמל דליה, בניו-מד מתקעשים שהעסקה מבוטלת • מנגד, בדליה מתעקשים שההסכם בתוקף: \"עמדת החברה היא כי הודעת הביטול ניתנה שלא בהתאם להוראות ההסכם והדין\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790516849/800_dqv9us.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8c2c9e7c6676",
-   "kind": "headline",
-   "title": "עלייה מתונה בדולר, נסחר מעל 3.05 שקלים",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hbWVYZ1Y4MXhseXVUMVlaMjJYM1ljbXdvWHZDN2Nia094b295RHRpXzh1VEJDRXdBUnFpblRubHB3NUNmbXRpVjd3dXJmOVJOaEtBVzVUSVBBWW5zUWVzRHBn?oc=5",
-   "topic": "econ",
-   "published": "2026-10-07T04:04:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
