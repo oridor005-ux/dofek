@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T08:55:13.049Z",
+ "updated": "2026-10-08T09:06:46.423Z",
  "items": [
+  {
+   "id": "d79c10f81588",
+   "kind": "headline",
+   "title": "מגמה מעורבת בתל אביב; נקסט ויז'ן מטפסת בכ-4%",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T09:02:00.000Z",
+   "summary": "ת\"א 35 יורד בכ-0.2%, מדד ת\"א 90 מטפס בכ-0.2% • מניות השבבים נובה וטאואר מאבדות גובה • יו\"ר נקסט ויז'ן בעקבות הנפילה במניה: \"יש ביקוש חזק הן בטווח המיידי והן בטווח הארוך\" • פי.סי.בי רוכשת את Gorilla Circuits בארה\"ב לפי שווי פעילות של 120 מיליון דולר • ירידות בחוזים בניו יורק • אחרי השיאים בוול…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "921d93badc38",
+   "kind": "headline",
+   "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
+   "topic": "knesset",
+   "published": "2026-10-08T09:00:11.000Z",
+   "summary": "A top aide to Ambassador Mike Huckabee skewed information to portray the Netanyahu government in a favorable light, according to multiple officials and documents obtained by The Times.",
+   "image": "https://static01.nyt.com/images/2026/09/30/multimedia/00int-usembassy-jerusalem-ltvc/00int-usembassy-jerusalem-ltvc-mediumSquareAt3X.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "df9cb07332fb",
    "kind": "headline",
@@ -5610,34 +5638,6 @@
    "published": "2026-10-06T14:33:00.000Z",
    "summary": "דירקטוריוני בנק דיסקונט ובנק מרכנתיל אישרו את מיזוג הבת לתוך האם במסגרת מהלך אסטרטגי לצמצום חפיפות, פישוט מבנה הקבוצה ושיפור היעילות התפעולית • מרכנתיל ימשיך לפעול כמותג עצמאי ותחומי התמחותו המרכזיים, בהם הפעילות בחברה הערבית, החרדית, בקרב עסקים קטנים וברשויות המקומיות &ndash; ישמרו במלואם • המהלך…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6731d9738dd9",
-   "kind": "headline",
-   "title": "Moscow is watching Latvia. Is Washington?",
-   "source": "Engelsberg Ideas",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblBINlAxclVheTFtMzgyYmwzaFN2QzdDX2Z3U003V1IwaGRZZElFM3NMaEMwMTdxdWZHLW1iVVVzWGQ3UmtsRjFHMW5DMEhDUkxQMVBqdFQtc2N4aXZid1hjdV9xX2lUaVpTNTAxVmNhcEJ3dGNRemQ3OVdJTy1lZE9Fbw?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T14:26:02.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c52626a37c26",
-   "kind": "headline",
-   "title": "ספאם הבחירות שמשגע את כולנו: האם מותר למפלגות להטריד אותנו?",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/b13oyufigg",
-   "topic": "econ",
-   "published": "2026-10-06T14:23:12.000Z",
-   "summary": "הפוליטיקאים החריגו את תעמולת הבחירות מחוק הספאם, והכתובת היחידה של אזרחים שמרגישים מוטרדים היא ועדת הבחירות המרכזית, אבל יש כמה חריגים ולמפלגות אין כוח בלתי מוגבל להטריד את הציבור. מתי בכל זאת אפשר לתבוע ומהן גבולות התעמולה? ynet מסביר",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SJCbio9ufx/SJCbio9ufx_0_0_850_479_0_medium.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
