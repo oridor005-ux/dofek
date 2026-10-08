@@ -4463,12 +4463,23 @@
    "found": "2026-10-08T11:06:50Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694243342812450069.txt"
+  },
+  {
+   "id": "7694252347719027976",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694252347719027976",
+   "caption": "ביום השנה השלישי לטבח 7 באוקטובר, דווקא בלב סוריה הונפו דגלי ישראל ות...",
+   "posted": "1791457736",
+   "found": "2026-10-08T11:17:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694252347719027976.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T11:07:02Z",
+  "at": "2026-10-08T11:17:51Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
