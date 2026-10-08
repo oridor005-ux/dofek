@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692526506895035669",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692526506895035669",
-   "caption": "הזכרונות מהטבח הנורא מכים בנו: לקט של מספר פוסטים של שורדי שבי ומשפחו...",
-   "posted": "1791055908",
-   "found": "2026-10-03T20:27:35Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692526506895035669.txt"
-  },
-  {
    "id": "7692513354639838485",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4492,12 +4481,23 @@
    "posted": "1791470574",
    "found": "2026-10-08T14:50:53Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694305305043193095",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694305305043193095",
+   "caption": "פשוט לא אכפת להם | חיים לוינסון כדי לברוח מאחריות צריך קודם להבין שהי...",
+   "posted": "1791471720",
+   "found": "2026-10-08T15:06:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694305305043193095.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T14:51:08Z",
+  "at": "2026-10-08T15:07:04Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
