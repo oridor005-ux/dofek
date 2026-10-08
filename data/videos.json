@@ -4387,10 +4387,21 @@
    "found": "2026-10-08T09:46:39Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694229074503306514.txt"
+  },
+  {
+   "id": "7694231436085300500",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694231436085300500",
+   "caption": "כתב אישום הוגש נגד מוחמד שלבי, בן 22 מבית חנינא וסטודנט לרוקחות. לפי ...",
+   "posted": "1791452869",
+   "found": "2026-10-08T10:01:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694231436085300500.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T09:46:59Z",
+  "at": "2026-10-08T10:01:32Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
