@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T16:40:11.431Z",
+ "updated": "2026-10-08T16:51:42.305Z",
  "items": [
+  {
+   "id": "b21391cf5467",
+   "kind": "headline",
+   "title": "Israel promotes film that mimics NAZA documentary",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+   "topic": "world",
+   "published": "2026-10-08T16:49:11.000Z",
+   "summary": "Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civilians The Israeli government is promoting an online film project that mimics the style of NAZA, the award-winning documentary that details Israel’s mass killings of…",
+   "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/253_73_2515_2012/master/2515.jpg?width=140&quality=85&auto=format&fit=max&s=c1f889fb50412b98f8a39eb409809ea0",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "54641280a16c",
+   "kind": "headline",
+   "title": "\"הסתובבו בפיג'מות בלובי\": מלון בראשית דורש הקלה בארנונה אחרי שאירח מפונים",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/ry3ymrrjgg",
+   "topic": "econ",
+   "published": "2026-10-08T16:40:13.000Z",
+   "summary": "רשת ישרוטל מערערת על החלטת המועצה המקומית מצפה רמון לחייב את מלון היוקרה בארנונה בתעריף ‏מלונאות, גם בתקופה שבה אירח מפונים. מנכ\"ל המלון תיאר כיצד הפכו האולמות לגני ילדים והלובי למקום ‏מפגש של חברי קיבוץ, וטען כי המלון שינה את אופיו. המועצה: בקשות להקלות במס יש להפנות ‏לממשלה",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/12/05/9639588/9639588_143_38_720_406_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9a3f102f783a",
    "kind": "headline",
@@ -5618,37 +5646,6 @@
    "alsoIn": [
     "The Business Times",
     "The Straits Times"
-   ],
-   "important": false
-  },
-  {
-   "id": "88cb2e65f197",
-   "kind": "headline",
-   "title": "Israel marks three years since 7 October attack by Hamas – live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/oct/07/israel-october-7-anniversary-hamas-gaza-netanyahu-iran-latest-news-updates",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T06:19:47.000Z",
-   "summary": "1,200 died in attack that led to launch of devastating war in Gaza We are starting our live coverage on the third anniversary of the Hamas-led 7 October attack on southern Israel, in which about 1,200 people were killed and another 251 taken back to Gaza as hostages. Israeli communities shattered…",
-   "image": "https://i.guim.co.uk/img/media/b06e781437a45c4537f257ba67c82b1dc7b5439d/725_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=8f73cc1743ba8a7f9a9888308e9c355f",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4f3b854f6460",
-   "kind": "headline",
-   "title": "Maine Senate candidates spar over military aid to Israel",
-   "source": "Jewish Telegraphic Agency",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzVXc1F1Ul9LTWhvNjQxY1ROM2F3Ti1NMlBuTHp2U0NsTGotbE9Uam42SEV2a243MC1YamZpX3BibzEzdm45WGJTeHR3RzR2Q3B3UVRrXzlrUU5mZGl5OE5mZWc3am5nR2kzUU54eWRxR1EzRTJDTkpNcEJVLWdaa2VFdzhTMXN0SVNITGJRSnRHSmdjUUpKbnVwVHU?oc=5",
-   "topic": "defense",
-   "published": "2026-10-07T06:12:49.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "The Jerusalem Post",
-    "The Forward"
    ],
    "important": false
   }

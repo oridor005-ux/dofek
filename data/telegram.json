@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65640,
    "ok": true,
-   "checkedAt": "2026-10-08T16:28:56.826Z"
+   "checkedAt": "2026-10-08T16:40:30.818Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T16:28:57.459Z"
+   "checkedAt": "2026-10-08T16:40:31.472Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T16:28:58.091Z"
+   "checkedAt": "2026-10-08T16:40:32.110Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11452,
    "ok": true,
-   "checkedAt": "2026-10-08T16:28:58.773Z"
+   "checkedAt": "2026-10-08T16:40:32.768Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19322,
    "ok": true,
-   "checkedAt": "2026-10-08T16:28:59.412Z"
+   "checkedAt": "2026-10-08T16:40:33.391Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T16:29:00.139Z"
+   "checkedAt": "2026-10-08T16:40:34.016Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T16:29:00.757Z"
+   "checkedAt": "2026-10-08T16:40:34.632Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131587,
+   "lastId": 131588,
    "ok": true,
-   "checkedAt": "2026-10-08T16:29:01.427Z"
+   "checkedAt": "2026-10-08T16:40:35.305Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74887,
+   "lastId": 74888,
    "ok": true,
-   "checkedAt": "2026-10-08T16:29:01.965Z"
+   "checkedAt": "2026-10-08T16:40:35.851Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T16:29:02.607Z"
+   "checkedAt": "2026-10-08T16:40:36.512Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11071,
    "ok": true,
-   "checkedAt": "2026-10-08T16:29:03.288Z"
+   "checkedAt": "2026-10-08T16:40:37.185Z"
   }
  },
  "posts": [
@@ -197,15 +197,6 @@
    "insightIds": [
     "ins-2026-10-06-mg71"
    ]
-  },
-  {
-   "id": "knessettv/54894",
-   "channel": "knessettv",
-   "name": "ערוץ כנסת 99",
-   "url": "https://t.me/knessettv/54894",
-   "date": "2026-10-04T16:39:12+00:00",
-   "text": "\"האם כל פעם צריך אויב שיזכיר לנו שיש לנו סיפור משותף?\" 🇮🇱 \n\"החמאס אמר לנו - אתם יכולים להמשיך לריב, מבחינתי אתם יחידה אחת\": עליזה בלוך, מועמדת ממפלגת כחול לבן, מספרת מהיציאה מטקס ההנצחה ביער רעים על הלקחים מאסון ה-7/10 ועל הצורך באחדות: \"זהו יום קשה, שמזכיר לנו מה המשמעות של הביחד. אי אפשר לטפל במשימות החשובות כשעוסקים במלחמות גושים\"\n📺 מתוך #תא_הכתבים עם רינת ספיבק | ערוץ כנסת 99",
-   "status": "no-claims"
   },
   {
    "id": "knessettv/54896",
@@ -4699,13 +4690,32 @@
    "date": "2026-10-08T16:27:34+00:00",
    "text": "🔴 מאות חרדים השתתפו בהפגנות, המשטרה: \"3 שהפגינו בכביש 4 באזור בני ברק נעצרו\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131588",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131588",
+   "date": "2026-10-08T16:37:01+00:00",
+   "text": "ההצהרה של ראש עיריית ניו יורק ממדאני לרגל ה 7.10 מעוררת סערה: פסקה קצרה וקורקטית אחת על הטבח והשאר -מתקפה נגד ישראל זו לשון ההצהרה: היום הזה כואב מאוד עבור רבים מתושבי ניו יורק. היום מציינים שלוש שנים לפשעי המלחמה הנוראים של ה 7 באוקטובר. באותו יום הרגה…",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74888",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74888",
+   "date": "2026-10-08T16:33:15+00:00",
+   "text": "🔴 התנועה לאיכות השלטון דורשת לעצור את המינוי למנכ\"ל עיריית טבריה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T16:29:03.690Z",
+  "at": "2026-10-08T16:40:37.586Z",
   "ok": 11,
   "fail": 0,
-  "added": 5,
-  "pendingNew": 277
+  "added": 2,
+  "pendingNew": 279
  }
 }
