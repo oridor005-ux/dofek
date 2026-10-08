@@ -4290,12 +4290,33 @@
    "found": "2026-10-08T08:46:36Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694212553408302344.txt"
+  },
+  {
+   "id": "7694217251787934996",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7694217251787934996",
+   "caption": "\"אי פעם רציתי לרצוח אותך? את אחותי\": עימות סוער באולפן מול השר בן גבי...",
+   "posted": "1791449562",
+   "found": "2026-10-08T09:02:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694217251787934996.txt"
+  },
+  {
+   "id": "7694193892949806342",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694193892949806342",
+   "caption": "\"בואי הביתה מיד\": בצל מחאות התלמידים הסוערות בצרפת, שהדרדרו לאלימות מ...",
+   "posted": "1791444123",
+   "found": "2026-10-08T09:02:45Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-08T08:46:56Z",
+  "at": "2026-10-08T09:03:03Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
