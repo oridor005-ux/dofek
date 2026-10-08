@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T01:35:35.701Z",
+ "updated": "2026-10-08T01:47:58.816Z",
  "items": [
+  {
+   "id": "e60d3f287a12",
+   "kind": "headline",
+   "title": "BDS movement urges boycott of Andrea Bocelli’s Jordan concert at Petra over Israel ties",
+   "source": "Malay Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWZob0xCMWdCLUc0eXlyVnd3TjFVNDM1R0lSdUh4bVVETW42V2FVWVllOUg0WmJqeEtjNk80R2JUTGVhbVR2LXVlYnN5T2hNRWZsT2ZaTnNiWTJRbDNwb0ROMjNLazlKTnJ2S2JfaUY5SjV6VWtoR0N2Q3FIanVXSDhQODNsazdZcTgtdWcxZEdBZkw2NXVGR08tYnU2SV80Y2c1TjUwNV95RmI5RTdMYkh4bG1GMXZiNWw5ZUxhNnpRdDlCUU5Sa01HLVRtWlU4VmlEaUU3cHF3YW_SAeABQVVfeXFMUDdxOFBtbkJiQlpsME5xRGFmOXVhVnVfckpVZUhpWFZseGdrbVVFZ0xyS3ZLWFpDM25VNlNNMXBNS09iTHpuVWNldXZDa0NnOURhWVF3RUNza201TEx0b1hzc0dVLU9Ea0hMSnhUSzBmYUtuaDRUYmNQdkRGTUo2R0RNYU5XZm13S00zcHdtajJtajlhNE12N0dsQUpQVEdWakRyRUNQS0dPVEs0bFhFTlNFSzJEZENDVFdlXzhET3hGZG56UFhlaTBkQmpNYlJpQ0dDMTRxTDFHVWxGN3Vpa28?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T01:17:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "27024d21f149",
    "kind": "headline",
@@ -747,6 +761,20 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBka0h5S25pZGRob2JiV2RxWGcwdWFkQ3pfMGJJai1VX0R3Q3dnTk9PeDN1ZlZhbzJmVVJxYTJNR1pCTUlUQmg1SGp5d3NCMVo4Z3ZhNDdHMWhpNUhfYTI0?oc=5",
    "topic": "econ",
    "published": "2026-10-07T15:38:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9050f6411708",
+   "kind": "headline",
+   "title": "המערך החדש לאיסוף הממצאים לקראת ועדת החקירה של טבח ה-7.10",
+   "source": "C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OQTNxNnR3VEx2OTNFQXhMT0NkaVp2Q25yTF80cnMzRFh5MDgwNG5rOXlZdS1uTWRPbTdadzh5RV9Sb2ttVFJweWNJcUNBdw?oc=5",
+   "topic": "research",
+   "published": "2026-10-07T15:34:08.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -1814,6 +1842,20 @@
    "important": false
   },
   {
+   "id": "6da77a4d66ca",
+   "kind": "headline",
+   "title": "Spain’s snap election is unlikely to address its housing crisis",
+   "source": "Washington Examiner",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVljRGFEc3E2TWc0OXY2THJXLWlqY0JTb1RuVHFVZWl6TmxCMXNtTm9uMnhyaEFRalVZOGExZ3ozY0FGWEJhNWJhdEc1QkhPcXlVS2ktRXhzSEZZZXU0SlRmQ2lLR0VXc1VOU0NiRGFod0g2VFRobWdfSU5GUUc3SEg1RHpKdzhVQVp4ZnRPUWY0ZHZYaUlVc05NaXg4dUZmR2Fhb3pB?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T10:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "595da3211c01",
    "kind": "headline",
    "title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado’s race to represent the 5th Congressional District",
@@ -2573,6 +2615,20 @@
     "The Jerusalem Post",
     "The Forward"
    ],
+   "important": false
+  },
+  {
+   "id": "b39a58c757b0",
+   "kind": "headline",
+   "title": "Spanish leader Sanchez's political gamble: How will housing, migration woes impact the snap election?",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeXJxcWktWUpvY3Etekd3UFdsMW5ncTVScnRRaGpFdko1X2o1QUFablByNy1QSWhQY2kyd01uRnZ1X3oyNGdJTXhNVVBMR0Zqc0dhMEY5b1VoazF5OW80OGFyUGRHeV82d19XWHIzXzNPNHFkcUQ1dlRiY3FUbFdrc3hXUWZjcGszdW1wdVFPczAxaDlwTkHSAZYBQVVfeXFMUHZkZTNVZzRSVlM4dm96UE0zM285a3JRSTRXbGczNjMzMHFoOGRHeUd3RzlVSVFsMkl0d1J5eUxmSHZpd0c0NmVlRWczUUhRejhrZTNfd2hwbE4ybW42Sk5qNTNidktjbDdkYnFNeGQ0NG53N3lCakE1MjRWbDduUWZnVEhZcXhWZ1pRN2IzZWZBaWJnandR?oc=5",
+   "topic": "world",
+   "published": "2026-10-07T06:06:09.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5601,64 +5657,6 @@
    "summary": "רשות המסים מפרסמת נתונים אודות פעילות קרן הפיצויים לרגל יום השנה השלישי לציון טבח ה-7 באוקטובר של חמאס על יישובי עוטף עזה ופרוץ מלחמת \"חרבות ברזל\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775392826/direct/AP26094484580368_e1azt2.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0a767d8ee248",
-   "kind": "headline",
-   "title": "סיבוב הפרסה של רשות התחרות: עסקת הענק של ניו מד יוצאת לדרך",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558529#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T09:18:00.000Z",
-   "summary": "רשות התחרות הסירה את ההתנגדויות שהעלתה לעסקת הענק עליה חתמו שותפות לווייתן ניו-מד ורציו עם תחנות הכוח החדשות של דליה, בהיקף של 6.7 מיליארד דולר",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790516849/800_dqv9us.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f921c12d4ab0",
-   "kind": "headline",
-   "title": "ניו-מד איימה לבטל את עסקת הענק ורשות התחרות חזרה בה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558529#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T09:18:00.000Z",
-   "summary": "רשות התחרות הסירה את התנגדותה לעסקת הענק עליה חתמו שותפות לווייתן ניו-מד ורציו עם תחנות הכוח החדשות של דליה, בהיקף של 6.7 מיליארד דולר",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790516849/800_dqv9us.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "97c8ae3bd262",
-   "kind": "headline",
-   "title": "חתולים ואושר: המחקר החדש שכלל גם את ישראל | וואלה חדשות",
-   "source": "וואלה",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LWGlMNjlWck51OEo4akhQYTZfRkZCZEhkTHVDc0toNWpUa04wMkp5NnhEV2lhRVlURGRKQTNWR3kxVWZPQXFNZHQyN1hzUVAzUzRkdm9wYm1nUnNn?oc=5",
-   "topic": "research",
-   "published": "2026-10-06T09:16:38.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "walla.co.il"
-   ],
-   "important": false
-  },
-  {
-   "id": "56fb78745cda",
-   "kind": "headline",
-   "title": "Voting intention, 4-5 October 2026: Lab 27%, Ref 22%, Con 20%, LD 11%, Grn 11%",
-   "source": "YouGov",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjktR3ZUaG9SWEpYNk1MMGNJd2o0OWZ5TVo5amVUeVFDeDlWUE1vQzk0QXJ0c2xYQmdpQTRId1MyUWVlRkpEdkluWGhwaktEbDdObVE1SDJyMDZOV0V5azJGN1E1X3RONDVnNUhlbDJsODlWZTZMOE1rbmQxQmdGYWNfQUdTM3NpMWc1dzMycjVhcFA2M0VSTGJNN2YzdXQyNXhVTU9FcEpnbWM?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T09:08:33.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }

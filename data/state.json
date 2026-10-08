@@ -135,7 +135,7 @@
   "ins-2026-10-08-bc31",
   "ins-2026-10-08-ab42"
  ],
- "lastRun": "2026-10-08T01:35:35.701Z",
+ "lastRun": "2026-10-08T01:47:58.816Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -160,12 +160,12 @@
      "HTTP 403": 2
     }
    },
-   "at": "2026-10-08T01:00:16.174Z"
+   "at": "2026-10-08T01:35:54.483Z"
   },
-  "lastNewItemAt": "2026-10-08T01:35:35.701Z",
+  "lastNewItemAt": "2026-10-08T01:47:58.816Z",
   "lastPushOkAt": "2026-10-07T19:02:40.070Z",
-  "googleOkAt": "2026-10-08T01:00:16.174Z"
+  "googleOkAt": "2026-10-08T01:35:54.483Z"
  },
- "lastFullAt": "2026-10-08T01:00:16.174Z",
+ "lastFullAt": "2026-10-08T01:35:54.483Z",
  "webPushSubscribers": 2
 }
