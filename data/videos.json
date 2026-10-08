@@ -1,53 +1,6 @@
 {
  "items": [
   {
-   "id": "7692737435230391560",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692737435230391560",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791105018",
-   "found": "2026-10-04T09:21:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692737435230391560.txt"
-  },
-  {
-   "id": "7692745139453824274",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692745139453824274",
-   "caption": "\"מרגיש מושפל, דם ילדינו ספוג פה\" בימים האחרונים למרות התנגדות מצד הור...",
-   "posted": "1791106809",
-   "found": "2026-10-04T09:52:21Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692745139453824274.txt",
-   "insightIds": [
-    "ins-2026-10-04-n0v4"
-   ]
-  },
-  {
-   "id": "7692753296641101057",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692753296641101057",
-   "caption": "\"גולדקנופף יכול להיות חלק מהממשלה\" עופר וינטר, שמפלגתו נמצאת על סף אח...",
-   "posted": "1791108714",
-   "found": "2026-10-04T10:22:11Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692753296641101057.txt"
-  },
-  {
-   "id": "7692759155605802247",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692759155605802247",
-   "caption": "#פוריו #ימין #שמאל #בשבילך",
-   "posted": "1791110070",
-   "found": "2026-10-04T10:37:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692759155605802247.txt"
-  },
-  {
    "id": "7692756414296640776",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4474,12 +4427,55 @@
    "found": "2026-10-08T19:13:34Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694376147555077396.txt"
+  },
+  {
+   "id": "7694376895114186002",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694376895114186002",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791486734",
+   "found": "2026-10-08T19:27:20Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694376895114186002.txt"
+  },
+  {
+   "id": "7694378135827057928",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694378135827057928",
+   "caption": "המזכיר הצבאי לשעבר של ראש הממשלה, האלוף אבי גיל, קיבל במהלך ליל 7 באו...",
+   "posted": "1791487027",
+   "found": "2026-10-08T19:27:46Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7694379532064754952",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694379532064754952",
+   "caption": "אבי גיל, המזכיר הצבאי של נתניהו לשעבר, על הניסיון של צחי ברוורמן לזיי...",
+   "posted": "1791487352",
+   "found": "2026-10-08T19:28:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694379532064754952.txt"
+  },
+  {
+   "id": "7694379504097168661",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694379504097168661",
+   "caption": "למה הושמטו כלי נ$ק בהסדר הטיעון - והחתן קיבל רק 45 חודשי מאסר? (שלי ט...",
+   "posted": "1791487348",
+   "found": "2026-10-08T19:30:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694379504097168661.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T19:13:39Z",
+  "at": "2026-10-08T19:30:36Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 4
  }
 }
