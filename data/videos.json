@@ -1,39 +1,6 @@
 {
  "items": [
   {
-   "id": "7692488502751022357",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7692488502751022357",
-   "caption": "אלון התגייס למילואים ב7.10 ונלחם בזמן שסבו וסבתו, עודד ז\"ל ויוכבד ליפ...",
-   "posted": "1791047055",
-   "found": "2026-10-03T18:40:10Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692488502751022357.txt"
-  },
-  {
-   "id": "7692491587833679125",
-   "channel": "guyzo",
-   "name": "guyzo",
-   "url": "https://www.tiktok.com/@guyzo/video/7692491587833679125",
-   "caption": "שמתם לב שאם אומרים ״משילות״ מספיק פעמים ברצף ומהר יוצא ״תצביעו לסמוטר...",
-   "posted": "1791047775",
-   "found": "2026-10-03T18:40:32Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692491587833679125.txt"
-  },
-  {
-   "id": "7692492122380881173",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692492122380881173",
-   "caption": "עשרה חודשים היא הוגדרה כנעדרת האחרונה מ-7 באוקטובר. עשרה חודשים שבהם ...",
-   "posted": "1791047899",
-   "found": "2026-10-03T18:40:59Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692492122380881173.txt"
-  },
-  {
    "id": "7692477783838133525",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4499,12 +4466,45 @@
    "found": "2026-10-08T14:06:30Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694293588536069384.txt"
+  },
+  {
+   "id": "7694300654575127829",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7694300654575127829",
+   "caption": "תודה מיוחדת לבתי הלוחם דואגים לשקם וללוות עשרות אלפי פצועי צה״ל, שהפג...",
+   "posted": "1791468979",
+   "found": "2026-10-08T14:21:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694300654575127829.txt"
+  },
+  {
+   "id": "7694300971224141063",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694300971224141063",
+   "caption": "",
+   "posted": "1791469054",
+   "found": "2026-10-08T14:22:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694300971224141063.txt"
+  },
+  {
+   "id": "7694298004332776725",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694298004332776725",
+   "caption": "",
+   "posted": "1791468365",
+   "found": "2026-10-08T14:22:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694298004332776725.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T14:06:48Z",
+  "at": "2026-10-08T14:22:57Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 3
  }
 }
