@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T17:28:23.546Z",
+ "updated": "2026-10-08T17:38:06.173Z",
  "items": [
   {
    "id": "f85ee8d82aa0",
@@ -56,6 +56,20 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "ed9a7d806d6c",
+   "kind": "headline",
+   "title": "הנאסד\"ק נופל ביותר מ-1%; קצב ההכנסות של OpenAI נמוך מההערכות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-08T17:00:00.000Z",
+   "summary": "המסחר בניו יורק מתנהל בטריטוריה האדומה בהובלת מניות הטכנולוגיה • קצב ההכנסות השנתי של OpenAI עומד על 50 מיליארד דולר בלבד • סקטור האנרגיה מזנק, הנשיא טראמפ מצנן את שוק הנפט • תביעות האבטלה הראשוניות ירדו מתחת לתחזיות והפד מאותת על עוד העלאות ריבית באופק • אירופה ננעלה בירידות רוחביות • רוזנבלט החל…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1663249791/direct/roberto-junior-4fsCBcZt9H8-unsplash_vztsq3.jpg",
+   "score": 9,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "b21391cf5467",
@@ -5630,20 +5644,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "633a27417c5d",
-   "kind": "headline",
-   "title": "ירידות באירופה; מחירי הנפט ותשואות האג\"ח בארה\"ב מטפסים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-07T07:23:00.000Z",
-   "summary": "בורסת פרנקפורט יורדת בכ-0.8% • בורסות אסיה ננעלו במגמה מעורבת, הקוספי נפל בכ-2% • וול סטריט טיפסה אמש לשיאים חדשים • דיווח של בלומברג על התגברות התקיפות האיראניות על מכליות בהורמוז דוחף מעלה את מחירי הנפט • וגם: למרות השיאים בניו יורק, בגולדמן זאקס מזהירים: ה-S&P 500 כבר לא משקף את מצבו האמיתי של…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672302361/direct/shutterstock_2207725477_yl9eh8.jpg",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
