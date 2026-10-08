@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T06:55:47.793Z",
+ "updated": "2026-10-08T07:08:11.843Z",
  "items": [
+  {
+   "id": "a757af8fdc65",
+   "kind": "headline",
+   "title": "מגמה מעורבת בת\"א; נקסט ויז'ן עולה ב-2%",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T07:01:00.000Z",
+   "summary": "ת\"א 35 יורד ב-0.6% • המניות הדואליות ללא שינויים משמעותיים • יו\"ר נקסט ויז'ן בעקבות הנפילה במניה: \"יש ביקוש חזק הן בטווח המיידי והן בטווח הארוך\" • פי.סי.בי רוכשת את Gorilla Circuits בארצות הברית לפי שווי פעילות של 120 מיליון דולר • יציבות בחוזים בניו יורק וירידות קלות באסיה • אחרי השיאים בוול…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2189ce86b5a0",
    "kind": "headline",
@@ -30,6 +44,20 @@
    "important": false
   },
   {
+   "id": "fea3e7c32bf8",
+   "kind": "headline",
+   "title": "Most UK diplomats to leave East Jerusalem consulate as Miliband says 'mission' to remain",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-08T06:47:09.000Z",
+   "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af2/live/5079a140-c2df-11f1-bc2e-018d645d8d21.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "fd47b7363793",
    "kind": "headline",
    "title": "הפיתוח שמסייע ליישובי העוטף: מערכת השקיה חסינה משיבושי תקשורת",
@@ -44,6 +72,34 @@
    "important": false
   },
   {
+   "id": "8e1e916b22a9",
+   "kind": "headline",
+   "title": "Israel Says U.K. East Jerusalem Consulate 'Ended Operations'; U.K. Denies Closure",
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYUFHay05SnBQU3VLcmE3S1pWMUI4R19wdXc2Mk1BODlnTy1mX29hRUtMbk1sY0h4c18wQWRFbkdYUkYzcmxYS1k3UkMzcDBoOEFtZlNiczFiMEprMWhYQmRvQndrMnlRYjRNOEhGMGwwMVB3TGZnY05LR2g2Zm9WRENrWE83NEJGUVpRZlQwN0pob0NTSkFnS1ZBZTZPZ1BpbDg0WHpNY1hOeTZwSGs1RjVmT2dMSTVZZ2tFSWxaN2NORlhXRURZRW84MVlNOWFCVkJJdzdzZWtEd2xjRzMzSnIzUXAyQ0ZNNWJ1V01tbWhKUXpCZUxyWmpTRHJyOFF1VXVOT1M3akN6bDdYUFc0Q0ZGRzk?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T06:41:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6e023a534013",
+   "kind": "headline",
+   "title": "Family members reclaim both parliamentary seats vacated after election fraud and bribery rulings",
+   "source": "Kaniva Tonga News",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWFGel9NZFMxcTZmV045emVKcERZanRHRXA0M25NTVg1NEpIRjlvU01YRFI0LVpVVjNadWtPanlGLUdLdUNRem1nX0pNbzlHdjl3WEliSDdidHI3SV80S211c2RrQVV4LXowdDgxN01DcFNiQVd1dUYwUzBFbkFKT0wwYlJzNGt1ZHh5ajQzaGJfNURsc1FMQmlpVDU3cllMN0lwY1A5aEVxajV6dDJXdUwxNjBOSXdVTUdMazJPbE02QmUzbGQwZ1Axdw?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T06:15:12.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "fe654d04d193",
    "kind": "headline",
    "title": "OPINION: Coalitions need to serve communities, not politicians",
@@ -51,6 +107,20 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUpIM0JyX0FQb2txNXFydUVVZ08xcnFiOWRjSEt4WmpmWC1JZkc5UWdkQjhSTE9zMTVSUEl5MVpQQ3JuQlRDVEQ5RW1vOGQ1NmlZSGtCVzh3MFc4ejA4d3hGY2lRcTZ6c3hHWnRfbW95a2VwUjBldDNLTUd5X00yWS1VZ0xsVXlCRURsbFhKT1pVRFNCdWtwbVhkNzVYQQ?oc=5",
    "topic": "world",
    "published": "2026-10-08T06:00:33.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3e3d85ac932e",
+   "kind": "headline",
+   "title": "Peters wants conversion therapy ban gone, says abortion can be 'murder'",
+   "source": "1News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWw3V3Z0aDdqcHpSdlltaWpXVW1ZamhsNjMweFcxMXRoUTg0UWlrUjIzZ3kzSHNzT0lHcEd3Z0s5TExpU0tzYi1ZdFU5czgydktsOEtBYnVPSGE0TC0tUk90WHlienUyWFozZEYzdkI5TUlvM0x1Z2NXa1o0VzRlYTdla3dzRk4yekhhV2pFYVlNak53OEtFUG14ZEc2YllwVDJIY2Y2OA?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T05:50:29.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -237,6 +307,20 @@
    "published": "2026-10-08T03:56:51.000Z",
    "summary": "In a top Senate battleground, Representative Ashley Hinson, the Republican nominee, sparred with Josh Turek, her Democratic rival, on policy issues ranging from Medicaid to term limits.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07pol-iowa-takeaways-wlbg/07pol-iowa-takeaways-wlbg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "21f803dc30b5",
+   "kind": "headline",
+   "title": "Major data centres must meet strict security and resilience rules under new Bill | The Straits Times - newspaper",
+   "source": "Magzter",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWG1yejBVQ3ZWd3pQYjdTb0JVU0pzbjRkSGlOZzZfTXRTWURDR0pwdUlPZEx6Q2VEMVVJMkc1dVNleDRLZlJmR3c4czVHT0lMT21BMWloQ2VmZzk2VGxPbWhkUVVQYVJZUUY1dWgyQlUxYlFNbnlVc2R3UjNTSmtzSFRuZGd4QjU1dHphM21VZWdDRzM3dDI5R19GZk5sQWRwc0NVS3cyMEJGM1h2NW9yRXVqb2ViS0NEM1hhczZhamY2TU5zbEdVNURkX1k5SzhuZmNqMnZNMA?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T03:34:07.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1823,7 +1907,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Yahoo News UK"
+    "Yahoo News UK",
+    "Yahoo News Singapore"
    ],
    "important": false
   },
@@ -5559,94 +5644,6 @@
    "alsoIn": [
     "Techtime"
    ],
-   "important": false
-  },
-  {
-   "id": "c051d0f3e40d",
-   "kind": "headline",
-   "title": "חברת הפינטק קפיטוליס השלימה גיוס לפי שווי של 1.9 מיליארד דולר",
-   "source": "Calcalist",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhOTlZNjI1T2tHMGduQ3lrNU1NMXEzamdpV2VNMGdzVkV5OFlZenh6WHZvS0g5b2lUdmFCT1NSV2l1ZGdyU3dOWDl1LVdPbjJRdVl5dmljaDJFMkpRWmpsVTgyT1ZkV25Ucl9v?oc=5",
-   "topic": "deals",
-   "published": "2026-10-06T12:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [
-    "calcalist"
-   ],
-   "important": false
-  },
-  {
-   "id": "120433c744ab",
-   "kind": "headline",
-   "title": "וול סטריט בדרך להיפתח בשיאים חדשים; מחירי הנפט ותשואות האג\"ח יורדים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558504#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T11:50:00.000Z",
-   "summary": "מדדי הנאסד\"ק וה-S&P 500 בדרך לפתוח את היום בטריטוריית שיא • עליות גם באירופה • מחיר נפט מסוג ברנט ירד מתחת ל-100 דולר לחבית • בורסות אסיה נסחרו במגמה מעורבת, אחרי שהנאסד\"ק טיפס אמש לשיא חדש - מניות ענקיות הטכנולוגיה הובילו את הראלי • וגם: SpaceX של אילון מאסק זינקה לאחר המלצה של מורגן סטנלי,…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3f7edcb1d7db",
-   "kind": "headline",
-   "title": "חשד: הסתיר רווחים של עשרות מיליוני דולרים מקריפטו",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558551#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T11:49:00.000Z",
-   "summary": "רשות המסים ולהב 433 עצרו חשוד בהסתרת פעילות מסחר במטבעות דיגיטליים בהיקף של עשרות מיליוני דולרים • החשד: סחר במטבעות דיגיטליים בבורסות שונות, מבלי שדיווח לרשות המסים על פעילותו",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1634660081/direct/shutterstock_794562280_rumebg.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "df3b90aed821",
-   "kind": "headline",
-   "title": "עשרות סטודנטים למשפטים קיבלו בשורה משמחת",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001554748#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-06T11:49:00.000Z",
-   "summary": "שר המשפטים יריב לוין יחתם על תקנות להורדת ציון המעבר בבחינת לשכת עורכי הדין מיוני האחרון, ל-55 במקום 60 • המהלך יאפשר לעשרות נבחנים נוספים לעבור את הבחינה, לאחר שרק 42% עברו אותה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1674146994/COT_Pic/ezgif.com-gif-maker_bvhgb0.gif",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8a62064485fb",
-   "kind": "headline",
-   "title": "החיטה התייקרה? תפתחו את הדוחות, לא את הכיס שלנו",
-   "source": "Calcalist",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWExxTk9SNi1mM2pMTnZkaTBCUEw4Y2FBa2ZaRjdrYjZzSktmX3N1UFlqckw3R0phcG9SNkdZM3N5c01ZSzkxQkxzc1V2ODNjUnpoemZ1SS0wQjZuR1RBMWt2eVFlNUR4?oc=5",
-   "topic": "research",
-   "published": "2026-10-06T11:46:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "calcalist"
-   ],
-   "important": false
-  },
-  {
-   "id": "65b6c5deb5d8",
-   "kind": "headline",
-   "title": "יותר חתולים, יותר אושר? מחקר חדש מצא קשר מפתיע",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wRktlTGZkOFlORkxwNk1HUHVPLTh1azVybHRHUzhfOXYxYnE1elNXaGNMYWFyeHBXNGZpd0FtMVo3VGpaYnFDQ05lOGVtSHVMODBEVHFZUFZHTTRBcnBsbA?oc=5",
-   "topic": "research",
-   "published": "2026-10-06T11:43:29.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
