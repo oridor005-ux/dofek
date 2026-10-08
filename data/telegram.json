@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65618,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:25.180Z"
+   "checkedAt": "2026-10-08T10:54:01.780Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:25.928Z"
+   "checkedAt": "2026-10-08T10:54:02.495Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:26.750Z"
+   "checkedAt": "2026-10-08T10:54:03.187Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11447,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:27.473Z"
+   "checkedAt": "2026-10-08T10:54:03.886Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:28.222Z"
+   "checkedAt": "2026-10-08T10:54:04.558Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:28.925Z"
+   "checkedAt": "2026-10-08T10:54:05.252Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:29.652Z"
+   "checkedAt": "2026-10-08T10:54:05.918Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131560,
+   "lastId": 131561,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:30.573Z"
+   "checkedAt": "2026-10-08T10:54:06.663Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74852,
+   "lastId": 74853,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:31.200Z"
+   "checkedAt": "2026-10-08T10:54:07.257Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:31.956Z"
+   "checkedAt": "2026-10-08T10:54:07.990Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T10:42:32.738Z"
+   "checkedAt": "2026-10-08T10:54:08.727Z"
   }
  },
  "posts": [
@@ -3907,13 +3907,32 @@
    "text": "סרטון של ילד עזתי, לפי הרשתות זה מהשבוע האחרון.\n3 שנים לשבעה באוקטובר ועדיין מחנכים אותם לטבוח ביהודים. אם מישהו עדיין לא התפכח אז כבר אין תקווה...\nגם אחרי שנשמיד את חמאס- האידיאולוגיה שלו כבר חילחלה לדור הבא של המחבלים הפלסטינים!",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131561",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131561",
+   "date": "2026-10-08T10:48:39+00:00",
+   "text": "עיתונאים פלסטינים טוענים שרחפנים של צה\"ל מטילים פצצות תבערה על אוהלים של עזתיים במזרח ח'אן יונס.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74853",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74853",
+   "date": "2026-10-08T10:47:28+00:00",
+   "text": "🔴 בריטניה בסנקציות חדשות על רוסיה: נגד שירותים פיננסיים ו\"צי הצללים\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T10:42:33.138Z",
+  "at": "2026-10-08T10:54:09.129Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 232
+  "added": 2,
+  "pendingNew": 234
  }
 }

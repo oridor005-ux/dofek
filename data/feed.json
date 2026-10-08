@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T10:53:39.637Z",
+ "updated": "2026-10-08T11:05:16.987Z",
  "items": [
+  {
+   "id": "76dd8c732a26",
+   "kind": "headline",
+   "title": "ECB’s Lane Not Seeing ‘Noticeable’ Pickup in Eurozone Wages",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/economy/global/ecbs-lane-not-seeing-noticeable-pickup-in-eurozone-wages-bec01297?mod=rss_socialeconomyfeed",
+   "topic": "world",
+   "published": "2026-10-08T10:57:00.000Z",
+   "summary": "Wages aren’t rising at a rate that would trigger inflation alarms, European Central Bank Chief Economist Philip Lane said Thursday.",
+   "image": "https://images.wsj.net/im-52079083",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "5921a7951030",
+   "kind": "headline",
+   "title": "הבינה המלאכותית דוחקת הצידה את שאר שוק המניות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558582#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-08T10:54:00.000Z",
+   "summary": "מניות מחוץ למגזר הטכנולוגיה צפויות להציג ביצועים חלשים, צמיחת הרווחים צפויה להאט והחששות מסיכוני אשראי צפויים לגבור",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1761497774/direct/PAGE-15-800_mcxtej.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "f1f6fd56a5a1",
    "kind": "headline",
@@ -332,6 +360,20 @@
    "topic": "world",
    "published": "2026-10-08T08:20:00.000Z",
    "summary": "האיחוד האירופי התקשה לגבש תגובה יעילה עם ההצפה הסינית של מוצרים ממכוניות חשמליות ועד מתכות • כעת, גרמניה וצרפת סיכמו על מנגנון שיאפשר להטיל מכסים על סחורה סינית \"בתוך ימים בלבד\" • ההסכמה מגיעה ברקע המו\"מ בין האיחוד לסין שצפוי לארוך חודשים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765469052/direct/2025-09-12T111424Z_1705582216_MT1VCG000K02OLX_RTRMADP_3_VCG_eauaty.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9827a991db23",
+   "kind": "headline",
+   "title": "הקלף החדש שמדינות אירופה יוכלו לשלוף אל מול הצפת הסחורות מסין",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558784#utm_source=RSS",
+   "topic": "world",
+   "published": "2026-10-08T08:20:00.000Z",
+   "summary": "האיחוד האירופי התקשה לגבש תגובה יעילה עם ההצפה הסינית של מוצרים - ממכוניות חשמליות ועד מתכות • כעת, גרמניה וצרפת סיכמו על מנגנון שיאפשר להטיל מכסים על סחורה סינית \"בתוך ימים בלבד\" • ההסכמה מגיעה ברקע המו\"מ בין האיחוד לסין שצפוי לארוך חודשים",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765469052/direct/2025-09-12T111424Z_1705582216_MT1VCG000K02OLX_RTRMADP_3_VCG_eauaty.jpg",
    "score": 1,
    "alsoIn": [],
@@ -5596,50 +5638,6 @@
    "image": "",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3f8421ca784a",
-   "kind": "headline",
-   "title": "People of All Ages Join French Student Protests, as Movement Broadens",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
-   "topic": "world",
-   "published": "2026-10-06T16:14:07.000Z",
-   "summary": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live-broadening-lfgm/06france-protests-live-broadening-lfgm-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "950d556eb8f0",
-   "kind": "headline",
-   "title": "הבורסה ננעלה בירידות, המניות הביטחוניות הובילו את המגמה, מחזור חריג במק\"מים ואיזו מניה צנחה ביותר מ 12%?",
-   "source": "PassportNews",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TUnVrVldFTXhJMzlHUU5Ca0hYMXZUVC0tVDM4NThxQUZFbWRlQkpZdU1JRW0xYnI4eWRodmR3N3FrMmxsVW5jakJ2cHFLcXE4U0Fv?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T16:05:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "fef5165a9245",
-   "kind": "headline",
-   "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
-   "topic": "world",
-   "published": "2026-10-06T16:03:08.000Z",
-   "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [
-    "The New York Times"
-   ],
    "important": false
   }
  ]
