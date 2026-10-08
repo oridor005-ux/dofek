@@ -4160,12 +4160,67 @@
    "found": "2026-10-08T07:29:55Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694194261733969170.txt"
+  },
+  {
+   "id": "7694199056930835733",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7694199056930835733",
+   "caption": "בכל שנה ב7:00 בבוקר ההורים של איזבלה גנדלין מגיעים למיגונית בה נרצחה ...",
+   "posted": "1791445326",
+   "found": "2026-10-08T07:45:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694199056930835733.txt"
+  },
+  {
+   "id": "7694197400633658642",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694197400633658642",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791444941",
+   "found": "2026-10-08T07:45:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694197400633658642.txt"
+  },
+  {
+   "id": "7694197260162288904",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694197260162288904",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791444908",
+   "found": "2026-10-08T07:46:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694197260162288904.txt"
+  },
+  {
+   "id": "7694198549545897237",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7694198549545897237",
+   "caption": "\"הנכד שלי היה בן 13, מתחת למיטה 20 שעות, והיום הוא עמד לצידי ב'התקווה...",
+   "posted": "1791445208",
+   "found": "2026-10-08T07:47:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694198549545897237.txt"
+  },
+  {
+   "id": "7694197504732187922",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694197504732187922",
+   "caption": "שיירת רוכבים שהניפו דגלים ירוקים ונסעו בפראות עוררה חרדה בקרב תושבים,...",
+   "posted": "1791444975",
+   "found": "2026-10-08T07:48:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694197504732187922.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T07:30:22Z",
+  "at": "2026-10-08T07:48:29Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 5
  }
 }
