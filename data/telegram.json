@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65629,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:38.415Z"
+   "checkedAt": "2026-10-08T13:41:21.020Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:39.153Z"
+   "checkedAt": "2026-10-08T13:41:21.766Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:39.856Z"
+   "checkedAt": "2026-10-08T13:41:22.456Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11449,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:40.604Z"
+   "checkedAt": "2026-10-08T13:41:23.178Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19315,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:41.315Z"
+   "checkedAt": "2026-10-08T13:41:23.881Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:42.061Z"
+   "checkedAt": "2026-10-08T13:41:24.592Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:42.780Z"
+   "checkedAt": "2026-10-08T13:41:25.302Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131575,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:43.645Z"
+   "checkedAt": "2026-10-08T13:41:26.117Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74865,
+   "lastId": 74867,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:44.273Z"
+   "checkedAt": "2026-10-08T13:41:26.731Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
-   "lastId": 8409,
+   "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:45.034Z"
+   "checkedAt": "2026-10-08T13:41:27.460Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T13:29:45.816Z"
+   "checkedAt": "2026-10-08T13:41:28.325Z"
   }
  },
  "posts": [
@@ -4214,13 +4214,40 @@
    "date": "2026-10-08T13:28:45+00:00",
    "text": "🔴 הפגנות החרדים: הפלג הירושלמי ניסה להפריע לדרעי כנס בחירות במודיעין עילית\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74866",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74866",
+   "date": "2026-10-08T13:32:56+00:00",
+   "text": "🔴 מפגינים מהפלג הירושלמי חוסמים לתנועה את כביש 4\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74867",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74867",
+   "date": "2026-10-08T13:36:24+00:00",
+   "text": "🔴 תיעוד: חרדים מפגינים נגד כנס הבחירות של דרעי וחוסמים כבישים בסמוך\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "the7eye/8410",
+   "channel": "the7eye",
+   "name": "העין השביעית",
+   "url": "https://t.me/the7eye/8410",
+   "date": "2026-10-08T13:40:15+00:00",
+   "text": "השאירו את העובדים בחוץ: הראיונות עם רמי לוי, יפית אטיאס וראסל אלוונגר מלמדים שהעיתונות שכחה את הלקח של המחאה החברתית https://www.the7eye.org.il/596622\n==\n🧵 מעקב שוטף אחרי כל מה שקורה בעולם התקשורת: https://t.me/Seventh_Media\n🕯️ עיתונות שלא מפחדת עולה כסף, ובלעדיך היא לא קיימת: https://the7eye.org.il/join",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T13:29:46.217Z",
+  "at": "2026-10-08T13:41:28.725Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 224
+  "added": 3,
+  "pendingNew": 227
  }
 }
