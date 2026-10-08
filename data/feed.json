@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T00:23:56.481Z",
+ "updated": "2026-10-08T00:36:26.053Z",
  "items": [
+  {
+   "id": "27024d21f149",
+   "kind": "headline",
+   "title": "Judge Throws Out Last Defendant’s Confession in Sept. 11 Case at Guantánamo",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/us/politics/sept-11-case-confession.html",
+   "topic": "world",
+   "published": "2026-10-08T00:25:06.000Z",
+   "summary": "The government is now 5-0 in its efforts to admit the so-called clean team confessions to the capital cases at Guantánamo Bay.",
+   "image": "https://static01.nyt.com/images/2026/05/11/multimedia/17dc-gitmo-1/17dc-gitmo-1-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "6d23edf40711",
    "kind": "headline",
@@ -213,7 +227,9 @@
    "summary": "María del Carmen Abascal, aged and ailing, became a symbol of the country’s housing crisis when she was evicted two weeks ago, prompting mass protests and triggering nation elections.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-spain-top-ztqj/07int-spain-top-ztqj-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The New York Times"
+   ],
    "important": false
   },
   {
@@ -385,6 +401,20 @@
     "SILive.com",
     "OregonLive.com"
    ],
+   "important": false
+  },
+  {
+   "id": "c44c2a2c0132",
+   "kind": "headline",
+   "title": "בלימה ביצוא השירותים: ההייטק ירד ב־5% ביולי",
+   "source": "ביזנעס",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZWt1MzNYdVUzZkE3aXdiVU9ITnlDWDNsYVRYdEY4VHVxZHhrS0IzMGRTSE1ILVU2S1hxQkFac2o2VXJMNy1mZlMwaEdQbnNoR09tRm9hcHpfSHRpQUlkRVY5NUdJX3duTkd5TmdmcXFGdWFBSDREcTVUZl9wUXdrZUpBU2xEMU9vSFB5R0d1bkhRYklhQm93OGd0d2dkRzM4czRKY1B0VTZPNVE2bjBnM1NoNFFfT001c0FXWXZpVm5qNm5pUXA2MVhRYzQyeFI4eWRxZ01WMXYzTG5QVldkUkJodF80ajd1bGduV19oY1pEeFJsVlotZzFwNE50ME01blRqMnRFV1ltTUJpV2FOUW5sXzZOb2RDbzJMendXZGxrMlhtNnRKdlpqZGVGNFRZcURQVHcwUXVTeXVVenY1UWRZQQ?oc=5",
+   "topic": "deals",
+   "published": "2026-10-07T18:00:31.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5628,34 +5658,6 @@
    "published": "2026-10-06T09:08:33.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "16b992787791",
-   "kind": "headline",
-   "title": "ירידות בתל אביב; נקסט ויז'ן מוחקת מערכה כ-2 מיליארד שקל",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558469#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T09:05:00.000Z",
-   "summary": "מדד ת\"א 35 נסחר ביציבות, ת\"א 90 נחלש בכ-0.4% • יצרנית המצלמות לרחפנים נקסט ויז'ן נופלת אחרי מימוש הענק של פידליטי • ענקיות הטק הובילו את הנאסד\"ק לשיא חדש, ויש מי שמצביע על כך שהפכו לנכסי המקלט הבטוח החדשים • משבר החוב בצרפת מכביד על גוש האירו ומעצים את החשש גם בשוק החוב האמריקאי - המיליארדר ריי…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "1d4bf807deea",
-   "kind": "headline",
-   "title": "A Pensioner’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
-   "topic": "world",
-   "published": "2026-10-06T09:03:46.000Z",
-   "summary": "The eviction of an 87-year-old woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.",
-   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-spain-assess-1-hmqc/06int-spain-assess-1-hmqc-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
