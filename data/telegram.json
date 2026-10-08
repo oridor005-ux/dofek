@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65603,
+   "lastId": 65607,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:33.262Z"
+   "checkedAt": "2026-10-08T07:20:07.575Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:33.949Z"
+   "checkedAt": "2026-10-08T07:20:08.255Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:34.644Z"
+   "checkedAt": "2026-10-08T07:20:08.872Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11444,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:35.383Z"
+   "checkedAt": "2026-10-08T07:20:09.513Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19311,
+   "lastId": 19313,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:36.084Z"
+   "checkedAt": "2026-10-08T07:20:10.189Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:36.867Z"
+   "checkedAt": "2026-10-08T07:20:10.809Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:37.568Z"
+   "checkedAt": "2026-10-08T07:20:11.421Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131550,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:38.384Z"
+   "checkedAt": "2026-10-08T07:20:12.134Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74831,
+   "lastId": 74833,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:39.014Z"
+   "checkedAt": "2026-10-08T07:20:12.678Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:39.767Z"
+   "checkedAt": "2026-10-08T07:20:13.334Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T07:08:40.481Z"
+   "checkedAt": "2026-10-08T07:20:14.039Z"
   }
  },
  "posts": [
@@ -3490,13 +3490,69 @@
    "date": "2026-10-08T07:02:31+00:00",
    "text": "🔴 אישום בבריטניה: איש הצי המלכותי \"תכנן לחשוף מידע מוגן לטובת מעצמה זרה\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65605",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65605",
+   "date": "2026-10-08T07:11:06+00:00",
+   "text": "ומסבירה למה להצביע לבנט ולא לאיזנקוט: מהניסיון שלי, ממליצה לכם לבדוק מי מספר 15,16 - האם אפשר לסמוך עליהם שלא יתבלבלו",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65606",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65606",
+   "date": "2026-10-08T07:11:30+00:00",
+   "text": "הנדל קורא לוינטר לחזור בו מתמיכתו בממשלה עם נתניהו והחרדים וקורא לו לתמוך רק בממשלה ״ציונית בלי חרדים וערבים״\nכשמחברים לזה את הודעתו שלא יישב תחת נתניהו, המסקנה היא שאין סיבה לספור אותו ואת זליכה כמפלגה בגוש המרכז\nהם יילכו עם גוש השינוי וספירה ריאלית של המנדטים תוסיף אותם, ככל שעוברים, למחנה איזנקוט.",
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65607",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65607",
+   "date": "2026-10-08T07:20:04+00:00",
+   "text": "ח״כ עופר כסיף הורשע בתקיפת שוטר בנסיבות מחמירות, 4 שנים אחרי התקרית",
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19312",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19312",
+   "date": "2026-10-08T07:15:58+00:00",
+   "text": "כל עין ישראלית, דומעת ולא דומעת, חייבת לראות את זה היום. לפעמים, גם האמת היא אופציה.",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74832",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74832",
+   "date": "2026-10-08T07:09:30+00:00",
+   "text": "🔴 החשוד בשוחד בפרשת מקורבי בן גביר מונה למנכ\"ל עיריית טבריה: \"עמד בתנאי הסף\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74833",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74833",
+   "date": "2026-10-08T07:13:09+00:00",
+   "text": "🔴 פועל נפצע במהלך עבודתו באתר בנייה בגליל, מצבו קשה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T07:08:40.881Z",
+  "at": "2026-10-08T07:20:14.439Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 186
+  "added": 6,
+  "pendingNew": 192
  }
 }
