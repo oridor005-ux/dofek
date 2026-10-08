@@ -1,27 +1,6 @@
 {
  "items": [
   {
-   "id": "7692018887994428680",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692018887994428680",
-   "caption": "מ-30,000 רגל ל-3 מיליון צפיות🤯 תיירים ישראלים בהודו יצאו להביע אות תו...",
-   "posted": "1790942400",
-   "found": "2026-10-03T14:33:19Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692018887994428680.txt"
-  },
-  {
-   "id": "7692015824353234228",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692015824353234228",
-   "caption": "מה הקשר בין פטריות הזיה, פטישים וביטוח חיים? ✈️🔨🍄 בזמן שאנחנו מפחדים ...",
-   "posted": "1790940600",
-   "found": "2026-10-03T14:33:34Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7692012272746630407",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4514,12 +4493,33 @@
    "found": "2026-10-08T12:22:03Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694267735638887701.txt"
+  },
+  {
+   "id": "7694261854809607442",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694261854809607442",
+   "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 19 ימים...",
+   "posted": "1791462600",
+   "found": "2026-10-08T12:33:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694261854809607442.txt"
+  },
+  {
+   "id": "7694266042150898962",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694266042150898962",
+   "caption": "בית הדין הצבאי גזר פה אחד מאסר עולם על המחבל שהרג את סמ\"ר עמית בן יגא...",
+   "posted": "1791462000",
+   "found": "2026-10-08T12:33:47Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-08T12:22:05Z",
-  "channelsOk": 22,
-  "channelsFail": 1,
-  "transcribed": 6
+  "at": "2026-10-08T12:33:59Z",
+  "channelsOk": 23,
+  "channelsFail": 0,
+  "transcribed": 2
  }
 }
