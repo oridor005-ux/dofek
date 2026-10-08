@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65597,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:06.244Z"
+   "checkedAt": "2026-10-08T03:46:38.645Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7257,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:06.888Z"
+   "checkedAt": "2026-10-08T03:46:39.346Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2992,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:07.497Z"
+   "checkedAt": "2026-10-08T03:46:40.016Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11443,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:08.223Z"
+   "checkedAt": "2026-10-08T03:46:40.723Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19308,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:08.871Z"
+   "checkedAt": "2026-10-08T03:46:41.412Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:09.500Z"
+   "checkedAt": "2026-10-08T03:46:42.115Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54905,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:10.150Z"
+   "checkedAt": "2026-10-08T03:46:42.791Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131537,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:10.763Z"
+   "checkedAt": "2026-10-08T03:46:43.531Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74817,
+   "lastId": 74818,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:11.314Z"
+   "checkedAt": "2026-10-08T03:46:44.155Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8408,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:11.945Z"
+   "checkedAt": "2026-10-08T03:46:44.876Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T03:35:12.686Z"
+   "checkedAt": "2026-10-08T03:46:45.639Z"
   }
  },
  "posts": [
@@ -3214,13 +3214,22 @@
    "date": "2026-10-08T03:30:15+00:00",
    "text": "🔴 סעודיה והחות'ים טוענים לחילופי מהלומות\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74818",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74818",
+   "date": "2026-10-08T03:42:49+00:00",
+   "text": "🔴 בסוריה מכחישים: \"סעודיה לא ביקשה מאיתנו לשלוח כוחות\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T03:35:13.087Z",
+  "at": "2026-10-08T03:46:46.039Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 156
+  "pendingNew": 157
  }
 }
