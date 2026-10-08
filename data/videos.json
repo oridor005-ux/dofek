@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7690966622126886162",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7690966622126886162",
-   "caption": "זוהר מפרק את שקר ה53 מליארד 🤑 #בחירות2026 #ביבי #ממשלה #לפיד #בנט ",
-   "posted": "1790692718",
-   "found": "2026-10-03T14:39:06Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7690966622126886162.txt",
-   "insightIds": [
-    "ins-2026-10-03-m53b"
-   ]
-  },
-  {
-   "id": "7692051682624081159",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692051682624081159",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1790945351",
-   "found": "2026-10-03T14:39:34Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692051682624081159.txt"
-  },
-  {
    "id": "7692041481669840135",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4506,10 +4481,31 @@
    "found": "2026-10-08T13:19:59Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694283284771130632.txt"
+  },
+  {
+   "id": "7694288641392200968",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694288641392200968",
+   "caption": "שלוש שנים אחרי - צה״ל משיק את תהליך הענקת הצל״שים והעיטורים על קרבות ...",
+   "posted": "1791466182",
+   "found": "2026-10-08T13:34:22Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7694287114317597973",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7694287114317597973",
+   "caption": "19 ימים לבחירות ואנשים עדיין לא מבינים מה זה ממשלה ״צרה״ 🗳️🤔 #מתחתלרד...",
+   "posted": "1791465825",
+   "found": "2026-10-08T13:35:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694287114317597973.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T13:20:12Z",
+  "at": "2026-10-08T13:35:43Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
