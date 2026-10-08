@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65648,
    "ok": true,
-   "checkedAt": "2026-10-08T20:03:56.129Z"
+   "checkedAt": "2026-10-08T20:15:27.560Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-08T20:03:56.765Z"
+   "checkedAt": "2026-10-08T20:15:28.329Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-08T20:03:57.395Z"
+   "checkedAt": "2026-10-08T20:15:29.046Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11455,
    "ok": true,
-   "checkedAt": "2026-10-08T20:03:58.031Z"
+   "checkedAt": "2026-10-08T20:15:29.801Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19325,
    "ok": true,
-   "checkedAt": "2026-10-08T20:03:58.648Z"
+   "checkedAt": "2026-10-08T20:15:30.523Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T20:03:59.305Z"
+   "checkedAt": "2026-10-08T20:15:31.203Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T20:03:59.922Z"
+   "checkedAt": "2026-10-08T20:15:31.860Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131600,
    "ok": true,
-   "checkedAt": "2026-10-08T20:04:00.607Z"
+   "checkedAt": "2026-10-08T20:15:32.596Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74902,
+   "lastId": 74903,
    "ok": true,
-   "checkedAt": "2026-10-08T20:04:01.156Z"
+   "checkedAt": "2026-10-08T20:15:33.186Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-08T20:04:01.857Z"
+   "checkedAt": "2026-10-08T20:15:33.882Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-08T20:04:02.598Z"
+   "checkedAt": "2026-10-08T20:15:34.613Z"
   }
  },
  "posts": [
@@ -5030,13 +5030,22 @@
    "text": "בעקבות הסרטונים שפרסמתי כאן ☝️הילד העזתי האני דע'מש החליט \"להתפרק מנשקו\", לבקש סליחה ולהודיע שאינו משתייך לחמאס, לפת\"ח או לג'האד האסלאמי 😂 25 תגובות",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74903",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74903",
+   "date": "2026-10-08T20:10:02+00:00",
+   "text": "🔴 3 בני אדם נפצעו בהתהפכות טרקטורון סמוך לאלעיזריה, 2 במצב קשה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T20:04:02.998Z",
+  "at": "2026-10-08T20:15:35.013Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 316
+  "added": 1,
+  "pendingNew": 317
  }
 }

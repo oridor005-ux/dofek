@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T20:15:07.360Z",
+ "updated": "2026-10-08T20:26:44.530Z",
  "items": [
+  {
+   "id": "88b3153e56c2",
+   "kind": "headline",
+   "title": "Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html",
+   "topic": "world",
+   "published": "2026-10-08T20:18:59.000Z",
+   "summary": "The court paused a lower-court ruling while it considered the latest move in a monthslong fight over who is entitled to low rates for political ads.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-scotus-ads-qtgk/08dc-scotus-ads-qtgk-mediumSquareAt3X-v2.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "58d231fff3a7",
    "kind": "headline",
@@ -5627,20 +5641,6 @@
    "published": "2026-10-07T09:02:02.000Z",
    "summary": "The case of a small Malaysian shipping agency illustrates the challenges Washington faces in its effort to stanch the flow of Iranian oil.",
    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/00int-malaysia-dark-fleet-04-kmgv/00int-malaysia-dark-fleet-04-kmgv-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f6ddd8b292b2",
-   "kind": "headline",
-   "title": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/07/us/politics/supreme-court-air-force-guam.html",
-   "topic": "world",
-   "published": "2026-10-07T09:01:10.000Z",
-   "summary": "The Supreme Court will hear arguments over whether the U.S. Air Force can keep destroying munitions on a beach in Guam, a practice it began in 1982.",
-   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
