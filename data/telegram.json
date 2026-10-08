@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65610,
+   "lastId": 65613,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:33.522Z"
+   "checkedAt": "2026-10-08T09:07:05.684Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:34.209Z"
+   "checkedAt": "2026-10-08T09:07:06.344Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:34.842Z"
+   "checkedAt": "2026-10-08T09:07:07.023Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:35.542Z"
+   "checkedAt": "2026-10-08T09:07:07.687Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:36.196Z"
+   "checkedAt": "2026-10-08T09:07:08.318Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:36.857Z"
+   "checkedAt": "2026-10-08T09:07:08.951Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:37.484Z"
+   "checkedAt": "2026-10-08T09:07:09.545Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131555,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:38.307Z"
+   "checkedAt": "2026-10-08T09:07:10.354Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74841,
+   "lastId": 74843,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:38.874Z"
+   "checkedAt": "2026-10-08T09:07:10.889Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:39.542Z"
+   "checkedAt": "2026-10-08T09:07:11.560Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
-   "lastId": 11069,
+   "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T08:55:40.277Z"
+   "checkedAt": "2026-10-08T09:07:12.308Z"
   }
  },
  "posts": [
@@ -3723,13 +3723,49 @@
    "date": "2026-10-08T08:46:51+00:00",
    "text": "🔴 בעקבות מחאות החרדים: צפי לעומסי תנועה בדרך לנתב\"ג\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65612",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65612",
+   "date": "2026-10-08T08:58:29+00:00",
+   "text": "אישום חריג: סטונדט לרוקחות מבית חנינא תכנן לבצע פיגועים נגד יהודים באמצעות מטעני חבלה ורעלים קטלניים",
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65613",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65613",
+   "date": "2026-10-08T09:01:42+00:00",
+   "text": "כבר הספיק לעבוד כעוזר רוקח בבית מרקחת. צרך בתדירות תכנים של חמאס ודאעש",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74842",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74842",
+   "date": "2026-10-08T09:00:28+00:00",
+   "text": "🔴 אישום חריג: סטודנט לרוקחות תכנן פיגוע באמצעות מטעני חבלה ורעלים קטלניים\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74843",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74843",
+   "date": "2026-10-08T09:06:15+00:00",
+   "text": "🔴 הרשות השנייה פתחה בהליך בעקבות התבטאויות ינון מגל נגד משפחות שכולות\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T08:55:40.678Z",
+  "at": "2026-10-08T09:07:12.709Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 212
+  "added": 4,
+  "pendingNew": 216
  }
 }

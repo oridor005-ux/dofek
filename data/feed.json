@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T09:06:46.423Z",
+ "updated": "2026-10-08T09:18:17.238Z",
  "items": [
+  {
+   "id": "87c545675523",
+   "kind": "headline",
+   "title": "Myanmar’s Strongman President is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html",
+   "topic": "world",
+   "published": "2026-10-08T09:12:31.000Z",
+   "summary": "After trading his military uniform for civilian clothes, Myanmar’s strongman president, U Min Aung Hlaing, is in Malaysia, his ninth stop on a search for international legitimacy.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08-int-malaysia-myanmar-01-jkct/08-int-malaysia-myanmar-01-jkct-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e78b91a9f2da",
+   "kind": "headline",
+   "title": "Israel Orders U.K. Consulate in Jerusalem Closed Over West Bank Trade Ban",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/middle-east/israel-orders-u-k-consulate-in-jerusalem-closed-over-west-bank-trade-ban-aec88b46?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-08T09:05:00.000Z",
+   "summary": "The dispute centers around the U.K.’s decision to halt trade from Israeli settlements and comes as an election looms.",
+   "image": "https://images.wsj.net/im-01541601",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d79c10f81588",
    "kind": "headline",
@@ -5611,34 +5639,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "19bae5702b5b",
-   "kind": "headline",
-   "title": "קרקעות מדינה ברפריפריה יהפכו למכרי זהב: עשרות מיליוני שקלים בשנה",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03VGhNOFNqR1A5Vm9BNU9rMEV3MXY4Y2tXZHd1Z0N5X1oxNzhYa2s4aFNxbm5IcHdWQy03ZnUyQUlsNlVuYjFDMW5uRnRFTXRrV3JpRmhUQkZBNVNxSTZrNHFBVS1LUHlWMmVV?oc=5",
-   "topic": "econ",
-   "published": "2026-10-06T14:35:42.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "dbc999b364dc",
-   "kind": "headline",
-   "title": "בנק דיסקונט ממזג את בנק מרכנתיל לתוכו",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558611#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-06T14:33:00.000Z",
-   "summary": "דירקטוריוני בנק דיסקונט ובנק מרכנתיל אישרו את מיזוג הבת לתוך האם במסגרת מהלך אסטרטגי לצמצום חפיפות, פישוט מבנה הקבוצה ושיפור היעילות התפעולית • מרכנתיל ימשיך לפעול כמותג עצמאי ותחומי התמחותו המרכזיים, בהם הפעילות בחברה הערבית, החרדית, בקרב עסקים קטנים וברשויות המקומיות &ndash; ישמרו במלואם • המהלך…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614572999/old/679804.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
