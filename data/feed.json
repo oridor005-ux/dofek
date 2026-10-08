@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T07:31:41.585Z",
+ "updated": "2026-10-08T07:43:51.014Z",
  "items": [
+  {
+   "id": "73d243448f03",
+   "kind": "headline",
+   "title": "פעילות ראשונה מעבר לים? בבורסה בוחנים רכישת הבורסה בקפריסין",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558838#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-08T07:32:00.000Z",
+   "summary": "בבורסה בת\"א הקיום צוות לבחינת השתתפות במכרז לרכישת הבורסה במדינה השכנה, שנמצאת בימים אלו בהליך הפרטה • במידה ואכן ישתתפו במכרז ואף יזכו בו, בבורסה יקוו לשחזר את ההצלחה של השנים האחרונות, שבאה לידי ביטוי בין היתר בהגדלה משמעותית של מחזורי המסחר, גם באי השכן",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1736783113/direct/DSC04610-2_e8tuet_82cabb.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "8a5fcf5c27be",
    "kind": "headline",
@@ -5630,20 +5644,6 @@
    "alsoIn": [
     "ad-hoc-news.de"
    ],
-   "important": false
-  },
-  {
-   "id": "640d941e2336",
-   "kind": "headline",
-   "title": "סכסוך הירושה חוצה דורות: העליון אישר עיקולים של 30 מיליון שקל",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558552#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-06T12:22:00.000Z",
-   "summary": "יותר מ־50 שנה אחרי הנישואים, המאבק על נכסי נדל\"ן וחברות בשווי מיליונים ממשיך בין יורשי בני הזוג המנוחים • לאחר שמניות אחת החברות נמכרו לצד שלישי במהלך ההתדיינות, הותיר העליון על כנו עיקול של עד 30 מיליון שקל להבטחת זכויות יורשי האישה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1625382518/direct/shutterstock_1342761677_h2tm1b.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
