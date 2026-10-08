@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T10:29:55.569Z",
+ "updated": "2026-10-08T10:38:21.398Z",
  "items": [
+  {
+   "id": "85bbd672f83e",
+   "kind": "headline",
+   "title": "הגירעון בספטמבר נמוך מהיעד, אבל באוצר לא ממהרים לחגוג",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558856#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-08T10:36:00.000Z",
+   "summary": "הגירעון המצטבר ב-12 החודשים האחרונים עמד גם בספטמבר על 3.2% תוצר, לעומת יעד של 4.9% תוצר &bull; הכנסות המדינה ממסים הסתכמו בספטמבר בכ-47 מיליארד שקל, עלייה ריאלית של 6% לעומת אשתקד &bull; אך באוצר מזהירים: המחצית השנייה של השנה מתאפיינת בקצב גידול גבוה יותר בהוצאות",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1691936626/direct/shutterstock_2166940899_u5oid3.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "d5262ff3706c",
+   "kind": "headline",
+   "title": "רגע לפני הבחירות: הגירעון נותר ללא שינוי - 3.2% מהתוצר",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/gyzas5vt1",
+   "topic": "econ",
+   "published": "2026-10-08T10:32:26.000Z",
+   "summary": "הגירעון בתקציב המדינה בספטמבר עמד על 10.1 מיליארד שקל, לעומת 9.5 מיליארד שקל בספטמבר אשתקד. עם זאת, הגירעון המצטבר ב-12 החודשים האחרונים נותר ללא שינוי על 3.2% מהתוצר. גידול משמעותי בהכנסות",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/SJP7fKhNBfe/SJP7fKhNBfe_0_17_807_455_0_medium.jpg",
+   "score": 5,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "f81969d0c9d3",
    "kind": "headline",
@@ -5615,34 +5643,6 @@
     "The New York Times"
    ],
    "important": false
-  },
-  {
-   "id": "6bd083802fc1",
-   "kind": "headline",
-   "title": "Law to toughen punishment for ‘statutory rape’ may be deferred due to prison capacity crisis",
-   "source": "Inside Time",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbERQN2NaaER0M0FGYjlwRUtlUVd3S0MxX2N6a05IS01lWXFHZVZVOV81SG00RzBRRjBhYy1LUkd1MUtZX1pRR3AyZVhrSHNfR0RwTG9tekFCOUdiNnFfeUVWZG5nYzA3eF9EY1pXRUhjTE11MnpWWGotNC1YdFphNFEyTFpNaEE0ek5zTElCREJQQnktVXRYSEVSN0xIWFRCZVNsSllkbGZUOVYySzVxbTd6WGpxSG9XR19ZYU85aV94QQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-06T16:00:15.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "61760ad8cf97",
-   "kind": "headline",
-   "title": "במקום אקזיט: הסטארט אפ שעובד עם אילון מאסק בדרך לבורסה בתל אביב",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558595#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-06T16:00:00.000Z",
-   "summary": "ברידג'ווייז, המפתחת מערכות AI לניתוח מידע פיננסי, בוחנה הנפקה בבורסה • לראשונה מזה זמן רב שחברה טכנולוגית מגובת הון סיכון מעוניינת להגיע לבורסה ולא מחפשת להימכר • מאז הקמתה גייסה כ־35 מיליון דולר והיא עובדת עם הרשת החברתית X ובעליה אילון מאסק",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791293142/800_xrjzjm.jpg",
-   "score": 4,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
