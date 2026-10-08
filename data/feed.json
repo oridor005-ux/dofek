@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T19:51:11.222Z",
+ "updated": "2026-10-08T19:59:00.007Z",
  "items": [
+  {
+   "id": "f3505dc5c4b0",
+   "kind": "headline",
+   "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
+   "topic": "world",
+   "published": "2026-10-08T19:31:01.000Z",
+   "summary": "Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-protest-leadall-vphg/08int-france-protest-leadall-vphg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "bdc9ba772c36",
+   "kind": "headline",
+   "title": "וול סטריט מתקרבת לנעילה: הנאסד\"ק צולל בהובלת מניות הטכנולוגיה; הדאו כמעט ללא שינוי",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "topic": "demo",
+   "published": "2026-10-08T19:20:00.000Z",
+   "summary": "ענקיות ה-AI ומניות ה\"מופלאות\" מובילות את הירידות בוול סטריט • מדד השווי השווה ב-S&P 500 דווקא נסחר בירוק • קצב ההכנסות השנתי של OpenAI עומד על 50 מיליארד דולר בלבד • סקטור האנרגיה מזנק, הנשיא טראמפ מצנן את שוק הנפט • תביעות האבטלה הראשוניות ירדו מתחת לתחזיות והפד מאותת על העלאות ריבית נוספות •…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1663249791/direct/roberto-junior-4fsCBcZt9H8-unsplash_vztsq3.jpg",
+   "score": 9,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "bd6526a003ef",
    "kind": "headline",
@@ -5614,34 +5642,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "836d54a78491",
-   "kind": "headline",
-   "title": "Pro-Palestinian vigils held across Australia amid demand of arms embargo on Israel",
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVdZb1dOOHpNNFpEbXdSUkRQZ0N2VjYwdENVckV0S2kzV2hrbEdtY1gwQ09BajgyLTdxbjA0WTVvQm9iNlBTZm1xa2RxZVBrOENuamc3b1B3OS1XRGY0ZzBGcXBJd2pkNWFUS3E3MTc1dmMzS2ZuQ21lSWpjMTg5UkdNXzVwRmNpbTRob3RqY1pYS3NZS21QaWg2bHZ3OXFDai01eEw2SkcxT2JkNVRwWTBFMHZDOHoxTTFPbndWb052QkQ0bnRV?oc=5",
-   "topic": "defense",
-   "published": "2026-10-07T08:47:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 4,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "1aed3afb3961",
-   "kind": "headline",
-   "title": "יותר מ-100 אלף דולר בחודש: כך זינק דרמטית שכר קברניטי המכליות בהורמוז",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/sj00xjuxogl",
-   "topic": "econ",
-   "published": "2026-10-07T08:44:16.000Z",
-   "summary": "בעקבות עלייה בהתקפות על אוניות מסחריות ומכליות נפט ששטות במצר הורמוז, הקברניטים שמסכנים את חייהם יכולים להרוויח פי שישה ויותר. גם שכר הצוות הזוטר זינק. במקביל, התעריף היומי למטענים העוברים בנתיב התייקר משמעותית",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/Skm6LkUOMg/Skm6LkUOMg_0_42_3000_1689_0_medium.jpg",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
