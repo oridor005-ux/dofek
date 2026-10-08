@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65630,
+   "lastId": 65631,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:10.755Z"
+   "checkedAt": "2026-10-08T14:28:46.848Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:11.500Z"
+   "checkedAt": "2026-10-08T14:28:47.515Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:12.173Z"
+   "checkedAt": "2026-10-08T14:28:48.135Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11450,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:12.887Z"
+   "checkedAt": "2026-10-08T14:28:48.753Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19319,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:13.617Z"
+   "checkedAt": "2026-10-08T14:28:49.423Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:14.308Z"
+   "checkedAt": "2026-10-08T14:28:50.077Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54908,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:15.006Z"
+   "checkedAt": "2026-10-08T14:28:50.684Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131576,
+   "lastId": 131577,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:15.757Z"
+   "checkedAt": "2026-10-08T14:28:51.312Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74873,
+   "lastId": 74875,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:16.365Z"
+   "checkedAt": "2026-10-08T14:28:51.858Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:17.144Z"
+   "checkedAt": "2026-10-08T14:28:52.502Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11070,
    "ok": true,
-   "checkedAt": "2026-10-08T14:17:17.870Z"
+   "checkedAt": "2026-10-08T14:28:53.171Z"
   }
  },
  "posts": [
@@ -4351,13 +4351,49 @@
    "date": "2026-10-08T14:17:16+00:00",
    "text": "🔴 תיעוד: שוטר השליך רימון הלם לעבר פלג גופו העליון של מפגין - בניגוד לנהלים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65631",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65631",
+   "date": "2026-10-08T14:20:06+00:00",
+   "text": "סקר זמן ישראל: \nאיזנקוט עם 24, גוש נתניהו על 51, וינטר עובר",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131577",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131577",
+   "date": "2026-10-08T14:23:21+00:00",
+   "text": "עיתונאים עזתיים:\nשני הרוגים בתקיפת רכב מסוג קיה סול, לפני זמן קצר ליד בית החולים הירדני ברחוב א-צנאעה בשכונת תל אלהווא בדרום מערב העיר עזה.\nע\"פ מקורות אלו ההרוגים הם:\nמג'די אל איובי\nחסאם אבו אלעטא\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74874",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74874",
+   "date": "2026-10-08T14:20:46+00:00",
+   "text": "🔴 תיעוד: נהג מונית בירושלים יצא עם נבוט אל המפגינים החרדים\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74875",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74875",
+   "date": "2026-10-08T14:25:09+00:00",
+   "text": "🔴 המפכ\"ל: \"מחאה זו זכות, הפרת סדר אינה\". במקביל, פרשים הגיעו לבני ברק וירושלים\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T14:17:18.270Z",
+  "at": "2026-10-08T14:28:53.571Z",
   "ok": 11,
   "fail": 0,
-  "added": 5,
-  "pendingNew": 239
+  "added": 4,
+  "pendingNew": 243
  }
 }
