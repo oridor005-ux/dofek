@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T17:03:14.359Z",
+ "updated": "2026-10-08T17:15:43.253Z",
  "items": [
+  {
+   "id": "8c22230489e5",
+   "kind": "headline",
+   "title": "Ben Jennings on the Gaza ‘ceasefire’ – cartoon",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T17:10:14.000Z",
+   "summary": "Continue reading...",
+   "image": "https://i.guim.co.uk/img/media/7ac882307b059b4c58deff3f298e4129ee75fa96/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a36fdfadc244bb8e0fc10ff8278798f",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b21391cf5467",
    "kind": "headline",
@@ -53,6 +67,20 @@
    "published": "2026-10-08T16:34:00.000Z",
    "summary": "שלושה שבועות לאחר החתימה על מזכר ההבנות, טרמינל איקס וסוהו החליטו לבטל את העסקה בעקבות פערים במשא ומתן, שלא פורטו בדיווח לבורסה • טרמינל איקס הייתה אמורה לרכוש 50.01% ממניות הרשת תמורת 11 מיליון שקל, לפי שווי של כ־22 מיליון שקל",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1719835808/direct/WhatsApp_Image_2024-07-01_at_15.06.55_yyem4i.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "55b9b586cd42",
+   "kind": "headline",
+   "title": "Meloni’s electoral reform secures final approval from parliament",
+   "source": "European Interest",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUJFenBTNnd0MzlQYkZwb3hnSlVWMXZQSWstZ0owbFVIdjNzT1I2dlh1R1pqZUVZOGpiY2RZNnhEUml0U052dHFhQ3VONDF4T0VTMmJSdEg4RWNXNktfak0zdDZXdmpyYXZvQ1Y0c29BMTZMODhVdXpWREpyZUVDX0VqVVFvT0RCbjNXc0VsWlEtY1ViamM2cHRHeGQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T16:28:48.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -142,6 +170,20 @@
    "important": false
   },
   {
+   "id": "299bab67be98",
+   "kind": "headline",
+   "title": "Three Years after 7 October: What Prospects for Israel and Palestine?",
+   "source": "ISPI",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLW5zdEZERXZ1QkY2eXd0QmprbFFabzFya3VFY19KSXNUUFRiNm0yT2s3NEprR05YSUYxYldhaWhOaDEteFZuT2hYNWJCTi1ERGFkcUpMUVMtaldMVmhYbldyTFRnWXRaREhuZ0Zuc0xuMjlaYllESFJqVU9GWXI2U2ZJamVqaGhSbHhSX1Y3NkNtODZLRjlOeVR5eGF3SWVRa2U5R0UwMnJKclVXc2JTbWlVSnNudw?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T15:50:47.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "75a8e36245ff",
    "kind": "headline",
    "title": "ההוצאה הציבורית לתלמיד בישראל נמוכה לעומת ה-OECD, במיוחד בלידה עד 5",
@@ -168,6 +210,20 @@
    "score": 6,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "303023eaa28a",
+   "kind": "headline",
+   "title": "Italian opposition cries foul as Meloni’s electoral reform passed in secret ballot",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUNkcUpzSHduaV8zdXBSb2EyWWxodE44Z25JT0NOQ241THpha3lrbUJpVXNZeU9kV2xRX2Q0Q1d4WmZ0dTA5QVpBRjBSVHIxSVZyeTEzTktzajh4X3cwX3E5elBCak4xWnpsaE4wNlllVmREVm9fMVFNMThPcTlSSXVpbVMtS3F0dUtNRURHR0NqemhDT3ExX2lZWGlHTTd3WVYyaTBRcw?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T15:38:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "32e0ad7207bb",
@@ -1113,7 +1169,8 @@
    "score": 0,
    "alsoIn": [
     "The Mighty 790 KFGO",
-    "The Straits Times"
+    "The Straits Times",
+    "Reuters"
    ],
    "important": false
   },
@@ -2466,6 +2523,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3b8e2fe3bbea",
+   "kind": "headline",
+   "title": "דוראל הוסיפה 4%, מניית הבורסה 3.6%; אלקטרה נדל\"ן נושקת ל-1 מיליארד שקל; נעילה מעורבת בבורסה",
+   "source": "ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pc0U2NGJyZkxQeFpxLWJnR1MyQ0NqM25YamVySEo1Yk9vOGV5TjVwZ2tsNWU4QmhTaTlHVWhnWmtsM3pMTkxIQVR3TFpSVlYwZ3ZWQ2hEOF91WUtYX2JiZVp0TkFOZzhxNnR4VUdSU0E?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T04:13:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -5239,6 +5310,20 @@
    "important": false
   },
   {
+   "id": "e70336af31ad",
+   "kind": "headline",
+   "title": "France’s Economy Is Trapped in a Negative Feedback Loop",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/economy/global/frances-economy-is-trapped-in-a-negative-feedback-loop-509598a9?mod=rss_socialeconomyfeed",
+   "topic": "world",
+   "published": "2026-10-07T08:42:00.000Z",
+   "summary": "The French government desperately needs a return to strong growth if it is to contain its rapidly rising debts.",
+   "image": "https://images.wsj.net/im-31231085",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "f8f6d0b2b2b3",
    "kind": "headline",
    "title": "ההשקעה החדשה של פתאל בבורסה: 24 מיליון שקל בסניף נוסף של ROOMS",
@@ -5560,93 +5645,6 @@
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5022e5f8a862",
-   "kind": "headline",
-   "title": "Three years on from the 7 October attacks, antisemitism has taken hold in Britain: Jews aren’t safe | Dave Rich",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/07/7-october-attacks-anniversary-antisemitism-britain",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T07:00:37.000Z",
-   "summary": "Britain cannot call itself a diverse democracy when communities are living with such fear. A line must be drawn. Let it be now On another anniversary of the 7 October attacks, the lasting impact on Britain’s Jews is found in the essential daily decisions we now have to make. Beyond the simple fear…",
-   "image": "https://i.guim.co.uk/img/media/ac052bb5747d6e7943ff25068d41d7b3742467c4/704_0_4529_3624/master/4529.jpg?width=140&quality=85&auto=format&fit=max&s=c8d69307ac7384ed1b3c3f414370d34f",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "664cdf43f5ac",
-   "kind": "headline",
-   "title": "ד\"ר חוסאם אבו בכר: המלחמה פגעה בתעסוקת הערבים והמשק משלם את המחיר",
-   "source": "זמן ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RRHFtSEhWMXotaWNEazNvYXJqeVhqaWltMVRRZ3JISnNUZVdfNTMyWFliRHhVdGMwOUNnbl9qR1JjRXUy?oc=5",
-   "topic": "demo",
-   "published": "2026-10-07T07:00:02.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ca6f897b0429",
-   "kind": "headline",
-   "title": "בין הדרום לצפון: הנתונים שחושפים את פערי השיקום בין שני חבלי הארץ שנפגעו במלחמה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558614#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-07T07:00:00.000Z",
-   "summary": "היקף הנזקים הישירים עומד על פי נתוני רשות המסים על למעלה מ־8 מיליארד שקל בשלוש שנים, אך צלילת עומק לנתונים מגלה פערי שיקום משמעותיים בין הדרום לצפון • מהפעילות העסקית ועד החזרה לבתים: מה מלמדים הנתונים?",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1705249633/direct/234e6cbe-df48-4057-b588-31e258c75137_ic1d0p.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e70336af31ad",
-   "kind": "headline",
-   "title": "France’s Economy Is Trapped in a Negative Feedback Loop",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/pro/cybersecurity/frances-economy-is-trapped-in-a-negative-feedback-loop-509598a9?mod=rss_socialeconomyfeed",
-   "topic": "world",
-   "published": "2026-10-07T06:34:00.000Z",
-   "summary": "The French government desperately needs a return to strong growth if it is to contain its rapidly rising debts.",
-   "image": "https://images.wsj.net/im-31231085",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "69fde34a6779",
-   "kind": "headline",
-   "title": "\"מגמה חיובית במחירי ההובלה\": צים מעלה את התחזית השנתית",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558671#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-07T06:27:00.000Z",
-   "summary": "צים צופה כעת EBITDA מתואם בסך 2.7-3 מיליארד דולר ו-EBIT מתואם של 1.4-1.7 מיליארד דולר - עלייה לעומת התחזית הקודמת ושיפור לעומת השנה שעברה • אחרי העלאת התחזית, מניית החברה עלתה אמש במסחר המאוחר בניו יורק",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1733140567/direct/%D7%97%D7%9F_%D7%9C%D7%99%D7%9B%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_%D7%94%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%9E%D7%A9%D7%95%D7%97%D7%A8%D7%A8%D7%AA_%D7%9E%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_s8c53k.png",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "882f95eef631",
-   "kind": "headline",
-   "title": "Major data centres to meet stricter security, resilience rules with the passing of new Bill",
-   "source": "Yahoo News Singapore",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DM1lQdjBpOXBlR2lqUlNic0M1QjBkS3cweEg0OVNVS25ER2xsUVcyVDNNbjVzT0pIbDVlNkN0RWRDaU55ZEJqWDFlLVo1cjVBTEVsRzF4OVNnRHUwN2ZpLVR1aXFjYmM2ZVVtT1dUMzFYbTVWVTlvdS1xRFFrQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T06:25:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "The Business Times",
-    "The Straits Times"
-   ],
    "important": false
   }
  ]

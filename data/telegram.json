@@ -3,79 +3,80 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65641,
+   "lastId": 65642,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:02.055Z"
+   "checkedAt": "2026-10-08T17:04:30.202Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:02.709Z"
+   "checkedAt": "2026-10-08T17:04:30.869Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
-   "lastId": 2993,
+   "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:03.331Z"
+   "checkedAt": "2026-10-08T17:04:31.543Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11452,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:03.978Z"
+   "checkedAt": "2026-10-08T17:04:32.302Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19322,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:04.587Z"
+   "checkedAt": "2026-10-08T17:04:32.929Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:05.218Z"
+   "checkedAt": "2026-10-08T17:04:33.613Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:05.838Z"
+   "checkedAt": "2026-10-08T17:04:34.251Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131588,
-   "ok": true,
-   "checkedAt": "2026-10-08T16:52:06.494Z"
+   "ok": false,
+   "checkedAt": "2026-10-08T17:04:35.104Z",
+   "error": "not found or preview disabled"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74890,
+   "lastId": 74891,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:07.131Z"
+   "checkedAt": "2026-10-08T17:04:35.672Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:07.795Z"
+   "checkedAt": "2026-10-08T17:04:36.390Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11071,
    "ok": true,
-   "checkedAt": "2026-10-08T16:52:08.501Z"
+   "checkedAt": "2026-10-08T17:04:37.062Z"
   }
  },
  "posts": [
@@ -4736,13 +4737,31 @@
    "date": "2026-10-08T16:45:52+00:00",
    "text": "🔴 הולכת רגל נפגעה מרכב בגליל המערבי, מצבה אנוש\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65642",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65642",
+   "date": "2026-10-08T16:56:01+00:00",
+   "text": "סקרי השבוע:\nישראל היום 51-51\nערוץ 12 54-49\nערוץ 13 50-55\nערוץ 14 45-63\nערוץ 15 48-60\nערוץ 16 51-52\nזמן ישראל 55-51\n(סקר ערוץ 11 לא מופיע כי הסוקר ערך סקר עדכני יותר לישראל היום)",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74891",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74891",
+   "date": "2026-10-08T16:58:19+00:00",
+   "text": "🔴 נקבע מותה של הולכת הרגל שנפגעה מרכב בגליל המערבי\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T16:52:08.902Z",
-  "ok": 11,
-  "fail": 0,
-  "added": 3,
-  "pendingNew": 282
+  "at": "2026-10-08T17:04:37.462Z",
+  "ok": 10,
+  "fail": 1,
+  "added": 2,
+  "pendingNew": 284
  }
 }
