@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65609,
+   "lastId": 65610,
    "ok": true,
-   "checkedAt": "2026-10-08T08:19:56.430Z"
+   "checkedAt": "2026-10-08T08:31:32.124Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.5K",
    "lastId": 7259,
    "ok": true,
-   "checkedAt": "2026-10-08T08:19:57.124Z"
+   "checkedAt": "2026-10-08T08:31:32.846Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
-   "lastId": 2992,
+   "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T08:19:57.789Z"
+   "checkedAt": "2026-10-08T08:31:33.581Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11446,
    "ok": true,
-   "checkedAt": "2026-10-08T08:19:58.436Z"
+   "checkedAt": "2026-10-08T08:31:34.368Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19314,
    "ok": true,
-   "checkedAt": "2026-10-08T08:19:59.083Z"
+   "checkedAt": "2026-10-08T08:31:35.074Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T08:19:59.754Z"
+   "checkedAt": "2026-10-08T08:31:35.823Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54906,
    "ok": true,
-   "checkedAt": "2026-10-08T08:20:00.370Z"
+   "checkedAt": "2026-10-08T08:31:36.500Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131553,
+   "lastId": 131554,
    "ok": true,
-   "checkedAt": "2026-10-08T08:20:01.146Z"
+   "checkedAt": "2026-10-08T08:31:37.296Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74837,
    "ok": true,
-   "checkedAt": "2026-10-08T08:20:01.708Z"
+   "checkedAt": "2026-10-08T08:31:37.915Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8409,
    "ok": true,
-   "checkedAt": "2026-10-08T08:20:02.538Z"
+   "checkedAt": "2026-10-08T08:31:38.661Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11069,
    "ok": true,
-   "checkedAt": "2026-10-08T08:20:03.231Z"
+   "checkedAt": "2026-10-08T08:31:39.447Z"
   }
  },
  "posts": [
@@ -3658,13 +3658,41 @@
    "date": "2026-10-08T08:11:46+00:00",
    "text": "🔴 רומי גונן באתר הנובה: \"כשאני כאן אני יודעת כמה קרובה הייתי ללא לעמוד פה\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65610",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65610",
+   "date": "2026-10-08T08:24:10+00:00",
+   "text": "החוקר צחי בן חמו מתייחס למעמד של עד התביעה אילן ישועה.\n״אני אמרתי שאם רוצים להמשיך איתו קדימה צריך להזהיר אותו וצריך להביא ראיות סיוע. דיברתי על המשקל של הראיות לכאורה. של הדברים שהוא אומר בתוך אותן הודעות פתוחות ושנצטרך להתמודד עם זה בבית המשפט. \n- מה ענה לך יואב תלם? \nבן חמו: ״זה לא יגיע למשפט״.",
+   "status": "new"
+  },
+  {
+   "id": "gideonsaar/2993",
+   "channel": "gideonsaar",
+   "name": "גדעון סער",
+   "url": "https://t.me/gideonsaar/2993",
+   "date": "2026-10-08T08:24:57+00:00",
+   "text": "*״הקונסוליה הבריטית בירושלים נסגרה היום. הסתיימה תקופת ההכלה הישראלית גם בתחום המדיני״* \nצפו בהצהרה המלאה של שר החוץ גדעון סער ☝🏽",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131554",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131554",
+   "date": "2026-10-08T08:24:40+00:00",
+   "text": "סוריה הרשמית מכחישה את הדיווחים על שליחת כוחות צבאיים מטעמה כדי לסייע לסעודיה במלחמה נגד החות'ים:\n\"עמדתה של סוריה ברורה: אנו ניצבים בנחישות לצד סעודיה בהתמודדות עם האיומים על ביטחונה ויציבותה. עם זאת, מדיניותה של סוריה באזור מבוססת על יציבות, שלום ושיתוף פעולה, ולא על פתיחת חזיתות חדשות.\"\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T08:20:03.632Z",
+  "at": "2026-10-08T08:31:39.848Z",
   "ok": 11,
   "fail": 0,
   "added": 3,
-  "pendingNew": 205
+  "pendingNew": 208
  }
 }
