@@ -1,45 +1,6 @@
 {
  "items": [
   {
-   "id": "7691710328459119893",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7691710328459119893",
-   "caption": "\"עוד רגע היו אומרים שנתניהו הוא זה שניסה להפיל את המטוס\" 👇 חבר הכנסת ...",
-   "posted": "1790865872",
-   "found": "2026-10-03T20:29:11Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691710328459119893.txt",
-   "insightIds": [
-    "ins-2026-10-04-m102"
-   ]
-  },
-  {
-   "id": "7692542871907355922",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7692542871907355922",
-   "caption": "ידעתם על זה? לשמוע ולהזדעזע ",
-   "posted": "1791059718",
-   "found": "2026-10-03T20:42:23Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692542871907355922.txt",
-   "insightIds": [
-    "ins-2026-10-04-m103"
-   ]
-  },
-  {
-   "id": "7692551483694271796",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7692551483694271796",
-   "caption": "3 שנים אחרי שנחטף ממתחם הנובה חזר בר קופרשטיין למקום לומר תודה",
-   "posted": "1791061722",
-   "found": "2026-10-03T21:13:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692551483694271796.txt"
-  },
-  {
    "id": "7692555720436256018",
    "channel": "yinonmagal",
    "name": "yinonmagal",
@@ -4490,12 +4451,45 @@
    "found": "2026-10-08T15:21:56Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694314927422442772.txt"
+  },
+  {
+   "id": "7694308242108714258",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694308242108714258",
+   "caption": "שעה בלבד לאחר תחילת המחאה: עימותים אלימים וכאוס מתרחש בירושלים משאית ...",
+   "posted": "1791473400",
+   "found": "2026-10-08T15:35:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694308242108714258.txt"
+  },
+  {
+   "id": "7694317526435499272",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694317526435499272",
+   "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
+   "posted": "1791472908",
+   "found": "2026-10-08T15:36:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694317526435499272.txt"
+  },
+  {
+   "id": "7694319516444069140",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7694319516444069140",
+   "caption": "״ב-88' ש\"ס הייתה מפלגה חזקה, והקואליציה הייתה תלויה בה״ עשור למותו של...",
+   "posted": "1791473370",
+   "found": "2026-10-08T15:36:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694319516444069140.txt"
   }
  ],
  "health": {
-  "at": "2026-10-08T15:22:03Z",
+  "at": "2026-10-08T15:37:06Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 3
  }
 }
