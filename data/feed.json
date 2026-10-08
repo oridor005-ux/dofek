@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-08T16:34:35.444Z",
+ "updated": "2026-10-08T16:40:11.431Z",
  "items": [
+  {
+   "id": "9a3f102f783a",
+   "kind": "headline",
+   "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
+   "source": "Defense News",
+   "url": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
+   "topic": "world",
+   "published": "2026-10-08T16:34:20.000Z",
+   "summary": "The Congressional Research Service pointed to the war in Ukraine, where armored vehicles have largely been driven from the battlefield by drones.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RFABAXYMINDHBJVC7GPRPL2SZM.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b6c03edfc1d0",
+   "kind": "headline",
+   "title": "טרמינל איקס מבטלת את רכישת סוהו",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559000#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-08T16:34:00.000Z",
+   "summary": "שלושה שבועות לאחר החתימה על מזכר ההבנות, טרמינל איקס וסוהו החליטו לבטל את העסקה בעקבות פערים במשא ומתן, שלא פורטו בדיווח לבורסה • טרמינל איקס הייתה אמורה לרכוש 50.01% ממניות הרשת תמורת 11 מיליון שקל, לפי שווי של כ־22 מיליון שקל",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1719835808/direct/WhatsApp_Image_2024-07-01_at_15.06.55_yyem4i.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "4d2b72049dd6",
    "kind": "headline",
@@ -5622,34 +5650,6 @@
     "The Jerusalem Post",
     "The Forward"
    ],
-   "important": false
-  },
-  {
-   "id": "b39a58c757b0",
-   "kind": "headline",
-   "title": "Spanish leader Sanchez's political gamble: How will housing, migration woes impact the snap election?",
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeXJxcWktWUpvY3Etekd3UFdsMW5ncTVScnRRaGpFdko1X2o1QUFablByNy1QSWhQY2kyd01uRnZ1X3oyNGdJTXhNVVBMR0Zqc0dhMEY5b1VoazF5OW80OGFyUGRHeV82d19XWHIzXzNPNHFkcUQ1dlRiY3FUbFdrc3hXUWZjcGszdW1wdVFPczAxaDlwTkHSAZYBQVVfeXFMUHZkZTNVZzRSVlM4dm96UE0zM285a3JRSTRXbGczNjMzMHFoOGRHeUd3RzlVSVFsMkl0d1J5eUxmSHZpd0c0NmVlRWczUUhRejhrZTNfd2hwbE4ybW42Sk5qNTNidktjbDdkYnFNeGQ0NG53N3lCakE1MjRWbDduUWZnVEhZcXhWZ1pRN2IzZWZBaWJnandR?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T06:06:09.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "44bb636ec6da",
-   "kind": "headline",
-   "title": "Rental reform labelled ‘cruelty’ moves ahead // Azores Iran probe launched before Rubio’s visit // Ronaldo breaks silence on blow-up",
-   "source": "Portugal Weekly",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zbDBxYTF5VTJrNkFfazdJRWNOOXdaWnNjN1lJTGtXVFRuZm1falFZLTRMUE1VdXZKX1VUbFZkRTlXY1M4ckg1c2xPQjM0WHZrNHA3WkpKcDgtcUk5Zl9td3ROTHhZOE52Q0lJdU1TM0NFZGE5TDdMYjNHOA?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T06:03:06.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
