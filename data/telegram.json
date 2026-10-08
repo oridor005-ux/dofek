@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65640,
+   "lastId": 65641,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:30.818Z"
+   "checkedAt": "2026-10-08T16:52:02.055Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7260,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:31.472Z"
+   "checkedAt": "2026-10-08T16:52:02.709Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.17K",
    "lastId": 2993,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:32.110Z"
+   "checkedAt": "2026-10-08T16:52:03.331Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11452,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:32.768Z"
+   "checkedAt": "2026-10-08T16:52:03.978Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19322,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:33.391Z"
+   "checkedAt": "2026-10-08T16:52:04.587Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:34.016Z"
+   "checkedAt": "2026-10-08T16:52:05.218Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:34.632Z"
+   "checkedAt": "2026-10-08T16:52:05.838Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131588,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:35.305Z"
+   "checkedAt": "2026-10-08T16:52:06.494Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74888,
+   "lastId": 74890,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:35.851Z"
+   "checkedAt": "2026-10-08T16:52:07.131Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8410,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:36.512Z"
+   "checkedAt": "2026-10-08T16:52:07.795Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11071,
    "ok": true,
-   "checkedAt": "2026-10-08T16:40:37.185Z"
+   "checkedAt": "2026-10-08T16:52:08.501Z"
   }
  },
  "posts": [
@@ -4709,13 +4709,40 @@
    "date": "2026-10-08T16:33:15+00:00",
    "text": "🔴 התנועה לאיכות השלטון דורשת לעצור את המינוי למנכ\"ל עיריית טבריה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65641",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65641",
+   "date": "2026-10-08T16:45:23+00:00",
+   "text": "סקר i24: \nגוש נתניהו על 60, הליכוד וישר יורדות בשני מנדטים מסקר קודם אך הפער ביניהן נשמר, וינטר בפנים, יועזליכה בחוץ",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74889",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74889",
+   "date": "2026-10-08T16:41:48+00:00",
+   "text": "🔴 הרשות להגנת הפרטיות נגד משרד החינוך: \"מידע רגיש על 21 אלף תלמידים דלף\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74890",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74890",
+   "date": "2026-10-08T16:45:52+00:00",
+   "text": "🔴 הולכת רגל נפגעה מרכב בגליל המערבי, מצבה אנוש\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-08T16:40:37.586Z",
+  "at": "2026-10-08T16:52:08.902Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 279
+  "added": 3,
+  "pendingNew": 282
  }
 }
