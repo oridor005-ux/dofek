@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7691957669287955730",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7691957669287955730",
-   "caption": "תקשיבו לקטע הבא, לתפוס תראש ולהבין איך הם טובלים בבריכה של צביעות",
-   "posted": "1790923464",
-   "found": "2026-10-03T18:43:50Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7691957669287955730.txt",
-   "insightIds": [
-    "ins-2026-10-03-mams"
-   ]
-  },
-  {
-   "id": "7691630674842782994",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7691630674842782994",
-   "caption": "חזק מאוד \"יהיה בסדר, השם אתה הכי גדול בעולם הזה, אין עוד מלבדך, השם א...",
-   "posted": "1790847332",
-   "found": "2026-10-03T18:44:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7691630674842782994.txt"
-  },
-  {
    "id": "7692526506895035669",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4496,12 +4471,33 @@
    "found": "2026-10-08T14:38:56Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694305038214122773.txt"
+  },
+  {
+   "id": "7694307074276150535",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694307074276150535",
+   "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
+   "posted": "1791470475",
+   "found": "2026-10-08T14:50:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694307074276150535.txt"
+  },
+  {
+   "id": "7694307505337404690",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694307505337404690",
+   "caption": "מפקד מחוז מרכז, ניצב אמיר כהן, הודיע היום (חמישי) למפכ\"ל המשטרה על כו...",
+   "posted": "1791470574",
+   "found": "2026-10-08T14:50:53Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-08T14:39:03Z",
+  "at": "2026-10-08T14:51:08Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 2
  }
 }
