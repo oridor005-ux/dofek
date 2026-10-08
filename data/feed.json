@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T21:14:08.207Z",
+ "updated": "2026-10-08T21:26:39.498Z",
  "items": [
   {
    "id": "7e488f2c2934",
@@ -54,6 +54,20 @@
    "summary": "The U.S. military has drafted options for three days of strikes, but in recent months the president has repeatedly vetoed plans to restart the war.",
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-military-qcmt/08dc-military-qcmt-mediumSquareAt3X.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "473225d099a9",
+   "kind": "headline",
+   "title": "Geneva queer film festival drops Israel’s Oscar entry after boycott threats",
+   "source": "Ynetnews",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mSFpDMWswN2lBbzZUNlhUS0tGOFVGR2pwRW9GYWZtYmxQS0VQLXU0TkZZSEFEMF9sZFNrMmZOSzRPcXlmODFjaGhJVkpEQkx1ZUwyNlowOXdkbFZRakRodg?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T20:19:07.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -448,6 +462,20 @@
    "score": 9,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "691c78a439dd",
+   "kind": "headline",
+   "title": "Tankers have replaced missiles as the main weapon in the US-Israeli war against Iran ᐉ News from Fakti.bg - Opinions",
+   "source": "Fakti.bg",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1JRMmRfdzFOT2U0cVkzNmhidlQ2cHR2dFk5QXpHY2hzRGRyaVVZdkxBaDBrUjZ6VGxlZzN5aDBlZnJBRFNTeWVxRTRLZTJkUzlZSkZqWDF3LThNVGdVMmFxZ3E5VVB1eWU1UEhJM1h5NHNmZ0NXU3Q4RTlTWW1yYTR4UnFoSDNpbXZlSTVjeTRqdTV1Wjl1WFhGcU1reEJQV293am9JR2QyZFJxMDdwcmJLalg5ZmFkWTNN?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-08T17:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "b21391cf5467",
@@ -5614,34 +5642,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e73ad891ee4c",
-   "kind": "headline",
-   "title": "חיפה: בניין ישן נהרס במסגרת התחדשות עירונית",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/hk85kfmime",
-   "topic": "econ",
-   "published": "2026-10-07T09:33:28.000Z",
-   "summary": "מדובר בבניין ברחוב אידר בעיר שנהרס במסגרת פרויקט תמ\"א 38. במקום 8 דירות ישנות ייבנו 26 דירות חדשות בחלקה הדרומי של העיר",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/HJ0kTK7iGe/HJ0kTK7iGe_0_170_1200_676_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "473b656fb4cb",
-   "kind": "headline",
-   "title": "In open letter, dozens of retired U.S. military leaders reject genocide allegations against Israel",
-   "source": "Jewish Insider",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHc3NnVwbUFxMTUwTWZ6Q29TWE1TU0gzRHpsaGhoUHhSM2k1Zms3MVJsWkV1bUdBYTZPTXhYQ2kyUmlFcnlkaFZINmJWVHZUUFpVWmZlNVJYdXFuOVUtTmJvUWJiWmtiWmFSUlZuTTFZdEZVdG5OUjNxdDBuUkVyVlBzTXVCQ0daXzFpTHhtai1PdEVMaExzQ3lPNmI?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T09:21:28.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
