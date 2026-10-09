@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7692849933921078549",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7692849933921078549",
-   "caption": "\"הרגע שבו שמעון פרס, ראש הממשלה המיועד, הפך לראש הממשלה לשעבר\"👇 עשור ...",
-   "posted": "1791180000",
-   "found": "2026-10-05T06:13:28Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692849933921078549.txt"
-  },
-  {
-   "id": "7693073263534132498",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693073263534132498",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791183208",
-   "found": "2026-10-05T06:57:53Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693073263534132498.txt",
-   "insightIds": [
-    "ins-2026-10-05-ab21"
-   ]
-  },
-  {
    "id": "7693071160325475602",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4452,12 +4427,34 @@
    "found": "2026-10-09T12:14:10Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694638417698671893.txt"
+  },
+  {
+   "id": "7694639660487838997",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694639660487838997",
+   "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 18 ימים...",
+   "posted": "1791547910",
+   "found": "2026-10-09T12:26:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694639660487838997.txt"
+  },
+  {
+   "id": "7694641819027590421",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694641819027590421",
+   "caption": "",
+   "posted": "1791548415",
+   "found": "2026-10-09T12:27:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694641819027590421.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T12:14:17Z",
+  "at": "2026-10-09T12:27:22Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 5
+  "transcribed": 2
  }
 }
