@@ -1,34 +1,6 @@
 {
  "items": [
   {
-   "id": "7692863331098545426",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692863331098545426",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791134332",
-   "found": "2026-10-04T17:28:35Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692863331098545426.txt",
-   "insightIds": [
-    "ins-2026-10-04-g8d2"
-   ]
-  },
-  {
-   "id": "7692863109094034706",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692863109094034706",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791134279",
-   "found": "2026-10-04T17:29:10Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692863109094034706.txt",
-   "insightIds": [
-    "ins-2026-10-04-g8d2"
-   ]
-  },
-  {
    "id": "7692878883334540565",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4478,12 +4450,33 @@
    "found": "2026-10-09T08:21:34Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694576060394048776.txt"
+  },
+  {
+   "id": "7694584961709427989",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7694584961709427989",
+   "caption": "מה דעתכם? #בחירות #ביבי #רקלאביבי #ימין #ישראל ",
+   "posted": "1791535179",
+   "found": "2026-10-09T08:50:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694584961709427989.txt"
+  },
+  {
+   "id": "7694584039600147733",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694584039600147733",
+   "caption": "ברשימה המשותפת ממשיכים להודיע בריש גלי שישתפו פעולה עם האופוזיציה אחר...",
+   "posted": "1791534961",
+   "found": "2026-10-09T08:51:22Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-09T08:35:23Z",
+  "at": "2026-10-09T08:51:37Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
