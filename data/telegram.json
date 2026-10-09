@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:11.442Z"
+   "checkedAt": "2026-10-09T11:18:49.823Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:12.154Z"
+   "checkedAt": "2026-10-09T11:18:50.482Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:13.157Z"
+   "checkedAt": "2026-10-09T11:18:51.145Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11457,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:13.860Z"
+   "checkedAt": "2026-10-09T11:18:51.803Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:14.592Z"
+   "checkedAt": "2026-10-09T11:18:52.479Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:15.319Z"
+   "checkedAt": "2026-10-09T11:18:53.133Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:16.014Z"
+   "checkedAt": "2026-10-09T11:18:53.785Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131625,
+   "lastId": 131626,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:16.765Z"
+   "checkedAt": "2026-10-09T11:18:54.500Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74928,
+   "lastId": 74929,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:17.377Z"
+   "checkedAt": "2026-10-09T11:18:55.077Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:18.105Z"
+   "checkedAt": "2026-10-09T11:18:55.773Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T11:07:18.936Z"
+   "checkedAt": "2026-10-09T11:18:56.526Z"
   }
  },
  "posts": [
@@ -5546,13 +5546,31 @@
    "date": "2026-10-09T10:30:30+00:00",
    "text": "🛏️ קונים את המזרן – ומקבלים את המיטה במתנה! 🎁\nמבצע קנה־קבל של Sealy עם הטבה יוקרתית ומפנקת במיוחד:\n🔥 קונים מזרן Hyatt, המזרן הרשמי של סוויטות בתי המלון בעולם, ב־6,732 ₪\n🎁מקבלים מיטה מעוצבת Detroit עם ארגז מצעים – במתנה!\nשילוב של הנוחות והיוקרה של מזרן Hyatt, העיצוב של מיטת Detroit והפרקטיות של ארגז מצעים מרווח, והכול בעסקה אחת משתלמת במיוחד מבית SEALY, מותג המזרנים מס' 1 בארה\"ב\nלפרטים נוספים ורכישה >>\nhttps://katzr.net/9b4385",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131626",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131626",
+   "date": "2026-10-09T11:15:06+00:00",
+   "text": "ארגון הטרור הפלסטיני החזית העממית לערוץ א-תלפזיון אלערבי הקטרי: הסכמנו עם פת\"ח וחמאס לדחות בשנה את הבחירות ברש\"פ. תגובה אחת",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74929",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74929",
+   "date": "2026-10-09T11:13:29+00:00",
+   "text": "🔴 משרד החוץ נגד ועדת הנובל והמשפטנית פילאי: \"גבלס מוחא כפיים בגיהינום\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T11:07:19.337Z",
+  "at": "2026-10-09T11:18:56.927Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 375
+  "added": 2,
+  "pendingNew": 377
  }
 }
