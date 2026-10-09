@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "id": "7692797217425345812",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692797217425345812",
-   "caption": "בזמן שהוא מכיר את המספרים שוברי הלב האלה, נתניהו דאג להשתמטות של עשרו...",
-   "posted": "1791118933",
-   "found": "2026-10-04T13:09:31Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692797217425345812.txt",
-   "note": "התמלול כולל שירה/קטע לא ברור בלבד, בלי טענה עובדתית"
-  },
-  {
    "id": "7692802724286549269",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4465,12 +4453,23 @@
    "found": "2026-10-09T06:04:14Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694541169266642194.txt"
+  },
+  {
+   "id": "7694555108767714581",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694555108767714581",
+   "caption": "נערים תקפו פעילים של מפלגת הדמוקרטים בשוק מחנה יהודה בירושלים. מהמפלג...",
+   "posted": "1791528231",
+   "found": "2026-10-09T06:49:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694555108767714581.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T06:34:22Z",
+  "at": "2026-10-09T06:50:08Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
