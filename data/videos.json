@@ -1,27 +1,6 @@
 {
  "items": [
   {
-   "id": "7693077806846053638",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693077806846053638",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791184270",
-   "found": "2026-10-05T07:13:11Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693077806846053638.txt"
-  },
-  {
-   "id": "7693075780900785460",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693075780900785460",
-   "caption": "שלוש שנים אחרי הטבח הקשה בתולדות המדינה, הרמטכ\"ל אייל זמיר פרסם פקודת...",
-   "posted": "1791183793",
-   "found": "2026-10-05T07:13:35Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7692884126097050900",
    "channel": "kan_news",
    "name": "kan_news",
@@ -4465,10 +4444,32 @@
    "posted": "1791556839",
    "found": "2026-10-09T14:43:47Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694681227537763636",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694681227537763636",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791557589",
+   "found": "2026-10-09T14:58:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694681227537763636.txt"
+  },
+  {
+   "id": "7694679729990847762",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694679729990847762",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791557238",
+   "found": "2026-10-09T14:59:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694679729990847762.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T14:44:00Z",
+  "at": "2026-10-09T14:59:23Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
