@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:03:59.336Z",
+ "updated": "2026-10-09T15:16:31.202Z",
  "items": [
   {
    "id": "1fc8b0b77747",
@@ -11,6 +11,34 @@
    "published": "2026-10-09T14:58:45.000Z",
    "summary": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts.",
    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-Palestinian-election-mwfc/09int-Palestinian-election-mwfc-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1538364af48e",
+   "kind": "headline",
+   "title": "עמוס לוזון רוכש את השליטה בקוהאן תמורת כ-19.5 מיליון שקל",
+   "source": "TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeW0xZjlIYl8wYnN3MGxvSWZjUWhNNm11Q2RPMWdLNEtsekV5aW52XzJjbktWdF9aeGF6bEFjVnlieUtNQ0pFVkU3QnhMbHVoUnplUFdHS2tOSlNCNnM3QWRjcGVKZDNyaDJwTkJUTzg3TWNrYjJTWElpdWNFRFpEYVBYZ0tOWmxRQVBPMEZDY191VkdfSmM4?oc=5",
+   "topic": "econ",
+   "published": "2026-10-09T14:53:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "25439ed5e6a6",
+   "kind": "headline",
+   "title": "הדולר הקנדי בהתדרדרות לאחר אובדן משרות מפתיע מאת Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00dldGbkNxbkNBZ0V2RkRiYXNha2VfZ2FTQThXbFZqUXYyU3VJNWZuZS1DUFhUY09JbkI2S2YxQlB3ZEtPOGVCTVVBRVpmMDY2Sk1CbzZMc0lnTXl3U0dUdHZXSVp1RnBHWU02NzJsaw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-09T14:50:32.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -125,7 +153,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Beaumont Enterprise"
+    "Beaumont Enterprise",
+    "KGW"
    ],
    "important": false
   },
@@ -137,6 +166,20 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Kb2E2djhjdUtvM0RCenNVZ05ISjRCSHJKU2J0TjR5QjJ1LWZ3ZW1SQ0NOZ0Rid3RrZjg3NldwN1hOd1h3RXlJWTBlNk1pWjFL?oc=5",
    "topic": "econ",
    "published": "2026-10-09T13:06:45.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6b4f4fe3cf91",
+   "kind": "headline",
+   "title": "B-21 ריידר: חיל האוויר האמריקאי רוצה להגדיל את הייצור ב-25%, צי של 145 מפציצים נשקלת.",
+   "source": "Meta-Defense",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW90UmRKMldPREJQaHN1X2k1UjhISFQ5LVlYMG9BeFA4SUFxYmdpcFVwTXd3ZDd5dmxBMEdKSXRmaDhfbFR3V3RBYzAzS3BFdngtNVhkbkRmblJSSUdMOEVWMDVjeHVhV0FtVEZKY1RHRjN4WkIwemswQ1lSclBxaQ?oc=5",
+   "topic": "econ",
+   "published": "2026-10-09T13:04:10.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -802,6 +845,20 @@
    "important": false
   },
   {
+   "id": "7578bd534e15",
+   "kind": "headline",
+   "title": "US frustration with Netanyahu grows among Democrats",
+   "source": "Middle East Online",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3NqaVQtTFhNcEgxS180eDZEYWJaWE5MWTRHc2pYN0JTRVlBLXdRdlFWVnppS29UYzZjZXBPUVdKeEE1RXh6X1NVNURJRTBZNUN2T3FLYWJKbWZEb1NDeFJWNVNkTXNySjBjeUw3c1dydHU0MGJnVS1DUXVtZ3pxNEhacWM4OTQ?oc=5",
+   "topic": "knesset",
+   "published": "2026-10-09T08:16:01.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "6582ad242893",
    "kind": "headline",
    "title": "המניה שילשה את ערכה השנה - והאנליסט הוותיק אומר שתעשה זאת שוב",
@@ -1147,6 +1204,20 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81NVQwYThyUTNwSmE0Q3RkYUpYaG9qNkNiVGVEazA0aGZoT1hXbl9uT1pZY0NXanZnekJqdGZNdE01aElCWHl3V2NDSk9WUQ?oc=5",
    "topic": "research",
    "published": "2026-10-09T06:05:25.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d52274074ae7",
+   "kind": "headline",
+   "title": "Aliimalemanu Returns to Parliament as Sixth Woman MP After Election Petitions Conclude",
+   "source": "Samoa Global News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2lSbEZjOUxweWNkcnZ6UFNYVmU4Mlp4bW5oNWppM2dBOFpxTDNGOEd0MFZFRDJmVm1mSWJ4TFliUml1T1FWbENaZHJtS3NmcjBMWFFLb0xJSk1NMW1hMGxXTHVubkZ5S1hYdEZUZmJBZTVFaEJGZW1HMmJDR1R4MTduTmVvekozSHZMS3lwWDZGbEkwSDBiN2xtMXQ1aUZfLWhiVjJwSURxakNHQWRSakdwUWp6dw?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T06:04:19.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5564,76 +5635,6 @@
    "published": "2026-10-08T04:00:11.000Z",
    "summary": "Far-left leaders are cheering on the students. Government officials accuse them of stirring up the unrest for political gain.",
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-far-left-kpfg/08int-france-far-left-kpfg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bfbd02e76e6f",
-   "kind": "headline",
-   "title": "Made in Israel: Bringing creativity to playgrounds at home and abroad",
-   "source": "Israel Today",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTVKX19fZHFVdGdpdGhMTjI2ZGJNS3hGQ2FqNjFMenNCUTJ1ekgyTC1vZklGNEpHZXRidzluU0t2eV9CNC1XRHVpYkE0WWZDdlFkaW9QNnlscThhZmpDMzNZbUJGNGtIRjlXM3VxOVdveU1aN2FFWDBpakpfMVlIZzBwamp3OG1CbHRGVXloTUxPTllIcktBLW5Pd2NxS1doM2hFaEFOcw?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-08T04:00:04.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7bb786aac4f5",
-   "kind": "headline",
-   "title": "ירידות באסיה ויציבות בחוזים בוול סטריט; מחירי הנפט ממשיכים לטפס",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T03:58:00.000Z",
-   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • והבוקר: ירידות באסיה, סמסונג דיווחה הבוקר על זינוק של כמעט פי תשעה ברווח התפעולי • אחרי הירידות אתמול יציבות בחוזים בוול סטריט • מחירי הנפט ממשיכים לטפס, 102 דולר לחבית • המיליארדר שמזהיר: בועת ה-AI עומדת להתפוצץ",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783424919/direct/2026-07-03T000000Z_1953503890_MT1NURPHO000NDVEX6_RTRMADP_3_SOUTH-KOREA-STOCKS-REBOUND_zomlpx.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8e6339b0e73f",
-   "kind": "headline",
-   "title": "ירידות באירופה; גם החוזים בניו יורק עברו לירידות",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T03:58:00.000Z",
-   "summary": "נעילה שלילית באסיה, סמסונג דיווחה הבוקר על זינוק של כמעט פי תשעה ברווח התפעולי • אחרי הירידות אתמול יציבות בחוזים בוול סטריט • מחירי הנפט ממשיכים לטפס, 102 דולר לחבית • המיליארדר שמזהיר: בועת ה-AI מתקרבת לנקודת פיצוץ",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1622706480/direct/shutterstock_254253733_awzirx.jpg",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2ad30559e87a",
-   "kind": "headline",
-   "title": "5 Takeaways From the First Iowa Senate Debate",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/07/us/politics/iowa-senate-debate-ashley-hinson-josh-turek.html",
-   "topic": "world",
-   "published": "2026-10-08T03:56:51.000Z",
-   "summary": "In a top Senate battleground, Representative Ashley Hinson, the Republican nominee, sparred with Josh Turek, her Democratic rival, on policy issues ranging from Medicaid to term limits.",
-   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07pol-iowa-takeaways-wlbg/07pol-iowa-takeaways-wlbg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "21f803dc30b5",
-   "kind": "headline",
-   "title": "Major data centres must meet strict security and resilience rules under new Bill | The Straits Times - newspaper",
-   "source": "Magzter",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWG1yejBVQ3ZWd3pQYjdTb0JVU0pzbjRkSGlOZzZfTXRTWURDR0pwdUlPZEx6Q2VEMVVJMkc1dVNleDRLZlJmR3c4czVHT0lMT21BMWloQ2VmZzk2VGxPbWhkUVVQYVJZUUY1dWgyQlUxYlFNbnlVc2R3UjNTSmtzSFRuZGd4QjU1dHphM21VZWdDRzM3dDI5R19GZk5sQWRwc0NVS3cyMEJGM1h2NW9yRXVqb2ViS0NEM1hhczZhamY2TU5zbEdVNURkX1k5SzhuZmNqMnZNMA?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T03:34:07.000Z",
-   "summary": "",
-   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
