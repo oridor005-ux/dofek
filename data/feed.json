@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T21:25:08.757Z",
+ "updated": "2026-10-09T21:36:42.129Z",
  "items": [
+  {
+   "id": "5d45add5c416",
+   "kind": "headline",
+   "title": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html",
+   "topic": "world",
+   "published": "2026-10-09T21:31:58.000Z",
+   "summary": "Ms. Zacharia is a conservative commentator who is also an adviser to the company that runs President Trump’s social media site, Truth Social. She succeeds Karoline Leavitt.",
+   "image": "https://static01.nyt.com/images/2026/10/09/us/09dc-press/09dc-press-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "57be166a7097",
    "kind": "headline",
@@ -5618,20 +5632,6 @@
    "summary": "למרות הירידות החדות במניות המחשוב הקוונטי, בבנק אוף אמריקה מתארים את התחום כ\"גילוי האש הבא של האנושות\" • בבנק מעריכים כי לוח הזמנים לאימוץ מסחרי של הטכנולוגיה התקצר דרמטית והוא לפני פריצה • האם מניות הקוונטום על סף זינוק בשנת 2027?",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790674689/shutterstock_2747654687_jgz9je.jpg",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6b0d59fe9b21",
-   "kind": "headline",
-   "title": "ת\"א ננעלה בירידות; מדד הבנייה נפל ב-3%, הבנקים ב-2%",
-   "source": "גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vazVRbHp3R0dQeXVkYjRyNndiR0NJMENJMGRTaGlYTGxOVGZBSjhZT2dsbU9BdTRjczR5bGdnZWk5aERidDBHSUxqTmpBMV9Qcmw5bnpONXNHdTJabjU5b3cwLXo3VWtE?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T08:17:22.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
