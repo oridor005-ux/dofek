@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:47:36.233Z",
+ "updated": "2026-10-09T23:00:01.013Z",
  "items": [
   {
    "id": "5d45add5c416",
@@ -97,7 +97,8 @@
    "image": "",
    "score": 1,
    "alsoIn": [
-    "WPEC"
+    "WPEC",
+    "WBFF"
    ],
    "important": false
   },
@@ -410,6 +411,20 @@
    "important": false
   },
   {
+   "id": "2097d6dd52f0",
+   "kind": "headline",
+   "title": "The two elections that revolve around Iran",
+   "source": "www.irishsun.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQangwRExqNVE1WlN4eURRdmtSeThMN3JnRTBqSjZiNGtQc3gtdElEWXNMVEhraVJlTlZrTEkwS3dBdUJLYW5RejNRTEpJeFFqenFqbFFPZk1yMEt2bGVrZXlLeTlmZ2RIZTdVZkdtQlpJN2tvNGlSN3NYMkZGWVNQc0l6dFJFdGY0MFE?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T16:26:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ff5562c1f2b8",
    "kind": "headline",
    "title": "Zionism, racism and the Green party in turmoil | Letters",
@@ -433,6 +448,20 @@
    "published": "2026-10-09T16:21:17.000Z",
    "summary": "Republicans are suddenly racing to defend a seat in Kansas, where Democrats are trying to win a Senate race for the first time in nearly a century.",
    "image": "https://static01.nyt.com/images/2026/10/09/us/politics/09pol-kansas-senate-fox-btfl/09pol-kansas-senate-fox-btfl-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ceb7eee08b55",
+   "kind": "headline",
+   "title": "Nicaragua withdraws from Central American Parliament amid rising criticism from regional governments",
+   "source": "Latin America Reports",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMUdmeVRSWkdmUTR6anF4am1oRVBMc2NZamEtREsxWktfYzJ5dW00b216LTRuejU0S1dXQktvb3AzWnEyRjZWaGNpTEZZWjBZajJTTDBOeFk4cVA0X3QyWlF4RDZsTmkyUXNETFJyeEdGaTFBUm4wM1I5aEU3dXZ0NDc5d1VGX3JZcXZXQkZOS0JSRnBSNi1Kb01zRmVkbUVBeFI4cFJpcmREZlg0QnFPVHFBUkxSbHlzWVRzTVlOU0ZyN2ZxMUhYS0JUZ2tTeF9mU3htUHpB?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T16:15:39.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5606,34 +5635,6 @@
    "score": 4,
    "alsoIn": [],
    "important": true
-  },
-  {
-   "id": "df9cb07332fb",
-   "kind": "headline",
-   "title": "עליות בבורסה בתל אביב; נקסט ויז'ן מטפסת במעל 4%",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T08:22:00.000Z",
-   "summary": "ת\"א 35 עולה בכ-0.2%, מדד ת\"א 90 מתקדם בכ-1% • מניות השבבים נובה וטאואר מאבדות גובה • יו\"ר נקסט ויז'ן בעקבות הנפילה במניה: \"יש ביקוש חזק הן בטווח המיידי והן בטווח הארוך\" • פי.סי.בי רוכשת את Gorilla Circuits בארה\"ב לפי שווי פעילות של 120 מיליון דולר • ירידות בחוזים בניו יורק • אחרי השיאים בוול סטריט:…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d3fcc443ffbe",
-   "kind": "headline",
-   "title": "Controversy over additional seats for winning elections in Italy: Voting in Parliament today; Meloni says s...",
-   "source": "Bhaskar English",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnRQeU9uMmgxS3BlYWdvRG1heGhqZ3BzaW05SHhWcVJUM01IVkFfN29fRWRTTFZJX1luT0kxYnY5Y25iNEVZYWtZQTV2WWVSUmwtY3E0VEhEUXl3bDBabC0wUUtZY2gwaXFBT1NSWUNTS25HV1dxa1NMNUlLdEJEQVVicUFla2VfRDlFWEhoNGd5X3Nqb0NLRm5TODFpTHFpTTQ2RmhDQi1xWElmZHJtOHZIcG5JTnRDZzhnVUxLeUVIQjlK0gHKAUFVX3lxTFBpTU5BMll1VWI0LTB2ZVZ0bDVXOUZ0bzJoNTBKcHBxQjBneXY2cE81VFRualN1QnZCakxkN1FuWGpzVzBYcDk3bGV2ZTVyTk5xRm1LVHdhTWR4dDdmSGJ6eTJUaC12QXdrZDRoZ0ExdDB3X2Frb3FwaUJsUHM0RG13RWJ6M3Ezbk1uSE5jbTg4RXF3cWNNSXZwTkxhVmMyNEpaU2JJRXA4dGd5QzdoTThFejdWN28yOEpKQklBUkpRazdKaW9oTEp2blE?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T08:21:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
   }
  ]
 }
