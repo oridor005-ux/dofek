@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:36.836Z"
+   "checkedAt": "2026-10-09T08:33:06.714Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:37.630Z"
+   "checkedAt": "2026-10-09T08:33:07.364Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:38.312Z"
+   "checkedAt": "2026-10-09T08:33:08.054Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:39.054Z"
+   "checkedAt": "2026-10-09T08:33:09.853Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19335,
+   "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:39.752Z"
+   "checkedAt": "2026-10-09T08:33:10.640Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:40.670Z"
+   "checkedAt": "2026-10-09T08:33:11.263Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:43.293Z"
+   "checkedAt": "2026-10-09T08:33:11.889Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131615,
+   "lastId": 131616,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:44.016Z"
+   "checkedAt": "2026-10-09T08:33:12.557Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74923,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:44.633Z"
+   "checkedAt": "2026-10-09T08:33:13.104Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:45.373Z"
+   "checkedAt": "2026-10-09T08:33:13.746Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T08:20:46.215Z"
+   "checkedAt": "2026-10-09T08:33:14.423Z"
   }
  },
  "posts": [
@@ -299,15 +299,6 @@
    "url": "https://t.me/ynetalerts/74671",
    "date": "2026-10-06T10:29:26+00:00",
    "text": "🔴 רגב: המצבע להשבת הישראלים מדובאי יסתיים עד יום חמישי\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "the7eye/8403",
-   "channel": "the7eye",
-   "name": "העין השביעית",
-   "url": "https://t.me/the7eye/8403",
-   "date": "2026-10-05T08:22:25+00:00",
-   "text": "הנקניקיזציה של \"וואלה\" היא לא רק כשל עיתונאי אלא גם טיפשות מסחרית: העורך הראשון של \"וואלה\" כותב על הנקניקיה של אלי עזור https://www.the7eye.org.il/596075\n==\n📰 הקוראים שלנו הם גם המו\"לים שלנו. ואתה? https://the7eye.org.il/join",
    "status": "no-claims"
   },
   {
@@ -5410,13 +5401,31 @@
    "date": "2026-10-09T08:15:52+00:00",
    "text": "🔴 סעודיה: החות'ים תקפו שדה תעופה ומטוס, 3 נהרגו\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19336",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19336",
+   "date": "2026-10-09T08:26:10+00:00",
+   "text": "טורשישי מלא ממעריב: על הטקס מרטיט הנשמות בפארק. על הערוץ שביזה וטינף את אבלו של העם. על הדרישה ממשפחות הנרצחים והחטופים להתנצל בפני נתניהו. על עדותו של המזכיר הצבאי. ועל גיבור אלמוני נשכח אחד, שלמה רון מנחל עוז.\nhttps://www.maariv.co.il/news/opinions/article-1375204",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131616",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131616",
+   "date": "2026-10-09T08:31:27+00:00",
+   "text": "ערוצים פלסטינים מפרסמים תיעוד מהכפר יברוד (נפת ראמאללה) בו נראים מתיישבים יהודים חוסמים רכב של פלסטיני. הרקע לאירוע ע\"פ מקורות בהתיישבות: ערבים מהכפר יברוד הגיעו ברכב משטובה (ללא לוחית רישוי וללא רשיון), תקפו רועה מחווה סמוכה ונמלטו לכיוון הכפר. תושבים…",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T08:20:46.616Z",
+  "at": "2026-10-09T08:33:14.824Z",
   "ok": 11,
   "fail": 0,
   "added": 2,
-  "pendingNew": 358
+  "pendingNew": 360
  }
 }
