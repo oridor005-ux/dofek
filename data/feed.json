@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T23:23:09.310Z",
+ "updated": "2026-10-09T23:35:38.532Z",
  "items": [
   {
    "id": "ac8350d950e0",
@@ -53,6 +53,20 @@
    "published": "2026-10-09T20:56:23.000Z",
    "summary": "The setup has cost more than $100 million, the study said. A recent inspection found nearly 450 government employees and zero detainees.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-gitmo-btgk/07dc-gitmo-btgk-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e83df0205d66",
+   "kind": "headline",
+   "title": "Curaçao Council of Ministers Reviews Electoral Council’s 2025 Annual Report and Financial Statements",
+   "source": "Curaçao Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS0FKUFpPN1JETk5lTnJiYW9xVTJZdG1wS2Njbkl0b1dtUHFrT2RhbEo1U2R4cW0xc0QyV2lEZzM3NWJJZ3hsVm5oYlc4WkY5cndGRU1lMFZLTUlkdXk2MnVycnJGazgtNXduVkw4Qkhlb0ZHTUlEUWNWVGZZRUcxcm1qckNCMGZxQnlPTWpqMU10ektjVVF1TFM4NndURER3WVJ3S0c3aG4yUGZwM0VGY0VCckdodW1CV2xiR1RVMjktYkVPNUVZanFGUHBuOEhFWmgtbEx3aGxKSTV1M1E?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T20:38:52.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -397,6 +411,20 @@
    "important": false
   },
   {
+   "id": "94351b4b9cc9",
+   "kind": "headline",
+   "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
+   "topic": "world",
+   "published": "2026-10-09T16:34:10.000Z",
+   "summary": "Residents of Saudi Arabia’s capital reported hearing booms on Thursday, a day after the Saudi government said two women and a Sudanese man died in strikes on two airports.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-saudi-attacks-1-hktz/07int-saudi-attacks-1-hktz-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "e87b1712730f",
    "kind": "headline",
    "title": "French unions block Israel Elbit arms shipment but El Al step in",
@@ -435,7 +463,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "https://www.irishsun.com/"
+   ],
    "important": false
   },
   {
@@ -5604,34 +5634,6 @@
    "published": "2026-10-08T08:45:17.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f71355c5c9a2",
-   "kind": "headline",
-   "title": "Singapore sets Southeast Asia's first binding data centre rules, building demand for clean energy",
-   "source": "Eco-Business",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRl95UkFKenVpaElxU1QyTWM2MXYzUTVtOUFpWnl3RTNMTXIyTXlOTzVLTHNsanlMdUh0R19JTTc4TFBpMmxrX1YyZTNuN3JHd3BaaGl3N1libVRadU50TDc3ZkNfcUhPc0JwOVNMMEFjMGVsY2NmVnNHanItVkI2VkNIZjFTMkRJdHFIbU1vdjBHcXY4akJpTDc1VGdRenVCNG1HaTZ4cTNVOG5YRW1sX3lPaVg5YTdjZjBvLV9hU0hiRXNqOERfRUhn?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T08:43:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "94351b4b9cc9",
-   "kind": "headline",
-   "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
-   "topic": "world",
-   "published": "2026-10-08T08:33:45.000Z",
-   "summary": "Residents of Saudi Arabia’s capital reported hearing booms on Thursday, a day after the Saudi government said two women and a Sudanese man died in strikes on two airports.",
-   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-saudi-attacks-1-hktz/07int-saudi-attacks-1-hktz-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
