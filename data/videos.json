@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "7692929707989421313",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692929707989421313",
-   "caption": "#פוריו #ימין #שמאל #בשבילך",
-   "posted": "1791149787",
-   "found": "2026-10-04T21:47:05Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692929707989421313.txt",
-   "checked": "2026-10-05T06:08:05Z"
-  },
-  {
-   "id": "7692929401637342472",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692929401637342472",
-   "caption": "#פוריו #ימין #שמאל #בשבילך",
-   "posted": "1791149718",
-   "found": "2026-10-04T21:47:33Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692929401637342472.txt",
-   "checked": "2026-10-05T06:08:05Z"
-  },
-  {
-   "id": "7693055286268955912",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7693055286268955912",
-   "caption": "לא נסיים בלי…. אתם כבר יודעים מה 😂",
-   "posted": "1791179024",
-   "found": "2026-10-05T05:57:29Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693055286268955912.txt"
-  },
-  {
-   "id": "7693054972342177042",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7693054972342177042",
-   "caption": "יאיר גולן שרף להם את השקר בשידור חי, שתפו",
-   "posted": "1791178953",
-   "found": "2026-10-05T05:59:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693054972342177042.txt"
-  },
-  {
-   "id": "7693054711234104583",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7693054711234104583",
-   "caption": "אולי זה לא מדד אבל מישהו יודע למה אין את זה בצד השני?",
-   "posted": "1791178890",
-   "found": "2026-10-05T05:59:37Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693054711234104583.txt"
-  },
-  {
    "id": "7692849933921078549",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4454,12 +4397,67 @@
    "found": "2026-10-09T11:42:40Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694628307156995335.txt"
+  },
+  {
+   "id": "7694638670359301384",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7694638670359301384",
+   "caption": "שתי מדינות לשני עמים - זה כבר קורה. #פוליטיקה #חרדים ",
+   "posted": "1791547681",
+   "found": "2026-10-09T12:12:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694638670359301384.txt"
+  },
+  {
+   "id": "7694637034362719509",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7694637034362719509",
+   "caption": "ככה מעבירים מסרים. #ישראל #פוליטיקה ",
+   "posted": "1791547298",
+   "found": "2026-10-09T12:12:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694637034362719509.txt"
+  },
+  {
+   "id": "7694639311555185941",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694639311555185941",
+   "caption": "",
+   "posted": "1791547828",
+   "found": "2026-10-09T12:13:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694639311555185941.txt"
+  },
+  {
+   "id": "7694638817608830228",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694638817608830228",
+   "caption": "",
+   "posted": "1791547716",
+   "found": "2026-10-09T12:13:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694638817608830228.txt"
+  },
+  {
+   "id": "7694638417698671893",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694638417698671893",
+   "caption": "",
+   "posted": "1791547620",
+   "found": "2026-10-09T12:14:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694638417698671893.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T11:56:39Z",
+  "at": "2026-10-09T12:14:17Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 5
  }
 }
