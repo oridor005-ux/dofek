@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:16.740Z"
+   "checkedAt": "2026-10-09T22:24:51.672Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:17.439Z"
+   "checkedAt": "2026-10-09T22:24:52.345Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:18.105Z"
+   "checkedAt": "2026-10-09T22:24:52.966Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:18.838Z"
+   "checkedAt": "2026-10-09T22:24:53.614Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:19.521Z"
+   "checkedAt": "2026-10-09T22:24:54.244Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:20.237Z"
+   "checkedAt": "2026-10-09T22:24:54.882Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:20.967Z"
+   "checkedAt": "2026-10-09T22:24:55.496Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131646,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:21.705Z"
+   "checkedAt": "2026-10-09T22:24:56.198Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74960,
+   "lastId": 74961,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:22.321Z"
+   "checkedAt": "2026-10-09T22:24:56.907Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:23.022Z"
+   "checkedAt": "2026-10-09T22:24:57.567Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T22:13:23.781Z"
+   "checkedAt": "2026-10-09T22:24:58.255Z"
   }
  },
  "posts": [
@@ -6071,13 +6071,22 @@
    "date": "2026-10-09T21:11:52+00:00",
    "text": "🔴 רעידת אדמה נוספת הכתה בפנמה, בעוצמה 6.6\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74961",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74961",
+   "date": "2026-10-09T22:19:21+00:00",
+   "text": "🔴 אחרי רעידות האדמה: נמל התעופה של פנמה נפתח מחדש\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T22:13:24.181Z",
+  "at": "2026-10-09T22:24:58.655Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 398
+  "added": 1,
+  "pendingNew": 399
  }
 }
