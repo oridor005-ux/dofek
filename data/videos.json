@@ -1,32 +1,6 @@
 {
  "items": [
   {
-   "id": "7692802724286549269",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692802724286549269",
-   "caption": "מחווה לזכר נרצחי 7 באוקטובר: אופ״א נענתה לבקשת ההתאחדות לכדורגל, ושחק...",
-   "posted": "1791120216",
-   "found": "2026-10-04T13:39:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692802724286549269.txt",
-   "note": "התמלול כולל שירה/קטע לא ברור בלבד, בלי טענה עובדתית"
-  },
-  {
-   "id": "7692806990367640852",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7692806990367640852",
-   "caption": "\"חמאס הוא ארגון טרור אבל גם ארגון גרילה\" 👇 \"כשאנחנו מדברים על גוף אם ...",
-   "posted": "1791121206",
-   "found": "2026-10-04T13:55:50Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692806990367640852.txt",
-   "insightIds": [
-    "ins-2026-10-04-hg7c"
-   ]
-  },
-  {
    "id": "7692814313723006228",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4483,12 +4457,34 @@
    "found": "2026-10-09T06:49:56Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694555108767714581.txt"
+  },
+  {
+   "id": "7694561224477936917",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7694561224477936917",
+   "caption": "בפרלמנט בת ים אמרו לי שהחרדים לא צריכים את הכסף שלי>> #ישראל #בתים #פ...",
+   "posted": "1791529653",
+   "found": "2026-10-09T07:22:08Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694561224477936917.txt"
+  },
+  {
+   "id": "7694561918115220743",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694561918115220743",
+   "caption": "אפילו שהמחבלים הפכו את ביתה למרכז הפעילות שלהם בקיבוץ, אביבה סלע הצלי...",
+   "posted": "1791529817",
+   "found": "2026-10-09T07:23:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694561918115220743.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T07:05:13Z",
+  "at": "2026-10-09T07:23:15Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
