@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65653,
+   "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:33.769Z"
+   "checkedAt": "2026-10-09T13:54:00.556Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:34.407Z"
+   "checkedAt": "2026-10-09T13:54:01.252Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:35.033Z"
+   "checkedAt": "2026-10-09T13:54:01.914Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
-   "lastId": 11461,
+   "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:35.728Z"
+   "checkedAt": "2026-10-09T13:54:02.605Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19337,
+   "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:36.337Z"
+   "checkedAt": "2026-10-09T13:54:03.258Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:36.955Z"
+   "checkedAt": "2026-10-09T13:54:03.949Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:37.577Z"
+   "checkedAt": "2026-10-09T13:54:04.617Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131632,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:38.243Z"
+   "checkedAt": "2026-10-09T13:54:05.324Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74935,
+   "lastId": 74937,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:38.792Z"
+   "checkedAt": "2026-10-09T13:54:05.921Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:39.437Z"
+   "checkedAt": "2026-10-09T13:54:06.614Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T13:41:40.159Z"
+   "checkedAt": "2026-10-09T13:54:07.349Z"
   }
  },
  "posts": [
@@ -5730,13 +5730,60 @@
    "date": "2026-10-09T13:33:24+00:00",
    "text": "🔴 גנב רכב התהפך בתום מרדף משטרתי באזור י-ם, מצבו אנוש. שריפה פרצה במקום\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65654",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65654",
+   "date": "2026-10-09T13:49:57+00:00",
+   "text": "יו״ר עמך ישראל עפר וינטר לפגוש את העיתונות: ״שביבי יקפוץ לי״\nהראיון המלא מחר בפגוש את העיתונות",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11462",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11462",
+   "date": "2026-10-09T13:49:07+00:00",
+   "text": "כולם מכירים את שבע החזיתות של המלחמה, אבל יש גם את החזית השמינית- חזית ההסברה, ושם אין הפסקת אש לרגע אחד... אז ממשיכים לתת בראש בכל הכוח כי אין ברירה אחרת, כרגע אני עוד כאן בלונדון לקראת \"יום הזעם\" של הפרו פלסטינים מחר. לא משאירים את הזירה הזו ריקה יותר 🇮🇱",
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19338",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19338",
+   "date": "2026-10-09T13:53:55+00:00",
+   "text": "וינטר עולה למתקפה נגד נתניהו: \"שביבי יקפוץ לי, הממשלה הצרה הזו היא צרה לישראל\"\nהראיון המלא מחר בפגוש את העיתונות",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74936",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74936",
+   "date": "2026-10-09T13:42:13+00:00",
+   "text": "🔴 צעיר נפצע קשה באירוע אלימות באזור ירושלים, שניים נוספים במצב בינוני וקל\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74937",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74937",
+   "date": "2026-10-09T13:43:14+00:00",
+   "text": "🔴 דיווח פלסטיני: 6 פצועים בתקיפה במערב חאן יונס\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T13:41:40.560Z",
+  "at": "2026-10-09T13:54:07.750Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 396
+  "added": 5,
+  "pendingNew": 401
  }
 }
