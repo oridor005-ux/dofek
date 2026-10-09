@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "id": "7692781539641347335",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692781539641347335",
-   "caption": "משרד הבריאות מעדכן כי התקבל דיווח על אדם החשוד כחולה באבולה לאחר ששב ...",
-   "posted": "1791115284",
-   "found": "2026-10-04T12:08:17Z",
-   "status": "failed"
-  },
-  {
    "id": "7692792055591914772",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4467,12 +4457,23 @@
    "found": "2026-10-09T05:08:39Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694382470946508053.txt"
+  },
+  {
+   "id": "7694538610699144469",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694538610699144469",
+   "caption": "“עבדו את השם בשמחה!”: לוחמי נצח יהודה בטקס ההשבעה בכותל 📸: עמותת נצח ",
+   "posted": "1791524384",
+   "found": "2026-10-09T05:49:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694538610699144469.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T05:33:47Z",
+  "at": "2026-10-09T05:49:28Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
