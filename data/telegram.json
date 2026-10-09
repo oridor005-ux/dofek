@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65650,
+   "lastId": 65651,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:33.447Z"
+   "checkedAt": "2026-10-09T12:54:07.426Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:34.108Z"
+   "checkedAt": "2026-10-09T12:54:08.100Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:34.717Z"
+   "checkedAt": "2026-10-09T12:54:08.727Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
-   "lastId": 11459,
+   "lastId": 11460,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:35.380Z"
+   "checkedAt": "2026-10-09T12:54:09.402Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19336,
+   "lastId": 19337,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:36.041Z"
+   "checkedAt": "2026-10-09T12:54:10.040Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:36.675Z"
+   "checkedAt": "2026-10-09T12:54:10.687Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:37.292Z"
+   "checkedAt": "2026-10-09T12:54:11.327Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131629,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:38.035Z"
+   "checkedAt": "2026-10-09T12:54:12.051Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74931,
+   "lastId": 74932,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:38.607Z"
+   "checkedAt": "2026-10-09T12:54:13.448Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:39.258Z"
+   "checkedAt": "2026-10-09T12:54:14.133Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T12:42:39.998Z"
+   "checkedAt": "2026-10-09T12:54:14.864Z"
   }
  },
  "posts": [
@@ -5639,13 +5639,41 @@
    "date": "2026-10-09T12:39:55+00:00",
    "text": "🔴 אותר ללא רוח חיים המטייל עמי יוגב שנעדר בהר אולימפוס ביוון\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65651",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65651",
+   "date": "2026-10-09T12:49:39+00:00",
+   "text": "יאיר גולן: צריך להפוך את האוכלוסייה החרדית מאוכלוסייה טפילית לאוכלוסייה פורה ויצרנית",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19337",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19337",
+   "date": "2026-10-09T12:46:13+00:00",
+   "text": "בישר מגנים את המתקפות נגד פעילי גוש השינוי בימים האחרונים",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74932",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74932",
+   "date": "2026-10-09T12:53:01+00:00",
+   "text": "🔴 משמרות המהפכה: תקפנו מיכלית שניסתה לחצות את מצר הורמוז\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T12:42:40.399Z",
+  "at": "2026-10-09T12:54:15.263Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 385
+  "added": 3,
+  "pendingNew": 388
  }
 }
