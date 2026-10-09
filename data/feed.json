@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T15:52:16.356Z",
+ "updated": "2026-10-09T16:03:59.157Z",
  "items": [
+  {
+   "id": "ac45ebeaaa70",
+   "kind": "headline",
+   "title": "Top Democratic Group Pumps Millions Into Kansas Senate Race",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/adam-hamilton-roger-marshall-kansas-senate.html",
+   "topic": "world",
+   "published": "2026-10-09T16:00:02.000Z",
+   "summary": "The $5 million investment from the main super PAC for Senate Democrats is a sign that party leaders see a path to winning in another red state as the political environment worsens for Republicans.",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "fe55b10be441",
    "kind": "headline",
@@ -5616,20 +5630,6 @@
    "source": "ביזפורטל",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pc0U2NGJyZkxQeFpxLWJnR1MyQ0NqM25YamVySEo1Yk9vOGV5TjVwZ2tsNWU4QmhTaTlHVWhnWmtsM3pMTkxIQVR3TFpSVlYwZ3ZWQ2hEOF91WUtYX2JiZVp0TkFOZzhxNnR4VUdSU0E?oc=5",
    "topic": "econ",
-   "published": "2026-10-08T04:13:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d8fd42be6b48",
-   "kind": "headline",
-   "title": "נקסט ויז'ן מתאוששת 4%, פיסיבי בשיעור דומה; תקלת קידוח מפילה את גבעות; מגמה מעורבת בבורסה",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pc0U2NGJyZkxQeFpxLWJnR1MyQ0NqM25YamVySEo1Yk9vOGV5TjVwZ2tsNWU4QmhTaTlHVWhnWmtsM3pMTkxIQVR3TFpSVlYwZ3ZWQ2hEOF91WUtYX2JiZVp0TkFOZzhxNnR4VUdSU0E?oc=5",
-   "topic": "research",
    "published": "2026-10-08T04:13:00.000Z",
    "summary": "",
    "image": "",
