@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692897866284633362",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692897866284633362",
-   "caption": "",
-   "posted": "1791142368",
-   "found": "2026-10-04T19:45:05Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692897866284633362.txt"
-  },
-  {
    "id": "7692929707989421313",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4454,10 +4443,21 @@
    "posted": "1791544931",
    "found": "2026-10-09T11:26:30Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694628307156995335",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694628307156995335",
+   "caption": "סרן אליאב חיים צפלמוס ז״ל הובא למנוחות, בת זוגו בפרידה קורעת לב: \"אלי...",
+   "posted": "1791545267",
+   "found": "2026-10-09T11:42:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694628307156995335.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T11:26:36Z",
+  "at": "2026-10-09T11:42:53Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
