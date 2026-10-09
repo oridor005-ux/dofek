@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T20:02:17.125Z",
+ "updated": "2026-10-09T20:13:49.358Z",
  "items": [
+  {
+   "id": "de5dec10ccea",
+   "kind": "headline",
+   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-09T20:03:55.000Z",
+   "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d045f1484196",
    "kind": "headline",
@@ -5620,20 +5634,6 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "73d243448f03",
-   "kind": "headline",
-   "title": "פעילות ראשונה מעבר לים? בבורסה בוחנים רכישת הבורסה בקפריסין",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558838#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-08T07:32:00.000Z",
-   "summary": "בבורסה בת\"א הקיום צוות לבחינת השתתפות במכרז לרכישת הבורסה במדינה השכנה, שנמצאת בימים אלו בהליך הפרטה • במידה ואכן ישתתפו במכרז ואף יזכו בו, בבורסה יקוו לשחזר את ההצלחה של השנים האחרונות, שבאה לידי ביטוי בין היתר בהגדלה משמעותית של מחזורי המסחר, גם באי השכן",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1736783113/direct/DSC04610-2_e8tuet_82cabb.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }

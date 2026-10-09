@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:04.061Z"
+   "checkedAt": "2026-10-09T20:02:36.566Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:04.758Z"
+   "checkedAt": "2026-10-09T20:02:37.247Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:05.388Z"
+   "checkedAt": "2026-10-09T20:02:37.891Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:06.042Z"
+   "checkedAt": "2026-10-09T20:02:38.557Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:06.708Z"
+   "checkedAt": "2026-10-09T20:02:39.217Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:07.356Z"
+   "checkedAt": "2026-10-09T20:02:39.902Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:07.982Z"
+   "checkedAt": "2026-10-09T20:02:40.640Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131645,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:08.651Z"
+   "checkedAt": "2026-10-09T20:02:41.408Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74956,
+   "lastId": 74957,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:09.220Z"
+   "checkedAt": "2026-10-09T20:02:41.985Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:09.910Z"
+   "checkedAt": "2026-10-09T20:02:42.761Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T19:51:10.671Z"
+   "checkedAt": "2026-10-09T20:02:43.502Z"
   }
  },
  "posts": [
@@ -6026,13 +6026,22 @@
    "date": "2026-10-09T19:12:13+00:00",
    "text": "🔴 טראמפ מקל את הסנקציות על רוסיה: \"פוטין יספק לנו 300 אלף טון דלק - מיידית\" \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74957",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74957",
+   "date": "2026-10-09T19:59:20+00:00",
+   "text": "🔴 זלנסקי נגד טראמפ: \"ה'מתנות' לפוטין יובילו להארכת המלחמה\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T19:51:11.071Z",
+  "at": "2026-10-09T20:02:43.904Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 393
+  "added": 1,
+  "pendingNew": 394
  }
 }
