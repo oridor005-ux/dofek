@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692897779106106644",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692897779106106644",
-   "caption": "משנה כיוון | עידו פרוכטר כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע ש...",
-   "posted": "1791142347",
-   "found": "2026-10-04T19:44:39Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692897779106106644.txt"
-  },
-  {
    "id": "7692897866284633362",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4455,12 +4444,22 @@
    "posted": "1791543045",
    "found": "2026-10-09T10:55:59Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694626860365499668",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694626860365499668",
+   "caption": "",
+   "posted": "1791544931",
+   "found": "2026-10-09T11:26:30Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-09T11:11:03Z",
+  "at": "2026-10-09T11:26:36Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
