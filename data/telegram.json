@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:27.598Z"
+   "checkedAt": "2026-10-09T15:41:02.202Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:28.293Z"
+   "checkedAt": "2026-10-09T15:41:02.896Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:28.956Z"
+   "checkedAt": "2026-10-09T15:41:03.531Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:29.669Z"
+   "checkedAt": "2026-10-09T15:41:04.238Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:30.353Z"
+   "checkedAt": "2026-10-09T15:41:04.879Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:31.078Z"
+   "checkedAt": "2026-10-09T15:41:05.532Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:31.748Z"
+   "checkedAt": "2026-10-09T15:41:06.182Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131636,
+   "lastId": 131638,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:32.803Z"
+   "checkedAt": "2026-10-09T15:41:06.912Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74943,
+   "lastId": 74944,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:33.409Z"
+   "checkedAt": "2026-10-09T15:41:07.504Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:34.108Z"
+   "checkedAt": "2026-10-09T15:41:08.222Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T15:28:34.891Z"
+   "checkedAt": "2026-10-09T15:41:08.938Z"
   }
  },
  "posts": [
@@ -5839,13 +5839,40 @@
    "date": "2026-10-09T15:17:39+00:00",
    "text": "🔴 האיחוד האירופי: הסנקציות על בית הדין הבינלאומי מצערות, נוודא שימשיך לפעול\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131637",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131637",
+   "date": "2026-10-09T15:34:31+00:00",
+   "text": "חמאס, הג'האד האסלאמי ומחמד דחלאן ירוצו ברשימה משותפת בבחירות הפלסטיניות הקרובות\nערוץ א-תלפזיון אלערבי הקטרי מפי מקורות בחמאס:\nהשלמנו את ההכנות האחרונות להקמת רשימה משותפת בין חמאס, הג'האד האסלאמי והפלג של מחמד דחלאן - לריצה משותפת בבחירות הפלסטיניות.\nנגיש את רשימת המועמדים המאוחדת בגדה וברצועה עד יום ג' הקרוב - מועד סגירת הרשימות.\n##\nאפשר להניח שזו רשימה שמטרידה את תנועת הפת\"ח של אבו ועומדת בבסיס ההכרזה על דחיית הבחירות.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131638",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131638",
+   "date": "2026-10-09T15:39:23+00:00",
+   "text": "חברת Fly Dubai מבטלת טיסות לסעודיה בעקבות מתקפות החות'ים על שדות התעופה בשטח סעודיה.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74944",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74944",
+   "date": "2026-10-09T15:29:45+00:00",
+   "text": "🔴 מת מפצעיו החשוד בגניבת רכב שהתהפך לאחר מרדף משטרתי באזור י-ם\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T15:28:35.292Z",
+  "at": "2026-10-09T15:41:09.339Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 411
+  "added": 3,
+  "pendingNew": 414
  }
 }
