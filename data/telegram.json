@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:00.421Z"
+   "checkedAt": "2026-10-09T08:20:36.836Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:01.194Z"
+   "checkedAt": "2026-10-09T08:20:37.630Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:01.905Z"
+   "checkedAt": "2026-10-09T08:20:38.312Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:02.637Z"
+   "checkedAt": "2026-10-09T08:20:39.054Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19335,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:03.369Z"
+   "checkedAt": "2026-10-09T08:20:39.752Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:04.108Z"
+   "checkedAt": "2026-10-09T08:20:40.670Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:04.818Z"
+   "checkedAt": "2026-10-09T08:20:43.293Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131614,
+   "lastId": 131615,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:05.785Z"
+   "checkedAt": "2026-10-09T08:20:44.016Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74922,
+   "lastId": 74923,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:06.420Z"
+   "checkedAt": "2026-10-09T08:20:44.633Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:07.168Z"
+   "checkedAt": "2026-10-09T08:20:45.373Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T08:09:08.022Z"
+   "checkedAt": "2026-10-09T08:20:46.215Z"
   }
  },
  "posts": [
@@ -5391,13 +5391,32 @@
    "date": "2026-10-09T08:06:51+00:00",
    "text": "🔴 צעיר מאזור חברון נעצר בחשד להסתה לטרור ולתמיכה בטבח 7 באוקטובר\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131615",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131615",
+   "date": "2026-10-09T08:17:40+00:00",
+   "text": "ערוצים פלסטינים מפרסמים תיעוד מהכפר יברוד (נפת ראמאללה) בו נראים מתיישבים יהודים חוסמים רכב של פלסטיני.\nהרקע לאירוע ע\"פ מקורות בהתיישבות:\nערבים מהכפר יברוד הגיעו ברכב משטובה (ללא לוחית רישוי וללא רשיון), תקפו רועה מחווה סמוכה ונמלטו לכיוון הכפר. \nתושבים שהוזעקו לאירוע רדפו אחר הרכב של התוקפים והצליחו לחסום אותו בפאתי הכפר.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74923",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74923",
+   "date": "2026-10-09T08:15:52+00:00",
+   "text": "🔴 סעודיה: החות'ים תקפו שדה תעופה ומטוס, 3 נהרגו\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T08:09:08.422Z",
+  "at": "2026-10-09T08:20:46.616Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 356
+  "added": 2,
+  "pendingNew": 358
  }
 }
