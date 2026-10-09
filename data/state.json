@@ -152,7 +152,7 @@
   "bbe7f805a49b"
  ],
  "pending": [],
- "lastRun": "2026-10-09T04:22:37.909Z",
+ "lastRun": "2026-10-09T04:35:02.883Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -177,12 +177,12 @@
      "HTTP 403": 2
     }
    },
-   "at": "2026-10-09T03:46:50.717Z"
+   "at": "2026-10-09T04:22:55.333Z"
   },
-  "lastNewItemAt": "2026-10-09T04:22:37.909Z",
+  "lastNewItemAt": "2026-10-09T04:35:02.883Z",
   "lastPushOkAt": "2026-10-09T04:01:42.150Z",
-  "googleOkAt": "2026-10-09T03:46:50.717Z"
+  "googleOkAt": "2026-10-09T04:22:55.333Z"
  },
- "lastFullAt": "2026-10-09T03:46:50.717Z",
+ "lastFullAt": "2026-10-09T04:22:55.333Z",
  "webPushSubscribers": 2
 }
