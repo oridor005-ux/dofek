@@ -1,20 +1,6 @@
 {
  "items": [
   {
-   "id": "7692775706358467858",
-   "channel": "ask__dani",
-   "name": "ask__dani",
-   "url": "https://www.tiktok.com/@ask__dani/video/7692775706358467858",
-   "caption": "למה הוא כל כך רוצה שנדבר על זיתים? #פוליטיקה #בןגביר #משילות ",
-   "posted": "1791113925",
-   "found": "2026-10-04T11:54:25Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692775706358467858.txt",
-   "insightIds": [
-    "ins-2026-10-04-zt8k"
-   ]
-  },
-  {
    "id": "7692781539641347335",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4470,12 +4456,23 @@
    "posted": "1791492091",
    "found": "2026-10-08T20:43:22Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694382470946508053",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694382470946508053",
+   "caption": "כשעופרי רחום שרה בכל אירועי הזיכרון - המילים יוצאות עמוק מתוך הנפש של...",
+   "posted": "1791522000",
+   "found": "2026-10-09T05:08:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694382470946508053.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T04:48:13Z",
+  "at": "2026-10-09T05:08:50Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
