@@ -1,20 +1,6 @@
 {
  "items": [
   {
-   "id": "7692884178840440082",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692884178840440082",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791139183",
-   "found": "2026-10-04T18:44:06Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692884178840440082.txt",
-   "insightIds": [
-    "ins-2026-10-04-gz63"
-   ]
-  },
-  {
    "id": "7692882372991175943",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4469,12 +4455,22 @@
    "found": "2026-10-09T10:11:52Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694605986111278343.txt"
+  },
+  {
+   "id": "7694611330372160789",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694611330372160789",
+   "caption": "נאוונת'ם \"נאווי\" פילאי, משפטנית דרום אפריקנית ובכירה לשעבר באו\"ם, נבח...",
+   "posted": "1791541313",
+   "found": "2026-10-09T10:25:35Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-09T10:12:06Z",
+  "at": "2026-10-09T10:25:46Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
