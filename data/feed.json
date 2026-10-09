@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:12:06.660Z",
+ "updated": "2026-10-09T22:24:31.957Z",
  "items": [
   {
    "id": "5d45add5c416",
@@ -99,6 +99,20 @@
    "alsoIn": [
     "WPEC"
    ],
+   "important": false
+  },
+  {
+   "id": "ac46e64df2b6",
+   "kind": "headline",
+   "title": "Morocco’s opposition says royal speech will become test for incoming government - HESPRESS English",
+   "source": "HESPRESS English - Morocco News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTk5tZjR6bEREcHZHLXZHR19TYWI5MnRKVzMwVVNzMUVYWTlYWEZyTmUyM0luOS1xN1NDdWhibzZGT3A5NmN2SmstRkN0cU02NmhDcmxHSF9sT2dNTHQzZDRvNTFoaTJkQVJNdDllSmx2NDV0OEtFUjFYcUx6ZVVOSDhKSS1DZDJnekhjM21TQ0FPRzIyUURoYkkyMC15ZGEtMkRTSDhRclltWTV1bElERFJ5NnA?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T20:10:05.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
    "important": false
   },
   {
@@ -5618,20 +5632,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "deae5c485884",
-   "kind": "headline",
-   "title": "אירופה מקשיחה את החזית מול סין ונערכת להטלת מסי בזק",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558784#utm_source=RSS",
-   "topic": "world",
-   "published": "2026-10-08T08:20:00.000Z",
-   "summary": "האיחוד האירופי התקשה לגבש תגובה יעילה עם ההצפה הסינית של מוצרים ממכוניות חשמליות ועד מתכות • כעת, גרמניה וצרפת סיכמו על מנגנון שיאפשר להטיל מכסים על סחורה סינית \"בתוך ימים בלבד\" • ההסכמה מגיעה ברקע המו\"מ בין האיחוד לסין שצפוי לארוך חודשים",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765469052/direct/2025-09-12T111424Z_1705582216_MT1VCG000K02OLX_RTRMADP_3_VCG_eauaty.jpg",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
