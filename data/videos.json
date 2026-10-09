@@ -1,20 +1,6 @@
 {
  "items": [
   {
-   "id": "7692792055591914772",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7692792055591914772",
-   "caption": "\"רואים את עצמנו עולים על 61 מנדטים\" 👇 אל\"מ במיל' טליה לנקרי, מועמדת מ...",
-   "posted": "1791117730",
-   "found": "2026-10-04T12:54:46Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692792055591914772.txt",
-   "insightIds": [
-    "ins-2026-10-04-rq3m"
-   ]
-  },
-  {
    "id": "7692797217425345812",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4468,10 +4454,21 @@
    "found": "2026-10-09T05:49:14Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694538610699144469.txt"
+  },
+  {
+   "id": "7694541169266642194",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694541169266642194",
+   "caption": "הנשיא טראמפ אישר השבוע שהמחבל הפלסטיני, שרצח 13 חיילים ב-2009, יוצא ל...",
+   "posted": "1791524982",
+   "found": "2026-10-09T06:04:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694541169266642194.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T05:49:28Z",
+  "at": "2026-10-09T06:04:26Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
