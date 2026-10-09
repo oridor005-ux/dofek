@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65650,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:04.454Z"
+   "checkedAt": "2026-10-09T12:42:33.447Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:05.193Z"
+   "checkedAt": "2026-10-09T12:42:34.108Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:05.881Z"
+   "checkedAt": "2026-10-09T12:42:34.717Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11459,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:06.588Z"
+   "checkedAt": "2026-10-09T12:42:35.380Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:07.308Z"
+   "checkedAt": "2026-10-09T12:42:36.041Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:08.001Z"
+   "checkedAt": "2026-10-09T12:42:36.675Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:08.698Z"
+   "checkedAt": "2026-10-09T12:42:37.292Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131629,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:09.484Z"
+   "checkedAt": "2026-10-09T12:42:38.035Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74930,
+   "lastId": 74931,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:10.097Z"
+   "checkedAt": "2026-10-09T12:42:38.607Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:10.801Z"
+   "checkedAt": "2026-10-09T12:42:39.258Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T12:30:11.536Z"
+   "checkedAt": "2026-10-09T12:42:39.998Z"
   }
  },
  "posts": [
@@ -5630,13 +5630,22 @@
    "text": "יאיר גולן: אני חושב באופן חד משמעי שחיסול חמינאי היה טעות. זה לא משרת את האינטרסים של מדינת ישראל",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74931",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74931",
+   "date": "2026-10-09T12:39:55+00:00",
+   "text": "🔴 אותר ללא רוח חיים המטייל עמי יוגב שנעדר בהר אולימפוס ביוון\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T12:30:11.937Z",
+  "at": "2026-10-09T12:42:40.399Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 384
+  "pendingNew": 385
  }
 }
