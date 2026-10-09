@@ -161,7 +161,7 @@
   "13c59300047d"
  ],
  "pending": [],
- "lastRun": "2026-10-09T10:07:12.117Z",
+ "lastRun": "2026-10-09T10:18:45.065Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -188,7 +188,7 @@
    },
    "at": "2026-10-09T09:43:34.547Z"
   },
-  "lastNewItemAt": "2026-10-09T10:07:12.117Z",
+  "lastNewItemAt": "2026-10-09T10:18:45.065Z",
   "lastPushOkAt": "2026-10-09T08:28:11.034Z",
   "googleOkAt": "2026-10-09T09:43:34.547Z"
  },
