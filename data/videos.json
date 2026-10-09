@@ -1,45 +1,6 @@
 {
  "items": [
   {
-   "id": "7692882372991175943",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692882372991175943",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791138760",
-   "found": "2026-10-04T18:44:32Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692882372991175943.txt",
-   "insightIds": [
-    "ins-2026-10-04-gz63"
-   ]
-  },
-  {
-   "id": "7692885575669501202",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692885575669501202",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791139507",
-   "found": "2026-10-04T18:58:55Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692885575669501202.txt",
-   "insightIds": [
-    "ins-2026-10-04-ns11"
-   ]
-  },
-  {
-   "id": "7692889155885501716",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692889155885501716",
-   "caption": "״קפלניסטים שרוצים להפיל את הממשלה״. הערבות ההדדית של השמונה באוקטובר ...",
-   "posted": "1791140340",
-   "found": "2026-10-04T19:14:58Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692889155885501716.txt"
-  },
-  {
    "id": "7692894447784217864",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4465,12 +4426,45 @@
    "posted": "1791541313",
    "found": "2026-10-09T10:25:35Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694615169036471560",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694615169036471560",
+   "caption": "הלב נשבר: סרן אליאב חיים צפלמוס ז\"ל שנפל אתמול בתאונה מבצעית בלבנון, ...",
+   "posted": "1791542209",
+   "found": "2026-10-09T10:40:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694615169036471560.txt"
+  },
+  {
+   "id": "7694615594989063431",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7694615594989063431",
+   "caption": "נתיבותים, אוהב אתכם🫶🇮🇱",
+   "posted": "1791542307",
+   "found": "2026-10-09T10:41:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694615594989063431.txt"
+  },
+  {
+   "id": "7694614697240169749",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7694614697240169749",
+   "caption": "גם בלונדון נדאג שכמה שיותר אנשים ייחשפו לאמת על השבעה באוקטובר! במיוח...",
+   "posted": "1791542098",
+   "found": "2026-10-09T10:41:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694614697240169749.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T10:25:46Z",
+  "at": "2026-10-09T10:41:54Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
