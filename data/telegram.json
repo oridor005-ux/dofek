@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:26.165Z"
+   "checkedAt": "2026-10-09T07:21:54.969Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:26.954Z"
+   "checkedAt": "2026-10-09T07:21:55.645Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:27.803Z"
+   "checkedAt": "2026-10-09T07:21:56.340Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:28.631Z"
+   "checkedAt": "2026-10-09T07:21:56.999Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19335,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:29.372Z"
+   "checkedAt": "2026-10-09T07:21:57.646Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:30.065Z"
+   "checkedAt": "2026-10-09T07:21:58.264Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:30.768Z"
+   "checkedAt": "2026-10-09T07:21:58.966Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131611,
+   "lastId": 131612,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:31.467Z"
+   "checkedAt": "2026-10-09T07:21:59.646Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74919,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:32.071Z"
+   "checkedAt": "2026-10-09T07:22:00.188Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:32.778Z"
+   "checkedAt": "2026-10-09T07:22:00.854Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T07:09:35.094Z"
+   "checkedAt": "2026-10-09T07:22:01.606Z"
   }
  },
  "posts": [
@@ -5345,13 +5345,23 @@
    "date": "2026-10-09T07:03:32+00:00",
    "text": "נידאל מאלכ חסן, הקצין האמריקאי (ממוצא פלסטיני) שרצח 13 אמריקאים בפיגוע ירי בבסיס פורט הוד בארה\"ב יוצא להורג בשידור חי באותו הבסיס בו ביצע את הפיגוע מאלכ חסן, שהוריו היגרו לארה\"ב מהעיר אלבירה ליד ראמאללה, שימש כפסיכיאטר בצבא ארה\"ב וב 5 לנובמבר 2009 נכנס למרכז…",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131612",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131612",
+   "date": "2026-10-09T07:13:01+00:00",
+   "text": "הבדל בולט שאני שם לב אליו היום ב 7.10.26 לעומת 7.10.25 ברשתות החברתיות: הפך הרבה יותר מקובל לתמוך בטבח שעשתה חמאס ב 7.10 מאשר בעבר. גולשים כבר לא מתאמצים להסתיר שהם תומכים בחמאס ובטבח. לא חוששים שהרשתות החברתיות עצמן יצנזרו את התמיכה בטבח. מנרמלים את הטבח.…",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T07:09:35.494Z",
+  "at": "2026-10-09T07:22:02.006Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 351
+  "added": 1,
+  "pendingNew": 352
  }
 }
