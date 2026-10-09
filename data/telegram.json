@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65652,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:20.964Z"
+   "checkedAt": "2026-10-09T13:29:57.785Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:21.672Z"
+   "checkedAt": "2026-10-09T13:29:58.546Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:22.356Z"
+   "checkedAt": "2026-10-09T13:29:59.183Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11461,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:23.071Z"
+   "checkedAt": "2026-10-09T13:29:59.842Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19337,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:23.755Z"
+   "checkedAt": "2026-10-09T13:30:00.485Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:24.465Z"
+   "checkedAt": "2026-10-09T13:30:01.175Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:25.168Z"
+   "checkedAt": "2026-10-09T13:30:01.828Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131631,
+   "lastId": 131632,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:25.930Z"
+   "checkedAt": "2026-10-09T13:30:02.506Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74933,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:26.539Z"
+   "checkedAt": "2026-10-09T13:30:03.090Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:27.235Z"
+   "checkedAt": "2026-10-09T13:30:03.759Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T13:18:27.962Z"
+   "checkedAt": "2026-10-09T13:30:04.473Z"
   }
  },
  "posts": [
@@ -197,16 +197,6 @@
    "insightIds": [
     "ins-2026-10-06-mg71"
    ]
-  },
-  {
-   "id": "knessettv/54897",
-   "channel": "knessettv",
-   "name": "ערוץ כנסת 99",
-   "url": "https://t.me/knessettv/54897",
-   "date": "2026-10-05T13:24:55+00:00",
-   "text": "\"בדרך אל הקלפי נפגוש מחלוקות, אך לצידם אני מבקש שנזכור את הברית הפשוטה בינינו\" - הנשיא הרצוג על חשיבות האחדות לקראת הבחירות: \"הברית הזאת גדולה יותר מכל חילוקי הדעות בינינו ושייכת לכולנו\"\n🕯 מתוך טקס האזכרה הממלכתי לזכר חללי פעולות האיבה",
-   "hasVideo": true,
-   "status": "no-claims"
   },
   {
    "id": "abualiexpress/131447",
@@ -5712,13 +5702,23 @@
    "date": "2026-10-09T13:11:14+00:00",
    "text": "יאיר גולן: אני חושב באופן חד משמעי שחיסול חמינאי היה טעות. זה לא משרת את האינטרסים של מדינת ישראל",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131632",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131632",
+   "date": "2026-10-09T13:25:08+00:00",
+   "text": "תקיפה במיקום חריג בצפון מזרח לבנון\nכלי תקשורת לבנוניים מדווחים לפני זמן קצר על תקיפה שביצע לטענתם כטב\"מ ישראלי באזור הכפר חוש א-סיד עלי בנפת הרמל בצפון מזרח לבנון - על הגבול עם סוריה.\nע\"פ הדיווח הטיל החטיא את הרכב וגרם לו נזק אך לא היו נפגעים.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T13:18:28.364Z",
+  "at": "2026-10-09T13:30:04.874Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 393
+  "pendingNew": 394
  }
 }
