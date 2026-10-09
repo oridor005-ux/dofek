@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:00.556Z"
+   "checkedAt": "2026-10-09T14:05:34.623Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:01.252Z"
+   "checkedAt": "2026-10-09T14:05:35.379Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:01.914Z"
+   "checkedAt": "2026-10-09T14:05:35.971Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:02.605Z"
+   "checkedAt": "2026-10-09T14:05:36.591Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:03.258Z"
+   "checkedAt": "2026-10-09T14:05:37.205Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:03.949Z"
+   "checkedAt": "2026-10-09T14:05:37.918Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:04.617Z"
+   "checkedAt": "2026-10-09T14:05:38.520Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131632,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:05.324Z"
+   "checkedAt": "2026-10-09T14:05:39.195Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74937,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:05.921Z"
+   "checkedAt": "2026-10-09T14:05:39.731Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:06.614Z"
+   "checkedAt": "2026-10-09T14:05:40.393Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T13:54:07.349Z"
+   "checkedAt": "2026-10-09T14:05:41.044Z"
   }
  },
  "posts": [
@@ -104,16 +104,6 @@
    "url": "https://t.me/amitsegal/65554",
    "date": "2026-10-06T09:09:17+00:00",
    "text": "ביקשתי מתומך הטרור מהדי חסן לגנות את חטיפת המטוס בתכנית של פירס מורגן",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "bnetanyahu/7247",
-   "channel": "bnetanyahu",
-   "name": "בנימין נתניהו",
-   "url": "https://t.me/bnetanyahu/7247",
-   "date": "2026-10-05T13:59:25+00:00",
-   "text": "התרגשתי מאוד לשמוע היום את סבין תעסה, שבעלה ובנה נרצחו ב-7 באוקטובר. היא גיבורה אמיתית. תקשיבו למה שהיא אמרה היום בטקס >>",
    "hasVideo": true,
    "status": "no-claims"
   },
@@ -5780,10 +5770,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-09T13:54:07.750Z",
+  "at": "2026-10-09T14:05:41.444Z",
   "ok": 11,
   "fail": 0,
-  "added": 5,
+  "added": 0,
   "pendingNew": 401
  }
 }
