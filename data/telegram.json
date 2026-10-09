@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:13.981Z"
+   "checkedAt": "2026-10-09T09:08:43.901Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:14.728Z"
+   "checkedAt": "2026-10-09T09:08:44.595Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:15.492Z"
+   "checkedAt": "2026-10-09T09:08:45.348Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:16.307Z"
+   "checkedAt": "2026-10-09T09:08:46.057Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:17.021Z"
+   "checkedAt": "2026-10-09T09:08:46.751Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:17.725Z"
+   "checkedAt": "2026-10-09T09:08:47.635Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:18.408Z"
+   "checkedAt": "2026-10-09T09:08:48.326Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131618,
+   "lastId": 131619,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:19.207Z"
+   "checkedAt": "2026-10-09T09:08:49.131Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74923,
+   "lastId": 74924,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:19.857Z"
+   "checkedAt": "2026-10-09T09:08:49.725Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:20.998Z"
+   "checkedAt": "2026-10-09T09:08:50.464Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T08:56:21.753Z"
+   "checkedAt": "2026-10-09T09:08:53.407Z"
   }
  },
  "posts": [
@@ -5437,13 +5437,32 @@
    "date": "2026-10-09T08:47:49+00:00",
    "text": "תקיפת שדה התעופה המלך ח'אלד בריאד בירת סעודיה☝️: רשות התעופה הסעודית מודיעה כי 3 אנשים נהרגו בתקיפה החות'ית אתמול על שדה\"ת - אחד מהם עובד של קווי התעופה הסעודים (ככל הנראה מדובר בטייס, ע\"פ מקורות לא רשמיים-א\"ע). רשות התעופה מאשרת כי מטוס נוסעים נפגע על הקרקע…",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131619",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131619",
+   "date": "2026-10-09T09:04:21+00:00",
+   "text": "צרפת - כיכר הבסטיליה בפריז אחרי \"הפגנת התיכוניסטים\" אתמול:\nכמה פעמים ספרתם Free Palestine?\n2 תגובות",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74924",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74924",
+   "date": "2026-10-09T09:04:38+00:00",
+   "text": "🔴 המשפטנית נאווי פילאי מדרום אפריקה זכתה בפרס נובל לשלום\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T08:56:22.154Z",
+  "at": "2026-10-09T09:08:53.807Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 362
+  "added": 2,
+  "pendingNew": 364
  }
 }
