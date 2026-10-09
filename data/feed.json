@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-09T16:03:59.157Z",
+ "updated": "2026-10-09T16:15:41.055Z",
  "items": [
+  {
+   "id": "61b74df2edb1",
+   "kind": "headline",
+   "title": "US imposes sanctions on International Criminal Court",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-09T16:06:59.000Z",
+   "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1175/live/0f69f420-c3f2-11f1-97a9-2d4b5e26e282.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "121b425fa831",
+   "kind": "headline",
+   "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/europe/u-s-sanctions-and-threatens-to-dismantle-international-criminal-court-1d7417c8?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-09T16:05:00.000Z",
+   "summary": "The sanctions could cut the ICC off from the U.S. financial system and prohibit it from conducting transactions in dollars.",
+   "image": "https://images.wsj.net/im-04003830",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "ac45ebeaaa70",
    "kind": "headline",
@@ -5604,36 +5632,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3ddcfa99a4aa",
-   "kind": "headline",
-   "title": "Kosovo lawmakers elect new president in vote to avert snap election",
-   "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEtsb2Z6NVpZMzRnZHVsSnpkUF9pYlE1WlduaW5ISkV1WEJSMVZXakJEaHY4b3MyZ3o5Rk83STdWQzh1WmtvQnB5WHlOSjB4bGlqV2g1RTFCRXRtb3VpNG5qcjJuOTRkLXNsUkNtNjVkTWJGdUh6Tzdod0llU19aMTAxM1dLZnl1a3BhWGpmcXNwSzJxRWtwRDlrWVlqb2Uta1ZSZzFud0d1Qk1taUJpU1duSFJnUnktLVR5VlA2QVRDRTRk?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T04:14:57.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Newswav"
-   ],
-   "important": false
-  },
-  {
-   "id": "7f315e45e36e",
-   "kind": "headline",
-   "title": "קריסה שקטה: מדד ת\"א 90 נפל ב-20% בחמישה חודשים; ומה צפוי הבוקר בבורסה?",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pc0U2NGJyZkxQeFpxLWJnR1MyQ0NqM25YamVySEo1Yk9vOGV5TjVwZ2tsNWU4QmhTaTlHVWhnWmtsM3pMTkxIQVR3TFpSVlYwZ3ZWQ2hEOF91WUtYX2JiZVp0TkFOZzhxNnR4VUdSU0E?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T04:13:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
