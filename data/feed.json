@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-09T06:22:06.686Z",
+ "updated": "2026-10-09T06:33:21.740Z",
  "items": [
+  {
+   "id": "cbb372f6d416",
+   "kind": "headline",
+   "title": "נפלה על מכשיר בחדר כושר ותקבל כרבע מיליון שקל",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/sjwdwbuofl",
+   "topic": "econ",
+   "published": "2026-10-09T06:28:28.000Z",
+   "summary": "קצינת צה\"ל בת 30 נפצעה בגבה אחרי שאיבדה שיווי משקל במהלך תרגיל בסטודיו בתל אביב. בית המשפט קבע שסביבת האימון לא הייתה בטוחה ופסק לה פיצוי",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/S1g11WWUI5Me/S1g11WWUI5Me_64_0_937_527_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "06942d3aef15",
+   "kind": "headline",
+   "title": "נושה תבע 1.85 מיליון שקל מעקרת בית – ונדחה",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/rypduwisme",
+   "topic": "econ",
+   "published": "2026-10-09T06:28:00.000Z",
+   "summary": "לאחר פירוק עסק לביגוד דרש אחד השותפים לחייב את אשתו של האחר במחצית החובות. בית המשפט קבע: לאישה אכן יש חלק בנכסי בן זוגה - אבל לא בחובות",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/12/27/rJolUwITD/rJolUwITD_0_0_1024_577_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "89dc78cd948e",
    "kind": "headline",
@@ -5613,34 +5641,6 @@
    "summary": "צוות מיוחד של משרד האוצר ורשות המסים מגבש תיקון חקיקה שיחייב עובדי הייטק לממש את האופציות שקיבלו מיד בתום תקופת ההבשלה, או שידרשו לשלם מס גבוה יותר בהמשך • באוצר מקווים שהמהלך יכניס למדינה עוד כ&ndash;2 מיליארד שקלים בשנה",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785940128/800_rwdn9w.png",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a931b73580d1",
-   "kind": "headline",
-   "title": "ההטבה שיקבלו בעלי שכר של 30 אלף שקל ומעלה, והמס שישלמו ההייטקיסטים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558737#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-07T14:30:00.000Z",
-   "summary": "צוות מיוחד של משרד האוצר ורשות המסים מגבש תיקון חקיקה שיחייב עובדי הייטק לממש את האופציות שקיבלו מיד בתום תקופת ההבשלה, או שידרשו לשלם מס גבוה יותר בהמשך • באוצר מקווים שהמהלך יכניס למדינה עוד כ-2 מיליארד שקל בשנה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785940128/800_rwdn9w.png",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3b771012c2eb",
-   "kind": "headline",
-   "title": "Parliament passes law banning online sales and ads for non-compliant active mobility devices",
-   "source": "CNA",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNy1OemlscmZXOE5xZWFYMGNRR0VTXzFXV1N4OUowNFBBeEVsdDBZU1FpOUU5cjFoWG9icW5oaFFtekVuc0lFMENoanI0cDhhaU9FYndGZy1Xa0RRSG85MGxYc3A5bG9RVnEyUlBGUnVTUzJ1dGtuVGh4dnA3LWs2SldRMEZiU3hhWEdwQmZXNlA0LW5ZTHI2bTc0TU1WcVZ2eExhVHhnYzVScmFYenFVX2JWRXVuV2t1d0Y2ckRR?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T14:29:33.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
