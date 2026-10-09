@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:14.995Z"
+   "checkedAt": "2026-10-09T18:15:47.270Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:15.689Z"
+   "checkedAt": "2026-10-09T18:15:47.920Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:16.343Z"
+   "checkedAt": "2026-10-09T18:15:48.541Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:17.078Z"
+   "checkedAt": "2026-10-09T18:15:49.208Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:17.714Z"
+   "checkedAt": "2026-10-09T18:15:49.850Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:18.382Z"
+   "checkedAt": "2026-10-09T18:15:50.504Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:19.030Z"
+   "checkedAt": "2026-10-09T18:15:51.174Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131641,
+   "lastId": 131643,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:19.729Z"
+   "checkedAt": "2026-10-09T18:15:51.831Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74951,
+   "lastId": 74953,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:20.297Z"
+   "checkedAt": "2026-10-09T18:15:52.394Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:20.975Z"
+   "checkedAt": "2026-10-09T18:15:53.115Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T18:04:21.719Z"
+   "checkedAt": "2026-10-09T18:15:53.925Z"
   }
  },
  "posts": [
@@ -5948,13 +5948,50 @@
    "date": "2026-10-09T17:51:46+00:00",
    "text": "🔴 3 פצועים קשה ואחת בינוני בתאונה באזור כפר תבור בגליל התחתון\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131642",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131642",
+   "date": "2026-10-09T18:04:34+00:00",
+   "text": "חמאס, כמו שרת החוץ של האיחוד האירופאי מתייצבת לצדו של בית הדין הפלילי בהאג ומגינה עליו בתוקף : \"החלטתו של נשיא ארצות הברית להטיל סנקציות על בית הדין הפלילי הבינלאומי מהווה מתקפה חמורה על הצדק הבינלאומי וניסיון גלוי להגן על נתניהו ועל מנהיגי הכיבוש מפני העמדה…",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131643",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131643",
+   "date": "2026-10-09T18:12:58+00:00",
+   "text": "תקיפה במיקום חריג בצפון מזרח לבנון כלי תקשורת לבנוניים מדווחים לפני זמן קצר על תקיפה שביצע לטענתם כטב\"מ ישראלי באזור הכפר חוש א-סיד עלי בנפת הרמל בצפון מזרח לבנון - על הגבול עם סוריה. ע\"פ הדיווח הטיל החטיא את הרכב וגרם לו נזק - לא היו נפגעים. כדי להגיב…",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74952",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74952",
+   "date": "2026-10-09T18:06:23+00:00",
+   "text": "🔴 צה\"ל: תקפנו בגבול סוריה-לבנון מחבל שפעל בהכוונת איראן\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74953",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74953",
+   "date": "2026-10-09T18:13:19+00:00",
+   "text": "🔴 פנמה: רעידת אדמה בעוצמה 8.0 הורגשה בבירה פנמה סיטי\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T18:04:22.119Z",
+  "at": "2026-10-09T18:15:54.326Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 424
+  "added": 4,
+  "pendingNew": 428
  }
 }
