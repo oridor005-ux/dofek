@@ -1,27 +1,6 @@
 {
  "items": [
   {
-   "id": "7693071160325475602",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693071160325475602",
-   "caption": "#פוריו #ימין #שמאל #בשבילך #פוליטיקה ",
-   "posted": "1791182721",
-   "found": "2026-10-05T06:58:13Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693071160325475602.txt"
-  },
-  {
-   "id": "7693056069412736277",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693056069412736277",
-   "caption": "שלוש שנים אחרי שמחבלי חמאס חדרו לשטח עוטף עזה ופתחו בטבח המזעזע, בשעה...",
-   "posted": "1791179204",
-   "found": "2026-10-05T06:58:33Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7693045583329627413",
    "channel": "c14news",
    "name": "c14news",
@@ -4449,10 +4428,31 @@
    "found": "2026-10-09T12:27:16Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694641819027590421.txt"
+  },
+  {
+   "id": "7694644101953867028",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694644101953867028",
+   "caption": "פשוט לא אכפת להם | חיים לוינסון אירוע המטוס של פליי דובאי כמעט נגמר ב...",
+   "posted": "1791548945",
+   "found": "2026-10-09T12:42:03Z",
+   "status": "failed"
+  },
+  {
+   "id": "7694645959732563208",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694645959732563208",
+   "caption": "יו\"ר הדמוקרטים יאיר גולן, שמכוון להיות שר הביטחון עם גוש השמאל, מספק ...",
+   "posted": "1791549382",
+   "found": "2026-10-09T12:42:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694645959732563208.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T12:27:22Z",
+  "at": "2026-10-09T12:43:14Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
