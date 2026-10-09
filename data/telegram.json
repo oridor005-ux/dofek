@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65648,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:51.122Z"
+   "checkedAt": "2026-10-09T04:59:10.820Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:51.789Z"
+   "checkedAt": "2026-10-09T04:59:11.647Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:52.404Z"
+   "checkedAt": "2026-10-09T04:59:12.316Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11455,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:53.090Z"
+   "checkedAt": "2026-10-09T04:59:13.043Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19333,
+   "lastId": 19334,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:53.710Z"
+   "checkedAt": "2026-10-09T04:59:13.752Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:54.329Z"
+   "checkedAt": "2026-10-09T04:59:14.465Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:54.960Z"
+   "checkedAt": "2026-10-09T04:59:15.146Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131602,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:55.599Z"
+   "checkedAt": "2026-10-09T04:59:15.888Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74915,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:56.136Z"
+   "checkedAt": "2026-10-09T04:59:16.510Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:56.836Z"
+   "checkedAt": "2026-10-09T04:59:17.262Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T04:46:57.512Z"
+   "checkedAt": "2026-10-09T04:59:18.179Z"
   }
  },
  "posts": [
@@ -5235,13 +5235,23 @@
    "date": "2026-10-09T04:46:43+00:00",
    "text": "🔴 ראש ממשלת פקיסטן נגד החות'ים: \"לעצור את המתקפות נגד סעודיה\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19334",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19334",
+   "date": "2026-10-09T04:50:57+00:00",
+   "text": "את זה צריך להפיץ. כי על זה הבחירות. לא רק שהם ימותו ולא יתגייסו, בעוד אנחנו מתגייסים ומתים, הוא אומר כאן בקולו שהכל כבר מוכן: בממשלה הבאה הדבר הראשון זה להעביר עשרות מיליארדים למגזר החרדי.",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T04:46:57.913Z",
+  "at": "2026-10-09T04:59:18.580Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 338
+  "pendingNew": 339
  }
 }
