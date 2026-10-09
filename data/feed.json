@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T07:33:06.233Z",
+ "updated": "2026-10-09T07:39:07.118Z",
  "items": [
+  {
+   "id": "1ed6eb1ceaa1",
+   "kind": "headline",
+   "title": "תל אביב עוברת לעליות; טאואר ופאלו אלטו יורדות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558969#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T07:36:00.000Z",
+   "summary": "מדד ת\"א 35 נסחר ביציבות • הנאסד\"ק נפל אמש בחדות אחרי שדיווח חשף כי קצב ההכנסות השנתי של OpenAI נמוך בכ-20 מיליארד דולר מהערכות השוק • תשואות האג\"ח נסוגו אתמול, אך נותרות בשיאים של עשרות שנים • הבוקר: מחירי הנפט יורדים, החוזים בניו יורק ירוקים • וגם: המניה שיותר משילשה את ערכה מתחילת השנה - וצופים…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825550/old/1552078.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "e2354164806a",
    "kind": "headline",
@@ -5620,20 +5634,6 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0xmNHdqbWczLTF5MlNSNkxTMFRIS3VLQjNQN2NsMUNXMGR5REVpTmtYQTQxdFNiX2tSblRjbjZ3VW9nbHdCV282WGZtYzUzUExiLTdhV0V1aS1NbkI2b055X1lPcmNHRnU3Tk0xZ1lNTGYtRFZfMk1XRC1KM1dUZmlScmZEVWo0QXgzVW9OSlDSAaYBQVVfeXFMTnFTdjRfeFV4TlBZcFhLdkFSVHpXUFFmUnVSaUNYZTJ5X1pqYjRxaE9jRVBjUVhVSVZUSDA2ZzVGSm9hR1EtME0zZFlVeVBRdS1IeDJ0N2xwVXFVQ1gtWk9wejBMZHNEVDB2ZlRXWi13Z2pqUWF0TmowVmNUc0dRckg5NjFYSmtHM0k4c05DSVRBU1A5RDdaQ3psMTV6NkVlbWZCQjhTZw?oc=5",
    "topic": "defense",
    "published": "2026-10-07T15:32:38.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "10f699baba2a",
-   "kind": "headline",
-   "title": "מדדי המניות בישראל ירדו בנעילת המסחר; מדד תל אביב 35 השיל 2.44% מאת Investing.com",
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMZHJZellvaDJzenQyRWwwbE9lMk13c1NOZ19uVkVGWGxGR1ZPdlk0OXdKQkdmcXB1Y3Vwd0RHNDBQTWsxdmk3QjFnMXJHQXAyVGtuRDh5TnlDcjVXM01sbmNTTF8tZS10OG5HUmxLbw?oc=5",
-   "topic": "econ",
-   "published": "2026-10-07T15:22:30.000Z",
    "summary": "",
    "image": "",
    "score": 0,

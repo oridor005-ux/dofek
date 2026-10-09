@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:54.969Z"
+   "checkedAt": "2026-10-09T07:33:26.387Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:55.645Z"
+   "checkedAt": "2026-10-09T07:33:27.091Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:56.340Z"
+   "checkedAt": "2026-10-09T07:33:27.776Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:56.999Z"
+   "checkedAt": "2026-10-09T07:33:28.485Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19335,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:57.646Z"
+   "checkedAt": "2026-10-09T07:33:29.192Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:58.264Z"
+   "checkedAt": "2026-10-09T07:33:29.920Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:58.966Z"
+   "checkedAt": "2026-10-09T07:33:30.587Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131612,
+   "lastId": 131614,
    "ok": true,
-   "checkedAt": "2026-10-09T07:21:59.646Z"
+   "checkedAt": "2026-10-09T07:33:31.347Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74919,
    "ok": true,
-   "checkedAt": "2026-10-09T07:22:00.188Z"
+   "checkedAt": "2026-10-09T07:33:31.952Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T07:22:00.854Z"
+   "checkedAt": "2026-10-09T07:33:32.756Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T07:22:01.606Z"
+   "checkedAt": "2026-10-09T07:33:33.595Z"
   }
  },
  "posts": [
@@ -5355,13 +5355,22 @@
    "text": "הבדל בולט שאני שם לב אליו היום ב 7.10.26 לעומת 7.10.25 ברשתות החברתיות: הפך הרבה יותר מקובל לתמוך בטבח שעשתה חמאס ב 7.10 מאשר בעבר. גולשים כבר לא מתאמצים להסתיר שהם תומכים בחמאס ובטבח. לא חוששים שהרשתות החברתיות עצמן יצנזרו את התמיכה בטבח. מנרמלים את הטבח.…",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131614",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131614",
+   "date": "2026-10-09T07:30:30+00:00",
+   "text": "🛏️ אחרי יום עמוס, הגיע הזמן ל־Restart!\nמיטות הנוער של אירופלקס משלבות עיצוב צעיר ועדכני עם נוחות שכיף לחזור אליה בסוף כל יום. 💙\nמגוון מיטות בעיצובים שונים, שמתאימות לחדרי נוער ומעניקות את כל מה שצריך למנוחה טובה ולחדר שנעים להיות בו.\n✨ עיצובים מודרניים\n✨ דגמים במגוון סגנונות\n✨ נוחות ואיכות מבית אירופלקס\nכי אחרי לימודים, חברים וכל מה שקורה במהלך היום – צריך מקום שהוא לגמרי שלהם.\n👉 לכל מיטות הנוער >>\nhttps://katzr.net/582b83",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T07:22:02.006Z",
+  "at": "2026-10-09T07:33:33.996Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 352
+  "pendingNew": 353
  }
 }
