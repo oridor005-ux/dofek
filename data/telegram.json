@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:43.901Z"
+   "checkedAt": "2026-10-09T09:20:25.535Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:44.595Z"
+   "checkedAt": "2026-10-09T09:20:26.282Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:45.348Z"
+   "checkedAt": "2026-10-09T09:20:26.989Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:46.057Z"
+   "checkedAt": "2026-10-09T09:20:27.768Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:46.751Z"
+   "checkedAt": "2026-10-09T09:20:28.479Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:47.635Z"
+   "checkedAt": "2026-10-09T09:20:29.212Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:48.326Z"
+   "checkedAt": "2026-10-09T09:20:29.888Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131619,
+   "lastId": 131620,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:49.131Z"
+   "checkedAt": "2026-10-09T09:20:30.621Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74924,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:49.725Z"
+   "checkedAt": "2026-10-09T09:20:31.222Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:50.464Z"
+   "checkedAt": "2026-10-09T09:20:31.957Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T09:08:53.407Z"
+   "checkedAt": "2026-10-09T09:20:32.777Z"
   }
  },
  "posts": [
@@ -5456,13 +5456,22 @@
    "date": "2026-10-09T09:04:38+00:00",
    "text": "🔴 המשפטנית נאווי פילאי מדרום אפריקה זכתה בפרס נובל לשלום\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131620",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131620",
+   "date": "2026-10-09T09:18:21+00:00",
+   "text": "תיעוד נוסף של העימות בין יהונתן פולק ולוחם צה\"ל בשטח צבאי סגור. תיעוד: סלמאן אלח'טיב 19 תגובות",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T09:08:53.807Z",
+  "at": "2026-10-09T09:20:33.178Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 364
+  "added": 1,
+  "pendingNew": 365
  }
 }

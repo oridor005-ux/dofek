@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T09:20:01.430Z",
+ "updated": "2026-10-09T09:31:39.510Z",
  "items": [
   {
    "id": "5eb291601e0d",
@@ -11,6 +11,20 @@
    "published": "2026-10-09T09:05:36.000Z",
    "summary": "The Norwegian Nobel Committee made its selection from a pool of 287 nominees.",
    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-header-fwpz/09nobel-header-fwpz-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "329dcc13bbb4",
+   "kind": "headline",
+   "title": "India’s Young Put Their Bodies on the Line to Be Heard",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html",
+   "topic": "world",
+   "published": "2026-10-09T09:02:34.000Z",
+   "summary": "Despite police barricades and detentions, activists like Neha Bora say they are determined to keep up the pressure on Prime Minister Narendra Modi.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-india-crackdown-pzht/09int-india-crackdown-pzht-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5624,20 +5638,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "693f9df41ce0",
-   "kind": "headline",
-   "title": "Indonesia Passes Labor Law as Unions Hail Victory",
-   "source": "Retail News Asia",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT1ZBQWdiaHpyZFRoSkphV01teXVQcDRnWE9tV3RpVVE1MzNyZ25Wb3lmeUVJclJ2UGtBSmJDU3R4WVNHU0VYWFZIYjA0SlBaMW1NcTZKNWJaZ1kwSzg1RzlWUHliSUFrVHR1UDUyZGJZWENZRU5ObktPX05yNE9TUEpqWQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T17:25:42.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
