@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:26.806Z"
+   "checkedAt": "2026-10-09T12:06:49.556Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:27.450Z"
+   "checkedAt": "2026-10-09T12:06:50.296Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:28.070Z"
+   "checkedAt": "2026-10-09T12:06:50.982Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11459,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:28.701Z"
+   "checkedAt": "2026-10-09T12:06:51.776Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:29.330Z"
+   "checkedAt": "2026-10-09T12:06:52.522Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:29.960Z"
+   "checkedAt": "2026-10-09T12:06:53.226Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:30.561Z"
+   "checkedAt": "2026-10-09T12:06:53.924Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131628,
+   "lastId": 131629,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:31.225Z"
+   "checkedAt": "2026-10-09T12:06:54.661Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74929,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:31.765Z"
+   "checkedAt": "2026-10-09T12:06:55.267Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:32.405Z"
+   "checkedAt": "2026-10-09T12:06:55.999Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T11:54:33.125Z"
+   "checkedAt": "2026-10-09T12:06:56.793Z"
   }
  },
  "posts": [
@@ -5601,13 +5601,23 @@
    "text": "נאווי פילאי, שופטת דרום אפריקאית ששימשה שנציבת זכויות האדם החמישית של האו\"ם הוכרזה היום כזוכת פרס נובל לשלום.\nלפני שנה, ועדה בראשותה הכריזה כי ישראל מבצעת \"רצח עם\" בעזה.\nההכרזה על זכייתה נעשתה באולם בית המשפט בנירבנברג (גרמניה), שם נשפטו הנאצים על פשעי מלחמה, אחרי השואה.\n## \nדוגמא דרמטית להקצנה נגד ישראל.\nכדי להגיב לכתבה לחצו כאן",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131629",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131629",
+   "date": "2026-10-09T11:55:29+00:00",
+   "text": "קיבל את חייו במתנה: אזרח אוקראיני הצליח לברוח אתמול בעור שיניו מפגיעת כטב\"מ רוסי מסוג שאהד, בקייב, בירת אוקראינה.\nתגובה אחת",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T11:54:33.525Z",
+  "at": "2026-10-09T12:06:57.194Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 381
+  "pendingNew": 382
  }
 }
