@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:42:35.741Z",
+ "updated": "2026-10-09T11:54:08.259Z",
  "items": [
   {
    "id": "749331916937",
@@ -11,6 +11,20 @@
    "published": "2026-10-09T11:36:00.000Z",
    "summary": "A previously unreported Binance document reveals how an Iranian network used the crypto exchange to move money against the wishes of Western governments.",
    "image": "https://images.wsj.net/im-84080388",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "f4646a108acb",
+   "kind": "headline",
+   "title": "France promises 3,000 extra teachers in first step to calm student protests",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-09T11:35:00.000Z",
+   "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d12a/live/cfc0d0d0-c3d0-11f1-8cee-d9704951662c.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -417,6 +431,20 @@
    "published": "2026-10-09T08:21:46.000Z",
    "summary": "אחרי 7 באוקטובר, הביטחון נמדד לא רק בכמה צבא, נשק ומודיעין יש לך, אלא גם ביכולת של קהילה לשוב לתפקד ולהתחדש כשהמערכות נפגעות • אחרי הבחירות, ישראל צריכה לעקוף את היעד בייצור חשמל מאנרגיות מתחדשות, והנגב צריך להרוויח ממשאב השמש אותו הוא מספק לאנרגיה סולארית",
    "image": "https://shakuf.co.il/wp-content/uploads/2026/10/F240613MS132-357x240.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "6582ad242893",
+   "kind": "headline",
+   "title": "המניה שילשה את ערכה השנה - והאנליסט הוותיק אומר שתעשה זאת שוב",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559009#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T08:10:00.000Z",
+   "summary": "אנליסט הטכנולוגיה הוותיק גיל לוריא הקפיץ את מחיר היעד שלו על יצרנית שבבי הזיכרון מיקרון ל-3,000 דולר, כך שהוא משקף לה כעת אפסייד של כ-190% • מדובר במחיר יעד שהוא כמעט כפול לעומת מחיר היעד הממוצע בקרב האנליסטים בוול סטריט • המניה כבר יותר משילשה את ערכה מתחילת השנה, על רקע בום ה-AI",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1782319791/direct/shutterstock_2586627697_rcznkc.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5602,34 +5630,6 @@
    "published": "2026-10-07T20:29:00.000Z",
    "summary": "Secretary of State Marco Rubio invoked historic figures from Socrates to Julius Caesar to make the case for President Trump’s nationalist agenda.",
    "image": "https://images.wsj.net/im-15868204",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "196909999a9e",
-   "kind": "headline",
-   "title": "Poll: Nearly Half of America’s Youngest Voters View Sharia Law Positively",
-   "source": "Texas Scorecard",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVE96MzlBaGVXd3RkOFpFVTNTbk9yVm5vQ290VEVBOFY0UXNDejZpbVpnRlVXMVZOU2V6Zm1sTHRLOTJzWE9FOVF6UlR5YXQ2N3NZSUdwR0RYakZBa3Y2UUt1VE5XeWpMZ016QnhXUGI5aGpxOXBBSlg4dmNqVkZGMmRrOWJFLVJwN3FRVGNxMzlabUppcFBBX0puMXEzQkFIWjA5cjNTMWtoZ1k?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T20:17:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0603402222cf",
-   "kind": "headline",
-   "title": "Vote ACT to Save the Kiwi (Dollar)",
-   "source": "ACT NZ",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NT2NieEY0SjRaOHF5VkJfY3BWUnJFdi1TNFo0bDgwQlBFdGF0M1NfWFVRNHJZYktHVU9zUU1NanItSkx0Q292bEEzckhFakdRX1pBUHRHSHR1dHNVSnVUdVYwbVVoLXBxSGRpaDFNaw?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T20:13:20.000Z",
-   "summary": "",
-   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
