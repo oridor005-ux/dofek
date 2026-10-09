@@ -1,28 +1,6 @@
 {
  "items": [
   {
-   "id": "7692848974302088455",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692848974302088455",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791130983",
-   "found": "2026-10-04T16:27:46Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692848974302088455.txt"
-  },
-  {
-   "id": "7692848045821627649",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692848045821627649",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791130768",
-   "found": "2026-10-04T16:28:49Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692848045821627649.txt"
-  },
-  {
    "id": "7692849496450993429",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4481,12 +4459,34 @@
    "posted": "1791530680",
    "found": "2026-10-09T07:36:11Z",
    "status": "failed"
+  },
+  {
+   "id": "7694571189842398485",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7694571189842398485",
+   "caption": "צפיתי באבינתן אור ב״עובדה״ והתביישתי ביחס שניתן לאמא שלו, דיצה אור. ה...",
+   "posted": "1791531970",
+   "found": "2026-10-09T07:50:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694571189842398485.txt"
+  },
+  {
+   "id": "7694571917382044949",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694571917382044949",
+   "caption": "",
+   "posted": "1791532142",
+   "found": "2026-10-09T07:50:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694571917382044949.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T07:36:16Z",
+  "at": "2026-10-09T07:51:03Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 5
+  "transcribed": 2
  }
 }
