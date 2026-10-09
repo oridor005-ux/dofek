@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T21:01:04.750Z",
+ "updated": "2026-10-09T21:13:33.121Z",
  "items": [
+  {
+   "id": "f68e4bfba023",
+   "kind": "headline",
+   "title": "Senate Fact Finders Decry Costs of Immigrant Detention at Guantánamo",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html",
+   "topic": "world",
+   "published": "2026-10-09T20:56:23.000Z",
+   "summary": "The setup has cost more than $100 million, the study said. A recent inspection found nearly 450 government employees and zero detainees.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-gitmo-btgk/07dc-gitmo-btgk-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "37c121a44a4e",
    "kind": "headline",
@@ -40,7 +54,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "WPEC"
+   ],
    "important": false
   },
   {
@@ -107,6 +123,20 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzJGNkJvaXV3YXZmN1E2blFuLUl5b1V4SGRCdWpXMktuYzJsdWJXU3VHa0RJM2lTOVJXU3VMTnZNWDczMFVRUUIwODlTZGRkT1lwdjlMRWk5MTY3ZFF0MF9PT0MyT0VTc1FCN0VxQTZuSGxFT0pBLWdYSzhHNEhWUHhrX2dGb1Y1Y1F6M3JMVU9rNEE?oc=5",
    "topic": "world",
    "published": "2026-10-09T19:48:34.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "963cb30e2fa7",
+   "kind": "headline",
+   "title": "Special House committee votes to push forward major projects bill",
+   "source": "Penticton Herald",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXZmZFlZUENjYkdFbDcydl9XNVZNcm5WYkp3V1lHUDdPVGNveDltYVhuZUszTElabU9ZalFQVENoalhsUENLT0dSSmRCTEZOdGhnZkFZR2Y2ZlZpVTVoSW8zeDBUVEdLcGhBV0NUbVozNFJnNDRnMHFLTTYwaGU5eXJuOFl0Y3dLQ0NQcmZmd20tcEtqcDNtcVRpLVZVQlpM?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T19:15:45.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5601,34 +5631,6 @@
    "published": "2026-10-08T08:13:00.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "197fecd903aa",
-   "kind": "headline",
-   "title": "Rafael and Raytheon deliver first Iron Dome interceptor made entirely in America to Israel",
-   "source": "Defence Industry Europe",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcU94Ymp1MmN5RWl6MVJEQ21ZeUFRSzB3b3Uwbl9DcTJrcUl0STNJdHotYUdFZFZhaE9RaUZ5c0dfcTFOZ2FHcUllMm5rNEFfRy1PcUdRT1RJUnRpOU13WnBIQ0dpU1NGeGVKcWpKS1RnTllYZWx3MmlySWtvaWplOGg2Vzhva19QWHhrT3lpR3dfQ25RbWI5bnRvSXI5RkM3REJGUENWb3k0RXF1SEhpM3B1Z1JDUHdfYkI0?oc=5",
-   "topic": "defense",
-   "published": "2026-10-08T08:10:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "26469dea3b8e",
-   "kind": "headline",
-   "title": "במקום ה\"קופסאות הכחולות הענקיות\": הפורמט החדש והמפתיע של איקאה",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/sybiv6nsmx",
-   "topic": "econ",
-   "published": "2026-10-08T07:52:39.000Z",
-   "summary": "הרשת משיקה סניפים קטנים, תחילה בשבדיה, שיתמקדו במוצרים יומיומיים ואביזרים יחד מזון ומשקאות. המטרה: לקרב את הקנייה למקומות שבהם אנשים חיים ומבצעים סידורים יומיומיים. במקביל, עשרות עובדים יפוטרו מסניפים באזורים שונים במדינה",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/04/23/9927157/9927157_0_7_1300_732_0_medium.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
