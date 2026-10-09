@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T13:05:23.068Z",
+ "updated": "2026-10-09T13:07:45.658Z",
  "items": [
+  {
+   "id": "4737111e4803",
+   "kind": "headline",
+   "title": "מנכ\"ל פנגו: \"הייתי בטוח שכל תל אביב מחכה לנסיך. אבל איש לא התרשם\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558656#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T13:01:00.000Z",
+   "summary": "שווי מוערך של יותר מ&ndash;1.5 מיליארד שקל, 4 מיליון משתמשים, אבל גם תקרת צמיחה • בראיון לגלובס מספר המנכ\"ל יונתן אלון למה פנגו לא בהכרח מרוויחה מהכחול&ndash;לבן, איך הרים את BUYME מקריסה למכירה בכמעט מיליארד שקל, מה עמד מאחורי פיצוץ עסקת גט - ולאן מכוון מסע הרכישות הבא",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791359961/yonatan_alon_019_mdklzu.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "dd4e9d7c8a20",
    "kind": "headline",
@@ -5617,20 +5631,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "354ebef2e96c",
-   "kind": "headline",
-   "title": "Spain’s Leader Pins Political Survival on Public Anger Over Housing Crisis",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-08T02:00:00.000Z",
-   "summary": "Pedro Sánchez bets his left-wing coalition can avoid a bruising defeat in next month’s election amid rage over the eviction of an elderly woman who died Wednesday.",
-   "image": "https://images.wsj.net/im-95799755",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
