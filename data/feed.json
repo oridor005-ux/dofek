@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T07:56:14.609Z",
+ "updated": "2026-10-09T08:08:39.096Z",
  "items": [
   {
    "id": "1ed6eb1ceaa1",
@@ -179,6 +179,20 @@
    "published": "2026-10-09T06:28:00.000Z",
    "summary": "לאחר פירוק עסק לביגוד דרש אחד השותפים לחייב את אשתו של האחר במחצית החובות. בית המשפט קבע: לאישה אכן יש חלק בנכסי בן זוגה - אבל לא בחובות",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/12/27/rJolUwITD/rJolUwITD_0_0_1024_577_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a1aa1eaa0779",
+   "kind": "headline",
+   "title": "שילשה את ערכה ותעשה זאת שוב? ההמלצה החריגה למניית מיקרון",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559009#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T06:21:00.000Z",
+   "summary": "אנליסט הטכנולוגיה הוותיק גיל לוריא הקפיץ את מחיר היעד שלו על יצרנית שבבי הזיכרון מיקרון ל-3,000 דולר, כך שהוא משקף לה כעת אפסייד של כ-190% • מדובר במחיר יעד שהוא כמעט כפול לעומת מחיר היעד הממוצע בקרב האנליסטים בוול סטריט • המניה כבר יותר משילשה את ערכה מתחילת השנה, על רקע בום ה-AI",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1782319791/direct/shutterstock_2586627697_rcznkc.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -1877,6 +1891,20 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS3pSclFwWXVHX25jbnNncmJmMVQtdmQ3cThEd0h4TUgxblVVYmVfYWVMaW5jUFBtNkdwTGEtcFd4VW80dVozNnRSakwtaHAzUmpyLXpJOXdjYmFXTnBB?oc=5",
    "topic": "econ",
    "published": "2026-10-08T15:04:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "4765b5d43e57",
+   "kind": "headline",
+   "title": "מדדי המניות בישראל ירדו בנעילת המסחר; מדד תל אביב 35 השיל 0.16% מאת Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KajFzQzIwZWVnYlRYTFZHRzlvSWszY09mOE54aWxpaS1XNVBTSnZRd1NMbUE5Mi1ScGUtYlpUQVNwT2UyaW1KLW81akk1akp3SjBnNnE5X051UW5hZC1VdjBzZXNZaWxOUFlfU2owbw?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T15:03:03.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -3602,7 +3630,8 @@
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/19/HJBKdFO11ge/HJBKdFO11ge_0_0_1280_720_0_medium.jpg",
    "score": 0,
    "alsoIn": [
-    "ynet כלכלה"
+    "ynet כלכלה",
+    "YNET"
    ],
    "important": true
   },
@@ -5606,34 +5635,6 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBka0h5S25pZGRob2JiV2RxWGcwdWFkQ3pfMGJJai1VX0R3Q3dnTk9PeDN1ZlZhbzJmVVJxYTJNR1pCTUlUQmg1SGp5d3NCMVo4Z3ZhNDdHMWhpNUhfYTI0?oc=5",
    "topic": "econ",
    "published": "2026-10-07T15:38:41.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9050f6411708",
-   "kind": "headline",
-   "title": "המערך החדש לאיסוף הממצאים לקראת ועדת החקירה של טבח ה-7.10",
-   "source": "C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OQTNxNnR3VEx2OTNFQXhMT0NkaVp2Q25yTF80cnMzRFh5MDgwNG5rOXlZdS1uTWRPbTdadzh5RV9Sb2ttVFJweWNJcUNBdw?oc=5",
-   "topic": "research",
-   "published": "2026-10-07T15:34:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "46780d8a2f85",
-   "kind": "headline",
-   "title": "Fire Starts During Vegetation Work In San Rafael: FD",
-   "source": "Patch",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0xmNHdqbWczLTF5MlNSNkxTMFRIS3VLQjNQN2NsMUNXMGR5REVpTmtYQTQxdFNiX2tSblRjbjZ3VW9nbHdCV282WGZtYzUzUExiLTdhV0V1aS1NbkI2b055X1lPcmNHRnU3Tk0xZ1lNTGYtRFZfMk1XRC1KM1dUZmlScmZEVWo0QXgzVW9OSlDSAaYBQVVfeXFMTnFTdjRfeFV4TlBZcFhLdkFSVHpXUFFmUnVSaUNYZTJ5X1pqYjRxaE9jRVBjUVhVSVZUSDA2ZzVGSm9hR1EtME0zZFlVeVBRdS1IeDJ0N2xwVXFVQ1gtWk9wejBMZHNEVDB2ZlRXWi13Z2pqUWF0TmowVmNUc0dRckg5NjFYSmtHM0k4c05DSVRBU1A5RDdaQ3psMTV6NkVlbWZCQjhTZw?oc=5",
-   "topic": "defense",
-   "published": "2026-10-07T15:32:38.000Z",
    "summary": "",
    "image": "",
    "score": 0,
