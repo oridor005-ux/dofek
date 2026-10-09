@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7692849496450993429",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7692849496450993429",
-   "caption": "השר בן גביר: \"פרובוקציה? מעשים נחוצים כדי להוריד את הפיגועים\" 👇 השר א...",
-   "posted": "1791131105",
-   "found": "2026-10-04T16:30:15Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692849496450993429.txt",
-   "insightIds": [
-    "ins-2026-10-04-b3g5"
-   ]
-  },
-  {
-   "id": "7692852644058008852",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692852644058008852",
-   "caption": "משנה כיוון | חפציבה ספירט כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע ...",
-   "posted": "1791131838",
-   "found": "2026-10-04T16:42:51Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692852644058008852.txt"
-  },
-  {
    "id": "7692863331098545426",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4481,12 +4456,34 @@
    "found": "2026-10-09T07:50:58Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694571917382044949.txt"
+  },
+  {
+   "id": "7694578800725724468",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694578800725724468",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791533744",
+   "found": "2026-10-09T08:21:09Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694578800725724468.txt"
+  },
+  {
+   "id": "7694576060394048776",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694576060394048776",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791533102",
+   "found": "2026-10-09T08:21:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694576060394048776.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T08:05:11Z",
+  "at": "2026-10-09T08:21:51Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
