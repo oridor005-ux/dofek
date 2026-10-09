@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:06.838Z"
+   "checkedAt": "2026-10-09T14:29:36.495Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
-   "lastId": 7265,
+   "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:07.521Z"
+   "checkedAt": "2026-10-09T14:29:37.158Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:08.179Z"
+   "checkedAt": "2026-10-09T14:29:37.784Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:08.904Z"
+   "checkedAt": "2026-10-09T14:29:38.404Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:09.566Z"
+   "checkedAt": "2026-10-09T14:29:39.013Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:10.226Z"
+   "checkedAt": "2026-10-09T14:29:39.668Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:10.880Z"
+   "checkedAt": "2026-10-09T14:29:40.282Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131634,
+   "lastId": 131635,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:11.623Z"
+   "checkedAt": "2026-10-09T14:29:40.975Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74937,
+   "lastId": 74938,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:12.210Z"
+   "checkedAt": "2026-10-09T14:29:41.513Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:12.908Z"
+   "checkedAt": "2026-10-09T14:29:42.170Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T14:17:13.610Z"
+   "checkedAt": "2026-10-09T14:29:42.876Z"
   }
  },
  "posts": [
@@ -5766,13 +5766,41 @@
    "date": "2026-10-09T14:07:39+00:00",
    "text": "תקיפה במיקום חריג בצפון מזרח לבנון כלי תקשורת לבנוניים מדווחים לפני זמן קצר על תקיפה שביצע לטענתם כטב\"מ ישראלי באזור הכפר חוש א-סיד עלי בנפת הרמל בצפון מזרח לבנון - על הגבול עם סוריה. ע\"פ הדיווח הטיל החטיא את הרכב וגרם לו נזק - לא היו נפגעים. כדי להגיב…",
    "status": "new"
+  },
+  {
+   "id": "bnetanyahu/7266",
+   "channel": "bnetanyahu",
+   "name": "בנימין נתניהו",
+   "url": "https://t.me/bnetanyahu/7266",
+   "date": "2026-10-09T14:17:36+00:00",
+   "text": "יאיר גולן, שר הביטחון המיועד של אייזנקוט, אומר שחיסול חמינאי היה טעות. \nהבחירה ברורה מתמיד: \nזה או ימין, או פלסטין.",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131635",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131635",
+   "date": "2026-10-09T14:28:10+00:00",
+   "text": "נאווי פילאי, שופטת דרום אפריקאית ששימשה כנציבת זכויות האדם החמישית של האו\"ם הוכרזה היום כזוכת פרס נובל לשלום. לפני שנה, ועדה בראשותה הכריזה כי ישראל מבצעת \"רצח עם\" בעזה. ההכרזה על זכייתה נעשתה באולם בית המשפט בנירנברג (גרמניה), שם נשפטו הנאצים על פשעי מלחמה…",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74938",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74938",
+   "date": "2026-10-09T14:17:31+00:00",
+   "text": "🔴 ארה\"ב הטילה סנקציות על בית הדין הפלילי הבינלאומי\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T14:17:14.010Z",
+  "at": "2026-10-09T14:29:43.276Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 402
+  "added": 3,
+  "pendingNew": 405
  }
 }
