@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:26.387Z"
+   "checkedAt": "2026-10-09T07:45:03.034Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:27.091Z"
+   "checkedAt": "2026-10-09T07:45:03.678Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:27.776Z"
+   "checkedAt": "2026-10-09T07:45:04.289Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:28.485Z"
+   "checkedAt": "2026-10-09T07:45:04.950Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19335,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:29.192Z"
+   "checkedAt": "2026-10-09T07:45:05.585Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:29.920Z"
+   "checkedAt": "2026-10-09T07:45:06.218Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:30.587Z"
+   "checkedAt": "2026-10-09T07:45:06.907Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131614,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:31.347Z"
+   "checkedAt": "2026-10-09T07:45:07.616Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74919,
+   "lastId": 74920,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:31.952Z"
+   "checkedAt": "2026-10-09T07:45:08.179Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:32.756Z"
+   "checkedAt": "2026-10-09T07:45:08.830Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T07:33:33.595Z"
+   "checkedAt": "2026-10-09T07:45:09.538Z"
   }
  },
  "posts": [
@@ -5364,13 +5364,22 @@
    "date": "2026-10-09T07:30:30+00:00",
    "text": "🛏️ אחרי יום עמוס, הגיע הזמן ל־Restart!\nמיטות הנוער של אירופלקס משלבות עיצוב צעיר ועדכני עם נוחות שכיף לחזור אליה בסוף כל יום. 💙\nמגוון מיטות בעיצובים שונים, שמתאימות לחדרי נוער ומעניקות את כל מה שצריך למנוחה טובה ולחדר שנעים להיות בו.\n✨ עיצובים מודרניים\n✨ דגמים במגוון סגנונות\n✨ נוחות ואיכות מבית אירופלקס\nכי אחרי לימודים, חברים וכל מה שקורה במהלך היום – צריך מקום שהוא לגמרי שלהם.\n👉 לכל מיטות הנוער >>\nhttps://katzr.net/582b83",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74920",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74920",
+   "date": "2026-10-09T07:36:21+00:00",
+   "text": "🔴 לזכר נופלי וגיבורי המלחמה והעוטף: מאות משתתפים במרוץ Winner בעפולה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T07:33:33.996Z",
+  "at": "2026-10-09T07:45:09.938Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 353
+  "pendingNew": 354
  }
 }
