@@ -1,57 +1,6 @@
 {
  "items": [
   {
-   "id": "7692814313723006228",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692814313723006228",
-   "caption": "העיתון האיטלקי “קוריירה דלה סרה”: הטייס העומאני תכנן לרצוח את הקברניט...",
-   "posted": "1791122915",
-   "found": "2026-10-04T14:25:37Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7692824530410032405",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692824530410032405",
-   "caption": "גדי איזנקוט (יו״ר מפלגת ישר!) באזהרה חריפה בריאיון לכאן ב׳: ״בן גביר ...",
-   "posted": "1791125294",
-   "found": "2026-10-04T14:55:22Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7692829481781775622",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692829481781775622",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791126449",
-   "found": "2026-10-04T15:11:12Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692829481781775622.txt"
-  },
-  {
-   "id": "7692837418776513800",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7692837418776513800",
-   "caption": "",
-   "posted": "1791128296",
-   "found": "2026-10-04T15:41:05Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7692843856018115860",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692843856018115860",
-   "caption": "בעקבות המחדל שנחשף באבטחת הטיסות הזרות לישראל, באופוזיציה דורשים תשוב...",
-   "posted": "1791129793",
-   "found": "2026-10-04T16:11:17Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7692848974302088455",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4479,12 +4428,65 @@
    "found": "2026-10-09T07:23:04Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694561918115220743.txt"
+  },
+  {
+   "id": "7694567307191848210",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7694567307191848210",
+   "caption": "חטפנו מכות בגלל הדעה שלנו",
+   "posted": "1791531067",
+   "found": "2026-10-09T07:35:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694567307191848210.txt"
+  },
+  {
+   "id": "7694566482319002887",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694566482319002887",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791530880",
+   "found": "2026-10-09T07:35:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694566482319002887.txt"
+  },
+  {
+   "id": "7694565379493940498",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694565379493940498",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791530616",
+   "found": "2026-10-09T07:35:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694565379493940498.txt"
+  },
+  {
+   "id": "7694567902271360277",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694567902271360277",
+   "caption": "1,000 מנהיגים חברי ועידת השגרירים של 'ידידי ישראל' הגיעו למתחם הנובה ...",
+   "posted": "1791531206",
+   "found": "2026-10-09T07:36:06Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7694565653000293652",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694565653000293652",
+   "caption": "#ביום הזה ",
+   "posted": "1791530680",
+   "found": "2026-10-09T07:36:11Z",
+   "status": "failed"
   }
  ],
  "health": {
-  "at": "2026-10-09T07:23:15Z",
+  "at": "2026-10-09T07:36:16Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 5
  }
 }
