@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:31:14.362Z",
+ "updated": "2026-10-09T10:42:45.619Z",
  "items": [
   {
    "id": "dad8d9a40d21",
@@ -12,6 +12,34 @@
    "summary": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.",
    "image": "https://static01.nyt.com/images/2026/10/09/arts/09nobel-header-winner/09nobel-header-winner-mediumSquareAt3X.jpg",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "207189d2157d",
+   "kind": "headline",
+   "title": "79 מיליון שקל בלבד: כמה מעט צריך כדי להפיל קבלן בענף הבנייה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558942#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T10:28:00.000Z",
+   "summary": "חברת הבנייה נטע ליפשיץ הגישה השבוע בקשה להיכנס להליכי חדלות פירעון • כשסכום כזה מפיל חברה עם רקורד של עשרות שנים, שמסווגת בדירוג הגבוה ביותר של משרד השיכון, מתבהר כמה קרובה התהום לעוסקים בתחום המסוכן הזה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1787040545/%D7%94%D7%A8%D7%99%D7%A1%D7%94_%D7%91%D7%A0%D7%99%D7%99%D7%9F_4._%D7%A6%D7%99%D7%9C%D7%95%D7%9D-_%D7%A9%D7%A8%D7%95%D7%9F_%D7%A2%D7%A0%D7%91%D7%99_s9ptve.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "207646764425",
+   "kind": "headline",
+   "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-09T10:07:04.000Z",
+   "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f053/live/449a1890-c3c1-11f1-9a39-31b474234113.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5607,34 +5635,6 @@
    "summary": "Senator Patty Murray, a former chair of the Senate health committee, is forming a group of experts to examine how to insulate the C.D.C. from political interference.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-murray-health-bqfj/07dc-murray-health-bqfj-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "cc885e439bd2",
-   "kind": "headline",
-   "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdElzX2dQYUJoMXJJaWVZRl8xa1UzaDVMOU90M1hvbHBYWUQ1WG9CV3F2Sm81RE5LQjZOZldyUGdWUE5JUlpCbDAtOGxHbk1vLVlkLU5fbENwRTh1bW1IMkphUGRIa2lvQ09rV0ZFZTN1VmtoT0p2dnlFSFlXZnQ1Nkota0E3UkxzRmRnSGFKeU1oX1EyakhHMkI0WWVtSFN0?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T18:36:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b0abaa56e4dd",
-   "kind": "headline",
-   "title": "Commemorations for victims of the 7 October Hamas attacks – in pictures",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T18:29:27.000Z",
-   "summary": "Events were held in Israel and around the world to mark the third anniversary of the attacks led by Hamas on kibbutzim, border towns, military bases and a music festival in Israel in which 1,209 people were killed and 251 hostages were taken Continue reading...",
-   "image": "https://i.guim.co.uk/img/media/a1dd1c62b01a60c270beccd6f6cdec933b0a2264/169_0_6481_5187/master/6481.jpg?width=140&quality=85&auto=format&fit=max&s=0d0a10f45e1601999f0e0ab4b04d2ae2",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
