@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T23:00:01.013Z",
+ "updated": "2026-10-09T23:11:33.726Z",
  "items": [
+  {
+   "id": "ac8350d950e0",
+   "kind": "headline",
+   "title": "In Deep-Red Kansas, a Surprisingly Competitive Senate Race Takes Shape",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-2026-marshall-hamilton.html",
+   "topic": "world",
+   "published": "2026-10-09T23:01:48.000Z",
+   "summary": "Adam Hamilton wants to be the first Democrat to win a Senate seat there in nearly 100 years.",
+   "image": "https://static01.nyt.com/images/2026/10/09/us/09pol-onpolitics-newsletter-salt/09pol-onpolitics-newsletter-salt-mediumSquareAt3X-v3.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5d45add5c416",
    "kind": "headline",
@@ -5621,20 +5635,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "d9054174e873",
-   "kind": "headline",
-   "title": "מאמר דעה: למרות 5 הורדות הריבית האינפלציה לא הרימה ראש - נהפוך הוא",
-   "source": "פאנדר",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zSmVYQVl5aWxmWUxaYXJTX3U4cTFVYmNwV3g3VzhBUXpiQkVCS0dOQ0hsbzlvWkJDODR2SE5SVEVYVWJ6ZkMxU2g5NF9CcGpF?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T08:28:05.000Z",
-   "summary": "",
-   "image": "",
-   "score": 4,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
