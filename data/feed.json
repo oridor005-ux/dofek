@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T14:52:21.509Z",
+ "updated": "2026-10-09T15:03:59.336Z",
  "items": [
+  {
+   "id": "1fc8b0b77747",
+   "kind": "headline",
+   "title": "Palestinian Authority Says Elections Are to Be Postponed",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
+   "topic": "world",
+   "published": "2026-10-09T14:58:45.000Z",
+   "summary": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-Palestinian-election-mwfc/09int-Palestinian-election-mwfc-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b24e0889291a",
    "kind": "headline",
@@ -5618,20 +5632,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWG1yejBVQ3ZWd3pQYjdTb0JVU0pzbjRkSGlOZzZfTXRTWURDR0pwdUlPZEx6Q2VEMVVJMkc1dVNleDRLZlJmR3c4czVHT0lMT21BMWloQ2VmZzk2VGxPbWhkUVVQYVJZUUY1dWgyQlUxYlFNbnlVc2R3UjNTSmtzSFRuZGd4QjU1dHphM21VZWdDRzM3dDI5R19GZk5sQWRwc0NVS3cyMEJGM1h2NW9yRXVqb2ViS0NEM1hhczZhamY2TU5zbEdVNURkX1k5SzhuZmNqMnZNMA?oc=5",
    "topic": "world",
    "published": "2026-10-08T03:34:07.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7f3fc79a961c",
-   "kind": "headline",
-   "title": "Pro-Palestinian groups call for boycott of Andrea Bocelli concert in Jordan",
-   "source": "Israel National News",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yM21lYUViSEYtUE9pNU9URnVZTHdGTUtGTktmRjFERHNNbEZfaWZqZ1hWM241TlJtZ1pJbjZHb281a0s0YXJ3Z2xUSHhqbHJ4WXZrVWVpTGNGZw?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-08T03:15:09.000Z",
    "summary": "",
    "image": "",
    "score": 0,
