@@ -1,20 +1,6 @@
 {
  "items": [
   {
-   "id": "7692533329614097682",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7692533329614097682",
-   "caption": "לא התכוונתי להעיר אותך אבל אני כן רוצה לעורר את עם ישראל!",
-   "posted": "1791057493",
-   "found": "2026-10-05T07:14:48Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692533329614097682.txt",
-   "insightIds": [
-    "ins-2026-10-04-as07"
-   ]
-  },
-  {
    "id": "7692480732711046407",
    "channel": "itamar_ben_gvir",
    "name": "itamar_ben_gvir",
@@ -4466,12 +4452,22 @@
    "found": "2026-10-09T17:16:14Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694292794139102484.txt"
+  },
+  {
+   "id": "7694724060294515976",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694724060294515976",
+   "caption": "היסטוריה: מלכת תאילנד, המלכה סותידה, הפכה למלכה המכהנת הראשונה בהיסטו...",
+   "posted": "1791567564",
+   "found": "2026-10-09T17:46:04Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-09T17:30:33Z",
+  "at": "2026-10-09T17:46:18Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
