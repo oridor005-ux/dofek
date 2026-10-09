@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:49.823Z"
+   "checkedAt": "2026-10-09T11:31:17.509Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:50.482Z"
+   "checkedAt": "2026-10-09T11:31:18.249Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:51.145Z"
+   "checkedAt": "2026-10-09T11:31:18.983Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
-   "lastId": 11457,
+   "lastId": 11458,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:51.803Z"
+   "checkedAt": "2026-10-09T11:31:19.731Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:52.479Z"
+   "checkedAt": "2026-10-09T11:31:20.448Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:53.133Z"
+   "checkedAt": "2026-10-09T11:31:21.173Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:53.785Z"
+   "checkedAt": "2026-10-09T11:31:21.887Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131626,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:54.500Z"
+   "checkedAt": "2026-10-09T11:31:22.713Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74929,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:55.077Z"
+   "checkedAt": "2026-10-09T11:31:23.343Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:55.773Z"
+   "checkedAt": "2026-10-09T11:31:24.099Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T11:18:56.526Z"
+   "checkedAt": "2026-10-09T11:31:24.894Z"
   }
  },
  "posts": [
@@ -5564,13 +5564,22 @@
    "date": "2026-10-09T11:13:29+00:00",
    "text": "🔴 משרד החוץ נגד ועדת הנובל והמשפטנית פילאי: \"גבלס מוחא כפיים בגיהינום\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11458",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11458",
+   "date": "2026-10-09T11:21:50+00:00",
+   "text": "מה צריך כדי לזכות בפרס נובל לשלום?! להיות אנטי ישראלי מובהק!\nכן, תראו מי הוכרזה כזוכה בפרס נובל לשלום- נאווי פילאי, המשפטנית הדרום אפריקאית שעמדה בראש וועדת החקירה נגד ישראל במועצה לזכויות אדם באו\"ם וקבעה שישראל מבצעת רצח עם.\nהיא גם במשך השנים האשימה את ישראל בשקר האפרטהייד, תמכה בחרם ובסנקציות נגד ישראל, קידמה את הנרטיב הפלסטיני, בקיצור עשתה את כל המהלכים שהביאו לה את אחד הפרסים היוקרתיים בעולם- פרס נובל לשלום.\nכי מסתבר שאתה לא צריך לקדם שלום, אלא לקדם אג'נדה אנטי ישראלית וההוקרה הבינלאומית כבר תגיע אליך...",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T11:18:56.927Z",
+  "at": "2026-10-09T11:31:25.293Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 377
+  "added": 1,
+  "pendingNew": 378
  }
 }
