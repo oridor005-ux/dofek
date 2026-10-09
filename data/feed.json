@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T19:02:37.506Z",
+ "updated": "2026-10-09T19:14:14.420Z",
  "items": [
+  {
+   "id": "8b5689019f3c",
+   "kind": "headline",
+   "title": "Vance Says He Would Not Watch Livestreamed Execution of Fort Hood Shooter",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/vance-livestream-execution.html",
+   "topic": "world",
+   "published": "2026-10-09T19:02:15.000Z",
+   "summary": "The vice president also cast doubt on whether the public execution of Maj. Nidal Malik Hasan, the 2009 Fort Hood gunman, would go forward as Pentagon officials have planned.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-execution-vance-qjvk/09dc-execution-vance-qjvk-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b0537192003e",
    "kind": "headline",
@@ -3251,6 +3265,20 @@
    "important": false
   },
   {
+   "id": "2189ce86b5a0",
+   "kind": "headline",
+   "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+   "topic": "world",
+   "published": "2026-10-08T16:43:39.000Z",
+   "summary": "UK and Israel back away from full diplomatic confrontation, though British presence in Palestine will be much reduced Israel and the UK have backed away from a full-scale diplomatic confrontation, with Britain announcing it is rebranding its consulate general ⁠building in ⁠East Jerusalem ​as a UK…",
+   "image": "https://i.guim.co.uk/img/media/1125317cf6dab6dcaaa9ea4fe64db6815e209442/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a5b51c75f3c1caefdbc495fe5d51d953",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "54641280a16c",
    "kind": "headline",
    "title": "\"הסתובבו בפיג'מות בלובי\": מלון בראשית דורש הקלה בארנונה אחרי שאירח מפונים",
@@ -5609,34 +5637,6 @@
    "alsoIn": [
     "Israel National News"
    ],
-   "important": false
-  },
-  {
-   "id": "a757af8fdc65",
-   "kind": "headline",
-   "title": "מגמה מעורבת בת\"א; נקסט ויז'ן עולה ב-2%",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T07:01:00.000Z",
-   "summary": "ת\"א 35 יורד ב-0.6% • המניות הדואליות ללא שינויים משמעותיים • יו\"ר נקסט ויז'ן בעקבות הנפילה במניה: \"יש ביקוש חזק הן בטווח המיידי והן בטווח הארוך\" • פי.סי.בי רוכשת את Gorilla Circuits בארצות הברית לפי שווי פעילות של 120 מיליון דולר • יציבות בחוזים בניו יורק וירידות קלות באסיה • אחרי השיאים בוול…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2189ce86b5a0",
-   "kind": "headline",
-   "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-   "topic": "world",
-   "published": "2026-10-08T06:51:05.000Z",
-   "summary": "Foreign secretary says former consulate general will remain independent, operational ⁠and serving Palestinian people The foreign secretary, ⁠Ed Miliband, has said Britain’s consulate general ⁠building in ⁠East Jerusalem ​will not be closing but will ⁠be known as a UK mission, remaining independent,…",
-   "image": "https://i.guim.co.uk/img/media/1125317cf6dab6dcaaa9ea4fe64db6815e209442/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a5b51c75f3c1caefdbc495fe5d51d953",
-   "score": 1,
-   "alsoIn": [],
    "important": false
   }
  ]
