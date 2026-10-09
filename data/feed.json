@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T14:40:47.699Z",
+ "updated": "2026-10-09T14:52:21.509Z",
  "items": [
+  {
+   "id": "b24e0889291a",
+   "kind": "headline",
+   "title": "F.B.I. Arrests Key Suspect in ShinyHunters Hack of Its Own Agents’ Data",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/fbi-hack-shinyhunters-arrest.html",
+   "topic": "world",
+   "published": "2026-10-09T14:37:24.000Z",
+   "summary": "The hack left the nation’s premier law enforcement agency racing to respond as both the victim and the investigator of a murky group that threatened to expose agents’ personal information.",
+   "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07DC-HACK-pwfq/07DC-HACK-pwfq-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "632894922def",
    "kind": "headline",
@@ -5621,20 +5635,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "45eba5b0b6b8",
-   "kind": "headline",
-   "title": "בזמן שהבורסה בתל אביב מאבדת גובה, וול סטריט שוברת שיאים — אלה הסיבות",
-   "source": "TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUtCdkZJYVRwbXdHNUhJMEI5WjdDOTNUM2FCRDlCaXhHQ25MQjFrOF8xU3VOOWdncmMwSERMdjd6YkZDZDNrd1hEM3Q5UmlISWg0U3BfUV9Idy0xdkZKOWdFVVl1Rm9xcko1VHFuTkI0eDc4WXRUSWdNZDVFcnFpRUU0VXdhLUduZlhnLVVzNjJWYUE0bUlLMTU1YlpRc2VuRlcxeHVB?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T03:13:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
