@@ -4470,9 +4470,9 @@
   }
  ],
  "health": {
-  "at": "2026-10-09T05:08:50Z",
+  "at": "2026-10-09T05:18:36Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 0
  }
 }
