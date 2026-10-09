@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T15:16:31.202Z",
+ "updated": "2026-10-09T15:28:05.708Z",
  "items": [
+  {
+   "id": "eccd534e6d97",
+   "kind": "headline",
+   "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
+   "topic": "world",
+   "published": "2026-10-09T15:23:16.000Z",
+   "summary": "U.S. officials announced new punishments aimed at the court, just hours after the Nobel Peace Prize committee gave its annual honor to a former court judge.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-trump-icc-hbjz/09dc-trump-icc-hbjz-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "1fc8b0b77747",
    "kind": "headline",
@@ -5623,20 +5637,6 @@
    "alsoIn": [
     "The New York Times"
    ],
-   "important": false
-  },
-  {
-   "id": "a926182b60ca",
-   "kind": "headline",
-   "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html",
-   "topic": "world",
-   "published": "2026-10-08T04:00:11.000Z",
-   "summary": "Far-left leaders are cheering on the students. Government officials accuse them of stirring up the unrest for political gain.",
-   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-far-left-kpfg/08int-france-far-left-kpfg-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
