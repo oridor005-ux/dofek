@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692480732711046407",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7692480732711046407",
-   "caption": "בשבילם זה טרור אקוסטי בשבילנו זה קול האמת!",
-   "posted": "1791045248",
-   "found": "2026-10-05T07:15:03Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692480732711046407.txt"
-  },
-  {
    "id": "7692880399516716309",
    "channel": "mordechaidavid2026",
    "name": "mordechaidavid2026",
@@ -4462,12 +4451,23 @@
    "posted": "1791567564",
    "found": "2026-10-09T17:46:04Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694735977209679122",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694735977209679122",
+   "caption": "סערת שינוי פרוטוקול שעת השיחה בבוקר 7 באוקטובר: הערב פורסם באולפן שיש...",
+   "posted": "1791570337",
+   "found": "2026-10-09T18:31:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694735977209679122.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T18:16:25Z",
+  "at": "2026-10-09T18:31:50Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
