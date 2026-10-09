@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T11:30:23.774Z",
+ "updated": "2026-10-09T11:42:35.741Z",
  "items": [
+  {
+   "id": "749331916937",
+   "kind": "headline",
+   "title": "How a Binance ‘High-Value Customer’ Established a Financial Lifeline for Iran",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/world/middle-east/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran-43bdd88e?mod=rss_worldnews",
+   "topic": "world",
+   "published": "2026-10-09T11:36:00.000Z",
+   "summary": "A previously unreported Binance document reveals how an Iranian network used the crypto exchange to move money against the wishes of Western governments.",
+   "image": "https://images.wsj.net/im-84080388",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "7fc82cf2a801",
    "kind": "headline",
@@ -5619,20 +5633,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "fa6a16a3d002",
-   "kind": "headline",
-   "title": "התאוששות מאוחרת בוול סטריט: המדדים מחקו את רוב הנפילות; ה-S&P 500 והנאסד\"ק ירדו ב-0.2%",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-07T20:04:00.000Z",
-   "summary": "יום מסחר תנודתי ננעל בירידות מתונות, לאחר שזינוק בתשואות האג\"ח לשיא של 22 שנה שלח את המדדים מוקדם יותר לצלילה עמוקה • מכרז חוב ממשלתי מוצלח הרגיע את המשקיעים ובלם את עליית התשואות • מניות תשתיות ה-AI והשבבים סיפקו רוח גבית שמנעה הפסדים כבדים • פרוטוקול הפד מאותת על העלאת ריבית נוספת השנה • הברנט…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1672157206/direct/shutterstock_133513469_kidhwb.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
