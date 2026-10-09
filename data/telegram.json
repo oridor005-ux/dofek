@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:06.714Z"
+   "checkedAt": "2026-10-09T08:44:39.407Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:07.364Z"
+   "checkedAt": "2026-10-09T08:44:40.081Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:08.054Z"
+   "checkedAt": "2026-10-09T08:44:40.722Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:09.853Z"
+   "checkedAt": "2026-10-09T08:44:41.396Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:10.640Z"
+   "checkedAt": "2026-10-09T08:44:42.089Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:11.263Z"
+   "checkedAt": "2026-10-09T08:44:42.782Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:11.889Z"
+   "checkedAt": "2026-10-09T08:44:43.528Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131616,
+   "lastId": 131617,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:12.557Z"
+   "checkedAt": "2026-10-09T08:44:44.243Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74923,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:13.104Z"
+   "checkedAt": "2026-10-09T08:44:44.805Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:13.746Z"
+   "checkedAt": "2026-10-09T08:44:45.648Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T08:33:14.423Z"
+   "checkedAt": "2026-10-09T08:44:46.385Z"
   }
  },
  "posts": [
@@ -5419,13 +5419,22 @@
    "date": "2026-10-09T08:31:27+00:00",
    "text": "ערוצים פלסטינים מפרסמים תיעוד מהכפר יברוד (נפת ראמאללה) בו נראים מתיישבים יהודים חוסמים רכב של פלסטיני. הרקע לאירוע ע\"פ מקורות בהתיישבות: ערבים מהכפר יברוד הגיעו ברכב משטובה (ללא לוחית רישוי וללא רשיון), תקפו רועה מחווה סמוכה ונמלטו לכיוון הכפר. תושבים…",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131617",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131617",
+   "date": "2026-10-09T08:36:05+00:00",
+   "text": "הדובר הצבאי של החות'ים מקבל אחריות על תקיפת שדה התעופה בריאד בירת סעודיה☝️: כוחותינו תקפו הערב את נמל התעופה המלך ח'אלד בריאד באמצעות שני טילי שיוט, את נמל התעופה נג'ראן באמצעות טיל בליסטי ואת הבסיס האווירי בח'מיס מושיט באמצעות טיל בליסטי. בחסדי אללה, הפגיעות…",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T08:33:14.824Z",
+  "at": "2026-10-09T08:44:46.785Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 360
+  "added": 1,
+  "pendingNew": 361
  }
 }
