@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:36.566Z"
+   "checkedAt": "2026-10-09T20:14:10.439Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:37.247Z"
+   "checkedAt": "2026-10-09T20:14:11.097Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:37.891Z"
+   "checkedAt": "2026-10-09T20:14:11.778Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:38.557Z"
+   "checkedAt": "2026-10-09T20:14:12.617Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:39.217Z"
+   "checkedAt": "2026-10-09T20:14:13.266Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:39.902Z"
+   "checkedAt": "2026-10-09T20:14:13.911Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:40.640Z"
+   "checkedAt": "2026-10-09T20:14:14.561Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131645,
+   "lastId": 131646,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:41.408Z"
+   "checkedAt": "2026-10-09T20:14:15.295Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74957,
+   "lastId": 74959,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:41.985Z"
+   "checkedAt": "2026-10-09T20:14:15.869Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:42.761Z"
+   "checkedAt": "2026-10-09T20:14:16.550Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T20:02:43.502Z"
+   "checkedAt": "2026-10-09T20:14:17.298Z"
   }
  },
  "posts": [
@@ -6035,13 +6035,40 @@
    "date": "2026-10-09T19:59:20+00:00",
    "text": "🔴 זלנסקי נגד טראמפ: \"ה'מתנות' לפוטין יובילו להארכת המלחמה\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131646",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131646",
+   "date": "2026-10-09T20:04:10+00:00",
+   "text": "הנשיא טראמפ מכריז כי קייטי זכריא נבחרה להיות דוברת הבית הלבן החדשה במקומה של קרוליין לוויט שהפכה להיות כתבת של פוקס ניוז.\nזכריא היא נוצריה, עורכת דין בהשכלתה, יועצת אסטרטגית ופרשנית פוליטית ימנית שמרנית.\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74958",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74958",
+   "date": "2026-10-09T20:04:22+00:00",
+   "text": "🔴 רעידת האדמה בפנמה: ארה\"ב הסירה את אזהרת הצונאמי\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74959",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74959",
+   "date": "2026-10-09T20:09:37+00:00",
+   "text": "🔴 טראמפ הודיע רשמית על מינוי דוברת הבית הלבן: \"קייטי תמכה בי מהרגע הראשון\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T20:02:43.904Z",
+  "at": "2026-10-09T20:14:17.698Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 394
+  "added": 3,
+  "pendingNew": 397
  }
 }

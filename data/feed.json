@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T20:13:49.358Z",
+ "updated": "2026-10-09T20:25:25.857Z",
  "items": [
+  {
+   "id": "eea9cb16e3ee",
+   "kind": "headline",
+   "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
+   "topic": "world",
+   "published": "2026-10-09T20:15:34.000Z",
+   "summary": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-russia-putin-hfbw/09int-russia-putin-hfbw-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "de5dec10ccea",
    "kind": "headline",
@@ -5620,20 +5634,6 @@
    "summary": "הבעל טען כי הזכייה בהגרלת \"מחיר למשתכן\" לפני החתונה הופכת את הדירה לרכושו בלבד, אך בית הדין הרבני קבע כי הזכייה אינה שקולה לבעלות &bull; גם הצהרת האישה לבנק כי אין לה דירה אחרת לא שינתה את התוצאה, והבעל ישלם לה 12 אלף שקל הוצאות משפט",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1693902023/one%20time%20use%20only/shutterstock_655562695-_Converted_a1y65l.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ce86ded044ca",
-   "kind": "headline",
-   "title": "קיצונים משני הצדדים: האם יש באמת דמיון בין אלימות השמאל והימין במדינת ישראל?",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ITExUR0JsS2dpU0tKNFZ5NVJ2RTVTSlIzT1RJWmt4RjRPeEhKNnlHVHR2STNIRHlleHhLVVl5Qk9HaWpOX0VneA?oc=5",
-   "topic": "media",
-   "published": "2026-10-08T07:35:21.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
