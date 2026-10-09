@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-09T06:57:25.513Z",
+ "updated": "2026-10-09T07:07:10.359Z",
  "items": [
+  {
+   "id": "cf8fa6cd2434",
+   "kind": "headline",
+   "title": "פתיחה מעורבת בתל אביב; המניות הדואליות מאבדות גובה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558969#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T07:05:00.000Z",
+   "summary": "מדד ת\"א 35 נסחר ביציבות • הנאסד\"ק נפל אמש בחדות אחרי שדיווח חשף כי קצב ההכנסות השנתי של OpenAI נמוך בכ-20 מיליארד דולר מהערכות השוק • תשואות האג\"ח נסוגו אתמול, אך נותרות בשיאים של עשרות שנים • הבוקר: מחירי הנפט יורדים, החוזים בניו יורק ירוקים • וגם: המניה שיותר משילשה את ערכה מתחילת השנה - וצופים…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "8dd0caa83341",
+   "kind": "headline",
+   "title": "כיכר המדינה בתל אביב עולה לגובה: המכירות תקועות אבל המחירים ממשיכים לעלות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001557840#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T07:00:00.000Z",
+   "summary": "רובע 4 בתל אביב - בין נתיבי איילון לרחוב אבן גבירול - התאפיין תמיד בבניינים נמוכים יחסית, אולם מגדלי המגורים שצפויים להתאכלס בו בקרוב ישנו את פניו • המחירים במגדלי DUO ואינפיניטי במתחם סומייל ומגדלי כיכר המדינה מגיעים ל־80 אלף שקל למ\"ר ויותר • אלא שבעוד הבנייה מתקדמת, המכירות מתקשות לשמור על הקצב…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790753943/%D7%94%D7%93%D7%9E%D7%99%D7%99%D7%94-%D7%A7%D7%91%D7%95%D7%A6%D7%AA_%D7%97%D7%92%D7%92-_%D7%9E%D7%92%D7%93%D7%9C_INFINITY_gd7f6j.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "459ff0509be2",
    "kind": "headline",
@@ -5611,34 +5639,6 @@
    "summary": "יו\"ר דירקטוריון נתיבי איילון לשעבר מסיים את תפקידו במועצה להסדר הימורים בספורט, כשברקע החקירה שנפתחה בעקבות תחקיר שטען לניפוח הניסיון הניהולי שלו • בממשלה נערכים לתביעה אזרחית נגדו, בין היתר להשבת שכר של כ-300 אלף שקל שניתן לטענתה שלא כדין",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790498866/800_w9eqf3.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "9cca2ce64046",
-   "kind": "headline",
-   "title": "פודקאסט \"נרטיב\" פרק 1: שכתוב ההיסטוריה של ה-7.10",
-   "source": "העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Ucy15Y3F0RjFuUkZrNzBkLUxoOVFickloMlZyUm5nY1FoeUxqZHNhMWpyMWV5cl9kNHRhZWFxQ3FyRkx2bTlKVw?oc=5",
-   "topic": "media",
-   "published": "2026-10-07T14:49:43.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0b12e7ee5c10",
-   "kind": "headline",
-   "title": "Palestinian Media Watch: PA presentations of Oct. 7 have shifted from celebration to blaming Israel",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQlhtWnhwY2tWYnM3MmhDYmhEYmhDU1FiOFBvS0o0d00xNWtUSmhQZ1BPenZZYS1IWlVWcWRBMWcwUjF5SjcxS2JYb2pSeWVyaU1VNE5WTTI5Y3FY?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-07T14:49:11.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
