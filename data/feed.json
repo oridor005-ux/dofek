@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-09T18:51:01.490Z",
+ "updated": "2026-10-09T19:02:37.506Z",
  "items": [
+  {
+   "id": "b0537192003e",
+   "kind": "headline",
+   "title": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html",
+   "topic": "world",
+   "published": "2026-10-09T18:54:52.000Z",
+   "summary": "Some G.O.P. members of Congress said that broadcasting the execution of the Fort Hood shooter was inappropriate, though others gleefully applauded it.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-cong-execution-mlcj/09dc-cong-execution-mlcj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2ee1fdbbe16b",
+   "kind": "headline",
+   "title": "עובדי המטען בשדה התעופה בפריז מסרבים להעביר \"משלוח ביטחוני\" לישראל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559018#utm_source=RSS",
+   "topic": "defense",
+   "published": "2026-10-09T18:42:00.000Z",
+   "summary": "קמפיין פרו-פלסטיני איתר השבוע מטען מיועד של קופסאות הילוכים לכלי רכב של יצרן צרפתי שככל הנראה מיועד לחברה הישראלית \"אלביט\", והזהיר את ועדי העובדים שלא לאפשר למטען לעלות לטיסות \"אייר פרנס\" • המטען משובץ לטיסה מתוכננת מחר של אל על אולם העובדים הודיעו כי הם מסרבים להעלות אותו על הטיסה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1755073089/direct/0W4A8848_xw66rb.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5996f0c3dad7",
    "kind": "headline",
@@ -5608,34 +5636,6 @@
    "summary": "Foreign secretary says former consulate general will remain independent, operational ⁠and serving Palestinian people The foreign secretary, ⁠Ed Miliband, has said Britain’s consulate general ⁠building in ⁠East Jerusalem ​will not be closing but will ⁠be known as a UK mission, remaining independent,…",
    "image": "https://i.guim.co.uk/img/media/1125317cf6dab6dcaaa9ea4fe64db6815e209442/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a5b51c75f3c1caefdbc495fe5d51d953",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ab679f28f705",
-   "kind": "headline",
-   "title": "עוברים לשימור לקוחות: FlyAll וכאל בהטבה חדשה למשתמשים קיימים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558833#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T06:50:00.000Z",
-   "summary": "כאל מדווחת כי כ-200 אלף לקוחות כבר הצטרפו לכרטיס FlyAll, ומכריזה על סבב הטבות נוסף שנועד לחזק את מעמדה מול פליי קארד של אל על וישראכרט • הפעם, בניגוד למבצעי ההצטרפות הקודמים, בכאל מנסים גם לשמר את הלקוחות שכבר גויסו באמצעות הטבה של 150 דולר",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780491696/COT_Pic/flyall_nmij47_hdvwc7.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d7de0b7b2198",
-   "kind": "headline",
-   "title": "משנה את כללי המשחק: FlyAll תחלק כסף גם למחזיקי אשראי ותיקים",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558833#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T06:50:00.000Z",
-   "summary": "כאל מדווחת כי כ-200 אלף לקוחות כבר הצטרפו לכרטיס FlyAll, ומכריזה על סבב הטבות נוסף שנועד לחזק את מעמדה מול פליי קארד של אל על וישראכרט • הפעם, בניגוד למבצעי ההצטרפות הקודמים, בכאל שומרים גם על הלקוחות הותיקים באמצעות הטבה של 150 דולר",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780491696/COT_Pic/flyall_nmij47_hdvwc7.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }

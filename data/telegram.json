@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:47.529Z"
+   "checkedAt": "2026-10-09T18:51:24.894Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:48.272Z"
+   "checkedAt": "2026-10-09T18:51:25.538Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:48.942Z"
+   "checkedAt": "2026-10-09T18:51:26.173Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:49.650Z"
+   "checkedAt": "2026-10-09T18:51:26.810Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:50.326Z"
+   "checkedAt": "2026-10-09T18:51:27.428Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:51.008Z"
+   "checkedAt": "2026-10-09T18:51:28.055Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:51.716Z"
+   "checkedAt": "2026-10-09T18:51:28.664Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131644,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:52.454Z"
+   "checkedAt": "2026-10-09T18:51:29.320Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74954,
+   "lastId": 74955,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:53.059Z"
+   "checkedAt": "2026-10-09T18:51:29.869Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:53.765Z"
+   "checkedAt": "2026-10-09T18:51:30.526Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T18:39:54.535Z"
+   "checkedAt": "2026-10-09T18:51:31.226Z"
   }
  },
  "posts": [
@@ -5993,13 +5993,22 @@
    "date": "2026-10-09T18:37:06+00:00",
    "text": "🔴 ניו יורק טיימס: הבית הלבן הציע את תפקיד הדוברת לאחת מהיועצות של טראמפ\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74955",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74955",
+   "date": "2026-10-09T18:51:14+00:00",
+   "text": "🔴 משרד החוץ מזהיר ישראלים בחו\"ל: מחר צפויות הפגנות אנטישמיות, גלו ערנות מוגברת\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T18:39:54.935Z",
+  "at": "2026-10-09T18:51:31.626Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 430
+  "added": 1,
+  "pendingNew": 431
  }
 }
