@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65649,
+   "lastId": 65650,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:26.577Z"
+   "checkedAt": "2026-10-09T12:30:04.454Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7265,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:27.343Z"
+   "checkedAt": "2026-10-09T12:30:05.193Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:28.055Z"
+   "checkedAt": "2026-10-09T12:30:05.881Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11459,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:28.781Z"
+   "checkedAt": "2026-10-09T12:30:06.588Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:29.600Z"
+   "checkedAt": "2026-10-09T12:30:07.308Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:30.310Z"
+   "checkedAt": "2026-10-09T12:30:08.001Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:31.016Z"
+   "checkedAt": "2026-10-09T12:30:08.698Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131629,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:31.768Z"
+   "checkedAt": "2026-10-09T12:30:09.484Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74930,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:32.387Z"
+   "checkedAt": "2026-10-09T12:30:10.097Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:33.138Z"
+   "checkedAt": "2026-10-09T12:30:10.801Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T12:18:33.883Z"
+   "checkedAt": "2026-10-09T12:30:11.536Z"
   }
  },
  "posts": [
@@ -5620,13 +5620,23 @@
    "date": "2026-10-09T12:17:33+00:00",
    "text": "🔴 זוכת הנובל לשלום: \"חיים בעידן שבו זכויות אדם תחת מתקפה מוגברת\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65650",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65650",
+   "date": "2026-10-09T12:29:05+00:00",
+   "text": "יאיר גולן: אני חושב באופן חד משמעי שחיסול חמינאי היה טעות. זה לא משרת את האינטרסים של מדינת ישראל",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T12:18:34.283Z",
+  "at": "2026-10-09T12:30:11.937Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 383
+  "pendingNew": 384
  }
 }
