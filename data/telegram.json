@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65648,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:10.820Z"
+   "checkedAt": "2026-10-09T05:10:49.820Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:11.647Z"
+   "checkedAt": "2026-10-09T05:10:50.519Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:12.316Z"
+   "checkedAt": "2026-10-09T05:10:51.241Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11455,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:13.043Z"
+   "checkedAt": "2026-10-09T05:10:51.927Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19334,
+   "lastId": 19335,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:13.752Z"
+   "checkedAt": "2026-10-09T05:10:52.641Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:14.465Z"
+   "checkedAt": "2026-10-09T05:10:53.480Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:15.146Z"
+   "checkedAt": "2026-10-09T05:10:54.143Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131602,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:15.888Z"
+   "checkedAt": "2026-10-09T05:10:54.890Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74915,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:16.510Z"
+   "checkedAt": "2026-10-09T05:10:55.483Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:17.262Z"
+   "checkedAt": "2026-10-09T05:10:56.189Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T04:59:18.179Z"
+   "checkedAt": "2026-10-09T05:10:56.903Z"
   }
  },
  "posts": [
@@ -5245,13 +5245,22 @@
    "text": "את זה צריך להפיץ. כי על זה הבחירות. לא רק שהם ימותו ולא יתגייסו, בעוד אנחנו מתגייסים ומתים, הוא אומר כאן בקולו שהכל כבר מוכן: בממשלה הבאה הדבר הראשון זה להעביר עשרות מיליארדים למגזר החרדי.",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19335",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19335",
+   "date": "2026-10-09T05:00:33+00:00",
+   "text": "הסוכן הקטארי טוען שהאלוף אבי גיל דיבר כי יואב לימור הפעיל עליו ״סחיטה באיומים״. מצד שני, לפני שגילה את העראק והריאל הקטארי הוא עצמו מתאר את אבי גיל (אז אל״מ) כמי ״שמבין את גודל האחריות ואינו מתכוון לקפוא על השמרים״.",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T04:59:18.580Z",
+  "at": "2026-10-09T05:10:57.303Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 339
+  "pendingNew": 340
  }
 }
