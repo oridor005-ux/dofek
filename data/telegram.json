@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:43.716Z"
+   "checkedAt": "2026-10-09T17:40:12.950Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:44.357Z"
+   "checkedAt": "2026-10-09T17:40:13.589Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:44.955Z"
+   "checkedAt": "2026-10-09T17:40:14.199Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:45.600Z"
+   "checkedAt": "2026-10-09T17:40:14.823Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:46.200Z"
+   "checkedAt": "2026-10-09T17:40:15.451Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:46.790Z"
+   "checkedAt": "2026-10-09T17:40:16.061Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:47.388Z"
+   "checkedAt": "2026-10-09T17:40:16.676Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131640,
+   "lastId": 131641,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:48.042Z"
+   "checkedAt": "2026-10-09T17:40:17.324Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74949,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:48.578Z"
+   "checkedAt": "2026-10-09T17:40:17.871Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:49.236Z"
+   "checkedAt": "2026-10-09T17:40:18.500Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T17:28:49.921Z"
+   "checkedAt": "2026-10-09T17:40:19.230Z"
   }
  },
  "posts": [
@@ -5921,13 +5921,22 @@
    "date": "2026-10-09T17:05:39+00:00",
    "text": "שעות אחרי שאחת משופטות ה ICC האנטי ישראליות ☝️הוכרזה כזוכת פרס נובל לשלום, הודיע ממשל טראמפ על סנקציות משתקות נגד בית הדין הפלילי בהאג (ICC). שר החוץ האמריקאי מרקו רוביו: \"נחסום עסקאות עם בית הדין הסורר הזה, ננתק את המשאבים שלו ונשתק את יכולתו לפעול.\" כעת…",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131641",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131641",
+   "date": "2026-10-09T17:29:12+00:00",
+   "text": "קאיה קאלס, שרת החוץ של האיחוד האירופאי מגינה על בית הדין הפלילי בהאג לנוכח הסנקציות האמריקאיות הצפויות: בית הדין הפלילי ה ICC הוא אבן יסוד במערכת המשפט הבינ\"ל הפלילי. ישנם 6 חודשים עד כניסת הסנקציות לתוקף - זו תהיה הזדמנות לדיאלוג. ההגנה על בית הדין נמצאת…",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T17:28:50.320Z",
+  "at": "2026-10-09T17:40:19.630Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 421
+  "added": 1,
+  "pendingNew": 422
  }
 }
