@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692884126097050900",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7692884126097050900",
-   "caption": "\"אמא, אני בסדר, לא לדאוג\": אייל אשל משחזר את ההודעות האחרונות שבתו, ר...",
-   "posted": "1791139169",
-   "found": "2026-10-05T07:14:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692884126097050900.txt"
-  },
-  {
    "id": "7692808594957389063",
    "channel": "itamar_ben_gvir",
    "name": "itamar_ben_gvir",
@@ -4466,12 +4455,23 @@
    "found": "2026-10-09T14:59:01Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694679729990847762.txt"
+  },
+  {
+   "id": "7694682485883456786",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694682485883456786",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791557880",
+   "found": "2026-10-09T15:13:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694682485883456786.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T14:59:23Z",
+  "at": "2026-10-09T15:14:04Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
