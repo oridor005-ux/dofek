@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-09T06:21:49.426Z",
+ "updated": "2026-10-09T06:22:06.686Z",
  "items": [
+  {
+   "id": "89dc78cd948e",
+   "kind": "headline",
+   "title": "עליות באסיה ובחוזים בניו יורק; מחירי הנפט יורדים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559008#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-09T06:20:00.000Z",
+   "summary": "בורסת הונג קונג קופצת בכ-1.7% • הנאסד\"ק נפל אמש בחדות אחרי שדיווח חשף כי קצב ההכנסות השנתי של OpenAI נמוך בכ-20 מיליארד דולר מהערכות השוק • תשואות האג\"ח נסוגו אתמול, אך נותרות בשיאים של עשרות שנים • הבוקר: מחירי הנפט יורדים, החוזים בניו יורק ירוקים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658986258/direct/direct/shutterstock_1549771106_d9dp5y.jpg",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
+  },
   {
    "id": "6b2ff0d0954c",
    "kind": "headline",
@@ -5624,20 +5638,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNy1OemlscmZXOE5xZWFYMGNRR0VTXzFXV1N4OUowNFBBeEVsdDBZU1FpOUU5cjFoWG9icW5oaFFtekVuc0lFMENoanI0cDhhaU9FYndGZy1Xa0RRSG85MGxYc3A5bG9RVnEyUlBGUnVTUzJ1dGtuVGh4dnA3LWs2SldRMEZiU3hhWEdwQmZXNlA0LW5ZTHI2bTc0TU1WcVZ2eExhVHhnYzVScmFYenFVX2JWRXVuV2t1d0Y2ckRR?oc=5",
    "topic": "world",
    "published": "2026-10-07T14:29:33.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "cf242b1119fd",
-   "kind": "headline",
-   "title": "Justina Shiroka-Pula Inaugurated as Kosovo’s President",
-   "source": "Prishtina Insight",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVno5eUhSZzF0OHl2UWY1Ml9ZUFdjS1JHZ0ZyWThQQmcxczRXSHVHZ015TGplc2JiWDZfckJXdFM1anVvUHFuSTZNWU5yb3J4cVp3SHUzVmJiNHV2VGk1NDRhb29sTm5pYVVJalhpeEkyVTZGbWdncXJIVGZ2VnVhekZCeWxLaEo2czdB?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T14:18:10.000Z",
    "summary": "",
    "image": "",
    "score": 0,
