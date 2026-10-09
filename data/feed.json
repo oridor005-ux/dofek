@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-09T13:17:08.968Z",
+ "updated": "2026-10-09T13:29:35.165Z",
  "items": [
+  {
+   "id": "be074d1e3613",
+   "kind": "headline",
+   "title": "מפגינים שרפו דגל ישראל: מחאות נגד השתתפות אלביט וחברות ביטחוניות בסלון האווירי במרוקו",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/b18f8wiozl",
+   "topic": "defense",
+   "published": "2026-10-09T13:21:53.000Z",
+   "summary": "הנוכחות הישראלית בתערוכת התעופה במרקש מעוררת התנגדות בקרב פעילים מקומיים, שמאשימים את ‏החברות הביטחוניות במעורבות במלחמה בעזה. בהפגנה בעיר הונפו דגלי פלסטין והובערה אש, וברבאט ‏תועד פעיל נגד הנורמליזציה שורף את דגל ישראל. למרות זאת, הסרטונים מהתערוכה מציגים אווירה ‏ידידותית בביתנים הישראליים",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/ryeEHwUoMl/ryeEHwUoMl_1_81_771_434_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "72893394feb4",
+   "kind": "headline",
+   "title": "Czechs vote in Senate and local elections in first test for populist PM Babiš",
+   "source": "WRAL",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWc0TXR0U0VydS1CZzNTX0k3WEljQV9pZWtwdDVKYW13LWEzc055VnBIdXBseG5KdFJsSmFCZG03MHNLM2NUdmxGSi1vaVB0YVM0c2lONm1rV2JqenpNb2R1MlNLUXZOMlo3Z1pkMkhhaTRJTzczbWJid3MyZnJ4UE5xWENPdnZ0VV95SzBSVWhrV3RnSTU2QmFhR2ZkSDFIa3NvQ3RZVkRxUGFHZVBnZUdn?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T13:17:28.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "4737111e4803",
    "kind": "headline",
@@ -14,6 +42,20 @@
    "score": 3,
    "alsoIn": [],
    "important": true
+  },
+  {
+   "id": "56e234272864",
+   "kind": "headline",
+   "title": "U.S. Army deploys Elbit's Iron Fist defense system against missiles and drones",
+   "source": "CTech",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HQ2toeDV4RmZOUUkzMllwWFFzVkZBN01CeXExYmJkZWV5NWVDcE5XSGVnd19SQ0tSRUpjOGV1X2dDOVQ4c19pQmhNaXFzRlZxa3p2ZTRPRFkzRkREcTc4YzlDS3RPbk1t?oc=5",
+   "topic": "defense",
+   "published": "2026-10-09T12:51:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
   },
   {
    "id": "dd4e9d7c8a20",
@@ -1739,6 +1781,20 @@
    "published": "2026-10-08T23:24:14.000Z",
    "summary": "Plus, a big debate night in Senate battlegrounds.",
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pol-onpolitics-newsletter-top-zlqg/08pol-onpolitics-newsletter-top-zlqg-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "86df0883e9cf",
+   "kind": "headline",
+   "title": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote",
+   "source": "WFMZ.com",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORW1fUnVWN2FuV2pmQlh4Y0dwSERuOXNVdHdVX3N5ZmZBMXgyVUNacGYwUXI1d0JxMkgxdlhacGhLZm42QkloZ3RiYXI1aXlWRG5tNDhFMUt2TnVVcUM2cWt0dDJxVWN0RFhyZ2N2VGRjS1lJNVV6aUliTG0zWGNzZXdhZElCSm93bVFJWjlwN3Itb0RoWUZkaWJZYm9mZldFNWdWSlNIUnZQQjhLbXRNTXBKMkhKNE9YTXFWall1VE9teVFLRVFZMGtDRVEyUHZ1dkY1Mk92LU5IaldjZGo4TmVwVmdkczd1dmpLY1hfSkc4dXA3ZkZwTmRrVHBBenFSdjFmWXN5TEVnUlMxSDE2cUo4eVQ3Vkt2azFRNmhSTHlUNU0?oc=5",
+   "topic": "world",
+   "published": "2026-10-08T22:33:53.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5575,62 +5631,6 @@
    "summary": "החוקר ג'ון גוטמן חזה גירושים על בסיס שלוש דקות שיחה, לא מתוך מה שנאמר אלא מהדרך בה בני הזוג מתקשרים • אותם דפוסים שמנבאים קריסת זוגיות, נוכחים גם ביחסי יו\"ר ומנכ\"ל חברה • ומה אפשר ללמוד מ\"הגירושים העסקי\" של ראטן טאטא וסיירוס מיסטרי? • עסק משפחתי, טור חודשי",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791207803/800_dgav5l.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c48cf42ab2c2",
-   "kind": "headline",
-   "title": "המדינה שמציבה מערכות הגנה אווירית סיניות לצד ישראליות",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558679#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-08T02:41:00.000Z",
-   "summary": "באזרבייג'ן לא מהססים לרכוש מכל מי שהם רואים לנכון, וכך נוצר מצב שבו מערכות הגנה אווירית סיניות מוצבות לצד כאלו מישראל • חברת המל\"טים המתאבדים הישראלית יוויז'ן, חתמה על הסכם עם חברת מאסטוניה • שר ההגנה לשעבר של אוקראינה, השיק פרויקט לייצור צבא רובוטים • השבוע בתעשיות הביטחוניות",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1693995487/direct/Barak_MX_Launcher_dyvm85.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2bf01620c01b",
-   "kind": "headline",
-   "title": "המפעל הישראלי הראשון שייצר נשק מערבי באזרבייג'ן",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558797#utm_source=RSS",
-   "topic": "deals",
-   "published": "2026-10-08T02:38:00.000Z",
-   "summary": "חברת ארי ארמס הישראלית חנכה באזרבייג'ן מפעל רובים • חלק מתנאי העסקה היה ייצור מלא על אדמה המדינה במסגרת שאיפת אזרבייג'ן להעשיר את עצמה בטכנולוגיה וידע מהמערב • לגלובס נודע כי עסקאות עם מדינות נוספות נמצאות על סף סגירה",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791379821/azr_ijqfav.png",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ce3bf5a5e62d",
-   "kind": "headline",
-   "title": "\"מגן על הטרור ומקדם אנטישמיות\": השגריר הישראלי במתקפה חריפה על ממדאני",
-   "source": "חדשות 04",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUeEtRR0h1T0s3cUtWV2wwZ2RGc1Q3cEVvLWJjU2tQdGI1RHFDTVUtaUJKbHJVdUpNbVFtV3dTejFKM2tBbzBJdDRB?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-08T02:08:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "68997580d908",
-   "kind": "headline",
-   "title": "UK government bans goods from Israeli settlements and accuses settlers of 'ethnic cleansing'",
-   "source": "WFMZ.com",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ3RKbFNJcS1pVldZckp3b2Ftc0ZPTks4Sk10WmlNalZydE5Zc25XMDNlRzRMR2txWEhOZ2JheDlJV184QXBkMF9kVWNUUjFhM1E3S0Z2Wk5nR2t3NHhIN0Y4LWl1cnhTemlZYzV4OVEwWlctMGRiSGxGVjJtcW9wdkQySXRjZlFyRzRZTVRDSWRmVTBfQkc5dV9VU3daRTNlNDRLRDdocFdSdFNJZDRHZl9pT01hU1ZvYzB6Tzl6MGtNQ2ZmdjhmWlZwVHk5akdDTHlPT2pCTS1keWhKcUlfNTA4TGEzRnExZ1RPQVNxMGJKNWFSVjNzTElldm5JeURGN2dWZFBJaDZGTEd1NWxMN1ZtUmhJakxLS1NZRQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T02:04:48.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }

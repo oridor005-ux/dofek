@@ -165,7 +165,7 @@
   "ins-2026-10-09-fh27"
  ],
  "pending": [],
- "lastRun": "2026-10-09T13:17:08.968Z",
+ "lastRun": "2026-10-09T13:29:35.165Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -190,12 +190,12 @@
      "HTTP 403": 2
     }
    },
-   "at": "2026-10-09T12:41:39.032Z"
+   "at": "2026-10-09T13:17:28.268Z"
   },
-  "lastNewItemAt": "2026-10-09T13:17:08.968Z",
+  "lastNewItemAt": "2026-10-09T13:29:35.165Z",
   "lastPushOkAt": "2026-10-09T13:09:40.470Z",
-  "googleOkAt": "2026-10-09T12:41:39.032Z"
+  "googleOkAt": "2026-10-09T13:17:28.268Z"
  },
- "lastFullAt": "2026-10-09T12:41:39.032Z",
+ "lastFullAt": "2026-10-09T13:17:28.268Z",
  "webPushSubscribers": 2
 }
