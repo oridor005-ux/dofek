@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T05:06:42.734Z",
+ "updated": "2026-10-09T05:10:28.249Z",
  "items": [
   {
    "id": "9f8022702cb5",
@@ -25,6 +25,20 @@
    "published": "2026-10-09T05:03:39.000Z",
    "summary": "השכונה ההולנדית שנמאס לה מטיקטוק, העסק שהתפרק בשל סכסוך על 7 באוקטובר, פרויקט הענק של בבו קובו והמאבק על הבניין של פוליקר | הצמרת הכלכלית – הכתבות ‏הנצפות של השבוע",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/H1nsc6eiGl/H1nsc6eiGl_5_33_521_294_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b4385efe9dcd",
+   "kind": "headline",
+   "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
+   "topic": "world",
+   "published": "2026-10-09T05:02:57.000Z",
+   "summary": "Sagal Abdi-Wali won a special election in central London that was seen as an early test for Prime Minister Andy Burnham, Keir Starmer’s successor.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-uk-election-1-hblj/09int-uk-election-1-hblj-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -4857,6 +4871,20 @@
    "important": true
   },
   {
+   "id": "2d1fd6caa948",
+   "kind": "headline",
+   "title": "British Jewish groups hold London vigil for victims of 7 October attacks",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
+   "topic": "world",
+   "published": "2026-10-07T17:41:59.000Z",
+   "summary": "Organisations honour those who died three years ago as Andy Burnham says government stands with British Jews British Jewish organisations gathered in central London on Wednesday for a vigil honouring victims of the 7 October attacks in Israel, after a day of tributes from politicians and community…",
+   "image": "https://i.guim.co.uk/img/media/cceee07bb7174a1587ddbe2c8b1c0fbdbcfe6606/394_0_6160_4928/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=6c122b8cfc98b60befe587853271c34f",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "48f2840729bd",
    "kind": "headline",
    "title": "'Netanyahu Is A War Criminal’: Susan Collins Confronted During Troy Jackson Debate",
@@ -5616,37 +5644,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8e350d341ba1",
-   "kind": "headline",
-   "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
-   "topic": "world",
-   "published": "2026-10-07T13:28:19.000Z",
-   "summary": "A Saudi-led coalition launched a military campaign this week against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.",
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-saudi-yemen-wtk-1-jbvq/00int-saudi-yemen-wtk-1-jbvq-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7fb298622705",
-   "kind": "headline",
-   "title": "Iran parliament votes to criminalise interviews with 'hostile' foreign media",
-   "source": "Yahoo News Canada",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFF5d0xDejVjaVBiSi1nOWNrSGFCWkk0M0pDOXV1aGlIT1RJZENSQk00TG1SbHg4QlV5Z0lrYk9BelVJcks0ZURfZXlEWUhkYm9KVEY4RkhwcU1aTTU2MkFRWnFTX2RLRWlpZWJfRWNKUWpEOXhDMHByZWc4MzNBblNyWTZyZ2V4dWdNOHJ3?oc=5",
-   "topic": "world",
-   "published": "2026-10-07T13:27:42.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "Yahoo News UK",
-    "Yahoo News Singapore"
-   ],
    "important": false
   }
  ]
