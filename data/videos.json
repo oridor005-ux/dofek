@@ -1,20 +1,6 @@
 {
  "items": [
   {
-   "id": "7692894447784217864",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692894447784217864",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791141578",
-   "found": "2026-10-04T19:29:41Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692894447784217864.txt",
-   "insightIds": [
-    "ins-2026-10-04-as07"
-   ]
-  },
-  {
    "id": "7692897779106106644",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4459,12 +4445,22 @@
    "found": "2026-10-09T10:41:48Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694614697240169749.txt"
+  },
+  {
+   "id": "7694618762967878919",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694618762967878919",
+   "caption": "קמפיין השנאה של כספית נכשל: ינון מגל התנצל בפני משפחת ביבס לאחר שבן כ...",
+   "posted": "1791543045",
+   "found": "2026-10-09T10:55:59Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-09T10:41:54Z",
+  "at": "2026-10-09T10:56:12Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
