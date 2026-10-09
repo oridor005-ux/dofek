@@ -1,29 +1,6 @@
 {
  "items": [
   {
-   "id": "7692878883334540565",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7692878883334540565",
-   "caption": "על פי סקר כאן חדשות, מפלגת ‘עמך ישראל’ של עופר וינטר לא עוברת את אחוז...",
-   "posted": "1791137951",
-   "found": "2026-10-04T18:28:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692878883334540565.txt"
-  },
-  {
-   "id": "7692877682710678791",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7692877682710678791",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791137672",
-   "found": "2026-10-04T18:29:15Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692877682710678791.txt",
-   "note": "ציטוטים מפרוטוקולי קבינט 2014–2016 שלא נמצאו במקורות פתוחים; לא נבדק"
-  },
-  {
    "id": "7692884178840440082",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4471,12 +4448,33 @@
    "posted": "1791534961",
    "found": "2026-10-09T08:51:22Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694605861033118996",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7694605861033118996",
+   "caption": "זה בסדר לא להיות בסדר | עמיחי אתאלי שירות המילואים בחקירות המחבלים הפ...",
+   "posted": "1791540043",
+   "found": "2026-10-09T10:10:23Z",
+   "status": "failed"
+  },
+  {
+   "id": "7694605986111278343",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7694605986111278343",
+   "caption": "‏לאחר הסערה בימים האחרונים, ינון מגל נפגש עם קרובי משפחת ביבס וביקש ל...",
+   "posted": "1791540072",
+   "found": "2026-10-09T10:11:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694605986111278343.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T09:55:19Z",
+  "at": "2026-10-09T10:12:06Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
