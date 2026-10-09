@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:39.407Z"
+   "checkedAt": "2026-10-09T08:56:13.981Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:40.081Z"
+   "checkedAt": "2026-10-09T08:56:14.728Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:40.722Z"
+   "checkedAt": "2026-10-09T08:56:15.492Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:41.396Z"
+   "checkedAt": "2026-10-09T08:56:16.307Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:42.089Z"
+   "checkedAt": "2026-10-09T08:56:17.021Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:42.782Z"
+   "checkedAt": "2026-10-09T08:56:17.725Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:43.528Z"
+   "checkedAt": "2026-10-09T08:56:18.408Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131617,
+   "lastId": 131618,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:44.243Z"
+   "checkedAt": "2026-10-09T08:56:19.207Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74923,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:44.805Z"
+   "checkedAt": "2026-10-09T08:56:19.857Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:45.648Z"
+   "checkedAt": "2026-10-09T08:56:20.998Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T08:44:46.385Z"
+   "checkedAt": "2026-10-09T08:56:21.753Z"
   }
  },
  "posts": [
@@ -5428,13 +5428,22 @@
    "date": "2026-10-09T08:36:05+00:00",
    "text": "הדובר הצבאי של החות'ים מקבל אחריות על תקיפת שדה התעופה בריאד בירת סעודיה☝️: כוחותינו תקפו הערב את נמל התעופה המלך ח'אלד בריאד באמצעות שני טילי שיוט, את נמל התעופה נג'ראן באמצעות טיל בליסטי ואת הבסיס האווירי בח'מיס מושיט באמצעות טיל בליסטי. בחסדי אללה, הפגיעות…",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131618",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131618",
+   "date": "2026-10-09T08:47:49+00:00",
+   "text": "תקיפת שדה התעופה המלך ח'אלד בריאד בירת סעודיה☝️: רשות התעופה הסעודית מודיעה כי 3 אנשים נהרגו בתקיפה החות'ית אתמול על שדה\"ת - אחד מהם עובד של קווי התעופה הסעודים (ככל הנראה מדובר בטייס, ע\"פ מקורות לא רשמיים-א\"ע). רשות התעופה מאשרת כי מטוס נוסעים נפגע על הקרקע…",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T08:44:46.785Z",
+  "at": "2026-10-09T08:56:22.154Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 361
+  "pendingNew": 362
  }
 }
