@@ -1,52 +1,6 @@
 {
  "items": [
   {
-   "id": "7692915301083548948",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7692915301083548948",
-   "caption": "\"אמרנו שמע ישראל כי לא נותר עוד מה לעשות\": פרמדיקאית איחוד הצלה משחזר...",
-   "posted": "1791146430",
-   "found": "2026-10-05T06:59:15Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692915301083548948.txt"
-  },
-  {
-   "id": "7693072200055786772",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693072200055786772",
-   "caption": "⁨\t“אנחנו כאן להישאר”: יוצרת התוכן שירי ירדני שיתפה ברגע מרגש מריצת הז...",
-   "posted": "1791182963",
-   "found": "2026-10-05T06:59:39Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693072200055786772.txt"
-  },
-  {
-   "id": "7693058564637592853",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693058564637592853",
-   "caption": "בשעה 06:29: דגל ישראל הורד לחצי התורן במשכן הנשיא, רחבת הכנסת ובבסיס ...",
-   "posted": "1791179786",
-   "found": "2026-10-05T07:00:03Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7692894399063133458",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7692894399063133458",
-   "caption": "מתקפת השבעה באוקטובר הותירה מעל 1000 יתומים ויתומות | יעל אודם יצאה ל...",
-   "posted": "1791141563",
-   "found": "2026-10-05T07:01:11Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692894399063133458.txt",
-   "insightIds": [
-    "ins-2026-10-05-or13"
-   ]
-  },
-  {
    "id": "7693062580776062229",
    "channel": "kan_news",
    "name": "kan_news",
@@ -4469,12 +4423,55 @@
    "posted": "1791550059",
    "found": "2026-10-09T12:57:17Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694664876169366792",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694664876169366792",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791553783",
+   "found": "2026-10-09T13:54:19Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694664876169366792.txt"
+  },
+  {
+   "id": "7694662277575888135",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694662277575888135",
+   "caption": "",
+   "posted": "1791553177",
+   "found": "2026-10-09T13:54:31Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694662277575888135.txt"
+  },
+  {
+   "id": "7694661935295565063",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694661935295565063",
+   "caption": "",
+   "posted": "1791553097",
+   "found": "2026-10-09T13:54:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694661935295565063.txt"
+  },
+  {
+   "id": "7694662942305815816",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694662942305815816",
+   "caption": "כוחות החילוץ איתרו היום את גופתו של המטייל הישראלי עמי יוגב ז”ל, בן 4...",
+   "posted": "1791553332",
+   "found": "2026-10-09T13:55:05Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-09T13:27:46Z",
+  "at": "2026-10-09T13:55:25Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 4
  }
 }
