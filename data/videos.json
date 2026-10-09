@@ -1,28 +1,6 @@
 {
  "items": [
   {
-   "id": "7693062580776062229",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693062580776062229",
-   "caption": "שלוש שנים אחרי 7 באוקטובר, אלי שרעבי, ששב מהשבי ואיבד את אשתו ובנותיו...",
-   "posted": "1791183600",
-   "found": "2026-10-05T07:05:19Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693062580776062229.txt"
-  },
-  {
-   "id": "7692914561464274184",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7692914561464274184",
-   "caption": "הדירה רחוקה, אז לפחות מפנקים את עצמנו בקטן. ככה מאצ'ה, קפה ולחם הפכו ...",
-   "posted": "1791176400",
-   "found": "2026-10-05T07:07:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692914561464274184.txt"
-  },
-  {
    "id": "7693077806846053638",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4466,12 +4444,33 @@
    "posted": "1791553332",
    "found": "2026-10-09T13:55:05Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694678086104730887",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694678086104730887",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791556857",
+   "found": "2026-10-09T14:43:29Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694678086104730887.txt"
+  },
+  {
+   "id": "7694677983486823688",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694677983486823688",
+   "caption": "תיעוד מקייב: כטב\"ם רוסי מתפוצץ בגן ילדים, אזרח שהיה במקום מצליח להינצ...",
+   "posted": "1791556839",
+   "found": "2026-10-09T14:43:47Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-09T14:28:10Z",
+  "at": "2026-10-09T14:44:00Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
