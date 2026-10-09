@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T03:46:32.061Z",
+ "updated": "2026-10-09T03:59:21.292Z",
  "items": [
   {
    "id": "c41f6e11467f",
@@ -281,7 +281,9 @@
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08michigan-debate-key-moments-promo-zhjp/08michigan-debate-key-moments-promo-zhjp-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [
-    "New York Times"
+    "New York Times",
+    "The New York Times",
+    "USA Today"
    ],
    "important": false
   },
@@ -842,6 +844,20 @@
    "summary": "",
    "image": "",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "3a616b626d24",
+   "kind": "headline",
+   "title": "הבורסה בת״א בצעד מפתיע: היעד שהיא מסמנת מעבר לים",
+   "source": "ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rV3pVYVFNSEU3V3hsZ2NCQVhSdl95V1FHOHppdHgwajRwNUhZRFUtLUpXQjBCRHpDU2o1Y3V2THk4TWlsYm1QSlBCZ29JVDhPT0VZXzZHNEJqTy1MSng4?oc=5",
+   "topic": "econ",
+   "published": "2026-10-08T16:55:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5632,20 +5648,6 @@
    "score": 0,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "02b42b5e9b57",
-   "kind": "headline",
-   "title": "השווקים בשיא לקראת מבחן האינפלציה בארה\"ב: כל מה שמחכה למשקיעים השבוע בעולם",
-   "source": "פאנדר",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WYUNUQVNYNm43bGd1Q0FHRXhfOUE3THJNVGpjejdScEJkak4wNzZGVE1vOFZINXNSYVhpaFFmVG9kZVNGdHBOOTBiTUxUU195?oc=5",
-   "topic": "econ",
-   "published": "2026-10-07T11:37:16.000Z",
-   "summary": "",
-   "image": "",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }
