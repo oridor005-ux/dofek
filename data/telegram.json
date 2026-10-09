@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65649,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:01.976Z"
+   "checkedAt": "2026-10-09T09:44:27.033Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7263,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:02.717Z"
+   "checkedAt": "2026-10-09T09:44:27.709Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:03.389Z"
+   "checkedAt": "2026-10-09T09:44:28.304Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.5K",
    "lastId": 11456,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:04.132Z"
+   "checkedAt": "2026-10-09T09:44:28.941Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19336,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:04.878Z"
+   "checkedAt": "2026-10-09T09:44:29.602Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:05.580Z"
+   "checkedAt": "2026-10-09T09:44:30.210Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:06.255Z"
+   "checkedAt": "2026-10-09T09:44:30.811Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131620,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:07.038Z"
+   "checkedAt": "2026-10-09T09:44:31.469Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74924,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:07.648Z"
+   "checkedAt": "2026-10-09T09:44:32.003Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:08.392Z"
+   "checkedAt": "2026-10-09T09:44:32.643Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T09:32:09.186Z"
+   "checkedAt": "2026-10-09T09:44:33.351Z"
   }
  },
  "posts": [
@@ -197,16 +197,6 @@
    "insightIds": [
     "ins-2026-10-06-mg71"
    ]
-  },
-  {
-   "id": "knessettv/54896",
-   "channel": "knessettv",
-   "name": "ערוץ כנסת 99",
-   "url": "https://t.me/knessettv/54896",
-   "date": "2026-10-05T09:42:15+00:00",
-   "text": "\"גם בחלוף 3 שנים, כשמדינת ישראל חזקה מאי פעם, צרובות בנו השעות האיומות של מתקפת שמחת תורה\" 👇\nדבריו של ראש הממשלה בנימין נתניהו: \"בכוחות משותפים, חיילינו ומפקדנו גדעו את זרועות הטרור\"\n🕯 מתוך טקס האזכרה הממלכתי לזכר חללי המלחמה וכלל הנופלים מאז 7 באוקטובר",
-   "hasVideo": true,
-   "status": "no-claims"
   },
   {
    "id": "knessettv/54897",
@@ -5468,7 +5458,7 @@
   }
  ],
  "health": {
-  "at": "2026-10-09T09:32:09.587Z",
+  "at": "2026-10-09T09:44:33.752Z",
   "ok": 11,
   "fail": 0,
   "added": 0,
