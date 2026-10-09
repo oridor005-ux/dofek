@@ -3186,7 +3186,7 @@
    "caption": "",
    "posted": "1791455892",
    "found": "2026-10-08T10:47:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694244448301010196.txt"
   },
   {
@@ -3207,7 +3207,7 @@
    "caption": "עדן אברג'יל וחן אסולין, שאיבדו את בעליהן ב-7 באוקטובר, מספרות איך זה ...",
    "posted": "1791457200",
    "found": "2026-10-08T11:06:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694243342812450069.txt"
   },
   {
@@ -3218,7 +3218,7 @@
    "caption": "ביום השנה השלישי לטבח 7 באוקטובר, דווקא בלב סוריה הונפו דגלי ישראל ות...",
    "posted": "1791457736",
    "found": "2026-10-08T11:17:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694252347719027976.txt"
   },
   {
@@ -3229,8 +3229,11 @@
    "caption": "להביט למציאות בעיניים: הפרויקט שמציג את תיעודי הטבח פנים אל פנים אל מ...",
    "posted": "1791458136",
    "found": "2026-10-08T11:33:49Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694254079958174996.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694254079958174996.txt",
+   "insightIds": [
+    "ins-2026-10-09-yp60"
+   ]
   },
   {
    "id": "7694256561526492423",
@@ -3240,7 +3243,7 @@
    "caption": "שתפו לכולם!",
    "posted": "1791458713",
    "found": "2026-10-08T11:34:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694256561526492423.txt"
   },
   {
@@ -3261,7 +3264,7 @@
    "caption": "*\"כל מה שהרב לנדו אומר מקובל עליי. לא תשנו אותנו - ספוילר!\"*🎙️☕ בריאי...",
    "posted": "1791460189",
    "found": "2026-10-08T12:04:05Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694262901288357140.txt"
   },
   {
@@ -3282,7 +3285,7 @@
    "caption": "רצה לגרום למותם של מאות ערבים - ולהבריח לבריחתם מהארץ: הפרופסור מאוני...",
    "posted": "1791460800",
    "found": "2026-10-08T12:04:39Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694243601601088789.txt"
   },
   {
@@ -3293,8 +3296,11 @@
    "caption": "⚠️זהירות - שמאלנים⚠️ #פוליטיקה #בחירות #עושיםסדר #הדמוקרטים ",
    "posted": "1791461492",
    "found": "2026-10-08T12:19:42Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694268491658136839.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694268491658136839.txt",
+   "insightIds": [
+    "ins-2026-10-09-yg07"
+   ]
   },
   {
    "id": "7694269554406526215",
@@ -3314,7 +3320,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791461282",
    "found": "2026-10-08T12:20:30Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694267586694909202.txt"
   },
   {
@@ -3325,7 +3331,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791460958",
    "found": "2026-10-08T12:21:01Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694266183503203602.txt"
   },
   {
@@ -3336,7 +3342,7 @@
    "caption": "סרטון של ילד עזתי, לפי הרשתות זה מהשבוע האחרון. 3 שנים לשבעה באוקטובר...",
    "posted": "1791456205",
    "found": "2026-10-08T12:21:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694245787345095956.txt"
   },
   {
@@ -3347,7 +3353,7 @@
    "caption": "כל האמת בפרצוף >> @margolofficial #גיאפלג @haron_haron5",
    "posted": "1791461313",
    "found": "2026-10-08T12:22:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694267735638887701.txt"
   },
   {
@@ -3358,7 +3364,7 @@
    "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 19 ימים...",
    "posted": "1791462600",
    "found": "2026-10-08T12:33:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694261854809607442.txt"
   },
   {
@@ -3389,7 +3395,7 @@
    "caption": "יצאנו לחפש קפה ומצאנו מילואימניקים חתיכים ☕️🫡",
    "posted": "1791463839",
    "found": "2026-10-08T13:05:14Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694278576484420865.txt"
   },
   {
@@ -3410,7 +3416,7 @@
    "caption": "\"להאשים את ישראל זה כמו לגנות את ארה\"ב על ה-11 בספטמבר\". שגריר ארה\"ב ...",
    "posted": "1791464938",
    "found": "2026-10-08T13:19:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694283284771130632.txt"
   },
   {
