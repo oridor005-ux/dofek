@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692808594957389063",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7692808594957389063",
-   "caption": "קואליציית השאווישים של מנסור",
-   "posted": "1791121586",
-   "found": "2026-10-05T07:14:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692808594957389063.txt"
-  },
-  {
    "id": "7692533329614097682",
    "channel": "itamar_ben_gvir",
    "name": "itamar_ben_gvir",
@@ -4466,12 +4455,23 @@
    "found": "2026-10-09T15:13:45Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694682485883456786.txt"
+  },
+  {
+   "id": "7694292794139102484",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694292794139102484",
+   "caption": "\"אני גאון, אתה טיפש, אתה צריך לגמור את המשכנתא בכוח\": כולם מכירים את ...",
+   "posted": "1791565200",
+   "found": "2026-10-09T17:16:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694292794139102484.txt"
   }
  ],
  "health": {
-  "at": "2026-10-09T16:59:58Z",
+  "at": "2026-10-09T17:16:27Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
