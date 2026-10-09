@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:12.950Z"
+   "checkedAt": "2026-10-09T17:51:46.145Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:13.589Z"
+   "checkedAt": "2026-10-09T17:51:46.849Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:14.199Z"
+   "checkedAt": "2026-10-09T17:51:47.514Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:14.823Z"
+   "checkedAt": "2026-10-09T17:51:48.255Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:15.451Z"
+   "checkedAt": "2026-10-09T17:51:48.935Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:16.061Z"
+   "checkedAt": "2026-10-09T17:51:49.619Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:16.676Z"
+   "checkedAt": "2026-10-09T17:51:50.309Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131641,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:17.324Z"
+   "checkedAt": "2026-10-09T17:51:51.038Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74949,
+   "lastId": 74951,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:17.871Z"
+   "checkedAt": "2026-10-09T17:51:51.643Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:18.500Z"
+   "checkedAt": "2026-10-09T17:51:52.401Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T17:40:19.230Z"
+   "checkedAt": "2026-10-09T17:51:53.205Z"
   }
  },
  "posts": [
@@ -5930,13 +5930,31 @@
    "date": "2026-10-09T17:29:12+00:00",
    "text": "קאיה קאלס, שרת החוץ של האיחוד האירופאי מגינה על בית הדין הפלילי בהאג לנוכח הסנקציות האמריקאיות הצפויות: בית הדין הפלילי ה ICC הוא אבן יסוד במערכת המשפט הבינ\"ל הפלילי. ישנם 6 חודשים עד כניסת הסנקציות לתוקף - זו תהיה הזדמנות לדיאלוג. ההגנה על בית הדין נמצאת…",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74950",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74950",
+   "date": "2026-10-09T17:48:43+00:00",
+   "text": "🔴 ארה\"ב: שני בתי ספר יהודיים פונו עקב איומים על הטמנת פצצות. לא אותרו חומרי נפץ\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74951",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74951",
+   "date": "2026-10-09T17:51:46+00:00",
+   "text": "🔴 3 פצועים קשה ואחת בינוני בתאונה באזור כפר תבור בגליל התחתון\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-09T17:40:19.630Z",
+  "at": "2026-10-09T17:51:53.606Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 422
+  "added": 2,
+  "pendingNew": 424
  }
 }
