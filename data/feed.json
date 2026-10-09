@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:27:31.142Z",
+ "updated": "2026-10-09T17:39:55.019Z",
  "items": [
   {
    "id": "64d0f0a67a80",
@@ -11,6 +11,20 @@
    "published": "2026-10-09T17:12:03.000Z",
    "summary": "The European Union described the move against the International Criminal Court as \"deeply regrettable\".",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c56d22be3e74",
+   "kind": "headline",
+   "title": "New poll: 43% of likely young voters view Islamic Sharia law positively",
+   "source": "Heartlander News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTJlcG5WOFVQMS1EbVM5ODUzZm9aZzV0enVJZ1lZMGpNNDN4eWxXbE1mSnNZeV90dGl0VmR3U21zVXZaWTBuVlFLVE10VEpwNFRQaDh3WnRwbmRqYnI4Y0hubjFLVGZwQTg1TndUTk00cEtJR2lvenJ1b0ozN0k1TlpWX1VaWDZMZHpuX2FTRTJ6aWRiUXZtS2ZRUjZielU?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T17:02:21.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -142,6 +156,20 @@
    "important": false
   },
   {
+   "id": "19a152acf244",
+   "kind": "headline",
+   "title": "יום המסחר האחרון של השנה ננעל באדום. אלו המדדים שהובילו את הירידות",
+   "source": "גלובס",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NUFLcnFWaGFudmJ0RWU1dmxXQ3RaZHhWSXN3T3BVNkRMTzBuUDVlaEdRZmpteHBObmRYWHhEcjZ0a0pISmhUZlc5dVUzRUc5anMxQW9sYmpSQ0VYRDVEWThINW95Q2Rr?oc=5",
+   "topic": "econ",
+   "published": "2026-10-09T15:42:41.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "fe55b10be441",
    "kind": "headline",
    "title": "Latvia Extends Travel Restrictions for Municipal Officials to Block Russia and Belarus Entry",
@@ -212,6 +240,34 @@
    "important": false
   },
   {
+   "id": "20b26ab9defb",
+   "kind": "headline",
+   "title": "The Final Fatal Blow to International Criminal Justice: The United States Sanctions the International Criminal Court",
+   "source": "Al-Haq",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6ZTZFalVReTRoZWlrZnJUNlQ5eC1RNTB3RU04YlcwT3RYZUdGclM1UU5sNHBSUkZvdmxZY0lhczNqVFY4Q19iVk1VYld3eGlwbnZ3?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T15:22:30.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2467e85f0ea5",
+   "kind": "headline",
+   "title": "Fact check: Mike Rogers, John James shift positions on Iran war",
+   "source": "Macomb Daily",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVkdjdpcGNMQ0NLYk5HQTFNekgzR3N3bzkyWFdQMDdIcmlqejRYMHgxM0RzZ1ZxVGI0QkxNYjE5ZlZOMGdJMGNmRnU3MWl3TzZNWlA5T0FnTkFvOVpDOEZSemh1Mmg1Z19OR2xKOGpBZ2VNOFY4VEVHWEFDLVFnVHBmUks2ZjNNLXY2c1F0RTdOajh6SFhlakdvNWhBVkFpMTJB?oc=5",
+   "topic": "factcheck",
+   "published": "2026-10-09T15:08:06.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "1fc8b0b77747",
    "kind": "headline",
    "title": "Palestinian Authority Says Elections Are to Be Postponed",
@@ -263,6 +319,20 @@
    "published": "2026-10-09T14:37:24.000Z",
    "summary": "The hack left the nation’s premier law enforcement agency racing to respond as both the victim and the investigator of a murky group that threatened to expose agents’ personal information.",
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07DC-HACK-pwfq/07DC-HACK-pwfq-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "80e21c15ada3",
+   "kind": "headline",
+   "title": "Javier Moreno Zacarés, Fifteen Years Later — Sidecar",
+   "source": "New Left Review",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWG9PMEJnVnV5X1ZjSTNNS3lNR1QyYXZ5NFowOUFsYXJCTF9NT3ZKeFJ2UmkyZ0ZtUHRoT2FzMk91eHdIbFAzd3lOVUlyaU9qLXlxODJ3UWpvYmVVT01ZS1pEUm5PTWJyZHJr?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T14:34:26.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -474,6 +544,20 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjd2tTblJPTm95MU1kZkNzdFR6dXQ3VWNlUm5CLVNqZlppSkhfNVAwZktReDVYcGRiUmdhaHVrSndtYk5RclVyVXl0cWxfckhyLUZBZk1FSW9rRWdlOEp6eGk2NlV5Z0ZBSzZiR3U2VEI?oc=5",
    "topic": "world",
    "published": "2026-10-09T12:28:09.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7938a750793e",
+   "kind": "headline",
+   "title": "מדד הביטחוניות ירד מדד הנדל\"ן עלה",
+   "source": "פאנדר",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiMnU5cWFIcTBseE5NRmg3bkdRYm02ZURNZTZYVVJrWVM3ekVUenh2RmlEYXRNbWdNZ2xsMDFrVkVJcW9PblVtVUExa0RnZlhk?oc=5",
+   "topic": "econ",
+   "published": "2026-10-09T12:26:54.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -1023,6 +1107,20 @@
    "summary": "",
    "image": "",
    "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "0d140aeeabbe",
+   "kind": "headline",
+   "title": "Polish parliament approves ban on nighttime alcohol sales in shops",
+   "source": "Notes From Poland",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVl6aHM0OUFNbkZ6YVZaWFZnRFRMeFY5R0I0VVhCRFlxOW56NWxqdHZCLXlYNjE4QlFTR0trRVlBNkI1NnctMEttSWZvSmQzTDlBQUtjd1AwY0FzVU1MemZSUTdiUDdwcFllRVpWSEU2dF9Wd29GbGRLWXFxQldBa0t1eTd0M3dkUm9rSHFZTzdaNTJINkRJd2ZiakFNYUhKMkJ1UEl0VjF4UQ?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T08:46:35.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -1711,7 +1809,9 @@
    "summary": "Sagal Abdi-Wali won a special election in central London that was seen as an early test for Prime Minister Andy Burnham, Keir Starmer’s successor.",
    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-uk-election-1-hblj/09int-uk-election-1-hblj-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "The New York Times"
+   ],
    "important": false
   },
   {
@@ -2319,7 +2419,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "The New Arab"
+   ],
    "important": false
   },
   {
@@ -5533,104 +5635,6 @@
    "published": "2026-10-08T06:42:48.000Z",
    "summary": "מערכת ההשקיה היא חסינה מפני שיבושי תקשורת של לוחמה אלקטרונית, ונולדה מלקחי המלחמה. עד היום, כשהתקשורת שובשה, נאלצו אנשי הגד\"ש לרוץ לשדות, לעיתים תחת אש, ולהפעיל ידנית את ההשקיה. את המערכת, בשווי 5 מיליון שקל, פיתחה החברה הישראלית DMR",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/11/28/4303708/4303708_0_0_1000_694_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8e1e916b22a9",
-   "kind": "headline",
-   "title": "Israel Says U.K. East Jerusalem Consulate 'Ended Operations'; U.K. Denies Closure",
-   "source": "Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYUFHay05SnBQU3VLcmE3S1pWMUI4R19wdXc2Mk1BODlnTy1mX29hRUtMbk1sY0h4c18wQWRFbkdYUkYzcmxYS1k3UkMzcDBoOEFtZlNiczFiMEprMWhYQmRvQndrMnlRYjRNOEhGMGwwMVB3TGZnY05LR2g2Zm9WRENrWE83NEJGUVpRZlQwN0pob0NTSkFnS1ZBZTZPZ1BpbDg0WHpNY1hOeTZwSGs1RjVmT2dMSTVZZ2tFSWxaN2NORlhXRURZRW84MVlNOWFCVkJJdzdzZWtEd2xjRzMzSnIzUXAyQ0ZNNWJ1V01tbWhKUXpCZUxyWmpTRHJyOFF1VXVOT1M3akN6bDdYUFc0Q0ZGRzk?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-08T06:41:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "73bfbb8435bc",
-   "kind": "headline",
-   "title": "U.K. East Jerusalem consulate downgrades to mission as Israel announces closure",
-   "source": "Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYUFHay05SnBQU3VLcmE3S1pWMUI4R19wdXc2Mk1BODlnTy1mX29hRUtMbk1sY0h4c18wQWRFbkdYUkYzcmxYS1k3UkMzcDBoOEFtZlNiczFiMEprMWhYQmRvQndrMnlRYjRNOEhGMGwwMVB3TGZnY05LR2g2Zm9WRENrWE83NEJGUVpRZlQwN0pob0NTSkFnS1ZBZTZPZ1BpbDg0WHpNY1hOeTZwSGs1RjVmT2dMSTVZZ2tFSWxaN2NORlhXRURZRW84MVlNOWFCVkJJdzdzZWtEd2xjRzMzSnIzUXAyQ0ZNNWJ1V01tbWhKUXpCZUxyWmpTRHJyOFF1VXVOT1M3akN6bDdYUFc0Q0ZGRzk?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-08T06:41:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "1bfbea829f77",
-   "kind": "headline",
-   "title": "Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election",
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZS1HRjczT0VyamQ0dkZpTnRKckZCRkFjeXkzbWxiNnZtV1lMS3FBUjNzcWUyOFBNSzF3aUo4MEZvZzRhTVcyd1M2Y01CYnhsWi13eUhvTTRMeDByNFRISU5XRkY1SlgtZUVHc1NmNUpXRDluSGhZTDJOUzhBbTk1azk1OXBOcDFFRUJjZFlHVHpuWndxU1hnVjZoa01xUDV3WDVJcEplUWxaajlkYjZfTWw0Zl95MjF6Q3ZRNVROOXJMZjY2aHRHRDdtRS1Ld2ZFNHQ3cA?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-08T06:24:16.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6e023a534013",
-   "kind": "headline",
-   "title": "Family members reclaim both parliamentary seats vacated after election fraud and bribery rulings",
-   "source": "Kaniva Tonga News",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWFGel9NZFMxcTZmV045emVKcERZanRHRXA0M25NTVg1NEpIRjlvU01YRFI0LVpVVjNadWtPanlGLUdLdUNRem1nX0pNbzlHdjl3WEliSDdidHI3SV80S211c2RrQVV4LXowdDgxN01DcFNiQVd1dUYwUzBFbkFKT0wwYlJzNGt1ZHh5ajQzaGJfNURsc1FMQmlpVDU3cllMN0lwY1A5aEVxajV6dDJXdUwxNjBOSXdVTUdMazJPbE02QmUzbGQwZ1Axdw?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T06:15:12.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "fe654d04d193",
-   "kind": "headline",
-   "title": "OPINION: Coalitions need to serve communities, not politicians",
-   "source": "SABC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUpIM0JyX0FQb2txNXFydUVVZ08xcnFiOWRjSEt4WmpmWC1JZkc5UWdkQjhSTE9zMTVSUEl5MVpQQ3JuQlRDVEQ5RW1vOGQ1NmlZSGtCVzh3MFc4ejA4d3hGY2lRcTZ6c3hHWnRfbW95a2VwUjBldDNLTUd5X00yWS1VZ0xsVXlCRURsbFhKT1pVRFNCdWtwbVhkNzVYQQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T06:00:33.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "57a5a384838a",
-   "kind": "headline",
-   "title": "Denmark expands exemptions from new nitrogen rules for fruit and vegetable growers",
-   "source": "The Copenhagen Post",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUV0a05xSjgzV2dmUUdqWllnQ3gwZUp3c0dkRzYzLWE2Q3pqYXdMY2xsWWRFNC1MMy15YUNmZFM2MmEwVjV4dzY2RmtLQWd3a1ltUHVQSWpsa0FvcUluM3lST0pSVXZWM2dFZXY3QnJFNDl3TUNOQmdZMXBiWVpwUFVFc3JsQndfa0hnb0o3bmZ0TEwzSGU4SFY4NnBzaUs0NU5ad1lJamZ2X19WYTh2a2RLTU56aGVxaFFCcWdR?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T05:54:04.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "3e3d85ac932e",
-   "kind": "headline",
-   "title": "Peters wants conversion therapy ban gone, says abortion can be 'murder'",
-   "source": "1News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWw3V3Z0aDdqcHpSdlltaWpXVW1ZamhsNjMweFcxMXRoUTg0UWlrUjIzZ3kzSHNzT0lHcEd3Z0s5TExpU0tzYi1ZdFU5czgydktsOEtBYnVPSGE0TC0tUk90WHlienUyWFozZEYzdkI5TUlvM0x1Z2NXa1o0VzRlYTdla3dzRk4yekhhV2pFYVlNak53OEtFUG14ZEc2YllwVDJIY2Y2OA?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T05:50:29.000Z",
-   "summary": "",
-   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false

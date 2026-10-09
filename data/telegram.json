@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:18.879Z"
+   "checkedAt": "2026-10-09T17:28:43.716Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:19.507Z"
+   "checkedAt": "2026-10-09T17:28:44.357Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:20.121Z"
+   "checkedAt": "2026-10-09T17:28:44.955Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:20.765Z"
+   "checkedAt": "2026-10-09T17:28:45.600Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:21.414Z"
+   "checkedAt": "2026-10-09T17:28:46.200Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:22.049Z"
+   "checkedAt": "2026-10-09T17:28:46.790Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:22.660Z"
+   "checkedAt": "2026-10-09T17:28:47.388Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131640,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:23.354Z"
+   "checkedAt": "2026-10-09T17:28:48.042Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74949,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:23.909Z"
+   "checkedAt": "2026-10-09T17:28:48.578Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:24.584Z"
+   "checkedAt": "2026-10-09T17:28:49.236Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-09T17:16:25.356Z"
+   "checkedAt": "2026-10-09T17:28:49.921Z"
   }
  },
  "posts": [
@@ -115,15 +115,6 @@
    "date": "2026-10-05T18:36:56+00:00",
    "text": "עוד שקר התנפץ.\nברט מקגורק, שליחו לשעבר של הנשיא ביידן למזרח התיכון: ״מעולם לא שמעתי, ובדקתי את זה עם כמה מעמיתיי, על אזהרה מוקדמת מפני 7 באוקטובר מצד שני האנשים האלה״ (מוחמד בן זאיד נשיא האימרויות ועבאס כאמל, לשעבר ראש המודיעין המצרי)",
    "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "yosephhaddad/11412",
-   "channel": "yosephhaddad",
-   "name": "יוסף חדאד - Yoseph Haddad",
-   "url": "https://t.me/yosephhaddad/11412",
-   "date": "2026-10-05T17:22:59+00:00",
-   "text": "כנס מפלגה בתל אביב לדוברי אנגלית מול מאות אנשים 🔥",
    "status": "no-claims"
   },
   {
@@ -5933,10 +5924,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-09T17:16:25.757Z",
+  "at": "2026-10-09T17:28:50.320Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
+  "added": 0,
   "pendingNew": 421
  }
 }
