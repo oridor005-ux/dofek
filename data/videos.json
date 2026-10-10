@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "7693135940927556885",
-   "channel": "miri.regev",
-   "name": "miri.regev",
-   "url": "https://www.tiktok.com/@miri.regev/video/7693135940927556885",
-   "caption": "״אל תבכה שזה נגמר, תחייך שזה קרה״ זה הסטטוס האחרון שכתב הגיבור נווה ח...",
-   "posted": "1791197802",
-   "found": "2026-10-05T11:00:49Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693135940927556885.txt"
-  },
-  {
-   "id": "7693140180919700757",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693140180919700757",
-   "caption": "⁨\tראש ממשלת ספרד פדרו סאנצ’ס הודיע היום (שני) על נפילת הממשלה בראשותו...",
-   "posted": "1791198786",
-   "found": "2026-10-05T11:16:09Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693071114532293909",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693071114532293909",
-   "caption": "אחרי שניסיון ההוצאה להורג של כריסטה פייק נכשל, ראש מערכת בתי הכלא בטנ...",
-   "posted": "1791198000",
-   "found": "2026-10-05T11:17:41Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693071114532293909.txt",
-   "insightIds": [
-    "ins-2026-10-06-tn01"
-   ]
-  },
-  {
-   "id": "7693144553460600116",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693144553460600116",
-   "caption": "האור שממשיך לחיות: זינוק של פי 10 במספר הילדים שנקראו על שם ענר שפירא...",
-   "posted": "1791199803",
-   "found": "2026-10-05T11:46:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693144553460600116.txt"
-  },
-  {
-   "id": "7693153659231849749",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693153659231849749",
-   "caption": "יעקב גודו, אביו של תום גודו ז״ל, צעק במהלך נאום נתניהו בטקס הממלכתי ל...",
-   "posted": "1791201925",
-   "found": "2026-10-05T12:16:26Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693153659231849749.txt"
-  },
-  {
    "id": "7693152185378557205",
    "channel": "m_laradar",
    "name": "m_laradar",
@@ -4471,12 +4414,66 @@
    "posted": "1791658639",
    "found": "2026-10-10T19:10:08Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7695119348725271860",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695119348725271860",
+   "caption": "טרגדיה בבריטניה: גבר נטרף למוות על ידי טיגריס בפארק חיות אירוע קטלני ...",
+   "posted": "1791659598",
+   "found": "2026-10-10T19:24:24Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7695120535931440402",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695120535931440402",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791659874",
+   "found": "2026-10-10T19:24:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695120535931440402.txt"
+  },
+  {
+   "id": "7695119352198122760",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695119352198122760",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791659599",
+   "found": "2026-10-10T19:24:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695119352198122760.txt"
+  },
+  {
+   "id": "7695118472845692167",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695118472845692167",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791659393",
+   "found": "2026-10-10T19:25:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695118472845692167.txt"
+  },
+  {
+   "id": "7695119172392537352",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7695119172392537352",
+   "caption": "״אני גאון, אתה טיפש״: איך אשר בן עוז מצליח לחיות חיי פאר כשהוא בחובות...",
+   "posted": "1791659557",
+   "found": "2026-10-10T19:28:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695119172392537352.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T19:10:32Z",
+  "at": "2026-10-10T19:29:05Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 5
  }
 }
