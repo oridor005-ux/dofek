@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:29.270Z"
+   "checkedAt": "2026-10-10T15:36:12.505Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:29.956Z"
+   "checkedAt": "2026-10-10T15:36:13.196Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:30.621Z"
+   "checkedAt": "2026-10-10T15:36:13.816Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:31.393Z"
+   "checkedAt": "2026-10-10T15:36:14.483Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:32.072Z"
+   "checkedAt": "2026-10-10T15:36:15.147Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:32.743Z"
+   "checkedAt": "2026-10-10T15:36:15.792Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:33.397Z"
+   "checkedAt": "2026-10-10T15:36:16.439Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131674,
+   "lastId": 131676,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:34.184Z"
+   "checkedAt": "2026-10-10T15:36:17.140Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75000,
+   "lastId": 75001,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:34.777Z"
+   "checkedAt": "2026-10-10T15:36:17.702Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:35.472Z"
+   "checkedAt": "2026-10-10T15:36:18.375Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T15:24:36.209Z"
+   "checkedAt": "2026-10-10T15:36:19.041Z"
   }
  },
  "posts": [
-  {
-   "id": "Ben_Caspit/19286",
-   "channel": "ben_caspit",
-   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
-   "url": "https://t.me/Ben_Caspit/19286",
-   "date": "2026-10-06T15:31:36+00:00",
-   "text": "Israeli security assessments indicate Hamas is reinforcing rather than being defeated. Three years after Oct. 7 and ahead of elections, Netanyahu keeps repeating his promise of “total victory,” despite growing signs it remains out of reach.\nhttps://www.al-monitor.com/originals/2026/10/three-years-after-oct-7-hamas-grip-gaza-tests-netanyahus-total-victory",
-   "status": "no-claims"
-  },
   {
    "id": "ynetalerts/74695",
    "channel": "ynetalerts",
@@ -5963,13 +5954,41 @@
    "date": "2026-10-10T15:18:52+00:00",
    "text": "🔴 המשטרה: אדם אחד נעצר בחשד שירה לעבר בית בערערה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131675",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131675",
+   "date": "2026-10-10T15:31:02+00:00",
+   "text": "רויטרס מדווחת על יותר מ 12 אמבולנסים שנצפו בשדה התעופה על שם המלך ח'אלד בריאד בירת סעודיה. ## ככל הנראה מדובר באירוע רב נפגעים כתוצאה מפגיעה של טיל חות'י. כדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131676",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131676",
+   "date": "2026-10-10T15:36:03+00:00",
+   "text": "עסקת הסולר גדולה בין טראמפ לפוטין - האוקראינים זועמים וממשיכים לתקוף מתקני אנרגיה ברוסיה העסקה עליה הכריז הנשיא טראמפ אמש בעקבות שיחה עם הנשיא פוטין מטלטלת את אוקראינה ואת מדינות האיחוד האירופאי. רוסיה תייצא 300 אלף טון סולר באוקטובר וחצי מיליון טון סולר…",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75001",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75001",
+   "date": "2026-10-10T15:25:49+00:00",
+   "text": "🔴 דיווח: וויטקוף וקושנר צפויים להגיע לרוסיה בשבועיים הקרובים \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T15:24:36.610Z",
+  "at": "2026-10-10T15:36:19.441Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 458
+  "added": 3,
+  "pendingNew": 461
  }
 }
