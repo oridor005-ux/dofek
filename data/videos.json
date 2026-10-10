@@ -1,42 +1,6 @@
 {
  "items": [
   {
-   "id": "7693112051538988296",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693112051538988296",
-   "caption": "״הקשר בין העם היהודי לעדה הזרוזית - הוא קשר של אחים.״💪🏻🥀",
-   "posted": "1791192241",
-   "found": "2026-10-05T09:30:17Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693112051538988296.txt"
-  },
-  {
-   "id": "7693110080488656135",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693110080488656135",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה",
-   "posted": "1791191785",
-   "found": "2026-10-05T09:30:42Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693110080488656135.txt",
-   "insightIds": [
-    "ins-2026-10-05-sh08"
-   ]
-  },
-  {
-   "id": "7693113947515391252",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693113947515391252",
-   "caption": "\"הציבור יכריע\": איזנקוט הזמין את נתניהו לעימות בטלוויזיה יו\"ר \"ישר!\" ...",
-   "posted": "1791192679",
-   "found": "2026-10-05T09:44:53Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693113947515391252.txt"
-  },
-  {
    "id": "7693115958038105362",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4468,12 +4432,44 @@
    "found": "2026-10-10T17:53:39Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695098333286632705.txt"
+  },
+  {
+   "id": "7695098507337911572",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695098507337911572",
+   "caption": "חברת התעופה פליי דובאי מבטלת את טיסותיה לישראל לפחות עד ה-31 באוקטובר...",
+   "posted": "1791654744",
+   "found": "2026-10-10T18:08:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695098507337911572.txt"
+  },
+  {
+   "id": "7695099926673607954",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7695099926673607954",
+   "caption": "יו\"ר מפלגת עמך ישראל, עורר סערה בעקבות התבטאות בוטה נגד ראש הממשלה בנ...",
+   "posted": "1791655079",
+   "found": "2026-10-10T18:09:18Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7695099418873203988",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7695099418873203988",
+   "caption": "הצביעות של משטרת לונדון!",
+   "posted": "1791654957",
+   "found": "2026-10-10T18:10:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695099418873203988.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T17:53:46Z",
+  "at": "2026-10-10T18:10:16Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 3
  }
 }
