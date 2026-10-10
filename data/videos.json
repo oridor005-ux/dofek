@@ -1,20 +1,6 @@
 {
  "items": [
   {
-   "id": "7692783768901307666",
-   "channel": "ben_caspit",
-   "name": "ben_caspit",
-   "url": "https://www.tiktok.com/@ben_caspit/video/7692783768901307666",
-   "caption": "תרשמו לעצמכם: הניסיון לרסק את מטוס 'פליי דובאי' - הצליח, הטייס העומאנ...",
-   "posted": "1791115801",
-   "found": "2026-10-05T07:31:35Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7692783768901307666.txt",
-   "insightIds": [
-    "ins-2026-10-05-bc72"
-   ]
-  },
-  {
    "id": "7693088203942726933",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4480,12 +4466,23 @@
    "found": "2026-10-10T15:07:49Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695054542408371464.txt"
+  },
+  {
+   "id": "7695068880997387540",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695068880997387540",
+   "caption": "כל החיים הצביעו למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 17 ימים ...",
+   "posted": "1791647845",
+   "found": "2026-10-10T16:08:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695068880997387540.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T15:52:32Z",
+  "at": "2026-10-10T16:08:35Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
