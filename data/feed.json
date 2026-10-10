@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T05:19:21.675Z",
+ "updated": "2026-10-10T05:31:43.909Z",
  "items": [
   {
    "id": "8060ef0bf087",
@@ -81,6 +81,20 @@
    "published": "2026-10-10T04:07:11.000Z",
    "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/a76ba860-c459-11f1-bc2e-018d645d8d21.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "ac993e58b914",
+   "kind": "headline",
+   "title": "US Sanctions on ICC Put Global Justice at Risk (HRW)",
+   "source": "Informed Comment",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrQ091cjNGME9hUjJfMUMxamtxLWQtOER3WjJzRHhHUlFJODA2U2VTTmhaRmZ2R1daMDBBWDZzRThUZnM0enR4TG5KTldxV2VRMFFIcm1jTXo2NHVhNTBhRFZ0V19PVFlYRlVxbVpFcw?oc=5",
+   "topic": "world",
+   "published": "2026-10-10T04:06:50.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -351,7 +365,8 @@
    "alsoIn": [
     "WPEC",
     "WBFF",
-    "KOKI FOX 23"
+    "KOKI FOX 23",
+    "WLUK"
    ],
    "important": false
   },
@@ -5625,20 +5640,6 @@
    "summary": "",
    "image": "",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "cf746720774f",
-   "kind": "headline",
-   "title": "חברת הסייבר הישראלית Rein Security גייסה 25 מיליון דולר לאבטחת סוכני AI",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVW53T0pmMGRxcEdhWnNBUl9hWk5oYW5BV0RHVVNUcEJsQlA2WlhQYnQydFE5RWl1TzMyMjJJUDhRd3V1WHZCc29kLUhhVk9KZENHNXJ6OHNpcncwQWhzbEljS3hFYzY3UzE0?oc=5",
-   "topic": "deals",
-   "published": "2026-10-08T10:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
