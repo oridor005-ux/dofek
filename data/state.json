@@ -175,7 +175,7 @@
   "ins-2026-10-10-wn56"
  ],
  "pending": [],
- "lastRun": "2026-10-10T16:10:37.908Z",
+ "lastRun": "2026-10-10T16:23:00.252Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -188,28 +188,24 @@
  },
  "health": {
   "sources": {
-   "ok": 11,
-   "fail": 57,
+   "ok": 66,
+   "fail": 2,
    "light": false,
    "direct": 13,
    "directFail": 2,
    "google": 55,
-   "googleFail": 55,
+   "googleFail": 0,
    "errors": {
     "direct": {
      "HTTP 403": 2
-    },
-    "google": {
-     "HTTP 503": 1,
-     "skipped (google blocked)": 54
     }
    },
-   "at": "2026-10-10T15:36:03.466Z"
+   "at": "2026-10-10T16:10:53.536Z"
   },
-  "lastNewItemAt": "2026-10-10T16:10:37.908Z",
+  "lastNewItemAt": "2026-10-10T16:23:00.252Z",
   "lastPushOkAt": "2026-10-10T13:14:07.484Z",
-  "googleOkAt": "2026-10-10T15:00:36.746Z"
+  "googleOkAt": "2026-10-10T16:10:53.536Z"
  },
- "lastFullAt": "2026-10-10T15:36:03.466Z",
+ "lastFullAt": "2026-10-10T16:10:53.536Z",
  "webPushSubscribers": 2
 }
