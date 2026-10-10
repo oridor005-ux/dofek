@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T06:42:50.640Z",
+ "updated": "2026-10-10T06:54:20.169Z",
  "items": [
+  {
+   "id": "be390fcbe2b9",
+   "kind": "headline",
+   "title": "'Gaza is a moral tear in the universe' – Naomi Klein and Astra Taylor | Radical Thinking",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/video/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking",
+   "topic": "israelAbroad",
+   "published": "2026-10-10T06:45:50.000Z",
+   "summary": "Are we really living through ‘end times fascism’? The authors Naomi Klein and Astra Taylor think so. In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended interview. From Trump 2.0 and the rise of the tech billionaire to Gaza and the ongoing…",
+   "image": "https://i.guim.co.uk/img/media/8dbe6a00893e1afc51f12f0ced8256e1b6fd8048/687_375_2263_1811/master/2263.jpg?width=140&quality=85&auto=format&fit=max&s=56e9d427a9fa197f7f8801a0392748ff",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "3c1a13bd4dcd",
    "kind": "headline",
@@ -5627,20 +5641,6 @@
    "alsoIn": [
     "אתר החדשות דבר"
    ],
-   "important": false
-  },
-  {
-   "id": "e501dc996772",
-   "kind": "headline",
-   "title": "משרד האוצר מפרסם את נתוני ביצוע התקציב והכנסות המדינה ממיסים לחודש ספטמבר 2026",
-   "source": "פאנדר",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnQzdOXzl3a0hZcG1idjNOQnhkZDRtemdGYlJkMVNoSVg3RzQxZHJBX1RXaU5zTC1HSXVvc2tLb21QclUyZUJ3MkNPTVN5MWdz?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T10:05:22.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
