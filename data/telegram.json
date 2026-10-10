@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:51.003Z"
+   "checkedAt": "2026-10-10T02:34:24.730Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:51.688Z"
+   "checkedAt": "2026-10-10T02:34:25.364Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:52.354Z"
+   "checkedAt": "2026-10-10T02:34:25.957Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:53.048Z"
+   "checkedAt": "2026-10-10T02:34:26.581Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:53.718Z"
+   "checkedAt": "2026-10-10T02:34:27.187Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:54.406Z"
+   "checkedAt": "2026-10-10T02:34:27.790Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:55.083Z"
+   "checkedAt": "2026-10-10T02:34:28.391Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131646,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:55.815Z"
+   "checkedAt": "2026-10-10T02:34:29.058Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74965,
+   "lastId": 74966,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:56.417Z"
+   "checkedAt": "2026-10-10T02:34:29.609Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:57.130Z"
+   "checkedAt": "2026-10-10T02:34:30.235Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T02:22:57.887Z"
+   "checkedAt": "2026-10-10T02:34:30.929Z"
   }
  },
  "posts": [
@@ -6116,13 +6116,22 @@
    "date": "2026-10-10T01:58:27+00:00",
    "text": "🔴 הוריקן איסאיאס הכה בחופי ארה\"ב במהירות 165 קמ\"ש\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74966",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74966",
+   "date": "2026-10-10T02:28:47+00:00",
+   "text": "🔴 אחרי שהונה משקיעים: היזם הישראלי-אמריקני אלכס מאשינסקי ייקנס בעד 35 מיליון דולר\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T02:22:58.287Z",
+  "at": "2026-10-10T02:34:31.330Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 403
+  "added": 1,
+  "pendingNew": 404
  }
 }
