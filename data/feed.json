@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:09:59.525Z",
+ "updated": "2026-10-10T01:22:25.283Z",
  "items": [
   {
    "id": "112f9bdbe541",
@@ -156,6 +156,20 @@
    "important": false
   },
   {
+   "id": "1ed87153c706",
+   "kind": "headline",
+   "title": "The war Israel failed to prepare for after October 7",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzdXZ1Mm1ObktETUxQSXJoYnR5cTI0Y3lXRkkwVW9vM1k0UUdwd3V6cTVNSnA3U0dDNURMVThiTl9qWmk1Mi1RaTdOY3l4eFBFSG1zU05BUQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-09T20:26:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "34e0ffcf07f7",
    "kind": "headline",
    "title": "El-Sayed Again Refuses to Call Iran Greater Threat to US Than Israel During Debate",
@@ -296,7 +310,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "paNOW"
+   ],
    "important": false
   },
   {
@@ -5622,20 +5638,6 @@
    "summary": "After trading his military uniform for civilian clothes, Myanmar’s strongman president, U Min Aung Hlaing, is in Malaysia, his ninth stop on a search for international legitimacy.",
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08-int-malaysia-myanmar-01-jkct/08-int-malaysia-myanmar-01-jkct-mediumSquareAt3X.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e78b91a9f2da",
-   "kind": "headline",
-   "title": "Israel Orders U.K. Consulate in Jerusalem Closed Over West Bank Trade Ban",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/middle-east/israel-orders-u-k-consulate-in-jerusalem-closed-over-west-bank-trade-ban-aec88b46?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-08T09:05:00.000Z",
-   "summary": "The dispute centers around the U.K.’s decision to halt trade from Israeli settlements and comes as an election looms.",
-   "image": "https://images.wsj.net/im-01541601",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
