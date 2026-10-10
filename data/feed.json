@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T15:00:20.708Z",
+ "updated": "2026-10-10T15:12:42.144Z",
  "items": [
   {
    "id": "3cd52745d82d",
@@ -44,6 +44,20 @@
    "important": false
   },
   {
+   "id": "ff0361777e5e",
+   "kind": "headline",
+   "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027",
+   "source": "The Straits Times",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEJnOTFFNW9ZOUNKMldYb1FRSmdtQ24ySEFMaE8zU0I5UkNyUXdPVUZHbklUNVMyUnRpcTdlMnBzeExyQUhsTmlDUVM3TDVpdXkwdzZPM2tSYk9WUDZkSEZTZHp5V3lERnh0cGZYb0xnNlJyWXNaSUI0cjdkRkFROElZcEF3NDFqQ0UwcXFIOUpzQnZqcm5ndFA0NjRTTHlGOU9VbEZxY3Zvbl90eFpHMm82MGtKalE3YldZY2RZNzlFUXZn?oc=5",
+   "topic": "world",
+   "published": "2026-10-10T13:10:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c7f03e9ab7b4",
    "kind": "headline",
    "title": "Plea for compulsory bequest to protect orphaned grandchildren under Muslim law",
@@ -81,6 +95,20 @@
    "published": "2026-10-10T12:57:00.000Z",
    "summary": "אף שאחד ממדדי הדגל של ת\"א עלה בשיעור דו־ספרתי, רוב המניות הכלולות בו רשמו תשואה שלילית • התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי • לפני כשנה המליץ שמואל בן אריה מפיוניר על טבע ועל מניות הביטוח - וקצר תשואות פנומנליות &bull; בבנק אוף אמריקה מתארים את המחשוב…",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783593366/direct/%D7%98%D7%9C%D7%98%D7%9C%D7%94_%D7%91%D7%A9%D7%95%D7%95%D7%A7%D7%99%D7%9D_3_bndgwf.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "e8f87c36fc78",
+   "kind": "headline",
+   "title": "\"אנטישמיות והפרת אתיקה\": ההחלטה של ועדת נובל מעוררת סערה",
+   "source": "מעריב",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qczgwc3lhSlc0UkNPbFJSUUlrZHZMTWU3ajJDRWM0UXhiNDJSTjlBSTl1THMxbUY0T2FZQXR3OTE1SFZSSlYyT2ZCel9ERXp0UHY2dUVpWWxWanVzVGVNUQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-10T12:37:39.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5604,34 +5632,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "323147343666",
-   "kind": "headline",
-   "title": "QQQ בפסגה והשבבים במרכז: מהם 10 ניירות הערך הסחירים ביותר באינטראקטיב ישראל בספטמבר?",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/interactive/wallstreet/article/j88o8hmwb",
-   "topic": "econ",
-   "published": "2026-10-08T12:36:53.000Z",
-   "summary": "קרן הסל QQQ תופסת את המקום הראשון בדירוג ניירות הערך הסחירים ביותר בקרב לקוחות אינטראקטיב ישראל בחודש ספטמבר, בעוד מניות מתחומי השבבים, הזיכרונות ותשתיות ה-AI תופסות חלק גדול מהעשירייה. SNDK ומיקרון מדורגות מיד אחריה, טסלה ואנבידיה שומרות על נוכחות גבוהה, וגם SOXL נכנסת לרשימה. הדירוג מספק הצצה…",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/Sy5i7WGoGx/Sy5i7WGoGx_0_0_2000_1126_0_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5bcc5295beb1",
-   "kind": "headline",
-   "title": "מגמה מעורבת בתל אביב; נובה וטאואר מאבדות גובה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T12:35:00.000Z",
-   "summary": "ת\"א 35 יורד קלות, מדד ת\"א 90 מטפס בכ-0.8% • דוניץ צוללת בחדות במחזור מסחר ענק • יו\"ר נקסט ויז'ן בעקבות הנפילה במניה: \"יש ביקוש חזק הן בטווח המיידי והן בטווח הארוך\" • פי.סי.בי רוכשת את Gorilla Circuits בארה\"ב לפי שווי פעילות של 120 מיליון דולר • ירידות בחוזים בניו יורק • אחרי השיאים בוול סטריט:…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
