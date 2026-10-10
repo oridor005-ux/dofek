@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7693088280232922376",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693088280232922376",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791186703",
-   "found": "2026-10-05T07:58:48Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693088280232922376.txt",
-   "insightIds": [
-    "ins-2026-10-04-ns11"
-   ]
-  },
-  {
-   "id": "7693093779095620884",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693093779095620884",
-   "caption": "היום מציינים את יום הזיכרון הממלכתי לטבח ה-7 באוקטובר. עבורנו המבוגרי...",
-   "posted": "1791187989",
-   "found": "2026-10-05T08:28:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693093779095620884.txt"
-  },
-  {
    "id": "7693094844234747188",
    "channel": "m_laradar",
    "name": "m_laradar",
@@ -4477,12 +4452,33 @@
    "found": "2026-10-10T16:23:19Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695073606954470677.txt"
+  },
+  {
+   "id": "7695075459368815879",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7695075459368815879",
+   "caption": "התובע הכללי באיחוד האמירויות אישר היום (שבת) את הדיווחים לפיהם המחבל ...",
+   "posted": "1791649380",
+   "found": "2026-10-10T16:37:47Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7695077081687854356",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7695077081687854356",
+   "caption": "פגשתי יהודי אידיוט שימושי כאן בהפגנת האנטי ישראלים בלונדון!",
+   "posted": "1791649757",
+   "found": "2026-10-10T16:38:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695077081687854356.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T16:23:27Z",
+  "at": "2026-10-10T16:38:55Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 2
  }
 }
