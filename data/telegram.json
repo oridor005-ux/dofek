@@ -3,79 +3,79 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65664,
+   "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T17:58:59.092Z"
+   "checkedAt": "2026-10-10T18:10:29.156Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T17:58:59.721Z"
+   "checkedAt": "2026-10-10T18:10:29.860Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:00.312Z"
+   "checkedAt": "2026-10-10T18:10:30.562Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
-   "lastId": 11466,
+   "lastId": 11467,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:00.946Z"
+   "checkedAt": "2026-10-10T18:10:31.273Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19346,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:01.543Z"
+   "checkedAt": "2026-10-10T18:10:31.965Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:02.178Z"
+   "checkedAt": "2026-10-10T18:10:32.698Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:02.783Z"
+   "checkedAt": "2026-10-10T18:10:33.403Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131689,
+   "lastId": 131690,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:03.441Z"
+   "checkedAt": "2026-10-10T18:10:34.152Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75013,
+   "lastId": 75015,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:03.982Z"
+   "checkedAt": "2026-10-10T18:10:34.768Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:04.627Z"
+   "checkedAt": "2026-10-10T18:10:35.503Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T17:59:05.326Z"
+   "checkedAt": "2026-10-10T18:10:36.299Z"
   }
  },
  "posts": [
@@ -86,15 +86,6 @@
    "url": "https://t.me/abualiexpress/131475",
    "date": "2026-10-06T18:15:45+00:00",
    "text": "גולש עזתי בולט המתנגד לחמאס:\nفي مثل هذا اليوم قبل 3 سنوات كان اخر غروب للشمس على قطاع غزة \nولغاية الأن عايشين في الظلام و لم تشرق الشمس مره اخرى\nתרגום :\nביום הזה, לפני שלוש שנים, הייתה השקיעה האחרונה ברצועת עזה.\nמאז ועד היום אנחנו חיים בחשכה, והשמש לא זרחה שוב.\nכדי להגיב לכתבה לחצו כאן",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74703",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74703",
-   "date": "2026-10-06T18:10:08+00:00",
-   "text": "🔴 זיני הזהיר בקבינט: יש התארגנויות טרור מדאיגות מאוד בפזורה הבדואית\nלמבזק המלא ב-ynet >",
    "status": "no-claims"
   },
   {
@@ -6060,13 +6051,50 @@
    "date": "2026-10-10T17:33:12+00:00",
    "text": "&rlm;יו״ר הרשימה המשותפת, יוסף ג׳בארין: נעניק רשת ביטחון לכל ממשלה שתחליף את ממשלת נתניהו. מוכנים לנהל משא ומתן על כך",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65665",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65665",
+   "date": "2026-10-10T18:03:19+00:00",
+   "text": "״נהיה רשת ביטחון לכל ממשלה שתחליף את ממשלת נתניהו ורשת ביטחון לאופק מדיני לפלסטינים״",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131690",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131690",
+   "date": "2026-10-10T18:01:00+00:00",
+   "text": "עוד אין לכם חשבון בבנק הפועלים?\n💰 פותחים חשבון חדש ויכולים לקבל עד ₪1,750!\nלפרטים נוספים לחצו כאן >>\nhttps://track.bhtracking.net/click/9N02Clr6Gq0jex4/BkgP4910uerPCcB/Ts9N02Clr6Gq0jex4tS",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75014",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75014",
+   "date": "2026-10-10T18:02:21+00:00",
+   "text": "🔴 יו\"ר הרשימה המשותפת: \"נעניק רשת ביטחון לכל ממשלה שתחליף את נתניהו\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75015",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75015",
+   "date": "2026-10-10T18:07:48+00:00",
+   "text": "🔴 נעצר צעיר בחשד למעורבות ברצח הצעיר ברהט, בגלל ויכוח על חניה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T17:59:05.727Z",
+  "at": "2026-10-10T18:10:36.699Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 493
+  "added": 4,
+  "pendingNew": 497
  }
 }
