@@ -177,7 +177,7 @@
   "ins-2026-10-10-bn12"
  ],
  "pending": [],
- "lastRun": "2026-10-10T19:33:04.990Z",
+ "lastRun": "2026-10-10T19:44:40.111Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -204,7 +204,7 @@
    },
    "at": "2026-10-10T19:09:18.374Z"
   },
-  "lastNewItemAt": "2026-10-10T19:33:04.990Z",
+  "lastNewItemAt": "2026-10-10T19:44:40.111Z",
   "lastPushOkAt": "2026-10-10T19:09:18.374Z",
   "googleOkAt": "2026-10-10T19:09:18.374Z"
  },
