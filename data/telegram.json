@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:09.730Z"
+   "checkedAt": "2026-10-10T13:25:44.532Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:10.369Z"
+   "checkedAt": "2026-10-10T13:25:45.230Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:10.979Z"
+   "checkedAt": "2026-10-10T13:25:45.889Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:11.703Z"
+   "checkedAt": "2026-10-10T13:25:46.572Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19341,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:12.332Z"
+   "checkedAt": "2026-10-10T13:25:47.267Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:13.132Z"
+   "checkedAt": "2026-10-10T13:25:47.943Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:13.759Z"
+   "checkedAt": "2026-10-10T13:25:48.594Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131664,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:14.457Z"
+   "checkedAt": "2026-10-10T13:25:49.338Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74996,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:15.023Z"
+   "checkedAt": "2026-10-10T13:25:49.936Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:15.680Z"
+   "checkedAt": "2026-10-10T13:25:50.778Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T13:14:16.416Z"
+   "checkedAt": "2026-10-10T13:25:51.544Z"
   }
  },
  "posts": [
-  {
-   "id": "amitsegal/65560",
-   "channel": "amitsegal",
-   "name": "עמית סגל",
-   "url": "https://t.me/amitsegal/65560",
-   "date": "2026-10-06T13:21:29+00:00",
-   "text": "משבר הטיסות מהאמירויות: חברת ״פליי דובאי״ שוקלת להאריך את השהיית טיסותיה לישראל - גם אחרי 15 באוקטובר\nכך עלה בדיון היום בוועדת המשנה למודיעין בראשות ביסמוט",
-   "status": "no-claims"
-  },
   {
    "id": "amitsegal/65561",
    "channel": "amitsegal",
@@ -6102,10 +6093,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T13:14:16.816Z",
+  "at": "2026-10-10T13:25:51.944Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
+  "added": 0,
   "pendingNew": 445
  }
 }
