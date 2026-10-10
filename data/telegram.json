@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:39.696Z"
+   "checkedAt": "2026-10-10T14:26:07.336Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:40.377Z"
+   "checkedAt": "2026-10-10T14:26:07.998Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:41.024Z"
+   "checkedAt": "2026-10-10T14:26:08.624Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:41.696Z"
+   "checkedAt": "2026-10-10T14:26:09.276Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:42.385Z"
+   "checkedAt": "2026-10-10T14:26:09.922Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:43.060Z"
+   "checkedAt": "2026-10-10T14:26:10.567Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:43.727Z"
+   "checkedAt": "2026-10-10T14:26:11.223Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131668,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:44.434Z"
+   "checkedAt": "2026-10-10T14:26:11.903Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74997,
+   "lastId": 74998,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:45.030Z"
+   "checkedAt": "2026-10-10T14:26:12.467Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:45.748Z"
+   "checkedAt": "2026-10-10T14:26:13.126Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T14:13:46.538Z"
+   "checkedAt": "2026-10-10T14:26:13.858Z"
   }
  },
  "posts": [
@@ -87,24 +87,6 @@
    "date": "2026-10-06T14:28:44+00:00",
    "text": "עם הסברה נכונה אפשר לפעמים לשנות דעות אפילו של אנטי ישראלים.\nתנו לי את הכוח להיות שר ההסברה של ישראל🇮🇱",
    "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "abualiexpress/131464",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131464",
-   "date": "2026-10-06T14:22:01+00:00",
-   "text": "ארה\"ב: הסניף המקומי של \"סטודנטים למען צדק בפלסטין\" (SJP) באוניברסיטת קולומביה מארגן מחר עצרת תמיכה בחמאס לרגל ה 7.10 \nבערבית נכתב:\nהתהילה לשהידים, התנגדות עד לניצחון.\nתגובה אחת",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74690",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74690",
-   "date": "2026-10-06T14:24:48+00:00",
-   "text": "🔴 צה\"ל: \"נעשו 15 ניסיונות יזומים למעצרי עריקים בספטמבר - 8 הצליחו\"\nלמבזק המלא ב-ynet >",
    "status": "no-claims"
   },
   {
@@ -6013,13 +5995,22 @@
    "text": "תקיפות החות'ים על שדה\"ת על שם המלך ח'אלד בריאד בירת סעודיה:\nסעודיה מפנה את הטיסות לשדות אחרים באזור.\nישנם דיווחים על פינוי מוסק של פצועים מהשדה.\nייתכן שהיתה פגיעה משמעותית בשדה.\nכדי להגיב לכתבה לחצו כאן",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74998",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74998",
+   "date": "2026-10-10T14:16:10+00:00",
+   "text": "🔴 רז הרשקו זכתה במדליית הארד באליפות העולם בג'ודו \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T14:13:46.938Z",
+  "at": "2026-10-10T14:26:14.259Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 450
+  "pendingNew": 451
  }
 }
