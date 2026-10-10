@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:44.447Z"
+   "checkedAt": "2026-10-10T22:54:21.972Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:45.105Z"
+   "checkedAt": "2026-10-10T22:54:22.664Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:45.750Z"
+   "checkedAt": "2026-10-10T22:54:23.329Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11469,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:46.414Z"
+   "checkedAt": "2026-10-10T22:54:24.044Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.3K",
    "lastId": 19347,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:47.050Z"
+   "checkedAt": "2026-10-10T22:54:24.706Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:47.732Z"
+   "checkedAt": "2026-10-10T22:54:25.384Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:48.374Z"
+   "checkedAt": "2026-10-10T22:54:26.043Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131696,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:49.092Z"
+   "checkedAt": "2026-10-10T22:54:26.810Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 75027,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:49.684Z"
+   "checkedAt": "2026-10-10T22:54:27.411Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:50.382Z"
+   "checkedAt": "2026-10-10T22:54:28.103Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T22:42:51.128Z"
+   "checkedAt": "2026-10-10T22:54:28.810Z"
   }
  },
  "posts": [
-  {
-   "id": "ynetalerts/74711",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74711",
-   "date": "2026-10-06T22:49:26+00:00",
-   "text": "🔴 ואנס: איראן חייבת לצמצם את יכולת העשרת האורניום כדי לסיים את המלחמה\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "ynetalerts/74712",
    "channel": "ynetalerts",
@@ -6088,10 +6079,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T22:42:51.530Z",
+  "at": "2026-10-10T22:54:29.211Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
+  "added": 0,
   "pendingNew": 516
  }
 }

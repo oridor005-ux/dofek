@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T22:54:00.580Z",
+ "updated": "2026-10-10T23:05:35.943Z",
  "items": [
+  {
+   "id": "fb73f1e52903",
+   "kind": "headline",
+   "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+   "topic": "world",
+   "published": "2026-10-10T22:57:45.000Z",
+   "summary": "Major TV networks were notified on Friday that the department was looking into whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+   "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10biz-media-investigation-gpjh/10biz-media-investigation-gpjh-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "619400ede31b",
    "kind": "headline",
@@ -5622,20 +5636,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "32e0ad7207bb",
-   "kind": "headline",
-   "title": "Avigdor Liberman: US will recognize Palestinian state after Donald Trump leaves office in 2028",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBueVZRSExhZFpMOTV2QndQRXl2WUg4a0ZGSFIwWXF6VTlvT052TjI2U0cwZldwSjNIclVlQlJsMGtEa1hwRElSQU1LV0VUb1Rjc3p6VDJ3YTdhOUpJMERhRnl2Tm9IT2RyV0QxOG1Ob2RMd1Z3YnFOTkFhdw?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-08T15:34:10.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
