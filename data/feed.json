@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:17:02.622Z",
+ "updated": "2026-10-10T08:29:27.526Z",
  "items": [
   {
    "id": "49e61f0fd168",
@@ -800,6 +800,20 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTJlcG5WOFVQMS1EbVM5ODUzZm9aZzV0enVJZ1lZMGpNNDN4eWxXbE1mSnNZeV90dGl0VmR3U21zVXZaWTBuVlFLVE10VEpwNFRQaDh3WnRwbmRqYnI4Y0hubjFLVGZwQTg1TndUTk00cEtJR2lvenJ1b0ozN0k1TlpWX1VaWDZMZHpuX2FTRTJ6aWRiUXZtS2ZRUjZielU?oc=5",
    "topic": "world",
    "published": "2026-10-09T17:02:21.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2d1529974849",
+   "kind": "headline",
+   "title": "Read King Mohammed VI’s full speech to Morocco’s new Parliament - HESPRESS English",
+   "source": "HESPRESS English - Morocco News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXdPd1o5RWR0NkliWXV1RlkwWTFUbGRZd0QzMGdVM0UyNUlJcnNiSjhnYlRfaDNrdkJXQmo0d3FjYjZ0Wk5SSTJsLUJINDA3S1hHdVFkTnY5cVFfNG9sSzdhSF9sWWRwbWdlVVNTQk5KMjFYcF90TmxCZXBKV3RkSEsxMXI2SlF3LWpJeHI3UHl5clRpTFdhVFk4SGJWdw?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T17:00:03.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5624,20 +5638,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "21198f32b1ba",
-   "kind": "headline",
-   "title": "הגירעון נותר על 3.2% - ורגע האמת של הכלכלה הישראלית הולך ומתקרב",
-   "source": "מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11dkMtblIyWUVSeDdnVXZnTlIxZ2lpcmR6Z09VLW1qdE9CX256Tm1zT1ozWHVsZ01BM2gyYkU1UHRIUi1GYlJZcVBJbHIzM083MkxmWTB6SnlHT1lVbzFKTE9EUFJsdw?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T10:40:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
