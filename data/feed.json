@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T03:32:40.106Z",
+ "updated": "2026-10-10T03:45:03.162Z",
  "items": [
+  {
+   "id": "ff0c33572b47",
+   "kind": "headline",
+   "title": "Protesters rally in Harrisonburg against Israel's violence in Gaza | Social Issues | dnronline.com",
+   "source": "Daily News-Record",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVZvVjV2THo1WUlIM2RqeHNFcG5mczJPQ0d3QllPVDJfNlRrczdyNDlac25YUlo2emFNUmx3aXNxS0hBRzlqcEo4blByUEtaal9hQmZsUTF3bEZwcmZHeFUxWGZYcFU2Q0FrcFdLbmF6YldxNW5OQVV0bXJqRUZ4NE1EZzJqeFVPbjgwQU9obW9aaWUtd3d5aGNVMklyTUt0bmVTOGVUNWpXeFdkVVJSX1AwRy1yNzdselRFc0FqWmt3SDdVejIzMzFCa3NwaG4tSG5tSUw3LTBhcnBqNkhYaTFGMlJQbmNCc25wci1qcmVWZw?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-10T03:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9615debf2c55",
    "kind": "headline",
@@ -95,6 +109,20 @@
    "published": "2026-10-09T22:30:22.000Z",
    "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "1f74e2c788cc",
+   "kind": "headline",
+   "title": "Canada backs International Criminal Court after U.S. imposes sanctions",
+   "source": "Kelowna Courier",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjdMbjJXaEpzVXg3VVNiRm42UGF4QVhidVBtZ09tbi1BblZMQ3RDMTZSM3lYN2s2eU5MdGlJeEh6NTJHVzlMaEJkMHdNMWdWV1BUVk1MOW9hNm5WVDZFckFkNFlyQnc2VzdJaUowZGhlOUp6M0duUEFlM3Q3Nm5kSlZSOFpNdDJWWWlrV3ZzUHJDcm5MZTVBX0hSRjJXd3d3cXNzZ0ZR?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T21:41:54.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5611,34 +5639,6 @@
    "summary": "איש מכירות בחברת אופטיקה עבד מול לקוחות בדרום אמריקה ונדרש לפעילות בשעות הערב. בית הדין דחה את טענת המעסיקה שלפיה מדובר היה במשרת אמון",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/09/11/7258888/7258888_0_185_767_432_0_medium.jpg",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "664cdf43f5ac",
-   "kind": "headline",
-   "title": "ד\"ר חוסאם אבו בכר: המלחמה פגעה בתעסוקת הערבים והמשק משלם את המחיר",
-   "source": "זמן ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RRHFtSEhWMXotaWNEazNvYXJqeVhqaWltMVRRZ3JISnNUZVdfNTMyWFliRHhVdGMwOUNnbl9qR1JjRXUy?oc=5",
-   "topic": "demo",
-   "published": "2026-10-08T09:22:13.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c59c3fecca44",
-   "kind": "headline",
-   "title": "פי שלושה מסנטרל פארק: המדינה שמקימה אי מלאכותי ענק כדי להפוך למעצמת AI",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/h1yjnc4ofg",
-   "topic": "econ",
-   "published": "2026-10-08T09:22:04.000Z",
-   "summary": "במלזיה מתקיימות בימים אלה עבודות בסדר גודל אדיר כדי להקים את \"אי הסיליקון\", פרויקט שיוסיף למשק המקומי כ-269 מיליארד דולר לצד עוד מאות אלפי משרות, בניסיון לבסס את המדינה כשחקנית מרכזית בשוק השבבים העולמי בעידן הבינה המלאכותית",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/Byl9SlJrsfe/Byl9SlJrsfe_0_28_1920_1081_0_medium.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
