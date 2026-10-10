@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692745762136018196",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7692745762136018196",
-   "caption": "",
-   "posted": "1791106955",
-   "found": "2026-10-05T07:16:50Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692745762136018196.txt"
-  },
-  {
    "id": "7692530012703984916",
    "channel": "mordechaidavid2026",
    "name": "mordechaidavid2026",
@@ -4468,12 +4457,22 @@
    "found": "2026-10-10T05:45:20Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694907226900811029.txt"
+  },
+  {
+   "id": "7694919924623445269",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694919924623445269",
+   "caption": "רעידת אדמה עוצמתית הורגשה אתמול במרכז אמריקה, כך סיפרו עדי ראייה מפנמ...",
+   "posted": "1791613166",
+   "found": "2026-10-10T06:29:27Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-10T06:14:34Z",
+  "at": "2026-10-10T06:29:38Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
