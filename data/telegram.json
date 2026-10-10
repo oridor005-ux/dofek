@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:47.154Z"
+   "checkedAt": "2026-10-10T09:05:20.662Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:47.855Z"
+   "checkedAt": "2026-10-10T09:05:21.281Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:48.475Z"
+   "checkedAt": "2026-10-10T09:05:21.885Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:49.148Z"
+   "checkedAt": "2026-10-10T09:05:22.509Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:49.795Z"
+   "checkedAt": "2026-10-10T09:05:23.116Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:50.435Z"
+   "checkedAt": "2026-10-10T09:05:23.748Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:51.075Z"
+   "checkedAt": "2026-10-10T09:05:24.354Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131656,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:51.760Z"
+   "checkedAt": "2026-10-10T09:05:25.014Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74977,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:52.327Z"
+   "checkedAt": "2026-10-10T09:05:25.577Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:53.006Z"
+   "checkedAt": "2026-10-10T09:05:26.207Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T08:53:53.690Z"
+   "checkedAt": "2026-10-10T09:05:26.915Z"
   }
  },
  "posts": [
@@ -111,15 +111,6 @@
    "insightIds": [
     "ins-2026-10-06-mg71"
    ]
-  },
-  {
-   "id": "abualiexpress/131449",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131449",
-   "date": "2026-10-06T09:01:31+00:00",
-   "text": "🔥3,940₪ במקום 6,525 ₪ – נוחות מתקדמת במחיר מיוחד!\nכורסת HARMONYA החשמלית נועדה להפוך את רגעי המנוחה בבית לנוחים ומפנקים יותר,\nעם שילוב של עיצוב מוקפד, ישיבה עוטפת ואפשרויות כיוונון שמתאימות את הכורסה בדיוק אליכם.\n⚡ 3 מנועי כיוונון חשמליים לשליטה נוחה ומדויקת\n🛋️ מושב רחב ומפנק לנוחות לאורך זמן\n💆 תמיכה נעימה לגב, לצוואר ולראש\n✨ עיצוב אלגנטי ומודרני שמשתלב בקלות בסלון\nכל מה שנשאר הוא להתרווח, לבחור את התנוחה המועדפת ופשוט ליהנות. 💙\nלרכישה >> https://katzr.net/07c67b\nבתוקף עד 31.10 | מינימום 135 יח' במלאי | עלות הובלה והרכבה 349 ₪ | ניתן לאיסוף עצמי בתיאום מראש | בכפוף לתקנון",
-   "status": "no-claims"
   },
   {
    "id": "abualiexpress/131450",
@@ -6224,10 +6215,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T08:53:54.090Z",
+  "at": "2026-10-10T09:05:27.315Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
+  "added": 0,
   "pendingNew": 419
  }
 }

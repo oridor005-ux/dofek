@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T09:05:01.777Z",
+ "updated": "2026-10-10T09:16:31.822Z",
  "items": [
+  {
+   "id": "d4a2b408797b",
+   "kind": "headline",
+   "title": "Fact-Checking Senate Ads in Iowa, New Hampshire and North Carolina",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html",
+   "topic": "factcheck",
+   "published": "2026-10-10T09:01:19.000Z",
+   "summary": "We assess three campaign ads in the battleground states that have focused on the cost of living.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/00dc-factcheck-lzbf/00dc-factcheck-lzbf-mediumSquareAt3X.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "49e61f0fd168",
    "kind": "headline",
@@ -5623,20 +5637,6 @@
    "published": "2026-10-08T10:57:00.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5921a7951030",
-   "kind": "headline",
-   "title": "הבינה המלאכותית דוחקת הצידה את שאר שוק המניות",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558582#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-08T10:54:00.000Z",
-   "summary": "מניות מחוץ למגזר הטכנולוגיה צפויות להציג ביצועים חלשים, צמיחת הרווחים צפויה להאט והחששות מסיכוני אשראי צפויים לגבור",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1761497774/direct/PAGE-15-800_mcxtej.png",
    "score": 0,
    "alsoIn": [],
    "important": false
