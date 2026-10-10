@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7693164569644027156",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693164569644027156",
-   "caption": "\"עוד נשוב לכאן\": הזמרת ושורדת הנובה יובל רפאל בביצוע מצמרר בטקס הזיכר...",
-   "posted": "1791204462",
-   "found": "2026-10-05T13:02:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693164569644027156.txt"
-  },
-  {
    "id": "7693165650461674760",
    "channel": "c14news",
    "name": "c14news",
@@ -4466,12 +4455,22 @@
    "found": "2026-10-10T20:12:53Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695133080008314130.txt"
+  },
+  {
+   "id": "7695138014632234248",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7695138014632234248",
+   "caption": "הסערה סביב הצטרפות דרור עמוס לש\"ס הגיעה לשיאה בעקבות תחקיר חדשות 12 ע...",
+   "posted": "1791663947",
+   "found": "2026-10-10T20:40:17Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-10T20:25:26Z",
+  "at": "2026-10-10T20:40:33Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
