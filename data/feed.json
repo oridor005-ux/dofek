@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T12:14:15.971Z",
+ "updated": "2026-10-10T12:25:51.601Z",
  "items": [
+  {
+   "id": "873ff5839fb6",
+   "kind": "headline",
+   "title": "Ukraine Peace Talks Sputter After Trump and Putin Strike Fuel Deal",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
+   "topic": "world",
+   "published": "2026-10-10T12:13:37.000Z",
+   "summary": "Hours after President Trump said the United States would buy Russian diesel, the Kremlin said there would be no immediate resumption of discussions to end the war.",
+   "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10int-ukraine-talks-lvkq/10int-ukraine-talks-lvkq-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "b3f6d6aeffca",
    "kind": "headline",
@@ -5621,20 +5635,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a15ecc08e33f",
-   "kind": "headline",
-   "title": "סוסקוהנה מזהה פעילות זהירה באופציות למניות מגזר השבבים מאת Investing.com",
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EMTZqMGJsTWJ0VWY2ZDVPblhxYW9SdUxob1Jnam5oZFRHODZkbl9UWk5fWWlEWW5tQ3c4bDZta1JRQ051UUlFQ2lfLTNCWkZWRGEweUN2QUY1Vl9idXZaTVZXMURnWTdUSHV6TlRmNWVBTk1ZQnc?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T11:42:51.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
