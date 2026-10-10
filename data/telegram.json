@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:16.679Z"
+   "checkedAt": "2026-10-10T01:58:49.585Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:17.351Z"
+   "checkedAt": "2026-10-10T01:58:50.236Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:17.990Z"
+   "checkedAt": "2026-10-10T01:58:50.881Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11462,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:18.660Z"
+   "checkedAt": "2026-10-10T01:58:51.511Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:19.316Z"
+   "checkedAt": "2026-10-10T01:58:52.136Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:19.965Z"
+   "checkedAt": "2026-10-10T01:58:53.157Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.42K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:20.604Z"
+   "checkedAt": "2026-10-10T01:58:53.763Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131646,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:21.290Z"
+   "checkedAt": "2026-10-10T01:58:54.434Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74964,
+   "lastId": 74965,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:21.874Z"
+   "checkedAt": "2026-10-10T01:58:54.996Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:22.570Z"
+   "checkedAt": "2026-10-10T01:58:55.641Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T01:47:23.256Z"
+   "checkedAt": "2026-10-10T01:58:56.406Z"
   }
  },
  "posts": [
@@ -6107,13 +6107,22 @@
    "date": "2026-10-10T01:23:42+00:00",
    "text": "🔴 טראמפ: נורבגיה מושחתת, הייתי צריך לקבל 8 פרסי נובל\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74965",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74965",
+   "date": "2026-10-10T01:58:27+00:00",
+   "text": "🔴 הוריקן איסאיאס הכה בחופי ארה\"ב במהירות 165 קמ\"ש\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T01:47:23.656Z",
+  "at": "2026-10-10T01:58:56.806Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 402
+  "added": 1,
+  "pendingNew": 403
  }
 }
