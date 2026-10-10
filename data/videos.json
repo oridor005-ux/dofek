@@ -1,27 +1,6 @@
 {
  "items": [
   {
-   "id": "7693124989591080200",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693124989591080200",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791195251",
-   "found": "2026-10-05T10:30:32Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693124989591080200.txt"
-  },
-  {
-   "id": "7693135019086286088",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693135019086286088",
-   "caption": "בית המשפט חייב את הדס שטייף ואת המדינה לשלם לאפי נוה 450 אלף שקלים בע...",
-   "posted": "1791197587",
-   "found": "2026-10-05T11:00:32Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7693135940927556885",
    "channel": "miri.regev",
    "name": "miri.regev",
@@ -4471,12 +4450,33 @@
    "found": "2026-10-10T18:55:46Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695112448956714247.txt"
+  },
+  {
+   "id": "7695115085164956949",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695115085164956949",
+   "caption": "״אני לא מתעקש על נשיא בית המשפט העליון״. ועדת חקירה? זו רק ההתחלה. המ...",
+   "posted": "1791658605",
+   "found": "2026-10-10T19:09:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695115085164956949.txt"
+  },
+  {
+   "id": "7695115200768265479",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695115200768265479",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791658639",
+   "found": "2026-10-10T19:10:08Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-10T18:56:08Z",
+  "at": "2026-10-10T19:10:32Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 2
  }
 }
