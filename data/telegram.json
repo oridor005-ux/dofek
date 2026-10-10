@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:20.419Z"
+   "checkedAt": "2026-10-10T08:53:47.154Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:21.093Z"
+   "checkedAt": "2026-10-10T08:53:47.855Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:21.720Z"
+   "checkedAt": "2026-10-10T08:53:48.475Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:22.394Z"
+   "checkedAt": "2026-10-10T08:53:49.148Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:23.054Z"
+   "checkedAt": "2026-10-10T08:53:49.795Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:23.703Z"
+   "checkedAt": "2026-10-10T08:53:50.435Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:24.358Z"
+   "checkedAt": "2026-10-10T08:53:51.075Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131650,
+   "lastId": 131656,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:25.035Z"
+   "checkedAt": "2026-10-10T08:53:51.760Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74977,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:25.600Z"
+   "checkedAt": "2026-10-10T08:53:52.327Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:26.258Z"
+   "checkedAt": "2026-10-10T08:53:53.006Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T08:41:26.988Z"
+   "checkedAt": "2026-10-10T08:53:53.690Z"
   }
  },
  "posts": [
-  {
-   "id": "amitsegal/65552",
-   "channel": "amitsegal",
-   "name": "עמית סגל",
-   "url": "https://t.me/amitsegal/65552",
-   "date": "2026-10-06T08:51:11+00:00",
-   "text": "בצה״ל מודים שלא יזמו מעצרי עריקים בתקופת החגים, ועדכנו על חידוש האכיפה היזומה מאוקטובר",
-   "status": "no-claims"
-  },
   {
    "id": "amitsegal/65554",
    "channel": "amitsegal",
@@ -6220,13 +6211,23 @@
    "date": "2026-10-10T08:35:24+00:00",
    "text": "🔴 הפקודה בצה\"ל שהופעלה בניסיון חטיפת טיסת פליי דובאי - \"סחר עולמי\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131656",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131656",
+   "date": "2026-10-10T08:44:23+00:00",
+   "text": "טראמפ בעצרת בחירות הלילה:\nעל איראן: \"איראן תיתן לנו את כל מה שאנחנו דורשים, או שהיא תחדל להתקיים. הם יודעים את זה.\"\nעל גרינלנד: \"השגנו את גרינלנד במחיר הנכון: אפס.\"\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T08:41:27.388Z",
+  "at": "2026-10-10T08:53:54.090Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 418
+  "pendingNew": 419
  }
 }
