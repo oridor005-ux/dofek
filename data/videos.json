@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "id": "7693105271656303892",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693105271656303892",
-   "caption": "מרצה בבר אילן תכנן מתקפת טרור נגד מאות ערבים בישראל הפרקליטות הגישה כ...",
-   "posted": "1791190664",
-   "found": "2026-10-05T09:14:00Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7693109083901152513",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4470,12 +4460,23 @@
    "found": "2026-10-10T17:09:05Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695084891070876949.txt"
+  },
+  {
+   "id": "7695087782116560148",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7695087782116560148",
+   "caption": "כשמניפים תמונות של רוצחי המונים אז זו לא הפגנה לגיטימית- זו הפגנת תומ...",
+   "posted": "1791652248",
+   "found": "2026-10-10T17:23:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695087782116560148.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T17:09:26Z",
+  "at": "2026-10-10T17:23:54Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
