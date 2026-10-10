@@ -172,7 +172,7 @@
   "ins-2026-10-10-bc16"
  ],
  "pending": [],
- "lastRun": "2026-10-10T09:40:32.459Z",
+ "lastRun": "2026-10-10T09:52:08.488Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -199,7 +199,7 @@
    },
    "at": "2026-10-10T09:28:25.622Z"
   },
-  "lastNewItemAt": "2026-10-10T09:40:32.459Z",
+  "lastNewItemAt": "2026-10-10T09:52:08.488Z",
   "lastPushOkAt": "2026-10-10T07:18:30.248Z",
   "googleOkAt": "2026-10-10T09:28:25.622Z"
  },
