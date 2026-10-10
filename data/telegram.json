@@ -3,101 +3,82 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65663,
+   "lastId": 65664,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:32.931Z"
+   "checkedAt": "2026-10-10T17:35:04.392Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:33.563Z"
+   "checkedAt": "2026-10-10T17:35:05.117Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:34.173Z"
+   "checkedAt": "2026-10-10T17:35:05.817Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11466,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:34.823Z"
+   "checkedAt": "2026-10-10T17:35:06.578Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19346,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:35.423Z"
+   "checkedAt": "2026-10-10T17:35:07.261Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:36.105Z"
+   "checkedAt": "2026-10-10T17:35:08.001Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:36.721Z"
+   "checkedAt": "2026-10-10T17:35:08.686Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131688,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:37.365Z"
+   "checkedAt": "2026-10-10T17:35:09.446Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 75013,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:37.903Z"
+   "checkedAt": "2026-10-10T17:35:10.063Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:38.536Z"
+   "checkedAt": "2026-10-10T17:35:10.779Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T17:23:39.221Z"
+   "checkedAt": "2026-10-10T17:35:11.564Z"
   }
  },
  "posts": [
-  {
-   "id": "bnetanyahu/7253",
-   "channel": "bnetanyahu",
-   "name": "בנימין נתניהו",
-   "url": "https://t.me/bnetanyahu/7253",
-   "date": "2026-10-06T17:33:26+00:00",
-   "text": "יאיר גולן השותף של גדי איזנקוט חושף שוב את האמת: הם יקימו ממשלת שמאל עם המפלגות הערביות. רק הליכוד יעצור אותם.",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "abualiexpress/131474",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131474",
-   "date": "2026-10-06T17:30:30+00:00",
-   "text": "זקוקים להלוואה לכל מטרה?\nב-MAX אפשר לקבל הלוואה בריבית מעולה!\nהלוואה של עד 200,000 ש\"ח ועד 99 תשלומים.\n✅ הלוואה חוץ בנקאית שלא מכבידה על חשבון הבנק\n✅ תהליך מהיר ופשוט, 3 ימי עסקים והכסף אצלך!\n✅ ללא בטחונות וערבים\nלפרטים נוספים ולבדיקת התאמתכם לחצו כאן >>\nhttps://lp-im.com/max-loan-quiz-sp/?eid=vXUzKQJCuFughGz_awteeCqNCtpKrmj_TsvXUzKQJCuFughGztS",
-   "status": "no-claims"
-  },
   {
    "id": "ynetalerts/74700",
    "channel": "ynetalerts",
@@ -6097,13 +6078,22 @@
    "date": "2026-10-10T17:20:27+00:00",
    "text": "\"יש אנשים טובים בשני הצדדים\", היתה אמירתו המפורסמת של דונלד טראמפ אחרי שמשתתף בהפגנת פעילי ימין קיצוני, ניאו-נאצים ואנשי קו-קלוקס-קאן, רצח משתתפת בהפגנת הנגד. האמירה המקוממת היתה הטייק-אוף של טראמפ על הביטוי הידוע: \"קיצונים משני הצדדים\", המסמן גישה מתונה החותרת אל המרכז - או עמדה מיתממת הבאה להכשיר כל נבלה. תלוי, כמובן. את מי שואלים.\nבישראל של השנים האחרונות, עמדה כזו נשמעת לא אחת ביחס לאלימות פוליטית על מופעיה השונים. לא אחת, בשביל להצדיק אלימות מימין ובמיוחד \"אלימות מתנחלים\" (מושג טעון בפני עצמו). מיזם נתונים חזותי חדש, \"קיצונים משני הצדדים\", מבקש לבחון את הסוגיה במשקפיים כמותיות \n• למיזם הנתונים \"קיצונים משני הצדדים\": https://both-sides.the7eye.org.il/\n==\n📲 כל חדשות התקשורת כל היום: https://t.me/Seventh_Media\n🗞️ בלי מפרסמים שמשפיעים על התוכן. רק קוראים. תמוך/י: https://the7eye.org.il/join",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65664",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65664",
+   "date": "2026-10-10T17:33:12+00:00",
+   "text": "&rlm;יו״ר הרשימה המשותפת, יוסף ג׳בארין: נעניק רשת ביטחון לכל ממשלה שתחליף את ממשלת נתניהו. מוכנים לנהל משא ומתן על כך",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T17:23:39.621Z",
+  "at": "2026-10-10T17:35:11.965Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 492
+  "added": 1,
+  "pendingNew": 493
  }
 }
