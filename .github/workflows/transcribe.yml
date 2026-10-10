@@ -2,7 +2,7 @@ name: תמלול סרטונים
 
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'   # כל רבע שעה
+    - cron: '20 5 * * *'   # מצב חיסכון: פעם ביום ב-08:20 (שעון ישראל). רגיל: '7,22,37,52 * * * *' (כל רבע שעה)
   workflow_dispatch:
     inputs:
       test_urls:
@@ -14,6 +14,10 @@ on:
       loop:
         description: 'ריצה רציפה (מופעל אוטומטית)'
         required: false
+
+# מצב חיסכון: '1' = ריצה אחת ביום בלי שרשרת רציפה. להחזרה למצב רגיל: '0' והחזרת ה-cron.
+env:
+  LOW_MODE: '1'
 
 permissions:
   contents: write
@@ -82,7 +86,7 @@ jobs:
           git commit -m "תמלול סרטונים"
           for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
       - name: הפעלת הסבב הבא אחרי רבע שעה (שרשרת — לא תלויה בתזמון של GitHub)
-        if: ${{ always() && !inputs.test_urls && !inputs.test_channels }}
+        if: ${{ always() && !inputs.test_urls && !inputs.test_channels && env.LOW_MODE != '1' }}
         run: |
           left=$(( 900 - ($(date +%s) - START) )); [ $left -gt 0 ] && sleep $left
           curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github+json" \
