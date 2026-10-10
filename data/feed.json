@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T00:11:13.529Z",
+ "updated": "2026-10-10T00:22:48.258Z",
  "items": [
   {
    "id": "435a2874fcda",
@@ -25,6 +25,20 @@
    "published": "2026-10-09T23:01:48.000Z",
    "summary": "Adam Hamilton wants to be the first Democrat to win a Senate seat there in nearly 100 years.",
    "image": "https://static01.nyt.com/images/2026/10/09/us/09pol-onpolitics-newsletter-salt/09pol-onpolitics-newsletter-salt-mediumSquareAt3X-v3.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "de03bd9979bd",
+   "kind": "headline",
+   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-09T22:30:22.000Z",
+   "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5621,20 +5635,6 @@
    "summary": "A top aide to Ambassador Mike Huckabee skewed information to portray the Netanyahu government in a favorable light, according to multiple officials and documents obtained by The Times.",
    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/00int-usembassy-jerusalem-ltvc/00int-usembassy-jerusalem-ltvc-mediumSquareAt3X.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8220127a8f4a",
-   "kind": "headline",
-   "title": "יורם כץ: כיצד תפקדו משרד ראש הממשלה ומשרד הביטחון בארבע השנים האחרונות?",
-   "source": "זמן ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFX0otdzVWQlMwWUtPc0tFUnIyRjFfalJIX1Jrb1poOHVtVnJ1WC0wZmprWWhJSWR1Mi01V1VxNXVicHlG?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-08T08:52:58.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
