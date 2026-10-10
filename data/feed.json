@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T05:07:48.370Z",
+ "updated": "2026-10-10T05:19:21.675Z",
  "items": [
+  {
+   "id": "8060ef0bf087",
+   "kind": "headline",
+   "title": "Winston Lee, Accused in Cornell Sexual Assault Case, Is Related to Former South Korean Prime Minister",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/10/world/asia/cornell-case-winston-lee-south-korea-prime-minister.html",
+   "topic": "world",
+   "published": "2026-10-10T05:01:50.000Z",
+   "summary": "Lawyers for Winston Lee, the grandson of a former premier of South Korea, said statements by the New York attorney general may have sown prejudice against him.",
+   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/HFO00int-skorea-cornell-ftqj/HFO00int-skorea-cornell-ftqj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "4a7bb497e2ce",
    "kind": "headline",
@@ -53,6 +67,20 @@
    "published": "2026-10-10T04:21:55.000Z",
    "summary": "עדי מרצה ויזמית בתחום הטיפול, אביב חוקר ב-IBM שעשה כבר מאות ימי מילואים מאז תחילת המלחמה (״הוא יכול היה להקים סטארטאפ אבל זה עצר אותו\"). הם גרים עם ילדיהם במושב קלחים בצפון-מערב הנגב ונהנים מהקהילה (\"אין פה מכולת, אבל יש פה חנות יד שנייה שהכל קורה בה\"). משפחת לנדאוֿ–רון עלה הספה",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/rkYQO1rsGl/rkYQO1rsGl_0_0_2008_1131_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9532e3bfd34f",
+   "kind": "headline",
+   "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+   "topic": "world",
+   "published": "2026-10-10T04:07:11.000Z",
+   "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/a76ba860-c459-11f1-bc2e-018d645d8d21.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5608,34 +5636,6 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVW53T0pmMGRxcEdhWnNBUl9hWk5oYW5BV0RHVVNUcEJsQlA2WlhQYnQydFE5RWl1TzMyMjJJUDhRd3V1WHZCc29kLUhhVk9KZENHNXJ6OHNpcncwQWhzbEljS3hFYzY3UzE0?oc=5",
    "topic": "deals",
    "published": "2026-10-08T10:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c0b9d6fe0486",
-   "kind": "headline",
-   "title": "Rein Security מגייסת 25 מיליון דולר: הקרב הבא בסייבר עובר לסוכני AI",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZmxfQ3c0WWl2N0ZqZjY1MkZRNEtRQ3lmR1Z2OGpJalFLcEFlaHRNQTBSeHl3cFdRQWdYYlNrcFlHR0h6S2FHeFJVbDhRWmdnWElzbTQyYV9jUFNuZHVNRUxUblBhSWd0?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T10:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c46509ea7fcf",
-   "kind": "headline",
-   "title": "Where Jeff Hurd and Dwayne Romero stand on the top issues in Colorado’s 3rd Congressional District race",
-   "source": "The Colorado Sun",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3kyRF9FOF9aanplY3NteTd6YnFfR2puOUZhZl9iUTN4TkFRY25WNUZZRUFnQk41U3FrVDJwLWhsZjR0NmJoa2haN2dIVmFVTTFEdEdOVW0xR1BoT3YzYUFVU0tKMjBSV1R5ZHdSYlM3Wk96NkppWktrNEJFNjdZMHZsT1pncDc4QjEtRmtUODZKUWRFOWlSa2ZMaEhTRFFBSDM0?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T09:55:00.000Z",
    "summary": "",
    "image": "",
    "score": 0,
