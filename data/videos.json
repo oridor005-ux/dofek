@@ -1,20 +1,6 @@
 {
  "items": [
   {
-   "id": "7693063205588880661",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693063205588880661",
-   "caption": "לפני שנתיים נאנסה סטודנטית באוניברסיטת קורנל שבארה\"ב בידי שבעה גברים ...",
-   "posted": "1791190800",
-   "found": "2026-10-05T09:17:23Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693063205588880661.txt",
-   "insightIds": [
-    "ins-2026-10-05-crn7"
-   ]
-  },
-  {
    "id": "7693112051538988296",
    "channel": "m_laradar",
    "name": "m_laradar",
@@ -4471,12 +4457,23 @@
    "found": "2026-10-10T17:39:08Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695091652809002292.txt"
+  },
+  {
+   "id": "7695098333286632705",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7695098333286632705",
+   "caption": "",
+   "posted": "1791654703",
+   "found": "2026-10-10T17:53:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695098333286632705.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T17:39:16Z",
+  "at": "2026-10-10T17:53:46Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 2
+  "transcribed": 1
  }
 }
