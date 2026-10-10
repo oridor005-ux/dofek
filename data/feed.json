@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T10:03:39.506Z",
+ "updated": "2026-10-10T10:16:02.227Z",
  "items": [
+  {
+   "id": "a2b45db96b61",
+   "kind": "headline",
+   "title": "Quebec Independence Is Unlikely, but Some Will Still Dream",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/10/world/canada/quebec-election-parti-quebecois-separatism.html",
+   "topic": "world",
+   "published": "2026-10-10T10:00:07.000Z",
+   "summary": "The idea of independence remains deeply unpopular in Quebec, yet the separatist Parti Québécois was re-elected to a minority government this week.",
+   "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10int-canada-letter-vwjz/10int-canada-letter-vwjz-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "d4a2b408797b",
    "kind": "headline",
@@ -207,6 +221,20 @@
    "published": "2026-10-10T05:01:50.000Z",
    "summary": "Lawyers for Winston Lee, the grandson of a former premier of South Korea, said statements by the New York attorney general may have sown prejudice against him.",
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/HFO00int-skorea-cornell-ftqj/HFO00int-skorea-cornell-ftqj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "27e686f2d563",
+   "kind": "headline",
+   "title": "Tax on Quick Car Sales Will Rise to 18%: The Parliament Prepared Changes for Sole Proprietors and Car Owners",
+   "source": "Судово-юридична газета",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaG5sQWJnSVExV2lLQktVVTJMNERJbzZITFdPMDE5U3BHd0NzMFcyVlV5enZVRXV1TG9xZTFVdU5UVkNyZnNHWG1NS2VXRC1GZzhMSldUeE9LeGNsWFB3YVM4ZUw3UUVLeGNoaGlEUGRHMENLaFY5T2d3dzllS19LdUlDZFpxc2JwaExDS2FqLWpfN1BVM29HZDYtV3ZzNDZrcms4NVZHYUNxUWlQV1Bac184dWVDdFpma3ozMkRnay1nb2F4TlI3QXZkcnMxaFBJNkF3?oc=5",
+   "topic": "world",
+   "published": "2026-10-10T05:00:00.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -632,6 +660,20 @@
    "published": "2026-10-09T20:03:55.000Z",
    "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "9715eacabef6",
+   "kind": "headline",
+   "title": "Transgender across the UK",
+   "source": "Christian Action Research and Education",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OZXo4X2ZuRDlZelVKcmtWLUxrZ1UzNmItTnJ2U2x4SnFyN3pjemhIWEpGVUktMWZWdmEtQmlhcFRLdENEUThScEZmdEFkalB1YXZybkRjNkI4V08xamVzYUExSXVzcTU0aUN2eWptTlM?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T20:00:17.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5590,53 +5632,6 @@
    "published": "2026-10-08T11:06:00.000Z",
    "summary": "כותרות העיתונים בעולם: 81 מטוסים אמריקאיים נפגעו או נהרסו כליל מאז תחילת המלחמה עם איראן, בגרמניה מבקרים את ההפגנות הפרו-פלסטיניות ב-7 באוקטובר, ופעילי BDS טוענים שאייר פראנס מעבירה נשק לישראל &bull; גלובס מגיש מדי יום סקירה קצרה של ידיעות מעניינות מהתקשורת העולמית על ישראל",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791458730/AP26280561994170_yepgu6.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "0588bc762a73",
-   "kind": "headline",
-   "title": "\"נמשיך להיאבק בכיבוש\", ח\"כ כסיף הורשע בתקיפת שוטר בעת מחאה במסאפר יטא",
-   "source": "זו הדרך",
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1oOHNDem9Dbmw4SGppOTFNZHlCNmJzRm5wY3JwODJ3QlZfMTFNaWNJMDlqQnVkUGk5Q0VGRG93SW0?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-08T11:01:45.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "167ad584122b",
-   "kind": "headline",
-   "title": "Factbox-Key points in Italy's new electoral law",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVm9uVFdpRVEzMGFSRFRLclFWa3dwc1hmT2REdEFlbUhqTUVyTHhlZ2FmOElEZWNVV0xxNk9DOG1nSzNCdVVNSjZPUF81NlZ3VGlzN0FWTmRJamdOMkZqemFUWnR3cnVVT04taHJwNTR2LWl6bS0zdGxQelc0SHo3dnhBY09xTGM1RnVTY1JwX3FiVnZaUkxkc1VfTQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T10:59:03.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "The Mighty 790 KFGO",
-    "The Straits Times",
-    "Reuters",
-    "WTAQ"
-   ],
-   "important": false
-  },
-  {
-   "id": "76dd8c732a26",
-   "kind": "headline",
-   "title": "ECB’s Lane Not Seeing ‘Noticeable’ Pickup in Eurozone Wages",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/economy/global/ecbs-lane-not-seeing-noticeable-pickup-in-eurozone-wages-bec01297?mod=rss_socialeconomyfeed",
-   "topic": "world",
-   "published": "2026-10-08T10:57:00.000Z",
-   "summary": "Wages aren’t rising at a rate that would trigger inflation alarms, European Central Bank Chief Economist Philip Lane said Thursday.",
-   "image": "https://images.wsj.net/im-52079083",
    "score": 0,
    "alsoIn": [],
    "important": false

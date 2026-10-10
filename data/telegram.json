@@ -5,90 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:28.419Z"
+   "checkedAt": "2026-10-10T10:04:48.192Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:29.045Z"
+   "checkedAt": "2026-10-10T10:04:48.866Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:29.643Z"
+   "checkedAt": "2026-10-10T10:04:49.492Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:30.267Z"
+   "checkedAt": "2026-10-10T10:04:50.155Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19339,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:30.928Z"
+   "checkedAt": "2026-10-10T10:04:50.793Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:31.530Z"
+   "checkedAt": "2026-10-10T10:04:51.420Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:32.148Z"
+   "checkedAt": "2026-10-10T10:04:52.050Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131658,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:32.788Z"
+   "checkedAt": "2026-10-10T10:04:52.733Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74980,
+   "lastId": 74982,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:33.333Z"
+   "checkedAt": "2026-10-10T10:04:53.288Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8414,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:33.969Z"
+   "checkedAt": "2026-10-10T10:04:54.009Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T09:52:34.658Z"
+   "checkedAt": "2026-10-10T10:04:54.680Z"
   }
  },
  "posts": [
-  {
-   "id": "abualiexpress/131450",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131450",
-   "date": "2026-10-06T09:56:40+00:00",
-   "text": "הבמאי הלבנוני הנוצרי יוסף ח'ורי מעלה על נס את התנהלות הישראלים על טיסת פליי דובאי - הם מבינים מה זה \"ערך קיומי\".\n##\nהסרטון באדיבות ערוץ מרד החליפים.\nכדי להגיב לכתבה לחצו כאן",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
   {
    "id": "abualiexpress/131451",
    "channel": "abualiexpress",
@@ -6198,13 +6188,22 @@
    "date": "2026-10-10T09:46:03+00:00",
    "text": "🔴 בן 8 נפצע באורח קשה באזור ערד, ככה\"נ בתאונת דרכים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74982",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74982",
+   "date": "2026-10-10T09:58:37+00:00",
+   "text": "🔴 הקרמלין: \"פוטין העביר לטראמפ את עמדת איראן לפתרון הסכסוך\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T09:52:35.059Z",
+  "at": "2026-10-10T10:04:55.080Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 423
+  "pendingNew": 424
  }
 }
