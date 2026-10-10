@@ -3451,8 +3451,11 @@
    "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
    "posted": "1791469847",
    "found": "2026-10-08T14:35:21Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694304374415281416.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694304374415281416.txt",
+   "insightIds": [
+    "ins-2026-10-10-ac12"
+   ]
   },
   {
    "id": "7694303914203614482",
@@ -3562,7 +3565,7 @@
    "caption": "",
    "posted": "1791472305",
    "found": "2026-10-08T15:21:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694314927422442772.txt"
   },
   {
@@ -3584,7 +3587,7 @@
    "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
    "posted": "1791472908",
    "found": "2026-10-08T15:36:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694317526435499272.txt"
   },
   {
@@ -3595,7 +3598,7 @@
    "caption": "״ב-88' ש\"ס הייתה מפלגה חזקה, והקואליציה הייתה תלויה בה״ עשור למותו של...",
    "posted": "1791473370",
    "found": "2026-10-08T15:36:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694319516444069140.txt"
   },
   {
@@ -3606,7 +3609,7 @@
    "caption": "יובל נפצע אנושות בשבעה באוקטובר - וזה הסיפור שלו #צהל #מלחמה #חיילים ",
    "posted": "1791473726",
    "found": "2026-10-08T15:52:17Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694321026167049492.txt"
   },
   {
@@ -3627,7 +3630,7 @@
    "caption": "המפגש עם הזיכרון | עמיחי אתאלי כשהמילואים בחקירות המחבלים הציפו את טר...",
    "posted": "1791475200",
    "found": "2026-10-08T16:06:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694320325223353608.txt"
   },
   {
@@ -3638,7 +3641,7 @@
    "caption": "סרטון שהעלה טייס \"איג'יפטאייר\", בו תיעד את מטוסו מתקרב למטוס אל על במ...",
    "posted": "1791475054",
    "found": "2026-10-08T16:07:09Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694326739270388999.txt"
   },
   {
@@ -3649,7 +3652,7 @@
    "caption": "להילחם למען ישראל בזירת ההסברה זו משימת חיי עד יומי האחרון!",
    "posted": "1791474854",
    "found": "2026-10-08T16:07:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694325884907441414.txt"
   },
   {
@@ -3660,8 +3663,11 @@
    "caption": "מי שלא לומר תורה יתגייס",
    "posted": "1791476393",
    "found": "2026-10-08T16:22:07Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694332306969922868.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694332306969922868.txt",
+   "insightIds": [
+    "ins-2026-10-10-nt34"
+   ]
   },
   {
    "id": "7694331347325816084",
@@ -3671,7 +3677,7 @@
    "caption": "גם במטה משפחות החטופים לקח זמן להבין שכדי להשיג את המטרה המשותפת חייב...",
    "posted": "1791476125",
    "found": "2026-10-08T16:22:40Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694331347325816084.txt"
   },
   {
@@ -3682,7 +3688,7 @@
    "caption": "עובדים על השריר הימני 💪",
    "posted": "1791475894",
    "found": "2026-10-08T16:23:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694330341397449992.txt"
   },
   {
@@ -3693,7 +3699,7 @@
    "caption": "שתפו. לא לשכוח במי הם תומכים #פוריו #בשבילך #ימין #שמאל",
    "posted": "1791477171",
    "found": "2026-10-08T16:37:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694335820823530760.txt"
   },
   {
@@ -3714,7 +3720,7 @@
    "caption": "איומים על קבר בנו שנפל בעזה: החשיפה המטלטלת של איזנקוט בריאיון ל״ידיע...",
    "posted": "1791478290",
    "found": "2026-10-08T17:07:17Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694340635377044757.txt"
   },
   {
@@ -3725,7 +3731,7 @@
    "caption": "תשע שנים הם היו בלתי נפרדים. גדלו יחד בירושלים, שיחקו כדורגל, דיברו ב...",
    "posted": "1791478974",
    "found": "2026-10-08T17:23:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694343573088554241.txt"
   },
   {
@@ -3736,8 +3742,11 @@
    "caption": "פרק שביעי: מפלגת ״עמך ישראל״ בראשות עופר וינטר. האם אתם מצביעים למפלג...",
    "posted": "1791479604",
    "found": "2026-10-08T17:25:24Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694346286610255111.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694346286610255111.txt",
+   "insightIds": [
+    "ins-2026-10-10-wn56"
+   ]
   },
   {
    "id": "7694350386445962516",
