@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T16:46:17.910Z",
+ "updated": "2026-10-10T16:59:05.741Z",
  "items": [
   {
    "id": "6531d8dd5d5f",
@@ -1352,6 +1352,20 @@
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2hhc0VYMmxzWTd0T3RFb2VhT1FNMDNLaGZlVExJdk1iVGhjbHp2MmtHby1QcXNkQl9paThmRHoxYVhycXNRZExwVzJ6ZE1MOGN4d2l1eU5yV1Y2OFZPTzBEUnhoY1o0UG1LaGVpcjlkOXlKY19qM3hUWHZGUklXeThZZFBuY1FvQ1lJTmVPeGZWQ0Q1OUhBWVBiNWUwaHBiQnV4TF9VRVQxcEdPY1FHMUJJZklQb0c2a2xMSEkwYUdQazRrcEQwZy12TWZ4R1hHMlVRdVRUandaVmxHVGo2eQ?oc=5",
    "topic": "world",
    "published": "2026-10-09T18:00:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "497418add92b",
+   "kind": "headline",
+   "title": "King Mohammed VI: Further delays in transferring power to Morocco’s regions ‘unacceptable’ - HESPRESS English",
+   "source": "HESPRESS English - Morocco News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUko4T0YwS3NhVkNpYm9xY2pBRHhrS0s1VFNNZVhCaXJkX1RsUmw2dVY4YUpLLUExOEdLWDJnYlQ1Q0RpR1pzZTVwbEIzeTRFWkwwX1pzQmNCMnZkMk44c0F0OFp2N184OWV0OWpEN0xkZS1EdjVhVTdkQXRKZW5uVnQxNHIwQjBwRnp2YnZLdUlDRjRzSEpvVEU4T3NXOVVISUR3d0tOUFdpeTZCSkswNXpfb0ZBM0YtU3NYeFZfYw?oc=5",
+   "topic": "world",
+   "published": "2026-10-09T17:25:03.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5617,22 +5631,6 @@
    "image": "",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c5f9931e852e",
-   "kind": "headline",
-   "title": "Palestinian factions move to delay the first legislative elections in 20 years",
-   "source": "Jacksonville Journal-Courier",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejYzby1lNzRRQnRGdGtpUG9CWUpOVW80QjM2a09xTDFYYTh6dHRWX2lyMDRrclk3OVM5TEh3TWJNa2NMQUFSOU1hRU41Uk4yTGZ4anRWYkVjTFMwMkQtdWV1NzZ1LU1hWFkxR0hzMHp2Q3h0LTNaVUNfUWJZSXFpZkFKby00X1NPSEFwckJ4ME5URXUtc2I2eW9Ec3ZPUE9SSVRwNVFlazc1ejRhTWc?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T13:09:28.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "The Washington Post"
-   ],
    "important": false
   }
  ]
