@@ -5,90 +5,80 @@
    "subscribers": "369K",
    "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:09.486Z"
+   "checkedAt": "2026-10-10T18:57:45.942Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:10.201Z"
+   "checkedAt": "2026-10-10T18:57:46.607Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:10.907Z"
+   "checkedAt": "2026-10-10T18:57:47.267Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11468,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:11.614Z"
+   "checkedAt": "2026-10-10T18:57:47.957Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19346,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:12.314Z"
+   "checkedAt": "2026-10-10T18:57:48.615Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:13.013Z"
+   "checkedAt": "2026-10-10T18:57:49.276Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:13.697Z"
+   "checkedAt": "2026-10-10T18:57:49.929Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131690,
+   "lastId": 131692,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:14.417Z"
+   "checkedAt": "2026-10-10T18:57:50.646Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75015,
+   "lastId": 75016,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:15.035Z"
+   "checkedAt": "2026-10-10T18:57:51.294Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:15.733Z"
+   "checkedAt": "2026-10-10T18:57:51.959Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T18:46:16.470Z"
+   "checkedAt": "2026-10-10T18:57:52.640Z"
   }
  },
  "posts": [
-  {
-   "id": "abualiexpress/131477",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131477",
-   "date": "2026-10-06T18:52:42+00:00",
-   "text": "המהומות בפריז - גם הכתבת של פוקס ניוז הבחינה בדגל הפלסטיני בלב ההפגנה...\nתגובה אחת",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
   {
    "id": "ynetalerts/74706",
    "channel": "ynetalerts",
@@ -6010,13 +6000,42 @@
    "text": "לא נשתוק בזמן שלונדון ועוד מקומות באירופה חוזרים 80 שנה אחורה!\nWe will not remain silent as London and other places in Europe turn back the clock by 80 years!",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131691",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131691",
+   "date": "2026-10-10T18:49:12+00:00",
+   "text": "לפחות 5 מבנים הותקפו בשעות האחרונות ברצועת עזה, אחרי התרעת פינוי - הקש בגג.\nבין היעדים שהותקפו עד כה:\n1. שכונת שג'אעיה, מזרח העיר עזה : תקיפת בית בסמוך לבית הספר א-זהראא'. \n2. דיר אלבלח - מרכז הרצועה: תקיפת בית מצפון לבית החולים אלאקצא, סמוך לגן הילדים שמס א-נהאר.\n3. א-תואם, צפון מערב העיר עזה : תקיפת בית משפחת חסאן. \n4. מערב העיר עזה: תקיפת בית סמוך למאפיית אלעאא'לאת (מצורף תיעוד) . \n##\nע\"פ העזתיים בחלק מהתקיפות נעשה שימוש בפצצות חודרות בונקרים.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131692",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131692",
+   "date": "2026-10-10T18:52:43+00:00",
+   "text": "לפחות 5 מבנים הותקפו בשעות האחרונות ברצועת עזה, אחרי התרעת פינוי - הקש בגג. בין היעדים שהותקפו עד כה: 1. שכונת שג'אעיה, מזרח העיר עזה : תקיפת בית בסמוך לבית הספר א-זהראא'. 2. דיר אלבלח - מרכז הרצועה: תקיפת בית מצפון לבית החולים אלאקצא, סמוך לגן הילדים…",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75016",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75016",
+   "date": "2026-10-10T18:54:24+00:00",
+   "text": "🔴 לא ידוע מה הפעיל את האזעקה בגליל המערבי, נערכות סריקות באזור\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T18:46:16.871Z",
+  "at": "2026-10-10T18:57:53.040Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 498
+  "added": 3,
+  "pendingNew": 501
  }
 }
