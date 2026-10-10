@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T14:13:20.267Z",
+ "updated": "2026-10-10T14:24:54.118Z",
  "items": [
+  {
+   "id": "3cd52745d82d",
+   "kind": "headline",
+   "title": "Palestinian Authority Formally Delays Elections, Despite Western Pressure",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html",
+   "topic": "world",
+   "published": "2026-10-10T14:24:06.000Z",
+   "summary": "The aging Palestinian leader, Mahmoud Abbas, pushed off the planned vote until late 2027. Palestinians haven’t had major elections for about two decades.",
+   "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10palestinian-elections-lmpv/10palestinian-elections-lmpv-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "56a4716105da",
    "kind": "headline",
@@ -5621,20 +5635,6 @@
    "alsoIn": [
     "The Economic Times"
    ],
-   "important": false
-  },
-  {
-   "id": "0503a13c2006",
-   "kind": "headline",
-   "title": "Italian law to give election winners bonus seats: Why that’s controversial",
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNIX00yWXpydlF4dGRoS1VzUzUtWVZYTkUzcnRpX0V1eF9RWHJNZ3ZZLXpEM1BYTzVrdjM1eUE0M1RUYjBObGpkZzJnWVJOVHdFZEk4d3AwUUZzRVlVU2hRblR4WEhobUJoSzYyRjdXTjdiMGtya1d1RlR5eTRCZWo4MTV4dFRIcGZqanhjSHJucGtOU2N1MEM5RURjLWRrY1JhMERTeER2WHVvd0NtN2dJQdIBuAFBVV95cUxNYWpvTVAwYWJFRFZxckV0VzBzb0xraGVfZ3lXd00tOEFPXzAydmtLb2stM1lIanpOWmxsakd6QmZKdkJoekN3ZDMwRkhma2s2UmZWZFdCQi11Yks0SFl6RHJzVmhhQjc5OUJQdm5ud2lIWm1mRF9oRUJzZEVycTF1S0tmNVVxWWRkQ0tGNHZ2SDRrbVl5Z3lkOW1DRk9EWFE4RFRoUUdxdHdhS3pLMGN4eEtpSU9kajZX?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T12:12:35.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
    "important": false
   }
  ]
