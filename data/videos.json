@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7693088203942726933",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693088203942726933",
-   "caption": "מצמרר: כפר עזה, 3 שנים אחרי. 12 פעוטות בגן החדש שהוקם ונקרא \"גן נרקיס...",
-   "posted": "1791186684",
-   "found": "2026-10-05T07:58:22Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693088203942726933.txt"
-  },
-  {
    "id": "7693088280232922376",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4477,10 +4466,21 @@
    "found": "2026-10-10T16:08:05Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695068880997387540.txt"
+  },
+  {
+   "id": "7695073606954470677",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7695073606954470677",
+   "caption": "",
+   "posted": "1791648951",
+   "found": "2026-10-10T16:23:19Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695073606954470677.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T16:08:35Z",
+  "at": "2026-10-10T16:23:27Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 1
