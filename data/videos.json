@@ -1,37 +1,6 @@
 {
  "items": [
   {
-   "id": "7693124822750088456",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693124822750088456",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791195215",
-   "found": "2026-10-05T10:14:59Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693124822750088456.txt"
-  },
-  {
-   "id": "7693123777353321736",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693123777353321736",
-   "caption": "ראש הממשלה נתניהו על הצביעות של מנהיגי העולם שתוקפים את ישראל: \"אתם צ...",
-   "posted": "1791194971",
-   "found": "2026-10-05T10:15:11Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693126291289017620",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693126291289017620",
-   "caption": "קדם יותר, נחשף כי הוגש כתב אישום נגד פרופסור למתמטיקה, מרצה בבר אילן ...",
-   "posted": "1791195553",
-   "found": "2026-10-05T10:30:07Z",
-   "status": "no-speech"
-  },
-  {
    "id": "7693124989591080200",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4457,12 +4426,45 @@
    "found": "2026-10-10T18:44:41Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695109892054551829.txt"
+  },
+  {
+   "id": "7695113812269108498",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695113812269108498",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791658310",
+   "found": "2026-10-10T18:54:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695113812269108498.txt"
+  },
+  {
+   "id": "7695113647630077202",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695113647630077202",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791658274",
+   "found": "2026-10-10T18:55:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695113647630077202.txt"
+  },
+  {
+   "id": "7695112448956714247",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695112448956714247",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791657992",
+   "found": "2026-10-10T18:55:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695112448956714247.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T18:44:47Z",
+  "at": "2026-10-10T18:56:08Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 4
+  "transcribed": 3
  }
 }
