@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T05:54:47.694Z",
+ "updated": "2026-10-10T06:07:13.892Z",
  "items": [
+  {
+   "id": "e78dbc2a1881",
+   "kind": "headline",
+   "title": "כמה שווה פינוי מאוחר? בית פרטי במיתר עם פינוי בעוד שנה נמכר ב־3.35 מיליון שקל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558556#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-10T06:00:00.000Z",
+   "summary": "בית פרטי בן 6 חדרים בשכונת כלניות במיתר נמכר בהנחה של 150 אלף שקל, לאחר ארבעה חודשים על המדף &bull; לדברי המתווך, העובדה שהמוכרים יישארו בנכס עוד שנה סייעה לרוכשים להפחית את המחיר • ועוד עסקאות נדל\"ן מהשבוע האחרון",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673779128/COT_Pic/%D7%A2%D7%A1%D7%A7%D7%90%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2800_sueckz.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "8060ef0bf087",
    "kind": "headline",
@@ -331,6 +345,20 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQWdhX29rcTY1V0NIaUp0eERxVXhwQmFmWllkbUpjclRUcFdKNmg4VFZhTVEyVzlYd0lfZF9nUGhpMHl4SmtLTklFalZZd1QwV0MtYThXUGFTYy1nZFJ5Q2dBMlVWY0dXdFhjQnZEdzBhTGxIRUVJRkV3RmtRSjlTSXVMR0VTaGJSSm9uUndSTWYzQWQtZTU3emN1bTFzT0hRZ0xpTkpfOFMwYlRl?oc=5",
    "topic": "israelAbroad",
    "published": "2026-10-09T20:22:00.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "508d1738b2aa",
+   "kind": "headline",
+   "title": "Israelis are angry, resilient, and ready to reject the West’s narrative - opinion",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYQnF6VFhCejl3emhaZmR2OWs2ZmRuQ29FZllpOU94U2d2Rm50aENtS0dOeWtDZk9Jam8zWkhfMlMzOGJDTUlVa1QxTWhneHhDdmtJTzRXWQ?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-09T20:18:20.000Z",
    "summary": "",
    "image": "",
    "score": 1,
@@ -5612,34 +5640,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f8a252c1986f",
-   "kind": "headline",
-   "title": "אוקטובר 2026: הלמ\"ס מפרסם כמה ישראל הוציאה על חינוך ב-2023",
-   "source": "ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LYXdyX05ZNG1RRXIya1EwOTdjLTBNUURyc1pVcHZaS2dHZW1VaHoxTkFiblhLTnBMOUw3UEZyY0I4TlJSbV9faWhXQ2hmOUd4UEI4VzlOTEx3TFVfTnpkVFpzcUdGRlY4?oc=5",
-   "topic": "demo",
-   "published": "2026-10-08T10:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 4,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "92b0c7df80ad",
-   "kind": "headline",
-   "title": "פחות מסעדות, יותר טיסות: נתוני הלמ”ס שחושפים כך הישראלים גיהצו ביוני",
-   "source": "ספונסר",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tSmhaMGFaS04tV0Z1bUJ1SlphUlhwWHhueDV6b1hmbXBlWlpwcWk0WVgyTDZPZk1LMlNSUWZEZWJvc010V2NhMlM4UE1SOURMcXFIT3RiTmstU0MwUGxmdzNMVGlrZw?oc=5",
-   "topic": "demo",
-   "published": "2026-10-08T10:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }

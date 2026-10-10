@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:33.880Z"
+   "checkedAt": "2026-10-10T05:55:59.917Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:34.576Z"
+   "checkedAt": "2026-10-10T05:56:00.604Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:35.357Z"
+   "checkedAt": "2026-10-10T05:56:01.254Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:36.051Z"
+   "checkedAt": "2026-10-10T05:56:01.928Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:36.726Z"
+   "checkedAt": "2026-10-10T05:56:02.583Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:37.442Z"
+   "checkedAt": "2026-10-10T05:56:03.248Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:38.107Z"
+   "checkedAt": "2026-10-10T05:56:03.906Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131646,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:38.842Z"
+   "checkedAt": "2026-10-10T05:56:04.597Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74969,
+   "lastId": 74970,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:39.451Z"
+   "checkedAt": "2026-10-10T05:56:05.189Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:40.156Z"
+   "checkedAt": "2026-10-10T05:56:05.883Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T05:43:40.875Z"
+   "checkedAt": "2026-10-10T05:56:06.569Z"
   }
  },
  "posts": [
@@ -6162,13 +6162,22 @@
    "text": "הצצה מאחורי הקלעים- מסע הסברה בלונדון, 3 שנים לשבעה באוקטובר. באנו לתת בראש לאנטי ישראלים 🇮🇱🔥\nקרדיט: דניאל אדרי",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74970",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74970",
+   "date": "2026-10-10T05:46:21+00:00",
+   "text": "🔴 השירות המטאורולוגי: אזהרה מסופות רעמים וברקים בדרום הנגב, אילת והערבה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T05:43:41.275Z",
+  "at": "2026-10-10T05:56:06.971Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 408
+  "added": 1,
+  "pendingNew": 409
  }
 }
