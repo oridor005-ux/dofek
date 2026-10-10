@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:29.156Z"
+   "checkedAt": "2026-10-10T18:22:05.549Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:29.860Z"
+   "checkedAt": "2026-10-10T18:22:06.297Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:30.562Z"
+   "checkedAt": "2026-10-10T18:22:07.031Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11467,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:31.273Z"
+   "checkedAt": "2026-10-10T18:22:07.778Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19346,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:31.965Z"
+   "checkedAt": "2026-10-10T18:22:08.510Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:32.698Z"
+   "checkedAt": "2026-10-10T18:22:09.220Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:33.403Z"
+   "checkedAt": "2026-10-10T18:22:09.936Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131690,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:34.152Z"
+   "checkedAt": "2026-10-10T18:22:10.690Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 75015,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:34.768Z"
+   "checkedAt": "2026-10-10T18:22:11.308Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:35.503Z"
+   "checkedAt": "2026-10-10T18:22:12.112Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T18:10:36.299Z"
+   "checkedAt": "2026-10-10T18:22:12.893Z"
   }
  },
  "posts": [
-  {
-   "id": "abualiexpress/131475",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131475",
-   "date": "2026-10-06T18:15:45+00:00",
-   "text": "גולש עזתי בולט המתנגד לחמאס:\nفي مثل هذا اليوم قبل 3 سنوات كان اخر غروب للشمس على قطاع غزة \nولغاية الأن عايشين في الظلام و لم تشرق الشمس مره اخرى\nתרגום :\nביום הזה, לפני שלוש שנים, הייתה השקיעה האחרונה ברצועת עזה.\nמאז ועד היום אנחנו חיים בחשכה, והשמש לא זרחה שוב.\nכדי להגיב לכתבה לחצו כאן",
-   "status": "no-claims"
-  },
   {
    "id": "bnetanyahu/7254",
    "channel": "bnetanyahu",
@@ -107,27 +98,6 @@
    "text": "צפו בנאום המלא שנשאתי בהר הזיתים בירושלים, בפני יותר מ-1,000 מנהיגים נוצרים מ-117 מדינות שהגיעו לארץ בהובלת משרד החוץ☝🏽",
    "hasVideo": true,
    "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74704",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74704",
-   "date": "2026-10-06T18:22:03+00:00",
-   "text": "🔴 רשות האוכלוסין: הפרסומים ש-1,200 אנשי צוות ממדינות עוינות נכנסו לישראל - שקר\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "shakuf/11063",
-   "channel": "shakuf",
-   "name": "שקוף - חדשות, שקיפות, אקטיביזם",
-   "url": "https://t.me/shakuf/11063",
-   "date": "2026-10-06T18:19:15+00:00",
-   "text": "בדקנו 10 מקרים מהעולם שבהם אחריות פוליטית לא נשארה סיסמה.\nשרת הבריאות בפורטוגל התפטרה אחרי ביקורת על סגירת שירותי חירום ליולדות, ועל רקע מותה של אישה הרה במהלך העברה באמבולנס. שר בדנמרק התפטר אחרי החלטה ממשלתית לא חוקית. בבריטניה שרים הודחו או פרשו בעקבות הפרות של הקוד המיניסטריאלי.\nאחרי המחדל בטיסת פליי דובאי, הגיע הזמן לשאול: למה מירי רגב עדיין בתפקיד?\nלכתבה של שבי גטניו >> https://shakuf.co.il/64951\n==\n💙 הצטרפו לנבחרת המו״לים שלנו: https://shakuf.co.il/join\n👋 לעדכוני \"שקוף\" בטלגרם: https://t.me/shakuf",
-   "status": "checked",
-   "insightIds": [
-    "ins-2026-10-07-sk63"
-   ]
   },
   {
    "id": "amitsegal/65571",
@@ -6091,10 +6061,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T18:10:36.699Z",
+  "at": "2026-10-10T18:22:13.294Z",
   "ok": 11,
   "fail": 0,
-  "added": 4,
+  "added": 0,
   "pendingNew": 497
  }
 }
