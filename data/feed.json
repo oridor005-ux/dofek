@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T12:49:51.369Z",
+ "updated": "2026-10-10T13:01:22.176Z",
  "items": [
+  {
+   "id": "5a713060d5b7",
+   "kind": "headline",
+   "title": "הפרדוקס במדד ת\"א 125 - ועוד 4 כתבות על המצב בשווקים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558851#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-10T12:57:00.000Z",
+   "summary": "אף שאחד ממדדי הדגל של ת\"א עלה בשיעור דו־ספרתי, רוב המניות הכלולות בו רשמו תשואה שלילית • התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי • לפני כשנה המליץ שמואל בן אריה מפיוניר על טבע ועל מניות הביטוח - וקצר תשואות פנומנליות &bull; בבנק אוף אמריקה מתארים את המחשוב…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783593366/direct/%D7%98%D7%9C%D7%98%D7%9C%D7%94_%D7%91%D7%A9%D7%95%D7%95%D7%A7%D7%99%D7%9D_3_bndgwf.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "873ff5839fb6",
    "kind": "headline",
@@ -5617,25 +5631,6 @@
    "image": "",
    "score": 0,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "2c3af93258a8",
-   "kind": "headline",
-   "title": "Italy’s parliament gives final approval to Meloni’s electoral reform",
-   "source": "CoastTV",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDlHbkdLdEdkeFZSUTVCSDVwbkROaVVNZWprZUloWGU5cThxZ19FaTZTX3NmQUk2eHpxXzcxZExPVEdxUUZwb1FJZ0lTNEN2VkMzSk5GVjVDZExkalRNZ2dQUXRrX0JGdnV3SG1LZk1PMnpvNC1GQWg1dHllSmh4SVliWU1jdk40VW54RHNpWkRHeDRwZ2FGR1NaVlExaHQ1NGNxS2ZLSGo4eHVYUFRyLUprZzZZLU1EOUViQlQ4SGZWZFA5dWU5X3BOSy1UREk3VnF4aFExNEUtMXdQdFNobVNQSzVVZWY2?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T11:46:22.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [
-    "The Edwardsville Intelligencer",
-    "WSLS",
-    "Stamford Advocate",
-    "Bozeman Daily Chronicle"
-   ],
    "important": false
   }
  ]
