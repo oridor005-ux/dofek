@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:38.148Z"
+   "checkedAt": "2026-10-10T14:49:07.733Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:38.778Z"
+   "checkedAt": "2026-10-10T14:49:08.402Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:39.387Z"
+   "checkedAt": "2026-10-10T14:49:09.054Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:40.019Z"
+   "checkedAt": "2026-10-10T14:49:09.718Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:40.636Z"
+   "checkedAt": "2026-10-10T14:49:10.364Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:41.249Z"
+   "checkedAt": "2026-10-10T14:49:10.990Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:41.837Z"
+   "checkedAt": "2026-10-10T14:49:11.606Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131669,
+   "lastId": 131673,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:42.613Z"
+   "checkedAt": "2026-10-10T14:49:12.342Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74998,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:43.157Z"
+   "checkedAt": "2026-10-10T14:49:12.916Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:43.830Z"
+   "checkedAt": "2026-10-10T14:49:13.580Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T14:37:44.513Z"
+   "checkedAt": "2026-10-10T14:49:14.242Z"
   }
  },
  "posts": [
-  {
-   "id": "amitsegal/65565",
-   "channel": "amitsegal",
-   "name": "עמית סגל",
-   "url": "https://t.me/amitsegal/65565",
-   "date": "2026-10-06T14:47:12+00:00",
-   "text": "הרמטכ\"ל, המפכ\"ל וראש השב\"כ נפגשו להערכת מצב משותפת, כהיערכות \"לתקופה הרגישה בשבועות הקרובים\", במטרה להבטיח את קיום הבחירות",
-   "status": "no-claims"
-  },
   {
    "id": "Ben_Caspit/19284",
    "channel": "ben_caspit",
@@ -5984,13 +5975,41 @@
    "date": "2026-10-10T14:32:40+00:00",
    "text": "הרוג עזתי נוסף, שביעי, בתקיפת כטב\"מ שלישית בשעות האחרונות בעיר עזה. התקיפה התרחשה באזור שכונת דרג' (מערב תפאח). מלבד ההרוג ישנם מספר פצועים. 3 תגובות",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131671",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131671",
+   "date": "2026-10-10T14:39:10+00:00",
+   "text": "הרוג עזתי שמיני להיום בתקיפות כטב\"מ ברצועת עזה: לפני זמן קצר תקף כטב\"מ ישראלי אופנוע שנסע על ציר צלאח א-דין במרכז הרצועה - הרוג ומספר פצועים במקום. 8 הרוגים בארבע תקיפות כטב\"מ ברצועת עזה מאז שעות הצהריים. כדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131672",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131672",
+   "date": "2026-10-10T14:40:28+00:00",
+   "text": "ההרוג בתקיפת האופנוע☝️ על ציר צלאח א-דין הוא וג'די א-צוצ, בעל עסק חלפנות כספים בשם \"וטן\" בנציראת במרכז הרצועה. כנראה סייע בהעברת כספים לחמאס ובמימון טרור. כדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131673",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131673",
+   "date": "2026-10-10T14:47:27+00:00",
+   "text": "תקיפות החות'ים על שדה\"ת על שם המלך ח'אלד בריאד בירת סעודיה: סעודיה מפנה את הטיסות לשדות אחרים באזור. ישנם דיווחים על פינוי מוסק של פצועים מהשדה. ייתכן שהיתה פגיעה משמעותית בשדה. כדי להגיב לכתבה לחצו כאן",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T14:37:44.914Z",
+  "at": "2026-10-10T14:49:14.643Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 452
+  "added": 3,
+  "pendingNew": 455
  }
 }
