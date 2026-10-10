@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:04.823Z"
+   "checkedAt": "2026-10-10T12:38:37.904Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:05.469Z"
+   "checkedAt": "2026-10-10T12:38:38.551Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:06.092Z"
+   "checkedAt": "2026-10-10T12:38:39.170Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:06.739Z"
+   "checkedAt": "2026-10-10T12:38:39.821Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19340,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:07.351Z"
+   "checkedAt": "2026-10-10T12:38:40.445Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:07.989Z"
+   "checkedAt": "2026-10-10T12:38:41.078Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:08.704Z"
+   "checkedAt": "2026-10-10T12:38:41.722Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131664,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:09.424Z"
+   "checkedAt": "2026-10-10T12:38:42.418Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74993,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:09.982Z"
+   "checkedAt": "2026-10-10T12:38:42.977Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:10.632Z"
+   "checkedAt": "2026-10-10T12:38:43.695Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T12:27:11.315Z"
+   "checkedAt": "2026-10-10T12:38:44.390Z"
   }
  },
  "posts": [
@@ -87,15 +87,6 @@
    "date": "2026-10-06T12:39:16+00:00",
    "text": "נשיא סוריה, אחמד א-שרע נחת בסעודיה לביקור רשמי, במהלכו הוא צפוי להיפגש עם יורש העצר הסעודי, מחמד בן סלמאן.\nכדי להגיב לכתבה לחצו כאן",
    "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74679",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74679",
-   "date": "2026-10-06T12:34:43+00:00",
-   "text": "🔴 בריטניה: נעצר חשוד נוסף ב\"הכנת פעולות טרור\" בבסיס המפציצים\nלמבזק המלא ב-ynet >",
    "status": "no-claims"
   },
   {
@@ -6161,10 +6152,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T12:27:11.715Z",
+  "at": "2026-10-10T12:38:44.791Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
+  "added": 0,
   "pendingNew": 441
  }
 }
