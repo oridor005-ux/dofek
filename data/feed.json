@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T19:08:59.064Z",
+ "updated": "2026-10-10T19:09:18.374Z",
  "items": [
+  {
+   "id": "81aea2181fa1",
+   "kind": "headline",
+   "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlZFUVF0ZlRaYTl2SE43TFN6ZEZpWnpZWmV5WEdpOGdxal9MSm9oR1ZleTZPaFM0c3FNRk1fTUZFSUZRck8ySk94NjZGZlRRU1IyX2Y3dFhCeFlOMHRJbzc3dnA2UElFY0pXQ2xGNkVVTnhCdDE4bGhaZEZ4ZkEwM2E4SktMa0Z5M3pRMXZSTzQ4QmxRTFhMdlk3Z0RvZ3lEWGRUa3BXcW5od1ZHc0FuU3dMM1psMWtfcFHSAb8BQVVfeXFMT2dTeEFrVW1GaWg3Q3k1bjBLLVJBOVlPcWdOM2lmY2steFpfdXNwYkZrR2tMdllLRmhxSWt4OTlhU1RlNDhMcFZPZnZSWEhRNk80aG1sUnE0Rmg3cDdnZUdmcW5jZnpSRUhXYm5GSzkxeC1oZkJSZVU2Tk43N1F3alc2c3VjcnlvUDJHS2FPcC1oeEVGNlJqY2VRU2JmMDlmVk1fTEZsc2daVG5CbFNFVUVBV0ZPc2s0QUd3TUJKYUE?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-10T18:33:32.000Z",
+   "summary": "",
+   "image": "",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "7e824bde8abd",
    "kind": "headline",
@@ -170,6 +184,20 @@
    "important": false
   },
   {
+   "id": "9ba3240237d4",
+   "kind": "headline",
+   "title": "Iraqi parliament official warns draft budget harms Kurdistan Region",
+   "source": "Rudaw",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5OTlLWTlDU1o1NC1uOFk1Y1pyOElUa0dseEVFcjlacDROT284UTN2MTVVZ19EQjRWcXZDSnJCSURRUFUwZjBVOEJ3TFhkdEZuQ0huQ2hvYmJKdkdTc05qaDF1Y0pOWFhkNXc?oc=5",
+   "topic": "world",
+   "published": "2026-10-10T16:26:51.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "04371340ecc9",
    "kind": "headline",
    "title": "Existing tech could be used for Australians to have their say on policy",
@@ -324,6 +352,34 @@
    "important": false
   },
   {
+   "id": "d3f7bf21fb8e",
+   "kind": "headline",
+   "title": "Czechia awaits results of municipal and Senate elections",
+   "source": "Operativ Məlumat Mərkəzi",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnRMXzE0SEpva0pLLWhhV3hSc0FqT0FGQmMzSW5QT3BDdC1MWWpFMjlPcl9EMy05a2NidlRwbnAzLXpCN2dwM3lyWm9JOEpBLVpQZE9WWXgzODJlVGRGeW9Dc1FobmNNRHlHcFhvTlVldWZmWXRKc0VvNEVEOFdCQjNvWjZ2MDhjYTUzdXNKZkVOYWNtam93?oc=5",
+   "topic": "world",
+   "published": "2026-10-10T14:04:19.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "2e8a8347fe13",
+   "kind": "headline",
+   "title": "מדוע המזכיר הצבאי אלוף אבי גיל שתק יותר משנתיים? (וכל הכבוד לקצרנית)",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QZnp5SWE4c0NFNjZ3eUVwN1RLMk9hZTZWdEVjMnV1ajZiTjREVE96bTZLaDZfVmJHTGVKTlZCMWMxOThiZVZhSA?oc=5",
+   "topic": "media",
+   "published": "2026-10-10T13:54:48.000Z",
+   "summary": "",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "b2bbbc24b307",
    "kind": "headline",
    "title": "Koshi Province Assembly Unanimously Passes Language Bill, Recognizing 13 Languages for Official Use",
@@ -363,7 +419,8 @@
    "image": "",
    "score": 0,
    "alsoIn": [
-    "Arab News"
+    "Arab News",
+    "Reuters"
    ],
    "important": false
   },
@@ -5578,62 +5635,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c7b50da94471",
-   "kind": "headline",
-   "title": "נעילה מעורבת בתל אביב; דוניץ צללה, נובה וטאואר איבדו גובה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558762#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T14:37:00.000Z",
-   "summary": "ת\"א 35 ירד בכ-0.2%, מדד ת\"א 90 טיפס בכ-0.6% • דוניץ צללה בחדות במחזור מסחר ענק • נקסט ויז'ן התאוששה מעט לאחר שאיבדה קרוב לרבע מערכה בתוך יומיים • פי.סי.בי רוכשת את Gorilla Circuits בארה\"ב לפי שווי פעילות של 120 מיליון דולר • אחרי השיאים בוול סטריט: ג'יי.פי מורגן טוען שהמניות עמידות לעלייה בתשואות",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ea191c00b31d",
-   "kind": "headline",
-   "title": "רשות המסים רוצה את כרטיס האשראי שלכם, לא תאמינו למה",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558362#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-10-08T14:30:00.000Z",
-   "summary": "הכתבה הזו היתה הנצפית ביותר השבוע בגלובס ועל כן אנחנו מפרסמים אותה מחדש כשירות לקוראינו • הצגת עסקאות נדל\"ן באתר רשות המסים מותנית מעתה בהוצאת קוד וסיסמה, הכרוכים בהזדהות, הזנת נתוני אשראי ועוד • ברשות מנופפים בצורך \"להגן על מערכותינו מפני מתקפות AI שונות\", אבל באקדמיה ובמכוני מחקר מזהירים מפגיעה…",
-   "image": "https://res.cloudinary.com/globes/image/upload/c_auto,g_north,h_392,w_800/l_COT_Pic:mostread_kzu39q/c_scale,fl_relative,h_0.28,w_0.36/fl_layer_apply,fl_no_overflow,g_center,x_222,y_-93/v1780388226/direct/WhatsApp_Image_2026-06-02_at_11.16.40_kexncc.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "44153da83a40",
-   "kind": "headline",
-   "title": "יקר יותר, ממונף יותר: לוקחים יותר משכנתה, דווקא כשהריבית גבוהה",
-   "source": "היום",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xY0hpRUZLMnkwekxvRWxIV0dNVlp2dTU5S09LYjlydUhwSTVhZC15V0h1VjREZ1E4QTdyaWF2Xy1ab3BKWHdwbnZqcEhOZTB5TGdodUgzS2l4SEJjNmRXbXIwaTJUXzg4OGZ6ZW9Ba2MyWGo3U2fSAX5BVV95cUxNbTJkazhVZ2ZLS1dTT1pTZUY5MEZFbjBKMFhuNHZkZGM0eHZGci0xM056TUQySGNEcVpvSG11bTZqSFV4ZmpNX1A2RzltRXR0UjYyblF0MTBZU0lQaW55dGZxZnRJSGZqR1BaNHpIc056NGlXSW9nZ0MzaW1nTkE?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T14:28:08.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "6ab144d8e48c",
-   "kind": "headline",
-   "title": "האמירה המקוממת של הח\"כ מרע\"ם על חמאס: \"ארגון צדקה\"",
-   "source": "כיפה",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEUlhSSFl0ajJXYUIyRG9fU2dFd2Z2NzRSWkltcXFvVjF3dE9zRzE1TE1RMTdidWJRS2dlSG9QUmZsMnFIcGd6R2xGbEpYU0VGU3VjT2h4cGc1TlNON0ZpZGk0WEJVRnB4djdvYUFkTWhmTjB6b0t3dXNR0gF6QVVfeXFMUERSWFJIWXRqMldhQjJEb19TZ0V3ZnY3NFJaSW1xcW9WMXd0T3NHMTVMTVExN2J1YlFLZ2VIb1BSZmwycUhwZ3pHbEZsSlhTRUZTdWNPaHhwZzVOU043RmlkaTRYQlVGcHh2N29hQWRNaGZOMHpvS3d1c1E?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-08T14:20:24.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
