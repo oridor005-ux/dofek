@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T13:01:22.176Z",
+ "updated": "2026-10-10T13:13:49.382Z",
  "items": [
   {
    "id": "5a713060d5b7",
@@ -420,7 +420,9 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
+   "alsoIn": [
+    "Human Rights Watch"
+   ],
    "important": false
   },
   {
@@ -459,6 +461,20 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNW5vd09aZGs4dWluZXFnemJ6X3VTUnpNTDdYUEcwWmZGVnEzblV2OVU2TVFRekd5UlpBbGV3YzJSVFNsRXl0MjhxZElza2J5cng4N3FXaVU2Z3oxX0ZzME9wRGFGVkRVdDhYWWJCME9aaUdHRExmM2Y1NGhjY3dDeXJxWWNYcHItNG1laVNwV29Sa2d1Wk5hOWlmMlVFUXJ0NlEwMmVVY3BRYTF3WG9mQzMwNU5DbmlMdDZDaTRGZEJ4NlZtcUs4NjVfbUtndk1KeTlMb2RB0gHbAUFVX3lxTE1nZTRfZk9QbjlabGp3UkYtV1pnZk9VRzFfZFRNUE01YXZONE9nbWNVRlBvdzMwR0VZMEJtaTgzSVpEZXJpbFRubXExX2hhNkdPcVhNMGNCWWlWemozRDBNajdZUWYxSjBQbEhJeEtPWEZiR0YwcXdIaHVjNjVtWUNWNmpjOTVDMzlXelY5U2wwYlA4aVZjMVd2QjRaa3BxdlR1ZUxuZ2ZVbm80LThDQmNZV294REtJMGxjcVpyWDJoMVMzYzNGWTdRR3VhZ2swcG0taWRITVFfQWllOA?oc=5",
    "topic": "world",
    "published": "2026-10-10T02:36:03.000Z",
+   "summary": "",
+   "image": "",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "fd76b2be4c80",
+   "kind": "headline",
+   "title": "Denmark set to allow return of 'physical force' to maintain order in schools",
+   "source": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUGcyTDlScUFZYkt3Wlp5bUVMOHFpNTZIbWNFZ2docG5NUXNkdlVzeVhldjZXZTg3UVFISnZoTGZTeGFWZWFwNkQ4TmdPTklTRlhMTlI0dEVKWnh1UkFjTm1OZnR2ZFFGTmZBYnM4TWhTSTJtQXY2YncyMXN5bHFNV3ZlaWFFdWZMN0tXbVhhUE9WeVRXdVY2YzlRSUJQbkd2MDNwNmFFUjFiYlJSU21PbTdyV1RCQ2NjdWhNU0ZOZER2ZHcxNlp5cXl4ODVYT1ZBUHZDSFZUN0ZZOTZWSUJnOGhKNWU0WWs?oc=5",
+   "topic": "world",
+   "published": "2026-10-10T01:41:18.000Z",
    "summary": "",
    "image": "",
    "score": 0,
@@ -5613,20 +5629,6 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nTjZoQjVIZ0V2d2Q0Zk1qQ0VnZ1pRcUtmc2pyTVBsVjI3X093aEtpM3U3ZWpxNk10SW83eUd1V3g2ak9Db1VwZ2syTnpnRGJHQlhlWEZJcngzWmpOd3Itb2FlNHQxbXphZXR6cFVHTGQ?oc=5",
    "topic": "econ",
    "published": "2026-10-08T11:51:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7db22e371658",
-   "kind": "headline",
-   "title": "Meloni overhauls election rules in secret ballot",
-   "source": "The Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm1ubHlTZHJuUGRjVi10b3lqV1E2RjZETXVVLVM0RkZIMGFfQTN4RGw5TVZ6Q2cwZlowZ3VFdGJubnZSMDZLVDFudXl6ZE8tNXlOeFZ6UVVEWkdfZy1FYTNfY2hJanhZZndJcE81djRzNHFsVEdkdFhZZzBzMXcwRGFWRTg1eHlTYjB5STFlZDB2UHl3TG14cmNwUGs1QlY5ZXhEV0MyRkhJUQ?oc=5",
-   "topic": "world",
-   "published": "2026-10-08T11:47:00.000Z",
    "summary": "",
    "image": "",
    "score": 0,
