@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692726393267850497",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7692726393267850497",
-   "caption": "חברים יקרים, העשייה שלי והדרך שלי בשנים האחרונות למען המדינה הן ההוכח...",
-   "posted": "1791102443",
-   "found": "2026-10-05T07:18:57Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692726393267850497.txt"
-  },
-  {
    "id": "7693079483259178292",
    "channel": "itamar_ben_gvir",
    "name": "itamar_ben_gvir",
@@ -4473,12 +4462,23 @@
    "found": "2026-10-10T09:16:14Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694961522321149204.txt"
+  },
+  {
+   "id": "7694972953850563861",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694972953850563861",
+   "caption": "\"במשטרה אומרים לנו שגם לנהג קשה\": רועי בן ה-7 נה$ג בתאונת טרקטורון. ה...",
+   "posted": "1791625513",
+   "found": "2026-10-10T09:47:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694972953850563861.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T09:31:03Z",
+  "at": "2026-10-10T09:47:34Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
