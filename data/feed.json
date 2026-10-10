@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T06:07:13.892Z",
+ "updated": "2026-10-10T06:18:51.383Z",
  "items": [
+  {
+   "id": "5cb05404cb2a",
+   "kind": "headline",
+   "title": "לא מי שחשבתם: מיהם שני האנשים המסתוריים שקובעים את התמונה הפוליטית?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559016#utm_source=RSS",
+   "topic": "factcheck",
+   "published": "2026-10-10T06:12:00.000Z",
+   "summary": "מדינת ישראל הולכת לבחירות, והמשרוקית של גלובס מביאה את הסקרים העדכניים ביותר מכל כלי התקשורת &bull; מי מתחזק, מי נחלש ואיך זה משפיע על יחסי הכוחות בין המחנות? &bull; והפעם: וינטר מסתבך עם אחוז החסימה, ועד כמה שבריריות התוצאות?",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1777299400/COT_Pic/800_ak1wdk.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "e78dbc2a1881",
    "kind": "headline",
@@ -5626,20 +5640,6 @@
    "summary": "אחרי ארבע שנים קשות לסביבה, הבחירות הקרובות הן הזדמנות לבצע תיקון ביחס של המדינה לאחד המשאבים הכי יקרים שלה - הטבע • משבר אקלים מוחשי בשילוב עם משרד הגנת הסביבה מוחלש מחייב אותנו להחזיר את הנושא לראש סדר היום • מחוק אקלים עם שיניים, דרך פאנלים סולאריים על מוסדות ציבוריים ועד להגנה על שטחים פתוחים,…",
    "image": "https://shakuf.co.il/wp-content/uploads/2026/10/F260417MG62-360x240.jpg",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "968a986525fb",
-   "kind": "headline",
-   "title": "בשורה לישראל? הסקרים בספרד חוזים ניצחון ימני",
-   "source": "סרוגים",
-   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQbGt3UXBuWElUaWUzYURhM2dMcWUtZVNOV1FSRkZvbUxmT21PdWZaOXNBaEdEeXV0VUdJem9DNmVFWUU4eFRCRGtCZGdScENRSUJkWGlMMmdISThWYTdFS3FlNy11WnRHYmZobWFPZ2FNdjZuYTBOam5Kbm5iMGRmamdreUVXeGFJSzQzLTJabmtaZUFQcXJvamtrMXA3bUYzSC03WnBZa0g1VEVKdVV0bUdudmJnNUpKczdKcEJSXy1INHNKUkh3aG9YYVFPV29wbnZBLXFvX3B6QS1YZ05qR2cxbzBKQngzcWRnLVFDMUFza1RYMW5yVWdwNm1vZlZRRGNNMm9uZDBkbEZiZkJGYWlPUmM2dEQxaWZjN0hIR2s2aUVHdGs1Skd1Y2VHZ1kzb0ZIUzB6YXNRNWg0NHpaUXZhSlhqU0k5aFVERklxWklKR0RtNFZ0aA?oc=5",
-   "topic": "research",
-   "published": "2026-10-08T10:01:17.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
