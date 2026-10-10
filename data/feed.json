@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T15:59:06.324Z",
+ "updated": "2026-10-10T16:10:37.908Z",
  "items": [
+  {
+   "id": "6531d8dd5d5f",
+   "kind": "headline",
+   "title": "\"הייטקיסטים דורשים משכורות של עמק הסיליקון. חברות עוברות לחו\"ל\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558646#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-10T15:59:00.000Z",
+   "summary": "שיחה עם אלון סטופל, יו\"ר רשות החדשנות • על הדרך שהובילה את ישראל ל&ndash;440 אלף מועסקים בהייטק מעבר לים, התייקרות העובד הישראלי והחיפוש אחר מנכ\"ל חדש",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791359742/%D7%A6%D7%95%D7%9C%D7%9C%D7%AA-800_zq0fb6.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "5fe513a79b92",
    "kind": "headline",
@@ -5617,20 +5631,6 @@
    "published": "2026-10-08T12:51:19.000Z",
    "summary": "Just over 150 high schools were closed, and France’s education minister invited three major student groups to meet with him on Thursday afternoon.",
    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08france-protests-promo-bjlk/08france-protests-promo-bjlk-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bdd879df6016",
-   "kind": "headline",
-   "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
-   "topic": "world",
-   "published": "2026-10-08T12:44:20.000Z",
-   "summary": "President Zelensky revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.",
-   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-skorea-ukraine-zmwg/08int-skorea-ukraine-zmwg-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false

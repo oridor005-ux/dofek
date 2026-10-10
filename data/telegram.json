@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65655,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:52.570Z"
+   "checkedAt": "2026-10-10T15:59:26.632Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:53.265Z"
+   "checkedAt": "2026-10-10T15:59:27.259Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:53.924Z"
+   "checkedAt": "2026-10-10T15:59:27.857Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:54.615Z"
+   "checkedAt": "2026-10-10T15:59:28.475Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:55.282Z"
+   "checkedAt": "2026-10-10T15:59:29.091Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:55.955Z"
+   "checkedAt": "2026-10-10T15:59:29.699Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:56.598Z"
+   "checkedAt": "2026-10-10T15:59:30.299Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131676,
+   "lastId": 131678,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:57.358Z"
+   "checkedAt": "2026-10-10T15:59:31.032Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75002,
+   "lastId": 75003,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:57.947Z"
+   "checkedAt": "2026-10-10T15:59:31.570Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:58.627Z"
+   "checkedAt": "2026-10-10T15:59:32.232Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T15:47:59.394Z"
+   "checkedAt": "2026-10-10T15:59:32.856Z"
   }
  },
  "posts": [
-  {
-   "id": "abualiexpress/131468",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131468",
-   "date": "2026-10-06T15:53:02+00:00",
-   "text": "המהומות בצרפת : בעלי החנויות בפריז ממגנים את העסקים מחשש לוונדליזם וביזה במסגרת אירוע מרכזי שצפוי היום כחלק מהמהומות. 5 תגובות",
-   "status": "no-claims"
-  },
   {
    "id": "Ben_Caspit/19288",
    "channel": "ben_caspit",
@@ -5991,13 +5982,32 @@
    "date": "2026-10-10T15:41:15+00:00",
    "text": "🔴 צה\"ל ושב\"כ: חוסל מחבל מהג'יהאד האיסלאמי שפשט על ישראל ב-7/10\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131678",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131678",
+   "date": "2026-10-10T15:57:04+00:00",
+   "text": "💰 הלוואה בפריים 1%- עד 600,000 ₪ 💰\n✅ ריבית מסובסדת ע\"י תורמים\n✅ ללא תלות בבנק שלך\n✅ בלי טפסים ודוחות כספיים\n✅ רישום ב-7 דקות ואישור מהיר\n• בכפוף לעמידה בקריטריונים\n🛡️ אנחנו ב-bizi מבית ישראכרט 🛡️\nרוצים לתת לעסק שלך אוויר לנשימה, בלי לחץ תזרימי והוצאות דחופות. נכון להיום bizi כבר עזרה למעל 1,500 בעלי עסקים ול-50,000 ישראלים בתזרים העסק\nהירשמו היום וקבלו הלוואה לעסק בריבית פריים מינוס 1%- בקליק ובתהליך אישור מהיר מבלי לצאת מהבית.\nלהרשמה מהירה ---> https://bit.ly/BIZI-FINANCE-ABU-ALI",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75003",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75003",
+   "date": "2026-10-10T15:56:08+00:00",
+   "text": "🔴 סעודיה: פצועים רבים במתקפה על נמל התעופה בריאד\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T15:47:59.794Z",
+  "at": "2026-10-10T15:59:33.257Z",
   "ok": 11,
   "fail": 0,
   "added": 2,
-  "pendingNew": 463
+  "pendingNew": 465
  }
 }
