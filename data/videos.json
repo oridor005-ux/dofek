@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "7693115380616727829",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693115380616727829",
-   "caption": "במהלך טקס הזיכרון הממלכתי ל-7.10,  אחד הנוכחים בקהל התפרץ לעבר השופט ...",
-   "posted": "1791193014",
-   "found": "2026-10-05T09:45:41Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693115380616727829.txt"
-  },
-  {
-   "id": "7693117909538786580",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7693117909538786580",
-   "caption": "בכל מקום בארץ אומרים לי, רק ביחד נתקן! שיהיה לנו שבוע טוב עם ישראל אה...",
-   "posted": "1791193601",
-   "found": "2026-10-05T10:00:11Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693117909538786580.txt"
-  },
-  {
-   "id": "7693120325839539508",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693120325839539508",
-   "caption": "\"גם בחלוף 3 שנים, צרובות בנו השעות האיומות של מתקפת שמחת תורה\" ↓ דברי...",
-   "posted": "1791194162",
-   "found": "2026-10-05T10:01:32Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693120325839539508.txt",
-   "insightIds": [
-    "ins-2026-10-05-hst1"
-   ]
-  },
-  {
-   "id": "7693120876258036993",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693120876258036993",
-   "caption": "ראש הממשלה בטקס האזכרה הממלכתי לשבעה באוקטובר: \"מורשת הנופלים היא שלה...",
-   "posted": "1791194293",
-   "found": "2026-10-05T10:02:47Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693120876258036993.txt",
-   "insightIds": [
-    "ins-2026-10-05-hst1"
-   ]
-  },
-  {
    "id": "7693124822750088456",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4463,12 +4413,56 @@
    "posted": "1791655931",
    "found": "2026-10-10T18:23:56Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7695106345242070280",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7695106345242070280",
+   "caption": "כנראה שלעולם לא נדע אם יהודים הם הומו-ספיאנס. חבל, נראה שריקלין סקרן ...",
+   "posted": "1791656573",
+   "found": "2026-10-10T18:39:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695106345242070280.txt"
+  },
+  {
+   "id": "7695108811723377940",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695108811723377940",
+   "caption": "״צה״ל זה צבא האויב ואויב של היהדות״ אמירה מקוממת של מפגין חרדי במהלך ...",
+   "posted": "1791657143",
+   "found": "2026-10-10T18:41:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695108811723377940.txt"
+  },
+  {
+   "id": "7695108994301496594",
+   "channel": "c14news",
+   "name": "c14news",
+   "url": "https://www.tiktok.com/@c14news/video/7695108994301496594",
+   "caption": "\"דווקא עכשיו\": המשפחות שעברו להתגורר בקיבוץ הכי קרוב לעזה | הכתבה של ...",
+   "posted": "1791657190",
+   "found": "2026-10-10T18:43:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695108994301496594.txt"
+  },
+  {
+   "id": "7695109892054551829",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7695109892054551829",
+   "caption": "לא נשתוק בזמן שלונדון ועוד מקומות באירופה חוזרים 80 שנה אחורה! We wil...",
+   "posted": "1791657396",
+   "found": "2026-10-10T18:44:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695109892054551829.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T18:24:09Z",
+  "at": "2026-10-10T18:44:47Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 1
+  "transcribed": 4
  }
 }
