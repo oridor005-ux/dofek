@@ -5,99 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:21.071Z"
+   "checkedAt": "2026-10-10T10:27:51.081Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:21.717Z"
+   "checkedAt": "2026-10-10T10:27:51.744Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:22.336Z"
+   "checkedAt": "2026-10-10T10:27:52.361Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:22.959Z"
+   "checkedAt": "2026-10-10T10:27:52.999Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19339,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:23.559Z"
+   "checkedAt": "2026-10-10T10:27:53.618Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:24.209Z"
+   "checkedAt": "2026-10-10T10:27:54.249Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:24.817Z"
+   "checkedAt": "2026-10-10T10:27:54.864Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131659,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:25.492Z"
+   "checkedAt": "2026-10-10T10:27:55.592Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74984,
+   "lastId": 74986,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:26.037Z"
+   "checkedAt": "2026-10-10T10:27:56.149Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8414,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:26.681Z"
+   "checkedAt": "2026-10-10T10:27:56.811Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T10:16:27.456Z"
+   "checkedAt": "2026-10-10T10:27:57.484Z"
   }
  },
  "posts": [
-  {
-   "id": "abualiexpress/131451",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131451",
-   "date": "2026-10-06T10:17:01+00:00",
-   "text": "מזרח ירושלים: ערוצים פלסטינים מדווחים שהשר בן גביר עלה על אחד הכלים ההנדסיים שמשתתפים הבוקר בהריסה בלתי חוקית של בניין בן 5 קומות בשכונת א-טור במזרח ירושלים. בסרטון נוסף שצירפתי מייבבת אחת הפלסטיניות על ביתה שנהרס. 7 תגובות",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74670",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74670",
-   "date": "2026-10-06T10:26:00+00:00",
-   "text": "🔴 השייח' מופק טריף: \"ישראל חוזרת לימים שלפני 7/10\"\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "ynetalerts/74671",
    "channel": "ynetalerts",
@@ -6206,13 +6187,31 @@
    "date": "2026-10-10T10:11:45+00:00",
    "text": "🔴 נקבע מותו של הצעיר שנורה ברהט, הרקע פלילי\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74985",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74985",
+   "date": "2026-10-10T10:18:24+00:00",
+   "text": "🔴 אופנוע התלקח בעקבות תאונה סמוך למעלות תרשיחא - וגרם לשריפת חורש \nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/74986",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74986",
+   "date": "2026-10-10T10:23:06+00:00",
+   "text": "🔴 אליפות העולם בג'ודו: רז הרשקו עלתה לחצי הגמר \nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T10:16:27.857Z",
+  "at": "2026-10-10T10:27:57.885Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 427
+  "added": 2,
+  "pendingNew": 429
  }
 }
