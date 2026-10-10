@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:47.806Z"
+   "checkedAt": "2026-10-10T08:41:20.419Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:48.473Z"
+   "checkedAt": "2026-10-10T08:41:21.093Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:49.107Z"
+   "checkedAt": "2026-10-10T08:41:21.720Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:49.778Z"
+   "checkedAt": "2026-10-10T08:41:22.394Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:50.498Z"
+   "checkedAt": "2026-10-10T08:41:23.054Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:51.161Z"
+   "checkedAt": "2026-10-10T08:41:23.703Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:51.793Z"
+   "checkedAt": "2026-10-10T08:41:24.358Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131650,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:52.473Z"
+   "checkedAt": "2026-10-10T08:41:25.035Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74976,
+   "lastId": 74977,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:53.051Z"
+   "checkedAt": "2026-10-10T08:41:25.600Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:53.739Z"
+   "checkedAt": "2026-10-10T08:41:26.258Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T08:29:54.487Z"
+   "checkedAt": "2026-10-10T08:41:26.988Z"
   }
  },
  "posts": [
@@ -120,15 +120,6 @@
    "insightIds": [
     "ins-2026-10-06-mg71"
    ]
-  },
-  {
-   "id": "abualiexpress/131447",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131447",
-   "date": "2026-10-06T08:36:19+00:00",
-   "text": "בתקיפת כטב\"מ לפני שעה קלה במערב העיר עזה (ליד בית החולים שפאא') חוסל מחמד אליאזג'י, אבו מחסן - מפקד שטח בזרוע הצבאית של חמאס.\nשני הרוגים ברצועה בשתי תקיפות כטב\"מ מאז שעות הבוקר.\nכדי להגיב לכתבה לחצו כאן",
-   "status": "no-claims"
   },
   {
    "id": "abualiexpress/131449",
@@ -6220,13 +6211,22 @@
    "date": "2026-10-10T08:09:35+00:00",
    "text": "🔴 אוקראינה: מניין ההרוגים במתקפה הרוסית עלה ל-8, בהם שלושה ילדים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74977",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74977",
+   "date": "2026-10-10T08:35:24+00:00",
+   "text": "🔴 הפקודה בצה\"ל שהופעלה בניסיון חטיפת טיסת פליי דובאי - \"סחר עולמי\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T08:29:54.887Z",
+  "at": "2026-10-10T08:41:27.388Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 417
+  "added": 1,
+  "pendingNew": 418
  }
 }
