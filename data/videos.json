@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692530012703984916",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7692530012703984916",
-   "caption": "",
-   "posted": "1791056725",
-   "found": "2026-10-05T07:18:12Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692530012703984916.txt"
-  },
-  {
    "id": "7692726393267850497",
    "channel": "yosephhaddad",
    "name": "yosephhaddad",
@@ -4473,12 +4462,23 @@
    "posted": "1791613166",
    "found": "2026-10-10T06:29:27Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7694961522321149204",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694961522321149204",
+   "caption": "אתמול הגיע אסף רג'ואן, אחד מהישראלים שסיכלו את הפיגוע בטיסת פליי דובא...",
+   "posted": "1791622849",
+   "found": "2026-10-10T09:16:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694961522321149204.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T09:00:52Z",
+  "at": "2026-10-10T09:16:23Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
