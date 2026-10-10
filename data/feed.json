@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:46:01.229Z",
+ "updated": "2026-10-10T01:58:30.851Z",
  "items": [
   {
    "id": "112f9bdbe541",
@@ -778,6 +778,20 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "b392df773c45",
+   "kind": "headline",
+   "title": "Michigan Senate Candidates Clash over Trump’s Wars, U.S. Support for Israel in First Debate",
+   "source": "Democracy Now!",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd3paYVBmTXNDQkV1c2t1alBWdHI1Zm8xc056LUZUVGx4MDlDTEZpeFVTRnpIZWVXZE45dTFkOHZMX2J4TUcyMDlFVF9MRHVFTDZDN1ZHNFM5VGgtZkI1UVM5TlFRWVdST3ROSWJrUDdaQkxzSUZxYmdiMnk5UzdhVjBWYTNCT2JXbmhrR1VkQnBLTGcyUjBPU0gtQ3haNnBNLTluelNQWnV0LWJsTjJNRy1nTFJLZWtGSVhfOFp5WE42dE9pVGhkMnhmcG9hQmhYbVE?oc=5",
+   "topic": "israelAbroad",
+   "published": "2026-10-09T14:53:35.000Z",
+   "summary": "",
+   "image": "",
+   "score": 3,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "1538364af48e",
@@ -5624,20 +5638,6 @@
    "summary": "בנק ההשקעות הבריטי Panmure Liberium פרסם תחזית קודרת, לפיה ה-S&P 500 יצנח בכ-35% לעומת רמתו הנוכחית עד סוף השנה הבאה • גם המיליארדר ריי דליו והמשקיע הנודע מייקל ברי מזהירים מפני התפוצצות בועת ה-AI • \"המשקיעים מתרכזים בדוחות ומתעלמים מכל מכשול שניתן להעלות על הדעת\"",
    "image": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/v1791451866/shutterstock_2707898161_txh2mc.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "87c545675523",
-   "kind": "headline",
-   "title": "Myanmar’s Strongman President is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html",
-   "topic": "world",
-   "published": "2026-10-08T09:12:31.000Z",
-   "summary": "After trading his military uniform for civilian clothes, Myanmar’s strongman president, U Min Aung Hlaing, is in Malaysia, his ninth stop on a search for international legitimacy.",
-   "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08-int-malaysia-myanmar-01-jkct/08-int-malaysia-myanmar-01-jkct-mediumSquareAt3X.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
