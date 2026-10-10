@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:07.709Z"
+   "checkedAt": "2026-10-10T06:54:38.614Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:08.372Z"
+   "checkedAt": "2026-10-10T06:54:39.246Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:08.989Z"
+   "checkedAt": "2026-10-10T06:54:39.841Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:09.658Z"
+   "checkedAt": "2026-10-10T06:54:40.458Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:10.282Z"
+   "checkedAt": "2026-10-10T06:54:41.063Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:10.922Z"
+   "checkedAt": "2026-10-10T06:54:41.737Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:11.527Z"
+   "checkedAt": "2026-10-10T06:54:42.365Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131646,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:12.219Z"
+   "checkedAt": "2026-10-10T06:54:43.007Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74972,
+   "lastId": 74973,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:12.779Z"
+   "checkedAt": "2026-10-10T06:54:43.547Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:13.538Z"
+   "checkedAt": "2026-10-10T06:54:44.206Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T06:43:14.279Z"
+   "checkedAt": "2026-10-10T06:54:44.883Z"
   }
  },
  "posts": [
@@ -230,15 +230,6 @@
    "url": "https://t.me/ynetalerts/74671",
    "date": "2026-10-06T10:29:26+00:00",
    "text": "🔴 רגב: המצבע להשבת הישראלים מדובאי יסתיים עד יום חמישי\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "the7eye/8404",
-   "channel": "the7eye",
-   "name": "העין השביעית",
-   "url": "https://t.me/the7eye/8404",
-   "date": "2026-10-06T06:43:27+00:00",
-   "text": "\"שבע עם איילה חסון\": תעמולה בחסות השידור הציבורי\nבדקנו שבוע של שידורים במהדורה המוקדמת של כאן 11 • מצאנו פאנל מדיר נשים המדבר בקול אחד, מדקלם את דף המסרים של נתניהו והליכוד ומקדם קונספירציות והסתה • הכל בניצוחה של מגישה שלא מהססת לסתום את הפה גם לעיתונאי התאגיד שנקלעים לתוכנית\nלכתבה של חן אגרי: https://www.the7eye.org.il/596257\n==\n📬 כל מה שקרה היום בתקשורת, בארץ ובעולם, ישירות לתיבת המייל: https://www.the7eye.org.il/signup\n📌 את/ה כבר כאן, קורא/ת. הצעד הבא הוא להצטרף: https://the7eye.org.il/join",
    "status": "no-claims"
   },
   {
@@ -6189,13 +6180,22 @@
    "date": "2026-10-10T06:42:04+00:00",
    "text": "🔴 ארה\"ב: הורד סיווגו של הוריקן איסאיאס ל\"ציקלון פוסט-טרופי\"\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74973",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74973",
+   "date": "2026-10-10T06:48:11+00:00",
+   "text": "🔴 אוקראינה: 7 הרוגים ו-10 פצועים במתקפה רוסית על העיר זפוריז'יה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T06:43:14.679Z",
+  "at": "2026-10-10T06:54:45.284Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 411
+  "pendingNew": 412
  }
 }

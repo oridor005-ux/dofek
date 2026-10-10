@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T06:54:20.169Z",
+ "updated": "2026-10-10T07:05:49.745Z",
  "items": [
+  {
+   "id": "7133134d2998",
+   "kind": "headline",
+   "title": "המודל המתמטי שמראה: כולם משאירים טיפ - והתמריץ לשירות טוב נחלש",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558654#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-10T07:01:00.000Z",
+   "summary": "טיפ התחיל כתגמול על שירות טוב, אבל בפועל רובנו פשוט מצייתים לנורמה • מחקר חדש מראה איך הוא חלק ממנגנון התמור, למה הסטנדרט ממשיך לעלות, ומה המשמעויות עבור מנהלי עסקים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791367039/%D7%A4%D7%A7%D7%95%D7%9C%D7%98%D7%94-800_s6eg8q.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "be390fcbe2b9",
    "kind": "headline",
@@ -47,6 +61,20 @@
    "id": "e78dbc2a1881",
    "kind": "headline",
    "title": "כמה שווה פינוי מאוחר? בית פרטי במיתר עם פינוי בעוד שנה נמכר ב־3.35 מיליון שקל",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558556#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-10T06:00:00.000Z",
+   "summary": "בית פרטי בן 6 חדרים בשכונת כלניות במיתר נמכר בהנחה של 150 אלף שקל, לאחר ארבעה חודשים על המדף &bull; לדברי המתווך, העובדה שהמוכרים יישארו בנכס עוד שנה סייעה לרוכשים להפחית את המחיר • ועוד עסקאות נדל\"ן מהשבוע האחרון",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673779128/COT_Pic/%D7%A2%D7%A1%D7%A7%D7%90%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2800_sueckz.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "aaf6cc575660",
+   "kind": "headline",
+   "title": "בית פרטי עם שישה חדרים ב-3.35 מיליון שקל - אבל עם תנאי אחד",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558556#utm_source=RSS",
    "topic": "econ",
@@ -5611,36 +5639,6 @@
    "image": "",
    "score": 1,
    "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ec57a6a69400",
-   "kind": "headline",
-   "title": "U.S. Delivers First American-Made Iron Dome Tamir Missile to Expand Israel's Interceptor Supply",
-   "source": "Army Recognition",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3F5bjY3R2gyVFJrcThMMUJVRjlobm1EYnpsWTh0N3dwQUZaaGRIQ2x3STExZWdyRWN3d1lGMnlIOXVBWU14M2dfUGRmdmNQWW01MHJZeGJ4NEU2WGtYSldLcHQybzZUamQwMUt4TDQ2eHFaY1E1TzRnTy1xdVN2TGctQ2k2STJJUmdjOTZOaWZIM1pZczZqTktTQ3NhWnhyNjVsVENoZ2p6ZzhnM0xING9TQnhsMXlBRHkzSnFiVVRoZ3Z6bm5sRjNsRFAzS2tWUmVHc2lJc2R3bENaUXc?oc=5",
-   "topic": "defense",
-   "published": "2026-10-08T10:08:02.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a8955e6d3c92",
-   "kind": "headline",
-   "title": "הגירעון בספטמבר נותר ללא שינוי על 3.2% מהתוצר",
-   "source": "calcalist",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwVXozaW05cDBWVGktb3p5SmxITFNlRlRITW5BVGJ5Qkx1NndUbXZIQTVDQ3dUc3A0LTRMbGdtcURyQmprTU1COXhFM1VnZld2UkFMd2Z1QVpnQkNaQUk4OGN1ZUU5enJV?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T10:08:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [
-    "אתר החדשות דבר"
-   ],
    "important": false
   }
  ]
