@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:38.614Z"
+   "checkedAt": "2026-10-10T07:06:57.899Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:39.246Z"
+   "checkedAt": "2026-10-10T07:06:58.591Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:39.841Z"
+   "checkedAt": "2026-10-10T07:06:59.307Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:40.458Z"
+   "checkedAt": "2026-10-10T07:07:00.014Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:41.063Z"
+   "checkedAt": "2026-10-10T07:07:00.704Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:41.737Z"
+   "checkedAt": "2026-10-10T07:07:01.401Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:42.365Z"
+   "checkedAt": "2026-10-10T07:07:02.080Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131646,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:43.007Z"
+   "checkedAt": "2026-10-10T07:07:02.816Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74973,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:43.547Z"
+   "checkedAt": "2026-10-10T07:07:03.436Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:44.206Z"
+   "checkedAt": "2026-10-10T07:07:04.137Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T06:54:44.883Z"
+   "checkedAt": "2026-10-10T07:07:04.866Z"
   }
  },
  "posts": [
@@ -114,16 +114,6 @@
    "url": "https://t.me/yosephhaddad/11413",
    "date": "2026-10-06T09:17:49+00:00",
    "text": "אני תחת מתקפה בימים האחרונים מתוך אינטרסים פוליטיים מימין, ידעתי שזה יקרה כשהצטרפתי לפוליטיקה וזה לא מה שישבור אותי.\nאבל כדאי רק שאותם אלה שעובדים בלנסות להפוך אותי לאויב המדינה ולפגוע בשם שלי ובעשייה שלי כל השנים יידעו שהם משחקים לידיים של האנטי ישראלים בחברה הערבית, נותנים להם לייצר את הנרטיב שהם חלמו עליו כדי לקדם בדלנות ולפגוע בשותפות הישראלית דרך המתקפות נגדי, גם כשזה מנותק מהמציאות.\nובנוגע לאידיוט הזה ולאחרים שחושבים ש\"הגיע יומי\"... כבר הספידו אותי כמה וכמה פעמים בעבר. אני לא אחד שעוצר ולא אחד שנכנע. עד הסוף זה עד הסוף, ככל שמנסים להפיל אותי אני רק מתחזק, ואני אעשה הכל לייצג את המדינה בגאווה על אפם וחמתם!",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "Ben_Caspit/19276",
-   "channel": "ben_caspit",
-   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
-   "url": "https://t.me/Ben_Caspit/19276",
-   "date": "2026-10-06T06:57:11+00:00",
-   "text": "# על זה, רק על זה הבחירות: חייבים לפרק את מדינת המשתמטים",
    "hasVideo": true,
    "status": "no-claims"
   },
@@ -6195,10 +6185,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T06:54:45.284Z",
+  "at": "2026-10-10T07:07:05.267Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
+  "added": 0,
   "pendingNew": 412
  }
 }
