@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7693079483259178292",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693079483259178292",
-   "caption": "אחלה שר הזיתים",
-   "posted": "1791184661",
-   "found": "2026-10-05T07:28:44Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693079483259178292.txt"
-  },
-  {
    "id": "7692569611618848021",
    "channel": "yosephhaddad",
    "name": "yosephhaddad",
@@ -4473,12 +4462,23 @@
    "found": "2026-10-10T09:47:24Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694972953850563861.txt"
+  },
+  {
+   "id": "7694983890737417493",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7694983890737417493",
+   "caption": "מפרס-בגין ועד \"נתניהו מאוחדת\": חזרנו לעימותים הגדולים ממערכות הבחירות...",
+   "posted": "1791628058",
+   "found": "2026-10-10T10:32:43Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694983890737417493.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T10:16:51Z",
+  "at": "2026-10-10T10:32:52Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
