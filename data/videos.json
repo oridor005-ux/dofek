@@ -1,28 +1,6 @@
 {
  "items": [
   {
-   "id": "7692308397638634804",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7692308397638634804",
-   "caption": "שהאויבים שלנו לא יטעו ולא יתבלבלו בגלל תקופת הבחירות לכנסת, כשזה נוגע...",
-   "posted": "1791005123",
-   "found": "2026-10-05T07:29:54Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692308397638634804.txt"
-  },
-  {
-   "id": "7692045751630728456",
-   "channel": "jacob.bardugo",
-   "name": "jacob.bardugo",
-   "url": "https://www.tiktok.com/@jacob.bardugo/video/7692045751630728456",
-   "caption": "גאה להצטרף לליכוד",
-   "posted": "1790943967",
-   "found": "2026-10-05T07:30:47Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692045751630728456.txt"
-  },
-  {
    "id": "7692783768901307666",
    "channel": "ben_caspit",
    "name": "ben_caspit",
@@ -4481,12 +4459,33 @@
    "posted": "1791630005",
    "found": "2026-10-10T11:02:29Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7695053460441550087",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7695053460441550087",
+   "caption": "אלפי משפחות המתינו בהתרגשות בסן דייגו כדי לקבל את פניהם של יקיריהם, ו...",
+   "posted": "1791644257",
+   "found": "2026-10-10T15:07:24Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7695054542408371464",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7695054542408371464",
+   "caption": "תיעוד מרתיח מהפגנה פרו-פלסטינית בלונדון 📸: מתוך עמוד ה-X של Heidi Bac...",
+   "posted": "1791644509",
+   "found": "2026-10-10T15:07:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695054542408371464.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T14:52:05Z",
+  "at": "2026-10-10T15:08:06Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 2
  }
 }
