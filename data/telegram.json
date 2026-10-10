@@ -5,98 +5,80 @@
    "subscribers": "369K",
    "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:28.604Z"
+   "checkedAt": "2026-10-10T20:09:06.829Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:29.308Z"
+   "checkedAt": "2026-10-10T20:09:07.523Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:30.002Z"
+   "checkedAt": "2026-10-10T20:09:08.193Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11469,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:30.685Z"
+   "checkedAt": "2026-10-10T20:09:08.900Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19346,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:31.365Z"
+   "checkedAt": "2026-10-10T20:09:09.562Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:32.033Z"
+   "checkedAt": "2026-10-10T20:09:10.240Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:32.723Z"
+   "checkedAt": "2026-10-10T20:09:10.909Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131693,
+   "lastId": 131694,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:33.466Z"
+   "checkedAt": "2026-10-10T20:09:11.645Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75019,
+   "lastId": 75020,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:34.063Z"
+   "checkedAt": "2026-10-10T20:09:12.242Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:34.768Z"
+   "checkedAt": "2026-10-10T20:09:12.951Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T19:57:35.509Z"
+   "checkedAt": "2026-10-10T20:09:13.680Z"
   }
  },
  "posts": [
-  {
-   "id": "yosephhaddad/11416",
-   "channel": "yosephhaddad",
-   "name": "יוסף חדאד - Yoseph Haddad",
-   "url": "https://t.me/yosephhaddad/11416",
-   "date": "2026-10-06T19:57:43+00:00",
-   "text": "והערב בערוץ 13 הביאו גם עוד ספין עלוב נגדי של גורמים פוליטיים שכנראה לא מבינים מה זה הסברה ישראלית...\nהם ממשיכים גם בערב השבעה באוקטובר בניסיונות מאולצים להפוך אותי לפרו פלסטיני ואויב העם בזמן שאני ממשיך להילחם בחזית ההסברה הישראלית מול פרו פלסטינים עוינים כדי להגן על המדינה ועל חיילי צה\"ל, כולל בימים אלה באירופה.",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74708",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74708",
-   "date": "2026-10-06T20:08:55+00:00",
-   "text": "🔴 תמונות לוויין חשפו פעילות מחודשת באתר גרעין שישראל תקפה באיראן\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "ynetalerts/74709",
    "channel": "ynetalerts",
@@ -6021,13 +6003,32 @@
    "date": "2026-10-10T19:41:00+00:00",
    "text": "🔴 במערכת המים של מרכז רפואי העמק אותר חיידק הגורם לדלקת ריאות\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131694",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131694",
+   "date": "2026-10-10T20:02:46+00:00",
+   "text": "עזתי שביתו הותקף שלשום, אחרי התרעת פינוי, מספר:\nאנחנו לא עומדים איתן. אנחנו מתים מהלכים. מי שאומר שהוא מחזיק מעמד הוא שקרן.\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75020",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75020",
+   "date": "2026-10-10T20:02:26+00:00",
+   "text": "🔴 בת 53 נפצעה קשה מירי לעבר בית בגליל התחתון. המשטרה פתחה בחקירה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T19:57:35.909Z",
+  "at": "2026-10-10T20:09:14.080Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 505
+  "added": 2,
+  "pendingNew": 507
  }
 }
