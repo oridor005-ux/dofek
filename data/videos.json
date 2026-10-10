@@ -1,31 +1,6 @@
 {
  "items": [
   {
-   "id": "7693094844234747188",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693094844234747188",
-   "caption": "לוקחים זבל, הופכים אותו לרהיטים נדירים - ותורמים את הכסף 💚 תכירו את J...",
-   "posted": "1791188235",
-   "found": "2026-10-05T08:29:03Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693094844234747188.txt"
-  },
-  {
-   "id": "7693099290159320341",
-   "channel": "amitsegalnews",
-   "name": "amitsegalnews",
-   "url": "https://www.tiktok.com/@amitsegalnews/video/7693099290159320341",
-   "caption": "יש סקר אחד שקובע",
-   "posted": "1791189267",
-   "found": "2026-10-05T08:44:03Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693099290159320341.txt",
-   "insightIds": [
-    "ins-2026-10-05-br47"
-   ]
-  },
-  {
    "id": "7693098185094532373",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4473,10 +4448,32 @@
    "found": "2026-10-10T16:38:49Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695077081687854356.txt"
+  },
+  {
+   "id": "7695079785256537364",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695079785256537364",
+   "caption": "כל החיים הצביעו למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 17 ימים ...",
+   "posted": "1791650386",
+   "found": "2026-10-10T16:53:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695079785256537364.txt"
+  },
+  {
+   "id": "7695082097630776597",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7695082097630776597",
+   "caption": "הנה עוד חבורה של יהודים שונאי עצמם כאן בלונדון. במקום לעמוד לצד מדינת...",
+   "posted": "1791650924",
+   "found": "2026-10-10T16:54:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695082097630776597.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T16:38:55Z",
+  "at": "2026-10-10T16:54:49Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
