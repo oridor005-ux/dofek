@@ -3464,7 +3464,7 @@
    "caption": "\"האם יש לי זכות להיות חרדי? על זה מערכת הבחירות\"👇 ח\"כ פינדרוס משיב לא...",
    "posted": "1791480558",
    "found": "2026-10-08T17:41:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694350386445962516.txt"
   },
   {
@@ -3475,7 +3475,7 @@
    "caption": "ככה המהגרים הקיצונים בשילוב הארגונים הפרוגרסיבים מבעירים את האנטישמיו...",
    "posted": "1791481150",
    "found": "2026-10-08T17:42:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694352919696739604.txt"
   },
   {
@@ -3486,8 +3486,11 @@
    "caption": "חדשות 14 | חשיפה: כך התנהל האלוף אבי גיל המזכיר הצבאי של נתניהו בשעות...",
    "posted": "1791482617",
    "found": "2026-10-08T18:06:44Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694359224985406728.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694359224985406728.txt",
+   "insightIds": [
+    "ins-2026-10-10-gil7"
+   ]
   },
   {
    "id": "7694362515119148296",
@@ -3507,8 +3510,11 @@
    "caption": "אלוף במיל' אבי גיל, שהיה מזכירו הצבאי של נתניהו בבוקר הטבח, מדבר לראש...",
    "posted": "1791483511",
    "found": "2026-10-08T18:26:11Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694363041730727186.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694363041730727186.txt",
+   "insightIds": [
+    "ins-2026-10-10-gil7"
+   ]
   },
   {
    "id": "7694366150204951828",
@@ -3518,7 +3524,7 @@
    "caption": "שובר את הלב: הותר לפרסום שמו של סרן אליאב חיים צפלמוס, שנפל בקרב בדרו...",
    "posted": "1791484229",
    "found": "2026-10-08T18:40:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694366150204951828.txt"
   },
   {
@@ -3529,7 +3535,7 @@
    "caption": "שתפו!!! #פוריו #בשבילך #ימין #שמאל",
    "posted": "1791484273",
    "found": "2026-10-08T18:40:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694366328882302226.txt"
   },
   {
@@ -3540,7 +3546,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791485936",
    "found": "2026-10-08T19:12:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694373458628578567.txt"
   },
   {
@@ -3551,7 +3557,7 @@
    "caption": "הגיע הזמן שלא נלך יותר לפי הנרטיב שלהם ולא נתנצל יותר- זה לא הגדה המע...",
    "posted": "1791486562",
    "found": "2026-10-08T19:13:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694376147555077396.txt"
   },
   {
@@ -3562,7 +3568,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791486734",
    "found": "2026-10-08T19:27:20Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694376895114186002.txt"
   },
   {
@@ -3583,8 +3589,11 @@
    "caption": "אבי גיל, המזכיר הצבאי של נתניהו לשעבר, על הניסיון של צחי ברוורמן לזיי...",
    "posted": "1791487352",
    "found": "2026-10-08T19:28:40Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694379532064754952.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694379532064754952.txt",
+   "insightIds": [
+    "ins-2026-10-10-gil7"
+   ]
   },
   {
    "id": "7694379504097168661",
@@ -3594,7 +3603,7 @@
    "caption": "למה הושמטו כלי נ$ק בהסדר הטיעון - והחתן קיבל רק 45 חודשי מאסר? (שלי ט...",
    "posted": "1791487348",
    "found": "2026-10-08T19:30:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694379504097168661.txt"
   },
   {
@@ -3615,7 +3624,7 @@
    "caption": "כשעופרי רחום שרה בכל אירועי הזיכרון - המילים יוצאות עמוק מתוך הנפש של...",
    "posted": "1791522000",
    "found": "2026-10-09T05:08:39Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694382470946508053.txt"
   },
   {
@@ -3626,7 +3635,7 @@
    "caption": "“עבדו את השם בשמחה!”: לוחמי נצח יהודה בטקס ההשבעה בכותל 📸: עמותת נצח ",
    "posted": "1791524384",
    "found": "2026-10-09T05:49:14Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694538610699144469.txt"
   },
   {
@@ -3651,7 +3660,7 @@
    "caption": "נערים תקפו פעילים של מפלגת הדמוקרטים בשוק מחנה יהודה בירושלים. מהמפלג...",
    "posted": "1791528231",
    "found": "2026-10-09T06:49:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694555108767714581.txt"
   },
   {
@@ -3662,8 +3671,11 @@
    "caption": "בפרלמנט בת ים אמרו לי שהחרדים לא צריכים את הכסף שלי>> #ישראל #בתים #פ...",
    "posted": "1791529653",
    "found": "2026-10-09T07:22:08Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694561224477936917.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694561224477936917.txt",
+   "insightIds": [
+    "ins-2026-10-10-bn12"
+   ]
   },
   {
    "id": "7694561918115220743",
