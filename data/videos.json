@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692880399516716309",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7692880399516716309",
-   "caption": "",
-   "posted": "1791138304",
-   "found": "2026-10-05T07:15:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692880399516716309.txt"
-  },
-  {
    "id": "7692745762136018196",
    "channel": "mordechaidavid2026",
    "name": "mordechaidavid2026",
@@ -4468,12 +4457,23 @@
    "found": "2026-10-09T18:31:37Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694735977209679122.txt"
+  },
+  {
+   "id": "7694907226900811029",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7694907226900811029",
+   "caption": "הצצה מאחורי הקלעים- מסע הסברה בלונדון, 3 שנים לשבעה באוקטובר. באנו לת...",
+   "posted": "1791610210",
+   "found": "2026-10-10T05:45:20Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7694907226900811029.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T05:28:44Z",
+  "at": "2026-10-10T05:45:26Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
