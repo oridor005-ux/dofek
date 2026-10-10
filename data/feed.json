@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T14:01:50.118Z",
+ "updated": "2026-10-10T14:13:20.267Z",
  "items": [
   {
    "id": "56a4716105da",
@@ -33,6 +33,20 @@
    "id": "5a713060d5b7",
    "kind": "headline",
    "title": "הפרדוקס במדד ת\"א 125 - ועוד 4 כתבות על המצב בשווקים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558851#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-10T12:57:00.000Z",
+   "summary": "אף שאחד ממדדי הדגל של ת\"א עלה בשיעור דו־ספרתי, רוב המניות הכלולות בו רשמו תשואה שלילית • התשואה הממוצעת שהציגו קרנות הגידור המנייתיות מתחילת השנה נפגעה ברבעון השלישי • לפני כשנה המליץ שמואל בן אריה מפיוניר על טבע ועל מניות הביטוח - וקצר תשואות פנומנליות &bull; בבנק אוף אמריקה מתארים את המחשוב…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783593366/direct/%D7%98%D7%9C%D7%98%D7%9C%D7%94_%D7%91%D7%A9%D7%95%D7%95%D7%A7%D7%99%D7%9D_3_bndgwf.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "125f7720b1da",
+   "kind": "headline",
+   "title": "תחזית האימים לוול סטריט – ועוד 4 כתבות על המצב בשווקים",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001558851#utm_source=RSS",
    "topic": "econ",
@@ -5619,20 +5633,6 @@
    "published": "2026-10-08T12:12:35.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b2a2f30e92d7",
-   "kind": "headline",
-   "title": "גוגל תשלם 8 מיליון שקל במסגרת פשרה בשתי תביעות ייצוגיות",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558865#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T12:07:00.000Z",
-   "summary": "התובענות הייצוגיות הוגשו לבית המשפט המחוזי בטענה כי גוגל המשיכה לאסוף נתוני מיקום גם לאחר שמשתמשים כיבו את הפונקציה במכשיריהם, ואף השתמשה בנתונים לצרכים מסחריים &bull; גוגל לא הודתה בטענות, אך התחייבה להגביר את הגילוי למשתמשים בישראל &bull; בנוסף תשלם מיליון שקל שכר טרחה ו-110 אלף שקל גמול",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1704812916/direct/shutterstock_1283047378_lj0y3f.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
