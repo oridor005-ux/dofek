@@ -1,28 +1,6 @@
 {
  "items": [
   {
-   "id": "7693098185094532373",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693098185094532373",
-   "caption": "\"ילדים אומרים 'אמא ואבא מתו', לשמוע את זה, זה אומר הכל\" ↓ עמית עידן, ...",
-   "posted": "1791189008",
-   "found": "2026-10-05T08:44:32Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693098185094532373.txt"
-  },
-  {
-   "id": "7693103404842896648",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693103404842896648",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791190227",
-   "found": "2026-10-05T08:59:11Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693103404842896648.txt"
-  },
-  {
    "id": "7693105271656303892",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4470,10 +4448,32 @@
    "found": "2026-10-10T16:54:38Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695082097630776597.txt"
+  },
+  {
+   "id": "7695085376679021844",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7695085376679021844",
+   "caption": "רוני קובן שאל אותי מה דעתי על יאיר נתניהו. זה מה שאמרתי לו>> #ישראל #...",
+   "posted": "1791651689",
+   "found": "2026-10-10T17:08:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695085376679021844.txt"
+  },
+  {
+   "id": "7695084891070876949",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7695084891070876949",
+   "caption": "הגנרלים התריעו על סופה מושלמת - ואז יצאו החוצה בלי מטריה",
+   "posted": "1791651575",
+   "found": "2026-10-10T17:09:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695084891070876949.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T16:54:49Z",
+  "at": "2026-10-10T17:09:26Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 2
