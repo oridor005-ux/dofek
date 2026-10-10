@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:06.829Z"
+   "checkedAt": "2026-10-10T20:20:52.306Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:07.523Z"
+   "checkedAt": "2026-10-10T20:20:52.928Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:08.193Z"
+   "checkedAt": "2026-10-10T20:20:53.532Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11469,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:08.900Z"
+   "checkedAt": "2026-10-10T20:20:54.192Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19346,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:09.562Z"
+   "checkedAt": "2026-10-10T20:20:54.800Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:10.240Z"
+   "checkedAt": "2026-10-10T20:20:55.437Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:10.909Z"
+   "checkedAt": "2026-10-10T20:20:56.040Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131694,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:11.645Z"
+   "checkedAt": "2026-10-10T20:20:56.701Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75020,
+   "lastId": 75021,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:12.242Z"
+   "checkedAt": "2026-10-10T20:20:57.241Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:12.951Z"
+   "checkedAt": "2026-10-10T20:20:57.865Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T20:09:13.680Z"
+   "checkedAt": "2026-10-10T20:20:58.573Z"
   }
  },
  "posts": [
@@ -6022,13 +6022,22 @@
    "date": "2026-10-10T20:02:26+00:00",
    "text": "🔴 בת 53 נפצעה קשה מירי לעבר בית בגליל התחתון. המשטרה פתחה בחקירה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/75021",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75021",
+   "date": "2026-10-10T20:13:45+00:00",
+   "text": "🔴 המשטרה: רימון רסס הושלך לעבר בית בנס ציונה, אין נפגעים\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T20:09:14.080Z",
+  "at": "2026-10-10T20:20:58.974Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 507
+  "added": 1,
+  "pendingNew": 508
  }
 }
