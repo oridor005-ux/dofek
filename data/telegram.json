@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:54.483Z"
+   "checkedAt": "2026-10-10T09:52:28.419Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:55.169Z"
+   "checkedAt": "2026-10-10T09:52:29.045Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:55.819Z"
+   "checkedAt": "2026-10-10T09:52:29.643Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:56.476Z"
+   "checkedAt": "2026-10-10T09:52:30.267Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19339,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:57.160Z"
+   "checkedAt": "2026-10-10T09:52:30.928Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:57.839Z"
+   "checkedAt": "2026-10-10T09:52:31.530Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:58.492Z"
+   "checkedAt": "2026-10-10T09:52:32.148Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131658,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:59.222Z"
+   "checkedAt": "2026-10-10T09:52:32.788Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74979,
+   "lastId": 74980,
    "ok": true,
-   "checkedAt": "2026-10-10T09:40:59.806Z"
+   "checkedAt": "2026-10-10T09:52:33.333Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8414,
    "ok": true,
-   "checkedAt": "2026-10-10T09:41:00.482Z"
+   "checkedAt": "2026-10-10T09:52:33.969Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T09:41:01.227Z"
+   "checkedAt": "2026-10-10T09:52:34.658Z"
   }
  },
  "posts": [
@@ -97,15 +97,6 @@
    "date": "2026-10-06T10:17:01+00:00",
    "text": "מזרח ירושלים: ערוצים פלסטינים מדווחים שהשר בן גביר עלה על אחד הכלים ההנדסיים שמשתתפים הבוקר בהריסה בלתי חוקית של בניין בן 5 קומות בשכונת א-טור במזרח ירושלים. בסרטון נוסף שצירפתי מייבבת אחת הפלסטיניות על ביתה שנהרס. 7 תגובות",
    "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74667",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74667",
-   "date": "2026-10-06T09:50:01+00:00",
-   "text": "🔴 ברלין: לראש ה-BND היו מסמכים על הגרעין האיראני, נבחן אם העביר מידע לסין ורוסיה \nלמבזק המלא ב-ynet >",
    "status": "no-claims"
   },
   {
@@ -6198,13 +6189,22 @@
    "date": "2026-10-10T09:36:46+00:00",
    "text": "🔴 דיווח: איראן שימרה את מפעלי הטילים והכטב\"מים - ומשקמת את ארסנל הנשק\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74980",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74980",
+   "date": "2026-10-10T09:46:03+00:00",
+   "text": "🔴 בן 8 נפצע באורח קשה באזור ערד, ככה\"נ בתאונת דרכים\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T09:41:01.628Z",
+  "at": "2026-10-10T09:52:35.059Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 422
+  "added": 1,
+  "pendingNew": 423
  }
 }
