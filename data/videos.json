@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7693115958038105362",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693115958038105362",
-   "caption": "‏#דואט עם @ahmad tibi #تجاهل #פוריו #בשבילך #ימין",
-   "posted": "1791193147",
-   "found": "2026-10-05T09:45:16Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693115958038105362.txt"
-  },
-  {
    "id": "7693115380616727829",
    "channel": "c14news",
    "name": "c14news",
@@ -4464,12 +4453,22 @@
    "found": "2026-10-10T18:10:10Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695099418873203988.txt"
+  },
+  {
+   "id": "7695103590700010770",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7695103590700010770",
+   "caption": "הדרך הכי מתוקה לבשר על הרחבת המשפחה: ניצן החליטה להפתיע את בעלה שלי ו...",
+   "posted": "1791655931",
+   "found": "2026-10-10T18:23:56Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-10T18:10:16Z",
+  "at": "2026-10-10T18:24:09Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 3
+  "transcribed": 1
  }
 }
