@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T08:05:28.405Z",
+ "updated": "2026-10-10T08:17:02.622Z",
  "items": [
+  {
+   "id": "49e61f0fd168",
+   "kind": "headline",
+   "title": "חיזוי גירושים תוך שלוש דקות: האם המחקר רלוונטי גם לשותפות יו\"ר ומנכ\"ל?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001558448#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-10T08:00:00.000Z",
+   "summary": "החוקר ג'ון גוטמן חזה גירושים על בסיס שלוש דקות שיחה, לא מתוך מה שנאמר אלא מהדרך בה בני הזוג מתקשרים • אותם דפוסים שמנבאים קריסת זוגיות, נוכחים גם ביחסי יו\"ר ומנכ\"ל חברה • ומה אפשר ללמוד מ\"הגירושים העסקי\" של ראטן טאטא וסיירוס מיסטרי? • עסק משפחתי, טור חודשי",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791207803/800_dgav5l.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "35a9057bd585",
    "kind": "headline",
@@ -5626,20 +5640,6 @@
    "score": 1,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "85bbd672f83e",
-   "kind": "headline",
-   "title": "הגירעון בספטמבר נמוך מהיעד, אבל באוצר לא ממהרים לחגוג",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001558856#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-10-08T10:36:00.000Z",
-   "summary": "הגירעון המצטבר ב-12 החודשים האחרונים עמד גם בספטמבר על 3.2% תוצר, לעומת יעד של 4.9% תוצר &bull; הכנסות המדינה ממסים הסתכמו בספטמבר בכ-47 מיליארד שקל, עלייה ריאלית של 6% לעומת אשתקד &bull; אך באוצר מזהירים: המחצית השנייה של השנה מתאפיינת בקצב גידול גבוה יותר בהוצאות",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1691936626/direct/shutterstock_2166940899_u5oid3.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
   }
  ]
 }

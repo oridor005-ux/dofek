@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:16.939Z"
+   "checkedAt": "2026-10-10T08:05:47.095Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:17.595Z"
+   "checkedAt": "2026-10-10T08:05:47.812Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:18.211Z"
+   "checkedAt": "2026-10-10T08:05:48.495Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:18.888Z"
+   "checkedAt": "2026-10-10T08:05:49.223Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19338,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:19.507Z"
+   "checkedAt": "2026-10-10T08:05:49.899Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:20.113Z"
+   "checkedAt": "2026-10-10T08:05:50.591Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:20.711Z"
+   "checkedAt": "2026-10-10T08:05:51.287Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131649,
+   "lastId": 131650,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:21.365Z"
+   "checkedAt": "2026-10-10T08:05:52.016Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74975,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:21.925Z"
+   "checkedAt": "2026-10-10T08:05:52.623Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8413,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:22.558Z"
+   "checkedAt": "2026-10-10T08:05:53.338Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T07:54:23.207Z"
+   "checkedAt": "2026-10-10T08:05:54.107Z"
   }
  },
  "posts": [
@@ -6219,13 +6219,23 @@
    "date": "2026-10-10T07:53:15+00:00",
    "text": "🔴 דיווח בלבנון על תקיפה בדרום המדינה \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131650",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131650",
+   "date": "2026-10-10T08:02:35+00:00",
+   "text": "צעיר יהודי נפצע בראשו מידוי אבנים סמוך לכפר דיר אבו משעל (קרוב לניל\"י ועופרים)\nלאזור הגיעו מאות ערבים, פעילי שמאל פרו פלסטינים זרים וישראלים (בחלקם רעולי פנים) - במסגרת פעילויות \"מסיק הזיתים\".\nכוח צה\"ל שהגיע למקום פיזר את הערבים ואת הפעילים הפרו פלסטינים בירי גומי וגז מדמיע.\nבעקבות כך הם חזרו לכפר דיר אבו משעל ממנו הגיעו.\nהפלסטינים מדווחים שהעיתונאי העזתי עצאם א-רימאוי נפצע מירי גומי בירך.\nמצורף תיעוד.\nתגובה אחת",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T07:54:23.607Z",
+  "at": "2026-10-10T08:05:54.508Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 415
+  "added": 1,
+  "pendingNew": 416
  }
 }
