@@ -3,91 +3,82 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65659,
+   "lastId": 65660,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:41.713Z"
+   "checkedAt": "2026-10-10T16:59:30.597Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
-   "lastId": 7266,
+   "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:42.370Z"
+   "checkedAt": "2026-10-10T16:59:31.277Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:43.001Z"
+   "checkedAt": "2026-10-10T16:59:31.927Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11465,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:43.639Z"
+   "checkedAt": "2026-10-10T16:59:32.613Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
-   "lastId": 19343,
+   "lastId": 19344,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:44.268Z"
+   "checkedAt": "2026-10-10T16:59:33.284Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:44.902Z"
+   "checkedAt": "2026-10-10T16:59:34.007Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:45.530Z"
+   "checkedAt": "2026-10-10T16:59:34.657Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131679,
+   "lastId": 131685,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:46.236Z"
+   "checkedAt": "2026-10-10T16:59:35.359Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75008,
+   "lastId": 75010,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:46.805Z"
+   "checkedAt": "2026-10-10T16:59:35.944Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:47.485Z"
+   "checkedAt": "2026-10-10T16:59:36.684Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T16:47:48.168Z"
+   "checkedAt": "2026-10-10T16:59:37.385Z"
   }
  },
  "posts": [
-  {
-   "id": "ynetalerts/74698",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74698",
-   "date": "2026-10-06T16:51:30+00:00",
-   "text": "🔴 ר\"מ קנדה יבקר בטורקיה וייפגש עם ארדואן \nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "amitsegal/65569",
    "channel": "amitsegal",
@@ -6004,13 +5995,79 @@
    "date": "2026-10-10T16:46:24+00:00",
    "text": "🔴 צה\"ל: חוסלו שני מחבלי נוחבה מהחמאס ברצועה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "Ben_Caspit/19344",
+   "channel": "ben_caspit",
+   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
+   "url": "https://t.me/Ben_Caspit/19344",
+   "date": "2026-10-10T16:55:56+00:00",
+   "text": "שיחת הפתיחה של ״פגוש״ היום על עדות אבי גיל וההתרעות שקיבל נתניהו. אני רק מוסיף כאן בקטנה, \nלגבי הטענה שאלוף אבי גיל ״נכפה״ על נתניהו שרצה להחליפו, אבל הרמטכ״ל הרצי הלוי סירב:\nב-1 במאי 2023 נשלחה מלשכת הרמטכ״ל ללשכת ראש הממשלה רשימה של שלושה מועמדים לתפקיד מזכ״צ: תא״ל יניב אלאלוף תא״ל ארז הסקל ותא״ל דדו בר כליפא. הרמטכ״ל העביר רשימת מועמדים לראש הממשלה - הטענה שהרצי סירב משוללת יסוד. ראש הממשלה בחר להשאיר את אבי גיל בתפקיד אחרי שעבדו יחד. זו היתה החלטה של נתניהו.",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131680",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131680",
+   "date": "2026-10-10T16:48:17+00:00",
+   "text": "לראשונה: משלחת רשמית של חיל-האוויר הישראלי השתתפה בתערוכת \"Marrakech Airshow\" במרוקו\nמשלחת רשמית מטעם חיל-האוויר הישראלי, בראשות ראש מחלקת אימונים בחיל האוויר, אלוף-משנה ע', השתתפה השבוע לראשונה בתערוכה הביטחונית-אווירית הבינלאומית \"Marrakech Airshow\" במרוקו. זוהי ההשתתפות הרשמית הראשונה של מדינת ישראל באירוע זה מאז חתימת \"הסכמי אברהם\".\nכדי להגיב לכתבה לחצו כאן",
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131683",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131683",
+   "date": "2026-10-10T16:52:04+00:00",
+   "text": "עסקת הסולר גדולה בין טראמפ לפוטין - האוקראינים זועמים וממשיכים לתקוף מתקני אנרגיה ברוסיה העסקה עליה הכריז הנשיא טראמפ אמש בעקבות שיחה עם הנשיא פוטין מטלטלת את אוקראינה ואת מדינות האיחוד האירופאי. רוסיה תייצא 300 אלף טון סולר באוקטובר וחצי מיליון טון סולר…",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131684",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131684",
+   "date": "2026-10-10T16:54:10+00:00",
+   "text": "טראמפ: ייתכן שנצטרף לתקיפות הסעודיות נגד החות'ים . נבחן את הנושא. רק עכשיו נודע לנו על המתקפה האחרונה. נקבל החלטה. אנחנו פועלים מהר מאוד.\"\nכדי להגיב לכתבה לחצו כאן",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "abualiexpress/131685",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131685",
+   "date": "2026-10-10T16:57:49+00:00",
+   "text": "צבע אדום בצפון : \nחדירת כלי טיס בערב אל עראמשה\nתגובה אחת",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75009",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75009",
+   "date": "2026-10-10T16:54:01+00:00",
+   "text": "🔴 סעודיה: היקף הפצועים בנמל התעופה בבדיקה, הפעילות הושעתה \nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75010",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75010",
+   "date": "2026-10-10T16:58:20+00:00",
+   "text": "🔴 חשש לחדירת כטב\"ם בגליל המערבי\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T16:47:48.568Z",
+  "at": "2026-10-10T16:59:37.784Z",
   "ok": 11,
   "fail": 0,
-  "added": 5,
-  "pendingNew": 476
+  "added": 7,
+  "pendingNew": 483
  }
 }
