@@ -5,98 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:24.361Z"
+   "checkedAt": "2026-10-10T11:38:59.412Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:25.080Z"
+   "checkedAt": "2026-10-10T11:39:00.043Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:25.761Z"
+   "checkedAt": "2026-10-10T11:39:00.682Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:26.472Z"
+   "checkedAt": "2026-10-10T11:39:01.369Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19340,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:27.164Z"
+   "checkedAt": "2026-10-10T11:39:01.983Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:27.862Z"
+   "checkedAt": "2026-10-10T11:39:02.590Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:28.534Z"
+   "checkedAt": "2026-10-10T11:39:03.206Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131659,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:29.265Z"
+   "checkedAt": "2026-10-10T11:39:03.853Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74989,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:29.864Z"
+   "checkedAt": "2026-10-10T11:39:04.397Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:30.561Z"
+   "checkedAt": "2026-10-10T11:39:05.030Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T11:27:31.369Z"
+   "checkedAt": "2026-10-10T11:39:05.740Z"
   }
  },
  "posts": [
-  {
-   "id": "ynetalerts/74675",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74675",
-   "date": "2026-10-06T11:37:48+00:00",
-   "text": "🔴 בית המשפט של ארה\"ב למיליארדר שנאשם בסיוע לחמאס: \"חשוף את רמת מעורבותך\"\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "the7eye/8406",
-   "channel": "the7eye",
-   "name": "העין השביעית",
-   "url": "https://t.me/the7eye/8406",
-   "date": "2026-10-06T11:34:21+00:00",
-   "text": "השופטים לא מצליחים להילחם במריחת הזמן במשפט נתניהו: אחרי החגים אמור היה משפטו הפלילי של ראש הממשלה להתנהל לראשונה על פני שבוע עבודה מלא - אולם כבר מן היום הראשון החלו להיערם הבקשות לביטול עשרות ימי דיונים\nלכתבה של אורן פרסיקו: https://www.the7eye.org.il/596319\n==\n📋 המשפט החשוב בתולדות המדינה – כיסוי מקיף ועדכני: https://did.li/p38Iw\n🌟 בלי הקוראים שלנו, אין \"העין השביעית\": https://the7eye.org.il/join",
-   "status": "no-claims"
-  },
   {
    "id": "abualiexpress/131453",
    "channel": "abualiexpress",
@@ -6170,10 +6152,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T11:27:31.770Z",
+  "at": "2026-10-10T11:39:06.142Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
+  "added": 0,
   "pendingNew": 434
  }
 }
