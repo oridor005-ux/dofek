@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "id": "7692569611618848021",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7692569611618848021",
-   "caption": "ראיתי שהוציאו סרטון ערוך מתוך ראיון לפני מעל 5 שנים בטלויזיה הסעודית ...",
-   "posted": "1791065942",
-   "found": "2026-10-05T07:29:22Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7692569611618848021.txt"
-  },
-  {
    "id": "7692308397638634804",
    "channel": "yosephhaddad",
    "name": "yosephhaddad",
@@ -4473,12 +4462,22 @@
    "found": "2026-10-10T10:32:43Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7694983890737417493.txt"
+  },
+  {
+   "id": "7694992243291147540",
+   "channel": "n12news",
+   "name": "n12news",
+   "url": "https://www.tiktok.com/@n12news/video/7694992243291147540",
+   "caption": "אחת מול כולם: תיעוד ויראלי מציג אישה שצעדה ללא חשש בתוך צעדת מחאה פרו...",
+   "posted": "1791630005",
+   "found": "2026-10-10T11:02:29Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-10T10:47:24Z",
+  "at": "2026-10-10T11:02:39Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 1
  }
 }
