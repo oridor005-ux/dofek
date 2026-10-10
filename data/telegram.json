@@ -5,89 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:31.424Z"
+   "checkedAt": "2026-10-10T15:12:59.090Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:32.067Z"
+   "checkedAt": "2026-10-10T15:12:59.744Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:32.660Z"
+   "checkedAt": "2026-10-10T15:13:00.346Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:33.317Z"
+   "checkedAt": "2026-10-10T15:13:01.012Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:33.934Z"
+   "checkedAt": "2026-10-10T15:13:01.636Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:34.595Z"
+   "checkedAt": "2026-10-10T15:13:02.273Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:35.212Z"
+   "checkedAt": "2026-10-10T15:13:02.910Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131674,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:35.927Z"
+   "checkedAt": "2026-10-10T15:13:03.625Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74999,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:36.467Z"
+   "checkedAt": "2026-10-10T15:13:04.162Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:37.115Z"
+   "checkedAt": "2026-10-10T15:13:04.778Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T15:01:37.839Z"
+   "checkedAt": "2026-10-10T15:13:05.449Z"
   }
  },
  "posts": [
-  {
-   "id": "ynetalerts/74694",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74694",
-   "date": "2026-10-06T15:09:50+00:00",
-   "text": "🔴 עקב תוצאות חריגות בדיגום מים: 9 נחלים בצפון עלולים להיות מסוכנים לרחצה\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "Ben_Caspit/19286",
    "channel": "ben_caspit",
@@ -5966,10 +5957,10 @@
   }
  ],
  "health": {
-  "at": "2026-10-10T15:01:38.240Z",
+  "at": "2026-10-10T15:13:05.849Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
+  "added": 0,
   "pendingNew": 457
  }
 }
