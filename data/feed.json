@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-10T11:50:11.383Z",
+ "updated": "2026-10-10T12:02:36.045Z",
  "items": [
+  {
+   "id": "b3f6d6aeffca",
+   "kind": "headline",
+   "title": "In three years, Israel's war on Gaza hasn't just changed the Middle East, it's changed the world | Steve Bloomfield",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence",
+   "topic": "israelAbroad",
+   "published": "2026-10-10T12:00:56.000Z",
+   "summary": "A whirlpool of violence has engulfed everywhere from Lebanon to Yemen. Meanwhile, the west has destroyed any political authority it once had There was a world before 7 October, 2023, and now there is a world after. For Gaza, for Israel, for the wider Middle East, and for everyone else too. Not all…",
+   "image": "https://i.guim.co.uk/img/media/ae0f52fe07b0e90dcf49726bc6249e9b173e3ee6/0_0_4879_3903/master/4879.jpg?width=140&quality=85&auto=format&fit=max&s=a5222d5f96a84bf4cd94a3a91d59cf95",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "be849ed2c736",
    "kind": "headline",
@@ -12,7 +26,9 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "Wisdom 92.1"
+   ],
    "important": false
   },
   {
@@ -109,6 +125,20 @@
    "published": "2026-10-10T07:30:00.000Z",
    "summary": "\"אי-אפשר לפספס עליי שלא הייתי ב-8200, אי-אפשר גם לפספס שאני ישראלי. היה מקרה שזה ביטל את ההשקעה בנו במקום. העוינות לישראל נוכחת\" • שיחה קצרה עם אביב שמני, מנכ\"ל הסטארט-אפ Limy, שמודד ומשפר את ההשפעה של AI על מכירות",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791358622/Nir-Slakman---0869-%D7%90%D7%91%D7%99%D7%91-%D7%A9%D7%9E%D7%A0%D7%99_l0vw0d.png",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "b9d9c28a9eb0",
+   "kind": "headline",
+   "title": "בש\"ס מנסים ללכת בלי (גיוס) ולהרגיש עם, גזענות ב\"יתד נאמן\" | סקירת העיתונות החרדית",
+   "source": "העין השביעית",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WaFVZU0FOcS0xamhBUW1EbG1adDIzc2RKT0xONWtYZlV6bUdydmVOR0hZRk5fNGxKM2pob3l3cFhNUjd2SFJFbQ?oc=5",
+   "topic": "deals",
+   "published": "2026-10-10T07:29:45.000Z",
+   "summary": "",
+   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
@@ -5605,34 +5635,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "26ccb209df98",
-   "kind": "headline",
-   "title": "הגירעון השנתי נותר ללא שינוי – 3.3% מהתוצר",
-   "source": "אתר החדשות דבר",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JV3Nqc3FPbmJVQVRVV1NSQTBxQlNOS3dnUmYxT0NKYU9ZeFktTE1LY21LMnVsRHNGRWIxemMtLWRfUy1HM2E0?oc=5",
-   "topic": "econ",
-   "published": "2026-10-08T11:39:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f56ca71c6cc5",
-   "kind": "headline",
-   "title": "Lieberman says Netanyahu aware of U.S. move to recognize Palestinian state",
-   "source": "Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUmFUUjh3SWdRaEYzYlM2S3dPZjBCSXlyOW1YOEdqWUNaVUtsczZJbDljQ21vU2hKbVp5bmhrTnNQakQ3TWlNcU51a25OaFFTNXZwb3pnS0s1bkpjT3EyWHlVRG96RXhHa3RScHJWN183WTVwNVlSRkF1SlNreElNYzNiSWJ5QkRYSWJOb1FWSkw1MjZ4cVU1dFRpZVpDU1FDQWppTzdXSUg2bzFxNTZjZWgtQk9CZFd0aVhDeW05MDdSeDJJVXNiUnozZTZaRVJneThhMzlLRUJydmhkRWE1d3FCUDBKVkRKWjljWmZNZ1pNNlZoWkMta0REbzlMa1o4NlBBd1FrOW14SGUtSzFFRVFPdk4tTnNfNV9mbEdB?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-08T11:28:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }

@@ -5,77 +5,77 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T11:38:59.412Z"
+   "checkedAt": "2026-10-10T11:51:21.661Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:00.043Z"
+   "checkedAt": "2026-10-10T11:51:22.342Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:00.682Z"
+   "checkedAt": "2026-10-10T11:51:23.014Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:01.369Z"
+   "checkedAt": "2026-10-10T11:51:23.709Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19340,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:01.983Z"
+   "checkedAt": "2026-10-10T11:51:24.366Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:02.590Z"
+   "checkedAt": "2026-10-10T11:51:25.049Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:03.206Z"
+   "checkedAt": "2026-10-10T11:51:25.695Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131659,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:03.853Z"
+   "checkedAt": "2026-10-10T11:51:26.383Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74989,
+   "lastId": 74990,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:04.397Z"
+   "checkedAt": "2026-10-10T11:51:26.966Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:05.030Z"
+   "checkedAt": "2026-10-10T11:51:27.648Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T11:39:05.740Z"
+   "checkedAt": "2026-10-10T11:51:28.355Z"
   }
  },
  "posts": [
@@ -6149,13 +6149,22 @@
    "date": "2026-10-10T11:18:55+00:00",
    "text": "גורמי שמאל מרושעים חדרו אל תוך הישיבות, ושקרים נוספים\n• העיתונים החרדים מוחים על הצגת אירוע פליי-דובאי כמפגן של תושיה וגבורה אזרחית \n• \"יתד נאמן\" מסכם את דרשות חג סוכות של המנהיגים הליטאים (הצביעו ג') ומסמנים את האויב המסוכן מכל \n• בעיתון של ש\"ס מנסים ללכת בין הטיפות, לתמוך בסרבנות הגיוס ולא לנכר את קהל הבוחרים שכן נושא בעול הביטחון \n• הגזענות האופיינית מתובלת לכבוד שבת בנתונים דמיוניים, ולא מסתפקת רק בערבים \n• והדובר של ש\"ס קורא להתגייס (אבל לא לצה\"ל)\n📌 שמירת העיניים: עיון ביקורתי בעיתונות החרדית. טור חדש: https://www.the7eye.org.il/596785\n📌 לטורים הקודמים: https://katzr.net/9f4e4d\n==\n📋 כל מה שקרה השבוע בתקשורת, ישירות לתיבת המייל: https://www.the7eye.org.il/signup\n🌟 בלי הקוראים שלנו, אין \"העין השביעית\": https://the7eye.org.il/join",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74990",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74990",
+   "date": "2026-10-10T11:49:52+00:00",
+   "text": "🔴 אבו מאזן: הבחירות לפרלמנט ולנשיאות הפלסטינית יידחו לספטמבר 2027\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T11:39:06.142Z",
+  "at": "2026-10-10T11:51:28.755Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 434
+  "added": 1,
+  "pendingNew": 435
  }
 }
