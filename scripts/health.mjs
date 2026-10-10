@@ -12,6 +12,8 @@ const now = Date.now();
 const mins = (iso) => iso ? Math.round((now - new Date(iso)) / 60000) : Infinity;
 const ilHour = +new Intl.DateTimeFormat('en-GB', { timeZone: 'Asia/Jerusalem', hour: '2-digit', hour12: false }).format(new Date()) % 24;
 const daytime = ilHour >= 9 && ilHour <= 23;
+// מצב חיסכון (LOW_MODE=1 ב-workflow): הכול רץ פעם ביום, אז לא מתריעים על "לא רץ כבר X"
+const LOW = process.env.LOW_MODE === '1';
 const fmt = (m) => m === Infinity ? 'אף פעם' : m < 90 ? `${m} דקות` : `${Math.round(m / 60)} שעות`;
 
 async function send(title, message, priority = 4) {
@@ -37,7 +39,7 @@ const config = readJSON('config.json', {});
 
 const problems = {}; // key -> text
 // 1. המנוע (נבדק מתהליך התמלול — אם המנוע עצמו לא רץ הוא לא יכול לדווח על עצמו)
-if (WHO === 'transcribe' && mins(state.lastRun) > 45)
+if (!LOW && WHO === 'transcribe' && mins(state.lastRun) > 45)
   problems.engine = `איסוף הכותרות והפושים לא רץ כבר ${fmt(mins(state.lastRun))}.`;
 // 2. מקורות
 const src = h.sources;
@@ -45,7 +47,7 @@ if (src && src.direct && src.directFail / src.direct > 0.5)
   problems.sources = `${src.directFail} מתוך ${src.direct} אתרי החדשות לא עונים.`;
 if (src && src.google && src.googleFail / src.google > 0.8 && mins(h.googleOkAt) > 180)
   problems.google = `חיפושי Google News נכשלים כבר ${fmt(mins(h.googleOkAt))} (כנראה חסימה זמנית).`;
-if (daytime && mins(h.lastNewItemAt) > 240 && mins(state.lastRun) < 45)
+if (!LOW && daytime && mins(h.lastNewItemAt) > 240 && mins(state.lastRun) < 45)
   problems.noNews = `לא נכנסה אף ידיעה חדשה כבר ${fmt(mins(h.lastNewItemAt))}.`;
 // 3. פושים
 if (h.lastPushError && mins(h.lastPushError.at) < 60)
@@ -54,13 +56,13 @@ if (WHO === 'update' && (state.ntfyTokenSet === false || state.ownerKeySet === f
   problems.secrets = 'חסר מפתח סודי ב-GitHub (NTFY_TOKEN או OWNER_KEY).';
 // 4. סבבי Claude (סיכומים ובדיקות)
 const lastClaude = [...insights.map(i => i.published), ...Object.values(summaries).map(s => s.updated)].filter(Boolean).sort().pop();
-if (daytime && mins(lastClaude) > 840) // הסבבים רצים 3 פעמים ביום (09:45, 15:45, 21:45), כך שבבוקר עוברות עד ~13 שעות מהסבב הקודם
+if (!LOW && daytime && mins(lastClaude) > 840) // הסבבים רצים 3 פעמים ביום (09:45, 15:45, 21:45), כך שבבוקר עוברות עד ~13 שעות מהסבב הקודם
   problems.claude = `סבב הסיכומים והבדיקות של Claude לא הוסיף כלום כבר ${fmt(mins(lastClaude))}. אולי נגמרה מכסת השימוש, או שהמשימה המתוזמנת נכשלה.`;
 // 5. טיקטוק
 const vh = videos.health;
 if ((config.tiktokChannels || []).length && vh) {
   if (vh.channelsOk === 0 && vh.channelsFail > 0) problems.tiktok = `אף ערוץ טיקטוק לא נטען (${vh.channelsFail} נכשלו). ייתכן שטיקטוק חוסם.`;
-  if (mins(vh.at) > 90 && WHO === 'update') problems.tiktokStale = `מעקב הטיקטוק לא רץ כבר ${fmt(mins(vh.at))}.`;
+  if (!LOW && mins(vh.at) > 90 && WHO === 'update') problems.tiktokStale = `מעקב הטיקטוק לא רץ כבר ${fmt(mins(vh.at))}.`;
 }
 
 // שליחה: התראה חדשה מיד, תזכורת כל 6 שעות, והודעה כשהבעיה נפתרה
