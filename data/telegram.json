@@ -5,109 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:07.336Z"
+   "checkedAt": "2026-10-10T14:37:38.148Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:07.998Z"
+   "checkedAt": "2026-10-10T14:37:38.778Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:08.624Z"
+   "checkedAt": "2026-10-10T14:37:39.387Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:09.276Z"
+   "checkedAt": "2026-10-10T14:37:40.019Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:09.922Z"
+   "checkedAt": "2026-10-10T14:37:40.636Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:10.567Z"
+   "checkedAt": "2026-10-10T14:37:41.249Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:11.223Z"
+   "checkedAt": "2026-10-10T14:37:41.837Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
-   "lastId": 131668,
+   "lastId": 131669,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:11.903Z"
+   "checkedAt": "2026-10-10T14:37:42.613Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 74998,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:12.467Z"
+   "checkedAt": "2026-10-10T14:37:43.157Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:13.126Z"
+   "checkedAt": "2026-10-10T14:37:43.830Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T14:26:13.858Z"
+   "checkedAt": "2026-10-10T14:37:44.513Z"
   }
  },
  "posts": [
-  {
-   "id": "yosephhaddad/11414",
-   "channel": "yosephhaddad",
-   "name": "יוסף חדאד - Yoseph Haddad",
-   "url": "https://t.me/yosephhaddad/11414",
-   "date": "2026-10-06T14:28:44+00:00",
-   "text": "עם הסברה נכונה אפשר לפעמים לשנות דעות אפילו של אנטי ישראלים.\nתנו לי את הכוח להיות שר ההסברה של ישראל🇮🇱",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "amitsegal/65564",
-   "channel": "amitsegal",
-   "name": "עמית סגל",
-   "url": "https://t.me/amitsegal/65564",
-   "date": "2026-10-06T14:34:11+00:00",
-   "text": "היוזמות להבאת ישראלים מחו\"ל לבחירות התחייבו שלא לסבסד את מחירי הטיסות, שלא לארגן טיסות נוספות ולהימנע מסיוע לבוחרים ב-27.10 עצמו. בתמורה, נמחקה עתירת הליכוד",
-   "status": "no-claims"
-  },
-  {
-   "id": "knessettv/54899",
-   "channel": "knessettv",
-   "name": "ערוץ כנסת 99",
-   "url": "https://t.me/knessettv/54899",
-   "date": "2026-10-06T14:33:37+00:00",
-   "text": "\"כבר שלוש שנים אנחנו במציאות חצויה, שענר שם ואנחנו כאן. בואו נהיה במציאות של שלם, שכל החברה הישראלית לוקחת אחריות\" - שירה שפירא, מועמדת 'ישר' לכנסת ואמו של ענר ז\"ל שנפל ב-7/10, סיפרה על השיר החדש מתוך אלבום השירים השלישי של בנה ושיתפה בתחושות החסר של קרוביו: \"הזמן לא מרפא, הוא רק מעמיק את הכאב והגעגוע\"\n📺 מתוך #החדשות עם יניר קוזין | ערוץ כנסת 99",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
   {
    "id": "amitsegal/65565",
    "channel": "amitsegal",
@@ -6004,13 +5975,22 @@
    "date": "2026-10-10T14:16:10+00:00",
    "text": "🔴 רז הרשקו זכתה במדליית הארד באליפות העולם בג'ודו \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "abualiexpress/131669",
+   "channel": "abualiexpress",
+   "name": "אבו עלי אקספרס",
+   "url": "https://t.me/abualiexpress/131669",
+   "date": "2026-10-10T14:32:40+00:00",
+   "text": "הרוג עזתי נוסף, שביעי, בתקיפת כטב\"מ שלישית בשעות האחרונות בעיר עזה. התקיפה התרחשה באזור שכונת דרג' (מערב תפאח). מלבד ההרוג ישנם מספר פצועים. 3 תגובות",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T14:26:14.259Z",
+  "at": "2026-10-10T14:37:44.914Z",
   "ok": 11,
   "fail": 0,
   "added": 1,
-  "pendingNew": 451
+  "pendingNew": 452
  }
 }
