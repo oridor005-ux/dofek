@@ -5,98 +5,80 @@
    "subscribers": "369K",
    "lastId": 65654,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:37.537Z"
+   "checkedAt": "2026-10-10T12:27:04.823Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:38.251Z"
+   "checkedAt": "2026-10-10T12:27:05.469Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:38.919Z"
+   "checkedAt": "2026-10-10T12:27:06.092Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:39.595Z"
+   "checkedAt": "2026-10-10T12:27:06.739Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19340,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:40.253Z"
+   "checkedAt": "2026-10-10T12:27:07.351Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:40.977Z"
+   "checkedAt": "2026-10-10T12:27:07.989Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:41.667Z"
+   "checkedAt": "2026-10-10T12:27:08.704Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131664,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:42.407Z"
+   "checkedAt": "2026-10-10T12:27:09.424Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 74992,
+   "lastId": 74993,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:42.992Z"
+   "checkedAt": "2026-10-10T12:27:09.982Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.22K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:43.674Z"
+   "checkedAt": "2026-10-10T12:27:10.632Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T12:14:44.392Z"
+   "checkedAt": "2026-10-10T12:27:11.315Z"
   }
  },
  "posts": [
-  {
-   "id": "amitsegal/65559",
-   "channel": "amitsegal",
-   "name": "עמית סגל",
-   "url": "https://t.me/amitsegal/65559",
-   "date": "2026-10-06T12:21:30+00:00",
-   "text": "אחרי שעוררה את זעם הליכוד - העמותה שיוזמת את מבצע הטסת הישראלים להצביע בבחירות טוענת: \nמדובר רק ב-500 איש + טיסה אחת נוספת מליסבון, וממילא הם משלמים על זה מחיר מלא",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74678",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74678",
-   "date": "2026-10-06T12:21:46+00:00",
-   "text": "🔴 חברת הפרלמנט האירופי תועדה משחיתה תערוכה לזכר קורבנות 7/10\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "abualiexpress/131454",
    "channel": "abualiexpress",
@@ -6167,13 +6149,22 @@
    "date": "2026-10-10T12:05:05+00:00",
    "text": "🔴 חשש לשיטפונות מחר באזור ים המלח ומדבר יהודה - איסור מוחלט להיכנס לנחלים \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/74993",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/74993",
+   "date": "2026-10-10T12:15:24+00:00",
+   "text": "🔴 טראמפ: החזרתי את כל החטופים הישראלים - ובכל זאת לא קיבלתי פרס נובל\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T12:14:44.793Z",
+  "at": "2026-10-10T12:27:11.715Z",
   "ok": 11,
   "fail": 0,
-  "added": 2,
-  "pendingNew": 440
+  "added": 1,
+  "pendingNew": 441
  }
 }
