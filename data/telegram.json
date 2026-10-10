@@ -5,100 +5,80 @@
    "subscribers": "369K",
    "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:05.549Z"
+   "checkedAt": "2026-10-10T18:34:31.601Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:06.297Z"
+   "checkedAt": "2026-10-10T18:34:32.293Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:07.031Z"
+   "checkedAt": "2026-10-10T18:34:32.965Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
-   "lastId": 11467,
+   "lastId": 11468,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:07.778Z"
+   "checkedAt": "2026-10-10T18:34:33.664Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19346,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:08.510Z"
+   "checkedAt": "2026-10-10T18:34:34.321Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:09.220Z"
+   "checkedAt": "2026-10-10T18:34:35.011Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:09.936Z"
+   "checkedAt": "2026-10-10T18:34:35.681Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131690,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:10.690Z"
+   "checkedAt": "2026-10-10T18:34:36.406Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
    "lastId": 75015,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:11.308Z"
+   "checkedAt": "2026-10-10T18:34:37.001Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:12.112Z"
+   "checkedAt": "2026-10-10T18:34:37.691Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T18:22:12.893Z"
+   "checkedAt": "2026-10-10T18:34:38.446Z"
   }
  },
  "posts": [
-  {
-   "id": "bnetanyahu/7254",
-   "channel": "bnetanyahu",
-   "name": "בנימין נתניהו",
-   "url": "https://t.me/bnetanyahu/7254",
-   "date": "2026-10-06T18:27:49+00:00",
-   "text": "לאיזנקוט אין ממשלה בלי יאיר גולן והמפלגות הערביות\n(קרדיט: שבע עם שלזינגר, ערוץ 14)",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "gideonsaar/2991",
-   "channel": "gideonsaar",
-   "name": "גדעון סער",
-   "url": "https://t.me/gideonsaar/2991",
-   "date": "2026-10-06T18:23:50+00:00",
-   "text": "צפו בנאום המלא שנשאתי בהר הזיתים בירושלים, בפני יותר מ-1,000 מנהיגים נוצרים מ-117 מדינות שהגיעו לארץ בהובלת משרד החוץ☝🏽",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
   {
    "id": "amitsegal/65571",
    "channel": "amitsegal",
@@ -106,26 +86,6 @@
    "url": "https://t.me/amitsegal/65571",
    "date": "2026-10-06T18:35:20+00:00",
    "text": "פרסום ראשון בi24NEWS: שופט בכיר נחקר בחשד לעבירות מין. השופט יצא לחופשה עד להחלטה בעניינו.\nנשיא העליון ומנהל בתי המשפט עודכנו על ידי היועמ״שית על החקירה ועל טיב החשדות.",
-   "status": "no-claims"
-  },
-  {
-   "id": "Ben_Caspit/19291",
-   "channel": "ben_caspit",
-   "name": "בן כספית Ben Caspit - הערוץ הרשמי",
-   "url": "https://t.me/Ben_Caspit/19291",
-   "date": "2026-10-06T18:32:48+00:00",
-   "text": "# רוצים לגייס את החרדים? תסגרו את השיבר, נגמרה החצר הביזנטית",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "abualiexpress/131476",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131476",
-   "date": "2026-10-06T18:31:21+00:00",
-   "text": "המהומות בצרפת: כיכר האומה בפריז היום.\nכדי להגיב לכתבה לחצו כאן",
-   "hasVideo": true,
    "status": "no-claims"
   },
   {
@@ -6058,13 +6018,23 @@
    "date": "2026-10-10T18:07:48+00:00",
    "text": "🔴 נעצר צעיר בחשד למעורבות ברצח הצעיר ברהט, בגלל ויכוח על חניה\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "yosephhaddad/11468",
+   "channel": "yosephhaddad",
+   "name": "יוסף חדאד - Yoseph Haddad",
+   "url": "https://t.me/yosephhaddad/11468",
+   "date": "2026-10-10T18:23:31+00:00",
+   "text": "לא נשתוק בזמן שלונדון ועוד מקומות באירופה חוזרים 80 שנה אחורה!\nWe will not remain silent as London and other places in Europe turn back the clock by 80 years!",
+   "hasVideo": true,
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T18:22:13.294Z",
+  "at": "2026-10-10T18:34:38.847Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 497
+  "added": 1,
+  "pendingNew": 498
  }
 }
