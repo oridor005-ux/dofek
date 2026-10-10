@@ -3,91 +3,82 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65654,
+   "lastId": 65655,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:12.505Z"
+   "checkedAt": "2026-10-10T15:47:52.570Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:13.196Z"
+   "checkedAt": "2026-10-10T15:47:53.265Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:13.816Z"
+   "checkedAt": "2026-10-10T15:47:53.924Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11463,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:14.483Z"
+   "checkedAt": "2026-10-10T15:47:54.615Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:15.147Z"
+   "checkedAt": "2026-10-10T15:47:55.282Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:15.792Z"
+   "checkedAt": "2026-10-10T15:47:55.955Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:16.439Z"
+   "checkedAt": "2026-10-10T15:47:56.598Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131676,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:17.140Z"
+   "checkedAt": "2026-10-10T15:47:57.358Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75001,
+   "lastId": 75002,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:17.702Z"
+   "checkedAt": "2026-10-10T15:47:57.947Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:18.375Z"
+   "checkedAt": "2026-10-10T15:47:58.627Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T15:36:19.041Z"
+   "checkedAt": "2026-10-10T15:47:59.394Z"
   }
  },
  "posts": [
-  {
-   "id": "ynetalerts/74695",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74695",
-   "date": "2026-10-06T15:36:38+00:00",
-   "text": "🔴 צרפת: אם יוכח שחברת הפרלמנט האירופי השחיתה מיצג ל-7/10 - יש להעניש אותה\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "abualiexpress/131468",
    "channel": "abualiexpress",
@@ -5982,13 +5973,31 @@
    "date": "2026-10-10T15:25:49+00:00",
    "text": "🔴 דיווח: וויטקוף וקושנר צפויים להגיע לרוסיה בשבועיים הקרובים \nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65655",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65655",
+   "date": "2026-10-10T15:47:01+00:00",
+   "text": "איחוד האמירויות מאשר את הפרסום כאן: הטייס החוטף מטיסת פליי דובאי תכנן לרסק את המטוס בנתב״ג\nטראמפ נגד זוכת פרס נובל: איש לא מכיר אותה חוץ מזה שהיא שונאת את ישראל\nמדלית ארד לג׳ודוקא רז הרשקו באליפות העולם",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75002",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75002",
+   "date": "2026-10-10T15:41:15+00:00",
+   "text": "🔴 צה\"ל ושב\"כ: חוסל מחבל מהג'יהאד האיסלאמי שפשט על ישראל ב-7/10\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T15:36:19.441Z",
+  "at": "2026-10-10T15:47:59.794Z",
   "ok": 11,
   "fail": 0,
-  "added": 3,
-  "pendingNew": 461
+  "added": 2,
+  "pendingNew": 463
  }
 }
