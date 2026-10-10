@@ -3,101 +3,82 @@
   "amitsegal": {
    "title": "עמית סגל",
    "subscribers": "369K",
-   "lastId": 65655,
+   "lastId": 65658,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:19.874Z"
+   "checkedAt": "2026-10-10T16:34:56.459Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7266,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:20.549Z"
+   "checkedAt": "2026-10-10T16:34:57.179Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:21.197Z"
+   "checkedAt": "2026-10-10T16:34:57.844Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11464,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:21.864Z"
+   "checkedAt": "2026-10-10T16:34:58.534Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.2K",
    "lastId": 19342,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:22.530Z"
+   "checkedAt": "2026-10-10T16:34:59.209Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:23.205Z"
+   "checkedAt": "2026-10-10T16:34:59.915Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:23.856Z"
+   "checkedAt": "2026-10-10T16:35:00.579Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131678,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:24.549Z"
+   "checkedAt": "2026-10-10T16:35:01.311Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75004,
+   "lastId": 75006,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:25.128Z"
+   "checkedAt": "2026-10-10T16:35:01.907Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8417,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:25.850Z"
+   "checkedAt": "2026-10-10T16:35:02.641Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T16:23:26.604Z"
+   "checkedAt": "2026-10-10T16:35:03.437Z"
   }
  },
  "posts": [
-  {
-   "id": "amitsegal/65567",
-   "channel": "amitsegal",
-   "name": "עמית סגל",
-   "url": "https://t.me/amitsegal/65567",
-   "date": "2026-10-06T16:24:13+00:00",
-   "text": "מעצר העריקים לא יביא לצבא חייל אחד. הפסקת ההטבות כן",
-   "hasVideo": true,
-   "status": "no-claims"
-  },
-  {
-   "id": "abualiexpress/131470",
-   "channel": "abualiexpress",
-   "name": "אבו עלי אקספרס",
-   "url": "https://t.me/abualiexpress/131470",
-   "date": "2026-10-06T16:25:26+00:00",
-   "text": "מזכ\"ל חזבאללה נעים קאסם, בנאום הערב : \nהמלחמה מתנהלת בסבבים. \nהסבב האחרון יהיה של בעלי הארץ והזכות, ושל אלה שהלכו בדרכם של לוחמי הג'האד והשהידים.\nכדי להגיב לכתבה לחצו כאן",
-   "status": "no-claims"
-  },
   {
    "id": "amitsegal/65568",
    "channel": "amitsegal",
@@ -5971,13 +5952,50 @@
    "text": "פגשתי יהודי אידיוט שימושי כאן בהפגנת האנטי ישראלים בלונדון!",
    "hasVideo": true,
    "status": "new"
+  },
+  {
+   "id": "amitsegal/65656",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65656",
+   "date": "2026-10-10T16:25:03+00:00",
+   "text": "ח״כ יצחק פינדרוס מיהדות התורה: אנחנו לא בגוש של נתניהו, לא החלטנו איך נצביע על ממשלת איזנקוט ככל שתושבע, בכל מקרה יהדות התורה כולה תצביע כאיש אחד",
+   "status": "new"
+  },
+  {
+   "id": "amitsegal/65658",
+   "channel": "amitsegal",
+   "name": "עמית סגל",
+   "url": "https://t.me/amitsegal/65658",
+   "date": "2026-10-10T16:31:49+00:00",
+   "text": "הגנרלים התריעו על סופה מושלמת - ואז יצאו החוצה בלי מטריה",
+   "hasVideo": true,
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75005",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75005",
+   "date": "2026-10-10T16:29:34+00:00",
+   "text": "🔴 איזנקוט ליועמ\"שית: קבלי החלטה בנוגע להגשת כתב אישום נגד צחי ברוורמן\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75006",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75006",
+   "date": "2026-10-10T16:32:14+00:00",
+   "text": "🔴 גנץ: \"שני הצדדים גוררים אותנו לממשלות צרות ועוד בחירות - אני לא שייך לאף גוש\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T16:23:27.004Z",
+  "at": "2026-10-10T16:35:03.837Z",
   "ok": 11,
   "fail": 0,
-  "added": 1,
-  "pendingNew": 467
+  "added": 4,
+  "pendingNew": 471
  }
 }
