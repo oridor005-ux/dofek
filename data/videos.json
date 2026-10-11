@@ -3463,7 +3463,7 @@
    "caption": "אפילו שהמחבלים הפכו את ביתה למרכז הפעילות שלהם בקיבוץ, אביבה סלע הצלי...",
    "posted": "1791529817",
    "found": "2026-10-09T07:23:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694561918115220743.txt"
   },
   {
@@ -3474,8 +3474,11 @@
    "caption": "חטפנו מכות בגלל הדעה שלנו",
    "posted": "1791531067",
    "found": "2026-10-09T07:35:03Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694567307191848210.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694567307191848210.txt",
+   "insightIds": [
+    "ins-2026-10-11-dem1"
+   ]
   },
   {
    "id": "7694566482319002887",
@@ -3485,7 +3488,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791530880",
    "found": "2026-10-09T07:35:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694566482319002887.txt"
   },
   {
@@ -3496,8 +3499,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791530616",
    "found": "2026-10-09T07:35:55Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694565379493940498.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694565379493940498.txt",
+   "insightIds": [
+    "ins-2026-10-11-abs1"
+   ]
   },
   {
    "id": "7694567902271360277",
@@ -3527,7 +3533,7 @@
    "caption": "צפיתי באבינתן אור ב״עובדה״ והתביישתי ביחס שניתן לאמא שלו, דיצה אור. ה...",
    "posted": "1791531970",
    "found": "2026-10-09T07:50:15Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694571189842398485.txt"
   },
   {
@@ -3538,7 +3544,7 @@
    "caption": "",
    "posted": "1791532142",
    "found": "2026-10-09T07:50:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694571917382044949.txt"
   },
   {
@@ -3549,7 +3555,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791533744",
    "found": "2026-10-09T08:21:09Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694578800725724468.txt"
   },
   {
@@ -3560,7 +3566,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791533102",
    "found": "2026-10-09T08:21:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694576060394048776.txt"
   },
   {
@@ -3571,7 +3577,7 @@
    "caption": "מה דעתכם? #בחירות #ביבי #רקלאביבי #ימין #ישראל ",
    "posted": "1791535179",
    "found": "2026-10-09T08:50:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694584961709427989.txt"
   },
   {
@@ -3602,7 +3608,7 @@
    "caption": "‏לאחר הסערה בימים האחרונים, ינון מגל נפגש עם קרובי משפחת ביבס וביקש ל...",
    "posted": "1791540072",
    "found": "2026-10-09T10:11:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694605986111278343.txt"
   },
   {
@@ -3623,7 +3629,7 @@
    "caption": "הלב נשבר: סרן אליאב חיים צפלמוס ז\"ל שנפל אתמול בתאונה מבצעית בלבנון, ...",
    "posted": "1791542209",
    "found": "2026-10-09T10:40:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694615169036471560.txt"
   },
   {
@@ -3634,7 +3640,7 @@
    "caption": "נתיבותים, אוהב אתכם🫶🇮🇱",
    "posted": "1791542307",
    "found": "2026-10-09T10:41:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694615594989063431.txt"
   },
   {
@@ -3645,7 +3651,7 @@
    "caption": "גם בלונדון נדאג שכמה שיותר אנשים ייחשפו לאמת על השבעה באוקטובר! במיוח...",
    "posted": "1791542098",
    "found": "2026-10-09T10:41:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694614697240169749.txt"
   },
   {
@@ -3676,7 +3682,7 @@
    "caption": "סרן אליאב חיים צפלמוס ז״ל הובא למנוחות, בת זוגו בפרידה קורעת לב: \"אלי...",
    "posted": "1791545267",
    "found": "2026-10-09T11:42:40Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694628307156995335.txt"
   },
   {
@@ -3687,8 +3693,11 @@
    "caption": "שתי מדינות לשני עמים - זה כבר קורה. #פוליטיקה #חרדים ",
    "posted": "1791547681",
    "found": "2026-10-09T12:12:11Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694638670359301384.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694638670359301384.txt",
+   "insightIds": [
+    "ins-2026-10-11-hrd1"
+   ]
   },
   {
    "id": "7694637034362719509",
