@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T05:05:54.376Z",
+ "updated": "2026-10-11T05:18:00.107Z",
  "items": [
   {
    "id": "255d31dabed1",
@@ -5574,6 +5574,20 @@
    "important": false
   },
   {
+   "id": "b21391cf5467",
+   "kind": "headline",
+   "title": "Israel promotes film that mimics NAZA documentary",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+   "topic": "world",
+   "published": "2026-10-08T17:52:35.000Z",
+   "summary": "Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civilians The Israeli government is promoting an online film project that mimics the style of NAZA, the award-winning documentary that details Israel’s mass killings of…",
+   "image": "https://i.guim.co.uk/img/media/5519c42fcfcafef0bd7a396e4811d9a41a682beb/1_0_2697_2160/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=10d58432df83882cbf210db1ac1cfa95",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "9ff65776682e",
    "kind": "headline",
    "title": "סילמן והמנכ\"ל שלה גוררים רגליים: לא עונים מדוע נמחקו כל היתרי הפליטה של התעשייה המזהמת בישראל",
@@ -5626,20 +5640,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "f85ee8d82aa0",
-   "kind": "headline",
-   "title": "Trump Says U.S. Won’t Resume Strikes on Iran Before Midterms",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/world/middle-east/trump-says-u-s-wont-resume-strikes-on-iran-before-midterms-1e8ed73e?mod=rss_worldnews",
-   "topic": "world",
-   "published": "2026-10-08T17:25:00.000Z",
-   "summary": "The president cited “productive discussions” with Tehran.",
-   "image": "https://images.wsj.net/im-95331983",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
