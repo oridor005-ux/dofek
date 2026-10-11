@@ -5,206 +5,80 @@
    "subscribers": "369K",
    "lastId": 65665,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:23.350Z"
+   "checkedAt": "2026-10-11T05:06:46.206Z"
   },
   "bnetanyahu": {
    "title": "בנימין נתניהו",
    "subscribers": "58.6K",
    "lastId": 7267,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:24.033Z"
+   "checkedAt": "2026-10-11T05:06:46.852Z"
   },
   "gideonsaar": {
    "title": "גדעון סער",
    "subscribers": "3.18K",
    "lastId": 2994,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:24.718Z"
+   "checkedAt": "2026-10-11T05:06:47.435Z"
   },
   "yosephhaddad": {
    "title": "יוסף חדאד - Yoseph Haddad",
    "subscribers": "50.4K",
    "lastId": 11469,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:25.397Z"
+   "checkedAt": "2026-10-11T05:06:48.039Z"
   },
   "ben_caspit": {
    "title": "בן כספית Ben Caspit - הערוץ הרשמי",
    "subscribers": "28.3K",
    "lastId": 19347,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:26.061Z"
+   "checkedAt": "2026-10-11T05:06:48.659Z"
   },
   "c14news": {
    "title": "ערוץ 14",
    "subscribers": "11.1K",
    "lastId": 81341,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:26.758Z"
+   "checkedAt": "2026-10-11T05:06:49.264Z"
   },
   "knessettv": {
    "title": "ערוץ כנסת 99",
    "subscribers": "8.41K",
    "lastId": 54911,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:27.420Z"
+   "checkedAt": "2026-10-11T05:06:49.841Z"
   },
   "abualiexpress": {
    "title": "אבו עלי אקספרס",
    "subscribers": "580K",
    "lastId": 131696,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:28.155Z"
+   "checkedAt": "2026-10-11T05:06:50.490Z"
   },
   "ynetalerts": {
    "title": "ynet חדשות",
    "subscribers": "113K",
-   "lastId": 75027,
+   "lastId": 75037,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:28.756Z"
+   "checkedAt": "2026-10-11T05:06:51.026Z"
   },
   "the7eye": {
    "title": "העין השביעית",
    "subscribers": "2.23K",
    "lastId": 8418,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:29.444Z"
+   "checkedAt": "2026-10-11T05:06:51.651Z"
   },
   "shakuf": {
    "title": "שקוף - חדשות, שקיפות, אקטיביזם",
    "subscribers": "4.01K",
    "lastId": 11072,
    "ok": true,
-   "checkedAt": "2026-10-10T23:18:30.216Z"
+   "checkedAt": "2026-10-11T05:06:52.322Z"
   }
  },
  "posts": [
-  {
-   "id": "ynetalerts/74713",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74713",
-   "date": "2026-10-07T00:36:52+00:00",
-   "text": "🔴 תימן: החות'ים שיגרו טילים לעבר נמל התעופה עדן\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74714",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74714",
-   "date": "2026-10-07T02:17:03+00:00",
-   "text": "🔴 מסי אחרי המשחק האחרון בנבחרת ארגנטינה: \"זו הייתה גאווה עצומה\"\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74715",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74715",
-   "date": "2026-10-07T03:04:13+00:00",
-   "text": "🔴 צה\"ל: מתחילת המלחמה הותקפו כ-100 אלף מטרות בכל הגזרות\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "yosephhaddad/11418",
-   "channel": "yosephhaddad",
-   "name": "יוסף חדאד - Yoseph Haddad",
-   "url": "https://t.me/yosephhaddad/11418",
-   "date": "2026-10-07T03:29:53+00:00",
-   "text": "7 באוקטובר. 6:29.\nהרגע בו החיים שלנו השתנו לנצח.\nלא נשכח לעולם🕯",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74716",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74716",
-   "date": "2026-10-07T03:30:35+00:00",
-   "text": "🔴 התחזית: הטמפרטורות יעלו, אך יהיו נמוכות מהרגיל לעונה\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74717",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74717",
-   "date": "2026-10-07T03:36:49+00:00",
-   "text": "🔴 דקת דומייה מול הכנסת בפתח יום השנה לטבח 7 באוקטובר\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74718",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74718",
-   "date": "2026-10-07T03:42:43+00:00",
-   "text": "🔴 תיעוד: מיצג מכוניות שרופות מול הכנסת\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74719",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74719",
-   "date": "2026-10-07T03:55:40+00:00",
-   "text": "🔴 המזרקה בכיכר דיזינגוף נשטפה באדום, פעילים מחו בנתיבי איילון\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74720",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74720",
-   "date": "2026-10-07T03:59:29+00:00",
-   "text": "🔴 התקיפה החות'ית בנמל התעופה בתימן כוונה לעבר משלוחים סעודיים, מטוסים פונו\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74721",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74721",
-   "date": "2026-10-07T04:14:53+00:00",
-   "text": "🔴 תיעוד: איזנקוט עם הוריו של ענר שפירא, במיגונית בה נפל ברעים\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74722",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74722",
-   "date": "2026-10-07T04:16:55+00:00",
-   "text": "🔴 צה\"ל: כטב\"ם של חיל האוויר נחת באופן מבוקר בצפון הארץ בשל תקלה טכנית\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74723",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74723",
-   "date": "2026-10-07T04:29:21+00:00",
-   "text": "🔴 נשיא המדינה ורעייתו הדליקו נר זיכרון בבית הנשיא ב-6:29\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74724",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74724",
-   "date": "2026-10-07T04:37:38+00:00",
-   "text": "🔴 תיעוד: אזרחים ערכו טקסי זיכרון מול בתי השרים שכיהנו בממשלת 7/10 \nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74725",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74725",
-   "date": "2026-10-07T04:56:06+00:00",
-   "text": "🔴 איילה מצגר: \"גם ב-27.10 נזכור את 7.10. על האזרחים לוודא שהאחראים יחקרו\"\nלמבזק המלא ב-ynet >",
-   "status": "no-claims"
-  },
   {
    "id": "yosephhaddad/11419",
    "channel": "yosephhaddad",
@@ -221,15 +95,6 @@
    "url": "https://t.me/yosephhaddad/11420",
    "date": "2026-10-07T05:08:04+00:00",
    "text": "נזכור אותה לנצח מאושרת, יפה וחופשיה כמו שהייתה.\nילדה של אהבה.\nיהי זכרה ברוך 🕯🇮🇱",
-   "status": "no-claims"
-  },
-  {
-   "id": "ynetalerts/74726",
-   "channel": "ynetalerts",
-   "name": "ynet חדשות",
-   "url": "https://t.me/ynetalerts/74726",
-   "date": "2026-10-07T05:03:23+00:00",
-   "text": "🔴 מתנחלים הציתו רכוש בכפר פלסטיני בבנימין וריססו על קירות \"אבי בלוט תיזהר\"\nלמבזק המלא ב-ynet >",
    "status": "no-claims"
   },
   {
@@ -6067,13 +5932,103 @@
    "date": "2026-10-10T22:32:09+00:00",
    "text": "🔴 סעודיה: יירטנו טיל נוסף ששיגרו החות'ים\nלמבזק המלא ב-ynet >",
    "status": "new"
+  },
+  {
+   "id": "ynetalerts/75028",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75028",
+   "date": "2026-10-10T23:27:13+00:00",
+   "text": "🔴 אישה נדקרה בבאר שבע, מצבה אנוש\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75029",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75029",
+   "date": "2026-10-10T23:55:49+00:00",
+   "text": "🔴 נקבע מותה של האישה שנדקרה בבאר שבע - בעלה חשוד ברצח\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75030",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75030",
+   "date": "2026-10-11T00:24:41+00:00",
+   "text": "🔴 5 פצועים בהתהפכות רכב בגליל התחתון, אחד במצב קשה\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75031",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75031",
+   "date": "2026-10-11T00:28:26+00:00",
+   "text": "🔴 רוביו מאשר: אזרח אמריקני נהרג בתקיפה החות'ית בסעודיה; טראמפ: \"זה דבר נורא\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75032",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75032",
+   "date": "2026-10-11T00:36:48+00:00",
+   "text": "🔴 צבא ארה\"ב: השבתנו ספינת משא שניסתה לפרוץ את המצור הימי על איראן\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75033",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75033",
+   "date": "2026-10-11T01:19:59+00:00",
+   "text": "🔴 טראמפ: \"זלנסקי צריך לקיים בחירות, המלחמה הזו לא הייתה צריכה לקרות\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75034",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75034",
+   "date": "2026-10-11T02:21:26+00:00",
+   "text": "🔴 מזכ\"ל האו\"ם: מגנה את המתקפה החות'ית בסעודיה\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75035",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75035",
+   "date": "2026-10-11T04:39:44+00:00",
+   "text": "🔴 פקיסטן על התקיפה החות'ית בסעודיה: \"על מעשי האלימות להיפסק\"\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75036",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75036",
+   "date": "2026-10-11T04:49:55+00:00",
+   "text": "🔴 רפאל: נקיים ניסוי מתוכנן בשטח מכון דוד בקריות, עלול להישמע רעש\nלמבזק המלא ב-ynet >",
+   "status": "new"
+  },
+  {
+   "id": "ynetalerts/75037",
+   "channel": "ynetalerts",
+   "name": "ynet חדשות",
+   "url": "https://t.me/ynetalerts/75037",
+   "date": "2026-10-11T04:58:25+00:00",
+   "text": "🔴 דיווחים פלסטיניים: 6 פצועים מירי של צה\"ל בדרום רצועת עזה\nלמבזק המלא ב-ynet >",
+   "status": "new"
   }
  ],
  "health": {
-  "at": "2026-10-10T23:18:30.617Z",
+  "at": "2026-10-11T05:06:52.722Z",
   "ok": 11,
   "fail": 0,
-  "added": 0,
-  "pendingNew": 516
+  "added": 10,
+  "pendingNew": 526
  }
 }
