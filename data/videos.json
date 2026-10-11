@@ -1,71 +1,6 @@
 {
  "items": [
   {
-   "id": "7693165650461674760",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693165650461674760",
-   "caption": "\"להמשיך את הדרך שלה זו גאווה גדולה\": סמ\"ר א', אחיה של פקד קים דוקרקר ז\"ל",
-   "posted": "1791204715",
-   "found": "2026-10-05T13:17:59Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693165650461674760.txt"
-  },
-  {
-   "id": "7693170689880214836",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693170689880214836",
-   "caption": "ניצחון החיים: ברק ניקסון שרד 8.5 שעות בתא שירותים כימיים בנובה ונדר ל...",
-   "posted": "1791205887",
-   "found": "2026-10-05T13:18:35Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693170689880214836.txt"
-  },
-  {
-   "id": "7693169968631844117",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693169968631844117",
-   "caption": "\"אתה לא הגנת על הבן שלי ב-7.10\": האב השכול, יעקב גודו, התפרץ לנאום רא...",
-   "posted": "1791205719",
-   "found": "2026-10-05T13:18:55Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693169968631844117.txt"
-  },
-  {
-   "id": "7693172123052805397",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693172123052805397",
-   "caption": "חייב לעצור הכל להגיד לכם תודה על הגב שאתם נותנים לי מול המתקפות הזדונ...",
-   "posted": "1791206225",
-   "found": "2026-10-05T13:19:46Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693172123052805397.txt"
-  },
-  {
-   "id": "7693171717652385076",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693171717652385076",
-   "caption": "המצוד אחר מחבלי טבח 7/10: ראש אמ״ן, האלוף שלומי בינדר, עדכן אמש את שר...",
-   "posted": "1791206131",
-   "found": "2026-10-05T13:32:43Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693172790182137095",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693172790182137095",
-   "caption": "אז והיום: הקפות שניות בישיבת שדרות ביום הטבח - לעומת ההקפות השנה",
-   "posted": "1791206379",
-   "found": "2026-10-05T13:33:41Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693172790182137095.txt"
-  },
-  {
    "id": "7693188441785290004",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4465,12 +4400,78 @@
    "posted": "1791663947",
    "found": "2026-10-10T20:40:17Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7695276791216327943",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695276791216327943",
+   "caption": "נוכל נשאר נוכל. #פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791696259",
+   "found": "2026-10-11T05:36:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695276791216327943.txt"
+  },
+  {
+   "id": "7695266808600841480",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695266808600841480",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791693934",
+   "found": "2026-10-11T05:36:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695266808600841480.txt"
+  },
+  {
+   "id": "7695262939728792840",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695262939728792840",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791693032",
+   "found": "2026-10-11T05:37:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695262939728792840.txt"
+  },
+  {
+   "id": "7695122784384584966",
+   "channel": "kan_news",
+   "name": "kan_news",
+   "url": "https://www.tiktok.com/@kan_news/video/7695122784384584966",
+   "caption": "גיבורת החיות: הוטרינרית שתקבל פרס בינלאומי על עבודת הקודש שלה ב-7 באו...",
+   "posted": "1791694800",
+   "found": "2026-10-11T05:40:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695122784384584966.txt"
+  },
+  {
+   "id": "7695274398290300166",
+   "channel": "itamar_ben_gvir",
+   "name": "itamar_ben_gvir",
+   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7695274398290300166",
+   "caption": "11 פעמים ניסו לרצוח אותי. 11 פעמים הקדוש ברוך הוא הציל אותי מידיהם, ב...",
+   "posted": "1791695700",
+   "found": "2026-10-11T05:40:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695274398290300166.txt"
+  },
+  {
+   "id": "7695277706715385109",
+   "channel": "yosephhaddad",
+   "name": "yosephhaddad",
+   "url": "https://www.tiktok.com/@yosephhaddad/video/7695277706715385109",
+   "caption": "כשבבריטניה יש חוק אחד ליהודים וחוק אחד לתומכי טרור שעושים מה שרוצים ב...",
+   "posted": "1791696469",
+   "found": "2026-10-11T05:40:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695277706715385109.txt"
   }
  ],
  "health": {
-  "at": "2026-10-10T23:27:07Z",
+  "at": "2026-10-11T05:40:50Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 0
+  "transcribed": 6
  }
 }
