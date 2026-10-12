@@ -3590,8 +3590,11 @@
    "caption": "ככה מעבירים מסרים. #ישראל #פוליטיקה ",
    "posted": "1791547298",
    "found": "2026-10-09T12:12:39Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694637034362719509.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694637034362719509.txt",
+   "insightIds": [
+    "ins-2026-10-10-bn12"
+   ]
   },
   {
    "id": "7694639311555185941",
@@ -3601,7 +3604,7 @@
    "caption": "",
    "posted": "1791547828",
    "found": "2026-10-09T12:13:36Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694639311555185941.txt"
   },
   {
@@ -3612,7 +3615,7 @@
    "caption": "",
    "posted": "1791547716",
    "found": "2026-10-09T12:13:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694638817608830228.txt"
   },
   {
@@ -3623,7 +3626,7 @@
    "caption": "",
    "posted": "1791547620",
    "found": "2026-10-09T12:14:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694638417698671893.txt"
   },
   {
@@ -3634,7 +3637,7 @@
    "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 18 ימים...",
    "posted": "1791547910",
    "found": "2026-10-09T12:26:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694639660487838997.txt"
   },
   {
@@ -3645,7 +3648,7 @@
    "caption": "",
    "posted": "1791548415",
    "found": "2026-10-09T12:27:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694641819027590421.txt"
   },
   {
@@ -3666,8 +3669,11 @@
    "caption": "יו\"ר הדמוקרטים יאיר גולן, שמכוון להיות שר הביטחון עם גוש השמאל, מספק ...",
    "posted": "1791549382",
    "found": "2026-10-09T12:42:59Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694645959732563208.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694645959732563208.txt",
+   "insightIds": [
+    "ins-2026-10-12-gl01"
+   ]
   },
   {
    "id": "7694648891953777928",
@@ -3687,8 +3693,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791553783",
    "found": "2026-10-09T13:54:19Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7694664876169366792.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7694664876169366792.txt",
+   "insightIds": [
+    "ins-2026-10-12-mm02"
+   ]
   },
   {
    "id": "7694662277575888135",
@@ -3698,7 +3707,7 @@
    "caption": "",
    "posted": "1791553177",
    "found": "2026-10-09T13:54:31Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694662277575888135.txt"
   },
   {
@@ -3709,7 +3718,7 @@
    "caption": "",
    "posted": "1791553097",
    "found": "2026-10-09T13:54:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694661935295565063.txt"
   },
   {
@@ -3730,7 +3739,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791556857",
    "found": "2026-10-09T14:43:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694678086104730887.txt"
   },
   {
@@ -3751,7 +3760,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791557589",
    "found": "2026-10-09T14:58:47Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694681227537763636.txt"
   },
   {
@@ -3762,7 +3771,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791557238",
    "found": "2026-10-09T14:59:01Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694679729990847762.txt"
   },
   {
@@ -3773,7 +3782,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791557880",
    "found": "2026-10-09T15:13:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694682485883456786.txt"
   },
   {
@@ -3784,7 +3793,7 @@
    "caption": "\"אני גאון, אתה טיפש, אתה צריך לגמור את המשכנתא בכוח\": כולם מכירים את ...",
    "posted": "1791565200",
    "found": "2026-10-09T17:16:14Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694292794139102484.txt"
   },
   {
