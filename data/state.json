@@ -180,10 +180,14 @@
   "ins-2026-10-11-dem1",
   "ins-2026-10-11-hrd1",
   "ins-2026-10-11-abs1",
-  "4da07508b380"
+  "4da07508b380",
+  "3c291cfecdf8",
+  "e8c5e86f0198",
+  "94245c429cd9",
+  "8343b65a8b92"
  ],
  "pending": [],
- "lastRun": "2026-10-11T07:04:12.228Z",
+ "lastRun": "2026-10-12T05:08:41.370Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -196,25 +200,24 @@
  },
  "health": {
   "sources": {
-   "ok": 65,
-   "fail": 3,
+   "ok": 66,
+   "fail": 2,
    "light": false,
    "direct": 13,
-   "directFail": 3,
+   "directFail": 2,
    "google": 55,
    "googleFail": 0,
    "errors": {
     "direct": {
-     "This operation was aborted": 1,
      "HTTP 403": 2
     }
    },
-   "at": "2026-10-11T07:04:12.228Z"
+   "at": "2026-10-12T05:08:41.370Z"
   },
-  "lastNewItemAt": "2026-10-11T07:04:12.228Z",
-  "lastPushOkAt": "2026-10-11T07:04:12.228Z",
-  "googleOkAt": "2026-10-11T07:04:12.228Z"
+  "lastNewItemAt": "2026-10-12T05:08:41.370Z",
+  "lastPushOkAt": "2026-10-12T05:08:41.370Z",
+  "googleOkAt": "2026-10-12T05:08:41.370Z"
  },
- "lastFullAt": "2026-10-11T07:04:12.228Z",
+ "lastFullAt": "2026-10-12T05:08:41.370Z",
  "webPushSubscribers": 2
 }
