@@ -1,123 +1,6 @@
 {
  "items": [
   {
-   "id": "7693188441785290004",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693188441785290004",
-   "caption": "\"אני מאוד מקווה שב-28 לחודש נתעורר לבוקר אחר עם תקווה אחרת\" 👇 איל אשל...",
-   "posted": "1791210024",
-   "found": "2026-10-05T14:34:16Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693188441785290004.txt"
-  },
-  {
-   "id": "7693188982607219986",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693188982607219986",
-   "caption": "על חשבון הלקוח הקטן: במקום לבדוק מדוע זכיינית כביש 6, חברת דרך ארץ, ל...",
-   "posted": "1791210150",
-   "found": "2026-10-05T14:34:28Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693190418200284434",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693190418200284434",
-   "caption": "אם רק היו מקשיבים לי… וישראל הייתה משנה את הקונספציה מול האויבים שלנו...",
-   "posted": "1791210485",
-   "found": "2026-10-05T14:35:09Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693190418200284434.txt",
-   "insightIds": [
-    "ins-2026-10-06-bg05"
-   ]
-  },
-  {
-   "id": "7693189042879384833",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693189042879384833",
-   "caption": "אני אגיע לעמדת כוח ואלחם בכל הקיצוניים תומכי הטרור האלה מבפנים! אני ז...",
-   "posted": "1791210161",
-   "found": "2026-10-05T14:36:20Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693189042879384833.txt"
-  },
-  {
-   "id": "7693197888867929364",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693197888867929364",
-   "caption": "\"במחנה הימין יורים בתוך הנגמ\"ש, יורים ברגל וצולעים\" 👇 יוסף חדאד מתייח...",
-   "posted": "1791212223",
-   "found": "2026-10-05T15:03:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693197888867929364.txt"
-  },
-  {
-   "id": "7693196155223641351",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693196155223641351",
-   "caption": "ריח של בחירות באוויר: פתקי המפלגות יוצאים ממכונת הדפוס 📸: חדשות 14",
-   "posted": "1791211819",
-   "found": "2026-10-05T15:04:03Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693195090168188181",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693195090168188181",
-   "caption": "מהומות במאה שערים: רימון הלם בסמטה ונער צעיר באזיקים פעילות משטרתית ב...",
-   "posted": "1791211569",
-   "found": "2026-10-05T15:48:03Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693195090168188181.txt"
-  },
-  {
-   "id": "7693209750888041749",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693209750888041749",
-   "caption": "22 ימים לבחירות ויש אנשים שעדיין בטוחים שהייתה בגידה מבפנים 👇",
-   "posted": "1791214984",
-   "found": "2026-10-05T15:49:41Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693209750888041749.txt",
-   "insightIds": [
-    "ins-2026-10-06-tq07"
-   ]
-  },
-  {
-   "id": "7693200770803453202",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693200770803453202",
-   "caption": "כמה פעמים רומי אמרה עומאן? @Romiz - רומיז #פוריו #פליידובאי #טיסה ",
-   "posted": "1791212893",
-   "found": "2026-10-05T15:50:26Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693200770803453202.txt",
-   "insightIds": [
-    "ins-2026-10-06-om14"
-   ]
-  },
-  {
-   "id": "7693205285061577990",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693205285061577990",
-   "caption": "\"קל לשפוט אותי כי נראה שאני מוותרת או תומכת, אבל זה לא נכון\" ↓ \"אני פ...",
-   "posted": "1791213944",
-   "found": "2026-10-05T15:51:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693205285061577990.txt"
-  },
-  {
    "id": "7693199582901128469",
    "channel": "yosephhaddad",
    "name": "yosephhaddad",
@@ -4475,12 +4358,121 @@
    "found": "2026-10-11T05:40:45Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695277706715385109.txt"
+  },
+  {
+   "id": "7695334564851469575",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7695334564851469575",
+   "caption": "אל תגידו לא ראיתי לא שמעתי איך את המדינה לא תיקנתי💝💐 רק אצלנו במפלגת ...",
+   "posted": "1791709711",
+   "found": "2026-10-12T05:40:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695334564851469575.txt"
+  },
+  {
+   "id": "7695367950718553362",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7695367950718553362",
+   "caption": "שר האוצר סמוטריץ׳ הוא הראשון* מזה 20 שנה שמוריד** מיסים! *לא הראשון *...",
+   "posted": "1791717489",
+   "found": "2026-10-12T05:40:29Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7695480799583489301",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695480799583489301",
+   "caption": "הרב שלי אמר לי לחסום\" תיעוד מקומם: צעירים חרדים מהפלג הירושלמי הפגינו...",
+   "posted": "1791743759",
+   "found": "2026-10-12T05:40:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695480799583489301.txt"
+  },
+  {
+   "id": "7695465057840336149",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695465057840336149",
+   "caption": "מספר 2 בישראל ביתנו, וראש עיריית בית שאן לשעבר, רפי בן שטרית, הגיע למ...",
+   "posted": "1791740092",
+   "found": "2026-10-12T05:41:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695465057840336149.txt"
+  },
+  {
+   "id": "7695449434393513222",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695449434393513222",
+   "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 16 ימים...",
+   "posted": "1791736452",
+   "found": "2026-10-12T05:41:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695449434393513222.txt"
+  },
+  {
+   "id": "7695421888964660487",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7695421888964660487",
+   "caption": "פרק שמיני: הבלוק הטכני של מפלגת ״הציונות הדתית״ בראשות בצלאל סמוטריץ׳...",
+   "posted": "1791730036",
+   "found": "2026-10-12T05:46:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695421888964660487.txt"
+  },
+  {
+   "id": "7695449149403254036",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7695449149403254036",
+   "caption": "⁨\t16 ימים לבחירות ויש אנשים שאשכרה עדיין קונים את השקר הזה 👆🗳️⁩",
+   "posted": "1791736384",
+   "found": "2026-10-12T05:47:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695449149403254036.txt"
+  },
+  {
+   "id": "7695393702386093364",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7695393702386093364",
+   "caption": "למי את מצביעה בבחירות הקרובות? 🗳️ #הציונותהדתית #בחירות ",
+   "posted": "1791723475",
+   "found": "2026-10-12T05:47:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695393702386093364.txt"
+  },
+  {
+   "id": "7695471074770799880",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695471074770799880",
+   "caption": "למה צריך להצביע ליכוד - #פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791741492",
+   "found": "2026-10-12T05:47:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695471074770799880.txt"
+  },
+  {
+   "id": "7695464065891618066",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695464065891618066",
+   "caption": "למה צריך להצביע ליכוד - #פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791739859",
+   "found": "2026-10-12T05:48:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695464065891618066.txt"
   }
  ],
  "health": {
-  "at": "2026-10-11T05:40:50Z",
+  "at": "2026-10-12T05:48:27Z",
   "channelsOk": 23,
   "channelsFail": 0,
-  "transcribed": 6
+  "transcribed": 10
  }
 }
