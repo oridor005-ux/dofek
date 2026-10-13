@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T05:08:42.741Z",
+ "updated": "2026-10-13T05:20:57.578Z",
  "items": [
   {
    "id": "c127b2b0021e",
@@ -5491,6 +5491,20 @@
    "important": false
   },
   {
+   "id": "d045f1484196",
+   "kind": "headline",
+   "title": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
+   "topic": "world",
+   "published": "2026-10-10T03:09:00.000Z",
+   "summary": "President Trump said Russia had agreed to ship potentially millions of tons of diesel fuel in the coming months. But the amounts would be small relative to global demand.",
+   "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-trump-russia2-zgvq/09dc-trump-russia2-zgvq-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "ff0c33572b47",
    "kind": "headline",
    "title": "Protesters rally in Harrisonburg against Israel's violence in Gaza | Social Issues | dnronline.com",
@@ -5614,20 +5628,6 @@
    "published": "2026-10-09T23:23:00.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "ac8350d950e0",
-   "kind": "headline",
-   "title": "In Deep-Red Kansas, a Surprisingly Competitive Senate Race Takes Shape",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-2026-marshall-hamilton.html",
-   "topic": "world",
-   "published": "2026-10-09T23:01:48.000Z",
-   "summary": "Adam Hamilton wants to be the first Democrat to win a Senate seat there in nearly 100 years.",
-   "image": "https://static01.nyt.com/images/2026/10/09/us/09pol-onpolitics-newsletter-salt/09pol-onpolitics-newsletter-salt-mediumSquareAt3X-v3.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
