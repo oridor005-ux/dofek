@@ -3703,7 +3703,7 @@
    "caption": "סערת שינוי פרוטוקול שעת השיחה בבוקר 7 באוקטובר: הערב פורסם באולפן שיש...",
    "posted": "1791570337",
    "found": "2026-10-09T18:31:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694735977209679122.txt"
   },
   {
@@ -3714,7 +3714,7 @@
    "caption": "הצצה מאחורי הקלעים- מסע הסברה בלונדון, 3 שנים לשבעה באוקטובר. באנו לת...",
    "posted": "1791610210",
    "found": "2026-10-10T05:45:20Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694907226900811029.txt"
   },
   {
@@ -3735,7 +3735,7 @@
    "caption": "אתמול הגיע אסף רג'ואן, אחד מהישראלים שסיכלו את הפיגוע בטיסת פליי דובא...",
    "posted": "1791622849",
    "found": "2026-10-10T09:16:14Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694961522321149204.txt"
   },
   {
@@ -3746,7 +3746,7 @@
    "caption": "\"במשטרה אומרים לנו שגם לנהג קשה\": רועי בן ה-7 נה$ג בתאונת טרקטורון. ה...",
    "posted": "1791625513",
    "found": "2026-10-10T09:47:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694972953850563861.txt"
   },
   {
@@ -3757,7 +3757,7 @@
    "caption": "מפרס-בגין ועד \"נתניהו מאוחדת\": חזרנו לעימותים הגדולים ממערכות הבחירות...",
    "posted": "1791628058",
    "found": "2026-10-10T10:32:43Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7694983890737417493.txt"
   },
   {
@@ -3788,7 +3788,7 @@
    "caption": "תיעוד מרתיח מהפגנה פרו-פלסטינית בלונדון 📸: מתוך עמוד ה-X של Heidi Bac...",
    "posted": "1791644509",
    "found": "2026-10-10T15:07:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695054542408371464.txt"
   },
   {
@@ -3799,8 +3799,11 @@
    "caption": "כל החיים הצביעו למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 17 ימים ...",
    "posted": "1791647845",
    "found": "2026-10-10T16:08:05Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695068880997387540.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695068880997387540.txt",
+   "insightIds": [
+    "ins-2026-10-13-eisk"
+   ]
   },
   {
    "id": "7695073606954470677",
@@ -3810,7 +3813,7 @@
    "caption": "",
    "posted": "1791648951",
    "found": "2026-10-10T16:23:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695073606954470677.txt"
   },
   {
@@ -3831,7 +3834,7 @@
    "caption": "פגשתי יהודי אידיוט שימושי כאן בהפגנת האנטי ישראלים בלונדון!",
    "posted": "1791649757",
    "found": "2026-10-10T16:38:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695077081687854356.txt"
   },
   {
@@ -3842,8 +3845,11 @@
    "caption": "כל החיים הצביעו למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 17 ימים ...",
    "posted": "1791650386",
    "found": "2026-10-10T16:53:16Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695079785256537364.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695079785256537364.txt",
+   "insightIds": [
+    "ins-2026-10-13-eisk"
+   ]
   },
   {
    "id": "7695082097630776597",
@@ -3853,7 +3859,7 @@
    "caption": "הנה עוד חבורה של יהודים שונאי עצמם כאן בלונדון. במקום לעמוד לצד מדינת...",
    "posted": "1791650924",
    "found": "2026-10-10T16:54:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695082097630776597.txt"
   },
   {
@@ -3864,7 +3870,7 @@
    "caption": "רוני קובן שאל אותי מה דעתי על יאיר נתניהו. זה מה שאמרתי לו>> #ישראל #...",
    "posted": "1791651689",
    "found": "2026-10-10T17:08:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695085376679021844.txt"
   },
   {
@@ -3875,8 +3881,11 @@
    "caption": "הגנרלים התריעו על סופה מושלמת - ואז יצאו החוצה בלי מטריה",
    "posted": "1791651575",
    "found": "2026-10-10T17:09:05Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695084891070876949.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695084891070876949.txt",
+   "insightIds": [
+    "ins-2026-10-13-sgl6"
+   ]
   },
   {
    "id": "7695087782116560148",
@@ -3886,7 +3895,7 @@
    "caption": "כשמניפים תמונות של רוצחי המונים אז זו לא הפגנה לגיטימית- זו הפגנת תומ...",
    "posted": "1791652248",
    "found": "2026-10-10T17:23:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695087782116560148.txt"
   },
   {
@@ -3907,7 +3916,7 @@
    "caption": "בקבוקים של תקווה מעזה! כשר הביטחון הבא, אוביל ואקדם את תוכנית ההגירה ...",
    "posted": "1791653148",
    "found": "2026-10-10T17:39:08Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695091652809002292.txt"
   },
   {
