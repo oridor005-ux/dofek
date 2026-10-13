@@ -1,117 +1,6 @@
 {
  "items": [
   {
-   "id": "7693199582901128469",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693199582901128469",
-   "caption": "💜💜💜",
-   "posted": "1791212616",
-   "found": "2026-10-05T15:51:55Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693199582901128469.txt"
-  },
-  {
-   "id": "7693212429970410760",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693212429970410760",
-   "caption": "לפני שלוש שנים, בשבעה באוקטובר, החיים שלהם השתנו ברגע. מאז, כל אחד וא...",
-   "posted": "1791215608",
-   "found": "2026-10-05T16:08:34Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693208318394764565",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693208318394764565",
-   "caption": "\"להוריד 30 מחבלים בלילה? זה מעט מדי\" 👇 עימות סוער בפאנל #הצבעה_ראשונה...",
-   "posted": "1791216000",
-   "found": "2026-10-05T16:10:57Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693208318394764565.txt"
-  },
-  {
-   "id": "7693216811306781973",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693216811306781973",
-   "caption": "22 ימים לבחירות ויש אנשים שעדיין בטוחים שהייתה בגידה מבפנים 👇",
-   "posted": "1791216632",
-   "found": "2026-10-05T16:25:35Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693216811306781973.txt",
-   "insightIds": [
-    "ins-2026-10-06-tq07"
-   ]
-  },
-  {
-   "id": "7693220048244067592",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693220048244067592",
-   "caption": "ברט מקגורק, ששימש שליח ממשל ביידן למזרח התיכון, אמר כי ארה\"ב לא הכירה...",
-   "posted": "1791217388",
-   "found": "2026-10-05T16:25:57Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693218517037927688",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693218517037927688",
-   "caption": "דני אבדיה נראה מוכן מתמיד לעונה החדשה של ה-NBA, שתחל בסוף אוקטובר. בא...",
-   "posted": "1791217026",
-   "found": "2026-10-05T16:26:19Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693218517037927688.txt"
-  },
-  {
-   "id": "7693220207896136967",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693220207896136967",
-   "caption": "ועדת הבחירות המרכזית מציינת היום אבן דרך מרכזית בהיערכות הלוגיסטית, ע...",
-   "posted": "1791217425",
-   "found": "2026-10-05T16:39:27Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693226215561252103",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693226215561252103",
-   "caption": "עונת השפעת כבר כאן - ומוקדם מהצפוי! 😷 עשרות חולים מגיעים בימים אלו לח...",
-   "posted": "1791218816",
-   "found": "2026-10-05T16:54:22Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693233793120963858",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693233793120963858",
-   "caption": "אז מתי נראה שוב את הקוטג' על המדפים? 👇🏻 חודשיים אחרי התקלה במפעל תנוב...",
-   "posted": "1791222360",
-   "found": "2026-10-05T17:55:23Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693244717944851719",
-   "channel": "ben_caspit",
-   "name": "ben_caspit",
-   "url": "https://www.tiktok.com/@ben_caspit/video/7693244717944851719",
-   "caption": "הרבה מילים נאמרו על מחדל 'פליי דובאי' - אתם רוצים שורה תחתונה? המדינה...",
-   "posted": "1791223131",
-   "found": "2026-10-05T18:11:44Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693244717944851719.txt",
-   "insightIds": [
-    "ins-2026-10-06-om14"
-   ]
-  },
-  {
    "id": "7693248120460741908",
    "channel": "c14news",
    "name": "c14news",
@@ -4476,10 +4365,118 @@
    "found": "2026-10-12T05:48:06Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695464065891618066.txt"
+  },
+  {
+   "id": "7695844697197088008",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7695844697197088008",
+   "caption": "מה הוא חושב על עמיתי שיקלי, מי האשמים במחדל ומה עשה לדני מיינד פאק? ר...",
+   "posted": "1791828483",
+   "found": "2026-10-13T05:40:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695844697197088008.txt"
+  },
+  {
+   "id": "7695659428992945428",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7695659428992945428",
+   "caption": "כל האמת על בן גביר בחצי דקה>> #ישראל #פוליטיקה #פודקאסט ",
+   "posted": "1791785344",
+   "found": "2026-10-13T05:41:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695659428992945428.txt"
+  },
+  {
+   "id": "7695863514413485319",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695863514413485319",
+   "caption": "סקר חדשות 12 חושף: איזנקוט פותח פער מול נתניהו בהתאמה לראשות הממשלה  ...",
+   "posted": "1791834660",
+   "found": "2026-10-13T05:41:10Z",
+   "status": "failed"
+  },
+  {
+   "id": "7695855251294866695",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695855251294866695",
+   "caption": "החקירה של יונתן אוריך נמשכת והפעם - הציטוטים מחדר החקירות נחשפים יונת...",
+   "posted": "1791833040",
+   "found": "2026-10-13T05:41:14Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7695818790952586503",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7695818790952586503",
+   "caption": "נוסף לרשימת היעדים: עשרות גמלים הגיעו לחוף פזאיה, הידוע בחולותיו הלבנ...",
+   "posted": "1791822451",
+   "found": "2026-10-13T05:41:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695818790952586503.txt"
+  },
+  {
+   "id": "7695737381147708693",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7695737381147708693",
+   "caption": "15 ימים לבחירות ולאנשים אין מושג כמה הן עולות לנו 👆🗳️💸 #בחירות #מתחתל...",
+   "posted": "1791803492",
+   "found": "2026-10-13T05:41:43Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695737381147708693.txt"
+  },
+  {
+   "id": "7695680077916392756",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7695680077916392756",
+   "caption": "״רגל פה רגל שם״  📹: ליאור בן אריה #ארגוןנכיצה״ל #מתחתלרדאר ",
+   "posted": "1791790154",
+   "found": "2026-10-13T05:41:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695680077916392756.txt"
+  },
+  {
+   "id": "7696019515297025298",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7696019515297025298",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791869187",
+   "found": "2026-10-13T05:42:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696019515297025298.txt"
+  },
+  {
+   "id": "7695889083150634260",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695889083150634260",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791838813",
+   "found": "2026-10-13T05:42:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695889083150634260.txt"
+  },
+  {
+   "id": "7695863840042519815",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695863840042519815",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1791832946",
+   "found": "2026-10-13T05:42:20Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7695863840042519815.txt"
   }
  ],
  "health": {
-  "at": "2026-10-12T05:48:27Z",
+  "at": "2026-10-13T05:42:38Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
