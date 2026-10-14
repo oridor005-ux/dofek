@@ -1,127 +1,6 @@
 {
  "items": [
   {
-   "id": "7693248120460741908",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693248120460741908",
-   "caption": "המפלגה קיימה את אירוע השקת הקמפיין שלה דווקא ביום הזיכרון לטבח ה-7 בא...",
-   "posted": "1791223919",
-   "found": "2026-10-05T18:26:59Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693248120460741908.txt"
-  },
-  {
-   "id": "7693255163837943061",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693255163837943061",
-   "caption": "שאלתה של רומי סוויסה בשבעה באוקטובר - \"אתם של ישראל\", הפכה לאחד מסמלי...",
-   "posted": "1791225558",
-   "found": "2026-10-05T18:42:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693255163837943061.txt"
-  },
-  {
-   "id": "7693263228742274311",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7693263228742274311",
-   "caption": "האנשים האלה צריכים להיות על עמוד הקלון! על עמוד הקלון לא פחות מזה!  ש...",
-   "posted": "1791227442",
-   "found": "2026-10-05T21:35:23Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693263228742274311.txt",
-   "insightIds": [
-    "ins-2026-10-06-mg16"
-   ]
-  },
-  {
-   "id": "7693259553344900358",
-   "channel": "amitsegalnews",
-   "name": "amitsegalnews",
-   "url": "https://www.tiktok.com/@amitsegalnews/video/7693259553344900358",
-   "caption": "האמת על החטופים יוצאת לאור",
-   "posted": "1791226584",
-   "found": "2026-10-05T21:36:14Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693259553344900358.txt",
-   "insightIds": [
-    "ins-2026-10-06-mg16"
-   ]
-  },
-  {
-   "id": "7693282024651738375",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693282024651738375",
-   "caption": "רווה אפלטון, משפיען בתחום הרכב, מצטרף ל-C14 בפינה שבועית קבועה",
-   "posted": "1791231818",
-   "found": "2026-10-05T21:37:35Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693282024651738375.txt"
-  },
-  {
-   "id": "7693275473819831559",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693275473819831559",
-   "caption": "\"היה קרב יריות ואני באמצע\": ד\"ר טארק מאיחוד הצלה מספר על הזירה אליה נ...",
-   "posted": "1791230299",
-   "found": "2026-10-05T21:38:10Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693275473819831559.txt"
-  },
-  {
-   "id": "7693262442125593874",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693262442125593874",
-   "caption": "בשם ההסתה נגד הציבור החרדי, נדמה שבחדשות 12 מוכנים אפילו למחזר תיעוד ...",
-   "posted": "1791227254",
-   "found": "2026-10-05T21:38:21Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693287738958695701",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693287738958695701",
-   "caption": "\"הוא הורס את המדינה\": דרמה בספרד אחרי שממשלתו של פדרו סאנצ'ס, ממבקריה...",
-   "posted": "1791233145",
-   "found": "2026-10-05T21:40:20Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693287738958695701.txt",
-   "insightIds": [
-    "ins-2026-10-06-es29"
-   ]
-  },
-  {
-   "id": "7693250373712121108",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693250373712121108",
-   "caption": "ניצחון החיים: ברק ניקסון שרד 8.5 שעות בתא שירותים כימיים בנובה ונדר ל...",
-   "posted": "1791224445",
-   "found": "2026-10-05T21:40:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693250373712121108.txt"
-  },
-  {
-   "id": "7693282287319797010",
-   "channel": "ben_caspit",
-   "name": "ben_caspit",
-   "url": "https://www.tiktok.com/@ben_caspit/video/7693282287319797010",
-   "caption": "גדי איזנקוט מגיב לאמירה של מועמד הליכוד איציק בונצל: \"לא מצפה ממנו לכ...",
-   "posted": "1791231879",
-   "found": "2026-10-05T21:41:44Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693282287319797010.txt",
-   "insightIds": [
-    "ins-2026-10-06-bz28"
-   ]
-  },
-  {
    "id": "7693418981742382344",
    "channel": "yinonmagal",
    "name": "yinonmagal",
@@ -4482,10 +4361,120 @@
    "found": "2026-10-13T05:42:20Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7695863840042519815.txt"
+  },
+  {
+   "id": "7696180676416048402",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7696180676416048402",
+   "caption": "מי אמר 'כך' ולא קיבל? #פוליטיקה #בחירות #עוצמהיהודית ",
+   "posted": "1791906706",
+   "found": "2026-10-14T05:53:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696180676416048402.txt"
+  },
+  {
+   "id": "7696392913797893396",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7696392913797893396",
+   "caption": "זה היה אחד המתאתגרים. תודה לפרלמנט ראשון לציון 🩵 #ישראל #פוליטיקה #רא...",
+   "posted": "1791956121",
+   "found": "2026-10-14T05:56:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696392913797893396.txt"
+  },
+  {
+   "id": "7696100834156760328",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7696100834156760328",
+   "caption": "לא יכול לשחרר מהפרלמנט📺 #פרלמנט #foryou #בחירות ",
+   "posted": "1791888116",
+   "found": "2026-10-14T05:57:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696100834156760328.txt"
+  },
+  {
+   "id": "7696188766750330132",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7696188766750330132",
+   "caption": "לינוי בר גפן על הסחבת בהגדרת הקריטריונים החדשים לתווי נכה #מהצדהשני #...",
+   "posted": "1791908590",
+   "found": "2026-10-14T05:58:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696188766750330132.txt"
+  },
+  {
+   "id": "7696077828181216519",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7696077828181216519",
+   "caption": "שלחו את זה למישהו שתמכנן להצביע לזליכה. ויש צבא של בוטים שתוקף כל מי ...",
+   "posted": "1791882764",
+   "found": "2026-10-14T05:59:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696077828181216519.txt"
+  },
+  {
+   "id": "7696229754009226514",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7696229754009226514",
+   "caption": "״האחריות צריכה להיות של המדינה, לא של ניסים ואטורי״:  ח״כ ניסים ואטור...",
+   "posted": "1791918135",
+   "found": "2026-10-14T06:00:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696229754009226514.txt"
+  },
+  {
+   "id": "7696217890273512722",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7696217890273512722",
+   "caption": "כל החיים הצביע למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 14 ימים ל...",
+   "posted": "1791915374",
+   "found": "2026-10-14T06:01:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696217890273512722.txt"
+  },
+  {
+   "id": "7696163685999414548",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7696163685999414548",
+   "caption": "כל החיים הצביע למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 14 ימים ל...",
+   "posted": "1791902752",
+   "found": "2026-10-14T06:01:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696163685999414548.txt"
+  },
+  {
+   "id": "7696145993649245460",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7696145993649245460",
+   "caption": "14 יום לבחירות ומה הקטע עם יונתן אוריך? #מתחתלרדאר #בחירות2026 ",
+   "posted": "1791898632",
+   "found": "2026-10-14T06:03:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696145993649245460.txt"
+  },
+  {
+   "id": "7696095864749690133",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7696095864749690133",
+   "caption": "למי אתה מצביע בבחירות? #כןביבי #לאביבי #בחירות ",
+   "posted": "1791886960",
+   "found": "2026-10-14T06:03:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696095864749690133.txt"
   }
  ],
  "health": {
-  "at": "2026-10-13T05:42:38Z",
+  "at": "2026-10-14T06:03:57Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
