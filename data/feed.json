@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T05:18:21.214Z",
+ "updated": "2026-10-14T05:30:30.438Z",
  "items": [
   {
    "id": "1fd018f6cf84",
@@ -348,6 +348,20 @@
    "topic": "econ",
    "published": "2026-10-14T03:09:00.000Z",
    "summary": "אקסוניקה, שהוקמה ביוני האחרון בנתניה ע\"י בכיר קוואלקום לשעבר אסף טובול, מגייסת עד 80 מיליון דולר בסבב פרה־סיד • עם 20 עובדים בלבד, החברה מפתחת שבב חסכוני בחשמל להפעלת מודלי AI - ומכוונת להתחרות באנבידיה ובסריבראס בשוק ההסקה החם",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791898962/%D7%90%D7%A1%D7%A3-%D7%98%D7%95%D7%91%D7%95%D7%9C_gnczwk.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "d5f0374243a5",
+   "kind": "headline",
+   "title": "חברת השבבים הישראלית שרוצה להתחרות באנבידיה ומסעירה משקיעים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559381#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-14T03:09:00.000Z",
+   "summary": "אקסוניקה, שהוקמה ביוני האחרון בהרצליה פיתוח ע\"י בכיר קוואלקום לשעבר אסף טובול, מגייסת עד 80 מיליון דולר בסבב פרה־סיד • עם 20 עובדים בלבד, החברה מפתחת שבב חסכוני בחשמל להפעלת מודלי AI - ומכוונת להתחרות באנבידיה ובסריבראס בשוק ההסקה החם",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791898962/%D7%90%D7%A1%D7%A3-%D7%98%D7%95%D7%91%D7%95%D7%9C_gnczwk.jpg",
    "score": 0,
    "alsoIn": [],
@@ -5599,20 +5613,6 @@
    "published": "2026-10-11T10:38:29.000Z",
    "summary": "בעוד רוב העובדים זכאים לשבתון, מבלי לקזז להם מימי החופש, בחלק מהענפים העבודה נמשכת כרגיל. וגם: האם ניתן לעבוד מהבית, ומה בנוגע למי שאין לו זכות הצבעה? ynet מסביר",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/B1UWMCdjzg/B1UWMCdjzg_0_0_3000_1689_0_cid_62_medium.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "7a3e3e767cd5",
-   "kind": "headline",
-   "title": "סקר חדש: 80% מהעולים מרגישים שישראל היא ביתם - אך בקרב דוברי הרוסית התמונה מורכבת",
-   "source": "היום",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CLUM3Y3lESlE4Zkp5ZGJlSGVodmxlR2piSF9YWWdjVEZLMXJOMjljVExVZGVZUkdqVm0zNFJDWi1GWDRsdDkwN0RSUGN4QjBhVlR2WXQ4dDNpbFVKMVFXSXUwOHJCMFVI0gFwQVVfeXFMT0d6ckZDdTVYNDRtNkFlSnBSbmNLTzZTWXgyY3VKNkdGMXgyQWZUdldaQW5CbHVyR01oY0xKRXBQVXFaTnVhR1kzdkNOWTRsTnhwNWlDb2FORzIwYkR4Um4wdVVVTTUyTWtlaFVNNG00dg?oc=5",
-   "topic": "research",
-   "published": "2026-10-11T10:36:46.000Z",
-   "summary": "",
-   "image": "",
    "score": 0,
    "alsoIn": [],
    "important": false
