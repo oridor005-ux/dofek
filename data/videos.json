@@ -3698,7 +3698,7 @@
    "caption": "",
    "posted": "1791654703",
    "found": "2026-10-10T17:53:39Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695098333286632705.txt"
   },
   {
@@ -3709,7 +3709,7 @@
    "caption": "חברת התעופה פליי דובאי מבטלת את טיסותיה לישראל לפחות עד ה-31 באוקטובר...",
    "posted": "1791654744",
    "found": "2026-10-10T18:08:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695098507337911572.txt"
   },
   {
@@ -3730,7 +3730,7 @@
    "caption": "הצביעות של משטרת לונדון!",
    "posted": "1791654957",
    "found": "2026-10-10T18:10:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695099418873203988.txt"
   },
   {
@@ -3751,8 +3751,11 @@
    "caption": "כנראה שלעולם לא נדע אם יהודים הם הומו-ספיאנס. חבל, נראה שריקלין סקרן ...",
    "posted": "1791656573",
    "found": "2026-10-10T18:39:34Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695106345242070280.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695106345242070280.txt",
+   "insightIds": [
+    "ins-2026-10-15-gsad"
+   ]
   },
   {
    "id": "7695108811723377940",
@@ -3762,7 +3765,7 @@
    "caption": "״צה״ל זה צבא האויב ואויב של היהדות״ אמירה מקוממת של מפגין חרדי במהלך ...",
    "posted": "1791657143",
    "found": "2026-10-10T18:41:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695108811723377940.txt"
   },
   {
@@ -3773,7 +3776,7 @@
    "caption": "\"דווקא עכשיו\": המשפחות שעברו להתגורר בקיבוץ הכי קרוב לעזה | הכתבה של ...",
    "posted": "1791657190",
    "found": "2026-10-10T18:43:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695108994301496594.txt"
   },
   {
@@ -3784,7 +3787,7 @@
    "caption": "לא נשתוק בזמן שלונדון ועוד מקומות באירופה חוזרים 80 שנה אחורה! We wil...",
    "posted": "1791657396",
    "found": "2026-10-10T18:44:41Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695109892054551829.txt"
   },
   {
@@ -3795,8 +3798,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791658310",
    "found": "2026-10-10T18:54:30Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695113812269108498.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695113812269108498.txt",
+   "insightIds": [
+    "ins-2026-10-12-mm02"
+   ]
   },
   {
    "id": "7695113647630077202",
@@ -3806,7 +3812,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791658274",
    "found": "2026-10-10T18:55:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695113647630077202.txt"
   },
   {
@@ -3817,8 +3823,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791657992",
    "found": "2026-10-10T18:55:46Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695112448956714247.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695112448956714247.txt",
+   "insightIds": [
+    "ins-2026-10-15-plo6"
+   ]
   },
   {
    "id": "7695115085164956949",
@@ -3859,7 +3868,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791659874",
    "found": "2026-10-10T19:24:42Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695120535931440402.txt"
   },
   {
@@ -3870,7 +3879,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791659599",
    "found": "2026-10-10T19:24:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695119352198122760.txt"
   },
   {
@@ -3881,7 +3890,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791659393",
    "found": "2026-10-10T19:25:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695118472845692167.txt"
   },
   {
@@ -3892,8 +3901,11 @@
    "caption": "״אני גאון, אתה טיפש״: איך אשר בן עוז מצליח לחיות חיי פאר כשהוא בחובות...",
    "posted": "1791659557",
    "found": "2026-10-10T19:28:53Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695119172392537352.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695119172392537352.txt",
+   "insightIds": [
+    "ins-2026-10-15-boz3"
+   ]
   },
   {
    "id": "7695129069473631495",
