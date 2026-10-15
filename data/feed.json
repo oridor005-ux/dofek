@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T05:18:07.841Z",
+ "updated": "2026-10-15T05:30:35.441Z",
  "items": [
   {
    "id": "01025cb10b77",
@@ -14,6 +14,20 @@
    "score": 0,
    "alsoIn": [],
    "important": false
+  },
+  {
+   "id": "da9c508824ca",
+   "kind": "headline",
+   "title": "חמישה דברים שכדאי לדעת לקראת יום המסחר",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559578#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-15T05:05:00.000Z",
+   "summary": "המסחר בתל אביב צפוי להיפתח ברקע גל מימושים נרחב בסקטור הטכנולוגיה העולמי; המניות הדואליות צפויות להכביד הבוקר על המדדים המובילים • נתוני האינפלציה בארה\"ב הזניקו את תשואות האג\"ח • שיא של חצי שנה: הדולר מתחזק ונושק לרף ה-3.10 שקלים • העיניים נשואות למדד המחירים לצרכן: האם צפויה הפתעה למרות הציפיות…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg5_nep3u6.jpg",
+   "score": 6,
+   "alsoIn": [],
+   "important": true
   },
   {
    "id": "2ad8ca9c28f5",
@@ -5595,20 +5609,6 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wclFJMkpPbTRReEVBUXpOcktOY3Z1VXExQWRVV245cWtfRG1nNkVkaHNRcFpaVUV3TnZnMkE2SGx2U2J0b0dqTW9seFdybm0yVWV3X29EbVVLWUVkd2FmT29Wd0p5VTNs?oc=5",
    "topic": "econ",
    "published": "2026-10-12T13:11:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "bdc7e6ba6077",
-   "kind": "headline",
-   "title": "Ukrainian parliament passes law on national minority educational rights",
-   "source": "Telex",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0xYR0lDMEZfMi04bnF3dXdWVklzRTdCdUc2Rzg0ektIRDFzM3pWWDgxVlhUMnJDbG5idmhDcE5FekJ4UmZReDByaHNTeXBZVGprYklEM21qRjJjOTJXdE45dGxRU1F3cXBLY0I2eEpvZlc2MDFSYmNOcGxjcERMeF9HZHRoNF9Ib3pqUlRrV0N3MTA5bThxNU50SWNBbEhMRGRSMXo5ZmhRbXUxV1E?oc=5",
-   "topic": "world",
-   "published": "2026-10-12T13:10:53.000Z",
    "summary": "",
    "image": "",
    "score": 0,
