@@ -1,114 +1,6 @@
 {
  "items": [
   {
-   "id": "7693418981742382344",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7693418981742382344",
-   "caption": "תרבות של שקר, מדפים של שקר, והכל בנועם וחיוך מעושה ",
-   "posted": "1791263700",
-   "found": "2026-10-06T05:30:47Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693418981742382344.txt"
-  },
-  {
-   "id": "7693431677342829831",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693431677342829831",
-   "caption": "הפצועים בפיצוץ הרכב בירושלים - עבריין מוכר מאוד ובנו 📸: שימוש לפי סעי...",
-   "posted": "1791266662",
-   "found": "2026-10-06T06:15:28Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693431677342829831.txt"
-  },
-  {
-   "id": "7693441827961130248",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693441827961130248",
-   "caption": "ינון מגל בפרסום ראשון: ראש השב\"כ דוד זיני קיבל לידיו את רשימת השמות ה...",
-   "posted": "1791269026",
-   "found": "2026-10-06T06:45:39Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693450954838052117",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693450954838052117",
-   "caption": "3 שנים חלפו מאז השבת השחורה, והשיחה של הפרמדיקית עמית מן ז\"ל למוקד המ...",
-   "posted": "1791271145",
-   "found": "2026-10-06T07:31:55Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693450954838052117.txt"
-  },
-  {
-   "id": "7693429805177441557",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693429805177441557",
-   "caption": "שוטרי תחנת מודיעין טיפלו במהלך הלילה בהפרת סדר בעיר, שהתפתחה על רקע פ...",
-   "posted": "1791266225",
-   "found": "2026-10-06T07:32:03Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693428161870073109",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693428161870073109",
-   "caption": "מודיעין: מאות חרדים ניסו לפרוץ לבניין כדי למנוע מעצר עריק. המשטרה נאל...",
-   "posted": "1791265840",
-   "found": "2026-10-06T07:32:47Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693428161870073109.txt"
-  },
-  {
-   "id": "7693457604252585237",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693457604252585237",
-   "caption": "לבקשת המשפחות השכולות: אושר שינוי בכיתוב על המצבות הצבאיות 🕯️ ועדת הח...",
-   "posted": "1791272693",
-   "found": "2026-10-06T07:46:58Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693457604252585237.txt"
-  },
-  {
-   "id": "7693461154282179858",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693461154282179858",
-   "caption": "כל האמת בפרצוף: טל מאיר על דבריו המדהימים של שורד השבי אבינתן אור @ta...",
-   "posted": "1791273525",
-   "found": "2026-10-06T08:02:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693461154282179858.txt"
-  },
-  {
-   "id": "7693458092465425670",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693458092465425670",
-   "caption": "ההכנות בארגנטינה למשחקו האחרון בנבחרת של אגדת הכדורגל בשיאן! ⚽️ #חדשו...",
-   "posted": "1791272810",
-   "found": "2026-10-06T08:02:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693458092465425670.txt"
-  },
-  {
-   "id": "7693462797312658696",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693462797312658696",
-   "caption": "המעצר שנכשל: המשטרה הצבאית יצאה למעצר יזום של עריק ממודיעין, אך ההמונ...",
-   "posted": "1791273907",
-   "found": "2026-10-06T08:16:37Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693462797312658696.txt"
-  },
-  {
    "id": "7693466962499882258",
    "channel": "itamar_ben_gvir",
    "name": "itamar_ben_gvir",
@@ -4471,10 +4363,119 @@
    "found": "2026-10-14T06:03:35Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7696095864749690133.txt"
+  },
+  {
+   "id": "7696523259432553736",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7696523259432553736",
+   "caption": "את מי הכנסת באמת מייצגת? #פוליטיקה #בחירות ",
+   "posted": "1791986470",
+   "found": "2026-10-15T05:53:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696523259432553736.txt"
+  },
+  {
+   "id": "7696751949634489620",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7696751949634489620",
+   "caption": "איזה יום היה לי בפתח תקווה💙 ממשיך לחרוש את הארץ בכל יום בעיר אחרת. כי...",
+   "posted": "1792039717",
+   "found": "2026-10-15T05:54:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696751949634489620.txt"
+  },
+  {
+   "id": "7696579595792895252",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7696579595792895252",
+   "caption": "טל מורד שאל אותי איך אתקן את קריסת המילואימניקים אז צרפתי אותו למהפכת...",
+   "posted": "1791999588",
+   "found": "2026-10-15T05:54:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696579595792895252.txt"
+  },
+  {
+   "id": "7696565703708609813",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7696565703708609813",
+   "caption": "מי הקטין את הצבא? שיתוף פעולה נדיר בין איזנקוט לנתניהו #איזנקוט #נתני...",
+   "posted": "1791996356",
+   "found": "2026-10-15T05:55:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696565703708609813.txt"
+  },
+  {
+   "id": "7696540921827052801",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7696540921827052801",
+   "caption": "הכתובת הייתה על הקיר?  רצף האירועים המלא שקדם לאסון השבעה באוקטובר נח...",
+   "posted": "1791990582",
+   "found": "2026-10-15T05:55:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696540921827052801.txt"
+  },
+  {
+   "id": "7696523010601143573",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7696523010601143573",
+   "caption": "\"יפו הייתה אמורה להיות המקום הכי בטוח שלי בעולם, מקום שבחרתי בו מתוך ...",
+   "posted": "1791986416",
+   "found": "2026-10-15T05:56:08Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696523010601143573.txt"
+  },
+  {
+   "id": "7696504682256223495",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7696504682256223495",
+   "caption": "שלושה בני אדם נפצעו במפעל של ענקית הטכנולוגיה אינטל, החשד: בלון גז שה...",
+   "posted": "1791982146",
+   "found": "2026-10-15T05:56:09Z",
+   "status": "failed"
+  },
+  {
+   "id": "7696542587896745217",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7696542587896745217",
+   "caption": "הדרך מנהריה לקיסריה 🚊 #מתחתלרדאר #תחבורהציבורית #מירירגב ",
+   "posted": "1791990970",
+   "found": "2026-10-15T05:56:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696542587896745217.txt"
+  },
+  {
+   "id": "7696497757514747157",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7696497757514747157",
+   "caption": "למי אתה מצביע בבחירות הקרובות? ",
+   "posted": "1791980533",
+   "found": "2026-10-15T05:57:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696497757514747157.txt"
+  },
+  {
+   "id": "7696657063996443910",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7696657063996443910",
+   "caption": "פוב: פאנל עם נציג בנטלפיד #פוריו #בשבילך #ימין #שמאל",
+   "posted": "1792017633",
+   "found": "2026-10-15T05:57:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696657063996443910.txt"
   }
  ],
  "health": {
-  "at": "2026-10-14T06:03:57Z",
+  "at": "2026-10-15T05:58:12Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
