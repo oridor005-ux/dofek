@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:18:24.048Z",
+ "updated": "2026-10-16T05:30:33.277Z",
  "items": [
   {
    "id": "809c238450b8",
@@ -145,6 +145,20 @@
    "id": "d2879dc36c04",
    "kind": "headline",
    "title": "אקירוב לא מוותר על כלל ביטוח: \"אין שום סיבה לסרב לי\"",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001559427#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-10-16T03:53:00.000Z",
+   "summary": "אלפרד אקירוב בן ה-85 ממשיך להיאבק על השליטה בכלל ביטוח, שהשקעתו בה כבר שווה יותר מ-3 מיליארד שקל • בראיון בלעדי לגלובס הוא מסביר את המניע למחוק את אלרוב מהבורסה, מודה שטעה בהתנגדותו לרכישת מקס, מגלה כמה שוות הקרקעות שלו בהרצליה ומתעקש להזהיר: \"הבחירות הן אירוע שיכול למחוק את המדינה\"",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791965442/_S1A0110_fwgcdo.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "34b86da8fd69",
+   "kind": "headline",
+   "title": "אקירוב בגיל 85: \"אני לא יכול לצאת לפנסיה - זה יעשה אותי חולה\"",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001559427#utm_source=RSS",
    "topic": "deals",
@@ -5593,20 +5607,6 @@
    "published": "2026-10-13T22:06:33.000Z",
    "summary": "",
    "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c139ed956916",
-   "kind": "headline",
-   "title": "UAW’s Shawn Fain Wins Second Term as President",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/13/us/politics/uaw-shawn-fain.html",
-   "topic": "world",
-   "published": "2026-10-13T21:30:21.000Z",
-   "summary": "The United Auto Workers has grown under Mr. Fain, who has also drawn scrutiny from federal prosecutors.",
-   "image": "https://static01.nyt.com/images/2026/10/13/business/00biz-uaw-election/00biz-uaw-election-mediumSquareAt3X.jpg",
    "score": 0,
    "alsoIn": [],
    "important": false
