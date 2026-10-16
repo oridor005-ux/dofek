@@ -3730,8 +3730,11 @@
    "caption": "״אני לא מתעקש על נשיא בית המשפט העליון״. ועדת חקירה? זו רק ההתחלה. המ...",
    "posted": "1791658605",
    "found": "2026-10-10T19:09:53Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695115085164956949.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695115085164956949.txt",
+   "insightIds": [
+    "ins-2026-10-16-vq20"
+   ]
   },
   {
    "id": "7695115200768265479",
@@ -3808,7 +3811,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1791661861",
    "found": "2026-10-10T19:54:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695129069473631495.txt"
   },
   {
@@ -3819,7 +3822,7 @@
    "caption": "ימין או פלסטין! #פוריו #בשבילך #ימין #שמאל",
    "posted": "1791661433",
    "found": "2026-10-10T19:55:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695127224252648712.txt"
   },
   {
@@ -3830,7 +3833,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791662547",
    "found": "2026-10-10T20:10:20Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695132020871007506.txt"
   },
   {
@@ -3841,7 +3844,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1791662085",
    "found": "2026-10-10T20:10:41Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695129986872773906.txt"
   },
   {
@@ -3852,8 +3855,11 @@
    "caption": "הוא והחברים שלו דרשו להפסיק את המלחמה ולסגת מרצועת עזה, מה יפה? מה יפ...",
    "posted": "1791662600",
    "found": "2026-10-10T20:12:14Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695132221681798408.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695132221681798408.txt",
+   "insightIds": [
+    "ins-2026-10-16-lp30"
+   ]
   },
   {
    "id": "7695133080008314130",
@@ -3863,7 +3869,7 @@
    "caption": "\"לא אשכח את הרגע שילד בא אליי ואמר לי 'קמתי בבוקר והרגשתי שווה כמו אל...",
    "posted": "1791662795",
    "found": "2026-10-10T20:12:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695133080008314130.txt"
   },
   {
@@ -3884,8 +3890,11 @@
    "caption": "נוכל נשאר נוכל. #פוריו #בשבילך #ימין #שמאל",
    "posted": "1791696259",
    "found": "2026-10-11T05:36:44Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695276791216327943.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695276791216327943.txt",
+   "insightIds": [
+    "ins-2026-10-16-bn6m"
+   ]
   },
   {
    "id": "7695266808600841480",
@@ -3895,7 +3904,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791693934",
    "found": "2026-10-11T05:36:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695266808600841480.txt"
   },
   {
@@ -3906,7 +3915,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791693032",
    "found": "2026-10-11T05:37:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695262939728792840.txt"
   },
   {
@@ -3917,7 +3926,7 @@
    "caption": "גיבורת החיות: הוטרינרית שתקבל פרס בינלאומי על עבודת הקודש שלה ב-7 באו...",
    "posted": "1791694800",
    "found": "2026-10-11T05:40:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695122784384584966.txt"
   },
   {
@@ -3928,7 +3937,7 @@
    "caption": "11 פעמים ניסו לרצוח אותי. 11 פעמים הקדוש ברוך הוא הציל אותי מידיהם, ב...",
    "posted": "1791695700",
    "found": "2026-10-11T05:40:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695274398290300166.txt"
   },
   {
@@ -3939,7 +3948,7 @@
    "caption": "כשבבריטניה יש חוק אחד ליהודים וחוק אחד לתומכי טרור שעושים מה שרוצים ב...",
    "posted": "1791696469",
    "found": "2026-10-11T05:40:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695277706715385109.txt"
   },
   {
@@ -3950,7 +3959,7 @@
    "caption": "אל תגידו לא ראיתי לא שמעתי איך את המדינה לא תיקנתי💝💐 רק אצלנו במפלגת ...",
    "posted": "1791709711",
    "found": "2026-10-12T05:40:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695334564851469575.txt"
   },
   {
@@ -4026,7 +4035,7 @@
    "caption": "למי את מצביעה בבחירות הקרובות? 🗳️ #הציונותהדתית #בחירות ",
    "posted": "1791723475",
    "found": "2026-10-12T05:47:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695393702386093364.txt"
   },
   {
