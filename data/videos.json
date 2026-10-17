@@ -1,126 +1,6 @@
 {
  "items": [
   {
-   "id": "7693488302963346740",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693488302963346740",
-   "caption": "ציור הקיר החדש על הארנה: לזכרם של הירש ואורי דנינו ז\"ל שנחטפו ב-7 באו...",
-   "posted": "1791281580",
-   "found": "2026-10-06T10:18:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693488302963346740.txt"
-  },
-  {
-   "id": "7693495430037900552",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693495430037900552",
-   "caption": "שורד השבי רום ברסלבסקי יצא במתקפה חריפה נגד טקס הזיכרון של תנועת קומו...",
-   "posted": "1791281501",
-   "found": "2026-10-06T10:18:29Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693500004291349767",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693500004291349767",
-   "caption": "דנה ורון נגד חדשות 12: \"הנדסת תודעה וניסיון להצית מלחמת אחים\" @dana_v...",
-   "posted": "1791282562",
-   "found": "2026-10-06T10:34:21Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693500004291349767.txt",
-   "insightIds": [
-    "ins-2026-10-06-ld42"
-   ]
-  },
-  {
-   "id": "7693502940497054983",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693502940497054983",
-   "caption": "איך הגענו למצב שבו שורד טבח צריך להוכיח שהוא \"מספיק פגוע\" כדי לקבל לי...",
-   "posted": "1791283254",
-   "found": "2026-10-06T10:48:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693502940497054983.txt"
-  },
-  {
-   "id": "7693510805173685522",
-   "channel": "ask__dani",
-   "name": "ask__dani",
-   "url": "https://www.tiktok.com/@ask__dani/video/7693510805173685522",
-   "caption": "מבולבלים? גם אנחנו #פוליטיקה #בחירות #עמךישראל #וינטר ",
-   "posted": "1791285082",
-   "found": "2026-10-06T11:18:30Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693510805173685522.txt",
-   "insightIds": [
-    "ins-2026-10-06-wn18"
-   ]
-  },
-  {
-   "id": "7693508796798323986",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693508796798323986",
-   "caption": "\"האחדות שלנו זה הכוח שלנו\": שלוש שנים לאחר הטבח - הרב יגאל כהן במסר מרגש",
-   "posted": "1791284615",
-   "found": "2026-10-06T11:19:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693508796798323986.txt"
-  },
-  {
-   "id": "7693518443399630100",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693518443399630100",
-   "caption": "\"הליכוד פעם הייתה מפלגה ליברלית, היום היא מפלגה חשוכה\" 👇 רה\"מ לשעבר ו...",
-   "posted": "1791286855",
-   "found": "2026-10-06T11:49:35Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693518443399630100.txt",
-   "insightIds": [
-    "ins-2026-10-06-bn13"
-   ]
-  },
-  {
-   "id": "7693519200224152840",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693519200224152840",
-   "caption": "\"לזכר כל מי שאיבדנו\": האמן חמי ירוחם, צייר כלניות שעליהן ביקש לכתוב א...",
-   "posted": "1791287038",
-   "found": "2026-10-06T11:49:57Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693517129676508434",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693517129676508434",
-   "caption": "יום לפני 7 באוקטובר, מגיש ערוץ 14 השתלח במהלך תכניתו ברדיו 103FM בעשר...",
-   "posted": "1791286552",
-   "found": "2026-10-06T11:51:04Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693517129676508434.txt",
-   "insightIds": [
-    "ins-2026-10-06-mg71"
-   ]
-  },
-  {
-   "id": "7693529561690066183",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693529561690066183",
-   "caption": "שלוש שנים לטבח: השוטרים שנלחמו באופקים בעדות דרמטית על הקרבות, השכול ...",
-   "posted": "1791289445",
-   "found": "2026-10-06T12:35:16Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693529561690066183.txt"
-  },
-  {
    "id": "7693532031929699591",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4496,12 +4376,121 @@
    "found": "2026-10-16T05:56:42Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7696993989903355152.txt"
+  },
+  {
+   "id": "7697198411291888916",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7697198411291888916",
+   "caption": "כל האמת על דיבורי עונש המוות של בן גביר>> #אשקלון #ישראל #פוליטיקה ",
+   "posted": "1792143668",
+   "found": "2026-10-17T05:50:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697198411291888916.txt"
+  },
+  {
+   "id": "7697188447454350612",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7697188447454350612",
+   "caption": "שר האוצר סמוטריץ': סיכום קדנציה #כלכלה #כלכלה_בטיקטוק #הציונותהדתית #...",
+   "posted": "1792141349",
+   "found": "2026-10-17T05:52:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697188447454350612.txt"
+  },
+  {
+   "id": "7697231396859055380",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7697231396859055380",
+   "caption": "המשפחה מבקשת את עזרת הציבור: לשחרר את יונתן  חייל קרבי שיצא לחופשה בה...",
+   "posted": "1792151347",
+   "found": "2026-10-17T05:52:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697231396859055380.txt"
+  },
+  {
+   "id": "7697212875689053460",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7697212875689053460",
+   "caption": "זוג גרוש בקמפיין | חיים לוינסון סמוטריץ' ופייגלין הצטלמו יחד במסיבת ע...",
+   "posted": "1792147035",
+   "found": "2026-10-17T05:52:47Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7697192380121763093",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7697192380121763093",
+   "caption": "כל החיים הצביעו למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 10 ימים ...",
+   "posted": "1792142264",
+   "found": "2026-10-17T05:53:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697192380121763093.txt"
+  },
+  {
+   "id": "7697277413226466578",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7697277413226466578",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1792162060",
+   "found": "2026-10-17T05:53:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697277413226466578.txt"
+  },
+  {
+   "id": "7697275545129700615",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7697275545129700615",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1792161625",
+   "found": "2026-10-17T05:54:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697275545129700615.txt"
+  },
+  {
+   "id": "7697270582953430290",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7697270582953430290",
+   "caption": "מפרקים את הפרלמנטים המזויפים של בנט :) שתפו 💙 #פוריו #בשבילך #ימין #שמאל",
+   "posted": "1792160471",
+   "found": "2026-10-17T05:54:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697270582953430290.txt"
+  },
+  {
+   "id": "7697158262302493959",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7697158262302493959",
+   "caption": "",
+   "posted": "1792134322",
+   "found": "2026-10-17T05:55:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697158262302493959.txt"
+  },
+  {
+   "id": "7696770269410495751",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7696770269410495751",
+   "caption": "זה אירוע מטורף ואני לא מבין איך בליכוד לא משתמשים בריאיון הזה של אייז...",
+   "posted": "1792043981",
+   "found": "2026-10-17T05:56:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696770269410495751.txt"
   }
  ],
  "health": {
-  "at": "2026-10-16T05:56:59Z",
-  "channelsOk": 22,
-  "channelsFail": 1,
+  "at": "2026-10-17T05:57:15Z",
+  "channelsOk": 23,
+  "channelsFail": 0,
   "transcribed": 10
  }
 }
