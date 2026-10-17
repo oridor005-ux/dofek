@@ -3860,7 +3860,7 @@
    "caption": "הרב שלי אמר לי לחסום\" תיעוד מקומם: צעירים חרדים מהפלג הירושלמי הפגינו...",
    "posted": "1791743759",
    "found": "2026-10-12T05:40:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695480799583489301.txt"
   },
   {
@@ -3871,7 +3871,7 @@
    "caption": "מספר 2 בישראל ביתנו, וראש עיריית בית שאן לשעבר, רפי בן שטרית, הגיע למ...",
    "posted": "1791740092",
    "found": "2026-10-12T05:41:13Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695465057840336149.txt"
   },
   {
@@ -3882,7 +3882,7 @@
    "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 16 ימים...",
    "posted": "1791736452",
    "found": "2026-10-12T05:41:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695449434393513222.txt"
   },
   {
@@ -3893,8 +3893,11 @@
    "caption": "פרק שמיני: הבלוק הטכני של מפלגת ״הציונות הדתית״ בראשות בצלאל סמוטריץ׳...",
    "posted": "1791730036",
    "found": "2026-10-12T05:46:05Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695421888964660487.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695421888964660487.txt",
+   "insightIds": [
+    "ins-2026-10-17-df68"
+   ]
   },
   {
    "id": "7695449149403254036",
@@ -3904,8 +3907,11 @@
    "caption": "⁨\t16 ימים לבחירות ויש אנשים שאשכרה עדיין קונים את השקר הזה 👆🗳️⁩",
    "posted": "1791736384",
    "found": "2026-10-12T05:47:01Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695449149403254036.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695449149403254036.txt",
+   "insightIds": [
+    "ins-2026-10-17-tz60"
+   ]
   },
   {
    "id": "7695393702386093364",
@@ -3926,7 +3932,7 @@
    "caption": "למה צריך להצביע ליכוד - #פוריו #בשבילך #ימין #שמאל",
    "posted": "1791741492",
    "found": "2026-10-12T05:47:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695471074770799880.txt"
   },
   {
@@ -3937,7 +3943,7 @@
    "caption": "למה צריך להצביע ליכוד - #פוריו #בשבילך #ימין #שמאל",
    "posted": "1791739859",
    "found": "2026-10-12T05:48:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695464065891618066.txt"
   },
   {
@@ -3948,8 +3954,11 @@
    "caption": "מה הוא חושב על עמיתי שיקלי, מי האשמים במחדל ומה עשה לדני מיינד פאק? ר...",
    "posted": "1791828483",
    "found": "2026-10-13T05:40:50Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7695844697197088008.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7695844697197088008.txt",
+   "insightIds": [
+    "ins-2026-10-17-lb21"
+   ]
   },
   {
    "id": "7695659428992945428",
@@ -3959,7 +3968,7 @@
    "caption": "כל האמת על בן גביר בחצי דקה>> #ישראל #פוליטיקה #פודקאסט ",
    "posted": "1791785344",
    "found": "2026-10-13T05:41:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695659428992945428.txt"
   },
   {
@@ -3990,7 +3999,7 @@
    "caption": "נוסף לרשימת היעדים: עשרות גמלים הגיעו לחוף פזאיה, הידוע בחולותיו הלבנ...",
    "posted": "1791822451",
    "found": "2026-10-13T05:41:22Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695818790952586503.txt"
   },
   {
@@ -4012,7 +4021,7 @@
    "caption": "״רגל פה רגל שם״  📹: ליאור בן אריה #ארגוןנכיצה״ל #מתחתלרדאר ",
    "posted": "1791790154",
    "found": "2026-10-13T05:41:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695680077916392756.txt"
   },
   {
@@ -4023,7 +4032,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791869187",
    "found": "2026-10-13T05:42:05Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696019515297025298.txt"
   },
   {
@@ -4034,7 +4043,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791838813",
    "found": "2026-10-13T05:42:13Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695889083150634260.txt"
   },
   {
@@ -4045,7 +4054,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1791832946",
    "found": "2026-10-13T05:42:20Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7695863840042519815.txt"
   },
   {
