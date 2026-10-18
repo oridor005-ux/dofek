@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "7693532031929699591",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693532031929699591",
-   "caption": "רגע מביש מיוחד במערכת הבחירות:  השר עמיחי שיקלי חיקה אמש את יו\"ר ישרא...",
-   "posted": "1791290023",
-   "found": "2026-10-06T12:49:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693532031929699591.txt"
-  },
-  {
-   "id": "7693540048372829492",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693540048372829492",
-   "caption": "פרטים נוספים על משחק הפרידה של מסי מנבחרת ארגנטינה #חדשות12 #N12 #mes...",
-   "posted": "1791291888",
-   "found": "2026-10-06T13:20:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693540048372829492.txt"
-  },
-  {
-   "id": "7693545151213440277",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693545151213440277",
-   "caption": "בהמשך לפרסום ב-C14 על החלטת ש\"ס לערוך אירועים מקומיים בכל רחבי הארץ ל...",
-   "posted": "1791293075",
-   "found": "2026-10-06T13:34:56Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693533873820470549",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693533873820470549",
-   "caption": "ניסן דה קאלו, מפקד הקרב בנחל עוז ב-7.10, נזכר ברגעים הקשים. לוקו, כלב...",
-   "posted": "1791293400",
-   "found": "2026-10-06T13:35:15Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693533873820470549.txt"
-  },
-  {
-   "id": "7693554198251588884",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693554198251588884",
-   "caption": "המל”ל באזהרה חריגה לקראת 7 באוקטובר: ערנות מוגברת לישראלים בחו”ל לקרא...",
-   "posted": "1791295179",
-   "found": "2026-10-06T14:05:27Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693553180369538325",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693553180369538325",
-   "caption": "שני ישראלים נכנסו לרמאללה כדי לקדם את רעיון הפדרציה, להשכין שלום ולפג...",
-   "posted": "1791294945",
-   "found": "2026-10-06T14:06:26Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693553180369538325.txt"
-  },
-  {
-   "id": "7693556510764584212",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693556510764584212",
-   "caption": "התיעודים מבית החולים סורוקה ב-7.10 נחשפים, והלב נשבר מחדש 💔 “הגיעו תי...",
-   "posted": "1791295719",
-   "found": "2026-10-06T14:20:26Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693556510764584212.txt"
-  },
-  {
    "id": "7693555582065757461",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4494,12 +4419,89 @@
    "found": "2026-10-17T05:56:55Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7696770269410495751.txt"
+  },
+  {
+   "id": "7697664909345066258",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7697664909345066258",
+   "caption": "מי אמר שלטון צללים ולא קיבל? #בחירות #פוליטיקה #חרדים ",
+   "posted": "1792252282",
+   "found": "2026-10-18T05:50:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697664909345066258.txt"
+  },
+  {
+   "id": "7696889972351126802",
+   "channel": "miri.regev",
+   "name": "miri.regev",
+   "url": "https://www.tiktok.com/@miri.regev/video/7696889972351126802",
+   "caption": "גם באשקלון יודעים ❤️ מצביעים ״מחל״ בקלפי. הליכוד בראשות רה״מ בנימין נ...",
+   "posted": "1792071853",
+   "found": "2026-10-18T05:52:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696889972351126802.txt"
+  },
+  {
+   "id": "7696579020309155080",
+   "channel": "miri.regev",
+   "name": "miri.regev",
+   "url": "https://www.tiktok.com/@miri.regev/video/7696579020309155080",
+   "caption": "בשוק של אשדוד ❤️ מצביעים ״מחל״ בקלפי. הליכוד בראשות רה״מ בנימין נתניה...",
+   "posted": "1791999455",
+   "found": "2026-10-18T05:52:43Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696579020309155080.txt"
+  },
+  {
+   "id": "7697739671803137300",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7697739671803137300",
+   "caption": "",
+   "posted": "1792269692",
+   "found": "2026-10-18T05:54:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697739671803137300.txt"
+  },
+  {
+   "id": "7697721664766823701",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7697721664766823701",
+   "caption": "",
+   "posted": "1792265499",
+   "found": "2026-10-18T05:55:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697721664766823701.txt"
+  },
+  {
+   "id": "7697719550384835861",
+   "channel": "mordechaidavid2026",
+   "name": "mordechaidavid2026",
+   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7697719550384835861",
+   "caption": "",
+   "posted": "1792265007",
+   "found": "2026-10-18T05:56:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697719550384835861.txt"
+  },
+  {
+   "id": "7696872679839780117",
+   "channel": "radio103fm",
+   "name": "radio103fm",
+   "url": "https://www.tiktok.com/@radio103fm/video/7696872679839780117",
+   "caption": "גיא פלג: ביבי מפחד מאוריך #גיאפלג",
+   "posted": "1792067825",
+   "found": "2026-10-18T05:57:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7696872679839780117.txt"
   }
  ],
  "health": {
-  "at": "2026-10-17T05:57:15Z",
-  "channelsOk": 23,
-  "channelsFail": 0,
-  "transcribed": 10
+  "at": "2026-10-18T05:57:49Z",
+  "channelsOk": 6,
+  "channelsFail": 17,
+  "transcribed": 7
  }
 }
