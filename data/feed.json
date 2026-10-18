@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T05:15:44.118Z",
+ "updated": "2026-10-18T05:27:53.854Z",
  "items": [
   {
    "id": "0ada6b9d4c6e",
@@ -520,7 +520,9 @@
    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
    "score": 1,
-   "alsoIn": [],
+   "alsoIn": [
+    "The Guardian"
+   ],
    "important": false
   },
   {
@@ -4591,6 +4593,20 @@
    "important": false
   },
   {
+   "id": "b6056eea9d7b",
+   "kind": "headline",
+   "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+   "topic": "world",
+   "published": "2026-10-15T14:51:19.000Z",
+   "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+   "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "d746fa9d00ae",
    "kind": "headline",
    "title": "ארה\"ב גובה \"תג מחיר\" מספרד בעקבות החרם על ישראל",
@@ -5598,20 +5614,6 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTGRKR2ZKM0pVYmpjM1Y2MjN1Y0dSblkyenJWM1Y2ZzRJdFA0R0VaU3Ytd0NEbW93R0VzTjdZcF9GQ0hiM1NJclVQZ252NGNRamswZGRaX0wyMGd3QXJWcw?oc=5",
    "topic": "world",
    "published": "2026-10-15T06:15:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "520410b348c7",
-   "kind": "headline",
-   "title": "New Law To Ban Thugs From Stores Passes WA Parliament",
-   "source": "Mirage News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk9HYTdmVkg0eU5YcFdYVGxyWjI1djFrVGNmR2oxeG1HYmFOd045TldCVGJMMWhOalB0QlB4UWt0MHJfM2pkcHZJQU1VcjYwT1pBSWlJemhES2FqT3pDLVB6aVhXbVBqX3RqdkJwUXJYWFgzUUlyemtCVjNYSHhmSDVlWnM?oc=5",
-   "topic": "world",
-   "published": "2026-10-15T06:10:00.000Z",
    "summary": "",
    "image": "",
    "score": 0,
