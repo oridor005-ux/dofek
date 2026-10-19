@@ -3975,8 +3975,11 @@
    "caption": "14 יום לבחירות ומה הקטע עם יונתן אוריך? #מתחתלרדאר #בחירות2026 ",
    "posted": "1791898632",
    "found": "2026-10-14T06:03:00Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696145993649245460.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696145993649245460.txt",
+   "insightIds": [
+    "ins-2026-10-19-pl7u"
+   ]
   },
   {
    "id": "7696095864749690133",
@@ -4011,8 +4014,11 @@
    "caption": "איזה יום היה לי בפתח תקווה💙 ממשיך לחרוש את הארץ בכל יום בעיר אחרת. כי...",
    "posted": "1792039717",
    "found": "2026-10-15T05:54:30Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696751949634489620.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696751949634489620.txt",
+   "insightIds": [
+    "ins-2026-10-10-bn12"
+   ]
   },
   {
    "id": "7696579595792895252",
@@ -4022,8 +4028,11 @@
    "caption": "טל מורד שאל אותי איך אתקן את קריסת המילואימניקים אז צרפתי אותו למהפכת...",
    "posted": "1791999588",
    "found": "2026-10-15T05:54:59Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696579595792895252.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696579595792895252.txt",
+   "insightIds": [
+    "ins-2026-10-10-bn12"
+   ]
   },
   {
    "id": "7696565703708609813",
@@ -4033,8 +4042,11 @@
    "caption": "מי הקטין את הצבא? שיתוף פעולה נדיר בין איזנקוט לנתניהו #איזנקוט #נתני...",
    "posted": "1791996356",
    "found": "2026-10-15T05:55:39Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696565703708609813.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696565703708609813.txt",
+   "insightIds": [
+    "ins-2026-10-19-gz3k"
+   ]
   },
   {
    "id": "7696540921827052801",
@@ -4098,7 +4110,7 @@
    "caption": "פוב: פאנל עם נציג בנטלפיד #פוריו #בשבילך #ימין #שמאל",
    "posted": "1792017633",
    "found": "2026-10-15T05:57:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696657063996443910.txt"
   },
   {
@@ -4120,7 +4132,7 @@
    "caption": "לכל ישראלי וישראלית מגיע להתחתן כאן ולגדל כאן ילדים. שיחה עם ליכודניק...",
    "posted": "1792067801",
    "found": "2026-10-16T05:51:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696872580635987220.txt"
   },
   {
@@ -4186,7 +4198,7 @@
    "caption": "למי אתם מצביעים בבחירות? 🗳️ שתפו אותנו בתגובות 👇 #בחירות #מתחתלרדאר #...",
    "posted": "1792063304",
    "found": "2026-10-16T05:56:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696853262942752020.txt"
   },
   {
@@ -4317,8 +4329,11 @@
    "caption": "זה אירוע מטורף ואני לא מבין איך בליכוד לא משתמשים בריאיון הזה של אייז...",
    "posted": "1792043981",
    "found": "2026-10-17T05:56:55Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696770269410495751.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696770269410495751.txt",
+   "insightIds": [
+    "ins-2026-10-19-mg5r"
+   ]
   },
   {
    "id": "7697664909345066258",
@@ -4339,7 +4354,7 @@
    "caption": "גם באשקלון יודעים ❤️ מצביעים ״מחל״ בקלפי. הליכוד בראשות רה״מ בנימין נ...",
    "posted": "1792071853",
    "found": "2026-10-18T05:52:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696889972351126802.txt"
   },
   {
@@ -4350,7 +4365,7 @@
    "caption": "בשוק של אשדוד ❤️ מצביעים ״מחל״ בקלפי. הליכוד בראשות רה״מ בנימין נתניה...",
    "posted": "1791999455",
    "found": "2026-10-18T05:52:43Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696579020309155080.txt"
   },
   {
@@ -4394,8 +4409,11 @@
    "caption": "גיא פלג: ביבי מפחד מאוריך #גיאפלג",
    "posted": "1792067825",
    "found": "2026-10-18T05:57:47Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696872679839780117.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696872679839780117.txt",
+   "insightIds": [
+    "ins-2026-10-19-pl7u"
+   ]
   },
   {
    "id": "7697974259448024327",
