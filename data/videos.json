@@ -1,121 +1,6 @@
 {
  "items": [
   {
-   "id": "7693555582065757461",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693555582065757461",
-   "caption": "\"איתרנו פיר של מנהרה בתוך בית, והיה פיצוץ חזק\" ↓ מועמד הליכוד אלישע מ...",
-   "posted": "1791295503",
-   "found": "2026-10-06T14:21:11Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693555582065757461.txt"
-  },
-  {
-   "id": "7693565648294645010",
-   "channel": "ask__dani",
-   "name": "ask__dani",
-   "url": "https://www.tiktok.com/@ask__dani/video/7693565648294645010",
-   "caption": "האנשים המתועבים ביותר בישראל #ינוןמגל #שבעהבאוקטובר #פוליטיקה ",
-   "posted": "1791297850",
-   "found": "2026-10-06T14:48:41Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693565648294645010.txt",
-   "insightIds": [
-    "ins-2026-10-06-h41t"
-   ]
-  },
-  {
-   "id": "7693562668459806004",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693562668459806004",
-   "caption": "ממנף את ההונאה לקריירה? בריאיון לתוכנית “This Morning” של ITV סיפר לב...",
-   "posted": "1791297152",
-   "found": "2026-10-06T14:49:48Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693562668459806004.txt"
-  },
-  {
-   "id": "7693564387533131014",
-   "channel": "lusil_blek",
-   "name": "lusil_blek",
-   "url": "https://www.tiktok.com/@lusil_blek/video/7693564387533131014",
-   "caption": "פרק שישי: מפלגת ״עוצמה יהודית״ בראשות איתמר בן גביר. האם אתם מצביעים ...",
-   "posted": "1791297555",
-   "found": "2026-10-06T14:52:47Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693564387533131014.txt",
-   "insightIds": [
-    "ins-2026-10-06-bg15"
-   ]
-  },
-  {
-   "id": "7693566705808837909",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693566705808837909",
-   "caption": "הדעה הפופולרית של אמא של ליבי כהן מגורי.   #מתחתלרדאר ",
-   "posted": "1791298095",
-   "found": "2026-10-06T14:53:35Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693566705808837909.txt"
-  },
-  {
-   "id": "7693561024863030548",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693561024863030548",
-   "caption": "\"זאת נקודה שאני לא אשכח בחיים\" ↓ מיכל נגרי, מועמדת 'ביחד' לכנסת ואמו ...",
-   "posted": "1791296769",
-   "found": "2026-10-06T14:54:41Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693561024863030548.txt"
-  },
-  {
-   "id": "7693560053349256468",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693560053349256468",
-   "caption": "סיימון לבייב, המוכר ברחבי העולם בכינוי \"נוכל הטינדר\", חוזר לעולם ההיכ...",
-   "posted": "1791296547",
-   "found": "2026-10-06T14:55:14Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693567646947675412",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693567646947675412",
-   "caption": "עם הסברה נכונה אפשר לפעמים לשנות דעות אפילו של אנטי ישראלים. תנו לי א...",
-   "posted": "1791298311",
-   "found": "2026-10-06T14:56:21Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693567646947675412.txt"
-  },
-  {
-   "id": "7693571153314598164",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693571153314598164",
-   "caption": "עוד 21 ימים לבחירות, ומאי מרמת השרון כבר החליטה: הפתק של הפעם יהיה שו...",
-   "posted": "1791299131",
-   "found": "2026-10-06T15:13:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693571153314598164.txt"
-  },
-  {
-   "id": "7693570269738274055",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693570269738274055",
-   "caption": "מלך השווארמה במסר לעם ישראל🇮🇱 #פוליטיקה #עםישראלחייי🇮🇱 #אהבתחינם ",
-   "posted": "1791298925",
-   "found": "2026-10-06T15:13:44Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693570269738274055.txt"
-  },
-  {
    "id": "7693569353148534036",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4511,12 +4396,121 @@
    "found": "2026-10-18T05:57:47Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7696872679839780117.txt"
+  },
+  {
+   "id": "7697974259448024327",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7697974259448024327",
+   "caption": "הצלחתם להבין משהו? כי אני לא. #פוליטיקה #קוף #ערוץ14 ",
+   "posted": "1792324306",
+   "found": "2026-10-19T05:55:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697974259448024327.txt"
+  },
+  {
+   "id": "7698055702840872200",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7698055702840872200",
+   "caption": "הקלפיות בעזה סוריה ובלבנון נפתחו - וזה הזמן שלכם להצביע לביחד 🗳️  #צה...",
+   "posted": "1792343275",
+   "found": "2026-10-19T05:55:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698055702840872200.txt"
+  },
+  {
+   "id": "7697936253173419284",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7697936253173419284",
+   "caption": "פרלמנט מתלבטים פתח תקווה. כמה השתכנעו >>> #פתחתקווה #ישראל #פוליטיקה ",
+   "posted": "1792315458",
+   "found": "2026-10-19T05:59:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697936253173419284.txt"
+  },
+  {
+   "id": "7697883261623667969",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7697883261623667969",
+   "caption": "ככה מנצחים בחירות💪 ביחד נתאמן #ישראל #ספורט #אימון #פוליטיקה ",
+   "posted": "1792303122",
+   "found": "2026-10-19T05:59:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697883261623667969.txt"
+  },
+  {
+   "id": "7698042185253539093",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7698042185253539093",
+   "caption": "עוד פעם דובר צה״ל וגדעון סער מכפישים את ישראל??? חמוצים! #מהצדהשני #פ...",
+   "posted": "1792340127",
+   "found": "2026-10-19T06:00:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698042185253539093.txt"
+  },
+  {
+   "id": "7697701184458591508",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7697701184458591508",
+   "caption": "יש למישהו רעיון מה גרם לסער לשנות את דעתו בכזו נחרצות לגבי נתניהו?🤔 ב...",
+   "posted": "1792260732",
+   "found": "2026-10-19T06:00:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697701184458591508.txt"
+  },
+  {
+   "id": "7697978479568112903",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7697978479568112903",
+   "caption": "הרבה הגיבו לי אתמול שבית המשפט לא נבחר ולכן לא אמור להיות זה שמגביל א...",
+   "posted": "1792325298",
+   "found": "2026-10-19T06:01:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697978479568112903.txt"
+  },
+  {
+   "id": "7697628948414336272",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7697628948414336272",
+   "caption": "על זה הבחירות - שלחו לחברים שצריכים לשמוע את זה",
+   "posted": "1792243908",
+   "found": "2026-10-19T06:02:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7697628948414336272.txt"
+  },
+  {
+   "id": "7698077420200398101",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698077420200398101",
+   "caption": "לירן אבישר בן - חורין , מספר 5 ברשימת ביחד לכנסת הגיעה לשחק פינג פונג...",
+   "posted": "1792348325",
+   "found": "2026-10-19T06:02:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698077420200398101.txt"
+  },
+  {
+   "id": "7698067499224485172",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698067499224485172",
+   "caption": "מצב המשילות בכל רחבי ישראל רק החמיר תחת הממשלה הנוכחית. למרות ההבטחות...",
+   "posted": "1792346016",
+   "found": "2026-10-19T06:03:09Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-18T05:57:49Z",
-  "channelsOk": 6,
-  "channelsFail": 17,
-  "transcribed": 7
+  "at": "2026-10-19T06:03:34Z",
+  "channelsOk": 23,
+  "channelsFail": 0,
+  "transcribed": 10
  }
 }
