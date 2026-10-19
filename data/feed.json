@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:22:29.514Z",
+ "updated": "2026-10-19T05:34:42.755Z",
  "items": [
   {
    "id": "ab79793d4a34",
@@ -4996,6 +4996,20 @@
    "important": false
   },
   {
+   "id": "ef8d282f279a",
+   "kind": "headline",
+   "title": "NAZA: the film Israel does not want you to see - video",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/video/2026/oct/16/naza-the-film-israel-does-not-want-you-to-see-video",
+   "topic": "world",
+   "published": "2026-10-16T09:55:27.000Z",
+   "summary": "Oscar-winning filmmakers Yuval Abraham and Rachel Szor discuss their new documentary, NAZA, which exposes the AI systems that the Israeli military uses to rain down strikes on Gaza, causing the mass killing of civilians. Based on the testimony of 24 military insiders, the documentary caused uproar…",
+   "image": "https://i.guim.co.uk/img/media/4a1cfa7e31b39963f6f481365ab525a0ed921dfb/311_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=bb66ae85052af7dc2a1d208066a6f01a",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "bf9d88f1896c",
    "kind": "headline",
    "title": "'Doctor Food' released from jail under new amnesty law",
@@ -5608,20 +5622,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5c2ad33740c9",
-   "kind": "headline",
-   "title": "עשירי העולם בטוחים שהאפוקליפסה מתקרבת – וזו המדינה אליה הם יברחו",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/sk10mposgl",
-   "topic": "econ",
-   "published": "2026-10-16T03:00:00.000Z",
-   "summary": "המיליארדר פיטר ת'יל, מייסד פייפאל ופלנטיר, קנה אחוזה בבואנוס איירס, ואמירתים וקטארים החלו לרכוש נכסים סביב ברילוצ'ה: ארגנטינה קורצת לעשירים שמאמינים שסוף העולם קרב. הם מחפשים מקום רחוק מכל מלחמה, שבו ימשיכו לחיות ברמת חיים גבוהה. הממשלה מנצלת את המצב ומנסה למשוך אותם באמצעות הטבות כלכליות אטרקטיביות",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/13/rJmaivosfx/rJmaivosfx_0_0_850_479_0_medium.jpg",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
