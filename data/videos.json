@@ -3972,7 +3972,7 @@
    "caption": "הדרך מנהריה לקיסריה 🚊 #מתחתלרדאר #תחבורהציבורית #מירירגב ",
    "posted": "1791990970",
    "found": "2026-10-15T05:56:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696542587896745217.txt"
   },
   {
@@ -4027,8 +4027,11 @@
    "caption": "שבועיים לבחירות, שאול אמסטרדמסקי רוצה לדעת אם ראשי גוש השינוי מתכווני...",
    "posted": "1792080962",
    "found": "2026-10-16T05:52:23Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696929104196554004.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696929104196554004.txt",
+   "insightIds": [
+    "ins-2026-10-20-gz8b"
+   ]
   },
   {
    "id": "7696823393420922119",
@@ -4038,7 +4041,7 @@
    "caption": "לא קשור למגדר, בשביל מה כל הפרוגרס הזה אה?",
    "posted": "1792056351",
    "found": "2026-10-16T05:52:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696823393420922119.txt"
   },
   {
@@ -4049,7 +4052,7 @@
    "caption": "פרק תשיעי: הבלוק הטכני של ״המילואימניקים והכלכלית״ בראשות יועז הנדל ו...",
    "posted": "1792076675",
    "found": "2026-10-16T05:54:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696910683123830023.txt"
   },
   {
@@ -4060,8 +4063,11 @@
    "caption": "⁨\t5 שקרים שראש הממשלה סיפר לנו השבוע - והאמת ❌✅  #הפטריוטים #מתחתלרדא...",
    "posted": "1792083979",
    "found": "2026-10-16T05:55:28Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7696942058870672660.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7696942058870672660.txt",
+   "insightIds": [
+    "ins-2026-10-20-kml1"
+   ]
   },
   {
    "id": "7696914029121424660",
@@ -4071,7 +4077,7 @@
    "caption": "12 ימים לבחירות ואנשים עדיין לא יודעים מי זה יואב סגלוביץ׳ 👆🗳️",
    "posted": "1792077453",
    "found": "2026-10-16T05:55:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696914029121424660.txt"
   },
   {
@@ -4093,7 +4099,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1792096984",
    "found": "2026-10-16T05:56:33Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696997895257591047.txt"
   },
   {
@@ -4104,7 +4110,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1792096071",
    "found": "2026-10-16T05:56:42Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7696993989903355152.txt"
   },
   {
@@ -4115,8 +4121,11 @@
    "caption": "כל האמת על דיבורי עונש המוות של בן גביר>> #אשקלון #ישראל #פוליטיקה ",
    "posted": "1792143668",
    "found": "2026-10-17T05:50:24Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7697198411291888916.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7697198411291888916.txt",
+   "insightIds": [
+    "ins-2026-10-20-bn7d"
+   ]
   },
   {
    "id": "7697188447454350612",
@@ -4126,7 +4135,7 @@
    "caption": "שר האוצר סמוטריץ': סיכום קדנציה #כלכלה #כלכלה_בטיקטוק #הציונותהדתית #...",
    "posted": "1792141349",
    "found": "2026-10-17T05:52:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7697188447454350612.txt"
   },
   {
@@ -4137,7 +4146,7 @@
    "caption": "המשפחה מבקשת את עזרת הציבור: לשחרר את יונתן  חייל קרבי שיצא לחופשה בה...",
    "posted": "1792151347",
    "found": "2026-10-17T05:52:36Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7697231396859055380.txt"
   },
   {
@@ -4158,7 +4167,7 @@
    "caption": "כל החיים הצביעו למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 10 ימים ...",
    "posted": "1792142264",
    "found": "2026-10-17T05:53:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7697192380121763093.txt"
   },
   {
@@ -4169,7 +4178,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1792162060",
    "found": "2026-10-17T05:53:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7697277413226466578.txt"
   },
   {
@@ -4180,7 +4189,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1792161625",
    "found": "2026-10-17T05:54:13Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7697275545129700615.txt"
   },
   {
