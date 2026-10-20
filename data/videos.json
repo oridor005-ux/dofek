@@ -1,122 +1,6 @@
 {
  "items": [
   {
-   "id": "7693569353148534036",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693569353148534036",
-   "caption": "\"אנחנו כבר לא מופתעים מכלום, הולכים כאן ממחדל למחדל\" 👇 חבר ועדת חוץ ו...",
-   "posted": "1791298712",
-   "found": "2026-10-06T15:15:30Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693569353148534036.txt"
-  },
-  {
-   "id": "7693579886073580821",
-   "channel": "guyzo",
-   "name": "guyzo",
-   "url": "https://www.tiktok.com/@guyzo/video/7693579886073580821",
-   "caption": "נתניהו הזהיר מחטיפת המטוס? או ששוב ניצלו הזדמנות להגיד אמרנו לכם? #מה...",
-   "posted": "1791301164",
-   "found": "2026-10-06T15:44:35Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693579886073580821.txt",
-   "insightIds": [
-    "ins-2026-10-06-hjck"
-   ]
-  },
-  {
-   "id": "7693570740398083348",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693570740398083348",
-   "caption": "\"אין טרור יהודי ביו\"ש, מתנהל כאן קמפיין שקרי ובזוי של אלימות מתנחלים\"...",
-   "posted": "1791300600",
-   "found": "2026-10-06T15:47:44Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693570740398083348.txt",
-   "insightIds": [
-    "ins-2026-10-06-gtlb"
-   ]
-  },
-  {
-   "id": "7693580447560846612",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693580447560846612",
-   "caption": "״תודה לכל מי שחיזק אותי״: אחרי האיומים שספג, אור אוחנה ״מלך השווארמה״...",
-   "posted": "1791301294",
-   "found": "2026-10-06T15:48:24Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693580447560846612.txt"
-  },
-  {
-   "id": "7693583672720510228",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693583672720510228",
-   "caption": "\"כמה אחים אתם?\" שאלה יומיומית ותמימה, שהפכה מאז השבעה באוקטובר למשא כ...",
-   "posted": "1791302044",
-   "found": "2026-10-06T16:00:50Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693583672720510228.txt"
-  },
-  {
-   "id": "7693571760163228929",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693571760163228929",
-   "caption": "\"הכנתי תוכנית לחיסול סינוואר בקיץ 2022, הממשלה נפלה לפני זה\" 👇 \"נתניה...",
-   "posted": "1791302400",
-   "found": "2026-10-06T16:01:48Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693571760163228929.txt",
-   "insightIds": [
-    "ins-2026-10-06-bnqt"
-   ]
-  },
-  {
-   "id": "7693582484583337224",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693582484583337224",
-   "caption": "הפנטגון הודיע אתמול (שני) כי המחבל הפלסטיני נידאל חסן, לשעבר רב-סרן ב...",
-   "posted": "1791301768",
-   "found": "2026-10-06T16:02:05Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693588323914255623",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693588323914255623",
-   "caption": "במקביל לסערת נז\"א, ישראלים שונים ממשיכים לעשות נזק בינלאומי עלי ידי ה...",
-   "posted": "1791303128",
-   "found": "2026-10-06T16:14:21Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693587834762022162",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693587834762022162",
-   "caption": "זה מה שנשאר",
-   "posted": "1791303018",
-   "found": "2026-10-06T16:14:35Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693587834762022162.txt"
-  },
-  {
-   "id": "7693595838613835016",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693595838613835016",
-   "caption": "תוכניתו של ראש עיריית ניו יורק זוהרן ממדאני למאבק באנטישמיות עוררה בי...",
-   "posted": "1791304880",
-   "found": "2026-10-06T16:44:57Z",
-   "status": "failed"
-  },
-  {
    "id": "7693599550010887445",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4523,10 +4407,120 @@
    "posted": "1792346016",
    "found": "2026-10-19T06:03:09Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7698412197340400902",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7698412197340400902",
+   "caption": "מה תיק החלומות שלה? איך עוצרים את בריחת המוחות מישראל? ומה עשתה כששלמ...",
+   "posted": "1792426274",
+   "found": "2026-10-20T05:53:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698412197340400902.txt"
+  },
+  {
+   "id": "7698257750358379796",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7698257750358379796",
+   "caption": "זו בגידה! מה עובר עליכם? #ישראל #פוליטיקה ",
+   "posted": "1792390316",
+   "found": "2026-10-20T05:53:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698257750358379796.txt"
+  },
+  {
+   "id": "7698363822548995348",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698363822548995348",
+   "caption": "בהודעת הפרישה, גנץ כתב: ״לא אתמודד בבחירות הקרובות - אמשיך להיאבק למע...",
+   "posted": "1792415011",
+   "found": "2026-10-20T05:53:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698363822548995348.txt"
+  },
+  {
+   "id": "7698362115140357397",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698362115140357397",
+   "caption": "ההפגנות בצרפת ממשיכות לספק תיעודים מעניינים והפעם: מפגין צרפתי שהמציא...",
+   "posted": "1792414613",
+   "found": "2026-10-20T05:54:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698362115140357397.txt"
+  },
+  {
+   "id": "7698340666618744116",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698340666618744116",
+   "caption": "״הרוויחה מסרטוני הזוועה״ משפחות שכולות ומשפחות חטופים הגישו תביעה נגד...",
+   "posted": "1792409620",
+   "found": "2026-10-20T05:54:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698340666618744116.txt"
+  },
+  {
+   "id": "7698042734220692744",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7698042734220692744",
+   "caption": "פרק עשירי: מפלגת ״הציבור החרדי״ בראשות מוטי לייטנר. האם אתם מצביעים ל...",
+   "posted": "1792340253",
+   "found": "2026-10-20T05:55:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698042734220692744.txt"
+  },
+  {
+   "id": "7698337750407253268",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7698337750407253268",
+   "caption": "8 ימים לבחירות ואנשים עדיין לא מבינים מה הטרור היהודי עושה לנו בעולם ...",
+   "posted": "1792408941",
+   "found": "2026-10-20T05:55:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698337750407253268.txt"
+  },
+  {
+   "id": "7698065562663996692",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7698065562663996692",
+   "caption": "9 ימים לבחירות וישמצב שאמירה גזענית אחת של ינון מגל תכריע אותן 🗳️🤔 #מ...",
+   "posted": "1792345565",
+   "found": "2026-10-20T05:56:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698065562663996692.txt"
+  },
+  {
+   "id": "7698480098038517000",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7698480098038517000",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה",
+   "posted": "1792442104",
+   "found": "2026-10-20T05:57:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698480098038517000.txt"
+  },
+  {
+   "id": "7698480061057338642",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7698480061057338642",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1792442082",
+   "found": "2026-10-20T05:57:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698480061057338642.txt"
   }
  ],
  "health": {
-  "at": "2026-10-19T06:03:34Z",
+  "at": "2026-10-20T05:57:50Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
