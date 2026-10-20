@@ -321,7 +321,7 @@
   "5b42ca240931"
  ],
  "pending": [],
- "lastRun": "2026-10-20T05:18:55.624Z",
+ "lastRun": "2026-10-20T05:31:09.655Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -348,7 +348,7 @@
    },
    "at": "2026-10-20T05:18:55.624Z"
   },
-  "lastNewItemAt": "2026-10-20T05:18:55.624Z",
+  "lastNewItemAt": "2026-10-20T05:31:09.655Z",
   "lastPushOkAt": "2026-10-20T05:18:55.624Z",
   "googleOkAt": "2026-10-20T05:18:55.624Z"
  },
