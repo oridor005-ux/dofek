@@ -1,116 +1,6 @@
 {
  "items": [
   {
-   "id": "7693599550010887445",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693599550010887445",
-   "caption": "מחדל אבטחה חמור: מעל 1,200 אנשי צוות אוויר ממדינות אויב נכנסו לישראל ...",
-   "posted": "1791305741",
-   "found": "2026-10-06T17:00:39Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693598213281975570",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693598213281975570",
-   "caption": "קרל דייסרות', פרופסור להנדסה ביולוגית ולפסיכיאטריה ומדעי ההתנהגות, מש...",
-   "posted": "1791305432",
-   "found": "2026-10-06T17:01:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693598213281975570.txt"
-  },
-  {
-   "id": "7693605717634321685",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693605717634321685",
-   "caption": "תוך כדי מלחמת קיום: השקרים של תקשורת השמאל על גבם של החטופים",
-   "posted": "1791307178",
-   "found": "2026-10-06T17:32:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693605717634321685.txt"
-  },
-  {
-   "id": "7693605657190337812",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693605657190337812",
-   "caption": "״עוד לא אבדה תקוותנו״: 700 לוחמי צנחנים נשבעו אמונים ברחבת הכותל המער...",
-   "posted": "1791307164",
-   "found": "2026-10-06T17:32:43Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693605657190337812.txt"
-  },
-  {
-   "id": "7693613332862897428",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693613332862897428",
-   "caption": "בועז גולן בפרסום ראשון: טלטלה ברשימתו של עופר וינטר: דוידי בן ציון, מ...",
-   "posted": "1791308955",
-   "found": "2026-10-06T18:02:06Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693620549280533781",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693620549280533781",
-   "caption": "משנה כיוון | אריאל קנר כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמח...",
-   "posted": "1791310632",
-   "found": "2026-10-06T18:32:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693620549280533781.txt"
-  },
-  {
-   "id": "7693620518397709569",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693620518397709569",
-   "caption": "⁨\t21 יום לבחירות, 3 שנים ל-7/10, ועדיין לא קמה ועדת חקירה ממלכתית👆⁩",
-   "posted": "1791310628",
-   "found": "2026-10-06T18:35:23Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693620518397709569.txt",
-   "insightIds": [
-    "ins-2026-10-06-vc31"
-   ]
-  },
-  {
-   "id": "7693625010526620948",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693625010526620948",
-   "caption": "⁨\tפעילה פרו-פלסטינית התקרבה לשער שבו המתינו נוסעים ישראלים בשדה התעופ...",
-   "posted": "1791311671",
-   "found": "2026-10-06T18:36:10Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693625010526620948.txt"
-  },
-  {
-   "id": "7693629969691413780",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693629969691413780",
-   "caption": "",
-   "posted": "1791312824",
-   "found": "2026-10-06T19:04:39Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693629969691413780.txt"
-  },
-  {
-   "id": "7693635591619087634",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693635591619087634",
-   "caption": "בועז גולן בפרסום ראשון: טלטלה ברשימתו של עופר וינטר: דוידי בן ציון, מ...",
-   "posted": "1791314138",
-   "found": "2026-10-06T19:18:23Z",
-   "status": "failed"
-  },
-  {
    "id": "7693634519890480385",
    "channel": "kan_news",
    "name": "kan_news",
@@ -4526,10 +4416,119 @@
    "found": "2026-10-20T05:57:34Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7698480061057338642.txt"
+  },
+  {
+   "id": "7698749484087528722",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7698749484087528722",
+   "caption": "החברים של נפתלי #פוליטיקה #בחירות #ביחד #עושיםסדר ",
+   "posted": "1792504809",
+   "found": "2026-10-21T05:54:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698749484087528722.txt"
+  },
+  {
+   "id": "7698707324407450898",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7698707324407450898",
+   "caption": "רשימת ה\"סרבנים\" המלאה 🏓😉 #פינגפונג #פוליטיקה ",
+   "posted": "1792494987",
+   "found": "2026-10-21T05:54:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698707324407450898.txt"
+  },
+  {
+   "id": "7698804411715439892",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7698804411715439892",
+   "caption": "בפרלמנט של חיילים משוחררים שאלו אותי - בשביל מה נלחמנו? #ישראל #פוליט...",
+   "posted": "1792517596",
+   "found": "2026-10-21T05:57:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698804411715439892.txt"
+  },
+  {
+   "id": "7698637883824999701",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7698637883824999701",
+   "caption": "ישי כהן שאל אותי איך אני מעז להגיד שלאריה דרעי אין אלוהים>> #ישראל #פ...",
+   "posted": "1792478821",
+   "found": "2026-10-21T05:58:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698637883824999701.txt"
+  },
+  {
+   "id": "7698757100704501013",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7698757100704501013",
+   "caption": "הגרעון הנוסף של ישראל שלא שמעתם עליו - חוב של 17 מיליארד שקל לחברות ה...",
+   "posted": "1792506574",
+   "found": "2026-10-21T05:59:08Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698757100704501013.txt"
+  },
+  {
+   "id": "7698684254158359815",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7698684254158359815",
+   "caption": "ישי ניסה לחרטט אותנו שלא משנה איזה ממשלה תהיה - להט\"בים יידפקו ולא יק...",
+   "posted": "1792489618",
+   "found": "2026-10-21T06:00:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698684254158359815.txt"
+  },
+  {
+   "id": "7698820996119137557",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698820996119137557",
+   "caption": "איך ייראה העתיד של מערכת החינוך בישראל? 🎓 אתמול התקיים כנס שעסק בעתיד...",
+   "posted": "1792521453",
+   "found": "2026-10-21T06:00:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698820996119137557.txt"
+  },
+  {
+   "id": "7698804102117068052",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698804102117068052",
+   "caption": "כולם מדברים על איראן, על ביטחון ועל המלחמה. אבל רגע, מה עם הילדים שלנ...",
+   "posted": "1792517522",
+   "found": "2026-10-21T06:00:47Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7698792186724289813",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7698792186724289813",
+   "caption": "סולם הבחירות של 100שטח ! פרק 5! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
+   "posted": "1792514747",
+   "found": "2026-10-21T06:01:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698792186724289813.txt"
+  },
+  {
+   "id": "7698811329422920981",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7698811329422920981",
+   "caption": "הילה רפאל, למי את מצביעה בבחירות הקרובות? ",
+   "posted": "1792519207",
+   "found": "2026-10-21T06:02:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7698811329422920981.txt"
   }
  ],
  "health": {
-  "at": "2026-10-20T05:57:50Z",
+  "at": "2026-10-21T06:02:43Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
