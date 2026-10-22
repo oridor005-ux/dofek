@@ -352,7 +352,7 @@
   "4fc26faef617"
  ],
  "pending": [],
- "lastRun": "2026-10-22T05:23:45.744Z",
+ "lastRun": "2026-10-22T05:33:04.599Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -379,7 +379,7 @@
    },
    "at": "2026-10-22T05:20:47.720Z"
   },
-  "lastNewItemAt": "2026-10-22T05:23:45.744Z",
+  "lastNewItemAt": "2026-10-22T05:33:04.599Z",
   "lastPushOkAt": "2026-10-22T05:23:45.744Z",
   "googleOkAt": "2026-10-22T05:20:47.720Z"
  },
