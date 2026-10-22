@@ -1,121 +1,6 @@
 {
  "items": [
   {
-   "id": "7693634519890480385",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693634519890480385",
-   "caption": "בעקבות הספר ״מר הפקרה״: ינון מגל כינה משפחות שכולות ומשפחות חטופים ״א...",
-   "posted": "1791315000",
-   "found": "2026-10-06T19:35:28Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693634519890480385.txt"
-  },
-  {
-   "id": "7693651695930232085",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693651695930232085",
-   "caption": "",
-   "posted": "1791317885",
-   "found": "2026-10-06T20:22:58Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693651695930232085.txt"
-  },
-  {
-   "id": "7693633624322673941",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693633624322673941",
-   "caption": "איפה הייתם ב־6:29? חיים בוכריס, אחיו של רס״ן חן בוכריס ז״ל, סגן מפקד ...",
-   "posted": "1791313678",
-   "found": "2026-10-06T20:54:01Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693633624322673941.txt",
-   "insightIds": [
-    "ins-2026-10-07-sh41"
-   ]
-  },
-  {
-   "id": "7693764800261688597",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693764800261688597",
-   "caption": "3 שנים 💔🇮🇱",
-   "posted": "1791344216",
-   "found": "2026-10-07T03:44:12Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693667053688884500",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693667053688884500",
-   "caption": "\"זה די הפתיע את כולנו, מערכת הביטחון נערכה בעיקר לאירועי הסלמה ביהודה...",
-   "posted": "1791345000",
-   "found": "2026-10-07T03:58:50Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693667053688884500.txt",
-   "insightIds": [
-    "ins-2026-10-07-kn29"
-   ]
-  },
-  {
-   "id": "7693776791453863175",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693776791453863175",
-   "caption": "שלוש שנים אחרי. 7.10, 06:29. אני כאן עומד על קו התפר, סמוך לטולכרם, מ...",
-   "posted": "1791347013",
-   "found": "2026-10-07T04:29:24Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693776791453863175.txt"
-  },
-  {
-   "id": "7693779976553762068",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693779976553762068",
-   "caption": "⁨\t‏בשעה 6:29: טקסי הזיכרון בתחנת המשטרה בשדרות וביישובי העוטף לציון 3...",
-   "posted": "1791347754",
-   "found": "2026-10-07T04:44:07Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693779976553762068.txt"
-  },
-  {
-   "id": "7693642619322109236",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693642619322109236",
-   "caption": "״בזכותם אנחנו יכולים להקים בית קפה במדינה הזו״ @rubihammerschlag",
-   "posted": "1791349200",
-   "found": "2026-10-07T05:16:30Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693642619322109236.txt"
-  },
-  {
-   "id": "7693793194886122773",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693793194886122773",
-   "caption": "אימה של התצפיתנית גילי לייבושור ז\"ל הגיעה הבוקר לחמ\"ל השרוף בנחל עוז,...",
-   "posted": "1791350830",
-   "found": "2026-10-07T05:30:05Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693793194886122773.txt"
-  },
-  {
-   "id": "7693668259580644629",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693668259580644629",
-   "caption": "מיכה ביטון, תושב נתיב העשרה, התחנן בשידור: \"בבקשה תוודאו שצה\"ל מגיע, ...",
-   "posted": "1791351600",
-   "found": "2026-10-07T05:45:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693668259580644629.txt"
-  },
-  {
    "id": "7693804990741171462",
    "channel": "n12news",
    "name": "n12news",
@@ -4540,10 +4425,120 @@
    "found": "2026-10-21T06:02:23Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7698811329422920981.txt"
+  },
+  {
+   "id": "7699092614267571463",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7699092614267571463",
+   "caption": "מה כבר ביקשתי...קצת נורמליות #בחירות #גיוס #פוליטיקה ",
+   "posted": "1792584695",
+   "found": "2026-10-22T05:53:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699092614267571463.txt"
+  },
+  {
+   "id": "7699188144830352658",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7699188144830352658",
+   "caption": "מתנת היום הולדת שלי אליך - שיהיה פה טוב יותר🗳️❤️",
+   "posted": "1792606939",
+   "found": "2026-10-22T05:53:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699188144830352658.txt"
+  },
+  {
+   "id": "7699055176463715605",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7699055176463715605",
+   "caption": "היום החיילים והחיילות מצביעים רק בנט🇮🇱 #ישראל #צהל #בחירות ",
+   "posted": "1792575978",
+   "found": "2026-10-22T05:53:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699055176463715605.txt"
+  },
+  {
+   "id": "7699167859179588870",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699167859179588870",
+   "caption": "סולם הבחירות של 100שטח ! פרק 6! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
+   "posted": "1792602217",
+   "found": "2026-10-22T05:54:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699167859179588870.txt"
+  },
+  {
+   "id": "7699108157020491028",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699108157020491028",
+   "caption": "אם שכחה את בנה ברכב בזמן שיצאה ברכבת לעבודה בתל אביב. בזכות שיחת טלפו...",
+   "posted": "1792588312",
+   "found": "2026-10-22T05:55:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699108157020491028.txt"
+  },
+  {
+   "id": "7699093012869156148",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699093012869156148",
+   "caption": "דרמה בסעודיה: הרשויות בממלכה הוציאו להורג שני אזרחים מבנגלדש (נאזרול ...",
+   "posted": "1792584786",
+   "found": "2026-10-22T05:55:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699093012869156148.txt"
+  },
+  {
+   "id": "7699123366090771719",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7699123366090771719",
+   "caption": "⁨\tפרק אחד עשר: מפלגת ש״ס בראשות אריה דרעי. האם אתם מצביעים למפלגת ש״ס?⁩",
+   "posted": "1792591855",
+   "found": "2026-10-22T05:56:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699123366090771719.txt"
+  },
+  {
+   "id": "7699208493970279701",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7699208493970279701",
+   "caption": "⁨\t⁨\t6 ימים לבחירות ויש אנשים שלא יודעים שלקהילת הלהט\"ב אין זכויות שוו...",
+   "posted": "1792611680",
+   "found": "2026-10-22T05:57:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699208493970279701.txt"
+  },
+  {
+   "id": "7699122448960163078",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7699122448960163078",
+   "caption": "כל מה שקיצצו השבוע מתקציב המדינה 💰 #מתחתלרדאר #בחירות2026 #כסף #כספים...",
+   "posted": "1792591640",
+   "found": "2026-10-22T05:57:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699122448960163078.txt"
+  },
+  {
+   "id": "7699102891658775829",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7699102891658775829",
+   "caption": "#בחירות2026 #מתחתלרדאר #זליכה #להצביע #יוקרהמחיה ",
+   "posted": "1792587086",
+   "found": "2026-10-22T05:57:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699102891658775829.txt"
   }
  ],
  "health": {
-  "at": "2026-10-21T06:02:43Z",
+  "at": "2026-10-22T05:58:17Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
