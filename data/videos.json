@@ -4111,7 +4111,7 @@
    "caption": "הקלפיות בעזה סוריה ובלבנון נפתחו - וזה הזמן שלכם להצביע לביחד 🗳️  #צה...",
    "posted": "1792343275",
    "found": "2026-10-19T05:55:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698055702840872200.txt"
   },
   {
@@ -4194,7 +4194,7 @@
    "caption": "לירן אבישר בן - חורין , מספר 5 ברשימת ביחד לכנסת הגיעה לשחק פינג פונג...",
    "posted": "1792348325",
    "found": "2026-10-19T06:02:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698077420200398101.txt"
   },
   {
@@ -4226,8 +4226,11 @@
    "caption": "זו בגידה! מה עובר עליכם? #ישראל #פוליטיקה ",
    "posted": "1792390316",
    "found": "2026-10-20T05:53:39Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7698257750358379796.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7698257750358379796.txt",
+   "insightIds": [
+    "ins-2026-10-22-bn03"
+   ]
   },
   {
    "id": "7698363822548995348",
@@ -4237,7 +4240,7 @@
    "caption": "בהודעת הפרישה, גנץ כתב: ״לא אתמודד בבחירות הקרובות - אמשיך להיאבק למע...",
    "posted": "1792415011",
    "found": "2026-10-20T05:53:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698363822548995348.txt"
   },
   {
@@ -4248,7 +4251,7 @@
    "caption": "ההפגנות בצרפת ממשיכות לספק תיעודים מעניינים והפעם: מפגין צרפתי שהמציא...",
    "posted": "1792414613",
    "found": "2026-10-20T05:54:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698362115140357397.txt"
   },
   {
@@ -4259,7 +4262,7 @@
    "caption": "״הרוויחה מסרטוני הזוועה״ משפחות שכולות ומשפחות חטופים הגישו תביעה נגד...",
    "posted": "1792409620",
    "found": "2026-10-20T05:54:13Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698340666618744116.txt"
   },
   {
@@ -4281,8 +4284,11 @@
    "caption": "8 ימים לבחירות ואנשים עדיין לא מבינים מה הטרור היהודי עושה לנו בעולם ...",
    "posted": "1792408941",
    "found": "2026-10-20T05:55:52Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7698337750407253268.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7698337750407253268.txt",
+   "insightIds": [
+    "ins-2026-10-22-ml01"
+   ]
   },
   {
    "id": "7698065562663996692",
@@ -4303,7 +4309,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה",
    "posted": "1792442104",
    "found": "2026-10-20T05:57:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698480098038517000.txt"
   },
   {
@@ -4314,8 +4320,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1792442082",
    "found": "2026-10-20T05:57:34Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7698480061057338642.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7698480061057338642.txt",
+   "insightIds": [
+    "ins-2026-10-22-hm01"
+   ]
   },
   {
    "id": "7698749484087528722",
@@ -4336,7 +4345,7 @@
    "caption": "רשימת ה\"סרבנים\" המלאה 🏓😉 #פינגפונג #פוליטיקה ",
    "posted": "1792494987",
    "found": "2026-10-21T05:54:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698707324407450898.txt"
   },
   {
@@ -4347,8 +4356,11 @@
    "caption": "בפרלמנט של חיילים משוחררים שאלו אותי - בשביל מה נלחמנו? #ישראל #פוליט...",
    "posted": "1792517596",
    "found": "2026-10-21T05:57:07Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7698804411715439892.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7698804411715439892.txt",
+   "insightIds": [
+    "ins-2026-10-22-bn03"
+   ]
   },
   {
    "id": "7698637883824999701",
@@ -4358,7 +4370,7 @@
    "caption": "ישי כהן שאל אותי איך אני מעז להגיד שלאריה דרעי אין אלוהים>> #ישראל #פ...",
    "posted": "1792478821",
    "found": "2026-10-21T05:58:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698637883824999701.txt"
   },
   {
