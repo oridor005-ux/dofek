@@ -1,117 +1,6 @@
 {
  "items": [
   {
-   "id": "7693804990741171462",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693804990741171462",
-   "caption": "״אף אחד לא עוזר לנו. שורפים לנו את הבתים״: בחזרה לבוקר ה-7.10 - השיחה...",
-   "posted": "1791353574",
-   "found": "2026-10-07T06:15:50Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693804990741171462.txt"
-  },
-  {
-   "id": "7693811323162905877",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693811323162905877",
-   "caption": "שלוש שנים לטבח 7 באוקטובר: מפכ\"ל המשטרה וסגל הפיקוד הבכיר של המשטרה ק...",
-   "posted": "1791355051",
-   "found": "2026-10-07T06:45:39Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693813369018535188",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7693813369018535188",
-   "caption": "על גבול עזה עם שלי דקל התצפיתנית, שומע את הסיפור הבלתי נתפס של התצפית...",
-   "posted": "1791355525",
-   "found": "2026-10-07T07:01:01Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693813369018535188.txt"
-  },
-  {
-   "id": "7693819023737244935",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693819023737244935",
-   "caption": "\"הרגשתי שהקב\"ה שומע אותי - זה היה שווה כל רגע\": אימו של שורד השבי בר ...",
-   "posted": "1791356844",
-   "found": "2026-10-07T07:15:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693819023737244935.txt"
-  },
-  {
-   "id": "7693759685459021064",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693759685459021064",
-   "caption": "התמונות הקשות מהנובה מתחילות להגיע ושרון - שיצא לחפש את בנו במתחם המס...",
-   "posted": "1791357300",
-   "found": "2026-10-07T07:16:15Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693759685459021064.txt"
-  },
-  {
-   "id": "7693827521665699080",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693827521665699080",
-   "caption": "המשפחה שאי אפשר לשכוח🧡💔 שורד השבי ירדן ביבס, שאשתו שירי ושני בניו הקט...",
-   "posted": "1791358824",
-   "found": "2026-10-07T07:45:55Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693826511618542868",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693826511618542868",
-   "caption": "שלוש שנים לאחר טבח 7 באוקטובר ופרוץ המלחמה, נחשפים ממדי הפעילות הצבאי...",
-   "posted": "1791358589",
-   "found": "2026-10-07T07:46:32Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693826511618542868.txt"
-  },
-  {
-   "id": "7693832246372945172",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693832246372945172",
-   "caption": "האהבה שניצחה הכל ❤️‍🩹 #שבעהבאוקטובר #חטופים #isr ",
-   "posted": "1791359927",
-   "found": "2026-10-07T08:02:38Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693832246372945172.txt",
-   "insightIds": [
-    "ins-2026-10-07-ec50"
-   ]
-  },
-  {
-   "id": "7693832654608665863",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693832654608665863",
-   "caption": "⁨\tשלי משל-יוגב, אמה של ליבי כהן מגורי ז״ל שנרצחה בטבח במסיבת הנובה, ר...",
-   "posted": "1791360022",
-   "found": "2026-10-07T08:16:24Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693832654608665863.txt"
-  },
-  {
-   "id": "7693827886826179847",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693827886826179847",
-   "caption": "הטלנובלה מסתבכת: מה גורם לאם ובתה להמשיך לברוח? 🌍 אחרי שנעלמו באוגוסט...",
-   "posted": "1791360900",
-   "found": "2026-10-07T08:31:17Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693827886826179847.txt"
-  },
-  {
    "id": "7693841648689679637",
    "channel": "kan_news",
    "name": "kan_news",
@@ -4547,10 +4436,119 @@
    "found": "2026-10-22T05:57:58Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7699102891658775829.txt"
+  },
+  {
+   "id": "7699513375126031634",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7699513375126031634",
+   "caption": "מפלגת השלטון הנצחי #בחירות #ליכוד #עושיםסדר ",
+   "posted": "1792682666",
+   "found": "2026-10-23T05:54:29Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699513375126031634.txt"
+  },
+  {
+   "id": "7699459040929418504",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7699459040929418504",
+   "caption": "ואיפה אתם ביחס לממוצע? #כסף #קאבר  פרסום_בשיתוף @wearecover_il ",
+   "posted": "1792670010",
+   "found": "2026-10-23T05:54:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699459040929418504.txt"
+  },
+  {
+   "id": "7699513248499928340",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7699513248499928340",
+   "caption": "בפרלמנט בראשון לציון אמרו לי שמסבנים אותם כבר 30 שנה. #ישראל #פוליטיק...",
+   "posted": "1792682630",
+   "found": "2026-10-23T05:55:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699513248499928340.txt"
+  },
+  {
+   "id": "7699462756247817493",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7699462756247817493",
+   "caption": "הרגע שגרם לי לעצור את הפרלמנט בפתח תקווה.  #ישראל #פוליטיקה #ביטחון ",
+   "posted": "1792670873",
+   "found": "2026-10-23T05:55:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699462756247817493.txt"
+  },
+  {
+   "id": "7699531429406887176",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7699531429406887176",
+   "caption": "המפלגה להחלת חוק הספאם #ספאם #פוליטיקה #פוליטיקהישראלית #בחירות",
+   "posted": "1792686863",
+   "found": "2026-10-23T05:56:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699531429406887176.txt"
+  },
+  {
+   "id": "7699546450719411476",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7699546450719411476",
+   "caption": "7 באוקטובר קרה כי סיפרו לנתניהו שחמאס מורתע. קל. רק מי זה ״סיפרו״.......",
+   "posted": "1792690362",
+   "found": "2026-10-23T05:56:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699546450719411476.txt"
+  },
+  {
+   "id": "7699433516211375367",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7699433516211375367",
+   "caption": "זה טוב שרצחו את רבין לא?",
+   "posted": "1792664069",
+   "found": "2026-10-23T05:57:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699433516211375367.txt"
+  },
+  {
+   "id": "7699557604481125653",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699557604481125653",
+   "caption": "סולם הבחירות של 100שטח ! פרק 7! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
+   "posted": "1792692960",
+   "found": "2026-10-23T05:58:08Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699557604481125653.txt"
+  },
+  {
+   "id": "7699548975325564181",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699548975325564181",
+   "caption": "המממנת של חמאס בלשכת ראש הממשלה | עמיחי אתאלי איך יועץ ראש הממשלה מוד...",
+   "posted": "1792690949",
+   "found": "2026-10-23T05:58:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699548975325564181.txt"
+  },
+  {
+   "id": "7699544560849947924",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699544560849947924",
+   "caption": "חילוץ דרמטי בגובה 11 קומות בבת ים: לוחמי הימ״מ השתלשלו מגג בניין מגור...",
+   "posted": "1792689920",
+   "found": "2026-10-23T05:58:37Z",
+   "status": "no-speech"
   }
  ],
  "health": {
-  "at": "2026-10-22T05:58:17Z",
+  "at": "2026-10-23T05:58:56Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
