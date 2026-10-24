@@ -1,115 +1,6 @@
 {
  "items": [
   {
-   "id": "7693841648689679637",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693841648689679637",
-   "caption": "שלי משל-יוגב, אימה של ליבי כהן מגורי ז\"ל, הגיעה למקום בו היא נ%צחה וס...",
-   "posted": "1791362109",
-   "found": "2026-10-07T08:47:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693841648689679637.txt"
-  },
-  {
-   "id": "7693847420811169032",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693847420811169032",
-   "caption": "\"שאלתי את עצמי מה בורא עולם היה רוצה ממני דווקא עכשיו\": אימה של אגם ב...",
-   "posted": "1791363454",
-   "found": "2026-10-07T09:02:25Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693847420811169032.txt"
-  },
-  {
-   "id": "7693793345335840006",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693793345335840006",
-   "caption": "היום לפני שלוש שנים | קובי, שהצליח להימלט מהנובה, התקשה למצוא מילים ל...",
-   "posted": "1791363600",
-   "found": "2026-10-07T09:03:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693793345335840006.txt"
-  },
-  {
-   "id": "7693851325716598023",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693851325716598023",
-   "caption": "התחזו למלי וליאל יהלומי? לפני שעות ספורות דווח כי מלי וליאל יהלומי נע...",
-   "posted": "1791364366",
-   "found": "2026-10-07T09:16:48Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693853002637102354",
-   "channel": "roee.lotem",
-   "name": "roee.lotem",
-   "url": "https://www.tiktok.com/@roee.lotem/video/7693853002637102354",
-   "caption": "שלוש שנים ל-7 באוקטובר - התפכחנו או שנשארנו בקונספציה?",
-   "posted": "1791364754",
-   "found": "2026-10-07T09:33:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693853002637102354.txt"
-  },
-  {
-   "id": "7693858516574031111",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7693858516574031111",
-   "caption": "״אני רוצה שיזכרו מליבי שהיא שמש״☀️ #7באוקטובר #נזכורולאנשכח #לאנפסיקל...",
-   "posted": "1791366039",
-   "found": "2026-10-07T09:47:16Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693858516574031111.txt"
-  },
-  {
-   "id": "7693863269466934536",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693863269466934536",
-   "caption": "לא נשכח אותם 💔 שלוש משפחות שלמות - כולם נרצחו בשבעה באוקטובר, ללא נצו...",
-   "posted": "1791367147",
-   "found": "2026-10-07T10:02:37Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693863269466934536.txt"
-  },
-  {
-   "id": "7693860234577759508",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693860234577759508",
-   "caption": "בפתיחת דיון ועדת החוקה: דקת דומייה והקראת פרק תהילים לזכר קורבנות טבח...",
-   "posted": "1791366436",
-   "found": "2026-10-07T10:02:57Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693860234577759508.txt"
-  },
-  {
-   "id": "7693867727760444693",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693867727760444693",
-   "caption": "\"עם ישראל כבר לא יכול יותר. חייבים את זה לעצמנו, למשפחות\" ↓ ח\"כ יוליה...",
-   "posted": "1791368179",
-   "found": "2026-10-07T10:18:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693867727760444693.txt"
-  },
-  {
-   "id": "7693870633473559828",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693870633473559828",
-   "caption": "\"לפני שקופצים למסקנות, צריכים לזכור מה האויבים שלנו עשו לנו\" ↓ \"ואיזה...",
-   "posted": "1791368859",
-   "found": "2026-10-07T10:33:54Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693870633473559828.txt"
-  },
-  {
    "id": "7693870059583786258",
    "channel": "c14news",
    "name": "c14news",
@@ -4560,10 +4451,119 @@
    "posted": "1792689920",
    "found": "2026-10-23T05:58:37Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7699842981875977490",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7699842981875977490",
+   "caption": "לא מצביעים? אתם עדיין מצביעים... #בחירות #פוליטיקה ",
+   "posted": "1792759406",
+   "found": "2026-10-24T05:54:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699842981875977490.txt"
+  },
+  {
+   "id": "7699787738324733191",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7699787738324733191",
+   "caption": "דני והצופיפיניקים - חלק 2 #צופים #אלימות #פוליטיקה ",
+   "posted": "1792746545",
+   "found": "2026-10-24T05:54:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699787738324733191.txt"
+  },
+  {
+   "id": "7699754042448284949",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7699754042448284949",
+   "caption": "בפרלמנט בחולון שאלו אותי את כל השאלות הכי קשות>> #ישראל #פוליטיקה #צבא ",
+   "posted": "1792738699",
+   "found": "2026-10-24T05:57:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699754042448284949.txt"
+  },
+  {
+   "id": "7699841222034115861",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699841222034115861",
+   "caption": "הותרו לפרסום שמותיהם של שני חללי צה\"ל שנפלו הבוקר בפיגוע בצומת יהודה,...",
+   "posted": "1792758996",
+   "found": "2026-10-24T05:57:06Z",
+   "status": "failed"
+  },
+  {
+   "id": "7699826559850499348",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699826559850499348",
+   "caption": "כל החיים הצביעו למפלגה אחת, עד שהגיע הרגע שמחליטים אחרת. עוד 4 ימים ל...",
+   "posted": "1792755580",
+   "found": "2026-10-24T05:57:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699826559850499348.txt"
+  },
+  {
+   "id": "7699818549728120085",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7699818549728120085",
+   "caption": "סולם הבחירות של 100שטח ! פרק 8! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
+   "posted": "1792753715",
+   "found": "2026-10-24T05:58:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699818549728120085.txt"
+  },
+  {
+   "id": "7699802637939559701",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7699802637939559701",
+   "caption": "אחד מתוך עשרה קולות בבחירות הקודמות הלכו לפח 👆 #בחירות #מתחתלרדאר #פת...",
+   "posted": "1792750011",
+   "found": "2026-10-24T05:58:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699802637939559701.txt"
+  },
+  {
+   "id": "7699875830834515207",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7699875830834515207",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1792767054",
+   "found": "2026-10-24T05:59:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699875830834515207.txt"
+  },
+  {
+   "id": "7699871637818117394",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7699871637818117394",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1792766074",
+   "found": "2026-10-24T05:59:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699871637818117394.txt"
+  },
+  {
+   "id": "7699870139809828103",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7699870139809828103",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1792765728",
+   "found": "2026-10-24T06:00:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7699870139809828103.txt"
   }
  ],
  "health": {
-  "at": "2026-10-23T05:58:56Z",
+  "at": "2026-10-24T06:00:30Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
