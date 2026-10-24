@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-24T05:16:58.168Z",
+ "updated": "2026-10-24T05:29:08.774Z",
  "items": [
+  {
+   "id": "1a3c5ffaf988",
+   "kind": "headline",
+   "title": "מאיבר מוזנח לתחום חם: מענק המחקר הגדול לחוקרות משיבא",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001560168#utm_source=RSS",
+   "topic": "research",
+   "published": "2026-10-24T05:18:00.000Z",
+   "summary": "מחקרים גילו שבניגוד לתפיסה המקובלת, השחלות לא מסיימות את תפקידן בתום תקופת הפוריות • חוקרות משיבא קיבלו 6 מיליון דולר כדי לפצח איך הן משפיעות על ההזדקנות • מדעי אריכות החיים",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1792508885/800_y484nm.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "65f52d1be6ac",
    "kind": "headline",
@@ -5601,22 +5615,6 @@
    "score": 2,
    "alsoIn": [],
    "important": false
-  },
-  {
-   "id": "a0e8dd508f68",
-   "kind": "headline",
-   "title": "אחרי שלוש הפחתות רצופות: בנק ישראל הותיר את הריבית ללא שינוי",
-   "source": "ynet כלכלה",
-   "url": "https://www.ynet.co.il/economy/article/pbyb2htqw",
-   "topic": "econ",
-   "published": "2026-10-21T13:01:33.000Z",
-   "summary": "הוועדה המוניטארית החליטה להשאיר את הריבית במשק על 3.25%, על פי הערכות החזאים, וזאת בשל חוסר הוודאות מהבחירות בשבוע הבא, ההוצאות הביטחוניות הגבוהות והחשש מעימות נוסף עם איראן. בנק ישראל מעריך שיפחית את הריבית פעם אחת בלבד בשנה הקרובה, וכי האינפלציה תעמוד על 2%",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/18/BJa11EKlFxe/BJa11EKlFxe_0_0_3000_2003_0_medium.jpg",
-   "score": 4,
-   "alsoIn": [
-    "YNET"
-   ],
-   "important": true
   }
  ]
 }
