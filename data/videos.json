@@ -4081,8 +4081,11 @@
    "caption": "9 ימים לבחירות וישמצב שאמירה גזענית אחת של ינון מגל תכריע אותן 🗳️🤔 #מ...",
    "posted": "1792345565",
    "found": "2026-10-20T05:56:26Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7698065562663996692.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7698065562663996692.txt",
+   "insightIds": [
+    "ins-2026-10-24-ml03"
+   ]
   },
   {
    "id": "7698480098038517000",
@@ -4117,7 +4120,7 @@
    "caption": "החברים של נפתלי #פוליטיקה #בחירות #ביחד #עושיםסדר ",
    "posted": "1792504809",
    "found": "2026-10-21T05:54:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7698749484087528722.txt"
   },
   {
@@ -4246,8 +4249,9 @@
    "caption": "מתנת היום הולדת שלי אליך - שיהיה פה טוב יותר🗳️❤️",
    "posted": "1792606939",
    "found": "2026-10-22T05:53:36Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699188144830352658.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7699188144830352658.txt",
+   "note": "הטענות על החרדים נבדקו כבר בניתוח ins-2026-10-21-bn02"
   },
   {
    "id": "7699055176463715605",
@@ -4268,7 +4272,7 @@
    "caption": "סולם הבחירות של 100שטח ! פרק 6! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
    "posted": "1792602217",
    "found": "2026-10-22T05:54:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699167859179588870.txt"
   },
   {
@@ -4315,8 +4319,11 @@
    "caption": "⁨\t⁨\t6 ימים לבחירות ויש אנשים שלא יודעים שלקהילת הלהט\"ב אין זכויות שוו...",
    "posted": "1792611680",
    "found": "2026-10-22T05:57:13Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699208493970279701.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699208493970279701.txt",
+   "insightIds": [
+    "ins-2026-10-24-ml02"
+   ]
   },
   {
    "id": "7699122448960163078",
@@ -4351,8 +4358,11 @@
    "caption": "מפלגת השלטון הנצחי #בחירות #ליכוד #עושיםסדר ",
    "posted": "1792682666",
    "found": "2026-10-23T05:54:29Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699513375126031634.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699513375126031634.txt",
+   "insightIds": [
+    "ins-2026-10-24-ad02"
+   ]
   },
   {
    "id": "7699459040929418504",
@@ -4362,7 +4372,7 @@
    "caption": "ואיפה אתם ביחס לממוצע? #כסף #קאבר  פרסום_בשיתוף @wearecover_il ",
    "posted": "1792670010",
    "found": "2026-10-23T05:54:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699459040929418504.txt"
   },
   {
@@ -4373,8 +4383,11 @@
    "caption": "בפרלמנט בראשון לציון אמרו לי שמסבנים אותם כבר 30 שנה. #ישראל #פוליטיק...",
    "posted": "1792682630",
    "found": "2026-10-23T05:55:28Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699513248499928340.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699513248499928340.txt",
+   "insightIds": [
+    "ins-2026-10-24-bn05"
+   ]
   },
   {
    "id": "7699462756247817493",
@@ -4384,7 +4397,7 @@
    "caption": "הרגע שגרם לי לעצור את הפרלמנט בפתח תקווה.  #ישראל #פוליטיקה #ביטחון ",
    "posted": "1792670873",
    "found": "2026-10-23T05:55:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699462756247817493.txt"
   },
   {
@@ -4395,8 +4408,11 @@
    "caption": "המפלגה להחלת חוק הספאם #ספאם #פוליטיקה #פוליטיקהישראלית #בחירות",
    "posted": "1792686863",
    "found": "2026-10-23T05:56:27Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699531429406887176.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699531429406887176.txt",
+   "insightIds": [
+    "ins-2026-10-24-ie02"
+   ]
   },
   {
    "id": "7699546450719411476",
@@ -4406,7 +4422,7 @@
    "caption": "7 באוקטובר קרה כי סיפרו לנתניהו שחמאס מורתע. קל. רק מי זה ״סיפרו״.......",
    "posted": "1792690362",
    "found": "2026-10-23T05:56:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699546450719411476.txt"
   },
   {
@@ -4417,8 +4433,11 @@
    "caption": "זה טוב שרצחו את רבין לא?",
    "posted": "1792664069",
    "found": "2026-10-23T05:57:45Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699433516211375367.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699433516211375367.txt",
+   "insightIds": [
+    "ins-2026-10-24-rl01"
+   ]
   },
   {
    "id": "7699557604481125653",
@@ -4428,7 +4447,7 @@
    "caption": "סולם הבחירות של 100שטח ! פרק 7! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
    "posted": "1792692960",
    "found": "2026-10-23T05:58:08Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699557604481125653.txt"
   },
   {
@@ -4439,8 +4458,12 @@
    "caption": "המממנת של חמאס בלשכת ראש הממשלה | עמיחי אתאלי איך יועץ ראש הממשלה מוד...",
    "posted": "1792690949",
    "found": "2026-10-23T05:58:28Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699548975325564181.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699548975325564181.txt",
+   "insightIds": [
+    "ins-2026-10-22-bn03"
+   ],
+   "note": "הטענה על עדות אוריך נבדקה כבר בניתוח קודם"
   },
   {
    "id": "7699544560849947924",
@@ -4482,8 +4505,9 @@
    "caption": "בפרלמנט בחולון שאלו אותי את כל השאלות הכי קשות>> #ישראל #פוליטיקה #צבא ",
    "posted": "1792738699",
    "found": "2026-10-24T05:57:00Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699754042448284949.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7699754042448284949.txt",
+   "note": "הטענות על החרדים נבדקו כבר בניתוח ins-2026-10-21-bn02"
   },
   {
    "id": "7699841222034115861",
