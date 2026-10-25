@@ -4377,8 +4377,11 @@
    "caption": "לא מצביעים? אתם עדיין מצביעים... #בחירות #פוליטיקה ",
    "posted": "1792759406",
    "found": "2026-10-24T05:54:00Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699842981875977490.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699842981875977490.txt",
+   "insightIds": [
+    "ins-2026-10-18-fv64"
+   ]
   },
   {
    "id": "7699787738324733191",
@@ -4388,7 +4391,7 @@
    "caption": "דני והצופיפיניקים - חלק 2 #צופים #אלימות #פוליטיקה ",
    "posted": "1792746545",
    "found": "2026-10-24T05:54:47Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699787738324733191.txt"
   },
   {
@@ -4421,7 +4424,7 @@
    "caption": "כל החיים הצביעו למפלגה אחת, עד שהגיע הרגע שמחליטים אחרת. עוד 4 ימים ל...",
    "posted": "1792755580",
    "found": "2026-10-24T05:57:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699826559850499348.txt"
   },
   {
@@ -4432,7 +4435,7 @@
    "caption": "סולם הבחירות של 100שטח ! פרק 8! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
    "posted": "1792753715",
    "found": "2026-10-24T05:58:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699818549728120085.txt"
   },
   {
@@ -4443,8 +4446,11 @@
    "caption": "אחד מתוך עשרה קולות בבחירות הקודמות הלכו לפח 👆 #בחירות #מתחתלרדאר #פת...",
    "posted": "1792750011",
    "found": "2026-10-24T05:58:50Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699802637939559701.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699802637939559701.txt",
+   "insightIds": [
+    "ins-2026-10-25-wv01"
+   ]
   },
   {
    "id": "7699875830834515207",
@@ -4454,8 +4460,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1792767054",
    "found": "2026-10-24T05:59:22Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7699875830834515207.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7699875830834515207.txt",
+   "insightIds": [
+    "ins-2026-10-25-ra03"
+   ]
   },
   {
    "id": "7699871637818117394",
@@ -4465,7 +4474,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1792766074",
    "found": "2026-10-24T05:59:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699871637818117394.txt"
   },
   {
@@ -4476,7 +4485,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1792765728",
    "found": "2026-10-24T06:00:14Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7699870139809828103.txt"
   },
   {
@@ -4487,8 +4496,11 @@
    "caption": "על זה אמורות להיות הבחירות #בחירות #פוליטיקה ",
    "posted": "1792856935",
    "found": "2026-10-25T05:53:02Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700261872423013650.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700261872423013650.txt",
+   "insightIds": [
+    "ins-2026-10-25-fd02"
+   ]
   },
   {
    "id": "7700286795434544391",
@@ -4498,7 +4510,7 @@
    "caption": "עכשיו מהלייב📣 60 שעות לניצחון💪🏽 #בחירות #foryou #לייב ",
    "posted": "1792862747",
    "found": "2026-10-25T05:54:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700286795434544391.txt"
   },
   {
@@ -4552,7 +4564,7 @@
    "caption": "גדי ונפתלי מאחורי הקלעים, מה דעתכם? ",
    "posted": "1792868323",
    "found": "2026-10-25T05:58:33Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700310788069723413.txt"
   },
   {
@@ -4563,7 +4575,7 @@
    "caption": "כל החיים הצביעו למפלגה אחת, עד שהגיע הרגע שמחליטים אחרת. עוד 3 ימים ל...",
    "posted": "1792853708",
    "found": "2026-10-25T05:59:08Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700248021971307796.txt"
   },
   {
