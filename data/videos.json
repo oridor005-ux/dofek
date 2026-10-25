@@ -1,112 +1,6 @@
 {
  "items": [
   {
-   "id": "7693870059583786258",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693870059583786258",
-   "caption": "\"תגיד, מה הסוד שלכם, הישראלים והיהודים? איך אתם מצליחים לחיות בחוסן כ...",
-   "posted": "1791368724",
-   "found": "2026-10-07T10:34:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693870059583786258.txt"
-  },
-  {
-   "id": "7693869768956316949",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693869768956316949",
-   "caption": "⁨\tנתיבי איילון נחסמו הבוקר ע״י פעילי מועצת אוקטובר שעמדו דקת דומייה ל...",
-   "posted": "1791368657",
-   "found": "2026-10-07T10:34:56Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693795601078750485",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693795601078750485",
-   "caption": "היום לפני שלוש שנים | \"דובר צה\"ל, האם יש חטופים בעזה?\" 7.10.23 | 13:20",
-   "posted": "1791368400",
-   "found": "2026-10-07T10:35:32Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693795601078750485.txt"
-  },
-  {
-   "id": "7693875297350929684",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693875297350929684",
-   "caption": "עם תמונת בנה ביד, שרה ליאור עמדה בבית המשפט מול הנאשמים בפרשת גניבת צ...",
-   "posted": "1791369943",
-   "found": "2026-10-07T10:48:07Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693875297350929684.txt"
-  },
-  {
-   "id": "7693875752030178581",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7693875752030178581",
-   "caption": "אף אחד מאיתנו לא ישכח את היום ההוא כל חיינו. זה השבעה באוקטובר שלי. #...",
-   "posted": "1791370051",
-   "found": "2026-10-07T11:04:26Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693875752030178581.txt"
-  },
-  {
-   "id": "7693876998489345286",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693876998489345286",
-   "caption": "שפל מוסרי: גנבו כשדם נרצחי הנובה עדיין על הרצפה בזמן שמתן ליאור מרדכי...",
-   "posted": "1791370342",
-   "found": "2026-10-07T11:04:32Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693879852193074453",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693879852193074453",
-   "caption": "דיווח בסוריה: הדרוזים במחוז א-סווידא בסוריה בעצרת ותהלוכת זיכרון לציו...",
-   "posted": "1791371004",
-   "found": "2026-10-07T11:04:55Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693882278929272065",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693882278929272065",
-   "caption": "",
-   "posted": "1791371570",
-   "found": "2026-10-07T11:19:26Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693882278929272065.txt"
-  },
-  {
-   "id": "7693881327107525909",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693881327107525909",
-   "caption": "",
-   "posted": "1791371349",
-   "found": "2026-10-07T11:20:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693881327107525909.txt"
-  },
-  {
-   "id": "7693868674163297543",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693868674163297543",
-   "caption": "המלחמה שלא נגמרת💔🤕 3 שנים למלחמה ודבר אחד ברור - המצוקה הנפשית בישראל...",
-   "posted": "1791368402",
-   "found": "2026-10-07T11:33:17Z",
-   "status": "failed"
-  },
-  {
    "id": "7693887601219996935",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4584,10 +4478,119 @@
    "found": "2026-10-24T06:00:14Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7699870139809828103.txt"
+  },
+  {
+   "id": "7700261872423013650",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7700261872423013650",
+   "caption": "על זה אמורות להיות הבחירות #בחירות #פוליטיקה ",
+   "posted": "1792856935",
+   "found": "2026-10-25T05:53:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700261872423013650.txt"
+  },
+  {
+   "id": "7700286795434544391",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7700286795434544391",
+   "caption": "עכשיו מהלייב📣 60 שעות לניצחון💪🏽 #בחירות #foryou #לייב ",
+   "posted": "1792862747",
+   "found": "2026-10-25T05:54:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700286795434544391.txt"
+  },
+  {
+   "id": "7700265684634275080",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7700265684634275080",
+   "caption": "האחיינית שוקלת להצביע לבן גביר? סבא עדיין מתלבט למי להצביע?  צרפו אות...",
+   "posted": "1792857825",
+   "found": "2026-10-25T05:54:59Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7700299521598721281",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7700299521598721281",
+   "caption": "הגרסאות של נתניהו לגבי ההתרחשות בבוקר שבעה באוקטובר ממשיכות להתעדכן #...",
+   "posted": "1792865704",
+   "found": "2026-10-25T05:56:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700299521598721281.txt"
+  },
+  {
+   "id": "7700177340457946375",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7700177340457946375",
+   "caption": "שלושה ימים לנצחון, שלחו את זה לחברים! עצרת השינוי היום ב19:30 בכיכר ה...",
+   "posted": "1792837257",
+   "found": "2026-10-25T05:57:20Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700177340457946375.txt"
+  },
+  {
+   "id": "7700313697364774164",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7700313697364774164",
+   "caption": "צפו: השיח של ורדית מוסקוביץ׳ בלב בית שמש עם חרדים שמצהירים: לא אכפת ל...",
+   "posted": "1792869001",
+   "found": "2026-10-25T05:58:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700313697364774164.txt"
+  },
+  {
+   "id": "7700310788069723413",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7700310788069723413",
+   "caption": "גדי ונפתלי מאחורי הקלעים, מה דעתכם? ",
+   "posted": "1792868323",
+   "found": "2026-10-25T05:58:33Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700310788069723413.txt"
+  },
+  {
+   "id": "7700248021971307796",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7700248021971307796",
+   "caption": "כל החיים הצביעו למפלגה אחת, עד שהגיע הרגע שמחליטים אחרת. עוד 3 ימים ל...",
+   "posted": "1792853708",
+   "found": "2026-10-25T05:59:08Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700248021971307796.txt"
+  },
+  {
+   "id": "7700282612337675538",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7700282612337675538",
+   "caption": "פרק שנים עשר: מפלגת רע״ם והמפלגה המשותפת. האם אתם מצביעים לאחת המפלגו...",
+   "posted": "1792861767",
+   "found": "2026-10-25T06:02:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700282612337675538.txt"
+  },
+  {
+   "id": "7700353652963151111",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7700353652963151111",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
+   "posted": "1792878316",
+   "found": "2026-10-25T06:03:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700353652963151111.txt"
   }
  ],
  "health": {
-  "at": "2026-10-24T06:00:30Z",
+  "at": "2026-10-25T06:04:13Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
