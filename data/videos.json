@@ -4421,8 +4421,11 @@
    "caption": "הגרסאות של נתניהו לגבי ההתרחשות בבוקר שבעה באוקטובר ממשיכות להתעדכן #...",
    "posted": "1792865704",
    "found": "2026-10-25T05:56:16Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700299521598721281.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700299521598721281.txt",
+   "insightIds": [
+    "ins-2026-10-26-gz01"
+   ]
   },
   {
    "id": "7700177340457946375",
@@ -4432,8 +4435,11 @@
    "caption": "שלושה ימים לנצחון, שלחו את זה לחברים! עצרת השינוי היום ב19:30 בכיכר ה...",
    "posted": "1792837257",
    "found": "2026-10-25T05:57:20Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700177340457946375.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700177340457946375.txt",
+   "insightIds": [
+    "ins-2026-10-26-rl03"
+   ]
   },
   {
    "id": "7700313697364774164",
@@ -4443,7 +4449,7 @@
    "caption": "צפו: השיח של ורדית מוסקוביץ׳ בלב בית שמש עם חרדים שמצהירים: לא אכפת ל...",
    "posted": "1792869001",
    "found": "2026-10-25T05:58:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700313697364774164.txt"
   },
   {
@@ -4487,8 +4493,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
    "posted": "1792878316",
    "found": "2026-10-25T06:03:52Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700353652963151111.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700353652963151111.txt",
+   "insightIds": [
+    "ins-2026-10-26-hm04"
+   ]
   },
   {
    "id": "7700671215064632584",
@@ -4498,8 +4507,11 @@
    "caption": "הבן אדם גאון. #פוליטיקה #ביבי #בחירות ",
    "posted": "1792952248",
    "found": "2026-10-26T05:58:02Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700671215064632584.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700671215064632584.txt",
+   "insightIds": [
+    "ins-2026-10-26-ad02"
+   ]
   },
   {
    "id": "7700644504507878674",
@@ -4509,7 +4521,7 @@
    "caption": "והופ, סיימנו. #בחירות #פוליטיקה #עושיםסדר #ישר ",
    "posted": "1792946026",
    "found": "2026-10-26T05:59:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700644504507878674.txt"
   },
   {
@@ -4530,7 +4542,7 @@
    "caption": "שבוע טוב ישראל. השבוע  זה קורה.💙🇮🇱 בשלישי מצביעים \"רק\" בקלפי ומתחילים...",
    "posted": "1792915660",
    "found": "2026-10-26T06:00:21Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700514085397384469.txt"
   },
   {
@@ -4552,7 +4564,7 @@
    "caption": "נמות ולא נתגייס? תסריט: נעמה הראל פקידה: יעל ישראלי מת ולא התגייס: מג...",
    "posted": "1792943266",
    "found": "2026-10-26T06:02:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700632652629560594.txt"
   },
   {
@@ -4574,7 +4586,7 @@
    "caption": "הניצחון המוחלט מול המציאות בשטח: כך חמאס שיקם את שורותיו שלוש שנים לת...",
    "posted": "1792957778",
    "found": "2026-10-26T06:03:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700694981777952021.txt"
   },
   {
@@ -4585,7 +4597,7 @@
    "caption": "כל החיים הצביעו למפלגה אחת, עד שהגיע הרגע שמחליטים אחרת. עוד 2 ימים ל...",
    "posted": "1792953466",
    "found": "2026-10-26T06:04:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700676453377101057.txt"
   },
   {
@@ -4596,7 +4608,7 @@
    "caption": "אי אפשר בלי דל״פ מ@Danit Greenberg ",
    "posted": "1792944228",
    "found": "2026-10-26T06:05:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700636796744469780.txt"
   }
  ],
