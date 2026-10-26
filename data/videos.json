@@ -1,116 +1,6 @@
 {
  "items": [
   {
-   "id": "7693887601219996935",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693887601219996935",
-   "caption": "\"כל פעם שאני מדבר על עקיבוש אני בוכה\" עידן עמדי הלך היום לקברו של חבר...",
-   "posted": "1791372806",
-   "found": "2026-10-07T11:48:31Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693889358700580116",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693889358700580116",
-   "caption": "עידן עמדי חשף את התמונה האחרונה שצילם בטלפון, יום לפני טבח שבעה באוקט...",
-   "posted": "1791373219",
-   "found": "2026-10-07T11:49:05Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693873008078785813",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693873008078785813",
-   "caption": "היום לפני שלוש שנים | אלוף במיל' יאיר גולן הגיע לעוטף עזה לבוש במדים:...",
-   "posted": "1791373800",
-   "found": "2026-10-07T12:04:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693873008078785813.txt"
-  },
-  {
-   "id": "7693892333913345300",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693892333913345300",
-   "caption": "",
-   "posted": "1791373911",
-   "found": "2026-10-07T12:04:51Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693892333913345300.txt"
-  },
-  {
-   "id": "7693898181721050388",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693898181721050388",
-   "caption": "ממדי האסון נחשפים, דקה אחר דקה. בבוקר שבעה באוקטובר, בזמן שגם בדרגים ...",
-   "posted": "1791375272",
-   "found": "2026-10-07T12:19:26Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693898181721050388.txt"
-  },
-  {
-   "id": "7693899052265508104",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693899052265508104",
-   "caption": "\"בשבעה באוקטובר שפכו עליהם חומר בעירה והדליקו אותם. נתנו להם להישרף ח...",
-   "posted": "1791375476",
-   "found": "2026-10-07T12:20:10Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693899052265508104.txt"
-  },
-  {
-   "id": "7693902639637056789",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693902639637056789",
-   "caption": "הגענו ללונדון כי לא ניתן לאנטי ישראלים לגנוב את התאריך של השבעה באוקט...",
-   "posted": "1791376309",
-   "found": "2026-10-07T12:34:57Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7693902639637056789.txt",
-   "insightIds": [
-    "ins-2026-10-08-hd20"
-   ]
-  },
-  {
-   "id": "7693910585171381511",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7693910585171381511",
-   "caption": "הערבים יעזרו ליאיר גולן להילחם במשתמטים, כן כן, ברור🤡",
-   "posted": "1791378162",
-   "found": "2026-10-07T13:05:51Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693910585171381511.txt"
-  },
-  {
-   "id": "7693910205012167944",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693910205012167944",
-   "caption": "בלי טיפת בושה: ראש עיריית ניו יורק, זוהרן ממדאני, ישתתף ב\"עצרת זיכרון...",
-   "posted": "1791378072",
-   "found": "2026-10-07T13:06:08Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693908462207618324",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693908462207618324",
-   "caption": "למי אתה קורא שקרן?! תומך חמאס מטומטם! Who are you calling a liar?! Yo...",
-   "posted": "1791377669",
-   "found": "2026-10-07T13:06:50Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693908462207618324.txt"
-  },
-  {
    "id": "7693914144738675989",
    "channel": "100shetah",
    "name": "100shetah",
@@ -4599,12 +4489,121 @@
    "found": "2026-10-25T06:03:52Z",
    "status": "new",
    "transcript": "data/transcripts/tt-7700353652963151111.txt"
+  },
+  {
+   "id": "7700671215064632584",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7700671215064632584",
+   "caption": "הבן אדם גאון. #פוליטיקה #ביבי #בחירות ",
+   "posted": "1792952248",
+   "found": "2026-10-26T05:58:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700671215064632584.txt"
+  },
+  {
+   "id": "7700644504507878674",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7700644504507878674",
+   "caption": "והופ, סיימנו. #בחירות #פוליטיקה #עושיםסדר #ישר ",
+   "posted": "1792946026",
+   "found": "2026-10-26T05:59:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700644504507878674.txt"
+  },
+  {
+   "id": "7700571469113232641",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7700571469113232641",
+   "caption": "ביחד - Assemble #ביחד #בחירות #foryou #פוליטיקה ",
+   "posted": "1792929025",
+   "found": "2026-10-26T05:59:57Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7700514085397384469",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7700514085397384469",
+   "caption": "שבוע טוב ישראל. השבוע  זה קורה.💙🇮🇱 בשלישי מצביעים \"רק\" בקלפי ומתחילים...",
+   "posted": "1792915660",
+   "found": "2026-10-26T06:00:21Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700514085397384469.txt"
+  },
+  {
+   "id": "7700481275479510292",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7700481275479510292",
+   "caption": "ביקשתי מעמית סגל שיסביר לי, מה יש ימני בממשלה הזו?  #ימין #ישראל #פול...",
+   "posted": "1792908020",
+   "found": "2026-10-26T06:01:21Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700481275479510292.txt"
+  },
+  {
+   "id": "7700632652629560594",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7700632652629560594",
+   "caption": "נמות ולא נתגייס? תסריט: נעמה הראל פקידה: יעל ישראלי מת ולא התגייס: מג...",
+   "posted": "1792943266",
+   "found": "2026-10-26T06:02:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700632652629560594.txt"
+  },
+  {
+   "id": "7700697845791329557",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7700697845791329557",
+   "caption": "חנה שפיצר מהיישוב אפרת שבגוש עציון ושותפה ב״שדולת המשרתים״, אם לשלושה...",
+   "posted": "1792958444",
+   "found": "2026-10-26T06:03:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700697845791329557.txt"
+  },
+  {
+   "id": "7700694981777952021",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7700694981777952021",
+   "caption": "הניצחון המוחלט מול המציאות בשטח: כך חמאס שיקם את שורותיו שלוש שנים לת...",
+   "posted": "1792957778",
+   "found": "2026-10-26T06:03:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700694981777952021.txt"
+  },
+  {
+   "id": "7700676453377101057",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7700676453377101057",
+   "caption": "כל החיים הצביעו למפלגה אחת, עד שהגיע הרגע שמחליטים אחרת. עוד 2 ימים ל...",
+   "posted": "1792953466",
+   "found": "2026-10-26T06:04:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700676453377101057.txt"
+  },
+  {
+   "id": "7700636796744469780",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7700636796744469780",
+   "caption": "אי אפשר בלי דל״פ מ@Danit Greenberg ",
+   "posted": "1792944228",
+   "found": "2026-10-26T06:05:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7700636796744469780.txt"
   }
  ],
  "health": {
-  "at": "2026-10-25T06:04:13Z",
-  "channelsOk": 23,
-  "channelsFail": 0,
+  "at": "2026-10-26T06:05:49Z",
+  "channelsOk": 22,
+  "channelsFail": 1,
   "transcribed": 10
  }
 }
