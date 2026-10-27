@@ -4369,8 +4369,11 @@
    "caption": "פרק שנים עשר: מפלגת רע״ם והמפלגה המשותפת. האם אתם מצביעים לאחת המפלגו...",
    "posted": "1792861767",
    "found": "2026-10-25T06:02:42Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700282612337675538.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700282612337675538.txt",
+   "insightIds": [
+    "ins-2026-10-27-ra44"
+   ]
   },
   {
    "id": "7700353652963151111",
@@ -4440,8 +4443,11 @@
    "caption": "ביקשתי מעמית סגל שיסביר לי, מה יש ימני בממשלה הזו?  #ימין #ישראל #פול...",
    "posted": "1792908020",
    "found": "2026-10-26T06:01:21Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700481275479510292.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700481275479510292.txt",
+   "insightIds": [
+    "ins-2026-10-27-bn11"
+   ]
   },
   {
    "id": "7700632652629560594",
@@ -4462,7 +4468,7 @@
    "caption": "חנה שפיצר מהיישוב אפרת שבגוש עציון ושותפה ב״שדולת המשרתים״, אם לשלושה...",
    "posted": "1792958444",
    "found": "2026-10-26T06:03:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700697845791329557.txt"
   },
   {
@@ -4506,8 +4512,11 @@
    "caption": "לי אין מילים. ולכם? #בחירות #פוליטיקה ",
    "posted": "1793037669",
    "found": "2026-10-27T05:54:58Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701038118203395336.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701038118203395336.txt",
+   "insightIds": [
+    "ins-2026-10-27-ab22"
+   ]
   },
   {
    "id": "7700949212602715400",
@@ -4517,7 +4526,7 @@
    "caption": "רק כי שאלתם 😎 #בחירות #פוליטיקה ",
    "posted": "1793016968",
    "found": "2026-10-27T05:55:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700949212602715400.txt"
   },
   {
@@ -4528,7 +4537,7 @@
    "caption": "פלורנטין, לא מפסיקים עד שכולם משתכנעים! היום מצביעים ׳רק׳ ומתחילים לת...",
    "posted": "1793075687",
    "found": "2026-10-27T05:56:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701201387857644820.txt"
   },
   {
@@ -4539,7 +4548,7 @@
    "caption": "בין הפרלמנטים עוצר לטרופית וסביח אצל עובד🔥 #פוריו #ישראל #בחירות ",
    "posted": "1793034384",
    "found": "2026-10-27T05:56:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701024013845400833.txt"
   },
   {
@@ -4550,7 +4559,7 @@
    "caption": "",
    "posted": "1793027635",
    "found": "2026-10-27T05:56:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700995028524551442.txt"
   },
   {
@@ -4561,8 +4570,11 @@
    "caption": "למי אני מצביע ולמה? רוצים להתייעץ - בואו לפרטי",
    "posted": "1793017005",
    "found": "2026-10-27T05:57:29Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7700949371059195143.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7700949371059195143.txt",
+   "insightIds": [
+    "ins-2026-10-27-lv33"
+   ]
   },
   {
    "id": "7701065822147513621",
@@ -4572,7 +4584,7 @@
    "caption": "איפה השרים של הליכוד? | חיים לוינסון איפה דיכטר? איפה סילמן? איפה ברק...",
    "posted": "1793044116",
    "found": "2026-10-27T05:57:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701065822147513621.txt"
   },
   {
@@ -4583,7 +4595,7 @@
    "caption": "סולם הבחירות של 100שטח ! פרק 9! 🗳️🪜 60 שניות על השעון והחקירה מתחילה....",
    "posted": "1793032304",
    "found": "2026-10-27T05:58:22Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701015079369723157.txt"
   },
   {
@@ -4594,8 +4606,11 @@
    "caption": "בזמן שסבבי המילואים נמשכים, החיים בבית לא עוצרים. נועם סובוביץ׳, משרת...",
    "posted": "1793028858",
    "found": "2026-10-27T05:58:43Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701000284549614854.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701000284549614854.txt",
+   "insightIds": [
+    "ins-2026-10-27-bn11"
+   ]
   },
   {
    "id": "7700991495456722228",
@@ -4605,7 +4620,7 @@
    "caption": "⁨\tפרק אחרון! המפלגה המנצחת שלנו היא…",
    "posted": "1793026814",
    "found": "2026-10-27T05:59:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7700991495456722228.txt"
   }
  ],
