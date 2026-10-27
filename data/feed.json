@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:22:00.741Z",
+ "updated": "2026-10-27T05:34:18.423Z",
  "items": [
   {
    "id": "4de1dffcccc1",
@@ -264,6 +264,20 @@
    "summary": "",
    "image": "",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a2b248297099",
+   "kind": "headline",
+   "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+   "topic": "world",
+   "published": "2026-10-27T03:06:25.000Z",
+   "summary": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
+   "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X-v3.jpg",
+   "score": 1,
    "alsoIn": [],
    "important": false
   },
@@ -4114,6 +4128,20 @@
    "important": false
   },
   {
+   "id": "3209fd53195c",
+   "kind": "headline",
+   "title": "Thousands rally against Netanyahu in Tel Aviv ahead of Israeli elections – video",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/video/2026/oct/25/thousands-rally-against-netanyahu-in-tel-aviv-ahead-of-israeli-elections-video",
+   "topic": "knesset",
+   "published": "2026-10-25T15:35:04.000Z",
+   "summary": "Thousands of people gathered in Tel Aviv on Saturday in a final protest against the Israeli prime minister, Benjamin Netanyahu, and his government ahead of what has been described as the most consequential election in the country's history. The rally at Hostages Square was organised by the October…",
+   "image": "https://i.guim.co.uk/img/media/d62c79da0590aef2370b9b626847b365dad9475d/151_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=93aaa73421ea8c8b660fde8f4fd0dc47",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "9f5a42df3001",
    "kind": "headline",
    "title": "Benjamin Netanyahu presses Donald Trump for support ahead of Israel elections",
@@ -5102,6 +5130,20 @@
    "important": true
   },
   {
+   "id": "c8baaa0b35fc",
+   "kind": "headline",
+   "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+   "topic": "knesset",
+   "published": "2026-10-25T06:24:46.000Z",
+   "summary": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoint outside the West Bank city, local…",
+   "image": "https://i.guim.co.uk/img/media/070c0491a86f1916db6f7b08a147bb7b4fa7f848/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a86c608091eb431b74e2f8468e8760a5",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "210e37052e63",
    "kind": "headline",
    "title": "Serbia begins voting in snap parliamentary elections",
@@ -5590,48 +5632,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b9c4e2bdfcfb",
-   "kind": "headline",
-   "title": "Vancouver Island election results 2026: Polls have closed",
-   "source": "Times Colonist",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWERqMUE5QUpwTnc4V05GSUVHOVc4UnlTc1FZOHBaVDBnendhX3ZYZnpTVzgwX2Q3ZnVfVnZ3VUJFT1o5UmZBTkZtR1NWLUlsNHNGVVFDSVpVcnktQ0s5bzRoc1BHMWQ0U1ltQWQ5bGkwTzVfYU4zX2RncHgtNzVadHpQc2dPR0loNjNDMWdyVFgtWXpGbmtWSnBPMkVTeUdCSjNsYmIwUUtxbWV0c2c?oc=5",
-   "topic": "world",
-   "published": "2026-10-25T03:05:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "66002bca0cfb",
-   "kind": "headline",
-   "title": "Do Americans support Israeli democracy? Then let their voters decide",
-   "source": "JNS.org",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXluZk9BbVRLendXV05wUkVFOGZlNDZDazdBQ3hpdEVjdFRDUHFPcF81a0xSaUJyOFpKYUlwcS0tTElTQlRhQ3QwbjQ5YlpudUUzbzVOSEE4aFZQRUxtanZveVVrclVJVUMzaXVvY3hGSzlFQ0JfMm5pTTVab2c3a1VFSkxOeHBsZ1RsODRGN0VmMkJuYzhGWmE2b1dxeXAwdGVUSnYyVmRNVzhaR09Id0ZvVHVQUEViNkxB?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-10-25T03:03:17.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "a01b0d96d45d",
-   "kind": "headline",
-   "title": "Kenyans must become Parliament’s biggest fear",
-   "source": "Daily Nation",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnpsc2EwNTlTWTNpWHF6QXZVV0pUUS1hQVUyamF0dk1UT3RXTm5jMmJBbkZyRWtNcldzZnBqbUpTTE9IR29UNlRtcDZjVHZEZUFPZGZjOThzVWxQOGJYMDVESGx1UlA4ZVFFelhYbXlYTTBkZ0FzS2xRQXVMdU5qUFZzZXFoWnc5U0lIWFRuSXUtSE1uY1RQX2htOE5lSkJqR3RBTWdB?oc=5",
-   "topic": "world",
-   "published": "2026-10-25T03:00:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
