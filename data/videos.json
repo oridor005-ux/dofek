@@ -1,115 +1,6 @@
 {
  "items": [
   {
-   "id": "7693879968186551572",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693879968186551572",
-   "caption": "אמא של עמית בוסקילה ז\"ל הגיעה לבית החולים סורוקה לחפש את בתה: \"אני מת...",
-   "posted": "1791381600",
-   "found": "2026-10-07T14:06:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693879968186551572.txt"
-  },
-  {
-   "id": "7693928728526736661",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693928728526736661",
-   "caption": "\"בר היתה ילדה מאד מיוחדת, אף פעם לא שפטה, תמיד הגנה על שכבות חלשות\" ↓...",
-   "posted": "1791382385",
-   "found": "2026-10-07T14:21:17Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693928728526736661.txt"
-  },
-  {
-   "id": "7693928490600647943",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693928490600647943",
-   "caption": "ראש עיריית ניו יורק אמנם ציין את קורבנות מתקפת הטרור האכזרית של חמאס,...",
-   "posted": "1791382326",
-   "found": "2026-10-07T14:21:21Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693937970155474197",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693937970155474197",
-   "caption": "מלי וליאל יהלומי נחתו היום בישראל, לאחר שעזבו את הארץ בחודש אוגוסט וא...",
-   "posted": "1791384536",
-   "found": "2026-10-07T14:51:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693937970155474197.txt"
-  },
-  {
-   "id": "7693935309192432916",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693935309192432916",
-   "caption": "לא ניתן להם לשכתב את ההיסטוריה!",
-   "posted": "1791383916",
-   "found": "2026-10-07T14:52:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693935309192432916.txt"
-  },
-  {
-   "id": "7693943203698904341",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7693943203698904341",
-   "caption": "למעלה ממחצית מהישראלים רואים בקיטוב את אחד האיומים המסוכנים ביותר על ...",
-   "posted": "1791385753",
-   "found": "2026-10-07T15:21:58Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693943203698904341.txt"
-  },
-  {
-   "id": "7693940310342110484",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693940310342110484",
-   "caption": "\"אנחנו צריכים לקדם את סוגיית הגירוש וההתיישבות\" ↓ סא\"ל (במיל') איתמר ...",
-   "posted": "1791385080",
-   "found": "2026-10-07T15:23:10Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693940310342110484.txt"
-  },
-  {
-   "id": "7693942554823347474",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693942554823347474",
-   "caption": "מה הדבר הראשון שבחר ינון מגל לעשות כשפתח את תוכנית הפטריוטים ב-7 באוק...",
-   "posted": "1791385606",
-   "found": "2026-10-07T15:23:57Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693942554823347474.txt"
-  },
-  {
-   "id": "7693943096106601749",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693943096106601749",
-   "caption": "לא שותקים מול תומכי הטרור ביום הזה!!",
-   "posted": "1791385729",
-   "found": "2026-10-07T15:24:31Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693943096106601749.txt"
-  },
-  {
-   "id": "7693950562248838421",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693950562248838421",
-   "caption": "\"ילד שהוא פספוס ליקום\" ↓ קרובות משפחתו של מתן זנטי ז\"ל מדברות על החיי...",
-   "posted": "1791387466",
-   "found": "2026-10-07T15:52:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693950562248838421.txt"
-  },
-  {
    "id": "7693952597438319879",
    "channel": "c14news",
    "name": "c14news",
@@ -4622,10 +4513,119 @@
    "found": "2026-10-27T05:59:38Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7700991495456722228.txt"
+  },
+  {
+   "id": "7701414588859960596",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7701414588859960596",
+   "caption": "המון צעירים עוד לא הצביעו. צאו מהבית ותשפיעו על העתיד שלכם כאן בישראל...",
+   "posted": "1793125324",
+   "found": "2026-10-28T06:00:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701414588859960596.txt"
+  },
+  {
+   "id": "7701372413644295444",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7701372413644295444",
+   "caption": "שכנעתי אבא ללוחם שהצביע כל החיים ביבי, להצביע 'רק' בקלפי. בשביל הבן ש...",
+   "posted": "1793115502",
+   "found": "2026-10-28T06:00:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701372413644295444.txt"
+  },
+  {
+   "id": "7701362486502526260",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7701362486502526260",
+   "caption": "זרחו, איפה אתה עושה מילואים? #ישראל #בחירות  #פוליטיקה #ארץנהדרת ",
+   "posted": "1793113190",
+   "found": "2026-10-28T06:01:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701362486502526260.txt"
+  },
+  {
+   "id": "7701422270257876245",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7701422270257876245",
+   "caption": "תוצאות האמת כבר בדרך, אבל החלק הקשה עוד לפנינו. חכו עם השמפניה #מהצדה...",
+   "posted": "1793127111",
+   "found": "2026-10-28T06:01:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701422270257876245.txt"
+  },
+  {
+   "id": "7701446567332515092",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7701446567332515092",
+   "caption": "עמית סגל: הציבור הצביע נגד המשיך כהונתו של נתניהו ונגד הקואליציה שברא...",
+   "posted": "1793132776",
+   "found": "2026-10-28T06:02:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701446567332515092.txt"
+  },
+  {
+   "id": "7701442163577572628",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7701442163577572628",
+   "caption": "מדגמי הבחירות של 2026: יתרון לגוש השינוי, גוש נתניהו מתרסק ל-50 מנדטי...",
+   "posted": "1793131750",
+   "found": "2026-10-28T06:02:19Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7701412539674021140",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7701412539674021140",
+   "caption": "דני בולר כותב בפוסט: אני לא יודע מאיפה השאננות. אני גר בשכונה שתוּיגה...",
+   "posted": "1793124845",
+   "found": "2026-10-28T06:02:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701412539674021140.txt"
+  },
+  {
+   "id": "7701427321231641874",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7701427321231641874",
+   "caption": "יאללה פוש אחרון!",
+   "posted": "1793128288",
+   "found": "2026-10-28T06:02:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701427321231641874.txt"
+  },
+  {
+   "id": "7701467092263898389",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7701467092263898389",
+   "caption": "מה המשמעות של התוצאות?  #בחירות #ראשהממשלה #עםישראלחייי🇮🇱 ",
+   "posted": "1793137549",
+   "found": "2026-10-28T06:03:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701467092263898389.txt"
+  },
+  {
+   "id": "7701416378305301768",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7701416378305301768",
+   "caption": "ולמי אתם הצבעתם בבחירות הקודמות? 🗳️",
+   "posted": "1793125744",
+   "found": "2026-10-28T06:03:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701416378305301768.txt"
   }
  ],
  "health": {
-  "at": "2026-10-27T06:00:00Z",
+  "at": "2026-10-28T06:04:19Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
