@@ -426,7 +426,7 @@
   "b895038bd912"
  ],
  "pending": [],
- "lastRun": "2026-10-28T05:28:55.895Z",
+ "lastRun": "2026-10-28T05:41:02.399Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -453,7 +453,7 @@
    },
    "at": "2026-10-28T05:28:55.895Z"
   },
-  "lastNewItemAt": "2026-10-28T05:28:55.895Z",
+  "lastNewItemAt": "2026-10-28T05:41:02.399Z",
   "lastPushOkAt": "2026-10-28T05:28:55.895Z",
   "googleOkAt": "2026-10-28T05:28:55.895Z"
  },
