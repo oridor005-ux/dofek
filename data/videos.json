@@ -4522,7 +4522,7 @@
    "caption": "המון צעירים עוד לא הצביעו. צאו מהבית ותשפיעו על העתיד שלכם כאן בישראל...",
    "posted": "1793125324",
    "found": "2026-10-28T06:00:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701414588859960596.txt"
   },
   {
@@ -4533,7 +4533,7 @@
    "caption": "שכנעתי אבא ללוחם שהצביע כל החיים ביבי, להצביע 'רק' בקלפי. בשביל הבן ש...",
    "posted": "1793115502",
    "found": "2026-10-28T06:00:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701372413644295444.txt"
   },
   {
@@ -4544,7 +4544,7 @@
    "caption": "זרחו, איפה אתה עושה מילואים? #ישראל #בחירות  #פוליטיקה #ארץנהדרת ",
    "posted": "1793113190",
    "found": "2026-10-28T06:01:15Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701362486502526260.txt"
   },
   {
@@ -4555,7 +4555,7 @@
    "caption": "תוצאות האמת כבר בדרך, אבל החלק הקשה עוד לפנינו. חכו עם השמפניה #מהצדה...",
    "posted": "1793127111",
    "found": "2026-10-28T06:01:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701422270257876245.txt"
   },
   {
@@ -4566,8 +4566,11 @@
    "caption": "עמית סגל: הציבור הצביע נגד המשיך כהונתו של נתניהו ונגד הקואליציה שברא...",
    "posted": "1793132776",
    "found": "2026-10-28T06:02:11Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701446567332515092.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701446567332515092.txt",
+   "insightIds": [
+    "ins-2026-10-28-sgl1"
+   ]
   },
   {
    "id": "7701442163577572628",
@@ -4587,7 +4590,7 @@
    "caption": "דני בולר כותב בפוסט: אני לא יודע מאיפה השאננות. אני גר בשכונה שתוּיגה...",
    "posted": "1793124845",
    "found": "2026-10-28T06:02:32Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701412539674021140.txt"
   },
   {
@@ -4598,7 +4601,7 @@
    "caption": "יאללה פוש אחרון!",
    "posted": "1793128288",
    "found": "2026-10-28T06:02:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701427321231641874.txt"
   },
   {
@@ -4609,8 +4612,11 @@
    "caption": "מה המשמעות של התוצאות?  #בחירות #ראשהממשלה #עםישראלחייי🇮🇱 ",
    "posted": "1793137549",
    "found": "2026-10-28T06:03:37Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701467092263898389.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701467092263898389.txt",
+   "insightIds": [
+    "ins-2026-10-28-mlr1"
+   ]
   },
   {
    "id": "7701416378305301768",
@@ -4620,7 +4626,7 @@
    "caption": "ולמי אתם הצבעתם בבחירות הקודמות? 🗳️",
    "posted": "1793125744",
    "found": "2026-10-28T06:03:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701416378305301768.txt"
   }
  ],
