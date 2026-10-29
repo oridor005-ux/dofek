@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:30:31.621Z",
+ "updated": "2026-10-29T05:42:46.586Z",
  "items": [
   {
    "id": "484d71c64492",
@@ -310,6 +310,20 @@
    "important": false
   },
   {
+   "id": "8c3e4660611e",
+   "kind": "headline",
+   "title": "עשרות אלפי רכבים בדרך לישראל: מה יקרה למחירים?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001560734#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-10-29T03:37:00.000Z",
+   "summary": "דחיית הזינוק במס הקנייה על החשמליות מעניקה פסק זמן לרוכשים, אך התייקרות הבנזין והעדכון הצפוי במס הירוק עלולים להקפיץ מחירי דגמים אחרים • כשברקע נמשכים מלחמת המחירים של המותגים הסיניים והפיחות בשקל, כך תדעו אם להקדים את הקנייה או להמתין",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1611579961/COT_Pic/shutterstock_1240077268_nbn40q.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "92d22a20d641",
    "kind": "headline",
    "title": "הפלונטר הפוליטי והכסף שלכם: איזה שינויים כדאי לבצע בתיק ההשקעות?",
@@ -341,6 +355,20 @@
    "id": "9958794a0f4c",
    "kind": "headline",
    "title": "החלה ספירת המעטפות הכפולות: תוצאות האמת המתעדכנות",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001561230#utm_source=RSS",
+   "topic": "knesset",
+   "published": "2026-10-29T03:10:00.000Z",
+   "summary": "כ-91% מהקולות נספרו, ללא המעטפות הכפולות: גוש נתניהו עם 53 מנדטים, גוש השינוי עם 48, המפלגות הערביות עם 19 מנדטים &bull; יו\"ר יהדות התורה: \"נתניהו העביר מסר שבכוונתו לשמור על מפלגות הקואליציה\" &bull; איזנקוט: \"ממוקדים בהבאת שינוי לישראל והקמת ממשלת גיוס ציונית\" &bull; הרשימה המשותפת: אנחנו מוכנים…",
+   "image": "https://res.cloudinary.com/globes/image/upload/v1785421326/800_oexleg.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "52da0ab9dcb8",
+   "kind": "headline",
+   "title": "91% מהקולות כבר נספרו: תוצאות האמת המתעדכנות",
    "source": "גלובס",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001561230#utm_source=RSS",
    "topic": "knesset",
@@ -5609,34 +5637,6 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzYxQnlXaGVnZXdmV2pGZDBJZTItQlpXaGtfTGs3Wkd1R1FVanNNOUpBdFhyRkpaMl91eGNRbmNjSzhLbnE0VEo4V014cUF2SnA2TnhCZ2x4WDNCcEZyemNIVkItYkdfYnVqVWJRQ3AweFZCa0F6TW1WcF9zVGU4a2ZSd1hsSVVIZU9EXw?oc=5",
    "topic": "world",
    "published": "2026-10-27T00:50:56.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e8bfbc08c1b1",
-   "kind": "headline",
-   "title": "מהצהרת האמונים ועד הוועדה המסדרת: הצעדים הראשונים של הכנסת",
-   "source": "C14",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qc3pFNk1wVzdJNGotdmI3UHVkaTZzT1Z5TmV4UkQtYWo1d1loLW9IUTYwOHZPWlN0R2pUc0Y3M0RLWDNRREZiZmlRQkRTYVk?oc=5",
-   "topic": "knesset",
-   "published": "2026-10-27T00:31:26.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "d58fd2291af9",
-   "kind": "headline",
-   "title": "Israel election: What happens after polls close?",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFVuMXc0NG9yVWhJX1dwRGhpU2lNLW1IUVlIQl9nNlV6NllfazByZ1NqZ2pIN2ZTMExWRnQ0ZWM4RnNmeDg4dkN0c0VmRGhpSXRWMTBWTVJOc0tuaEFMTHFoZFpVYXVkV01qdlFKRmpCdERNLWxzcTRrd2ZTbV9MQ2lNWGNOY2YtbUZNLU01R0YwNk1BbDlOT2pxdGtuenpPZ2c?oc=5",
-   "topic": "world",
-   "published": "2026-10-27T00:03:00.000Z",
    "summary": "",
    "image": "",
    "score": 1,
