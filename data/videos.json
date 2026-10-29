@@ -1,115 +1,6 @@
 {
  "items": [
   {
-   "id": "7693952597438319879",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693952597438319879",
-   "caption": "לאחר חודשים מחוץ לישראל: מלי וליאל יהלומי נחתו בנתב\"ג בתיעוד ראשון מה...",
-   "posted": "1791387942",
-   "found": "2026-10-07T15:52:53Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693952597438319879.txt"
-  },
-  {
-   "id": "7693953175828712711",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693953175828712711",
-   "caption": "מצמרר: אורן סמדג'ה משתף את התיעוד האחרון שצילם של בנו עומר, שנפל בקרב...",
-   "posted": "1791388077",
-   "found": "2026-10-07T15:53:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693953175828712711.txt"
-  },
-  {
-   "id": "7693840134352932116",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693840134352932116",
-   "caption": "היום לפני שלוש שנים | איילה חסון שוחחה עם אסיה מבארי, שהייתה נצורה במ...",
-   "posted": "1791387900",
-   "found": "2026-10-07T15:54:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693840134352932116.txt"
-  },
-  {
-   "id": "7693955346494229768",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7693955346494229768",
-   "caption": "#פוריו #בשבילך #ימין #פוליטיקה ",
-   "posted": "1791388585",
-   "found": "2026-10-07T16:07:28Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693955346494229768.txt"
-  },
-  {
-   "id": "7693954675351031092",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7693954675351031092",
-   "caption": "מונעים את ה-7.10 הבא - מפרקים את הרשות הפלסטינית!",
-   "posted": "1791388426",
-   "found": "2026-10-07T16:08:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693954675351031092.txt"
-  },
-  {
-   "id": "7693959066871270674",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693959066871270674",
-   "caption": "איך נלחמים בקמפיין אנטי-ישראלי ממומן היטב ברשת? | העיתונאית האוסטרלית...",
-   "posted": "1791389449",
-   "found": "2026-10-07T16:22:59Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693959066871270674.txt"
-  },
-  {
-   "id": "7693958328019422484",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693958328019422484",
-   "caption": "\"ראתה אותך כאילו שהיא אמא שלהן\": סגן עדן נימרי נפלה בקרב במוצב \"נחל ע...",
-   "posted": "1791389275",
-   "found": "2026-10-07T16:24:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693958328019422484.txt"
-  },
-  {
-   "id": "7693961891424505140",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693961891424505140",
-   "caption": "קארין ז׳ורנו ז״ל נרצחה במסיבה ב-7.10.23 במסיבת הנובה היא הגיעה למסיבה...",
-   "posted": "1791390105",
-   "found": "2026-10-07T16:38:35Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693961891424505140.txt"
-  },
-  {
-   "id": "7693966169912478994",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693966169912478994",
-   "caption": "ביום הזיכרון לטבח 7 באוקטובר: הליכוד יצא במתקפה חריפה נגד חדשות 12 בט...",
-   "posted": "1791391110",
-   "found": "2026-10-07T17:08:15Z",
-   "status": "failed"
-  },
-  {
-   "id": "7693969993507114246",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693969993507114246",
-   "caption": "תיעוד מחטיפת התצפיתניות ב-7.10: מסוק קרב שהה מעל המוצב, ראה את הג'יפ ...",
-   "posted": "1791391992",
-   "found": "2026-10-07T17:08:34Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693969993507114246.txt"
-  },
-  {
    "id": "7693968527656635669",
    "channel": "yosephhaddad",
    "name": "yosephhaddad",
@@ -4628,10 +4519,118 @@
    "found": "2026-10-28T06:03:58Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7701416378305301768.txt"
+  },
+  {
+   "id": "7701760472923507988",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7701760472923507988",
+   "caption": "אחיי ואחיותיי, תרימו את הראש.  יש לנו רק בית אחד, ואנחנו כאן כדי להיש...",
+   "posted": "1793205853",
+   "found": "2026-10-29T06:01:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701760472923507988.txt"
+  },
+  {
+   "id": "7701728287092985106",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7701728287092985106",
+   "caption": "מה הבעיות האמיתיות שלנו",
+   "posted": "1793198362",
+   "found": "2026-10-29T06:02:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701728287092985106.txt"
+  },
+  {
+   "id": "7701762878436560180",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7701762878436560180",
+   "caption": "🗳️ מקום ראשון מהסוף: מי קיבל הכי מעט קולות בבחירות 2026? בזמן שכל העי...",
+   "posted": "1793206412",
+   "found": "2026-10-29T06:02:55Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7701732301620694278",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7701732301620694278",
+   "caption": "אבי שושן מ״הישרדות״ חוזר לפיטוריו מתפקיד דובר איכילוב בעקבות מסיבת הע...",
+   "posted": "1793199293",
+   "found": "2026-10-29T06:03:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701732301620694278.txt"
+  },
+  {
+   "id": "7701684589567249684",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7701684589567249684",
+   "caption": "בצל תוצאות הבחירות המסתמנות בישראל והיעדר הכרעה ברורה בין הגושים, נשי...",
+   "posted": "1793188186",
+   "found": "2026-10-29T06:03:26Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7701746980338306325",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7701746980338306325",
+   "caption": "מה המשמעות של תוצאות הבחירות? 👆",
+   "posted": "1793202710",
+   "found": "2026-10-29T06:04:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701746980338306325.txt"
+  },
+  {
+   "id": "7701360354164509959",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7701360354164509959",
+   "caption": "הפעם נבחר להיות מאוחדים❤️",
+   "posted": "1793112694",
+   "found": "2026-10-29T06:04:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701360354164509959.txt"
+  },
+  {
+   "id": "7701758419555929351",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7701758419555929351",
+   "caption": "עליהם אתם בונים? שתפו!!!",
+   "posted": "1793205383",
+   "found": "2026-10-29T06:04:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701758419555929351.txt"
+  },
+  {
+   "id": "7701740713402223890",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7701740713402223890",
+   "caption": "מסכם את כל הסיפור. שתפו",
+   "posted": "1793201256",
+   "found": "2026-10-29T06:05:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701740713402223890.txt"
+  },
+  {
+   "id": "7701678910353853704",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7701678910353853704",
+   "caption": "תודה לכם ❤️",
+   "posted": "1793186864",
+   "found": "2026-10-29T06:05:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701678910353853704.txt"
   }
  ],
  "health": {
-  "at": "2026-10-28T06:04:19Z",
+  "at": "2026-10-29T06:05:53Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
