@@ -4528,7 +4528,7 @@
    "caption": "אחיי ואחיותיי, תרימו את הראש.  יש לנו רק בית אחד, ואנחנו כאן כדי להיש...",
    "posted": "1793205853",
    "found": "2026-10-29T06:01:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701760472923507988.txt"
   },
   {
@@ -4539,8 +4539,11 @@
    "caption": "מה הבעיות האמיתיות שלנו",
    "posted": "1793198362",
    "found": "2026-10-29T06:02:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701728287092985106.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701728287092985106.txt",
+   "insightIds": [
+    "ins-2026-10-29-qtr1"
+   ]
   },
   {
    "id": "7701762878436560180",
@@ -4560,7 +4563,7 @@
    "caption": "אבי שושן מ״הישרדות״ חוזר לפיטוריו מתפקיד דובר איכילוב בעקבות מסיבת הע...",
    "posted": "1793199293",
    "found": "2026-10-29T06:03:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701732301620694278.txt"
   },
   {
@@ -4581,8 +4584,11 @@
    "caption": "מה המשמעות של תוצאות הבחירות? 👆",
    "posted": "1793202710",
    "found": "2026-10-29T06:04:17Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701746980338306325.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701746980338306325.txt",
+   "insightIds": [
+    "ins-2026-10-29-lrd1"
+   ]
   },
   {
    "id": "7701360354164509959",
@@ -4592,7 +4598,7 @@
    "caption": "הפעם נבחר להיות מאוחדים❤️",
    "posted": "1793112694",
    "found": "2026-10-29T06:04:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701360354164509959.txt"
   },
   {
@@ -4603,7 +4609,7 @@
    "caption": "עליהם אתם בונים? שתפו!!!",
    "posted": "1793205383",
    "found": "2026-10-29T06:04:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701758419555929351.txt"
   },
   {
@@ -4614,7 +4620,7 @@
    "caption": "מסכם את כל הסיפור. שתפו",
    "posted": "1793201256",
    "found": "2026-10-29T06:05:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701740713402223890.txt"
   },
   {
@@ -4625,8 +4631,11 @@
    "caption": "תודה לכם ❤️",
    "posted": "1793186864",
    "found": "2026-10-29T06:05:34Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701678910353853704.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701678910353853704.txt",
+   "insightIds": [
+    "ins-2026-10-29-mxt1"
+   ]
   }
  ],
  "health": {
