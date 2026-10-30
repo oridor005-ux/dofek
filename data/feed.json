@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:30:24.855Z",
+ "updated": "2026-10-30T05:42:39.523Z",
  "items": [
   {
    "id": "bdf01cd6a45c",
@@ -3779,6 +3779,20 @@
    "important": false
   },
   {
+   "id": "55aff700d5a0",
+   "kind": "headline",
+   "title": "Israel election: what we know so far",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+   "topic": "knesset",
+   "published": "2026-10-28T15:08:58.000Z",
+   "summary": "With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape With…",
+   "image": "https://i.guim.co.uk/img/media/0ee7b9f9277f1c674c56bb041bba3dcc528e70c4/885_268_4648_3718/master/4648.jpg?width=140&quality=85&auto=format&fit=max&s=c10a366fcb3bff1450e8a436583fe40b",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "93fe22e8567b",
    "kind": "headline",
    "title": "Recognition Hinged on Palestinian Elections. It Didn’t Happen. Why Trust Other PA Promises?",
@@ -5614,20 +5628,6 @@
    "published": "2026-10-28T04:00:00.000Z",
    "summary": "מיסוי חברות הארנק, חוק ההקלטות ועיצומים כבדים בחוק הגנת הפרטיות • הכנסת היוצאת הטילה על העצמאים שורת גזירות ודרישות חדשות, ובלמה נסיונות להעניק להם רשת ביטחון • מדוע ציבור של יותר מחצי מיליון איש עדיין מתקשה לתרגם את משקלו לכוח פוליטי?",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780388226/direct/WhatsApp_Image_2026-06-02_at_11.16.40_kexncc.jpg",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4290a7f1eb05",
-   "kind": "headline",
-   "title": "בין הכנסת לקפיטול: איך יושפעו המשקיעים בישראל משתי מערכות בחירות שמתנקזות לשבוע אחד",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001560985#utm_source=RSS",
-   "topic": "knesset",
-   "published": "2026-10-28T04:00:00.000Z",
-   "summary": "הבחירות לכנסת ה־26 מתקיימות שבוע לפני בחירות האמצע בארה\"ב, שילוב שהתרחש רק פעמיים ב־40 השנים האחרונות • צללנו לנתונים ההיסטוריים בניסיון להבין איך כל מערכת בחירות מזיזה את השווקים, ושאלנו את המומחים: איזה מהאירועים ישפיע יותר על התיק של הישראלים?",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793112078/800_spwkig.jpg",
    "score": 1,
    "alsoIn": [],
    "important": false
