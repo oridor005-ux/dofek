@@ -4533,8 +4533,11 @@
    "caption": "מה אפשר ללמוד מהתוצאות, האם תקום ממשלת אחדות, ומה עם הערבים #בחירות #...",
    "posted": "1793292222",
    "found": "2026-10-30T06:04:01Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7702131415953050932.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7702131415953050932.txt",
+   "insightIds": [
+    "ins-2026-10-30-gsh2"
+   ]
   },
   {
    "id": "7702150902274297109",
@@ -4544,7 +4547,7 @@
    "caption": "מי אמר שאין אתיופים במיקום ריאלי ברשימת הליכוד?!?! חמוצים! #מהצדהשני ...",
    "posted": "1793296758",
    "found": "2026-10-30T06:05:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702150902274297109.txt"
   },
   {
@@ -4555,7 +4558,7 @@
    "caption": "לכבוד הסופ״ש, קבלו את התחרות שתגרום לכם להסתכל אחרת על הניקיונות בבית...",
    "posted": "1793303761",
    "found": "2026-10-30T06:05:21Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702180943766801665.txt"
   },
   {
@@ -4586,7 +4589,7 @@
    "caption": "אינסטגרם חדש - lusil.blek",
    "posted": "1793295956",
    "found": "2026-10-30T06:05:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702147455655398664.txt"
   },
   {
@@ -4597,8 +4600,11 @@
    "caption": "הבחירות מאחורינו - מה יקרה עכשיו?🗓️⁩",
    "posted": "1793287664",
    "found": "2026-10-30T06:06:38Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7702111837701115143.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7702111837701115143.txt",
+   "insightIds": [
+    "ins-2026-10-30-lzm1"
+   ]
   },
   {
    "id": "7701998745524735253",
@@ -4608,7 +4614,7 @@
    "caption": "למי הצבעת בבחירות? 👆",
    "posted": "1793261337",
    "found": "2026-10-30T06:06:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701998745524735253.txt"
   },
   {
@@ -4629,7 +4635,7 @@
    "caption": "שתפו שתפו שתפו!!",
    "posted": "1793296389",
    "found": "2026-10-30T06:07:21Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702149311450189064.txt"
   }
  ],
