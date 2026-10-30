@@ -1,118 +1,6 @@
 {
  "items": [
   {
-   "id": "7693968527656635669",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693968527656635669",
-   "caption": "איך אנשים מסוגלים להאמין לשיכתוב ההיסטוריה של האנטי ישראלים כשיש להם ...",
-   "posted": "1791391653",
-   "found": "2026-10-07T17:09:13Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693968527656635669.txt"
-  },
-  {
-   "id": "7693975836952775956",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7693975836952775956",
-   "caption": "זיכרון על המגרש: קבוצת הכדורסל החדשה לזכר ששת החטופים 🎗️🏀 קבוצת הכדור...",
-   "posted": "1791393354",
-   "found": "2026-10-07T17:24:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693975836952775956.txt"
-  },
-  {
-   "id": "7693974696269729042",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693974696269729042",
-   "caption": "אופנוענים, חלקם עם תיקי המשלוחים המזוהים עם וולט, תועדו נוסעים בכבישי...",
-   "posted": "1791393088",
-   "found": "2026-10-07T17:24:36Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7693978636289887495",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693978636289887495",
-   "caption": "שר המלחמה האמריקני פיט הגסת' הצטרף לחיילים לאימון מפרך - משקולות, מתח...",
-   "posted": "1791394010",
-   "found": "2026-10-07T17:38:53Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693978636289887495.txt"
-  },
-  {
-   "id": "7693983561073855764",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7693983561073855764",
-   "caption": "דווקא היום: הפעילה היהודיה הניפה דגל ישראל - המפגינים באוניברסיטת ״סי...",
-   "posted": "1791395153",
-   "found": "2026-10-07T17:58:45Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693983561073855764.txt"
-  },
-  {
-   "id": "7693983873536920853",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7693983873536920853",
-   "caption": "",
-   "posted": "1791395226",
-   "found": "2026-10-07T17:59:25Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693983873536920853.txt"
-  },
-  {
-   "id": "7693984456058703124",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7693984456058703124",
-   "caption": "המפגינים האנטי ישראלים הם חבורת פחדנים שלא מעיזים לעמוד מולי ולהסתכל ...",
-   "posted": "1791395363",
-   "found": "2026-10-07T18:00:02Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693984456058703124.txt"
-  },
-  {
-   "id": "7693990828032707858",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693990828032707858",
-   "caption": "התיעודים הראשונים | ״אתם של ישראל? תקחו אותנו!״: ריאיון עם רמי כהן, ש...",
-   "posted": "1791396846",
-   "found": "2026-10-07T18:24:00Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693990828032707858.txt"
-  },
-  {
-   "id": "7694001456977808661",
-   "channel": "guyzo",
-   "name": "guyzo",
-   "url": "https://www.tiktok.com/@guyzo/video/7694001456977808661",
-   "caption": "נתניהו הזהיר אותנו? או ששוב ניצלו הזדמנות להגיד אמרנו לכם? #חדשות #מה...",
-   "posted": "1791399324",
-   "found": "2026-10-07T18:57:15Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694001456977808661.txt",
-   "insightIds": [
-    "ins-2026-10-06-hjck"
-   ]
-  },
-  {
-   "id": "7693999790442417416",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7693999790442417416",
-   "caption": "3 שנים אחרי: צוות זק״א חזר לזירת 7.10 לאסוף את הממצאים של צורי חג׳בי ז״ל",
-   "posted": "1791398940",
-   "found": "2026-10-07T18:58:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693999790442417416.txt"
-  },
-  {
    "id": "7693981238020902162",
    "channel": "n12news",
    "name": "n12news",
@@ -4636,10 +4524,117 @@
    "insightIds": [
     "ins-2026-10-29-mxt1"
    ]
+  },
+  {
+   "id": "7702131415953050932",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7702131415953050932",
+   "caption": "מה אפשר ללמוד מהתוצאות, האם תקום ממשלת אחדות, ומה עם הערבים #בחירות #...",
+   "posted": "1793292222",
+   "found": "2026-10-30T06:04:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702131415953050932.txt"
+  },
+  {
+   "id": "7702150902274297109",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7702150902274297109",
+   "caption": "מי אמר שאין אתיופים במיקום ריאלי ברשימת הליכוד?!?! חמוצים! #מהצדהשני ...",
+   "posted": "1793296758",
+   "found": "2026-10-30T06:05:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702150902274297109.txt"
+  },
+  {
+   "id": "7702180943766801665",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7702180943766801665",
+   "caption": "לכבוד הסופ״ש, קבלו את התחרות שתגרום לכם להסתכל אחרת על הניקיונות בבית...",
+   "posted": "1793303761",
+   "found": "2026-10-30T06:05:21Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702180943766801665.txt"
+  },
+  {
+   "id": "7702177271192374548",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7702177271192374548",
+   "caption": "בדרך למלחמה עם איראן? ביממה האחרונה 10 מטוסי תובלה אמריקנים נחתו בבסי...",
+   "posted": "1793302899",
+   "found": "2026-10-30T06:05:34Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7702166764724964629",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7702166764724964629",
+   "caption": "שב״כ מגיב לסערת הבחירות: החקירה ממוקדת, ואין בה כדי להטיל דופי במגזר ...",
+   "posted": "1793300451",
+   "found": "2026-10-30T06:05:42Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7702147455655398664",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7702147455655398664",
+   "caption": "אינסטגרם חדש - lusil.blek",
+   "posted": "1793295956",
+   "found": "2026-10-30T06:05:56Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702147455655398664.txt"
+  },
+  {
+   "id": "7702111837701115143",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7702111837701115143",
+   "caption": "הבחירות מאחורינו - מה יקרה עכשיו?🗓️⁩",
+   "posted": "1793287664",
+   "found": "2026-10-30T06:06:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702111837701115143.txt"
+  },
+  {
+   "id": "7701998745524735253",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7701998745524735253",
+   "caption": "למי הצבעת בבחירות? 👆",
+   "posted": "1793261337",
+   "found": "2026-10-30T06:06:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701998745524735253.txt"
+  },
+  {
+   "id": "7702196630908357906",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702196630908357906",
+   "caption": "אשכרה הם רוצים לשבת איתו שתפו, לפני שיהיה מאוחר מידי",
+   "posted": "1793307407",
+   "found": "2026-10-30T06:07:08Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7702149311450189064",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702149311450189064",
+   "caption": "שתפו שתפו שתפו!!",
+   "posted": "1793296389",
+   "found": "2026-10-30T06:07:21Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702149311450189064.txt"
   }
  ],
  "health": {
-  "at": "2026-10-29T06:05:53Z",
+  "at": "2026-10-30T06:07:41Z",
   "channelsOk": 23,
   "channelsFail": 0,
   "transcribed": 10
