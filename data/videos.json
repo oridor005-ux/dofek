@@ -4537,7 +4537,7 @@
    "caption": "העם אמר את דברו 👆  @Romiz - רומיז ",
    "posted": "1793356329",
    "found": "2026-10-31T05:59:04Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702406767073971476.txt"
   },
   {
@@ -4548,7 +4548,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1793370522",
    "found": "2026-10-31T06:00:13Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702467683459157255.txt"
   },
   {
@@ -4559,8 +4559,11 @@
    "caption": "יותר אנשים הצביעו ליכוד עכשיו מאשר מבחירות 2022 ❤️",
    "posted": "1793370161",
    "found": "2026-10-31T06:00:32Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7702466161702620434.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7702466161702620434.txt",
+   "insightIds": [
+    "ins-2026-10-31-blc2"
+   ]
   },
   {
    "id": "7702426048234851602",
@@ -4570,7 +4573,7 @@
    "caption": "ברית משרתים! ",
    "posted": "1793360823",
    "found": "2026-10-31T06:01:42Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702426048234851602.txt"
   },
   {
@@ -4581,7 +4584,7 @@
    "caption": "ואיתם הם רוצים להקים ממשלה, תשמעו את אחמד טיבי ",
    "posted": "1793272565",
    "found": "2026-10-31T06:02:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702046998744075528.txt"
   },
   {
@@ -4592,7 +4595,7 @@
    "caption": "נתניהו  בביג ב\"ש",
    "posted": "1793129038",
    "found": "2026-10-31T06:03:01Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701430544646655239.txt"
   },
   {
@@ -4603,7 +4606,7 @@
    "caption": "מארק לוין בקריאה נרגשת לפטריוטים ישראלים: \"צאו להצביע עכשיו, או שתאבד...",
    "posted": "1793127340",
    "found": "2026-10-31T06:04:01Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7701423233601457415.txt"
   },
   {
@@ -4614,8 +4617,11 @@
    "caption": "הערבים נהרו בגלל כסף ענק?",
    "posted": "1793260798",
    "found": "2026-10-31T06:04:41Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701996445825617204.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701996445825617204.txt",
+   "insightIds": [
+    "ins-2026-10-31-arv1"
+   ]
   },
   {
    "id": "7701983743594073350",
@@ -4635,8 +4641,11 @@
    "caption": "על החטופים והמלחמה",
    "posted": "1793176820",
    "found": "2026-10-31T06:05:19Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7701635766119681300.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7701635766119681300.txt",
+   "insightIds": [
+    "ins-2026-10-31-blc2"
+   ]
   }
  ],
  "health": {
