@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:27:36.052Z",
+ "updated": "2026-10-31T05:39:47.025Z",
  "items": [
   {
    "id": "ab2ffbd846fe",
@@ -712,6 +712,20 @@
    "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "7e60162bcda1",
+   "kind": "headline",
+   "title": "No Clear Winner in Israel Election, Final Results Show",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+   "topic": "knesset",
+   "published": "2026-10-30T15:02:51.000Z",
+   "summary": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48.",
+   "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-result-netanyahu-hflp/29int-israel-result-netanyahu-hflp-mediumSquareAt3X-v4.jpg",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -5604,20 +5618,6 @@
    "summary": "The electorate took away his parliamentary majority, but gave his party the most votes. Here’s how that might play out.",
    "image": "https://images.wsj.net/im-23813415",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "8bee7742748f",
-   "kind": "headline",
-   "title": "רעידת אדמה בבורסה: תוצאות הבחירות הובילו להתרסקות",
-   "source": "כיפה",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NZVNmczhmT3h5dUg5a3J0VGlSUjBNYWp2M2h0M0FsLVRvOVl1eURkVWlkWU1aQlZEV0RfUVI2YVM1dEFDVk0xYzRhNUVIVHhoT0xUQmZqcWpsMThSS1daSXFB0gFqQVVfeXFMTk5pWEUzb21wMmhEMEstX0xUem11Q0FRRDRKNWVVVFlQM29SNXZaMmFEZWJOYTRuTG1vVmd0T09yY256UU9ZdWlaWXhkbFEtOU1nd25kM0tNbHFIYnZhY1hPbGlnWENvUFNWUQ?oc=5",
-   "topic": "econ",
-   "published": "2026-10-28T17:05:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
