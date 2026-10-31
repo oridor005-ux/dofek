@@ -1,115 +1,6 @@
 {
  "items": [
   {
-   "id": "7693981238020902162",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7693981238020902162",
-   "caption": "התיעודים הראשונים | ״אני מבין שהטלפון המצלם הוא כלי נשק יותר חשוב מהא...",
-   "posted": "1791394612",
-   "found": "2026-10-07T19:10:22Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7693981238020902162.txt"
-  },
-  {
-   "id": "7694009711817018645",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694009711817018645",
-   "caption": "בטקס הזיכרון הלאומי של “קומו” ומשפחות 7 באוקטובר נשא דברים עמרי שפרונ...",
-   "posted": "1791401243",
-   "found": "2026-10-07T19:37:26Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694009711817018645.txt"
-  },
-  {
-   "id": "7694005040956083462",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7694005040956083462",
-   "caption": "\"חד משמעית אשם - אבל בואו נדבר על השב\"כ\": רום ברסלבסקי בראיון ללא פיל...",
-   "posted": "1791400152",
-   "found": "2026-10-07T19:39:12Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694005040956083462.txt"
-  },
-  {
-   "id": "7694011045920214290",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694011045920214290",
-   "caption": "3 שנים לשבעה באוקטובר: מי שמתעסק עם עם הנצח, גוזר על עצמו חורבן והרס ...",
-   "posted": "1791401555",
-   "found": "2026-10-07T19:39:59Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694011045920214290.txt"
-  },
-  {
-   "id": "7694005923370601735",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694005923370601735",
-   "caption": "יאיר גולן תועד מחייך מפה לאוזן בטקס הזיכרון הלאומי ל-7.10. לצידו: ראש...",
-   "posted": "1791400372",
-   "found": "2026-10-07T19:40:00Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694016898970684693",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694016898970684693",
-   "caption": "העצב אין לו סוף: קטע מתוך טקס הזיכרון הלאומי של משפחות 7 באוקטובר, שק...",
-   "posted": "1791402915",
-   "found": "2026-10-07T19:57:41Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694016898970684693.txt"
-  },
-  {
-   "id": "7694015931869334792",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694015931869334792",
-   "caption": "עודד הרוש מודה: \"לא האמנתי שכל החטופים יחזרו. הייתי קטן אמונה - משפחו...",
-   "posted": "1791402697",
-   "found": "2026-10-07T19:58:24Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694015931869334792.txt"
-  },
-  {
-   "id": "7694022124268195093",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694022124268195093",
-   "caption": "שורד השבי אלי שרעבי שיתף מילים אישיות שכתב לאשתו ליאן ולבנותיו נויה ו...",
-   "posted": "1791404135",
-   "found": "2026-10-07T20:28:39Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694022124268195093.txt"
-  },
-  {
-   "id": "7694052698227739911",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694052698227739911",
-   "caption": "\"אני לא רואה את העתיד שלי בטלוויזיה לנצח\" אראל סג\"ל מספר איך המלחמה ש...",
-   "posted": "1791411250",
-   "found": "2026-10-07T22:24:35Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694052698227739911.txt"
-  },
-  {
-   "id": "7694170932184763656",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694170932184763656",
-   "caption": "שתפו! נפגעי הפרלמנטים המזוייפים של נפתלי בנט צרו קשר 🙏 #פוריו #בשבילך...",
-   "posted": "1791438789",
-   "found": "2026-10-08T05:59:28Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694170932184763656.txt"
-  },
-  {
    "id": "7694172713467890964",
    "channel": "n12news",
    "name": "n12news",
@@ -4637,12 +4528,121 @@
    "found": "2026-10-30T06:07:21Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7702149311450189064.txt"
+  },
+  {
+   "id": "7702406767073971476",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7702406767073971476",
+   "caption": "העם אמר את דברו 👆  @Romiz - רומיז ",
+   "posted": "1793356329",
+   "found": "2026-10-31T05:59:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702406767073971476.txt"
+  },
+  {
+   "id": "7702467683459157255",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702467683459157255",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1793370522",
+   "found": "2026-10-31T06:00:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702467683459157255.txt"
+  },
+  {
+   "id": "7702466161702620434",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702466161702620434",
+   "caption": "יותר אנשים הצביעו ליכוד עכשיו מאשר מבחירות 2022 ❤️",
+   "posted": "1793370161",
+   "found": "2026-10-31T06:00:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702466161702620434.txt"
+  },
+  {
+   "id": "7702426048234851602",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702426048234851602",
+   "caption": "ברית משרתים! ",
+   "posted": "1793360823",
+   "found": "2026-10-31T06:01:42Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702426048234851602.txt"
+  },
+  {
+   "id": "7702046998744075528",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7702046998744075528",
+   "caption": "ואיתם הם רוצים להקים ממשלה, תשמעו את אחמד טיבי ",
+   "posted": "1793272565",
+   "found": "2026-10-31T06:02:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702046998744075528.txt"
+  },
+  {
+   "id": "7701430544646655239",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7701430544646655239",
+   "caption": "נתניהו  בביג ב\"ש",
+   "posted": "1793129038",
+   "found": "2026-10-31T06:03:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701430544646655239.txt"
+  },
+  {
+   "id": "7701423233601457415",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7701423233601457415",
+   "caption": "מארק לוין בקריאה נרגשת לפטריוטים ישראלים: \"צאו להצביע עכשיו, או שתאבד...",
+   "posted": "1793127340",
+   "found": "2026-10-31T06:04:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701423233601457415.txt"
+  },
+  {
+   "id": "7701996445825617204",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7701996445825617204",
+   "caption": "הערבים נהרו בגלל כסף ענק?",
+   "posted": "1793260798",
+   "found": "2026-10-31T06:04:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701996445825617204.txt"
+  },
+  {
+   "id": "7701983743594073350",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7701983743594073350",
+   "caption": "השב״כ מתבקש להביא ממצאים בתוך שבוע וזה כמובן מועד פרסום תוצאות הבחירו...",
+   "posted": "1793257849",
+   "found": "2026-10-31T06:04:51Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7701635766119681300",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7701635766119681300",
+   "caption": "על החטופים והמלחמה",
+   "posted": "1793176820",
+   "found": "2026-10-31T06:05:19Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7701635766119681300.txt"
   }
  ],
  "health": {
-  "at": "2026-10-30T06:07:41Z",
-  "channelsOk": 23,
-  "channelsFail": 0,
+  "at": "2026-10-31T06:05:36Z",
+  "channelsOk": 22,
+  "channelsFail": 1,
   "transcribed": 10
  }
 }
