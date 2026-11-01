@@ -4533,7 +4533,7 @@
    "caption": "עופר וינטר שרף קולות לגוש נתניהו. אם הוא רק היה מקשיב! #מהצדהשני #בחי...",
    "posted": "1793472100",
    "found": "2026-11-01T06:02:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702903984398339349.txt"
   },
   {
@@ -4544,7 +4544,7 @@
    "caption": "במהלך ראיון עם כתב רויטרס, נשיא ארה״ב לא אהב את שאלתו על מצבו בריאותי...",
    "posted": "1793470509",
    "found": "2026-11-01T06:03:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702897151185014037.txt"
   },
   {
@@ -4565,7 +4565,7 @@
    "caption": "עירנות של רגע שווה הכל: בזמן שרכבה על אופניים, הבחינה בחשוד שמנסה לבצ...",
    "posted": "1793465149",
    "found": "2026-11-01T06:04:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702874140419673365.txt"
   },
   {
@@ -4576,8 +4576,11 @@
    "caption": "העם אמר את דברו… אז מה עכשיו?",
    "posted": "1793470065",
    "found": "2026-11-01T06:05:17Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7702895237433216263.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7702895237433216263.txt",
+   "insightIds": [
+    "ins-2026-11-01-plq1"
+   ]
   },
   {
    "id": "7702938746206948615",
@@ -4587,7 +4590,7 @@
    "caption": "טרללת שרוצה להנהיג את המדינה",
    "posted": "1793480199",
    "found": "2026-11-01T06:05:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702938746206948615.txt"
   },
   {
@@ -4598,7 +4601,7 @@
    "caption": "טרללת",
    "posted": "1793480124",
    "found": "2026-11-01T06:05:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702938424105356552.txt"
   },
   {
@@ -4609,7 +4612,7 @@
    "caption": "#שתפו !!! כולם חייבים לראות את זה!",
    "posted": "1793479096",
    "found": "2026-11-01T06:06:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702934019297627399.txt"
   },
   {
@@ -4620,8 +4623,11 @@
    "caption": "הזהרנו כל הזמן שזה קמפיין פייק ושנאה טהורה, זה החזיק להם בדיוק 4 שניו...",
    "posted": "1793512319",
    "found": "2026-11-01T06:06:47Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7703076711377669394.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7703076711377669394.txt",
+   "insightIds": [
+    "ins-2026-11-01-hsn2"
+   ]
   },
   {
    "id": "7702963010683374855",
@@ -4631,7 +4637,7 @@
    "caption": "",
    "posted": "1793485848",
    "found": "2026-11-01T06:07:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702963010683374855.txt"
   }
  ],
