@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:32:18.614Z",
+ "updated": "2026-11-01T05:44:34.108Z",
  "items": [
   {
    "id": "529e3ccdc445",
@@ -4803,6 +4803,20 @@
    "important": false
   },
   {
+   "id": "9b74e0007709",
+   "kind": "headline",
+   "title": "How Israel’s Election Could End",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
+   "topic": "knesset",
+   "published": "2026-10-29T17:01:22.000Z",
+   "summary": "Neither Benjamin Netanyahu nor Gadi Eisenkot won a majority in Israel’s Parliament, leaving both with a chance to form a government. Our Jerusalem bureau chief, David M. Halbfinger, explains the possible coalitions and the obstacles to an opposition alliance that could include Arab parties.",
+   "image": "",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "34f606b995a3",
    "kind": "headline",
    "title": "הבחירות הכריעו את הריבית",
@@ -5614,20 +5628,6 @@
    "summary": "Despite years of political baggage, the Israeli prime minister outperformed expectations, and his rivals, by playing on Jewish voters’ fears of Arab political power and potential security threats.",
    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-netanyahu-tjfp/29int-israel-netanyahu-tjfp-mediumSquareAt3X.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "19a872b314e8",
-   "kind": "headline",
-   "title": "Changing the Rules Mid-Game: Kosovo’s Misguided Bid to Curtail Hague-based Court",
-   "source": "Prishtina Insight",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXJOXzJKaDFBb3hQTURJakxUYmZBMmRvR25HeE5sdDBITW1QTkJWSFFxd2E3ZV8xcGRpX2hqNDdDTjc2T2JYb3ZhakRlU0JPejBRamN2UndqSm9DX0ZKTk5td2kwSW1IYWY0RTV1bE1iSkMxSmZhZ3ZHZ2lqMHZBSWZlR0lpeTZfY1JHNUpGM0NsemduVF8tQ1lOUEdzRURickViMXFkZ3VLcjNWVGtvM3d3?oc=5",
-   "topic": "world",
-   "published": "2026-10-29T10:25:55.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
