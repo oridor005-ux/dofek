@@ -1,128 +1,6 @@
 {
  "items": [
   {
-   "id": "7694172713467890964",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694172713467890964",
-   "caption": "ראש עיריית ניו יורק זוהראן ממדאני הגיע הלילה (בין רביעי לחמישי) לטקס ...",
-   "posted": "1791439193",
-   "found": "2026-10-08T06:14:02Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694172713467890964.txt",
-   "note": "התמלול כולל משפט בודד לא קשור, בלי טענה"
-  },
-  {
-   "id": "7694179945139981620",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694179945139981620",
-   "caption": "שתפו! נפגעי הפרלמנטים המזוייפים של נפתלי בנט צרו קשר 🙏 #פוריו #בשבילך...",
-   "posted": "1791440876",
-   "found": "2026-10-08T06:29:40Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694179945139981620.txt",
-   "note": "טענות על הפקת סרטון של בנט (צלמים, אנשי שב\"כ) בתמלול חלקי ומשובש, בלי מקור שאפשר לאמת"
-  },
-  {
-   "id": "7694178629122526482",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694178629122526482",
-   "caption": "למרות שטען כי ישראל מבצעת \"רצח עם מתמשך\" ועורר את זעם הקהילה היהודית,...",
-   "posted": "1791440568",
-   "found": "2026-10-08T06:29:53Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694178629122526482.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694178189446253832",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7694178189446253832",
-   "caption": "הנה סרטון מדהים שמספר איך עושים שינוי! בטח ראיתם את התיעוד של האופנוע...",
-   "posted": "1791440470",
-   "found": "2026-10-08T06:30:05Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694178189446253832.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694186668990942472",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694186668990942472",
-   "caption": "#פוריו #ימין #שמאל #בשבילך",
-   "posted": "1791442441",
-   "found": "2026-10-08T07:00:22Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694186668990942472.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694185165987384594",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7694185165987384594",
-   "caption": "אין להם בושה, הם חושבים ששכחנו ",
-   "posted": "1791442099",
-   "found": "2026-10-08T07:01:11Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694185165987384594.txt",
-   "insightIds": [
-    "ins-2026-10-09-mg52"
-   ]
-  },
-  {
-   "id": "7694188483161623826",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694188483161623826",
-   "caption": "#פוריו #ימין #שמאל #בשבילך",
-   "posted": "1791442868",
-   "found": "2026-10-08T07:14:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694188483161623826.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694194261733969170",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694194261733969170",
-   "caption": "#פוריו #ימין #שמאל #בשבילך",
-   "posted": "1791444209",
-   "found": "2026-10-08T07:29:55Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694194261733969170.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694199056930835733",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7694199056930835733",
-   "caption": "בכל שנה ב7:00 בבוקר ההורים של איזבלה גנדלין מגיעים למיגונית בה נרצחה ...",
-   "posted": "1791445326",
-   "found": "2026-10-08T07:45:07Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694199056930835733.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694197400633658642",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694197400633658642",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791444941",
-   "found": "2026-10-08T07:45:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694197400633658642.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
    "id": "7694197260162288904",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4646,10 +4524,119 @@
    "insightIds": [
     "ins-2026-10-31-blc2"
    ]
+  },
+  {
+   "id": "7702903984398339349",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7702903984398339349",
+   "caption": "עופר וינטר שרף קולות לגוש נתניהו. אם הוא רק היה מקשיב! #מהצדהשני #בחי...",
+   "posted": "1793472100",
+   "found": "2026-11-01T06:02:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702903984398339349.txt"
+  },
+  {
+   "id": "7702897151185014037",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7702897151185014037",
+   "caption": "במהלך ראיון עם כתב רויטרס, נשיא ארה״ב לא אהב את שאלתו על מצבו בריאותי...",
+   "posted": "1793470509",
+   "found": "2026-11-01T06:03:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702897151185014037.txt"
+  },
+  {
+   "id": "7702886916475129108",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7702886916475129108",
+   "caption": "המחאות בצרפת נמשכות ואיתן גם האנטישמיות:  פרו-פלסטינים שרפו דגל ישראל...",
+   "posted": "1793468124",
+   "found": "2026-11-01T06:04:02Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7702874140419673365",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7702874140419673365",
+   "caption": "עירנות של רגע שווה הכל: בזמן שרכבה על אופניים, הבחינה בחשוד שמנסה לבצ...",
+   "posted": "1793465149",
+   "found": "2026-11-01T06:04:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702874140419673365.txt"
+  },
+  {
+   "id": "7702895237433216263",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7702895237433216263",
+   "caption": "העם אמר את דברו… אז מה עכשיו?",
+   "posted": "1793470065",
+   "found": "2026-11-01T06:05:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702895237433216263.txt"
+  },
+  {
+   "id": "7702938746206948615",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702938746206948615",
+   "caption": "טרללת שרוצה להנהיג את המדינה",
+   "posted": "1793480199",
+   "found": "2026-11-01T06:05:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702938746206948615.txt"
+  },
+  {
+   "id": "7702938424105356552",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702938424105356552",
+   "caption": "טרללת",
+   "posted": "1793480124",
+   "found": "2026-11-01T06:05:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702938424105356552.txt"
+  },
+  {
+   "id": "7702934019297627399",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7702934019297627399",
+   "caption": "#שתפו !!! כולם חייבים לראות את זה!",
+   "posted": "1793479096",
+   "found": "2026-11-01T06:06:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702934019297627399.txt"
+  },
+  {
+   "id": "7703076711377669394",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7703076711377669394",
+   "caption": "הזהרנו כל הזמן שזה קמפיין פייק ושנאה טהורה, זה החזיק להם בדיוק 4 שניו...",
+   "posted": "1793512319",
+   "found": "2026-11-01T06:06:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703076711377669394.txt"
+  },
+  {
+   "id": "7702963010683374855",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7702963010683374855",
+   "caption": "",
+   "posted": "1793485848",
+   "found": "2026-11-01T06:07:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702963010683374855.txt"
   }
  ],
  "health": {
-  "at": "2026-10-31T06:05:36Z",
+  "at": "2026-11-01T06:07:18Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
