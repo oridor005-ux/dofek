@@ -4530,8 +4530,11 @@
    "caption": "הסרטון הקודם נתקע באמצע, אז הנה גרסה מתוקנת #בחירות #פוליטיקה ",
    "posted": "1793555997",
    "found": "2026-11-02T06:25:07Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7703264304052669703.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7703264304052669703.txt",
+   "insightIds": [
+    "ins-2026-11-02-dn01"
+   ]
   },
   {
    "id": "7703278872728751381",
@@ -4552,7 +4555,7 @@
    "caption": "בדקנו איך הייתה נראית הכנסת לו כל עיר הייתה בוחרת לבדה:  מעוז הליכוד:...",
    "posted": "1793561777",
    "found": "2026-11-02T06:26:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703289145229069588.txt"
   },
   {
@@ -4563,7 +4566,7 @@
    "caption": "אירוע חריג בטנסי: קריסטה פייק (Christa Pike), שנידונה למוות בגיל 20 ע...",
    "posted": "1793558478",
    "found": "2026-11-02T06:27:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703274984797474068.txt"
   },
   {
@@ -4574,7 +4577,7 @@
    "caption": "איזנקוט בדרך לקבלת המנדט להרכיב את הממשלה: רוה״מ לשעבר נפתלי בנט הודי...",
    "posted": "1793557977",
    "found": "2026-11-02T06:27:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703272829487254804.txt"
   },
   {
@@ -4596,7 +4599,7 @@
    "caption": "״עזבי אותי מנתונים״",
    "posted": "1793571135",
    "found": "2026-11-02T06:29:20Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703329315458485522.txt"
   },
   {
@@ -4607,7 +4610,7 @@
    "caption": "ברית החרטטנים",
    "posted": "1793570999",
    "found": "2026-11-02T06:30:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703328718638386450.txt"
   },
   {
@@ -4618,8 +4621,11 @@
    "caption": "",
    "posted": "1793463791",
    "found": "2026-11-02T06:31:08Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7702868292028861703.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7702868292028861703.txt",
+   "insightIds": [
+    "ins-2026-11-02-mg02"
+   ]
   },
   {
    "id": "7702863869160508680",
@@ -4629,7 +4635,7 @@
    "caption": "שבוע טוב, פגוש את העיתונות בשש",
    "posted": "1793462760",
    "found": "2026-11-02T06:31:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7702863869160508680.txt"
   }
  ],
