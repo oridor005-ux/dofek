@@ -1,124 +1,6 @@
 {
  "items": [
   {
-   "id": "7694197260162288904",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694197260162288904",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791444908",
-   "found": "2026-10-08T07:46:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694197260162288904.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694198549545897237",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7694198549545897237",
-   "caption": "\"הנכד שלי היה בן 13, מתחת למיטה 20 שעות, והיום הוא עמד לצידי ב'התקווה...",
-   "posted": "1791445208",
-   "found": "2026-10-08T07:47:41Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694198549545897237.txt",
-   "note": "עדות אישית מטקס זיכרון, בלי טענה עובדתית לבדיקה"
-  },
-  {
-   "id": "7694197504732187922",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694197504732187922",
-   "caption": "שיירת רוכבים שהניפו דגלים ירוקים ונסעו בפראות עוררה חרדה בקרב תושבים,...",
-   "posted": "1791444975",
-   "found": "2026-10-08T07:48:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694197504732187922.txt",
-   "note": "תמלול משובש בערבית, בלי טענה שאפשר לבדוק"
-  },
-  {
-   "id": "7694201890816544020",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694201890816544020",
-   "caption": "אנשי 'הפלג הירושלמי' צפויים לחסום היום שורה של מוקדים מרכזיים בירושלי...",
-   "posted": "1791445987",
-   "found": "2026-10-08T08:11:49Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694201890816544020.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (עימות, דעות או קטע לא ברור)"
-  },
-  {
-   "id": "7694204159561583878",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7694204159561583878",
-   "caption": "\"אי פעם רציתי לרצוח אותך? את אחותי\": עימות סוער באולפן מול השר בן גבי...",
-   "posted": "1791446512",
-   "found": "2026-10-08T08:12:24Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694204159561583878.txt",
-   "insightIds": [
-    "ins-2026-10-09-bg71"
-   ]
-  },
-  {
-   "id": "7694206278914166034",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694206278914166034",
-   "caption": "הרב הראשי לישראל לשעבר, הרב יצחק יוסף, יצא למתקפה חריפה נגד השר לביטח...",
-   "posted": "1791447010",
-   "found": "2026-10-08T08:12:28Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694207268094545159",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694207268094545159",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791447245",
-   "found": "2026-10-08T08:15:33Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694207268094545159.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694210933157006612",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694210933157006612",
-   "caption": "בית המשפט המחוזי בתל אביב גזר 14 שנות מאסר על הגינקולוג הבכיר פרופ’ מ...",
-   "posted": "1791448089",
-   "found": "2026-10-08T08:30:28Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694208638700752146",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694208638700752146",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791447555",
-   "found": "2026-10-08T08:31:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694208638700752146.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694212553408302344",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694212553408302344",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791448467",
-   "found": "2026-10-08T08:46:36Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694212553408302344.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
    "id": "7694217251787934996",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4639,10 +4521,120 @@
    "found": "2026-11-01T06:07:00Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7702963010683374855.txt"
+  },
+  {
+   "id": "7703264304052669703",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7703264304052669703",
+   "caption": "הסרטון הקודם נתקע באמצע, אז הנה גרסה מתוקנת #בחירות #פוליטיקה ",
+   "posted": "1793555997",
+   "found": "2026-11-02T06:25:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703264304052669703.txt"
+  },
+  {
+   "id": "7703278872728751381",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7703278872728751381",
+   "caption": "בועז גולן מבקש יפה: אל תפרו את ההבטחות שאמרתי שתפרו. מה הבעיה? #מהצדה...",
+   "posted": "1793559386",
+   "found": "2026-11-02T06:25:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703278872728751381.txt"
+  },
+  {
+   "id": "7703289145229069588",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7703289145229069588",
+   "caption": "בדקנו איך הייתה נראית הכנסת לו כל עיר הייתה בוחרת לבדה:  מעוז הליכוד:...",
+   "posted": "1793561777",
+   "found": "2026-11-02T06:26:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703289145229069588.txt"
+  },
+  {
+   "id": "7703274984797474068",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7703274984797474068",
+   "caption": "אירוע חריג בטנסי: קריסטה פייק (Christa Pike), שנידונה למוות בגיל 20 ע...",
+   "posted": "1793558478",
+   "found": "2026-11-02T06:27:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703274984797474068.txt"
+  },
+  {
+   "id": "7703272829487254804",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7703272829487254804",
+   "caption": "איזנקוט בדרך לקבלת המנדט להרכיב את הממשלה: רוה״מ לשעבר נפתלי בנט הודי...",
+   "posted": "1793557977",
+   "found": "2026-11-02T06:27:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703272829487254804.txt"
+  },
+  {
+   "id": "7703330253787106568",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7703330253787106568",
+   "caption": "ברית החרטטנים",
+   "posted": "1793571356",
+   "found": "2026-11-02T06:28:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703330253787106568.txt"
+  },
+  {
+   "id": "7703329315458485522",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7703329315458485522",
+   "caption": "״עזבי אותי מנתונים״",
+   "posted": "1793571135",
+   "found": "2026-11-02T06:29:20Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703329315458485522.txt"
+  },
+  {
+   "id": "7703328718638386450",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7703328718638386450",
+   "caption": "ברית החרטטנים",
+   "posted": "1793570999",
+   "found": "2026-11-02T06:30:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703328718638386450.txt"
+  },
+  {
+   "id": "7702868292028861703",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7702868292028861703",
+   "caption": "",
+   "posted": "1793463791",
+   "found": "2026-11-02T06:31:08Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702868292028861703.txt"
+  },
+  {
+   "id": "7702863869160508680",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7702863869160508680",
+   "caption": "שבוע טוב, פגוש את העיתונות בשש",
+   "posted": "1793462760",
+   "found": "2026-11-02T06:31:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7702863869160508680.txt"
   }
  ],
  "health": {
-  "at": "2026-11-01T06:07:18Z",
+  "at": "2026-11-02T06:31:56Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
