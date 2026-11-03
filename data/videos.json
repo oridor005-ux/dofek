@@ -1,125 +1,6 @@
 {
  "items": [
   {
-   "id": "7694217251787934996",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7694217251787934996",
-   "caption": "\"אי פעם רציתי לרצוח אותך? את אחותי\": עימות סוער באולפן מול השר בן גבי...",
-   "posted": "1791449562",
-   "found": "2026-10-08T09:02:27Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694217251787934996.txt",
-   "insightIds": [
-    "ins-2026-10-09-bg71"
-   ],
-   "note": "אותו עימות כמו בסרטון 7694204159561583878, שכבר נבדק"
-  },
-  {
-   "id": "7694193892949806342",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694193892949806342",
-   "caption": "\"בואי הביתה מיד\": בצל מחאות התלמידים הסוערות בצרפת, שהדרדרו לאלימות מ...",
-   "posted": "1791444123",
-   "found": "2026-10-08T09:02:45Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694220534506163477",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694220534506163477",
-   "caption": "",
-   "posted": "1791450327",
-   "found": "2026-10-08T09:16:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694220534506163477.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694220088232185108",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694220088232185108",
-   "caption": "",
-   "posted": "1791450222",
-   "found": "2026-10-08T09:16:31Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694220088232185108.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694224548903783700",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694224548903783700",
-   "caption": "הסתה מכוערת מחוץ לטקס הלאומי של משפחות השבעה באוקטובר: זיו ברנס, שעל ...",
-   "posted": "1791451257",
-   "found": "2026-10-08T09:30:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694224548903783700.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694225761615596808",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694225761615596808",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791451545",
-   "found": "2026-10-08T09:31:30Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694225761615596808.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694224569137106184",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694224569137106184",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791451267",
-   "found": "2026-10-08T09:31:46Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694224569137106184.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694226181603740936",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694226181603740936",
-   "caption": "לאחר שישראל הודיעה על ביטול מעמד הקונסוליה הבריטית בירושלים, בלונדון ...",
-   "posted": "1791451642",
-   "found": "2026-10-08T09:31:53Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694229074503306514",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694229074503306514",
-   "caption": "#פוריו #בשבילך #ימין #שמאל ",
-   "posted": "1791452316",
-   "found": "2026-10-08T09:46:39Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694229074503306514.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694231436085300500",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694231436085300500",
-   "caption": "כתב אישום הוגש נגד מוחמד שלבי, בן 22 מבית חנינא וסטודנט לרוקחות. לפי ...",
-   "posted": "1791452869",
-   "found": "2026-10-08T10:01:14Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694231436085300500.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
    "id": "7694239348987841810",
    "channel": "c14news",
    "name": "c14news",
@@ -4640,10 +4521,119 @@
    "found": "2026-11-02T06:31:35Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7702863869160508680.txt"
+  },
+  {
+   "id": "7703632248968367380",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7703632248968367380",
+   "caption": "ידעתם שיש חוק שאוסר על שידורי תעמולה ביום הבחירות? טוב, איך תדעו?🙄 #מ...",
+   "posted": "1793641662",
+   "found": "2026-11-03T12:54:13Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703632248968367380.txt"
+  },
+  {
+   "id": "7703904939130506516",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7703904939130506516",
+   "caption": "תיעוד סיוט בנגב: אם ובנה בן ה-7 נקלעו למרדף פרוע של שני תושבי הפזורה....",
+   "posted": "1793705153",
+   "found": "2026-11-03T12:54:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703904939130506516.txt"
+  },
+  {
+   "id": "7703882212730555669",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7703882212730555669",
+   "caption": "טרגדיה בליגה השנייה בספרד: החלוץ חסוס דה מיגל, בן 30, ספג תיקול חריף ...",
+   "posted": "1793699860",
+   "found": "2026-11-03T12:54:37Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7703858519782558996",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7703858519782558996",
+   "caption": "טראמפ התייחס בריאיון לרשת \"פוקס\" לאפשרות של פעולה צבאית והצהיר: \"אולי...",
+   "posted": "1793694347",
+   "found": "2026-11-03T12:54:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703858519782558996.txt"
+  },
+  {
+   "id": "7703914454894955797",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7703914454894955797",
+   "caption": "״איך מזהים פרובקטור״ עם @Romiz - רומיז 👆🏝️ 📽️: @mayalivnat_ ",
+   "posted": "1793707366",
+   "found": "2026-11-03T12:55:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703914454894955797.txt"
+  },
+  {
+   "id": "7703685098310307080",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7703685098310307080",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו",
+   "posted": "1793653974",
+   "found": "2026-11-03T12:55:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703685098310307080.txt"
+  },
+  {
+   "id": "7703667565297503506",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7703667565297503506",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1793649895",
+   "found": "2026-11-03T12:56:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703667565297503506.txt"
+  },
+  {
+   "id": "7703666558467345672",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7703666558467345672",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1793649665",
+   "found": "2026-11-03T12:56:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703666558467345672.txt"
+  },
+  {
+   "id": "7703690014722477320",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7703690014722477320",
+   "caption": "עד מחר אומר גיא, נחכה😘",
+   "posted": "1793655127",
+   "found": "2026-11-03T12:56:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703690014722477320.txt"
+  },
+  {
+   "id": "7703552613907746069",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7703552613907746069",
+   "caption": "ליברמן פוצץ את הבלון",
+   "posted": "1793623118",
+   "found": "2026-11-03T12:57:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7703552613907746069.txt"
   }
  ],
  "health": {
-  "at": "2026-11-02T06:31:56Z",
+  "at": "2026-11-03T12:57:27Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
