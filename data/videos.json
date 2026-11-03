@@ -4544,8 +4544,11 @@
    "caption": "בועז גולן מבקש יפה: אל תפרו את ההבטחות שאמרתי שתפרו. מה הבעיה? #מהצדה...",
    "posted": "1793559386",
    "found": "2026-11-02T06:25:59Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7703278872728751381.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7703278872728751381.txt",
+   "insightIds": [
+    "ins-2026-11-03-bl01"
+   ]
   },
   {
    "id": "7703289145229069588",
@@ -4588,7 +4591,7 @@
    "caption": "ברית החרטטנים",
    "posted": "1793571356",
    "found": "2026-11-02T06:28:15Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703330253787106568.txt"
   },
   {
