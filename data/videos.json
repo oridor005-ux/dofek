@@ -4530,8 +4530,11 @@
    "caption": "ידעתם שיש חוק שאוסר על שידורי תעמולה ביום הבחירות? טוב, איך תדעו?🙄 #מ...",
    "posted": "1793641662",
    "found": "2026-11-03T12:54:13Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7703632248968367380.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7703632248968367380.txt",
+   "insightIds": [
+    "ins-2026-11-04-tm01"
+   ]
   },
   {
    "id": "7703904939130506516",
@@ -4541,7 +4544,7 @@
    "caption": "תיעוד סיוט בנגב: אם ובנה בן ה-7 נקלעו למרדף פרוע של שני תושבי הפזורה....",
    "posted": "1793705153",
    "found": "2026-11-03T12:54:30Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703904939130506516.txt"
   },
   {
@@ -4562,7 +4565,7 @@
    "caption": "טראמפ התייחס בריאיון לרשת \"פוקס\" לאפשרות של פעולה צבאית והצהיר: \"אולי...",
    "posted": "1793694347",
    "found": "2026-11-03T12:54:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703858519782558996.txt"
   },
   {
@@ -4573,7 +4576,7 @@
    "caption": "״איך מזהים פרובקטור״ עם @Romiz - רומיז 👆🏝️ 📽️: @mayalivnat_ ",
    "posted": "1793707366",
    "found": "2026-11-03T12:55:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703914454894955797.txt"
   },
   {
@@ -4584,7 +4587,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו",
    "posted": "1793653974",
    "found": "2026-11-03T12:55:40Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703685098310307080.txt"
   },
   {
@@ -4595,8 +4598,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1793649895",
    "found": "2026-11-03T12:56:01Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7703667565297503506.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7703667565297503506.txt",
+   "insightIds": [
+    "ins-2026-11-01-plq1"
+   ]
   },
   {
    "id": "7703666558467345672",
@@ -4606,7 +4612,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1793649665",
    "found": "2026-11-03T12:56:14Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7703666558467345672.txt"
   },
   {
@@ -4617,8 +4623,11 @@
    "caption": "עד מחר אומר גיא, נחכה😘",
    "posted": "1793655127",
    "found": "2026-11-03T12:56:44Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7703690014722477320.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7703690014722477320.txt",
+   "insightIds": [
+    "ins-2026-11-04-ab02"
+   ]
   },
   {
    "id": "7703552613907746069",
@@ -4628,8 +4637,11 @@
    "caption": "ליברמן פוצץ את הבלון",
    "posted": "1793623118",
    "found": "2026-11-03T12:57:07Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7703552613907746069.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7703552613907746069.txt",
+   "insightIds": [
+    "ins-2026-11-04-sg03"
+   ]
   }
  ],
  "health": {
