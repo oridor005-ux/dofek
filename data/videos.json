@@ -1,120 +1,6 @@
 {
  "items": [
   {
-   "id": "7694239348987841810",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694239348987841810",
-   "caption": "\"ברגע אחד שכחנו את כל הקרעים שהיו לפני, התאחדנו כאיש אחד בלב אחד, ועמ...",
-   "posted": "1791454711",
-   "found": "2026-10-08T10:32:36Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694239348987841810.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694241861510155540",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7694241861510155540",
-   "caption": "ההפתעה, האימה וגילויי הגבורה: התמונות ורגעים מהיום ששינה את חיינו",
-   "posted": "1791455289",
-   "found": "2026-10-08T10:33:08Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694241861510155540.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694245077266304276",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694245077266304276",
-   "caption": "⁨\tבפוסט ששיתפה ברשתות החברתיות, מאי ברזילי ביקשה מהגולשים דבר אחד: לע...",
-   "posted": "1791456042",
-   "found": "2026-10-08T10:47:05Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694245077266304276.txt",
-   "note": "אין בתמלול טענה עובדתית ראויה לבדיקה (דעות, ראיונות רחוב, מוזיקה או קטע לא ברור)"
-  },
-  {
-   "id": "7694244448301010196",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694244448301010196",
-   "caption": "",
-   "posted": "1791455892",
-   "found": "2026-10-08T10:47:45Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694244448301010196.txt"
-  },
-  {
-   "id": "7694247231762779400",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694247231762779400",
-   "caption": "בית משפט השלום בירושלים הרשיע את  עופר כסיף בתקיפת שוטר בנסיבות מחמיר...",
-   "posted": "1791456541",
-   "found": "2026-10-08T11:02:15Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694243342812450069",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7694243342812450069",
-   "caption": "עדן אברג'יל וחן אסולין, שאיבדו את בעליהן ב-7 באוקטובר, מספרות איך זה ...",
-   "posted": "1791457200",
-   "found": "2026-10-08T11:06:50Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694243342812450069.txt"
-  },
-  {
-   "id": "7694252347719027976",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694252347719027976",
-   "caption": "ביום השנה השלישי לטבח 7 באוקטובר, דווקא בלב סוריה הונפו דגלי ישראל ות...",
-   "posted": "1791457736",
-   "found": "2026-10-08T11:17:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694252347719027976.txt"
-  },
-  {
-   "id": "7694254079958174996",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694254079958174996",
-   "caption": "להביט למציאות בעיניים: הפרויקט שמציג את תיעודי הטבח פנים אל פנים אל מ...",
-   "posted": "1791458136",
-   "found": "2026-10-08T11:33:49Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694254079958174996.txt",
-   "insightIds": [
-    "ins-2026-10-09-yp60"
-   ]
-  },
-  {
-   "id": "7694256561526492423",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694256561526492423",
-   "caption": "שתפו לכולם!",
-   "posted": "1791458713",
-   "found": "2026-10-08T11:34:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694256561526492423.txt"
-  },
-  {
-   "id": "7694259300679650568",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694259300679650568",
-   "caption": "לאחר שעורר סערה כשטען כי חרדים רבים מחזיקים בטלפון כשר לצד טלפון חכם,...",
-   "posted": "1791459350",
-   "found": "2026-10-08T11:48:05Z",
-   "status": "failed"
-  },
-  {
    "id": "7694262901288357140",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4642,10 +4528,117 @@
    "insightIds": [
     "ins-2026-11-04-sg03"
    ]
+  },
+  {
+   "id": "7704002117886954760",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7704002117886954760",
+   "caption": "טראמפ מבטל את הסיוע האמריקאי #כלכלה #כלכלה_בטיקטוק #צהל #טראמפ #חילהא...",
+   "posted": "1793727789",
+   "found": "2026-11-04T13:07:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704002117886954760.txt"
+  },
+  {
+   "id": "7704278647330606344",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7704278647330606344",
+   "caption": "מי גונב פה את הבחירות?",
+   "posted": "1793792165",
+   "found": "2026-11-04T13:08:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704278647330606344.txt"
+  },
+  {
+   "id": "7704291743130307861",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704291743130307861",
+   "caption": "זוועה שנחשפת במלוא חומרתה: בתום חקירה מאומצת של צוות חקירה מיוחד במחו...",
+   "posted": "1793795210",
+   "found": "2026-11-04T13:08:52Z",
+   "status": "failed"
+  },
+  {
+   "id": "7704276621204786452",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704276621204786452",
+   "caption": "‏אסף זמיר, סגן ראש עיירית תל אביב ושר התיירות לשעבר: ״בחיי שרציתי אחד...",
+   "posted": "1793791691",
+   "found": "2026-11-04T13:09:03Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7704260635906985237",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704260635906985237",
+   "caption": "בחורים טובים: עומר אדם העלה בהופעתו בניו יורק, את שורדי השבי אלי-ה כה...",
+   "posted": "1793787966",
+   "found": "2026-11-04T13:09:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704260635906985237.txt"
+  },
+  {
+   "id": "7704301987537784085",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7704301987537784085",
+   "caption": "ככה לא תבזבזו את כל הכסף שלכם בנובמבר 💸💸💸 #לחסוך #הנחות @yammie🤍 ",
+   "posted": "1793797596",
+   "found": "2026-11-04T13:10:18Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704301987537784085.txt"
+  },
+  {
+   "id": "7704262206753410311",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704262206753410311",
+   "caption": "#שתפו #בשבילך #ימין #שמאל",
+   "posted": "1793788335",
+   "found": "2026-11-04T13:11:04Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704262206753410311.txt"
+  },
+  {
+   "id": "7704261630598597896",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704261630598597896",
+   "caption": "שתפו!",
+   "posted": "1793788200",
+   "found": "2026-11-04T13:11:26Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7704227879646809350",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7704227879646809350",
+   "caption": "",
+   "posted": "1793780348",
+   "found": "2026-11-04T13:11:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704227879646809350.txt"
+  },
+  {
+   "id": "7704227792405253384",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7704227792405253384",
+   "caption": "",
+   "posted": "1793780322",
+   "found": "2026-11-04T13:12:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704227792405253384.txt"
   }
  ],
  "health": {
-  "at": "2026-11-03T12:57:27Z",
+  "at": "2026-11-04T13:12:32Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
