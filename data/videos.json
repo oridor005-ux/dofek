@@ -1,117 +1,6 @@
 {
  "items": [
   {
-   "id": "7694262901288357140",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7694262901288357140",
-   "caption": "*\"כל מה שהרב לנדו אומר מקובל עליי. לא תשנו אותנו - ספוילר!\"*🎙️☕ בריאי...",
-   "posted": "1791460189",
-   "found": "2026-10-08T12:04:05Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694262901288357140.txt"
-  },
-  {
-   "id": "7694264403377573138",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694264403377573138",
-   "caption": "ישראל השלימה את סגירת הקונסוליה הבריטית במזרח ירושלים בעקבות צעדים שע...",
-   "posted": "1791460542",
-   "found": "2026-10-08T12:04:11Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694243601601088789",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7694243601601088789",
-   "caption": "רצה לגרום למותם של מאות ערבים - ולהבריח לבריחתם מהארץ: הפרופסור מאוני...",
-   "posted": "1791460800",
-   "found": "2026-10-08T12:04:39Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694243601601088789.txt"
-  },
-  {
-   "id": "7694268491658136839",
-   "channel": "ask__dani",
-   "name": "ask__dani",
-   "url": "https://www.tiktok.com/@ask__dani/video/7694268491658136839",
-   "caption": "⚠️זהירות - שמאלנים⚠️ #פוליטיקה #בחירות #עושיםסדר #הדמוקרטים ",
-   "posted": "1791461492",
-   "found": "2026-10-08T12:19:42Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694268491658136839.txt",
-   "insightIds": [
-    "ins-2026-10-09-yg07"
-   ]
-  },
-  {
-   "id": "7694269554406526215",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694269554406526215",
-   "caption": "תקרית חריגה בנתב\"ג: השרה מאי גולן קיבלה פטור מבידוק בדרכה לצ'כיה – וה...",
-   "posted": "1791461741",
-   "found": "2026-10-08T12:19:51Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694267586694909202",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694267586694909202",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791461282",
-   "found": "2026-10-08T12:20:30Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694267586694909202.txt"
-  },
-  {
-   "id": "7694266183503203602",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694266183503203602",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791460958",
-   "found": "2026-10-08T12:21:01Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694266183503203602.txt"
-  },
-  {
-   "id": "7694245787345095956",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7694245787345095956",
-   "caption": "סרטון של ילד עזתי, לפי הרשתות זה מהשבוע האחרון. 3 שנים לשבעה באוקטובר...",
-   "posted": "1791456205",
-   "found": "2026-10-08T12:21:37Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694245787345095956.txt"
-  },
-  {
-   "id": "7694267735638887701",
-   "channel": "radio103fm",
-   "name": "radio103fm",
-   "url": "https://www.tiktok.com/@radio103fm/video/7694267735638887701",
-   "caption": "כל האמת בפרצוף >> @margolofficial #גיאפלג @haron_haron5",
-   "posted": "1791461313",
-   "found": "2026-10-08T12:22:03Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694267735638887701.txt"
-  },
-  {
-   "id": "7694261854809607442",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694261854809607442",
-   "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 19 ימים...",
-   "posted": "1791462600",
-   "found": "2026-10-08T12:33:38Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694261854809607442.txt"
-  },
-  {
    "id": "7694266042150898962",
    "channel": "c14news",
    "name": "c14news",
@@ -4644,10 +4533,119 @@
    "found": "2026-11-04T13:12:12Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7704227792405253384.txt"
+  },
+  {
+   "id": "7704337166565952775",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7704337166565952775",
+   "caption": "ממשלת אחדות, גרסת נתניהו #פוליטיקה #בחירות #עושיםסדר ",
+   "posted": "1793805786",
+   "found": "2026-11-05T13:21:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704337166565952775.txt"
+  },
+  {
+   "id": "7704674647777873159",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704674647777873159",
+   "caption": "דרמה ומסתורין בגרמניה: סגן ראש ממשלת מדינת המחוז בוואריה, הוברט אייוו...",
+   "posted": "1793884363",
+   "found": "2026-11-05T13:21:27Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7704649626208537877",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704649626208537877",
+   "caption": "מנסור עבאס בבית הנשיא: רע”ם תומכת בתוכנית טראמפ בעזה ובפירוק חמאס מנש...",
+   "posted": "1793878535",
+   "found": "2026-11-05T13:21:35Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704649626208537877.txt"
+  },
+  {
+   "id": "7704638635668360468",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704638635668360468",
+   "caption": "בגיל 41 ואחרי 23 שנה במדים הלאומיים, כריסטיאנו רונאלדו הודיע היום סופ...",
+   "posted": "1793875978",
+   "found": "2026-11-05T13:21:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704638635668360468.txt"
+  },
+  {
+   "id": "7704339209498250516",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7704339209498250516",
+   "caption": "תשלחו את זה לחבר שחולה ולסבתא המרוקאית שלכם ואל תגידו להם מי זה מי 😷 ...",
+   "posted": "1793806264",
+   "found": "2026-11-05T13:22:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704339209498250516.txt"
+  },
+  {
+   "id": "7704650133656505618",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704650133656505618",
+   "caption": "חפשו בספוטיפי וביוטיוב ״חילופי דורות עם הדר מוכתר וגיא לוי״ #שתפו ",
+   "posted": "1793878657",
+   "found": "2026-11-05T13:22:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704650133656505618.txt"
+  },
+  {
+   "id": "7704647333929143559",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704647333929143559",
+   "caption": "חפשו בספוטיפי וביוטיוב ״חילופי דורות עם הדר מוכתר וגיא לוי״",
+   "posted": "1793878006",
+   "found": "2026-11-05T13:23:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704647333929143559.txt"
+  },
+  {
+   "id": "7704629438561914119",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704629438561914119",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1793873836",
+   "found": "2026-11-05T13:23:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704629438561914119.txt"
+  },
+  {
+   "id": "7704615100912815368",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7704615100912815368",
+   "caption": "בן, אני מפרק את הטיעונים שלך וזה כל הסיפור ",
+   "posted": "1793870503",
+   "found": "2026-11-05T13:25:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704615100912815368.txt"
+  },
+  {
+   "id": "7704599247777254663",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7704599247777254663",
+   "caption": "",
+   "posted": "1793866811",
+   "found": "2026-11-05T13:25:52Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704599247777254663.txt"
   }
  ],
  "health": {
-  "at": "2026-11-04T13:12:32Z",
+  "at": "2026-11-05T13:26:08Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
