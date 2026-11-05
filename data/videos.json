@@ -4537,8 +4537,11 @@
    "caption": "טראמפ מבטל את הסיוע האמריקאי #כלכלה #כלכלה_בטיקטוק #צהל #טראמפ #חילהא...",
    "posted": "1793727789",
    "found": "2026-11-04T13:07:39Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704002117886954760.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704002117886954760.txt",
+   "insightIds": [
+    "ins-2026-11-05-ae01"
+   ]
   },
   {
    "id": "7704278647330606344",
@@ -4548,8 +4551,11 @@
    "caption": "מי גונב פה את הבחירות?",
    "posted": "1793792165",
    "found": "2026-11-04T13:08:49Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704278647330606344.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704278647330606344.txt",
+   "insightIds": [
+    "ins-2026-11-05-rl02"
+   ]
   },
   {
    "id": "7704291743130307861",
@@ -4579,7 +4585,7 @@
    "caption": "בחורים טובים: עומר אדם העלה בהופעתו בניו יורק, את שורדי השבי אלי-ה כה...",
    "posted": "1793787966",
    "found": "2026-11-04T13:09:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704260635906985237.txt"
   },
   {
@@ -4590,7 +4596,7 @@
    "caption": "ככה לא תבזבזו את כל הכסף שלכם בנובמבר 💸💸💸 #לחסוך #הנחות @yammie🤍 ",
    "posted": "1793797596",
    "found": "2026-11-04T13:10:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704301987537784085.txt"
   },
   {
@@ -4601,8 +4607,11 @@
    "caption": "#שתפו #בשבילך #ימין #שמאל",
    "posted": "1793788335",
    "found": "2026-11-04T13:11:04Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704262206753410311.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704262206753410311.txt",
+   "insightIds": [
+    "ins-2026-11-03-bl01"
+   ]
   },
   {
    "id": "7704261630598597896",
@@ -4622,7 +4631,7 @@
    "caption": "",
    "posted": "1793780348",
    "found": "2026-11-04T13:11:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704227879646809350.txt"
   },
   {
@@ -4633,7 +4642,7 @@
    "caption": "",
    "posted": "1793780322",
    "found": "2026-11-04T13:12:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704227792405253384.txt"
   }
  ],
