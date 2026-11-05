@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-05T12:51:28.901Z",
+ "updated": "2026-11-05T13:03:42.137Z",
  "items": [
+  {
+   "id": "d8a184ba1491",
+   "kind": "headline",
+   "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalitio",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+   "topic": "world",
+   "published": "2026-11-05T13:02:20.000Z",
+   "summary": "Israeli party leaders were holding discussions with President Isaac Herzog on Thursday about who should get the first chance to form a governing coalition.",
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "a86939fdaed6",
+   "kind": "headline",
+   "title": "החליפו טיוטות לרכישת דירה, והמוכר התחרט. האם הרוכשת תקבל פיצוי?",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001561400#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-11-05T12:58:00.000Z",
+   "summary": "בית המשפט דחה בקשה לאיכון טלפון של בת זוג לשעבר במשך עשור, כדי להפריך את טענתה שהיו ידועים בציבור • תביעה לאכיפת טיוטת הסכם לרכישת דירה נדחתה • וגם: מוכרי דירה חויבו לשלם 265 אלף שקל לאחר שלא גילו לרוכשים על ליקויי רטיבות • 3 פסקי דין בשבוע",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1684049405/COT_Pic/ezgif.com-optimize_xcsxia_1_kxp3wy.gif",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "362f2fe3fce7",
    "kind": "headline",
@@ -5046,6 +5074,20 @@
    "important": false
   },
   {
+   "id": "0811c48d16a7",
+   "kind": "headline",
+   "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
+   "topic": "world",
+   "published": "2026-11-03T21:30:27.000Z",
+   "summary": "President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?",
+   "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-us-elections-explainer-01-zlfj/00int-iran-us-elections-explainer-01-zlfj-mediumSquareAt3X.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "3b157470819a",
    "kind": "headline",
    "title": "Elbit wins IDF deal for artillery training, simulation",
@@ -5580,50 +5622,6 @@
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTWNPMjdQbWxmMzhVSDRxeFhzR0ZLZktFaUhZMFBqUi1VZ0RNa3lGTDg5aURyYVQtc3FiajNwaXNmaV9KaERtd2htY0hwekVqOFctODN2U1NwdnFNVlNhaVdxMnJ6ZGd1Z3hYbVM5TVl6dnRyMDJQMWdNNXR0cGRXODRNdzlkRWx5SmJKRFE2Yzk5SDY3N1pTWlVuMUNYQzJOcW9ZaXpVa2hudVhqUlg1SWpaV0xoTWdpZWpjdFRXY0hxQVRzaVQ0RHNKYzNXQy1HZkpxTXBnR2cwLWJvVnZqd3Y4cmloQjdmRlpVdlBURkYyVlo3dWJDcDR5Yw?oc=5",
    "topic": "defense",
    "published": "2026-11-03T17:25:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "b0a56a641464",
-   "kind": "headline",
-   "title": "Analysis • Does Trump's pledge to end U.S. aid suit Netanyahu?",
-   "source": "Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTWNPMjdQbWxmMzhVSDRxeFhzR0ZLZktFaUhZMFBqUi1VZ0RNa3lGTDg5aURyYVQtc3FiajNwaXNmaV9KaERtd2htY0hwekVqOFctODN2U1NwdnFNVlNhaVdxMnJ6ZGd1Z3hYbVM5TVl6dnRyMDJQMWdNNXR0cGRXODRNdzlkRWx5SmJKRFE2Yzk5SDY3N1pTWlVuMUNYQzJOcW9ZaXpVa2hudVhqUlg1SWpaV0xoTWdpZWpjdFRXY0hxQVRzaVQ0RHNKYzNXQy1HZkpxTXBnR2cwLWJvVnZqd3Y4cmloQjdmRlpVdlBURkYyVlo3dWJDcDR5Yw?oc=5",
-   "topic": "knesset",
-   "published": "2026-11-03T17:25:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5a2ec6b29f12",
-   "kind": "headline",
-   "title": "Trump claims US will end military aid to Israel by end of this year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-   "topic": "defense",
-   "published": "2026-11-03T17:17:11.000Z",
-   "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support…",
-   "image": "https://i.guim.co.uk/img/media/60b8ee8c7578d9966d060062362646a8be71b3ad/225_0_2339_1872/master/2339.jpg?width=140&quality=85&auto=format&fit=max&s=03ec41256beb29a0268c0a565964ade0",
-   "score": 3,
-   "alsoIn": [
-    "DW.com"
-   ],
-   "important": true
-  },
-  {
-   "id": "ca25581da7d2",
-   "kind": "headline",
-   "title": "Trump's Election Day surprise: U.S. ending $4B military aid to Israel",
-   "source": "The Star Democrat",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMHBheHBIVFBwUlBqUXQwRGhPOEhwRGRHQlRjWFg4eERvX0Z4X3FRVmp1OWlQR05vNVl1SmppSldjU3BpdEJKLWlEYTR3UUFXOGZCSWxTUkZ5NU1FRS1pOWdVNFZzakpjTl9Jc3RYNVZlVTVkeURiaFkzM0JEVTBTZ0ZZMWxGWVZsNVpTZFJJaU9pWnpjVk9OVUlCVzl2S0kxWmo2ZEltYTVJeG1xdFhfQ19oR3p5N2pWZXhPcXkxT3M4ZDdxY0VGUEotbEhMZ20zc1dZWVVQLXdGSENKMGgxWFRVTk9id1l2?oc=5",
-   "topic": "defense",
-   "published": "2026-11-03T17:07:00.000Z",
    "summary": "",
    "image": "",
    "score": 1,
