@@ -540,7 +540,7 @@
   "1769672cd1dd"
  ],
  "pending": [],
- "lastRun": "2026-11-06T12:36:39.027Z",
+ "lastRun": "2026-11-06T12:48:50.346Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -567,7 +567,7 @@
    },
    "at": "2026-11-06T12:36:39.027Z"
   },
-  "lastNewItemAt": "2026-11-06T12:36:39.027Z",
+  "lastNewItemAt": "2026-11-06T12:48:50.346Z",
   "lastPushOkAt": "2026-11-06T12:36:39.027Z",
   "googleOkAt": "2026-11-06T12:36:39.027Z"
  },

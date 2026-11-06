@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-06T12:36:39.027Z",
+ "updated": "2026-11-06T12:48:50.346Z",
  "items": [
+  {
+   "id": "23aa12a1700e",
+   "kind": "headline",
+   "title": "‘Shawarma law’: Abdul El-Sayed never shied away from Islamophobic provocations",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/abdul-el-sayed-islamophobia-michigan-senate-seat",
+   "topic": "world",
+   "published": "2026-11-06T12:46:37.000Z",
+   "summary": "The successful Democratic contender for a Michigan Senate seat parried the many insinuations lobbed by Republicans Abdul El-Sayed said he did not expect to be “a main character of this midterms”, but the first Muslim elected to the US Senate in history will take his seat in January after a…",
+   "image": "https://i.guim.co.uk/img/media/f42414e23e65674755b61f596a082554d5aac00f/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=49e3c7b0b383d225bd57d1b2ed51c616",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "9085d22939a1",
    "kind": "headline",
@@ -5400,6 +5414,20 @@
    "important": false
   },
   {
+   "id": "5567fd540d8a",
+   "kind": "headline",
+   "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+   "topic": "world",
+   "published": "2026-11-04T13:18:58.000Z",
+   "summary": "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role. But his skills as a savvy mediator could be instrumental after an inconclusive election.",
+   "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "f00d77076f91",
    "kind": "headline",
    "title": "Brazilian Air Force tests Gripen E fighter with Rafael’s Litening and RecceLite pods",
@@ -5592,34 +5620,6 @@
    "summary": "Move comes after attorney general blocked Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of the 27 October vote that stripped Benjamin Netanyahu’s far-right coalition of their governing majority, rejecting…",
    "image": "https://i.guim.co.uk/img/media/288a15e92c7bafcb3600eb1b2d8e20cc71573794/291_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=ea9e9485765618f79b2b7718417f1089",
    "score": 2,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c5b5d20e9a63",
-   "kind": "headline",
-   "title": "הצלילה מהשיא לא עוצרת אותה: חברת השבבים הישראלית שרוכבת על טירוף ה-AI עם \"נראות היסטורית\"",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001562015#utm_source=RSS",
-   "topic": "econ",
-   "published": "2026-11-04T12:12:00.000Z",
-   "summary": "קמטק מסכמת את הרבעון השלישי עם הכנסות של 161 מיליון דולר ורווח שעמד בתחזיות האנליסטים • למרות שהמניה איבדה 46% מאז חודש מאי על רקע החולשה הכללית בענף, החברה מאשררת את תחזיות הצמיחה האגרסיביות ל-2026 ול-2027 • המנכ\"ל רפי עמית: \"נהנים מהגידול המהיר בביקוש לבינה מלאכותית, לראשונה בתולדותינו יש לנו…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1599015122/old/171550.jpg",
-   "score": 3,
-   "alsoIn": [],
-   "important": true
-  },
-  {
-   "id": "73a28745a2cf",
-   "kind": "headline",
-   "title": "החוזים בוול סטריט מזנקים בעוד שהדולר ממשיך לשלם את מחיר הבחירות",
-   "source": "גלובס",
-   "url": "https://www.globes.co.il/news/article.aspx?did=1001561829#utm_source=RSS",
-   "topic": "research",
-   "published": "2026-11-04T12:08:00.000Z",
-   "summary": "החוזים בוול סטריט התאוששו מהירידות החדות אחרי הסוויפ הדמוקרטי, כשהמשקיעים רואים בבחירות \"אירוע מנקה\" • מכה לסקטור ה-AI ולחברות של אילון מאסק • טאבולה רושמת ירידות בטרום המסחר לאחר הפחתת תחזיות • הדולר נחלש והזהב חזר מעל 4,000 דולר • הבנקים מובילים את העליות באירופה, ומניית נובו נורדיסק מזנקת אחרי…",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1663249694/direct/chenyu-guan-EY-NsTRYY8A-unsplash_vi0l5w.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
