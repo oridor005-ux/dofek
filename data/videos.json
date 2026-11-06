@@ -1,115 +1,6 @@
 {
  "items": [
   {
-   "id": "7694266042150898962",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694266042150898962",
-   "caption": "בית הדין הצבאי גזר פה אחד מאסר עולם על המחבל שהרג את סמ\"ר עמית בן יגא...",
-   "posted": "1791462000",
-   "found": "2026-10-08T12:33:47Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694270219207937281",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694270219207937281",
-   "caption": "שימו לב⚠️🍨 ריקול לגלידה הפופולרית: בעקבות תלונה של צרכן על הימצאות גו...",
-   "posted": "1791464400",
-   "found": "2026-10-08T13:04:25Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694278576484420865",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7694278576484420865",
-   "caption": "יצאנו לחפש קפה ומצאנו מילואימניקים חתיכים ☕️🫡",
-   "posted": "1791463839",
-   "found": "2026-10-08T13:05:14Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694278576484420865.txt"
-  },
-  {
-   "id": "7694285543974128904",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694285543974128904",
-   "caption": "בעקבות מחאת הפלג הירושלמי נגד מעצר עריקים חרדים, כביש 4 נחסם בשני הכי...",
-   "posted": "1791465460",
-   "found": "2026-10-08T13:19:26Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694283284771130632",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694283284771130632",
-   "caption": "\"להאשים את ישראל זה כמו לגנות את ארה\"ב על ה-11 בספטמבר\". שגריר ארה\"ב ...",
-   "posted": "1791464938",
-   "found": "2026-10-08T13:19:59Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694283284771130632.txt"
-  },
-  {
-   "id": "7694288641392200968",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694288641392200968",
-   "caption": "שלוש שנים אחרי - צה״ל משיק את תהליך הענקת הצל״שים והעיטורים על קרבות ...",
-   "posted": "1791466182",
-   "found": "2026-10-08T13:34:22Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694287114317597973",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7694287114317597973",
-   "caption": "19 ימים לבחירות ואנשים עדיין לא מבינים מה זה ממשלה ״צרה״ 🗳️🤔 #מתחתלרד...",
-   "posted": "1791465825",
-   "found": "2026-10-08T13:35:22Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694287114317597973.txt",
-   "insightIds": [
-    "ins-2026-10-10-mr61"
-   ]
-  },
-  {
-   "id": "7694292640757599496",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694292640757599496",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791467116",
-   "found": "2026-10-08T13:49:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694292640757599496.txt"
-  },
-  {
-   "id": "7694276272742010130",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694276272742010130",
-   "caption": "כל החיים מצביעים למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 19 ימים...",
-   "posted": "1791468000",
-   "found": "2026-10-08T14:05:44Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694276272742010130.txt"
-  },
-  {
-   "id": "7694293588536069384",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694293588536069384",
-   "caption": "לקול תשואות המפגינים: \"מתבייש שהתגייסתי, המדינה לא שווה את זה\" במהלך ...",
-   "posted": "1791467334",
-   "found": "2026-10-08T14:06:30Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694293588536069384.txt"
-  },
-  {
    "id": "7694300654575127829",
    "channel": "m_laradar",
    "name": "m_laradar",
@@ -4648,10 +4539,117 @@
    "found": "2026-11-05T13:25:52Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7704599247777254663.txt"
+  },
+  {
+   "id": "7704729910589328647",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7704729910589328647",
+   "caption": "גניבת הבחירות - סיפור בהמשכים #בחירות #פוליטיקה ",
+   "posted": "1793897229",
+   "found": "2026-11-06T13:04:57Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704729910589328647.txt"
+  },
+  {
+   "id": "7704765121381420309",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7704765121381420309",
+   "caption": "ראיתם עוד פייקים שהופצו ברשת סביב הבחירות? בתגובות👇 #מהצדהשני #פייקני...",
+   "posted": "1793905428",
+   "found": "2026-11-06T13:05:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704765121381420309.txt"
+  },
+  {
+   "id": "7705014090816638229",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7705014090816638229",
+   "caption": "הקיטוב מת, הדמוקרטיה ניצחה | חיים לוינסון מה שקרה השבוע בארצות הברית ...",
+   "posted": "1793963395",
+   "found": "2026-11-06T13:06:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705014090816638229.txt"
+  },
+  {
+   "id": "7704985694770334996",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704985694770334996",
+   "caption": "אנחנו על הקצה | עמיחי אתאלי קמפיין \"זיוף הבחירות\" של נתניהו ואוהדיו ה...",
+   "posted": "1793956786",
+   "found": "2026-11-06T13:06:41Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7704973799883541761",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7704973799883541761",
+   "caption": "מסר חד מריאד: עם הממשלה הנוכחית, הסכם נורמליזציה עם סעודיה לא על הפרק...",
+   "posted": "1793954014",
+   "found": "2026-11-06T13:06:48Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7704718468964224274",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7704718468964224274",
+   "caption": "הרפובליקנים הפסידו. ולא, זה לא בגלל ישראל. 🇺🇸",
+   "posted": "1793894566",
+   "found": "2026-11-06T13:07:47Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704718468964224274.txt"
+  },
+  {
+   "id": "7705017876004048134",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7705017876004048134",
+   "caption": "גנבו את הבחירות?!",
+   "posted": "1793964277",
+   "found": "2026-11-06T13:08:32Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705017876004048134.txt"
+  },
+  {
+   "id": "7704993507705883922",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704993507705883922",
+   "caption": "הבושה מתה",
+   "posted": "1793958605",
+   "found": "2026-11-06T13:08:40Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7704992930397818120",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704992930397818120",
+   "caption": "בושה! בושה! בושה!",
+   "posted": "1793958477",
+   "found": "2026-11-06T13:09:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704992930397818120.txt"
+  },
+  {
+   "id": "7704983013330816274",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7704983013330816274",
+   "caption": "אצל ליברמן מילה זאת מילה",
+   "posted": "1793956161",
+   "found": "2026-11-06T13:09:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7704983013330816274.txt"
   }
  ],
  "health": {
-  "at": "2026-11-05T13:26:08Z",
+  "at": "2026-11-06T13:09:56Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
