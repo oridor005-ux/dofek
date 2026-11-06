@@ -4542,8 +4542,11 @@
    "caption": "ממשלת אחדות, גרסת נתניהו #פוליטיקה #בחירות #עושיםסדר ",
    "posted": "1793805786",
    "found": "2026-11-05T13:21:12Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704337166565952775.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704337166565952775.txt",
+   "insightIds": [
+    "ins-2026-11-06-d4n1"
+   ]
   },
   {
    "id": "7704674647777873159",
@@ -4563,7 +4566,7 @@
    "caption": "מנסור עבאס בבית הנשיא: רע”ם תומכת בתוכנית טראמפ בעזה ובפירוק חמאס מנש...",
    "posted": "1793878535",
    "found": "2026-11-05T13:21:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704649626208537877.txt"
   },
   {
@@ -4574,7 +4577,7 @@
    "caption": "בגיל 41 ואחרי 23 שנה במדים הלאומיים, כריסטיאנו רונאלדו הודיע היום סופ...",
    "posted": "1793875978",
    "found": "2026-11-05T13:21:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704638635668360468.txt"
   },
   {
@@ -4585,7 +4588,7 @@
    "caption": "תשלחו את זה לחבר שחולה ולסבתא המרוקאית שלכם ואל תגידו להם מי זה מי 😷 ...",
    "posted": "1793806264",
    "found": "2026-11-05T13:22:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704339209498250516.txt"
   },
   {
@@ -4596,7 +4599,7 @@
    "caption": "חפשו בספוטיפי וביוטיוב ״חילופי דורות עם הדר מוכתר וגיא לוי״ #שתפו ",
    "posted": "1793878657",
    "found": "2026-11-05T13:22:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704650133656505618.txt"
   },
   {
@@ -4607,7 +4610,7 @@
    "caption": "חפשו בספוטיפי וביוטיוב ״חילופי דורות עם הדר מוכתר וגיא לוי״",
    "posted": "1793878006",
    "found": "2026-11-05T13:23:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704647333929143559.txt"
   },
   {
@@ -4618,8 +4621,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1793873836",
    "found": "2026-11-05T13:23:30Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704629438561914119.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704629438561914119.txt",
+   "insightIds": [
+    "ins-2026-11-06-h7m2"
+   ]
   },
   {
    "id": "7704615100912815368",
@@ -4629,7 +4635,7 @@
    "caption": "בן, אני מפרק את הטיעונים שלך וזה כל הסיפור ",
    "posted": "1793870503",
    "found": "2026-11-05T13:25:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704615100912815368.txt"
   },
   {
@@ -4640,7 +4646,7 @@
    "caption": "",
    "posted": "1793866811",
    "found": "2026-11-05T13:25:52Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704599247777254663.txt"
   }
  ],
