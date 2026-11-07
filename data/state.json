@@ -553,7 +553,7 @@
   "811dc7706790"
  ],
  "pending": [],
- "lastRun": "2026-11-07T11:24:48.260Z",
+ "lastRun": "2026-11-07T11:36:57.044Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -580,7 +580,7 @@
    },
    "at": "2026-11-07T11:24:48.260Z"
   },
-  "lastNewItemAt": "2026-11-07T11:24:48.260Z",
+  "lastNewItemAt": "2026-11-07T11:36:57.044Z",
   "lastPushOkAt": "2026-11-07T11:24:48.260Z",
   "googleOkAt": "2026-11-07T11:24:48.260Z"
  },
