@@ -4548,8 +4548,11 @@
    "caption": "גניבת הבחירות - סיפור בהמשכים #בחירות #פוליטיקה ",
    "posted": "1793897229",
    "found": "2026-11-06T13:04:57Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704729910589328647.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704729910589328647.txt",
+   "insightIds": [
+    "ins-2026-11-07-ad01"
+   ]
   },
   {
    "id": "7704765121381420309",
@@ -4559,8 +4562,11 @@
    "caption": "ראיתם עוד פייקים שהופצו ברשת סביב הבחירות? בתגובות👇 #מהצדהשני #פייקני...",
    "posted": "1793905428",
    "found": "2026-11-06T13:05:58Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704765121381420309.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704765121381420309.txt",
+   "insightIds": [
+    "ins-2026-11-07-gz01"
+   ]
   },
   {
    "id": "7705014090816638229",
@@ -4570,8 +4576,9 @@
    "caption": "הקיטוב מת, הדמוקרטיה ניצחה | חיים לוינסון מה שקרה השבוע בארצות הברית ...",
    "posted": "1793963395",
    "found": "2026-11-06T13:06:34Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705014090816638229.txt"
+   "status": "no-claims",
+   "transcript": "data/transcripts/tt-7705014090816638229.txt",
+   "note": "התמלול האוטומטי נכשל (חזרה על הברה אחת), ולכן אין טקסט לבדיקה"
   },
   {
    "id": "7704985694770334996",
@@ -4601,8 +4608,11 @@
    "caption": "הרפובליקנים הפסידו. ולא, זה לא בגלל ישראל. 🇺🇸",
    "posted": "1793894566",
    "found": "2026-11-06T13:07:47Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704718468964224274.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704718468964224274.txt",
+   "insightIds": [
+    "ins-2026-11-07-lb01"
+   ]
   },
   {
    "id": "7705017876004048134",
@@ -4612,8 +4622,11 @@
    "caption": "גנבו את הבחירות?!",
    "posted": "1793964277",
    "found": "2026-11-06T13:08:32Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705017876004048134.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705017876004048134.txt",
+   "insightIds": [
+    "ins-2026-11-07-ml01"
+   ]
   },
   {
    "id": "7704993507705883922",
@@ -4633,8 +4646,11 @@
    "caption": "בושה! בושה! בושה!",
    "posted": "1793958477",
    "found": "2026-11-06T13:09:24Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704992930397818120.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704992930397818120.txt",
+   "insightIds": [
+    "ins-2026-11-07-hm01"
+   ]
   },
   {
    "id": "7704983013330816274",
@@ -4644,8 +4660,11 @@
    "caption": "אצל ליברמן מילה זאת מילה",
    "posted": "1793956161",
    "found": "2026-11-06T13:09:39Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704983013330816274.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704983013330816274.txt",
+   "insightIds": [
+    "ins-2026-11-07-hm01"
+   ]
   }
  ],
  "health": {
