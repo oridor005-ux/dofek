@@ -4560,7 +4560,7 @@
    "caption": "",
    "posted": "1793963724",
    "found": "2026-11-07T11:49:21Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705015469408931090.txt"
   },
   {
@@ -4571,8 +4571,11 @@
    "caption": "",
    "posted": "1793962681",
    "found": "2026-11-07T11:49:49Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705010977846152455.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705010977846152455.txt",
+   "insightIds": [
+    "ins-2026-11-08-kk3p"
+   ]
   },
   {
    "id": "7704992064328617224",
@@ -4582,7 +4585,7 @@
    "caption": "כמה הזהרתי אתכם מהשקר הזה, כמה התרענו בפניכם שעושים עליכם קמפיין נבזי...",
    "posted": "1793958268",
    "found": "2026-11-07T11:50:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704992064328617224.txt"
   },
   {
@@ -4593,8 +4596,11 @@
    "caption": "\"אנחנו לא בוחרים בין הטוב לטוב יותר, אלא בין הרע לרע במיעוטו\" 👇 ח\"כ א...",
    "posted": "1793895183",
    "found": "2026-11-07T11:51:29Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7704721123862252852.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7704721123862252852.txt",
+   "insightIds": [
+    "ins-2026-11-08-jl11"
+   ]
   },
   {
    "id": "7704704339947867398",
@@ -4604,7 +4610,7 @@
    "caption": "\"עסקים פה יקרסו ו-2027 תימחק אם לא נשקיע בעצמנו\" 🛍️ 🇮🇱 יו\"ר פורום העצ...",
    "posted": "1793891275",
    "found": "2026-11-07T11:52:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704704339947867398.txt"
   },
   {
@@ -4615,7 +4621,7 @@
    "caption": "\"אל תהיו יהודי מחמד של האיש הזה\" 👇 ח\"כ טלי גוטליב מגיבה לדבריו של מנס...",
    "posted": "1793889297",
    "found": "2026-11-07T11:53:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7704695846918540564.txt"
   },
   {
@@ -4626,7 +4632,7 @@
    "caption": "איילה חסון מגיבה בריאיון לרדיו גלי ישראל לעימות עם כאן 11, ולא מצליחה...",
    "posted": "1793960547",
    "found": "2026-11-07T11:54:09Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705001859643182356.txt"
   },
   {
