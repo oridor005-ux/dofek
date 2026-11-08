@@ -1,115 +1,6 @@
 {
  "items": [
   {
-   "id": "7694316227803548948",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7694316227803548948",
-   "caption": "ליאם התעורר מקומה של עשרה ימים.- וזה הסיפור שלו #צהל #מלחמה #צפון ",
-   "posted": "1791472606",
-   "found": "2026-10-08T15:21:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694316227803548948.txt"
-  },
-  {
-   "id": "7694316519127256328",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694316519127256328",
-   "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
-   "posted": "1791472673",
-   "found": "2026-10-08T15:21:16Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694316519127256328.txt"
-  },
-  {
-   "id": "7694315754497330450",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694315754497330450",
-   "caption": "❤️💙",
-   "posted": "1791472498",
-   "found": "2026-10-08T15:21:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694315754497330450.txt"
-  },
-  {
-   "id": "7694314927422442772",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694314927422442772",
-   "caption": "",
-   "posted": "1791472305",
-   "found": "2026-10-08T15:21:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694314927422442772.txt"
-  },
-  {
-   "id": "7694308242108714258",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694308242108714258",
-   "caption": "שעה בלבד לאחר תחילת המחאה: עימותים אלימים וכאוס מתרחש בירושלים משאית ...",
-   "posted": "1791473400",
-   "found": "2026-10-08T15:35:54Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694308242108714258.txt"
-  },
-  {
-   "id": "7694317526435499272",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694317526435499272",
-   "caption": "שתפו !! #פוריו #בשבילך #ימין #שמאל ",
-   "posted": "1791472908",
-   "found": "2026-10-08T15:36:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694317526435499272.txt"
-  },
-  {
-   "id": "7694319516444069140",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7694319516444069140",
-   "caption": "״ב-88' ש\"ס הייתה מפלגה חזקה, והקואליציה הייתה תלויה בה״ עשור למותו של...",
-   "posted": "1791473370",
-   "found": "2026-10-08T15:36:53Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694319516444069140.txt"
-  },
-  {
-   "id": "7694321026167049492",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7694321026167049492",
-   "caption": "יובל נפצע אנושות בשבעה באוקטובר - וזה הסיפור שלו #צהל #מלחמה #חיילים ",
-   "posted": "1791473726",
-   "found": "2026-10-08T15:52:17Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694321026167049492.txt"
-  },
-  {
-   "id": "7694324768824118536",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694324768824118536",
-   "caption": "נשיא המדינה העניק את אות הגבורה האזרחית לששת הנוסעים שסיכלו את ניסיון...",
-   "posted": "1791474595",
-   "found": "2026-10-08T15:52:34Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694320325223353608",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694320325223353608",
-   "caption": "המפגש עם הזיכרון | עמיחי אתאלי כשהמילואים בחקירות המחבלים הציפו את טר...",
-   "posted": "1791475200",
-   "found": "2026-10-08T16:06:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694320325223353608.txt"
-  },
-  {
    "id": "7694326739270388999",
    "channel": "n12news",
    "name": "n12news",
@@ -4664,10 +4555,118 @@
    "posted": "1794045322",
    "found": "2026-11-07T11:54:28Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7705496103503826197",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7705496103503826197",
+   "caption": "צפו: בנימין נתניהו בעימות טלוויזיוני סוער (עם עצמו) #מהצדהשני #בחירות...",
+   "posted": "1794075625",
+   "found": "2026-11-08T12:01:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705496103503826197.txt"
+  },
+  {
+   "id": "7705755484740914453",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7705755484740914453",
+   "caption": "כתב התביעה נוסח בעברית ותורגם לפרסית: בת ים דורשת מאיראן לשלם: העיריי...",
+   "posted": "1794136013",
+   "found": "2026-11-08T12:02:10Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7705745204275367188",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7705745204275367188",
+   "caption": "אי פעם תהיתם איך מערכת היחסים שלכם נראית מהצד? 👀 תכירו את ברנדון. Wha...",
+   "posted": "1794133621",
+   "found": "2026-11-08T12:02:32Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7705723784111852821",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7705723784111852821",
+   "caption": "‎פני הרוע: העיתונאי יוסי אלי הגיע להתעמת עם שלוש הנאשמות בפרשת ההתעלל...",
+   "posted": "1794128636",
+   "found": "2026-11-08T12:03:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705723784111852821.txt"
+  },
+  {
+   "id": "7705548680287292679",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7705548680287292679",
+   "caption": "הכי מדויק ",
+   "posted": "1794087875",
+   "found": "2026-11-08T12:03:31Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705548680287292679.txt"
+  },
+  {
+   "id": "7705542547480857864",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7705542547480857864",
+   "caption": "הזיה",
+   "posted": "1794086447",
+   "found": "2026-11-08T12:05:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705542547480857864.txt"
+  },
+  {
+   "id": "7705537510352440584",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7705537510352440584",
+   "caption": "שקרנים",
+   "posted": "1794085274",
+   "found": "2026-11-08T12:05:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705537510352440584.txt"
+  },
+  {
+   "id": "7705753593265114376",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7705753593265114376",
+   "caption": "",
+   "posted": "1794135578",
+   "found": "2026-11-08T12:06:25Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705753593265114376.txt"
+  },
+  {
+   "id": "7705677997910625544",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7705677997910625544",
+   "caption": "נתניהו, בשונה מהם, לא רימה את בוחריו שלו כמו שבנט ליברמן ואייזנקוט מס...",
+   "posted": "1794117988",
+   "found": "2026-11-08T12:08:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705677997910625544.txt"
+  },
+  {
+   "id": "7705523277573147924",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7705523277573147924",
+   "caption": "זה היה קל",
+   "posted": "1794081950",
+   "found": "2026-11-08T12:09:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705523277573147924.txt"
   }
  ],
  "health": {
-  "at": "2026-11-07T11:54:38Z",
+  "at": "2026-11-08T12:09:30Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
