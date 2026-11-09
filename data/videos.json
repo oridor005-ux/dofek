@@ -1,121 +1,6 @@
 {
  "items": [
   {
-   "id": "7694326739270388999",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694326739270388999",
-   "caption": "סרטון שהעלה טייס \"איג'יפטאייר\", בו תיעד את מטוסו מתקרב למטוס אל על במ...",
-   "posted": "1791475054",
-   "found": "2026-10-08T16:07:09Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694326739270388999.txt"
-  },
-  {
-   "id": "7694325884907441414",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7694325884907441414",
-   "caption": "להילחם למען ישראל בזירת ההסברה זו משימת חיי עד יומי האחרון!",
-   "posted": "1791474854",
-   "found": "2026-10-08T16:07:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694325884907441414.txt"
-  },
-  {
-   "id": "7694332306969922868",
-   "channel": "idaneretz",
-   "name": "idaneretz",
-   "url": "https://www.tiktok.com/@idaneretz/video/7694332306969922868",
-   "caption": "מי שלא לומר תורה יתגייס",
-   "posted": "1791476393",
-   "found": "2026-10-08T16:22:07Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694332306969922868.txt",
-   "insightIds": [
-    "ins-2026-10-10-nt34"
-   ]
-  },
-  {
-   "id": "7694331347325816084",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694331347325816084",
-   "caption": "גם במטה משפחות החטופים לקח זמן להבין שכדי להשיג את המטרה המשותפת חייב...",
-   "posted": "1791476125",
-   "found": "2026-10-08T16:22:40Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694331347325816084.txt"
-  },
-  {
-   "id": "7694330341397449992",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7694330341397449992",
-   "caption": "עובדים על השריר הימני 💪",
-   "posted": "1791475894",
-   "found": "2026-10-08T16:23:11Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694330341397449992.txt"
-  },
-  {
-   "id": "7694335820823530760",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694335820823530760",
-   "caption": "שתפו. לא לשכוח במי הם תומכים #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791477171",
-   "found": "2026-10-08T16:37:50Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694335820823530760.txt"
-  },
-  {
-   "id": "7694335516824653064",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694335516824653064",
-   "caption": "ראש מערך ההסברה הלאומי במשרד ראש הממשלה, ציפי חוטובלי, העניקה היום (ח...",
-   "posted": "1791477099",
-   "found": "2026-10-08T16:38:06Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694340635377044757",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694340635377044757",
-   "caption": "איומים על קבר בנו שנפל בעזה: החשיפה המטלטלת של איזנקוט בריאיון ל״ידיע...",
-   "posted": "1791478290",
-   "found": "2026-10-08T17:07:17Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694340635377044757.txt"
-  },
-  {
-   "id": "7694343573088554241",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694343573088554241",
-   "caption": "תשע שנים הם היו בלתי נפרדים. גדלו יחד בירושלים, שיחקו כדורגל, דיברו ב...",
-   "posted": "1791478974",
-   "found": "2026-10-08T17:23:12Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694343573088554241.txt"
-  },
-  {
-   "id": "7694346286610255111",
-   "channel": "lusil_blek",
-   "name": "lusil_blek",
-   "url": "https://www.tiktok.com/@lusil_blek/video/7694346286610255111",
-   "caption": "פרק שביעי: מפלגת ״עמך ישראל״ בראשות עופר וינטר. האם אתם מצביעים למפלג...",
-   "posted": "1791479604",
-   "found": "2026-10-08T17:25:24Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694346286610255111.txt",
-   "insightIds": [
-    "ins-2026-10-10-wn56"
-   ]
-  },
-  {
    "id": "7694350386445962516",
    "channel": "knessettv",
    "name": "knessettv",
@@ -4666,10 +4551,118 @@
    "found": "2026-11-08T12:09:11Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7705523277573147924.txt"
+  },
+  {
+   "id": "7705816879071350023",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7705816879071350023",
+   "caption": "ביבי תציל אותנו #אחדות #פוליטיקה ",
+   "posted": "1794150313",
+   "found": "2026-11-09T14:04:57Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705816879071350023.txt"
+  },
+  {
+   "id": "7705863431110397202",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7705863431110397202",
+   "caption": "חמישה דברים למשא ומתן הקואליציוני#כלכלה #כלכלה_בטיקטוק #צהל #בחירות #...",
+   "posted": "1794161153",
+   "found": "2026-11-09T14:06:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705863431110397202.txt"
+  },
+  {
+   "id": "7705843750437719304",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7705843750437719304",
+   "caption": "אז מה מקימים ממשלה עם החרדים?",
+   "posted": "1794156573",
+   "found": "2026-11-09T14:07:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705843750437719304.txt"
+  },
+  {
+   "id": "7706164996404759860",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7706164996404759860",
+   "caption": "בתפילות חג הסיגד: תפילה המונית בארמון הנציב למען היימנוט קסאו ​במהלך ...",
+   "posted": "1794231364",
+   "found": "2026-11-09T14:07:34Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706164996404759860.txt"
+  },
+  {
+   "id": "7706162438412012818",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7706162438412012818",
+   "caption": "​״הכי טוב שתבואי עירומה״: פרופסור בן 80 באוניברסיטת תל אביב הורשע בהט...",
+   "posted": "1794230770",
+   "found": "2026-11-09T14:07:35Z",
+   "status": "failed"
+  },
+  {
+   "id": "7706136034551024917",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7706136034551024917",
+   "caption": "סערה בסרי לנקה: תייר ישראלי תועד דוחף מדריך מקומי מסירה למים תיעוד שה...",
+   "posted": "1794224617",
+   "found": "2026-11-09T14:07:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706136034551024917.txt"
+  },
+  {
+   "id": "7706119228646034706",
+   "channel": "lusil_blek",
+   "name": "lusil_blek",
+   "url": "https://www.tiktok.com/@lusil_blek/video/7706119228646034706",
+   "caption": "",
+   "posted": "1794220709",
+   "found": "2026-11-09T14:08:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706119228646034706.txt"
+  },
+  {
+   "id": "7705842262265171220",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7705842262265171220",
+   "caption": "לאיזנקוט יש 28 ימים ו-5 אפשרות להקים ממשלה - ול- @Ariel Arbel ‬‬יש 90...",
+   "posted": "1794156220",
+   "found": "2026-11-09T14:08:58Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705842262265171220.txt"
+  },
+  {
+   "id": "7706136282295979282",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7706136282295979282",
+   "caption": "#פוריו #בשבילך #ימין #שמאל",
+   "posted": "1794224678",
+   "found": "2026-11-09T14:09:13Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7706130191793294610",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7706130191793294610",
+   "caption": "אני נהנת ",
+   "posted": "1794223266",
+   "found": "2026-11-09T14:09:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706130191793294610.txt"
   }
  ],
  "health": {
-  "at": "2026-11-08T12:09:30Z",
+  "at": "2026-11-09T14:09:49Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
