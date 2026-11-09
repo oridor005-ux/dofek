@@ -4564,8 +4564,11 @@
    "caption": "צפו: בנימין נתניהו בעימות טלוויזיוני סוער (עם עצמו) #מהצדהשני #בחירות...",
    "posted": "1794075625",
    "found": "2026-11-08T12:01:53Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705496103503826197.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705496103503826197.txt",
+   "insightIds": [
+    "ins-2026-11-09-gz01"
+   ]
   },
   {
    "id": "7705755484740914453",
@@ -4595,7 +4598,7 @@
    "caption": "‎פני הרוע: העיתונאי יוסי אלי הגיע להתעמת עם שלוש הנאשמות בפרשת ההתעלל...",
    "posted": "1794128636",
    "found": "2026-11-08T12:03:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705723784111852821.txt"
   },
   {
@@ -4606,7 +4609,7 @@
    "caption": "הכי מדויק ",
    "posted": "1794087875",
    "found": "2026-11-08T12:03:31Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705548680287292679.txt"
   },
   {
@@ -4617,7 +4620,7 @@
    "caption": "הזיה",
    "posted": "1794086447",
    "found": "2026-11-08T12:05:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705542547480857864.txt"
   },
   {
@@ -4628,7 +4631,7 @@
    "caption": "שקרנים",
    "posted": "1794085274",
    "found": "2026-11-08T12:05:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705537510352440584.txt"
   },
   {
@@ -4639,7 +4642,7 @@
    "caption": "",
    "posted": "1794135578",
    "found": "2026-11-08T12:06:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705753593265114376.txt"
   },
   {
@@ -4650,7 +4653,7 @@
    "caption": "נתניהו, בשונה מהם, לא רימה את בוחריו שלו כמו שבנט ליברמן ואייזנקוט מס...",
    "posted": "1794117988",
    "found": "2026-11-08T12:08:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705677997910625544.txt"
   },
   {
@@ -4661,7 +4664,7 @@
    "caption": "זה היה קל",
    "posted": "1794081950",
    "found": "2026-11-08T12:09:11Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7705523277573147924.txt"
   }
  ],
