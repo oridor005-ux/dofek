@@ -4560,8 +4560,11 @@
    "caption": "ביבי תציל אותנו #אחדות #פוליטיקה ",
    "posted": "1794150313",
    "found": "2026-11-09T14:04:57Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705816879071350023.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705816879071350023.txt",
+   "insightIds": [
+    "ins-2026-11-10-gv28"
+   ]
   },
   {
    "id": "7705863431110397202",
@@ -4571,8 +4574,11 @@
    "caption": "חמישה דברים למשא ומתן הקואליציוני#כלכלה #כלכלה_בטיקטוק #צהל #בחירות #...",
    "posted": "1794161153",
    "found": "2026-11-09T14:06:17Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705863431110397202.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705863431110397202.txt",
+   "insightIds": [
+    "ins-2026-11-10-mr41"
+   ]
   },
   {
    "id": "7705843750437719304",
@@ -4582,8 +4588,11 @@
    "caption": "אז מה מקימים ממשלה עם החרדים?",
    "posted": "1794156573",
    "found": "2026-11-09T14:07:10Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705843750437719304.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705843750437719304.txt",
+   "insightIds": [
+    "ins-2026-11-10-gv28"
+   ]
   },
   {
    "id": "7706164996404759860",
@@ -4593,7 +4602,7 @@
    "caption": "בתפילות חג הסיגד: תפילה המונית בארמון הנציב למען היימנוט קסאו ​במהלך ...",
    "posted": "1794231364",
    "found": "2026-11-09T14:07:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706164996404759860.txt"
   },
   {
@@ -4614,7 +4623,7 @@
    "caption": "סערה בסרי לנקה: תייר ישראלי תועד דוחף מדריך מקומי מסירה למים תיעוד שה...",
    "posted": "1794224617",
    "found": "2026-11-09T14:07:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706136034551024917.txt"
   },
   {
@@ -4625,7 +4634,7 @@
    "caption": "",
    "posted": "1794220709",
    "found": "2026-11-09T14:08:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706119228646034706.txt"
   },
   {
@@ -4636,8 +4645,11 @@
    "caption": "לאיזנקוט יש 28 ימים ו-5 אפשרות להקים ממשלה - ול- @Ariel Arbel ‬‬יש 90...",
    "posted": "1794156220",
    "found": "2026-11-09T14:08:58Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705842262265171220.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705842262265171220.txt",
+   "insightIds": [
+    "ins-2026-11-10-gv28"
+   ]
   },
   {
    "id": "7706136282295979282",
@@ -4657,7 +4669,7 @@
    "caption": "אני נהנת ",
    "posted": "1794223266",
    "found": "2026-11-09T14:09:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706130191793294610.txt"
   }
  ],
