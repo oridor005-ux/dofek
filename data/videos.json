@@ -1,121 +1,6 @@
 {
  "items": [
   {
-   "id": "7694350386445962516",
-   "channel": "knessettv",
-   "name": "knessettv",
-   "url": "https://www.tiktok.com/@knessettv/video/7694350386445962516",
-   "caption": "\"האם יש לי זכות להיות חרדי? על זה מערכת הבחירות\"👇 ח\"כ פינדרוס משיב לא...",
-   "posted": "1791480558",
-   "found": "2026-10-08T17:41:28Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694350386445962516.txt"
-  },
-  {
-   "id": "7694352919696739604",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7694352919696739604",
-   "caption": "ככה המהגרים הקיצונים בשילוב הארגונים הפרוגרסיבים מבעירים את האנטישמיו...",
-   "posted": "1791481150",
-   "found": "2026-10-08T17:42:29Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694352919696739604.txt"
-  },
-  {
-   "id": "7694359224985406728",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694359224985406728",
-   "caption": "חדשות 14 | חשיפה: כך התנהל האלוף אבי גיל המזכיר הצבאי של נתניהו בשעות...",
-   "posted": "1791482617",
-   "found": "2026-10-08T18:06:44Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694359224985406728.txt",
-   "insightIds": [
-    "ins-2026-10-10-gil7"
-   ]
-  },
-  {
-   "id": "7694362515119148296",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694362515119148296",
-   "caption": "הותר לפרסום: סרן אליאב חיים צפלמוס, בן 21 מחיפה, קצין לוחם בגדוד 603 ...",
-   "posted": "1791483385",
-   "found": "2026-10-08T18:25:01Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694363041730727186",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694363041730727186",
-   "caption": "אלוף במיל' אבי גיל, שהיה מזכירו הצבאי של נתניהו בבוקר הטבח, מדבר לראש...",
-   "posted": "1791483511",
-   "found": "2026-10-08T18:26:11Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694363041730727186.txt",
-   "insightIds": [
-    "ins-2026-10-10-gil7"
-   ]
-  },
-  {
-   "id": "7694366150204951828",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694366150204951828",
-   "caption": "שובר את הלב: הותר לפרסום שמו של סרן אליאב חיים צפלמוס, שנפל בקרב בדרו...",
-   "posted": "1791484229",
-   "found": "2026-10-08T18:40:03Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694366150204951828.txt"
-  },
-  {
-   "id": "7694366328882302226",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694366328882302226",
-   "caption": "שתפו!!! #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791484273",
-   "found": "2026-10-08T18:40:28Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694366328882302226.txt"
-  },
-  {
-   "id": "7694373458628578567",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694373458628578567",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791485936",
-   "found": "2026-10-08T19:12:49Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694373458628578567.txt"
-  },
-  {
-   "id": "7694376147555077396",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7694376147555077396",
-   "caption": "הגיע הזמן שלא נלך יותר לפי הנרטיב שלהם ולא נתנצל יותר- זה לא הגדה המע...",
-   "posted": "1791486562",
-   "found": "2026-10-08T19:13:34Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694376147555077396.txt"
-  },
-  {
-   "id": "7694376895114186002",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694376895114186002",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791486734",
-   "found": "2026-10-08T19:27:20Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694376895114186002.txt"
-  },
-  {
    "id": "7694378135827057928",
    "channel": "c14news",
    "name": "c14news",
@@ -4671,10 +4556,117 @@
    "found": "2026-11-09T14:09:28Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7706130191793294610.txt"
+  },
+  {
+   "id": "7706238086912560405",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7706238086912560405",
+   "caption": "במקום להשיק שירותים שכבר קיימים, אפשר להתחיל לקיים הבטחות ישנות? @Sha...",
+   "posted": "1794248384",
+   "found": "2026-11-10T13:37:53Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706238086912560405.txt"
+  },
+  {
+   "id": "7706499292550270216",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7706499292550270216",
+   "caption": "לא יודע איזה ממשלה תקום פה - עם ערבים, עם חרדים, עם שניהם, אבל אלה דב...",
+   "posted": "1794309202",
+   "found": "2026-11-10T13:38:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706499292550270216.txt"
+  },
+  {
+   "id": "7706527435717627143",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7706527435717627143",
+   "caption": "המסר שגוש השינוי קיבל ממנסור עבאס: \"אכיר בחמאס כארגון טרור” מנסור עבא...",
+   "posted": "1794315751",
+   "found": "2026-11-10T13:38:48Z",
+   "status": "failed"
+  },
+  {
+   "id": "7706500790793424180",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7706500790793424180",
+   "caption": "לקראת השבעת הכנסת, פצוע צה”ל וחבר הכנסת המיועד אלישע מדן כותב: ‏״היום...",
+   "posted": "1794309553",
+   "found": "2026-11-10T13:39:12Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706500790793424180.txt"
+  },
+  {
+   "id": "7706480959134207233",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7706480959134207233",
+   "caption": "תושב מזרח ירושלים נעצר לאחר שעקב אחרי צעירה בתל אביב, פרץ לביתה - ואנ...",
+   "posted": "1794304931",
+   "found": "2026-11-10T13:39:21Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7706276503226453255",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7706276503226453255",
+   "caption": "פרינס חווה אלימות משוטרים רק בגלל צבע העור שלו. למה זה עדיין קורה?",
+   "posted": "1794257332",
+   "found": "2026-11-10T13:40:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706276503226453255.txt"
+  },
+  {
+   "id": "7706254528676400390",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7706254528676400390",
+   "caption": "",
+   "posted": "1794252213",
+   "found": "2026-11-10T13:40:32Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7706250141975514375",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7706250141975514375",
+   "caption": "ברית משרתים ❤️",
+   "posted": "1794251193",
+   "found": "2026-11-10T13:41:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706250141975514375.txt"
+  },
+  {
+   "id": "7706107196815199495",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7706107196815199495",
+   "caption": "טיפת יושרה אין לבן ",
+   "posted": "1794217912",
+   "found": "2026-11-10T13:46:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706107196815199495.txt"
+  },
+  {
+   "id": "7705895190401158418",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7705895190401158418",
+   "caption": "אחי החרדים, תזכרו - זאת יכולה להיות בכייה לדורות",
+   "posted": "1794168547",
+   "found": "2026-11-10T13:49:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7705895190401158418.txt"
   }
  ],
  "health": {
-  "at": "2026-11-09T14:09:49Z",
+  "at": "2026-11-10T13:50:08Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
