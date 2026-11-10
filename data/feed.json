@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-10T13:09:00.427Z",
+ "updated": "2026-11-10T13:17:26.895Z",
  "items": [
+  {
+   "id": "68d99b8465c8",
+   "kind": "headline",
+   "title": "מגמה מעורבת בחוזים בניו יורק לקראת נתוני האינפלציה הקריטיים",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001562654#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-11-10T13:15:00.000Z",
+   "summary": "החוזים על הנאסד\"ק יורדים בכ-0.4% • באירופה נרשמות עליות שערים נאות בהובלת סקטור הטכנולוגיה • מניית גילת צוללת לאחר חיתוך בתחזית ההכנסות השנתית • הנפקת חברת הבינה המלאכותית Anthropic ממשיכה לרכז עניין רב ומקפיצה את הציפיות בשוק • בכיר בפד מעלה אפשרות להעלאת ריבית של חצי אחוז אם האינפלציה תפתיע לרעה…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1649074197/direct/shutterstock_1355429366_aa64ok.jpg",
+   "score": 4,
+   "alsoIn": [],
+   "important": true
+  },
+  {
+   "id": "3579656fb10e",
+   "kind": "headline",
+   "title": "עם מנכ\"לית בראש: סטארטאפ הסייבר הישראלי שגייס 50 מיליון דולר",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/b1qdvgj0me",
+   "topic": "deals",
+   "published": "2026-11-10T13:13:38.000Z",
+   "summary": "Bay נחשפת תשעה חודשים לאחר שהוקמה כדי למנוע פעולות מסוכנות של סוכני AI בארגונים. בין המשקיעים גם אסף רפפורט. המייסדים: יובל זכריה, ענר מורג ובוריס דנילוביץ'. החברה מעסיקה כ-35 עובדים, רובם בישראל",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/rJEGPw1CGx/rJEGPw1CGx_202_121_1820_1025_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "2002afa041d9",
    "kind": "headline",
@@ -1909,6 +1937,20 @@
    "published": "2026-11-10T03:58:00.000Z",
    "summary": "למרות הביקורת במשק על פגיעה בחברות, הרשות מסיימת את בחינת רפורמת הרווחים הכלואים עם הצעה להעלות את דרישת חלוקת הדיבידנד הכפוי מ־6% ל־8% • המהלך צפוי להוסיף לקופת המדינה עוד 1־2 מיליארד שקל בשנה, מעבר למיליארדים שכבר נגבו מעל לתחזיות",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794230033/shutterstock_2453572087_nwz6ez.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "786369a2ef34",
+   "kind": "headline",
+   "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+   "topic": "knesset",
+   "published": "2026-11-10T03:55:42.000Z",
+   "summary": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
+   "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
    "score": 2,
    "alsoIn": [],
    "important": false
@@ -5532,6 +5574,20 @@
    "important": false
   },
   {
+   "id": "797f9b471058",
+   "kind": "headline",
+   "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+   "topic": "knesset",
+   "published": "2026-11-08T21:48:22.000Z",
+   "summary": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
+   "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-cpvh/08int-israel-eisenkot-wtk-cpvh-mediumSquareAt3X.jpg",
+   "score": 2,
+   "alsoIn": [],
+   "important": false
+  },
+  {
    "id": "c288899ef7aa",
    "kind": "headline",
    "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
@@ -5570,62 +5626,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "82c16ad69bca",
-   "kind": "headline",
-   "title": "Isaac Herzog Says US Aid Cut Worries Him While JD Vance Blames Israel Partnership for GOP Midterm Wipeout",
-   "source": "inkl",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3ZnQlhTZGtBekFwYVZ5emhObVJ2UFJPREI4Z29MNmNfX2s3bDhpREQ2UmZOOXVGdkU2VExsUlk5ZWxXQjM0QlNRdDJNc3luVXpiUmhTOUxSRW5Fakk4WTJKXzBuajRDLXBzTjcwSHNwSFp2azk0QTJodHN6UExfWDE5c3dxMEZteHJrTGFqNkwyRUQ2SmppTXIzeWNiZUJzR1g1WFFPRGlVdERDcDlfc3FCS21sS2Q4Uno2MXFmX0l6WFZKNEJ6UkdPZw?oc=5",
-   "topic": "defense",
-   "published": "2026-11-08T20:36:41.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "5a4d06376498",
-   "kind": "headline",
-   "title": "הפרלמנט השוודי קבע: הכחשת השואה היא עבירה פלילית שמלווה בעונש מאסר",
-   "source": "אתר החדשות דבר",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YODliWGdRSDBLaEljd1I0cUNtbGRSSk5yaVN3ZGtnWTRLX3VCeEgxSURHdjNqOFVTSkdGR2NfVlZ2dnpMQVV3?oc=5",
-   "topic": "world",
-   "published": "2026-11-08T20:11:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "10b6a960afc6",
-   "kind": "headline",
-   "title": "Accountant wants to see trust tax changes ‘thrown in the bin’",
-   "source": "Accounting Times",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzNVOVd5NENzWm93aE1uemZhTl9hN3RZdzlWMV9xeHJoVDJkQlItU3dIWkF1VDJpMVVWVHZXR0F1NTBpRjYyMUNkOXdsb01yZGg3bUlRNVZST0xWOFFReUJmNjBoWFFZTjdocnJ2eWpKcHFfT0pxN29iNGpQd3p3UE5XbzVDYmpXVGNNbXVxaDVmY3AxdjljMHRKdlJhR3hBMkZKZU1OU08?oc=5",
-   "topic": "world",
-   "published": "2026-11-08T20:04:35.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c814a4b86532",
-   "kind": "headline",
-   "title": "Can Israel’s opposition end the Netanyahu era without agreeing on Palestine?",
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTBwOTBEd0pvMjZxXzQ4S3VTN0ZwT201SGFLR0FYclN0d0NCX2ZaRkhtRVVyNWtWZElETms2UnB1dU9IdF8yR2xYOFVzOWs3YkRseS1KbXk2Ql9VRXpGQ0RPZHNRS3dQc0g1QW9xaTFRUmIydEJ5SUs3dUJJbFhUWHhWZ2x0ZnNUdFhURzM0NWxsM192UUg5QnY5OXRxNU1nT0pTbTd1dk90S2wtczBqT1hKaHc1akEwbEVr?oc=5",
-   "topic": "knesset",
-   "published": "2026-11-08T19:53:53.000Z",
-   "summary": "",
-   "image": "",
-   "score": 2,
    "alsoIn": [],
    "important": false
   }
