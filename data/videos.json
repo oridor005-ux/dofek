@@ -4565,8 +4565,11 @@
    "caption": "במקום להשיק שירותים שכבר קיימים, אפשר להתחיל לקיים הבטחות ישנות? @Sha...",
    "posted": "1794248384",
    "found": "2026-11-10T13:37:53Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7706238086912560405.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7706238086912560405.txt",
+   "insightIds": [
+    "ins-2026-11-11-rl24"
+   ]
   },
   {
    "id": "7706499292550270216",
@@ -4576,7 +4579,7 @@
    "caption": "לא יודע איזה ממשלה תקום פה - עם ערבים, עם חרדים, עם שניהם, אבל אלה דב...",
    "posted": "1794309202",
    "found": "2026-11-10T13:38:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706499292550270216.txt"
   },
   {
@@ -4597,7 +4600,7 @@
    "caption": "לקראת השבעת הכנסת, פצוע צה”ל וחבר הכנסת המיועד אלישע מדן כותב: ‏״היום...",
    "posted": "1794309553",
    "found": "2026-11-10T13:39:12Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706500790793424180.txt"
   },
   {
@@ -4618,7 +4621,7 @@
    "caption": "פרינס חווה אלימות משוטרים רק בגלל צבע העור שלו. למה זה עדיין קורה?",
    "posted": "1794257332",
    "found": "2026-11-10T13:40:15Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706276503226453255.txt"
   },
   {
@@ -4639,7 +4642,7 @@
    "caption": "ברית משרתים ❤️",
    "posted": "1794251193",
    "found": "2026-11-10T13:41:40Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706250141975514375.txt"
   },
   {
@@ -4650,8 +4653,11 @@
    "caption": "טיפת יושרה אין לבן ",
    "posted": "1794217912",
    "found": "2026-11-10T13:46:03Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7706107196815199495.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7706107196815199495.txt",
+   "insightIds": [
+    "ins-2026-11-11-ym12"
+   ]
   },
   {
    "id": "7705895190401158418",
@@ -4661,8 +4667,11 @@
    "caption": "אחי החרדים, תזכרו - זאת יכולה להיות בכייה לדורות",
    "posted": "1794168547",
    "found": "2026-11-10T13:49:50Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7705895190401158418.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7705895190401158418.txt",
+   "insightIds": [
+    "ins-2026-11-11-et18"
+   ]
   }
  ],
  "health": {
