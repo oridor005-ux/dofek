@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:18:55.908Z",
+ "updated": "2026-11-11T12:31:03.623Z",
  "items": [
   {
    "id": "687edc256ef9",
@@ -54,6 +54,20 @@
    "summary": "Voters in Providence, Rhode Island, chose to pull foreign investments from countries that profit from genocide The tectonic blue wave that washed over the country in last week’s midterms also brought about a historic night for the pro-Palestine movement. Up and down the ballot, candidates who…",
    "image": "https://i.guim.co.uk/img/media/738bdcb4905ecadb80c2bd4ced864f480b230661/510_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=c5017a9c6582931ff465409cc5fdbb4d",
    "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "565aba002990",
+   "kind": "headline",
+   "title": "אשטרום במגעים למכור חמישית מפעילות ההשכרה שלה לכלל ביטוח",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001562956#utm_source=RSS",
+   "topic": "deals",
+   "published": "2026-11-11T11:56:00.000Z",
+   "summary": "אשטרום מרחיבה את האסטרטגיה למימוש חלקי של חברת הדיור להשכרה שלה: לצד העסקה מול מגדל, מנהלת ענקית התשתיות והנדל\"ן מגעים למכירת נתח זהה גם לכלל ביטוח • אשטרום מגורים להשכרה מחזיקה בצבר של למעלה מ-3,200 דירות ברחבי הארץ, עם פרויקטי ענק בתל אביב, ירושלים ואור יהודה",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1662988249/direct/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%94%D7%9E%D7%A9%D7%AA%D7%9C%D7%94._%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%A6%D7%99%D7%9C%D7%95%D7%9D-_%D7%90%D7%95%D7%9C_%D7%90%D7%99%D7%9F_nxdite.jpg",
+   "score": 0,
    "alsoIn": [],
    "important": false
   },
@@ -5614,20 +5628,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "4bc1c09bbff4",
-   "kind": "headline",
-   "title": "Trump questions midterm elections integrity after previously accepting results",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-   "topic": "world",
-   "published": "2026-11-09T17:47:29.000Z",
-   "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
