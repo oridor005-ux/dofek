@@ -1,120 +1,6 @@
 {
  "items": [
   {
-   "id": "7694567307191848210",
-   "channel": "roee.lotem",
-   "name": "roee.lotem",
-   "url": "https://www.tiktok.com/@roee.lotem/video/7694567307191848210",
-   "caption": "חטפנו מכות בגלל הדעה שלנו",
-   "posted": "1791531067",
-   "found": "2026-10-09T07:35:03Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694567307191848210.txt",
-   "insightIds": [
-    "ins-2026-10-11-dem1"
-   ]
-  },
-  {
-   "id": "7694566482319002887",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694566482319002887",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791530880",
-   "found": "2026-10-09T07:35:27Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694566482319002887.txt"
-  },
-  {
-   "id": "7694565379493940498",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694565379493940498",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791530616",
-   "found": "2026-10-09T07:35:55Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694565379493940498.txt",
-   "insightIds": [
-    "ins-2026-10-11-abs1"
-   ]
-  },
-  {
-   "id": "7694567902271360277",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694567902271360277",
-   "caption": "1,000 מנהיגים חברי ועידת השגרירים של 'ידידי ישראל' הגיעו למתחם הנובה ...",
-   "posted": "1791531206",
-   "found": "2026-10-09T07:36:06Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694565653000293652",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694565653000293652",
-   "caption": "#ביום הזה ",
-   "posted": "1791530680",
-   "found": "2026-10-09T07:36:11Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694571189842398485",
-   "channel": "amitsegalnews",
-   "name": "amitsegalnews",
-   "url": "https://www.tiktok.com/@amitsegalnews/video/7694571189842398485",
-   "caption": "צפיתי באבינתן אור ב״עובדה״ והתביישתי ביחס שניתן לאמא שלו, דיצה אור. ה...",
-   "posted": "1791531970",
-   "found": "2026-10-09T07:50:15Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694571189842398485.txt"
-  },
-  {
-   "id": "7694571917382044949",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694571917382044949",
-   "caption": "",
-   "posted": "1791532142",
-   "found": "2026-10-09T07:50:58Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694571917382044949.txt"
-  },
-  {
-   "id": "7694578800725724468",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694578800725724468",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791533744",
-   "found": "2026-10-09T08:21:09Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694578800725724468.txt"
-  },
-  {
-   "id": "7694576060394048776",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694576060394048776",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791533102",
-   "found": "2026-10-09T08:21:34Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694576060394048776.txt"
-  },
-  {
-   "id": "7694584961709427989",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7694584961709427989",
-   "caption": "מה דעתכם? #בחירות #ביבי #רקלאביבי #ימין #ישראל ",
-   "posted": "1791535179",
-   "found": "2026-10-09T08:50:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694584961709427989.txt"
-  },
-  {
    "id": "7694584039600147733",
    "channel": "c14news",
    "name": "c14news",
@@ -4669,12 +4555,120 @@
    "found": "2026-11-11T12:56:44Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7706845117604252936.txt"
+  },
+  {
+   "id": "7706919399315229972",
+   "channel": "naftalibennett_official",
+   "name": "naftalibennett_official",
+   "url": "https://www.tiktok.com/@naftalibennett_official/video/7706919399315229972",
+   "caption": "איזו סגירת מעגל מרגשת. את אלישע מדן פגשתי לפני כשנה וחצי, בעיצומו של ...",
+   "posted": "1794407009",
+   "found": "2026-11-12T13:52:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706919399315229972.txt"
+  },
+  {
+   "id": "7707274964524649736",
+   "channel": "idaneretz",
+   "name": "idaneretz",
+   "url": "https://www.tiktok.com/@idaneretz/video/7707274964524649736",
+   "caption": "מס על טיסות #כלכלה #כלכלה_בטיקטוק #מס #טיסה #טיסות",
+   "posted": "1794489797",
+   "found": "2026-11-12T13:53:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707274964524649736.txt"
+  },
+  {
+   "id": "7706979595865804052",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7706979595865804052",
+   "caption": "ריקלין ביקש לעשות חשבון מי חסם כבישים וקרא לסרבנות. עשינו חשבון, יצא ...",
+   "posted": "1794421027",
+   "found": "2026-11-12T13:53:45Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706979595865804052.txt"
+  },
+  {
+   "id": "7707282001447079189",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7707282001447079189",
+   "caption": "בזמן שאמו ממררת בבכי עם תמונתו בבית המשפט: עוד נאשם בפרשת הרצח של בני...",
+   "posted": "1794491433",
+   "found": "2026-11-12T13:54:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707282001447079189.txt"
+  },
+  {
+   "id": "7707273288266878228",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7707273288266878228",
+   "caption": "הלם בחיפה: מורה חילקה לתלמידי כיתה ג' טיפות לא מזוהות – הילדים סבלו מ...",
+   "posted": "1794489405",
+   "found": "2026-11-12T13:54:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707273288266878228.txt"
+  },
+  {
+   "id": "7707239342028197141",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7707239342028197141",
+   "caption": "נס כנגד כל הסיכויים: נער אוסטרלי אותר בחיים לאחר שנעדר שישה ימים בסבך...",
+   "posted": "1794481504",
+   "found": "2026-11-12T13:54:32Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7707041500256881928",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7707041500256881928",
+   "caption": "#פוריו #בשבילך #ימין #שמאל ",
+   "posted": "1794435441",
+   "found": "2026-11-12T13:55:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707041500256881928.txt"
+  },
+  {
+   "id": "7707037815846030599",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7707037815846030599",
+   "caption": "אתה מייצג אולי את בנט כי אתה יותר נוכל ממנו",
+   "posted": "1794434588",
+   "found": "2026-11-12T13:55:16Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7707182148175940882",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7707182148175940882",
+   "caption": "ליברמן, מילה זו מילה 🤡",
+   "posted": "1794468188",
+   "found": "2026-11-12T13:55:49Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707182148175940882.txt"
+  },
+  {
+   "id": "7706644448846957831",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7706644448846957831",
+   "caption": "אין לתאר. גיא פורן, מקדם מחאת הטייסים ויו״ר פורום 555, אומר הערב בפטר...",
+   "posted": "1794343001",
+   "found": "2026-11-12T13:56:37Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7706644448846957831.txt"
   }
  ],
  "health": {
-  "at": "2026-11-11T12:57:03Z",
-  "channelsOk": 22,
-  "channelsFail": 1,
+  "at": "2026-11-12T13:57:03Z",
+  "channelsOk": 21,
+  "channelsFail": 2,
   "transcribed": 10
  }
 }
