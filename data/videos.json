@@ -4564,8 +4564,11 @@
    "caption": "מגילת העצמאות? על מה ולמה? #פוליטיקה #מגילתהעצמאות ",
    "posted": "1794400989",
    "found": "2026-11-11T12:49:53Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7706893529372511496.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7706893529372511496.txt",
+   "insightIds": [
+    "ins-2026-11-12-mgl1"
+   ]
   },
   {
    "id": "7706556757593607432",
@@ -4575,8 +4578,11 @@
    "caption": "ממשלת מיעוט? אחדות? חרדים? ערבים? בואו נעשה סדר✏️✏️ #בחירות #פוליטיקה...",
    "posted": "1794322579",
    "found": "2026-11-11T12:51:21Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7706556757593607432.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7706556757593607432.txt",
+   "insightIds": [
+    "ins-2026-11-12-rc67"
+   ]
   },
   {
    "id": "7706873659935444245",
@@ -4606,7 +4612,7 @@
    "caption": "מתחייבים לתקן את המדינה ביחד🇮🇱 #כנסת #ישראל #פוליטיקה #פוריו ",
    "posted": "1794331038",
    "found": "2026-11-11T12:52:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706593103330741524.txt"
   },
   {
@@ -4617,7 +4623,7 @@
    "caption": "גל איומים חריג ברחבי אירופה: לפחות 300 בתי ספר ברחבי איטליה פונו היום...",
    "posted": "1794400310",
    "found": "2026-11-11T12:52:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706890632891059476.txt"
   },
   {
@@ -4628,7 +4634,7 @@
    "caption": "סיעת ישר! בראשות גדי איזנקוט הגישה שורת הצעות חוק, כולל הצעת חוק להקמ...",
    "posted": "1794394024",
    "found": "2026-11-11T12:53:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706863633782902036.txt"
   },
   {
@@ -4639,7 +4645,7 @@
    "caption": "",
    "posted": "1794388335",
    "found": "2026-11-11T12:54:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706839191316991252.txt"
   },
   {
@@ -4650,7 +4656,7 @@
    "caption": "אייזנקוט בלי פרומטר",
    "posted": "1794333217",
    "found": "2026-11-11T12:54:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706602417642671367.txt"
   },
   {
@@ -4661,7 +4667,7 @@
    "caption": "תם עידן הדת, תם עידן נתניהו, החל עידן הטמטום 🤡",
    "posted": "1794389716",
    "found": "2026-11-11T12:56:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706845117604252936.txt"
   }
  ],
