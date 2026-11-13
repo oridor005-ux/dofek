@@ -4564,7 +4564,7 @@
    "caption": "איזו סגירת מעגל מרגשת. את אלישע מדן פגשתי לפני כשנה וחצי, בעיצומו של ...",
    "posted": "1794407009",
    "found": "2026-11-12T13:52:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706919399315229972.txt"
   },
   {
@@ -4575,8 +4575,11 @@
    "caption": "מס על טיסות #כלכלה #כלכלה_בטיקטוק #מס #טיסה #טיסות",
    "posted": "1794489797",
    "found": "2026-11-12T13:53:10Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707274964524649736.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707274964524649736.txt",
+   "insightIds": [
+    "ins-2026-11-13-ftx1"
+   ]
   },
   {
    "id": "7706979595865804052",
@@ -4586,7 +4589,7 @@
    "caption": "ריקלין ביקש לעשות חשבון מי חסם כבישים וקרא לסרבנות. עשינו חשבון, יצא ...",
    "posted": "1794421027",
    "found": "2026-11-12T13:53:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706979595865804052.txt"
   },
   {
@@ -4597,7 +4600,7 @@
    "caption": "בזמן שאמו ממררת בבכי עם תמונתו בבית המשפט: עוד נאשם בפרשת הרצח של בני...",
    "posted": "1794491433",
    "found": "2026-11-12T13:54:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707282001447079189.txt"
   },
   {
@@ -4608,7 +4611,7 @@
    "caption": "הלם בחיפה: מורה חילקה לתלמידי כיתה ג' טיפות לא מזוהות – הילדים סבלו מ...",
    "posted": "1794489405",
    "found": "2026-11-12T13:54:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707273288266878228.txt"
   },
   {
@@ -4629,7 +4632,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל ",
    "posted": "1794435441",
    "found": "2026-11-12T13:55:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707041500256881928.txt"
   },
   {
@@ -4650,8 +4653,11 @@
    "caption": "ליברמן, מילה זו מילה 🤡",
    "posted": "1794468188",
    "found": "2026-11-12T13:55:49Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707182148175940882.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707182148175940882.txt",
+   "insightIds": [
+    "ins-2026-11-13-lbm2"
+   ]
   },
   {
    "id": "7706644448846957831",
@@ -4661,7 +4667,7 @@
    "caption": "אין לתאר. גיא פורן, מקדם מחאת הטייסים ויו״ר פורום 555, אומר הערב בפטר...",
    "posted": "1794343001",
    "found": "2026-11-12T13:56:37Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7706644448846957831.txt"
   }
  ],
