@@ -1,111 +1,6 @@
 {
  "items": [
   {
-   "id": "7694584039600147733",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694584039600147733",
-   "caption": "ברשימה המשותפת ממשיכים להודיע בריש גלי שישתפו פעולה עם האופוזיציה אחר...",
-   "posted": "1791534961",
-   "found": "2026-10-09T08:51:22Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694605861033118996",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7694605861033118996",
-   "caption": "זה בסדר לא להיות בסדר | עמיחי אתאלי שירות המילואים בחקירות המחבלים הפ...",
-   "posted": "1791540043",
-   "found": "2026-10-09T10:10:23Z",
-   "status": "failed"
-  },
-  {
-   "id": "7694605986111278343",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694605986111278343",
-   "caption": "‏לאחר הסערה בימים האחרונים, ינון מגל נפגש עם קרובי משפחת ביבס וביקש ל...",
-   "posted": "1791540072",
-   "found": "2026-10-09T10:11:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694605986111278343.txt"
-  },
-  {
-   "id": "7694611330372160789",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694611330372160789",
-   "caption": "נאוונת'ם \"נאווי\" פילאי, משפטנית דרום אפריקנית ובכירה לשעבר באו\"ם, נבח...",
-   "posted": "1791541313",
-   "found": "2026-10-09T10:25:35Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694615169036471560",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694615169036471560",
-   "caption": "הלב נשבר: סרן אליאב חיים צפלמוס ז\"ל שנפל אתמול בתאונה מבצעית בלבנון, ...",
-   "posted": "1791542209",
-   "found": "2026-10-09T10:40:51Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694615169036471560.txt"
-  },
-  {
-   "id": "7694615594989063431",
-   "channel": "itamar_ben_gvir",
-   "name": "itamar_ben_gvir",
-   "url": "https://www.tiktok.com/@itamar_ben_gvir/video/7694615594989063431",
-   "caption": "נתיבותים, אוהב אתכם🫶🇮🇱",
-   "posted": "1791542307",
-   "found": "2026-10-09T10:41:16Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694615594989063431.txt"
-  },
-  {
-   "id": "7694614697240169749",
-   "channel": "yosephhaddad",
-   "name": "yosephhaddad",
-   "url": "https://www.tiktok.com/@yosephhaddad/video/7694614697240169749",
-   "caption": "גם בלונדון נדאג שכמה שיותר אנשים ייחשפו לאמת על השבעה באוקטובר! במיוח...",
-   "posted": "1791542098",
-   "found": "2026-10-09T10:41:48Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694614697240169749.txt"
-  },
-  {
-   "id": "7694618762967878919",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7694618762967878919",
-   "caption": "קמפיין השנאה של כספית נכשל: ינון מגל התנצל בפני משפחת ביבס לאחר שבן כ...",
-   "posted": "1791543045",
-   "found": "2026-10-09T10:55:59Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694626860365499668",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7694626860365499668",
-   "caption": "",
-   "posted": "1791544931",
-   "found": "2026-10-09T11:26:30Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694628307156995335",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694628307156995335",
-   "caption": "סרן אליאב חיים צפלמוס ז״ל הובא למנוחות, בת זוגו בפרידה קורעת לב: \"אלי...",
-   "posted": "1791545267",
-   "found": "2026-10-09T11:42:40Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694628307156995335.txt"
-  },
-  {
    "id": "7694638670359301384",
    "channel": "ask__dani",
    "name": "ask__dani",
@@ -4669,10 +4564,117 @@
    "found": "2026-11-12T13:56:37Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7706644448846957831.txt"
+  },
+  {
+   "id": "7707365144795434241",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7707365144795434241",
+   "caption": "אייל ברקוביץ' לא חושב שהאמירות שלו גזעניות. תשפטו בעצמכם  #מהצדהשני #...",
+   "posted": "1794510796",
+   "found": "2026-11-13T13:15:14Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707365144795434241.txt"
+  },
+  {
+   "id": "7707630651939360018",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7707630651939360018",
+   "caption": "פרשה מזעזעת נחשפת: פרופ׳ ישראלי בן 83 הוכה למוות במעלית בתחנת מטרו בב...",
+   "posted": "1794572613",
+   "found": "2026-11-13T13:15:30Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7707626978542767368",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7707626978542767368",
+   "caption": "הנורות האדומות שכל הורה חייב להכיר: איך לזהות שמשהו לא תקין בגן של הי...",
+   "posted": "1794571757",
+   "found": "2026-11-13T13:15:36Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7707611114523118855",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7707611114523118855",
+   "caption": "הנאום שנתניהו לעולם לא יישא | חיים לוינסון איך היה נראה נאום האחדות ש...",
+   "posted": "1794568067",
+   "found": "2026-11-13T13:15:42Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7707336212838681876",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7707336212838681876",
+   "caption": "ידעתם שלפעוטון עד 6 תינוקות אין אפילו דרישה לאישור או פיקוח? הזיה  #מ...",
+   "posted": "1794504055",
+   "found": "2026-11-13T13:16:15Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707336212838681876.txt"
+  },
+  {
+   "id": "7707603525605297426",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7707603525605297426",
+   "caption": "הסוף אמר את שלו",
+   "posted": "1794566303",
+   "found": "2026-11-13T13:16:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707603525605297426.txt"
+  },
+  {
+   "id": "7707596838236409140",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7707596838236409140",
+   "caption": "מילה שלי היא מילה !",
+   "posted": "1794564745",
+   "found": "2026-11-13T13:17:27Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707596838236409140.txt"
+  },
+  {
+   "id": "7707590536462372114",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7707590536462372114",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו ",
+   "posted": "1794563276",
+   "found": "2026-11-13T13:17:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707590536462372114.txt"
+  },
+  {
+   "id": "7707562130018487570",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7707562130018487570",
+   "caption": "מצפצפת על השופטים, השאלה אם אחרי הזימון הנחרץ הנוסף של השופטים - הפעם...",
+   "posted": "1794556658",
+   "found": "2026-11-13T13:18:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707562130018487570.txt"
+  },
+  {
+   "id": "7707322508256529684",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7707322508256529684",
+   "caption": "\"הוא חצה איזשהו קו. היום לא הייתי מייצג אותו\" 👇 עורך הדין והעיתונאי נ...",
+   "posted": "1794500865",
+   "found": "2026-11-13T13:18:43Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707322508256529684.txt"
   }
  ],
  "health": {
-  "at": "2026-11-12T13:57:03Z",
+  "at": "2026-11-13T13:19:11Z",
   "channelsOk": 21,
   "channelsFail": 2,
   "transcribed": 10
