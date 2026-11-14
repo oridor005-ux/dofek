@@ -642,7 +642,7 @@
   "478108a9ece4"
  ],
  "pending": [],
- "lastRun": "2026-11-14T08:18:16.147Z",
+ "lastRun": "2026-11-14T12:04:15.556Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -667,12 +667,12 @@
      "HTTP 403": 2
     }
    },
-   "at": "2026-11-14T08:18:16.147Z"
+   "at": "2026-11-14T11:52:14.431Z"
   },
-  "lastNewItemAt": "2026-11-14T08:18:16.147Z",
+  "lastNewItemAt": "2026-11-14T12:04:15.556Z",
   "lastPushOkAt": "2026-11-14T08:18:16.147Z",
-  "googleOkAt": "2026-11-14T08:18:16.147Z"
+  "googleOkAt": "2026-11-14T11:52:14.431Z"
  },
- "lastFullAt": "2026-11-14T08:18:16.147Z",
+ "lastFullAt": "2026-11-14T11:52:14.431Z",
  "webPushSubscribers": 2
 }
