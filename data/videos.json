@@ -4573,7 +4573,7 @@
    "caption": "אייל ברקוביץ' לא חושב שהאמירות שלו גזעניות. תשפטו בעצמכם  #מהצדהשני #...",
    "posted": "1794510796",
    "found": "2026-11-13T13:15:14Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707365144795434241.txt"
   },
   {
@@ -4614,8 +4614,11 @@
    "caption": "ידעתם שלפעוטון עד 6 תינוקות אין אפילו דרישה לאישור או פיקוח? הזיה  #מ...",
    "posted": "1794504055",
    "found": "2026-11-13T13:16:15Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707336212838681876.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707336212838681876.txt",
+   "insightIds": [
+    "ins-2026-11-14-mon1"
+   ]
   },
   {
    "id": "7707603525605297426",
@@ -4625,7 +4628,7 @@
    "caption": "הסוף אמר את שלו",
    "posted": "1794566303",
    "found": "2026-11-13T13:16:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707603525605297426.txt"
   },
   {
@@ -4636,7 +4639,7 @@
    "caption": "מילה שלי היא מילה !",
    "posted": "1794564745",
    "found": "2026-11-13T13:17:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707596838236409140.txt"
   },
   {
@@ -4647,8 +4650,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו ",
    "posted": "1794563276",
    "found": "2026-11-13T13:17:44Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707590536462372114.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707590536462372114.txt",
+   "insightIds": [
+    "ins-2026-11-14-khn3"
+   ]
   },
   {
    "id": "7707562130018487570",
@@ -4658,8 +4664,11 @@
    "caption": "מצפצפת על השופטים, השאלה אם אחרי הזימון הנחרץ הנוסף של השופטים - הפעם...",
    "posted": "1794556658",
    "found": "2026-11-13T13:18:05Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707562130018487570.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707562130018487570.txt",
+   "insightIds": [
+    "ins-2026-11-14-agc2"
+   ]
   },
   {
    "id": "7707322508256529684",
@@ -4669,7 +4678,7 @@
    "caption": "\"הוא חצה איזשהו קו. היום לא הייתי מייצג אותו\" 👇 עורך הדין והעיתונאי נ...",
    "posted": "1794500865",
    "found": "2026-11-13T13:18:43Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707322508256529684.txt"
   }
  ],
