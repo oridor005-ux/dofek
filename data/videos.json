@@ -4572,8 +4572,11 @@
    "caption": "סיכום שבועי וזה! #פוליטיקה #חדשות #סיכוםשבועי ",
    "posted": "1794582718",
    "found": "2026-11-14T12:20:35Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707674047420714247.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707674047420714247.txt",
+   "insightIds": [
+    "ins-2026-11-15-sgl1"
+   ]
   },
   {
    "id": "7707661321180843271",
@@ -4583,7 +4586,7 @@
    "caption": "שתפו זה חשוב! מתן. תקשיב למתן. ",
    "posted": "1794579752",
    "found": "2026-11-14T12:21:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707661321180843271.txt"
   },
   {
@@ -4594,7 +4597,7 @@
    "caption": "מה הביא את בן-גוריון לבקר לראשונה בבית כנסת, רגע לפני פתיחת האסיפה המ...",
    "posted": "1794494955",
    "found": "2026-11-14T12:22:13Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707297118146350342.txt"
   },
   {
@@ -4605,8 +4608,11 @@
    "caption": "\"הכנסת הזו לא משקפת בשום דבר את רצון הציבור בישראל\" 👇 ח\"כ אלי גולדשמי...",
    "posted": "1794481515",
    "found": "2026-11-14T12:23:02Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707239399259524373.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707239399259524373.txt",
+   "insightIds": [
+    "ins-2026-11-15-gln2"
+   ]
   },
   {
    "id": "7707641038403276053",
@@ -4626,8 +4632,11 @@
    "caption": "משפט נתניהו: גלי בהרב מיארה, ממה את כל כך מפחדת? | אפרת ברינר",
    "posted": "1794573854",
    "found": "2026-11-14T12:23:45Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7707635990994832661.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7707635990994832661.txt",
+   "insightIds": [
+    "ins-2026-11-15-mdl3"
+   ]
   },
   {
    "id": "7707612319328521524",
@@ -4637,7 +4646,7 @@
    "caption": "בושה לערוץ 13: רס״ן במיל׳ יגאל ברנד, שלחם למעלה מ־600 ימי מילואים בעז...",
    "posted": "1794568342",
    "found": "2026-11-14T12:24:01Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707612319328521524.txt"
   },
   {
@@ -4648,7 +4657,7 @@
    "caption": "ספינת התיירים, שעל סיפונה היו כ-129 נוסעים ואנשי צוות, החלה לשקוע לאח...",
    "posted": "1794638207",
    "found": "2026-11-14T12:24:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707912345061756181.txt"
   },
   {
