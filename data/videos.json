@@ -1,117 +1,6 @@
 {
  "items": [
   {
-   "id": "7694664876169366792",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694664876169366792",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791553783",
-   "found": "2026-10-09T13:54:19Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7694664876169366792.txt",
-   "insightIds": [
-    "ins-2026-10-12-mm02"
-   ]
-  },
-  {
-   "id": "7694662277575888135",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694662277575888135",
-   "caption": "",
-   "posted": "1791553177",
-   "found": "2026-10-09T13:54:31Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694662277575888135.txt"
-  },
-  {
-   "id": "7694661935295565063",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694661935295565063",
-   "caption": "",
-   "posted": "1791553097",
-   "found": "2026-10-09T13:54:44Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694661935295565063.txt"
-  },
-  {
-   "id": "7694662942305815816",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694662942305815816",
-   "caption": "כוחות החילוץ איתרו היום את גופתו של המטייל הישראלי עמי יוגב ז”ל, בן 4...",
-   "posted": "1791553332",
-   "found": "2026-10-09T13:55:05Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694678086104730887",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694678086104730887",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791556857",
-   "found": "2026-10-09T14:43:29Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694678086104730887.txt"
-  },
-  {
-   "id": "7694677983486823688",
-   "channel": "n12news",
-   "name": "n12news",
-   "url": "https://www.tiktok.com/@n12news/video/7694677983486823688",
-   "caption": "תיעוד מקייב: כטב\"ם רוסי מתפוצץ בגן ילדים, אזרח שהיה במקום מצליח להינצ...",
-   "posted": "1791556839",
-   "found": "2026-10-09T14:43:47Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7694681227537763636",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694681227537763636",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791557589",
-   "found": "2026-10-09T14:58:47Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694681227537763636.txt"
-  },
-  {
-   "id": "7694679729990847762",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694679729990847762",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791557238",
-   "found": "2026-10-09T14:59:01Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694679729990847762.txt"
-  },
-  {
-   "id": "7694682485883456786",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7694682485883456786",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791557880",
-   "found": "2026-10-09T15:13:45Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694682485883456786.txt"
-  },
-  {
-   "id": "7694292794139102484",
-   "channel": "kan_news",
-   "name": "kan_news",
-   "url": "https://www.tiktok.com/@kan_news/video/7694292794139102484",
-   "caption": "\"אני גאון, אתה טיפש, אתה צריך לגמור את המשכנתא בכוח\": כולם מכירים את ...",
-   "posted": "1791565200",
-   "found": "2026-10-09T17:16:14Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7694292794139102484.txt"
-  },
-  {
    "id": "7694724060294515976",
    "channel": "n12news",
    "name": "n12news",
@@ -4679,10 +4568,117 @@
    "posted": "1794603805",
    "found": "2026-11-14T12:24:41Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7708099565114625301",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7708099565114625301",
+   "caption": "האם נקבל עוד ממשלת אחדות עם נתניהו לפני GTA6?!?! #מהצדהשני #נתניהו #ב...",
+   "posted": "1794681790",
+   "found": "2026-11-15T12:51:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7708099565114625301.txt"
+  },
+  {
+   "id": "7708365656604888340",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7708365656604888340",
+   "caption": "אלימות מזעזעת בגן ילדים בנגב: סייעת הותקפה בפטיש ובמברג אירוע אלימות ...",
+   "posted": "1794743744",
+   "found": "2026-11-15T12:51:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7708365656604888340.txt"
+  },
+  {
+   "id": "7708337152957992212",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7708337152957992212",
+   "caption": "נס על נהר המיסיסיפי: מה שהיה אמור להיות סיומו של שיט תיירותי בארה״ב ה...",
+   "posted": "1794737107",
+   "found": "2026-11-15T12:52:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7708337152957992212.txt"
+  },
+  {
+   "id": "7708329600010456340",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7708329600010456340",
+   "caption": "היום צפויה להתקיים פגישה בין נציגי הליכוד למפלגת ישר! עם איזנקוט, במט...",
+   "posted": "1794735349",
+   "found": "2026-11-15T12:52:11Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7708357665893780743",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7708357665893780743",
+   "caption": "פליז לא לצרוח עלי פעם הבאה",
+   "posted": "1794741882",
+   "found": "2026-11-15T12:52:21Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7708330490213731602",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7708330490213731602",
+   "caption": "הכל אנחנו אשמים?",
+   "posted": "1794735556",
+   "found": "2026-11-15T12:52:27Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7708143270685068596",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7708143270685068596",
+   "caption": "באוניברסיטה של ג׳נין לא צריך פסיכומטרי",
+   "posted": "1794691970",
+   "found": "2026-11-15T12:53:38Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7708143270685068596.txt"
+  },
+  {
+   "id": "7708290936593239304",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7708290936593239304",
+   "caption": "שמתם לב שמאז נפגש אייזנקוט עם נתניהו וקיבל תדרוך ביטחוני הוא שקט פתאום? ",
+   "posted": "1794726347",
+   "found": "2026-11-15T12:54:09Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7708290936593239304.txt"
+  },
+  {
+   "id": "7708340350347267348",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7708340350347267348",
+   "caption": "מי מתגעגע לגידופי מערכת הבחירות הראשונה לכנסת? 👇 המיתוס על \"הפוליטיקה...",
+   "posted": "1794737855",
+   "found": "2026-11-15T12:54:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7708340350347267348.txt"
+  },
+  {
+   "id": "7707326444862508308",
+   "channel": "knessettv",
+   "name": "knessettv",
+   "url": "https://www.tiktok.com/@knessettv/video/7707326444862508308",
+   "caption": "ביקשנו ממייסד הארכיון חומרים לתוכנית הדוקו החדשה - אבל אז הוא ביקש לה...",
+   "posted": "1794684600",
+   "found": "2026-11-15T12:55:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7707326444862508308.txt"
   }
  ],
  "health": {
-  "at": "2026-11-14T12:24:54Z",
+  "at": "2026-11-15T12:55:39Z",
   "channelsOk": 21,
   "channelsFail": 2,
   "transcribed": 10
