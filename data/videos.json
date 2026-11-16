@@ -4577,7 +4577,7 @@
    "caption": "האם נקבל עוד ממשלת אחדות עם נתניהו לפני GTA6?!?! #מהצדהשני #נתניהו #ב...",
    "posted": "1794681790",
    "found": "2026-11-15T12:51:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708099565114625301.txt"
   },
   {
@@ -4588,7 +4588,7 @@
    "caption": "אלימות מזעזעת בגן ילדים בנגב: סייעת הותקפה בפטיש ובמברג אירוע אלימות ...",
    "posted": "1794743744",
    "found": "2026-11-15T12:51:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708365656604888340.txt"
   },
   {
@@ -4599,7 +4599,7 @@
    "caption": "נס על נהר המיסיסיפי: מה שהיה אמור להיות סיומו של שיט תיירותי בארה״ב ה...",
    "posted": "1794737107",
    "found": "2026-11-15T12:52:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708337152957992212.txt"
   },
   {
@@ -4640,7 +4640,7 @@
    "caption": "באוניברסיטה של ג׳נין לא צריך פסיכומטרי",
    "posted": "1794691970",
    "found": "2026-11-15T12:53:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708143270685068596.txt"
   },
   {
@@ -4651,7 +4651,7 @@
    "caption": "שמתם לב שמאז נפגש אייזנקוט עם נתניהו וקיבל תדרוך ביטחוני הוא שקט פתאום? ",
    "posted": "1794726347",
    "found": "2026-11-15T12:54:09Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708290936593239304.txt"
   },
   {
@@ -4662,8 +4662,11 @@
    "caption": "מי מתגעגע לגידופי מערכת הבחירות הראשונה לכנסת? 👇 המיתוס על \"הפוליטיקה...",
    "posted": "1794737855",
    "found": "2026-11-15T12:54:40Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7708340350347267348.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7708340350347267348.txt",
+   "insightIds": [
+    "ins-2026-11-16-k49e"
+   ]
   },
   {
    "id": "7707326444862508308",
@@ -4673,7 +4676,7 @@
    "caption": "ביקשנו ממייסד הארכיון חומרים לתוכנית הדוקו החדשה - אבל אז הוא ביקש לה...",
    "posted": "1794684600",
    "found": "2026-11-15T12:55:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7707326444862508308.txt"
   }
  ],
