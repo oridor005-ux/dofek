@@ -4581,7 +4581,7 @@
    "caption": "אחדות או השמדה? #פוליטיקה #אחדות ",
    "posted": "1794756288",
    "found": "2026-11-16T13:48:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708419523820539143.txt"
   },
   {
@@ -4592,8 +4592,11 @@
    "caption": "מפלגת ישר ויתרה על הכרה בחמאס כארגון טר!ר?!?!? לא. #מהצדהשני #מירירגב...",
    "posted": "1794765348",
    "found": "2026-11-16T13:48:54Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7708458443610377492.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7708458443610377492.txt",
+   "insightIds": [
+    "ins-2026-11-17-m1c4"
+   ]
   },
   {
    "id": "7708514501687119124",
@@ -4603,7 +4606,7 @@
    "caption": "כשנתניהו מסביר לנו שאסור לשבת עם תומכי טרור 🤡",
    "posted": "1794778404",
    "found": "2026-11-16T13:49:18Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708514501687119124.txt"
   },
   {
@@ -4614,7 +4617,7 @@
    "caption": "בדרך לקניון פתוח בשבת בפתח תקווה? חברת מליסרון, בעלת קניוני “עופר”, ע...",
    "posted": "1794831958",
    "found": "2026-11-16T13:49:33Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708744544937872661.txt"
   },
   {
@@ -4625,7 +4628,7 @@
    "caption": "67 ממליצים לגדי איזנקוט מול 46 לבנימין נתניהו, כך נראית תמונת המצב הפ...",
    "posted": "1794823184",
    "found": "2026-11-16T13:49:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708706848207129877.txt"
   },
   {
@@ -4646,7 +4649,7 @@
    "caption": "איפה את? תכיני לי קבב @Ariel Arbel  מונקה! יהודה הימית 15, יפו",
    "posted": "1794760564",
    "found": "2026-11-16T13:50:08Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708437894548966676.txt"
   },
   {
@@ -4667,8 +4670,11 @@
    "caption": "חחחחחח שמשהו יסביר לי? הליכוד שתל את המעטפות?",
    "posted": "1794818945",
    "found": "2026-11-16T13:50:32Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7708688617417313544.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7708688617417313544.txt",
+   "insightIds": [
+    "ins-2026-11-17-m2e8"
+   ]
   },
   {
    "id": "7708525910059650322",
@@ -4678,8 +4684,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1794781066",
    "found": "2026-11-16T13:51:09Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7708525910059650322.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7708525910059650322.txt",
+   "insightIds": [
+    "ins-2026-11-17-m3a2"
+   ]
   }
  ],
  "health": {
