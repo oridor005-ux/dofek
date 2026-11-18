@@ -4581,8 +4581,11 @@
    "caption": "זהירות - מחליפים #פוליטיקה #כנסת #עושיםסדר ",
    "posted": "1794918853",
    "found": "2026-11-17T14:41:16Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709117747484970258.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709117747484970258.txt",
+   "insightIds": [
+    "ins-2026-11-18-m2d3"
+   ]
   },
   {
    "id": "7708792367158955270",
@@ -4592,7 +4595,7 @@
    "caption": "ככה נשמע התיקון. תודה לירן.  #פוליטיקה #ישראל #כנסת ",
    "posted": "1794843093",
    "found": "2026-11-17T14:41:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708792367158955270.txt"
   },
   {
@@ -4633,7 +4636,7 @@
    "caption": "חחחחח סליחה זה היה כזה מצחיק ",
    "posted": "1794920452",
    "found": "2026-11-17T14:42:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709124613258677505.txt"
   },
   {
@@ -4644,8 +4647,11 @@
    "caption": "גאה להיות ליכודניקית ",
    "posted": "1794914505",
    "found": "2026-11-17T14:43:56Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709099070035365127.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709099070035365127.txt",
+   "insightIds": [
+    "ins-2026-11-18-m1h7"
+   ]
   },
   {
    "id": "7709095784725122312",
@@ -4655,7 +4661,7 @@
    "caption": "קרדיט לשלמה פילבר התותח",
    "posted": "1794913738",
    "found": "2026-11-17T14:44:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709095784725122312.txt"
   },
   {
@@ -4666,7 +4672,7 @@
    "caption": "טעיתי, אבל חזרתי בתשובה. זו הייחודיות של חזרה בתשובה, בן יקירי ",
    "posted": "1794908538",
    "found": "2026-11-17T14:45:19Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709073448391314696.txt"
   },
   {
@@ -4677,7 +4683,7 @@
    "caption": "האנשים האלה בצלילה חופשית ",
    "posted": "1794867519",
    "found": "2026-11-17T14:45:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7708897239531261202.txt"
   }
  ],
