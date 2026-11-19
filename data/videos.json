@@ -4583,8 +4583,11 @@
    "caption": "אתם יודעים על מה באמת האבל, נכון? #פוליטיקה #כנסת #ערבים ",
    "posted": "1795008830",
    "found": "2026-11-18T14:17:45Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709504190980164871.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709504190980164871.txt",
+   "insightIds": [
+    "ins-2026-11-19-t1b3"
+   ]
   },
   {
    "id": "7709202939612515592",
@@ -4594,8 +4597,11 @@
    "caption": "ישראל צומחת בזכות אנבידיה #כלכלה #כלכלה_בטיקטוק #מס #אנבידיה #צמיחהכל...",
    "posted": "1794938690",
    "found": "2026-11-18T14:18:26Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709202939612515592.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709202939612515592.txt",
+   "insightIds": [
+    "ins-2026-11-19-n8v2"
+   ]
   },
   {
    "id": "7709206151807782164",
@@ -4605,7 +4611,7 @@
    "caption": "אפשר כבר לפרק את ה״אחדות״ של מרים פרץ? #מהצדהשני #מריםפרץ #אחדות #ממש...",
    "posted": "1794939438",
    "found": "2026-11-18T14:18:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709206151807782164.txt"
   },
   {
@@ -4616,7 +4622,7 @@
    "caption": "אחרי 13 שנות המתנה, המשחק המצופה GTA 6 מושק הלילה (בין רביעי לחמישי) ...",
    "posted": "1795008701",
    "found": "2026-11-18T14:19:21Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709503646924311829.txt"
   },
   {
@@ -4647,7 +4653,7 @@
    "caption": "אף אחד לא שואל אותך קורל!!!! @romiravitz",
    "posted": "1794929261",
    "found": "2026-11-18T14:19:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709162435369766151.txt"
   },
   {
@@ -4658,7 +4664,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1795009994",
    "found": "2026-11-18T14:20:34Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709509184189893895.txt"
   },
   {
@@ -4669,7 +4675,7 @@
    "caption": "#פוריו #בשבילך #ימין #שתפו ",
    "posted": "1795009964",
    "found": "2026-11-18T14:20:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709509063347883271.txt"
   },
   {
@@ -4680,7 +4686,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1794987641",
    "found": "2026-11-18T14:20:56Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709413158343003393.txt"
   }
  ],
