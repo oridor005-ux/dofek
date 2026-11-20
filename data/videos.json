@@ -1,121 +1,6 @@
 {
  "items": [
   {
-   "id": "7695129069473631495",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695129069473631495",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791661861",
-   "found": "2026-10-10T19:54:44Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695129069473631495.txt"
-  },
-  {
-   "id": "7695127224252648712",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695127224252648712",
-   "caption": "ימין או פלסטין! #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791661433",
-   "found": "2026-10-10T19:55:25Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695127224252648712.txt"
-  },
-  {
-   "id": "7695132020871007506",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695132020871007506",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791662547",
-   "found": "2026-10-10T20:10:20Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695132020871007506.txt"
-  },
-  {
-   "id": "7695129986872773906",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695129986872773906",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1791662085",
-   "found": "2026-10-10T20:10:41Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695129986872773906.txt"
-  },
-  {
-   "id": "7695132221681798408",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7695132221681798408",
-   "caption": "הוא והחברים שלו דרשו להפסיק את המלחמה ולסגת מרצועת עזה, מה יפה? מה יפ...",
-   "posted": "1791662600",
-   "found": "2026-10-10T20:12:14Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7695132221681798408.txt",
-   "insightIds": [
-    "ins-2026-10-16-lp30"
-   ]
-  },
-  {
-   "id": "7695133080008314130",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7695133080008314130",
-   "caption": "\"לא אשכח את הרגע שילד בא אליי ואמר לי 'קמתי בבוקר והרגשתי שווה כמו אל...",
-   "posted": "1791662795",
-   "found": "2026-10-10T20:12:53Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695133080008314130.txt"
-  },
-  {
-   "id": "7695138014632234248",
-   "channel": "c14news",
-   "name": "c14news",
-   "url": "https://www.tiktok.com/@c14news/video/7695138014632234248",
-   "caption": "הסערה סביב הצטרפות דרור עמוס לש\"ס הגיעה לשיאה בעקבות תחקיר חדשות 12 ע...",
-   "posted": "1791663947",
-   "found": "2026-10-10T20:40:17Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7695276791216327943",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695276791216327943",
-   "caption": "נוכל נשאר נוכל. #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791696259",
-   "found": "2026-10-11T05:36:44Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7695276791216327943.txt",
-   "insightIds": [
-    "ins-2026-10-16-bn6m"
-   ]
-  },
-  {
-   "id": "7695266808600841480",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695266808600841480",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791693934",
-   "found": "2026-10-11T05:36:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695266808600841480.txt"
-  },
-  {
-   "id": "7695262939728792840",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695262939728792840",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791693032",
-   "found": "2026-10-11T05:37:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695262939728792840.txt"
-  },
-  {
    "id": "7695122784384584966",
    "channel": "kan_news",
    "name": "kan_news",
@@ -4683,10 +4568,119 @@
    "found": "2026-11-19T14:41:00Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7709437284571041032.txt"
+  },
+  {
+   "id": "7709897160183106824",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7709897160183106824",
+   "caption": "השבעה באוקטובר באמת שינה הכל? #פוליטיקה #ערבים ",
+   "posted": "1795100325",
+   "found": "2026-11-20T14:10:21Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7709897160183106824.txt"
+  },
+  {
+   "id": "7709951094054505749",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7709951094054505749",
+   "caption": "מצטערים להרוס את המסיבה, אבל ערביי ישראל יצטרכו בכל זאת לעבוד *איפשהו...",
+   "posted": "1795112881",
+   "found": "2026-11-20T14:10:51Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7709951094054505749.txt"
+  },
+  {
+   "id": "7709929736025214228",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7709929736025214228",
+   "caption": "אז מה דוד זיני צריך קצת חשבון נפש?",
+   "posted": "1795107909",
+   "found": "2026-11-20T14:11:22Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7709929736025214228.txt"
+  },
+  {
+   "id": "7710230297308187925",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7710230297308187925",
+   "caption": "סערה ברשת בעקבות מחווה חריגה בטלוויזיה הלבנונית: קטע מתוכנית האירוח \"...",
+   "posted": "1795177888",
+   "found": "2026-11-20T14:11:33Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710230297308187925.txt"
+  },
+  {
+   "id": "7710206252651007252",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7710206252651007252",
+   "caption": "ביום הבחירות המשטרה והשב\"כ סיפקו תמונות של שטרות על שולחן והבטחות לשו...",
+   "posted": "1795172291",
+   "found": "2026-11-20T14:12:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710206252651007252.txt"
+  },
+  {
+   "id": "7710185066361556244",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7710185066361556244",
+   "caption": "במהלך המהומות אמש בבית שמש בעקבות מעצר קטין: מפגין רוקן שק אשפה לתוך ...",
+   "posted": "1795167356",
+   "found": "2026-11-20T14:12:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710185066361556244.txt"
+  },
+  {
+   "id": "7709938308654173460",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7709938308654173460",
+   "caption": "5 שקרים ששלמה קרעי סיפר לכם בנאום אחד - והאמת 🤥 #מתחתלרדאר #פוליטיקהי...",
+   "posted": "1795109906",
+   "found": "2026-11-20T14:12:59Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7709938308654173460.txt"
+  },
+  {
+   "id": "7710214067788533010",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7710214067788533010",
+   "caption": "",
+   "posted": "1795174115",
+   "found": "2026-11-20T14:13:05Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7710212942385499410",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7710212942385499410",
+   "caption": "שתפו! חשוב מאוד!",
+   "posted": "1795173849",
+   "found": "2026-11-20T14:13:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710212942385499410.txt"
+  },
+  {
+   "id": "7710160858126552338",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7710160858126552338",
+   "caption": "שתפו שתפו שתפו!",
+   "posted": "1795161723",
+   "found": "2026-11-20T14:13:50Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710160858126552338.txt"
   }
  ],
  "health": {
-  "at": "2026-11-19T14:41:49Z",
+  "at": "2026-11-20T14:14:07Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
