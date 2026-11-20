@@ -4577,8 +4577,11 @@
    "caption": "רק שמאלנים עוזבים את הארץ? די להצחיק #מהצדהשני #ערוץ14 #ישראל #שמאלני...",
    "posted": "1795024836",
    "found": "2026-11-19T14:32:42Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709572929025379604.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709572929025379604.txt",
+   "insightIds": [
+    "ins-2026-11-20-e4k7"
+   ]
   },
   {
    "id": "7709869542247320853",
@@ -4598,7 +4601,7 @@
    "caption": "מבוכה בפסגה העולמית: ‏טראמפ נרדם במהלך נאום של נשיא סין שי ג’ינפינג ב...",
    "posted": "1795088981",
    "found": "2026-11-19T14:33:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709848453215440149.txt"
   },
   {
@@ -4609,7 +4612,7 @@
    "caption": "3 שנים של חוסר ודאות בלתי נתפסים💔 הזעקה של אמא של היימנוט היא הזעקה ש...",
    "posted": "1795080257",
    "found": "2026-11-19T14:33:57Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709810968762813717.txt"
   },
   {
@@ -4620,7 +4623,7 @@
    "caption": "מפרקת בדקה את עלילת הדם נגד ראש הממשלה נתניהו ! שתפו",
    "posted": "1795091335",
    "found": "2026-11-19T14:36:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709858548011912456.txt"
   },
   {
@@ -4631,8 +4634,11 @@
    "caption": "כל אדם חף מפשע שנהרג הלב נשבר. זה לא הוגן עבור אף אחד. אבל אסור להתעל...",
    "posted": "1795088203",
    "found": "2026-11-19T14:37:25Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709845101601688850.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709845101601688850.txt",
+   "insightIds": [
+    "ins-2026-11-20-p9c2"
+   ]
   },
   {
    "id": "7709837361701555474",
@@ -4642,7 +4648,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל",
    "posted": "1795086401",
    "found": "2026-11-19T14:37:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709837361701555474.txt"
   },
   {
@@ -4653,7 +4659,7 @@
    "caption": "הם תקועים חזק מאד, תזכרו את זה ",
    "posted": "1795067747",
    "found": "2026-11-19T14:38:38Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709757203560942849.txt"
   },
   {
@@ -4664,7 +4670,7 @@
    "caption": "בסוף גם הימין יצא לרחובות, הרגע הזה לא רחוק ",
    "posted": "1795067668",
    "found": "2026-11-19T14:39:49Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709756867613904135.txt"
   },
   {
@@ -4675,7 +4681,7 @@
    "caption": "סחרו בדם בלי בושה ",
    "posted": "1794993258",
    "found": "2026-11-19T14:41:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709437284571041032.txt"
   }
  ],
