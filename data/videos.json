@@ -4577,8 +4577,11 @@
    "caption": "השבעה באוקטובר באמת שינה הכל? #פוליטיקה #ערבים ",
    "posted": "1795100325",
    "found": "2026-11-20T14:10:21Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709897160183106824.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709897160183106824.txt",
+   "insightIds": [
+    "ins-2026-11-21-dn07"
+   ]
   },
   {
    "id": "7709951094054505749",
@@ -4588,7 +4591,7 @@
    "caption": "מצטערים להרוס את המסיבה, אבל ערביי ישראל יצטרכו בכל זאת לעבוד *איפשהו...",
    "posted": "1795112881",
    "found": "2026-11-20T14:10:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709951094054505749.txt"
   },
   {
@@ -4610,7 +4613,7 @@
    "caption": "סערה ברשת בעקבות מחווה חריגה בטלוויזיה הלבנונית: קטע מתוכנית האירוח \"...",
    "posted": "1795177888",
    "found": "2026-11-20T14:11:33Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710230297308187925.txt"
   },
   {
@@ -4621,7 +4624,7 @@
    "caption": "ביום הבחירות המשטרה והשב\"כ סיפקו תמונות של שטרות על שולחן והבטחות לשו...",
    "posted": "1795172291",
    "found": "2026-11-20T14:12:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710206252651007252.txt"
   },
   {
@@ -4632,7 +4635,7 @@
    "caption": "במהלך המהומות אמש בבית שמש בעקבות מעצר קטין: מפגין רוקן שק אשפה לתוך ...",
    "posted": "1795167356",
    "found": "2026-11-20T14:12:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710185066361556244.txt"
   },
   {
@@ -4664,8 +4667,11 @@
    "caption": "שתפו! חשוב מאוד!",
    "posted": "1795173849",
    "found": "2026-11-20T14:13:39Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7710212942385499410.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7710212942385499410.txt",
+   "insightIds": [
+    "ins-2026-11-21-tk55"
+   ]
   },
   {
    "id": "7710160858126552338",
@@ -4675,7 +4681,7 @@
    "caption": "שתפו שתפו שתפו!",
    "posted": "1795161723",
    "found": "2026-11-20T14:13:50Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710160858126552338.txt"
   }
  ],
