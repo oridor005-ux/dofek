@@ -1,5 +1,11 @@
 {
- "open": {},
+ "open": {
+  "google": {
+   "text": "חיפושי Google News נכשלים כבר 5 שעות (כנראה חסימה זמנית).",
+   "since": "2026-11-21T13:21:03.807Z",
+   "lastSent": "2026-11-21T13:21:03.808Z"
+  }
+ },
  "channelsSeen": [
   "ask__dani",
   "naftalibennett_official",

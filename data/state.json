@@ -760,7 +760,7 @@
   "1650795035fe"
  ],
  "pending": [],
- "lastRun": "2026-11-21T07:59:10.989Z",
+ "lastRun": "2026-11-21T13:21:02.700Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -773,24 +773,28 @@
  },
  "health": {
   "sources": {
-   "ok": 66,
-   "fail": 2,
+   "ok": 16,
+   "fail": 52,
    "light": false,
    "direct": 13,
    "directFail": 2,
    "google": 55,
-   "googleFail": 0,
+   "googleFail": 50,
    "errors": {
     "direct": {
      "HTTP 403": 2
+    },
+    "google": {
+     "HTTP 429": 1,
+     "skipped (google blocked)": 49
     }
    },
-   "at": "2026-11-21T07:59:10.989Z"
+   "at": "2026-11-21T13:09:44.756Z"
   },
-  "lastNewItemAt": "2026-11-21T07:59:10.989Z",
+  "lastNewItemAt": "2026-11-21T13:21:02.700Z",
   "lastPushOkAt": "2026-11-21T07:59:10.989Z",
   "googleOkAt": "2026-11-21T07:59:10.989Z"
  },
- "lastFullAt": "2026-11-21T07:59:10.989Z",
+ "lastFullAt": "2026-11-21T13:09:44.756Z",
  "webPushSubscribers": 2
 }
