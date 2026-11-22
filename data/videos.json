@@ -1,120 +1,6 @@
 {
  "items": [
   {
-   "id": "7695393702386093364",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7695393702386093364",
-   "caption": "למי את מצביעה בבחירות הקרובות? 🗳️ #הציונותהדתית #בחירות ",
-   "posted": "1791723475",
-   "found": "2026-10-12T05:47:23Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695393702386093364.txt"
-  },
-  {
-   "id": "7695471074770799880",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695471074770799880",
-   "caption": "למה צריך להצביע ליכוד - #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791741492",
-   "found": "2026-10-12T05:47:46Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695471074770799880.txt"
-  },
-  {
-   "id": "7695464065891618066",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7695464065891618066",
-   "caption": "למה צריך להצביע ליכוד - #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1791739859",
-   "found": "2026-10-12T05:48:06Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695464065891618066.txt"
-  },
-  {
-   "id": "7695844697197088008",
-   "channel": "ask__dani",
-   "name": "ask__dani",
-   "url": "https://www.tiktok.com/@ask__dani/video/7695844697197088008",
-   "caption": "מה הוא חושב על עמיתי שיקלי, מי האשמים במחדל ומה עשה לדני מיינד פאק? ר...",
-   "posted": "1791828483",
-   "found": "2026-10-13T05:40:50Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7695844697197088008.txt",
-   "insightIds": [
-    "ins-2026-10-17-lb21"
-   ]
-  },
-  {
-   "id": "7695659428992945428",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7695659428992945428",
-   "caption": "כל האמת על בן גביר בחצי דקה>> #ישראל #פוליטיקה #פודקאסט ",
-   "posted": "1791785344",
-   "found": "2026-10-13T05:41:04Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695659428992945428.txt"
-  },
-  {
-   "id": "7695863514413485319",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7695863514413485319",
-   "caption": "סקר חדשות 12 חושף: איזנקוט פותח פער מול נתניהו בהתאמה לראשות הממשלה  ...",
-   "posted": "1791834660",
-   "found": "2026-10-13T05:41:10Z",
-   "status": "failed"
-  },
-  {
-   "id": "7695855251294866695",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7695855251294866695",
-   "caption": "החקירה של יונתן אוריך נמשכת והפעם - הציטוטים מחדר החקירות נחשפים יונת...",
-   "posted": "1791833040",
-   "found": "2026-10-13T05:41:14Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7695818790952586503",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7695818790952586503",
-   "caption": "נוסף לרשימת היעדים: עשרות גמלים הגיעו לחוף פזאיה, הידוע בחולותיו הלבנ...",
-   "posted": "1791822451",
-   "found": "2026-10-13T05:41:22Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695818790952586503.txt"
-  },
-  {
-   "id": "7695737381147708693",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7695737381147708693",
-   "caption": "15 ימים לבחירות ולאנשים אין מושג כמה הן עולות לנו 👆🗳️💸 #בחירות #מתחתל...",
-   "posted": "1791803492",
-   "found": "2026-10-13T05:41:43Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7695737381147708693.txt",
-   "insightIds": [
-    "ins-2026-10-18-ec40"
-   ]
-  },
-  {
-   "id": "7695680077916392756",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7695680077916392756",
-   "caption": "״רגל פה רגל שם״  📹: ליאור בן אריה #ארגוןנכיצה״ל #מתחתלרדאר ",
-   "posted": "1791790154",
-   "found": "2026-10-13T05:41:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7695680077916392756.txt"
-  },
-  {
    "id": "7696019515297025298",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4685,10 +4571,120 @@
    "posted": "1795183207",
    "found": "2026-11-21T13:39:38Z",
    "status": "no-speech"
+  },
+  {
+   "id": "7710704185607523604",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7710704185607523604",
+   "caption": "אחמד טיבי יהיה סגן יו״ר הכנסת?!?! השתגענו?? #מהצדהשני #ישראל #אחמדטיב...",
+   "posted": "1795288229",
+   "found": "2026-11-22T13:29:11Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710704185607523604.txt"
+  },
+  {
+   "id": "7710983377788128532",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7710983377788128532",
+   "caption": "נפל על השוטר הלא נכון: במהלך הפגנת חרדים, אחד המפגינים ניסה להקניט שו...",
+   "posted": "1795353229",
+   "found": "2026-11-22T13:29:30Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710983377788128532.txt"
+  },
+  {
+   "id": "7710968920714284309",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7710968920714284309",
+   "caption": "זעקת התינוקות: הערב בכיכר הבימה על רקע ריבוי מקרי האלימות וההתעללות ב...",
+   "posted": "1795349863",
+   "found": "2026-11-22T13:29:54Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710968920714284309.txt"
+  },
+  {
+   "id": "7710948632400366868",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7710948632400366868",
+   "caption": "לקראת שבוע ההוקרה לפצועי מערכות ישראל ופעולות האיבה, צה\"ל מפרסם לראשו...",
+   "posted": "1795345138",
+   "found": "2026-11-22T13:30:09Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710948632400366868.txt"
+  },
+  {
+   "id": "7710734695188679942",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7710734695188679942",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו ",
+   "posted": "1795295332",
+   "found": "2026-11-22T13:30:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710734695188679942.txt"
+  },
+  {
+   "id": "7710733994685566226",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7710733994685566226",
+   "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו ",
+   "posted": "1795295172",
+   "found": "2026-11-22T13:31:05Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710733994685566226.txt"
+  },
+  {
+   "id": "7710691091170872594",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7710691091170872594",
+   "caption": "שתפו!!",
+   "posted": "1795285184",
+   "found": "2026-11-22T13:31:40Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710691091170872594.txt"
+  },
+  {
+   "id": "7710864928428576007",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7710864928428576007",
+   "caption": "צבועים שקרנים, זאת לא הסתה נכון?",
+   "posted": "1795325651",
+   "found": "2026-11-22T13:32:07Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710864928428576007.txt"
+  },
+  {
+   "id": "7710709977597431058",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7710709977597431058",
+   "caption": "תקלה חמורה בשידור בערוץ תבהלה 12 יאיר גולן: שרתתי תחת הרבה ממשלות, מה...",
+   "posted": "1795289575",
+   "found": "2026-11-22T13:32:24Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710709977597431058.txt"
+  },
+  {
+   "id": "7710686027358244117",
+   "channel": "amitsegalnews",
+   "name": "amitsegalnews",
+   "url": "https://www.tiktok.com/@amitsegalnews/video/7710686027358244117",
+   "caption": "מותר לבקר את מתן כהנא בלי להיות מואשם הסתה ",
+   "posted": "1795283997",
+   "found": "2026-11-22T13:33:02Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7710686027358244117.txt"
   }
  ],
  "health": {
-  "at": "2026-11-21T13:39:51Z",
+  "at": "2026-11-22T13:33:22Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
