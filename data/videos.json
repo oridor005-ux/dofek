@@ -4487,8 +4487,11 @@
    "caption": "אז מה דוד זיני צריך קצת חשבון נפש?",
    "posted": "1795107909",
    "found": "2026-11-20T14:11:22Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709929736025214228.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709929736025214228.txt",
+   "insightIds": [
+    "ins-2026-11-22-zn01"
+   ]
   },
   {
    "id": "7710230297308187925",
@@ -4531,8 +4534,11 @@
    "caption": "5 שקרים ששלמה קרעי סיפר לכם בנאום אחד - והאמת 🤥 #מתחתלרדאר #פוליטיקהי...",
    "posted": "1795109906",
    "found": "2026-11-20T14:12:59Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7709938308654173460.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7709938308654173460.txt",
+   "insightIds": [
+    "ins-2026-11-22-kk02"
+   ]
   },
   {
    "id": "7710214067788533010",
@@ -4577,7 +4583,7 @@
    "caption": "לא!",
    "posted": "1795196856",
    "found": "2026-11-21T13:35:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710311758237388040.txt"
   },
   {
@@ -4588,8 +4594,11 @@
    "caption": "לפחות התקדמנו",
    "posted": "1795184532",
    "found": "2026-11-21T13:35:45Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7710258835436375303.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7710258835436375303.txt",
+   "insightIds": [
+    "ins-2026-11-22-ra03"
+   ]
   },
   {
    "id": "7710257263386037511",
@@ -4599,7 +4608,7 @@
    "caption": "השותפים של אייזנקוט❤️",
    "posted": "1795184167",
    "found": "2026-11-21T13:36:01Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710257263386037511.txt"
   },
   {
@@ -4610,7 +4619,7 @@
    "caption": "הולך להיות מאוד מעניין",
    "posted": "1795005633",
    "found": "2026-11-21T13:36:27Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709490457314741525.txt"
   },
   {
@@ -4621,7 +4630,7 @@
    "caption": "יצאתי לריצה וחזרתי עם תובנה",
    "posted": "1794947698",
    "found": "2026-11-21T13:36:51Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709241608981712149.txt"
   },
   {
@@ -4632,7 +4641,7 @@
    "caption": "*אבנים על המשכן, רימוני גז ו\"אתה חוליגן!\" לבן-גוריון* 🏛️🔥 בינואר 1952...",
    "posted": "1795109406",
    "found": "2026-11-21T13:37:35Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709936164052012289.txt"
   },
   {
@@ -4643,7 +4652,7 @@
    "caption": "\"עדיף חשבון אחד, עם הלוואה אחת\" 💸 ח\"כ חנמאל דורפמן מספר על ההחלטה הכל...",
    "posted": "1795107119",
    "found": "2026-11-21T13:37:58Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709926349711985941.txt"
   },
   {
@@ -4654,7 +4663,7 @@
    "caption": "\"אחמד טיבי איש מאוד מוכשר, ועדיין הוא לא יכול להיות שותף סוד בממשלה\" ...",
    "posted": "1795105296",
    "found": "2026-11-21T13:39:22Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7709918521060298004.txt"
   },
   {
