@@ -4580,8 +4580,11 @@
    "caption": "אחמד טיבי יהיה סגן יו״ר הכנסת?!?! השתגענו?? #מהצדהשני #ישראל #אחמדטיב...",
    "posted": "1795288229",
    "found": "2026-11-22T13:29:11Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7710704185607523604.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7710704185607523604.txt",
+   "insightIds": [
+    "ins-2026-11-23-tb01"
+   ]
   },
   {
    "id": "7710983377788128532",
@@ -4591,7 +4594,7 @@
    "caption": "נפל על השוטר הלא נכון: במהלך הפגנת חרדים, אחד המפגינים ניסה להקניט שו...",
    "posted": "1795353229",
    "found": "2026-11-22T13:29:30Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710983377788128532.txt"
   },
   {
@@ -4602,7 +4605,7 @@
    "caption": "זעקת התינוקות: הערב בכיכר הבימה על רקע ריבוי מקרי האלימות וההתעללות ב...",
    "posted": "1795349863",
    "found": "2026-11-22T13:29:54Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710968920714284309.txt"
   },
   {
@@ -4613,7 +4616,7 @@
    "caption": "לקראת שבוע ההוקרה לפצועי מערכות ישראל ופעולות האיבה, צה\"ל מפרסם לראשו...",
    "posted": "1795345138",
    "found": "2026-11-22T13:30:09Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710948632400366868.txt"
   },
   {
@@ -4624,8 +4627,11 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו ",
    "posted": "1795295332",
    "found": "2026-11-22T13:30:48Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7710734695188679942.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7710734695188679942.txt",
+   "insightIds": [
+    "ins-2026-11-23-jn01"
+   ]
   },
   {
    "id": "7710733994685566226",
@@ -4635,7 +4641,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו ",
    "posted": "1795295172",
    "found": "2026-11-22T13:31:05Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710733994685566226.txt"
   },
   {
@@ -4646,8 +4652,11 @@
    "caption": "שתפו!!",
    "posted": "1795285184",
    "found": "2026-11-22T13:31:40Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7710691091170872594.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7710691091170872594.txt",
+   "insightIds": [
+    "ins-2026-11-23-tb01"
+   ]
   },
   {
    "id": "7710864928428576007",
@@ -4657,7 +4666,7 @@
    "caption": "צבועים שקרנים, זאת לא הסתה נכון?",
    "posted": "1795325651",
    "found": "2026-11-22T13:32:07Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710864928428576007.txt"
   },
   {
@@ -4668,7 +4677,7 @@
    "caption": "תקלה חמורה בשידור בערוץ תבהלה 12 יאיר גולן: שרתתי תחת הרבה ממשלות, מה...",
    "posted": "1795289575",
    "found": "2026-11-22T13:32:24Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710709977597431058.txt"
   },
   {
@@ -4679,7 +4688,7 @@
    "caption": "מותר לבקר את מתן כהנא בלי להיות מואשם הסתה ",
    "posted": "1795283997",
    "found": "2026-11-22T13:33:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7710686027358244117.txt"
   }
  ],
