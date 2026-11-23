@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:33:24.322Z",
+ "updated": "2026-11-23T15:36:18.683Z",
  "items": [
   {
    "id": "479f1d7f27d1",
@@ -26,6 +26,20 @@
    "summary": "בסוף השבוע הגישו שלושה בנקים בקשה להכריז על קבוצת שינטרקו, המתמחה ביבוא ושיווק תבואה, כחדלת פירעון • הטענות למעילה של יותר מ־70 מיליון שקל ע\"י בכיר בחברה, כיצד הסתבך אחד הבעלים, ומה היו הסיבות הנוספות לקשיים שאליהם נקלעה החברה?",
    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1795361139/1224742_kwkx8o.jpg",
    "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "c5f581a24046",
+   "kind": "headline",
+   "title": "מהפך בבורסה: מדדי הדגל ננעלו בעליות, ואלה המרוויחים הגדולים מהדרמה באנבידיה",
+   "source": "גלובס",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001564435#utm_source=RSS",
+   "topic": "econ",
+   "published": "2026-11-23T15:09:00.000Z",
+   "summary": "לאחר שמניות השבבים דחפו את המדדים לעליות, המסחר בת\"א עבר למגמה מעורבת • בנק ישראל הותיר את הריבית ללא שינוי • מניות השבבים מזנקות בעקבות ההודעה על מינויו מחדש של הואנג למנכ\"ל • אבוג'ן מטפסת לאחר שהודיעה על מחיקה מרצון מהבורסה בת\"א • גילת טלקום דיווחה על זינוק של 33% ברווח הנקי ברבעון השלישי • בשוק…",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1673966197/direct/shutterstock_2166915285_wzkuqs.jpg",
+   "score": 2,
    "alsoIn": [],
    "important": false
   },
@@ -237,7 +251,8 @@
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/18/BJa11EKlFxe/BJa11EKlFxe_0_315_3000_1689_0_medium.jpg",
    "score": 4,
    "alsoIn": [
-    "YNET"
+    "YNET",
+    "גלובס"
    ],
    "important": true
   },
@@ -353,8 +368,10 @@
    "summary": "ענקית הטכנולוגיה אמזון רוכשת את סטארטאפ הבינה המלאכותית הישראלי דקארט תמורת 7.5 מיליארד דולר, בעסקה שתשולם במזומן ובמניות. העסקה נחתמה אמש לאחר שמגעים קודמים לרכישת החברה על ידי אנתרופיק ואנבידיה לא הבשילו. דקארט, שנחשבת לאחת מחברות הבולטות בישראל, הייתה קרובה להימכר לאנתרופיק תמורת 6 מיליארד דולר,…",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/SJhjjMlvzx/SJhjjMlvzx_0_98_3000_1688_0_medium.jpg",
    "score": 2,
-   "alsoIn": [],
-   "important": false
+   "alsoIn": [
+    "גלובס"
+   ],
+   "important": true
   },
   {
    "id": "db7a8878366b",
@@ -5611,20 +5628,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zZjNTS01WcmRJZVFJN2RGeC0zaFFOd0hRak9wU21fa2MxMzZJMnpMMHVZYWNJOFJRSm9aWlFJNW05T2pWdGpTY2RrRzRQak9KQS1KMVJJX1M?oc=5",
    "topic": "israelAbroad",
    "published": "2026-11-21T02:07:29.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "72fd76b4737e",
-   "kind": "headline",
-   "title": "Illegal Israeli Settlement Guard Kills Palestinian Near Dura al-Qara, Wounds Another: 10 outlets compared",
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRnk5TjZDZ0tycFh0dTE1UWx1VThRZ3ItODhHVVBNeV81ZkI3Qndrck05SkZicVZEcFFkMGlpSlgwT21jU3hTMmJVT1JrUk9EUzEyUWlEQzlzcU5hbzJPeXVhLVh4YUxzcHJ1LU9kRjBQT3B0eVVQUUlfZHhnS0ZmVTg3MS1CQ3pZQS1FMXFfQW05dEhJMUhKeGVOU2lFZjBUUm5wd0Y5c093dXVpUzdUbFhHU2c4dnZTUHYtc0h4aXRJQjlmSnBUUXJtNzdaMl9KS3dnUGpoSHh0OWYtVG1Na3c3VmYtVHA4YkE?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-11-21T01:58:52.000Z",
    "summary": "",
    "image": "",
    "score": 1,
