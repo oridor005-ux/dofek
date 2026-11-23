@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-23T15:36:18.683Z",
+ "updated": "2026-11-23T15:45:34.450Z",
  "items": [
+  {
+   "id": "f0569fd1af1b",
+   "kind": "headline",
+   "title": "עוד 1,200 מקומות חניה בכניסה לתל אביב: אושר מתחם \"חנה וסע\" בצומת הטייסים",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/hjy0xcz1ql",
+   "topic": "econ",
+   "published": "2026-11-23T15:39:24.000Z",
+   "summary": "המתחם במזרח מטרופולין תל אביב יכלול מסוף לאוטובוסים חשמליים, חניון ענק וחיבור לקו הסגול של הרכבת הקלה. העבודות צפויות להתחיל ב-2026 ולהסתיים ב-2029. במקביל, אושר מסוף אוטובוסים חדש בנתב”ג, שיאפשר חיבור נוח יותר לרכבת ויציע חלופה זולה וגמישה למוניות",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/rk69UCZkQe/rk69UCZkQe_0_0_1280_720_0_medium.jpg",
+   "score": 1,
+   "alsoIn": [],
+   "important": false
+  },
+  {
+   "id": "21c5ed222f3c",
+   "kind": "headline",
+   "title": "הבורסה בתל אביב סיימה בעליות, הדולר נחלש משמעותית",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/yokra14966138",
+   "topic": "econ",
+   "published": "2026-11-23T15:36:51.000Z",
+   "summary": "הבורסה המקומית רשמה עליות של קצת פחות מאחוז במדדים המובילים. במקביל, הדולר, שנסחר סביב 3.35, צנח ל-3.29",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/11/02/BkajO00A8Y/BkajO00A8Y_0_124_3000_1689_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "479f1d7f27d1",
    "kind": "headline",
@@ -5603,34 +5631,6 @@
    "summary": "",
    "image": "",
    "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "57560a0bec47",
-   "kind": "headline",
-   "title": "Takeaways From Trump’s Post-Trip News Conference",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
-   "topic": "world",
-   "published": "2026-11-21T02:15:29.000Z",
-   "summary": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
-   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-takeaways-zphf/20dc-trump-takeaways-zphf-mediumSquareAt3X.jpg",
-   "score": 0,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "e15a4fe2e460",
-   "kind": "headline",
-   "title": "American Jewish Republicans accuse J Street of 'making young Jews anti-Israel, anti-Jewish'",
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zZjNTS01WcmRJZVFJN2RGeC0zaFFOd0hRak9wU21fa2MxMzZJMnpMMHVZYWNJOFJRSm9aWlFJNW05T2pWdGpTY2RrRzRQak9KQS1KMVJJX1M?oc=5",
-   "topic": "israelAbroad",
-   "published": "2026-11-21T02:07:29.000Z",
-   "summary": "",
-   "image": "",
-   "score": 1,
    "alsoIn": [],
    "important": false
   }
