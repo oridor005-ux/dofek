@@ -4580,8 +4580,11 @@
    "caption": "אוקי, מה אתה מציע? #ערבים #פוליטיקה ",
    "posted": "1795356796",
    "found": "2026-11-23T16:13:00Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7710998691443641618.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7710998691443641618.txt",
+   "insightIds": [
+    "ins-2026-11-24-dn02"
+   ]
   },
   {
    "id": "7711067105914801428",
@@ -4591,7 +4594,7 @@
    "caption": "אל תספרו לנו שהעם בחר אחדות - הוא בחר במי שהבטיח מפורשות *בלי אחדות* ...",
    "posted": "1795372727",
    "found": "2026-11-23T16:13:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711067105914801428.txt"
   },
   {
@@ -4612,7 +4615,7 @@
    "caption": "עופר לוי, פצוע צה\"ל ואבא לשני לוחמי גבעתי שנפצעו בעזה, במסר שכל ישראל...",
    "posted": "1795444008",
    "found": "2026-11-23T16:14:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711373277712633096.txt"
   },
   {
@@ -4633,7 +4636,7 @@
    "caption": "#פוריו #בשבילך #ימין #שמאל #שתפו ",
    "posted": "1795449204",
    "found": "2026-11-23T16:14:53Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711395589388274962.txt"
   },
   {
@@ -4654,7 +4657,7 @@
    "caption": "השנאה של הצד השני…",
    "posted": "1795444919",
    "found": "2026-11-23T16:15:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711377192340475144.txt"
   },
   {
@@ -4665,8 +4668,11 @@
    "caption": "בן יודע הכל, אבל צריך להזכיר לו מדי פעם ",
    "posted": "1795436875",
    "found": "2026-11-23T16:16:43Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7711342643451546888.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7711342643451546888.txt",
+   "insightIds": [
+    "ins-2026-11-24-mg01"
+   ]
   },
   {
    "id": "7711297556487212295",
@@ -4676,7 +4682,7 @@
    "caption": "רוצים להגיע לקהל שמפרגן לעסקים ישראלים? עם הדקה הפטריוטית תוכלו לפרסם...",
    "posted": "1795426387",
    "found": "2026-11-23T16:17:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711297556487212295.txt"
   }
  ],
