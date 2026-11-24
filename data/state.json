@@ -819,7 +819,7 @@
   "66b8ce5d67bd"
  ],
  "pending": [],
- "lastRun": "2026-11-24T15:26:25.677Z",
+ "lastRun": "2026-11-24T15:38:33.253Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -846,7 +846,7 @@
    },
    "at": "2026-11-24T15:26:25.677Z"
   },
-  "lastNewItemAt": "2026-11-24T15:26:25.677Z",
+  "lastNewItemAt": "2026-11-24T15:38:33.253Z",
   "lastPushOkAt": "2026-11-24T15:26:25.677Z",
   "googleOkAt": "2026-11-24T15:26:25.677Z"
  },
