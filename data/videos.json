@@ -4569,8 +4569,11 @@
    "caption": "הפסקה מהפוליטיקה. לא בכל יום פותרים בעיה בת 167 שנים #לומדים_עם_טיקטו...",
    "posted": "1795460531",
    "found": "2026-11-24T16:01:30Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7711444227980348679.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7711444227980348679.txt",
+   "insightIds": [
+    "ins-2026-11-25-rh01"
+   ]
   },
   {
    "id": "7711426238241393938",
@@ -4580,7 +4583,7 @@
    "caption": "פיקוח מחירים על חיתולים ומזון תינוקות #כלכלה #כלכלה_בטיקטוק #יוקרהמחי...",
    "posted": "1795456344",
    "found": "2026-11-24T16:02:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711426238241393938.txt"
   },
   {
@@ -4591,8 +4594,11 @@
    "caption": "\"זו החצר האחורית של פצועי צה\"ל.\" עידו נחמד, לוחם נח\"ל בגדוד 931, נפצע...",
    "posted": "1795533156",
    "found": "2026-11-24T16:02:50Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7711756152354163976.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7711756152354163976.txt",
+   "insightIds": [
+    "ins-2026-11-25-wd03"
+   ]
   },
   {
    "id": "7711742744779099399",
@@ -4602,7 +4608,7 @@
    "caption": "תעלומה פלילית בדרום צרפת: גופתו של ישראלי בן 45, תושב דרום הארץ, אותר...",
    "posted": "1795530033",
    "found": "2026-11-24T16:03:02Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711742744779099399.txt"
   },
   {
@@ -4623,7 +4629,7 @@
    "caption": "#מתחתלרדאר #אליזבתהולמס #הונאה ",
    "posted": "1795513709",
    "found": "2026-11-24T16:03:47Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711672635679067412.txt"
   },
   {
@@ -4634,8 +4640,11 @@
    "caption": "ככה בנק לאומי מרוויח על חשבוננו 👆💸 #מתחתלרדאר #כסף #בנק ",
    "posted": "1795451419",
    "found": "2026-11-24T16:04:21Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7711405101323226388.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7711405101323226388.txt",
+   "insightIds": [
+    "ins-2026-11-25-lm02"
+   ]
   },
   {
    "id": "7711766051247131922",
@@ -4645,7 +4654,7 @@
    "caption": "המדינה גמורה",
    "posted": "1795535461",
    "found": "2026-11-24T16:04:36Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711766051247131922.txt"
   },
   {
@@ -4656,7 +4665,7 @@
    "caption": "מה הייתם עונים?",
    "posted": "1795535380",
    "found": "2026-11-24T16:04:59Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711765697969310983.txt"
   },
   {
@@ -4667,7 +4676,7 @@
    "caption": "יש תשובה?",
    "posted": "1795534086",
    "found": "2026-11-24T16:05:45Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7711760147781012742.txt"
   }
  ],
