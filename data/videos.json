@@ -1,125 +1,6 @@
 {
  "items": [
   {
-   "id": "7696542587896745217",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7696542587896745217",
-   "caption": "הדרך מנהריה לקיסריה 🚊 #מתחתלרדאר #תחבורהציבורית #מירירגב ",
-   "posted": "1791990970",
-   "found": "2026-10-15T05:56:51Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696542587896745217.txt"
-  },
-  {
-   "id": "7696497757514747157",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7696497757514747157",
-   "caption": "למי אתה מצביע בבחירות הקרובות? ",
-   "posted": "1791980533",
-   "found": "2026-10-15T05:57:07Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696497757514747157.txt"
-  },
-  {
-   "id": "7696657063996443910",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7696657063996443910",
-   "caption": "פוב: פאנל עם נציג בנטלפיד #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1792017633",
-   "found": "2026-10-15T05:57:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696657063996443910.txt"
-  },
-  {
-   "id": "7697137447704055060",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7697137447704055060",
-   "caption": "בואו נדבר על ביצועים, לא על קישקושים. #ישראל #פוליטיקה #עבודה ",
-   "posted": "1792129477",
-   "found": "2026-10-16T05:51:33Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7697137447704055060.txt",
-   "insightIds": [
-    "ins-2026-10-21-bn01"
-   ]
-  },
-  {
-   "id": "7696872580635987220",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7696872580635987220",
-   "caption": "לכל ישראלי וישראלית מגיע להתחתן כאן ולגדל כאן ילדים. שיחה עם ליכודניק...",
-   "posted": "1792067801",
-   "found": "2026-10-16T05:51:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696872580635987220.txt"
-  },
-  {
-   "id": "7696929104196554004",
-   "channel": "guyzo",
-   "name": "guyzo",
-   "url": "https://www.tiktok.com/@guyzo/video/7696929104196554004",
-   "caption": "שבועיים לבחירות, שאול אמסטרדמסקי רוצה לדעת אם ראשי גוש השינוי מתכווני...",
-   "posted": "1792080962",
-   "found": "2026-10-16T05:52:23Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7696929104196554004.txt",
-   "insightIds": [
-    "ins-2026-10-20-gz8b"
-   ]
-  },
-  {
-   "id": "7696823393420922119",
-   "channel": "roee.lotem",
-   "name": "roee.lotem",
-   "url": "https://www.tiktok.com/@roee.lotem/video/7696823393420922119",
-   "caption": "לא קשור למגדר, בשביל מה כל הפרוגרס הזה אה?",
-   "posted": "1792056351",
-   "found": "2026-10-16T05:52:49Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696823393420922119.txt"
-  },
-  {
-   "id": "7696910683123830023",
-   "channel": "lusil_blek",
-   "name": "lusil_blek",
-   "url": "https://www.tiktok.com/@lusil_blek/video/7696910683123830023",
-   "caption": "פרק תשיעי: הבלוק הטכני של ״המילואימניקים והכלכלית״ בראשות יועז הנדל ו...",
-   "posted": "1792076675",
-   "found": "2026-10-16T05:54:49Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696910683123830023.txt"
-  },
-  {
-   "id": "7696942058870672660",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7696942058870672660",
-   "caption": "⁨\t5 שקרים שראש הממשלה סיפר לנו השבוע - והאמת ❌✅  #הפטריוטים #מתחתלרדא...",
-   "posted": "1792083979",
-   "found": "2026-10-16T05:55:28Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7696942058870672660.txt",
-   "insightIds": [
-    "ins-2026-10-20-kml1"
-   ]
-  },
-  {
-   "id": "7696914029121424660",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7696914029121424660",
-   "caption": "12 ימים לבחירות ואנשים עדיין לא יודעים מי זה יואב סגלוביץ׳ 👆🗳️",
-   "posted": "1792077453",
-   "found": "2026-10-16T05:55:53Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696914029121424660.txt"
-  },
-  {
    "id": "7696853262942752020",
    "channel": "m_laradar",
    "name": "m_laradar",
@@ -4678,10 +4559,119 @@
    "found": "2026-11-24T16:05:45Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7711760147781012742.txt"
+  },
+  {
+   "id": "7712107064855727378",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7712107064855727378",
+   "caption": "הערבים שקרנים מלידה, אבל רק מאז השבעה באוקטובר. #פוליטיקה #ערבים #ערו...",
+   "posted": "1795614858",
+   "found": "2026-11-25T15:48:44Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712107064855727378.txt"
+  },
+  {
+   "id": "7711793013910949141",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7711793013910949141",
+   "caption": "שוב הדיפ סטייט מפריע לבחירות הדמוקרטיות! (עם החלטות שהתקבלו לפניהן) (...",
+   "posted": "1795541738",
+   "found": "2026-11-25T15:50:01Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7711793013910949141.txt"
+  },
+  {
+   "id": "7712133593459395847",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712133593459395847",
+   "caption": "אישום חמור: תושבת כפר סבא בת 34 מואשמת בהברחת יותר מ-25 ליטרים של סם ...",
+   "posted": "1795621034",
+   "found": "2026-11-25T15:50:26Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7712112399645461781",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712112399645461781",
+   "caption": "אירוע מביש במליאת הכנסת: לאחר שחוק ״המואזין״ נדחה, השר בן גביר התבטא ...",
+   "posted": "1795616097",
+   "found": "2026-11-25T15:50:48Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712112399645461781.txt"
+  },
+  {
+   "id": "7712079091494587668",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712079091494587668",
+   "caption": "מליאת הכנסת אישרה בקריאה טרומית את הצעת החוק להקמת ועדת חקירה ממלכתית...",
+   "posted": "1795608344",
+   "found": "2026-11-25T15:51:10Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712079091494587668.txt"
+  },
+  {
+   "id": "7712099732906511634",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712099732906511634",
+   "caption": "תנו חיוך❤️",
+   "posted": "1795613149",
+   "found": "2026-11-25T15:51:39Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712099732906511634.txt"
+  },
+  {
+   "id": "7712096092917075201",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712096092917075201",
+   "caption": "מי שיחק טוב יותר?",
+   "posted": "1795612301",
+   "found": "2026-11-25T15:52:46Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712096092917075201.txt"
+  },
+  {
+   "id": "7712081840810495239",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712081840810495239",
+   "caption": "בהצלחה עם אחמד טיבי השותף ❤️",
+   "posted": "1795608985",
+   "found": "2026-11-25T15:53:09Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712081840810495239.txt"
+  },
+  {
+   "id": "7712129061321051410",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7712129061321051410",
+   "caption": "",
+   "posted": "1795619981",
+   "found": "2026-11-25T15:54:03Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712129061321051410.txt"
+  },
+  {
+   "id": "7712129010242784519",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7712129010242784519",
+   "caption": "",
+   "posted": "1795619970",
+   "found": "2026-11-25T15:54:26Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712129010242784519.txt"
   }
  ],
  "health": {
-  "at": "2026-11-24T16:06:08Z",
+  "at": "2026-11-25T15:54:49Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
