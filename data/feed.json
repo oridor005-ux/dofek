@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-25T15:11:06.428Z",
+ "updated": "2026-11-25T15:23:19.207Z",
  "items": [
+  {
+   "id": "d78ff7cc3c0c",
+   "kind": "headline",
+   "title": "ריקול באתר נקסט: אזהרה לגבי פריט לתינוקות",
+   "source": "ynet כלכלה",
+   "url": "https://www.ynet.co.il/economy/article/s1rvnuek7e",
+   "topic": "econ",
+   "published": "2026-11-25T15:19:41.000Z",
+   "summary": "לקוחות של האתר בארץ קיבלו הודעה לפיה זותה בעיה בטיחותית בשק שינה לתינוקות. הפריט, שאמור להיות בטיחותי יותר משמיכה, עלול לגרום לחנק. מי שקנה את הדגם יקבל החזר כספי",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/25/B1SX3dNJXe/B1SX3dNJXe_1_566_765_431_0_medium.jpg",
+   "score": 0,
+   "alsoIn": [],
+   "important": false
+  },
   {
    "id": "cb1a0befbeeb",
    "kind": "headline",
@@ -5607,20 +5621,6 @@
    "summary": "",
    "image": "",
    "score": 1,
-   "alsoIn": [],
-   "important": false
-  },
-  {
-   "id": "c1bcdb92038a",
-   "kind": "headline",
-   "title": "Australia’s new online safety law opens door to lawsuits against platforms",
-   "source": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQmZuVTdrdkREZ2Zlbm1wck5pLWM2VjVFQVhnYVRKcjY3bFdWX1JIYXRtLUwwaUNfdS00djUyTGtYR3h2WUk4dFBQOXgzazBqUWs0YzE0RzE2OFA5SGJwc1ZQQzY5RVozLTIyajFwbTh2QnROVG9OMXlvZTB4UWlJRE1WRzAxWGx4Nlh1QVFfZ0wtZW13d1REVjduVHRZUXcyekctV1pOVjhONGVOZURqYVFEN3dTVEtlakRmNGRtam1aRVlUVWRvdU9Xbw?oc=5",
-   "topic": "world",
-   "published": "2026-11-24T02:56:00.000Z",
-   "summary": "",
-   "image": "",
-   "score": 0,
    "alsoIn": [],
    "important": false
   }
