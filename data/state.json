@@ -831,10 +831,20 @@
   "95cabf9a3056",
   "1290e3d6324b",
   "d259ade644f1",
-  "2fd80a6bf158"
+  "2fd80a6bf158",
+  "ins-2026-11-26-mg01",
+  "ins-2026-11-26-gz02",
+  "ins-2026-11-26-dm03",
+  "cb7ec7e06a38",
+  "0171ef5b3250",
+  "2c14e4610d53",
+  "ea2ecef621cc",
+  "bb03263d6091",
+  "45aac0962cd9",
+  "bf8da0a299de"
  ],
  "pending": [],
- "lastRun": "2026-11-25T15:23:19.207Z",
+ "lastRun": "2026-11-26T08:03:06.638Z",
  "ownerKeySet": true,
  "ntfyTokenSet": true,
  "testPush": {
@@ -859,12 +869,12 @@
      "HTTP 403": 3
     }
    },
-   "at": "2026-11-25T15:11:06.428Z"
+   "at": "2026-11-26T08:03:06.638Z"
   },
-  "lastNewItemAt": "2026-11-25T15:23:19.207Z",
-  "lastPushOkAt": "2026-11-25T15:11:06.428Z",
-  "googleOkAt": "2026-11-25T15:11:06.428Z"
+  "lastNewItemAt": "2026-11-26T08:03:06.638Z",
+  "lastPushOkAt": "2026-11-26T08:03:06.638Z",
+  "googleOkAt": "2026-11-26T08:03:06.638Z"
  },
- "lastFullAt": "2026-11-25T15:11:06.428Z",
+ "lastFullAt": "2026-11-26T08:03:06.638Z",
  "webPushSubscribers": 2
 }
