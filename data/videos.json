@@ -1,118 +1,6 @@
 {
  "items": [
   {
-   "id": "7696853262942752020",
-   "channel": "m_laradar",
-   "name": "m_laradar",
-   "url": "https://www.tiktok.com/@m_laradar/video/7696853262942752020",
-   "caption": "למי אתם מצביעים בבחירות? 🗳️ שתפו אותנו בתגובות 👇 #בחירות #מתחתלרדאר #...",
-   "posted": "1792063304",
-   "found": "2026-10-16T05:56:02Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696853262942752020.txt"
-  },
-  {
-   "id": "7696997895257591047",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7696997895257591047",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1792096984",
-   "found": "2026-10-16T05:56:33Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696997895257591047.txt"
-  },
-  {
-   "id": "7696993989903355152",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7696993989903355152",
-   "caption": "#פוריו #בשבילך #ימין #שמאל",
-   "posted": "1792096071",
-   "found": "2026-10-16T05:56:42Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696993989903355152.txt"
-  },
-  {
-   "id": "7697198411291888916",
-   "channel": "naftalibennett_official",
-   "name": "naftalibennett_official",
-   "url": "https://www.tiktok.com/@naftalibennett_official/video/7697198411291888916",
-   "caption": "כל האמת על דיבורי עונש המוות של בן גביר>> #אשקלון #ישראל #פוליטיקה ",
-   "posted": "1792143668",
-   "found": "2026-10-17T05:50:24Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7697198411291888916.txt",
-   "insightIds": [
-    "ins-2026-10-20-bn7d"
-   ]
-  },
-  {
-   "id": "7697188447454350612",
-   "channel": "idaneretz",
-   "name": "idaneretz",
-   "url": "https://www.tiktok.com/@idaneretz/video/7697188447454350612",
-   "caption": "שר האוצר סמוטריץ': סיכום קדנציה #כלכלה #כלכלה_בטיקטוק #הציונותהדתית #...",
-   "posted": "1792141349",
-   "found": "2026-10-17T05:52:11Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697188447454350612.txt"
-  },
-  {
-   "id": "7697231396859055380",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7697231396859055380",
-   "caption": "המשפחה מבקשת את עזרת הציבור: לשחרר את יונתן  חייל קרבי שיצא לחופשה בה...",
-   "posted": "1792151347",
-   "found": "2026-10-17T05:52:36Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697231396859055380.txt"
-  },
-  {
-   "id": "7697212875689053460",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7697212875689053460",
-   "caption": "זוג גרוש בקמפיין | חיים לוינסון סמוטריץ' ופייגלין הצטלמו יחד במסיבת ע...",
-   "posted": "1792147035",
-   "found": "2026-10-17T05:52:47Z",
-   "status": "no-speech"
-  },
-  {
-   "id": "7697192380121763093",
-   "channel": "100shetah",
-   "name": "100shetah",
-   "url": "https://www.tiktok.com/@100shetah/video/7697192380121763093",
-   "caption": "כל החיים הצביעו למפלגה אחת, עד שמגיע הרגע שמחליטים אחרת. עוד 10 ימים ...",
-   "posted": "1792142264",
-   "found": "2026-10-17T05:53:18Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697192380121763093.txt"
-  },
-  {
-   "id": "7697277413226466578",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7697277413226466578",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1792162060",
-   "found": "2026-10-17T05:53:52Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697277413226466578.txt"
-  },
-  {
-   "id": "7697275545129700615",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7697275545129700615",
-   "caption": "#פוריו #בשבילך #ימין #שמאל #פוליטיקה ",
-   "posted": "1792161625",
-   "found": "2026-10-17T05:54:13Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697275545129700615.txt"
-  },
-  {
    "id": "7697270582953430290",
    "channel": "hadarmuchtar",
    "name": "hadarmuchtar",
@@ -4674,10 +4562,117 @@
    "insightIds": [
     "ins-2026-11-26-mg01"
    ]
+  },
+  {
+   "id": "7712487880471399732",
+   "channel": "ask__dani",
+   "name": "ask__dani",
+   "url": "https://www.tiktok.com/@ask__dani/video/7712487880471399732",
+   "caption": "פעם ראשונה, ואחרונה, על משפט נתניהו #פוליטיקה #משפטנתניהו ",
+   "posted": "1795703526",
+   "found": "2026-11-26T15:30:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712487880471399732.txt"
+  },
+  {
+   "id": "7712174081679854900",
+   "channel": "guyzo",
+   "name": "guyzo",
+   "url": "https://www.tiktok.com/@guyzo/video/7712174081679854900",
+   "caption": "הכל יותר טוב בארצות הברית! גם הסקרים! האמנם? #מהצדהשני #סקרים #פוליטי...",
+   "posted": "1795630463",
+   "found": "2026-11-26T15:30:33Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712174081679854900.txt"
+  },
+  {
+   "id": "7712433686645394708",
+   "channel": "roee.lotem",
+   "name": "roee.lotem",
+   "url": "https://www.tiktok.com/@roee.lotem/video/7712433686645394708",
+   "caption": "הטייק שלי על תחקיר נוהל יתוש של חן ליברמן בזמן אמת, ועל הקמפיין נגד ה...",
+   "posted": "1795690905",
+   "found": "2026-11-26T15:31:25Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712433686645394708.txt"
+  },
+  {
+   "id": "7712499601760062738",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712499601760062738",
+   "caption": "תיעוד דרמטי מהאוויר: מצוק כורכר שיציבותו התערערה בחוף סמוך לחדרה פוצץ...",
+   "posted": "1795706255",
+   "found": "2026-11-26T15:31:32Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7712489043434540306",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712489043434540306",
+   "caption": "התקדמות משמעותית במגעים הפוליטיים: יו״ר מפלגת ״ישר!״ גדי איזנקוט ויו״...",
+   "posted": "1795703797",
+   "found": "2026-11-26T15:31:37Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7712470977711508744",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712470977711508744",
+   "caption": "זה כל העונש? הניח כרית על פניו של מטופל קשור למשך 30 שניות – ויצא מזה...",
+   "posted": "1795699588",
+   "found": "2026-11-26T15:31:38Z",
+   "status": "failed"
+  },
+  {
+   "id": "7712500564302646549",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7712500564302646549",
+   "caption": "הפטריוטים זו התוכנית בכי מצליחה בטלוויזיה? @דני  #שקרים #עובדות #מתחת...",
+   "posted": "1795706476",
+   "found": "2026-11-26T15:32:36Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712500564302646549.txt"
+  },
+  {
+   "id": "7712466028017683718",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7712466028017683718",
+   "caption": "אריה יצא מכת לב טהור - וזה הסיפור שלו  תעקבו לחלק 2! @אריה ספינר  #כת...",
+   "posted": "1795698435",
+   "found": "2026-11-26T15:33:28Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712466028017683718.txt"
+  },
+  {
+   "id": "7712500700776779016",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712500700776779016",
+   "caption": "לא משחררים",
+   "posted": "1795706509",
+   "found": "2026-11-26T15:34:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712500700776779016.txt"
+  },
+  {
+   "id": "7712488349528771848",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712488349528771848",
+   "caption": "עמוס",
+   "posted": "1795703632",
+   "found": "2026-11-26T15:34:29Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712488349528771848.txt"
   }
  ],
  "health": {
-  "at": "2026-11-25T15:54:49Z",
+  "at": "2026-11-26T15:34:53Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
