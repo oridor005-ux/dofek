@@ -4568,7 +4568,7 @@
    "caption": "הערבים שקרנים מלידה, אבל רק מאז השבעה באוקטובר. #פוליטיקה #ערבים #ערו...",
    "posted": "1795614858",
    "found": "2026-11-25T15:48:44Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712107064855727378.txt"
   },
   {
@@ -4579,8 +4579,11 @@
    "caption": "שוב הדיפ סטייט מפריע לבחירות הדמוקרטיות! (עם החלטות שהתקבלו לפניהן) (...",
    "posted": "1795541738",
    "found": "2026-11-25T15:50:01Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7711793013910949141.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7711793013910949141.txt",
+   "insightIds": [
+    "ins-2026-11-26-gz02"
+   ]
   },
   {
    "id": "7712133593459395847",
@@ -4600,7 +4603,7 @@
    "caption": "אירוע מביש במליאת הכנסת: לאחר שחוק ״המואזין״ נדחה, השר בן גביר התבטא ...",
    "posted": "1795616097",
    "found": "2026-11-25T15:50:48Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712112399645461781.txt"
   },
   {
@@ -4611,7 +4614,7 @@
    "caption": "מליאת הכנסת אישרה בקריאה טרומית את הצעת החוק להקמת ועדת חקירה ממלכתית...",
    "posted": "1795608344",
    "found": "2026-11-25T15:51:10Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712079091494587668.txt"
   },
   {
@@ -4622,7 +4625,7 @@
    "caption": "תנו חיוך❤️",
    "posted": "1795613149",
    "found": "2026-11-25T15:51:39Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712099732906511634.txt"
   },
   {
@@ -4633,7 +4636,7 @@
    "caption": "מי שיחק טוב יותר?",
    "posted": "1795612301",
    "found": "2026-11-25T15:52:46Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712096092917075201.txt"
   },
   {
@@ -4644,7 +4647,7 @@
    "caption": "בהצלחה עם אחמד טיבי השותף ❤️",
    "posted": "1795608985",
    "found": "2026-11-25T15:53:09Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712081840810495239.txt"
   },
   {
@@ -4655,7 +4658,7 @@
    "caption": "",
    "posted": "1795619981",
    "found": "2026-11-25T15:54:03Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712129061321051410.txt"
   },
   {
@@ -4666,8 +4669,11 @@
    "caption": "",
    "posted": "1795619970",
    "found": "2026-11-25T15:54:26Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7712129010242784519.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7712129010242784519.txt",
+   "insightIds": [
+    "ins-2026-11-26-mg01"
+   ]
   }
  ],
  "health": {
