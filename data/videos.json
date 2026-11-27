@@ -1,128 +1,6 @@
 {
  "items": [
   {
-   "id": "7697270582953430290",
-   "channel": "hadarmuchtar",
-   "name": "hadarmuchtar",
-   "url": "https://www.tiktok.com/@hadarmuchtar/video/7697270582953430290",
-   "caption": "מפרקים את הפרלמנטים המזויפים של בנט :) שתפו 💙 #פוריו #בשבילך #ימין #שמאל",
-   "posted": "1792160471",
-   "found": "2026-10-17T05:54:56Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697270582953430290.txt"
-  },
-  {
-   "id": "7697158262302493959",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7697158262302493959",
-   "caption": "",
-   "posted": "1792134322",
-   "found": "2026-10-17T05:55:39Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7697158262302493959.txt",
-   "insightIds": [
-    "ins-2026-10-21-ym01"
-   ]
-  },
-  {
-   "id": "7696770269410495751",
-   "channel": "yinonmagal",
-   "name": "yinonmagal",
-   "url": "https://www.tiktok.com/@yinonmagal/video/7696770269410495751",
-   "caption": "זה אירוע מטורף ואני לא מבין איך בליכוד לא משתמשים בריאיון הזה של אייז...",
-   "posted": "1792043981",
-   "found": "2026-10-17T05:56:55Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7696770269410495751.txt",
-   "insightIds": [
-    "ins-2026-10-19-mg5r"
-   ]
-  },
-  {
-   "id": "7697664909345066258",
-   "channel": "ask__dani",
-   "name": "ask__dani",
-   "url": "https://www.tiktok.com/@ask__dani/video/7697664909345066258",
-   "caption": "מי אמר שלטון צללים ולא קיבל? #בחירות #פוליטיקה #חרדים ",
-   "posted": "1792252282",
-   "found": "2026-10-18T05:50:55Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7697664909345066258.txt",
-   "insightIds": [
-    "ins-2026-10-21-ad01"
-   ]
-  },
-  {
-   "id": "7696889972351126802",
-   "channel": "miri.regev",
-   "name": "miri.regev",
-   "url": "https://www.tiktok.com/@miri.regev/video/7696889972351126802",
-   "caption": "גם באשקלון יודעים ❤️ מצביעים ״מחל״ בקלפי. הליכוד בראשות רה״מ בנימין נ...",
-   "posted": "1792071853",
-   "found": "2026-10-18T05:52:10Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696889972351126802.txt"
-  },
-  {
-   "id": "7696579020309155080",
-   "channel": "miri.regev",
-   "name": "miri.regev",
-   "url": "https://www.tiktok.com/@miri.regev/video/7696579020309155080",
-   "caption": "בשוק של אשדוד ❤️ מצביעים ״מחל״ בקלפי. הליכוד בראשות רה״מ בנימין נתניה...",
-   "posted": "1791999455",
-   "found": "2026-10-18T05:52:43Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7696579020309155080.txt"
-  },
-  {
-   "id": "7697739671803137300",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7697739671803137300",
-   "caption": "",
-   "posted": "1792269692",
-   "found": "2026-10-18T05:54:24Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697739671803137300.txt"
-  },
-  {
-   "id": "7697721664766823701",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7697721664766823701",
-   "caption": "",
-   "posted": "1792265499",
-   "found": "2026-10-18T05:55:44Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697721664766823701.txt"
-  },
-  {
-   "id": "7697719550384835861",
-   "channel": "mordechaidavid2026",
-   "name": "mordechaidavid2026",
-   "url": "https://www.tiktok.com/@mordechaidavid2026/video/7697719550384835861",
-   "caption": "",
-   "posted": "1792265007",
-   "found": "2026-10-18T05:56:54Z",
-   "status": "no-claims",
-   "transcript": "data/transcripts/tt-7697719550384835861.txt"
-  },
-  {
-   "id": "7696872679839780117",
-   "channel": "radio103fm",
-   "name": "radio103fm",
-   "url": "https://www.tiktok.com/@radio103fm/video/7696872679839780117",
-   "caption": "גיא פלג: ביבי מפחד מאוריך #גיאפלג",
-   "posted": "1792067825",
-   "found": "2026-10-18T05:57:47Z",
-   "status": "checked",
-   "transcript": "data/transcripts/tt-7696872679839780117.txt",
-   "insightIds": [
-    "ins-2026-10-19-pl7u"
-   ]
-  },
-  {
    "id": "7697974259448024327",
    "channel": "ask__dani",
    "name": "ask__dani",
@@ -4675,10 +4553,118 @@
    "found": "2026-11-26T15:34:29Z",
    "status": "no-claims",
    "transcript": "data/transcripts/tt-7712488349528771848.txt"
+  },
+  {
+   "id": "7712818555582041365",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712818555582041365",
+   "caption": "״הוא אהב בכל הלב, והשמחה שלו האירה את הבית שלנו״, סיפרה שרון ויינשטיי...",
+   "posted": "1795780514",
+   "found": "2026-11-27T15:18:06Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712818555582041365.txt"
+  },
+  {
+   "id": "7712805671166627093",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712805671166627093",
+   "caption": "ההתרעה של קושנר | חיים לוינסון השבוע אמר ג'ארד קושנר, חתנו של טראמפ ו...",
+   "posted": "1795777516",
+   "found": "2026-11-27T15:18:15Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7712793552568192277",
+   "channel": "100shetah",
+   "name": "100shetah",
+   "url": "https://www.tiktok.com/@100shetah/video/7712793552568192277",
+   "caption": "דיברתם על משהו, פתחתם אינסטגרם ופתאום קפצה לכם מודעה בדיוק עליו? מנכ״...",
+   "posted": "1795774694",
+   "found": "2026-11-27T15:18:23Z",
+   "status": "no-speech"
+  },
+  {
+   "id": "7712787192338337044",
+   "channel": "m_laradar",
+   "name": "m_laradar",
+   "url": "https://www.tiktok.com/@m_laradar/video/7712787192338337044",
+   "caption": "מה זה בכלל? #כאן11 #צה״ל #מתחתלרדאר @דני  ",
+   "posted": "1795773214",
+   "found": "2026-11-27T15:19:17Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712787192338337044.txt"
+  },
+  {
+   "id": "7712808224289754376",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712808224289754376",
+   "caption": "",
+   "posted": "1795778112",
+   "found": "2026-11-27T15:19:33Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712808224289754376.txt"
+  },
+  {
+   "id": "7712808030483549447",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712808030483549447",
+   "caption": "כנסו לביו שלי והשאירו פרטים להתפקדות ",
+   "posted": "1795778065",
+   "found": "2026-11-27T15:20:23Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712808030483549447.txt"
+  },
+  {
+   "id": "7712754700575116551",
+   "channel": "hadarmuchtar",
+   "name": "hadarmuchtar",
+   "url": "https://www.tiktok.com/@hadarmuchtar/video/7712754700575116551",
+   "caption": "שואלת בשביל חברה",
+   "posted": "1795765650",
+   "found": "2026-11-27T15:20:41Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712754700575116551.txt"
+  },
+  {
+   "id": "7712857570574093575",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7712857570574093575",
+   "caption": "",
+   "posted": "1795789599",
+   "found": "2026-11-27T15:21:00Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712857570574093575.txt"
+  },
+  {
+   "id": "7712856120754310401",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7712856120754310401",
+   "caption": "איזנקוט: ״מי שחושב שאני מחפש כיסא תמורת ויתור על ערכים והעקרונות לשמם...",
+   "posted": "1795789262",
+   "found": "2026-11-27T15:21:16Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712856120754310401.txt"
+  },
+  {
+   "id": "7712590852895329544",
+   "channel": "yinonmagal",
+   "name": "yinonmagal",
+   "url": "https://www.tiktok.com/@yinonmagal/video/7712590852895329544",
+   "caption": "אוי זה טוב🤣",
+   "posted": "1795727506",
+   "found": "2026-11-27T15:21:55Z",
+   "status": "new",
+   "transcript": "data/transcripts/tt-7712590852895329544.txt"
   }
  ],
  "health": {
-  "at": "2026-11-26T15:34:53Z",
+  "at": "2026-11-27T15:22:18Z",
   "channelsOk": 22,
   "channelsFail": 1,
   "transcribed": 10
