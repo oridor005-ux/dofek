@@ -4571,8 +4571,11 @@
    "caption": "פעם ראשונה, ואחרונה, על משפט נתניהו #פוליטיקה #משפטנתניהו ",
    "posted": "1795703526",
    "found": "2026-11-26T15:30:00Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7712487880471399732.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7712487880471399732.txt",
+   "insightIds": [
+    "ins-2026-11-27-ol01"
+   ]
   },
   {
    "id": "7712174081679854900",
@@ -4582,7 +4585,7 @@
    "caption": "הכל יותר טוב בארצות הברית! גם הסקרים! האמנם? #מהצדהשני #סקרים #פוליטי...",
    "posted": "1795630463",
    "found": "2026-11-26T15:30:33Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712174081679854900.txt"
   },
   {
@@ -4593,7 +4596,7 @@
    "caption": "הטייק שלי על תחקיר נוהל יתוש של חן ליברמן בזמן אמת, ועל הקמפיין נגד ה...",
    "posted": "1795690905",
    "found": "2026-11-26T15:31:25Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712433686645394708.txt"
   },
   {
@@ -4634,8 +4637,11 @@
    "caption": "הפטריוטים זו התוכנית בכי מצליחה בטלוויזיה? @דני  #שקרים #עובדות #מתחת...",
    "posted": "1795706476",
    "found": "2026-11-26T15:32:36Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7712500564302646549.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7712500564302646549.txt",
+   "insightIds": [
+    "ins-2026-11-27-lr01"
+   ]
   },
   {
    "id": "7712466028017683718",
@@ -4645,7 +4651,7 @@
    "caption": "אריה יצא מכת לב טהור - וזה הסיפור שלו  תעקבו לחלק 2! @אריה ספינר  #כת...",
    "posted": "1795698435",
    "found": "2026-11-26T15:33:28Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712466028017683718.txt"
   },
   {
@@ -4656,7 +4662,7 @@
    "caption": "לא משחררים",
    "posted": "1795706509",
    "found": "2026-11-26T15:34:17Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712500700776779016.txt"
   },
   {
@@ -4667,7 +4673,7 @@
    "caption": "עמוס",
    "posted": "1795703632",
    "found": "2026-11-26T15:34:29Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712488349528771848.txt"
   }
  ],
