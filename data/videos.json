@@ -4562,7 +4562,7 @@
    "caption": "״הוא אהב בכל הלב, והשמחה שלו האירה את הבית שלנו״, סיפרה שרון ויינשטיי...",
    "posted": "1795780514",
    "found": "2026-11-27T15:18:06Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712818555582041365.txt"
   },
   {
@@ -4593,8 +4593,11 @@
    "caption": "מה זה בכלל? #כאן11 #צה״ל #מתחתלרדאר @דני  ",
    "posted": "1795773214",
    "found": "2026-11-27T15:19:17Z",
-   "status": "new",
-   "transcript": "data/transcripts/tt-7712787192338337044.txt"
+   "status": "checked",
+   "transcript": "data/transcripts/tt-7712787192338337044.txt",
+   "insightIds": [
+    "ins-2026-11-28-yt01"
+   ]
   },
   {
    "id": "7712808224289754376",
@@ -4604,7 +4607,7 @@
    "caption": "",
    "posted": "1795778112",
    "found": "2026-11-27T15:19:33Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712808224289754376.txt"
   },
   {
@@ -4615,7 +4618,7 @@
    "caption": "כנסו לביו שלי והשאירו פרטים להתפקדות ",
    "posted": "1795778065",
    "found": "2026-11-27T15:20:23Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712808030483549447.txt"
   },
   {
@@ -4626,7 +4629,7 @@
    "caption": "שואלת בשביל חברה",
    "posted": "1795765650",
    "found": "2026-11-27T15:20:41Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712754700575116551.txt"
   },
   {
@@ -4637,7 +4640,7 @@
    "caption": "",
    "posted": "1795789599",
    "found": "2026-11-27T15:21:00Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712857570574093575.txt"
   },
   {
@@ -4648,7 +4651,7 @@
    "caption": "איזנקוט: ״מי שחושב שאני מחפש כיסא תמורת ויתור על ערכים והעקרונות לשמם...",
    "posted": "1795789262",
    "found": "2026-11-27T15:21:16Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712856120754310401.txt"
   },
   {
@@ -4659,7 +4662,7 @@
    "caption": "אוי זה טוב🤣",
    "posted": "1795727506",
    "found": "2026-11-27T15:21:55Z",
-   "status": "new",
+   "status": "no-claims",
    "transcript": "data/transcripts/tt-7712590852895329544.txt"
   }
  ],
